@@ -7,7 +7,7 @@
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            font-family: 'Courier New', monospace;
             background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
             color: #fff;
             min-height: 100vh;
@@ -19,16 +19,16 @@
         header {
             text-align: center;
             padding: 40px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.1);
+            border-bottom: 2px solid #6366f1;
             margin-bottom: 40px;
         }
-        h1 { font-size: 3em; margin-bottom: 10px; }
-        .subtitle { color: #a0a0a0; font-size: 1.2em; }
+        h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 0 0 20px #6366f1; }
+        .subtitle { color: #a0a0a0; font-size: 1.1em; }
         
-        /* Status Grid */
+        /* Grid */
         .grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
             gap: 20px;
             margin-bottom: 40px;
         }
@@ -36,167 +36,248 @@
         /* Cards */
         .card {
             background: rgba(255,255,255,0.05);
-            border-radius: 16px;
-            padding: 24px;
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.1);
-            transition: transform 0.3s ease;
+            border-radius: 12px;
+            padding: 20px;
+            border: 2px solid rgba(99, 102, 241, 0.3);
+            transition: all 0.3s ease;
         }
-        .card:hover { transform: translateY(-5px); }
-        .card h3 { font-size: 1.5em; margin-bottom: 16px; display: flex; align-items: center; gap: 10px; }
-        
-        /* Status Indicators */
-        .status { display: inline-flex; align-items: center; gap: 8px; padding: 6px 12px; border-radius: 20px; font-size: 0.9em; }
-        .status.online { background: rgba(34, 197, 94, 0.2); color: #4ade80; }
-        .status.offline { background: rgba(239, 68, 68, 0.2); color: #f87171; }
-        .status.building { background: rgba(251, 191, 36, 0.2); color: #fbbf24; }
-        .status-dot { width: 8px; height: 8px; border-radius: 50%; animation: pulse 2s infinite; }
-        .status.online .status-dot { background: #4ade80; }
-        .status.offline .status-dot { background: #f87171; }
-        .status.building .status-dot { background: #fbbf24; }
-        
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.5; }
+        .card:hover { 
+            transform: translateY(-5px);
+            border-color: #6366f1;
+            box-shadow: 0 10px 40px rgba(99, 102, 241, 0.3);
         }
+        .card h3 { 
+            font-size: 1.3em; 
+            margin-bottom: 16px; 
+            display: flex; 
+            align-items: center; 
+            gap: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 10px;
+        }
+        
+        /* Pokémon Display */
+        .pokemon-container {
+            text-align: center;
+            padding: 20px;
+            background: rgba(0,0,0,0.3);
+            border-radius: 8px;
+            margin-bottom: 16px;
+        }
+        .pokemon-sprite {
+            width: 96px;
+            height: 96px;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+            transition: all 0.3s ease;
+        }
+        .pokemon-sprite.online { 
+            filter: drop-shadow(0 0 10px #4ade80);
+            animation: bounce 1s infinite;
+        }
+        .pokemon-sprite.offline { 
+            filter: grayscale(100%) drop-shadow(0 0 10px #f87171);
+            opacity: 0.6;
+        }
+        .pokemon-sprite.building { 
+            filter: drop-shadow(0 0 10px #fbbf24);
+            animation: shake 0.5s infinite;
+        }
+        
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        @keyframes shake {
+            0%, 100% { transform: rotate(-5deg); }
+            50% { transform: rotate(5deg); }
+        }
+        
+        .pokemon-name {
+            margin-top: 10px;
+            font-size: 0.9em;
+            color: #a0a0a0;
+        }
+        
+        /* Status Badges */
+        .status-badge {
+            display: inline-block;
+            padding: 4px 12px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: bold;
+            text-transform: uppercase;
+        }
+        .status-online { background: #22c55e; color: #000; }
+        .status-offline { background: #ef4444; color: #fff; }
+        .status-building { background: #fbbf24; color: #000; }
+        .status-standby { background: #6366f1; color: #fff; }
         
         /* Metrics */
-        .metric { margin: 12px 0; }
-        .metric-label { color: #a0a0a0; font-size: 0.9em; margin-bottom: 4px; }
-        .metric-value { font-size: 1.8em; font-weight: bold; }
+        .metric { 
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        .metric:last-child { border-bottom: none; }
+        .metric-label { color: #a0a0a0; font-size: 0.9em; }
+        .metric-value { font-weight: bold; color: #fff; }
         
         /* Activity Log */
-        .activity-log { max-height: 300px; overflow-y: auto; }
+        .activity-section {
+            margin-top: 40px;
+        }
+        .activity-log { 
+            max-height: 400px; 
+            overflow-y: auto; 
+            background: rgba(0,0,0,0.3);
+            border-radius: 8px;
+            padding: 16px;
+        }
         .activity-item {
             padding: 12px;
             border-left: 3px solid #6366f1;
             background: rgba(99, 102, 241, 0.1);
             margin: 8px 0;
             border-radius: 0 8px 8px 0;
+            font-family: 'Courier New', monospace;
         }
-        .activity-time { color: #a0a0a0; font-size: 0.85em; }
-        
-        /* Animations */
-        .rocket { font-size: 3em; animation: launch 3s infinite; }
-        @keyframes launch {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
+        .activity-time { color: #6366f1; font-size: 0.85em; margin-bottom: 4px; }
         
         /* Footer */
-        footer { text-align: center; padding: 40px 0; color: #a0a0a0; }
+        footer { 
+            text-align: center; 
+            padding: 40px 0; 
+            color: #666;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            margin-top: 40px;
+        }
+        
+        /* Scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: rgba(0,0,0,0.3); }
+        ::-webkit-scrollbar-thumb { background: #6366f1; border-radius: 4px; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
             <h1>🎯 Mission Control</h1>
-            <p class="subtitle">YBOT Operations Dashboard</p>
+            <p class="subtitle">YBOT Operations Command Center</p>
         </header>
         
         <div class="grid">
             <!-- KINKIN Project -->
             <div class="card">
                 <h3>🚀 KINKIN</h3>
-                <div class="status building">
-                    <span class="status-dot"></span>
-                    Building
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu" class="pokemon-sprite building" id="kinkin-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='⚡'">
+                    <div class="pokemon-name">Pikachu ⚡</div>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Status</div>
-                    <div class="metric-value">Deploying</div>
+                    <span class="metric-label">Status</span>
+                    <span class="status-badge status-building">Deploying</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">URL</div>
-                    <div class="metric-value" style="font-size: 1em;">kinkin.vercel.app</div>
+                    <span class="metric-label">URL</span>
+                    <span class="metric-value" style="font-size: 0.8em;">kinkin.vercel.app</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Last Deploy</div>
-                    <div class="metric-value" style="font-size: 1em;" id="kinkin-time">--</div>
+                    <span class="metric-label">Build</span>
+                    <span class="metric-value" id="kinkin-build">#5</span>
                 </div>
             </div>
             
             <!-- OrbitX Project -->
             <div class="card">
                 <h3>🌌 OrbitX NFT</h3>
-                <div class="status offline">
-                    <span class="status-dot"></span>
-                    Pre-Launch
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" class="pokemon-sprite offline" id="orbitx-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                    <div class="pokemon-name">Mewtwo 🔮</div>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Phase</div>
-                    <div class="metric-value">1 - Fine Arts</div>
+                    <span class="metric-label">Phase</span>
+                    <span class="metric-value">1 - Fine Arts</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Status</div>
-                    <div class="metric-value">Code Complete</div>
+                    <span class="metric-label">Status</span>
+                    <span class="status-badge status-standby">Pre-Launch</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Testnet</div>
-                    <div class="metric-value">Pending</div>
+                    <span class="metric-label">Testnet</span>
+                    <span class="metric-value">Pending</span>
                 </div>
             </div>
             
             <!-- System Health -->
             <div class="card">
-                <h3>💻 System Health</h3>
-                <div class="status online">
-                    <span class="status-dot"></span>
-                    Online
+                <h3>💻 System</h3>
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" alt="Ditto" class="pokemon-sprite online" id="system-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔄'">
+                    <div class="pokemon-name">Ditto 🔄</div>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Gateway</div>
-                    <div class="metric-value">Running</div>
+                    <span class="metric-label">Gateway</span>
+                    <span class="status-badge status-online">Running</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Uptime</div>
-                    <div class="metric-value" id="uptime">--</div>
+                    <span class="metric-label">Uptime</span>
+                    <span class="metric-value" id="uptime">--</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Active Sessions</div>
-                    <div class="metric-value" id="sessions">--</div>
+                    <span class="metric-label">Sessions</span>
+                    <span class="metric-value" id="sessions">--</span>
                 </div>
             </div>
             
             <!-- Agent Status -->
             <div class="card">
                 <h3>🤖 Agents</h3>
-                <div class="status online">
-                    <span class="status-dot"></span>
-                    Active
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif" alt="Articuno" class="pokemon-sprite online" id="ybot-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='❄️'">
+                    <div class="pokemon-name">Articuno ❄️</div>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">YBOT (Main)</div>
-                    <div class="metric-value">Online ⚡</div>
+                    <span class="metric-label">YBOT (Main)</span>
+                    <span class="status-badge status-online">Online ⚡</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">KinKin Agent</div>
-                    <div class="metric-value">Standby</div>
+                    <span class="metric-label">KinKin Agent</span>
+                    <span class="status-badge status-standby">Standby</span>
                 </div>
                 <div class="metric">
-                    <div class="metric-label">Heartbeat</div>
-                    <div class="metric-value">Every 30m</div>
+                    <span class="metric-label">Heartbeat</span>
+                    <span class="metric-value">30 min</span>
                 </div>
             </div>
         </div>
         
         <!-- Activity Log -->
-        <div class="card">
-            <h3>📋 Recent Activity</h3>
+        <div class="card activity-section">
+            <h3>📋 Activity Log</h3>
             <div class="activity-log" id="activity-log">
                 <div class="activity-item">
-                    <div class="activity-time">Just now</div>
-                    <div>Mission Control Dashboard initialized</div>
+                    <div class="activity-time">Initializing...</div>
+                    <div>Mission Control Dashboard loaded</div>
                 </div>
             </div>
         </div>
         
         <footer>
-            <p>YBOT Mission Control • Built with ⚡ by YBOT</p>
+            <p>🎮 YBOT Mission Control • Powered by Pokémon & ⚡</p>
         </footer>
     </div>
     
     <script>
+        // Pokémon assignments
+        const POKEMON = {
+            ybot: { id: 144, name: 'Articuno' },      // Legendary ice bird - main agent
+            kinkin: { id: 25, name: 'Pikachu' },       // Electric - fast deployments
+            orbitx: { id: 150, name: 'Mewtwo' },       // Psychic - powerful AI
+            system: { id: 132, name: 'Ditto' }         // Transform - adapts to everything
+        };
+        
         // Update uptime
         function updateUptime() {
             const start = new Date('2026-05-28T15:00:00Z');
@@ -208,24 +289,57 @@
         }
         
         // Add activity items
-        function addActivity(text) {
+        function addActivity(text, type = 'info') {
             const log = document.getElementById('activity-log');
             const item = document.createElement('div');
             item.className = 'activity-item';
             item.innerHTML = `
-                <div class="activity-time">${new Date().toLocaleTimeString()}</div>
+                <div class="activity-time">${new Date().toLocaleTimeString()} [${type.toUpperCase()}]</div>
                 <div>${text}</div>
             `;
             log.insertBefore(item, log.firstChild);
+            
+            // Keep only last 50 items
+            while (log.children.length > 50) {
+                log.removeChild(log.lastChild);
+            }
+        }
+        
+        // Update Pokémon sprite based on status
+        function updatePokemonStatus(pokemonId, status) {
+            const sprite = document.getElementById(`${pokemonId}-pokemon`);
+            if (sprite) {
+                sprite.className = `pokemon-sprite ${status}`;
+            }
+        }
+        
+        // Simulate live data (replace with real API calls later)
+        function simulateUpdates() {
+            const events = [
+                'KINKIN build completed successfully',
+                'Vercel deployment triggered',
+                'Heartbeat scan completed',
+                'Market intelligence updated',
+                'Gateway health check passed',
+                'New session started',
+                'Cron job executed: daily-briefing'
+            ];
+            
+            const randomEvent = events[Math.floor(Math.random() * events.length)];
+            addActivity(randomEvent);
         }
         
         // Initialize
         updateUptime();
         setInterval(updateUptime, 60000);
         
-        // Simulate live updates
-        setTimeout(() => addActivity('KINKIN deployment triggered'), 2000);
-        setTimeout(() => addActivity('Vercel build in progress...'), 5000);
+        // Simulate activity every 10 seconds
+        setInterval(simulateUpdates, 10000);
+        
+        // Initial activities
+        setTimeout(() => addActivity('Mission Control initialized', 'success'), 1000);
+        setTimeout(() => addActivity('Connected to Vercel API', 'info'), 2000);
+        setTimeout(() => addActivity('KINKIN deployment detected', 'warning'), 3000);
     </script>
 </body>
 </html>

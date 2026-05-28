@@ -1,1 +1,7 @@
-{"framework": "static"}
+{
+  "buildCommand": "echo 'Static site'",
+  "outputDirectory": ".",
+  "github": {
+    "silent": true
+  }
+}
