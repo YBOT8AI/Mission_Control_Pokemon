@@ -25,6 +25,48 @@
         h1 { font-size: 2.5em; margin-bottom: 10px; text-shadow: 0 0 20px #6366f1; }
         .subtitle { color: #a0a0a0; font-size: 1.1em; }
         
+        /* Taskbar */
+        .taskbar {
+            background: rgba(0,0,0,0.4);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(99, 102, 241, 0.3);
+        }
+        .taskbar-title {
+            font-size: 0.9em;
+            color: #a0a0a0;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .project-bar {
+            margin-bottom: 12px;
+        }
+        .project-bar:last-child { margin-bottom: 0; }
+        .project-info {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 6px;
+            font-size: 0.9em;
+        }
+        .project-name { font-weight: bold; }
+        .project-percent { color: #6366f1; }
+        .progress-track {
+            height: 8px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #6366f1, #8b5cf6);
+            border-radius: 4px;
+            transition: width 0.5s ease;
+        }
+        .progress-fill.complete { background: linear-gradient(90deg, #22c55e, #4ade80); }
+        .progress-fill.active { background: linear-gradient(90deg, #fbbf24, #f59e0b); }
+        
         /* Grid */
         .grid {
             display: grid;
@@ -167,7 +209,131 @@
             <p class="subtitle">YBOT Operations Command Center</p>
         </header>
         
+        <!-- Project Progress Taskbar -->
+        <div class="taskbar">
+            <div class="taskbar-title">📊 Project Progress Overview</div>
+            
+            <div class="project-bar">
+                <div class="project-info">
+                    <span class="project-name">🌌 OrbitX NFT</span>
+                    <span class="project-percent" id="orbitx-percent">75%</span>
+                </div>
+                <div class="progress-track">
+                    <div class="progress-fill active" style="width: 75%;" id="orbitx-progress"></div>
+                </div>
+            </div>
+            
+            <div class="project-bar">
+                <div class="project-info">
+                    <span class="project-name">🚀 KINKIN</span>
+                    <span class="project-percent" id="kinkin-percent">60%</span>
+                </div>
+                <div class="progress-track">
+                    <div class="progress-fill active" style="width: 60%;" id="kinkin-progress"></div>
+                </div>
+            </div>
+            
+            <div class="project-bar">
+                <div class="project-info">
+                    <span class="project-name">💼 TechWealth</span>
+                    <span class="project-percent" id="techwealth-percent">15%</span>
+                </div>
+                <div class="progress-track">
+                    <div class="progress-fill" style="width: 15%;" id="techwealth-progress"></div>
+                </div>
+            </div>
+            
+            <div class="project-bar">
+                <div class="project-info">
+                    <span class="project-name">🐾 WPO (World Paws Org)</span>
+                    <span class="project-percent" id="wpo-percent">5%</span>
+                </div>
+                <div class="progress-track">
+                    <div class="progress-fill" style="width: 5%;" id="wpo-progress"></div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Active Agents & Jobs -->
+        <div class="taskbar" style="margin-top: 20px;">
+            <div class="taskbar-title">🤖 Active Agents & Scheduled Jobs</div>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
+                <div>
+                    <div style="font-size: 0.85em; color: #a0a0a0; margin-bottom: 5px;">Main Agent</div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span class="status-badge status-online">YBOT ⚡</span>
+                        <span style="font-size: 0.85em; color: #a0a0a0;">Online</span>
+                    </div>
+                </div>
+                <div>
+                    <div style="font-size: 0.85em; color: #a0a0a0; margin-bottom: 5px;">Heartbeat Scan</div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span class="status-badge status-online">ACTIVE</span>
+                        <span style="font-size: 0.85em; color: #a0a0a0;">Every 30 min</span>
+                    </div>
+                </div>
+                <div>
+                    <div style="font-size: 0.85em; color: #a0a0a0; margin-bottom: 5px;">CEO Briefing</div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span class="status-badge status-standby">SCHEDULED</span>
+                        <span style="font-size: 0.85em; color: #a0a0a0;">2x daily</span>
+                    </div>
+                </div>
+                <div>
+                    <div style="font-size: 0.85em; color: #a0a0a0; margin-bottom: 5px;">Gateway</div>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <span class="status-badge status-online">RUNNING</span>
+                        <span style="font-size: 0.85em; color: #a0a0a0;">srv1595219</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Future Goals -->
+        <div class="taskbar" style="margin-top: 20px;">
+            <div class="taskbar-title">🎯 Future Goals & Expansion Targets</div>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+                <div style="background: rgba(99, 102, 241, 0.1); padding: 12px; border-radius: 8px; border-left: 3px solid #6366f1;">
+                    <div style="font-size: 0.9em; font-weight: bold; margin-bottom: 6px;">🌌 OrbitX Phase 2</div>
+                    <div style="font-size: 0.85em; color: #a0a0a0;">Music NFT marketplace expansion</div>
+                </div>
+                <div style="background: rgba(34, 197, 94, 0.1); padding: 12px; border-radius: 8px; border-left: 3px solid #22c55e;">
+                    <div style="font-size: 0.9em; font-weight: bold; margin-bottom: 6px;">🚀 KINKIN Mobile App</div>
+                    <div style="font-size: 0.85em; color: #a0a0a0;">iOS + Android launch</div>
+                </div>
+                <div style="background: rgba(251, 191, 36, 0.1); padding: 12px; border-radius: 8px; border-left: 3px solid #fbbf24;">
+                    <div style="font-size: 0.9em; font-weight: bold; margin-bottom: 6px;">💼 TechWealth Launch</div>
+                    <div style="font-size: 0.85em; color: #a0a0a0;">Financial tech platform MVP</div>
+                </div>
+                <div style="background: rgba(239, 68, 68, 0.1); padding: 12px; border-radius: 8px; border-left: 3px solid #ef4444;">
+                    <div style="font-size: 0.9em; font-weight: bold; margin-bottom: 6px;">🐾 WPO Token</div>
+                    <div style="font-size: 0.85em; color: #a0a0a0;">World Paws Organization token launch</div>
+                </div>
+            </div>
+        </div>
+        
         <div class="grid">
+            <!-- OrbitX Project -->
+            <div class="card">
+                <h3>🌌 OrbitX NFT</h3>
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" class="pokemon-sprite offline" id="orbitx-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                    <div class="pokemon-name">Mewtwo 🔮</div>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Phase</span>
+                    <span class="metric-value">1 - Fine Arts</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Status</span>
+                    <span class="status-badge status-standby">Pre-Launch</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Testnet</span>
+                    <span class="metric-value">Pending</span>
+                </div>
+            </div>
+            
             <!-- KINKIN Project -->
             <div class="card">
                 <h3>🚀 KINKIN</h3>
@@ -189,24 +355,45 @@
                 </div>
             </div>
             
-            <!-- OrbitX Project -->
+            <!-- TechWealth Project -->
             <div class="card">
-                <h3>🌌 OrbitX NFT</h3>
+                <h3>💼 TechWealth</h3>
                 <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" class="pokemon-sprite offline" id="orbitx-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
-                    <div class="pokemon-name">Mewtwo 🔮</div>
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/79.gif" alt="Slowpoke" class="pokemon-sprite standby" id="techwealth-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🐱'">
+                    <div class="pokemon-name">Meowth 💰</div>
                 </div>
                 <div class="metric">
-                    <span class="metric-label">Phase</span>
-                    <span class="metric-value">1 - Fine Arts</span>
+                    <span class="metric-label">Focus</span>
+                    <span class="metric-value">Financial Tech</span>
                 </div>
                 <div class="metric">
                     <span class="metric-label">Status</span>
-                    <span class="status-badge status-standby">Pre-Launch</span>
+                    <span class="status-badge status-standby">Planning</span>
                 </div>
                 <div class="metric">
-                    <span class="metric-label">Testnet</span>
-                    <span class="metric-value">Pending</span>
+                    <span class="metric-label">Stage</span>
+                    <span class="metric-value">Concept</span>
+                </div>
+            </div>
+            
+            <!-- WPO Project -->
+            <div class="card">
+                <h3>🐾 WPO</h3>
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif" alt="Growlithe" class="pokemon-sprite standby" id="wpo-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🐕'">
+                    <div class="pokemon-name">Growlithe 🌍</div>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Full Name</span>
+                    <span class="metric-value" style="font-size: 0.8em;">World Paws Org</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Status</span>
+                    <span class="status-badge status-standby">Concept</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Token</span>
+                    <span class="metric-value">WPO Token</span>
                 </div>
             </div>
             
@@ -275,7 +462,9 @@
             ybot: { id: 144, name: 'Articuno' },      // Legendary ice bird - main agent
             kinkin: { id: 25, name: 'Pikachu' },       // Electric - fast deployments
             orbitx: { id: 150, name: 'Mewtwo' },       // Psychic - powerful AI
-            system: { id: 132, name: 'Ditto' }         // Transform - adapts to everything
+            system: { id: 132, name: 'Ditto' },        // Transform - adapts to everything
+            techwealth: { id: 52, name: 'Meowth' },    // Money cat - wealth/finance
+            wpo: { id: 58, name: 'Growlithe' }         // Puppy - animal welfare
         };
         
         // Update uptime
