@@ -582,54 +582,38 @@
     </div>
     
     <script>
-        // Pokémon assignments
+        // Dynamic data loaded from data.json
+        let dashboardData = null;
+        
+        // Pokémon assignments (fallback)
         const POKEMON = {
-            ybot: { id: 144, name: 'Articuno' },      // Legendary ice bird - main agent
-            kinkin: { id: 25, name: 'Pikachu' },       // Electric - fast deployments
-            orbitx: { id: 150, name: 'Mewtwo' },       // Psychic - powerful AI
-            system: { id: 132, name: 'Ditto' },        // Transform - adapts to everything
-            techwealth: { id: 52, name: 'Meowth' },    // Money cat - wealth/finance
-            wpo: { id: 113, name: 'Chansey' }          // Caring Pokémon - charity/love
+            ybot: { id: 144, name: 'Articuno' },
+            kinkin: { id: 25, name: 'Pikachu' },
+            orbitx: { id: 150, name: 'Mewtwo' },
+            system: { id: 132, name: 'Ditto' },
+            techwealth: { id: 52, name: 'Meowth' },
+            wpo: { id: 113, name: 'Chansey' },
+            clientTracker: { id: 64, name: 'Kadabra' }
         };
         
-        // Project Tasks - Update this list to track progress
-        // Add tasks as needed, mark completed: true when done
-        const PROJECT_TASKS = {
-            orbitx: [
-                { name: 'Frontend Development', completed: true },
-                { name: 'Smart Contract Setup', completed: true },
-                { name: 'WalletConnect Integration', completed: true },
-                { name: 'Testnet Deployment', completed: false },
-                { name: 'Artist Outreach', completed: false }
-            ],
-            kinkin: [
-                { name: 'Core Marketplace', completed: true },
-                { name: 'Provider Profiles', completed: true },
-                { name: 'Booking Flow', completed: false },
-                { name: 'Payment Integration', completed: false },
-                { name: 'Mobile App', completed: false }
-            ],
-            techwealth: [
-                { name: 'Concept Definition', completed: true },
-                { name: 'Market Research', completed: false },
-                { name: 'MVP Planning', completed: false },
-                { name: 'Development', completed: false }
-            ],
-            wpo: [
-                { name: 'Mission Definition', completed: true },
-                { name: 'Token Economics', completed: false },
-                { name: 'Partnership Outreach', completed: false }
-            ],
-            clientTracker: [
-                { name: 'Dashboard UI', completed: true },
-                { name: 'Client Forms', completed: true },
-                { name: 'Purchase Tracking', completed: true },
-                { name: 'Referral System', completed: true },
-                { name: 'GitHub Upload', completed: true },
-                { name: 'Vercel Deploy', completed: false },
-                { name: 'Supabase Setup', completed: false }
-            ]
-        };
+        // Fetch live data from data.json
+        async function fetchDashboardData() {
+            try {
+                const response = await fetch('data.json?' + Date.now()); // Cache bust
+                dashboardData = await response.json();
+                return dashboardData;
+            } catch (error) {
+                console.error('Failed to load dashboard data:', error);
+                return null;
+            }
+        }
+        
+        // Calculate completion percentage from tasks
+        function calculateCompletion(tasks) {
+            if (!tasks || tasks.length === 0) return 0;
+            const completed = tasks.filter(t => t.completed).length;
+            return Math.round((completed / tasks.length) * 100);
+        }
         
         // Calculate completion percentage for a project
         function calculateCompletion(projectKey) {
@@ -639,26 +623,78 @@
             return Math.round((completed / tasks.length) * 100);
         }
         
-        // Update progress bars dynamically
+        // Update progress bars dynamically from live data
         function updateProgressBars() {
-            const projects = ['orbitx', 'kinkin', 'techwealth', 'wpo', 'clientTracker'];
+            if (!dashboardData || !dashboardData.projects) return;
+            
+            const projects = Object.keys(dashboardData.projects);
             
             projects.forEach(key => {
-                const percent = calculateCompletion(key);
+                const project = dashboardData.projects[key];
+                const percent = project.progress || calculateCompletion(project.tasks);
                 const percentEl = document.getElementById(`${key}-percent`);
                 const progressEl = document.getElementById(`${key}-progress`);
                 
                 if (percentEl) percentEl.textContent = `${percent}%`;
                 if (progressEl) {
                     progressEl.style.width = `${percent}%`;
-                    // Update color based on completion
                     progressEl.className = 'progress-fill';
                     if (percent === 100) progressEl.classList.add('complete');
-                    else if (percent > 50) progressEl.classList.add('active');
+                    else if (percent >= 50) progressEl.classList.add('active');
                 }
             });
+        }
+        
+        // Update project cards with live data
+        function updateProjectCards() {
+            if (!dashboardData || !dashboardData.projects) return;
             
-            addActivity(`Progress updated: OrbitX ${calculateCompletion('orbitx')}%, KINKIN ${calculateCompletion('kinkin')}%, TechWealth ${calculateCompletion('techwealth')}%, WPO ${calculateCompletion('wpo')}%, Client Tracker ${calculateCompletion('clientTracker')}%`, 'info');
+            Object.entries(dashboardData.projects).forEach(([key, project]) => {
+                // Update status badge
+                const statusBadge = document.querySelector(`#${key}-card .status-badge`);
+                if (statusBadge && project.status) {
+                    statusBadge.className = `status-badge status-${project.status}`;
+                    statusBadge.textContent = project.status.replace('-', ' ');
+                }
+                
+                // Update Pokémon sprite status
+                const pokemonSprite = document.getElementById(`${key}-pokemon`);
+                if (pokemonSprite) {
+                    pokemonSprite.className = `pokemon-sprite ${project.status || 'standby'}`;
+                }
+            });
+        }
+        
+        // Update activity log from live data
+        function updateActivityLog() {
+            if (!dashboardData || !dashboardData.activity) return;
+            
+            const log = document.getElementById('activity-log');
+            const fullLog = document.getElementById('full-activity-log');
+            
+            // Clear existing
+            if (log) log.innerHTML = '';
+            if (fullLog) fullLog.innerHTML = '';
+            
+            dashboardData.activity.forEach(item => {
+                const time = new Date(item.time).toLocaleTimeString();
+                const html = `
+                    <div class="activity-item">
+                        <div class="activity-time">${time} [${item.type.toUpperCase()}]</div>
+                        <div>${item.text}</div>
+                    </div>
+                `;
+                if (log) log.innerHTML += html;
+                if (fullLog) fullLog.innerHTML += html;
+            });
+        }
+        
+        // Update agents section
+        function updateAgents() {
+            if (!dashboardData || !dashboardData.agents) return;
+            
+            // Can expand this to show dynamic agent status
+            console.log('Agents updated:', dashboardData.agents);
         }
         
         // Update uptime
@@ -696,36 +732,33 @@
             }
         }
         
-        // Simulate live data (replace with real API calls later)
-        function simulateUpdates() {
-            const events = [
-                'KINKIN build completed successfully',
-                'Vercel deployment triggered',
-                'Heartbeat scan completed',
-                'Market intelligence updated',
-                'Gateway health check passed',
-                'New session started',
-                'Cron job executed: daily-briefing'
-            ];
-            
-            const randomEvent = events[Math.floor(Math.random() * events.length)];
-            addActivity(randomEvent);
+        // Refresh all dashboard data
+        async function refreshDashboard() {
+            await fetchDashboardData();
+            if (dashboardData) {
+                updateProgressBars();
+                updateProjectCards();
+                updateActivityLog();
+                updateAgents();
+                
+                // Update last refreshed time
+                const now = new Date(dashboardData.lastUpdated);
+                addActivity(`Dashboard refreshed: ${now.toLocaleString()}`, 'success');
+            }
         }
         
         // Initialize when DOM is ready
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', async function() {
+            // Load initial data
+            await refreshDashboard();
+            
             updateUptime();
-            updateProgressBars(); // Calculate and display initial progress
-            renderProjectTasks(); // Render detailed task lists
+            renderProjectTasks();
+            
             setInterval(updateUptime, 60000);
             
-            // Simulate activity every 10 seconds
-            setInterval(simulateUpdates, 10000);
-            
-            // Initial activities
-            setTimeout(() => addActivity('Mission Control initialized', 'success'), 1000);
-            setTimeout(() => addActivity('Connected to Vercel API', 'info'), 2000);
-            setTimeout(() => addActivity('KINKIN deployment detected', 'warning'), 3000);
+            // Auto-refresh every 30 seconds
+            setInterval(refreshDashboard, 30000);
         });
         
         // Show/hide pages
@@ -750,10 +783,15 @@
             addActivity(`Navigated to ${pageId} page`, 'info');
         }
         
-        // Render detailed project tasks
+        // Render detailed project tasks from live data
         function renderProjectTasks() {
             const container = document.getElementById('project-tasks-container');
             if (!container) return;
+            
+            if (!dashboardData || !dashboardData.projects) {
+                container.innerHTML = '<div style="padding:20px;text-align:center;color:#a0a0a0;">Loading project data...</div>';
+                return;
+            }
             
             const projectNames = {
                 orbitx: '🌌 OrbitX NFT',
@@ -764,24 +802,27 @@
             };
             
             let html = '';
-            for (const [key, tasks] of Object.entries(PROJECT_TASKS)) {
-                const percent = calculateCompletion(key);
+            for (const [key, project] of Object.entries(dashboardData.projects)) {
+                const percent = project.progress || calculateCompletion(project.tasks);
+                const name = projectNames[key] || project.name || key;
                 html += `
                     <div class="card">
-                        <h3>${projectNames[key] || key} <span style="font-size:0.8em;color:#a0a0a0;">(${percent}%)</span></h3>
+                        <h3>${project.emoji || ''} ${name} <span style="font-size:0.8em;color:#a0a0a0;">(${percent}%)</span></h3>
                         <div style="display:grid;gap:8px;">
                 `;
                 
-                tasks.forEach(task => {
-                    const statusClass = task.completed ? 'status-online' : 'status-standby';
-                    const statusText = task.completed ? '✓' : '○';
-                    html += `
-                        <div class="metric">
-                            <span class="metric-label">${statusText} ${task.name}</span>
-                            <span class="status-badge ${statusClass}" style="font-size:0.75em;">${task.completed ? 'Done' : 'Pending'}</span>
-                        </div>
-                    `;
-                });
+                if (project.tasks) {
+                    project.tasks.forEach(task => {
+                        const statusClass = task.completed ? 'status-online' : 'status-standby';
+                        const statusText = task.completed ? '✓' : '○';
+                        html += `
+                            <div class="metric">
+                                <span class="metric-label">${statusText} ${task.name}</span>
+                                <span class="status-badge ${statusClass}" style="font-size:0.75em;">${task.completed ? 'Done' : 'Pending'}</span>
+                            </div>
+                        `;
+                    });
+                }
                 
                 html += `</div></div>`;
             }
