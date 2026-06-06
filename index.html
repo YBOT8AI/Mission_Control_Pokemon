@@ -596,15 +596,24 @@
             clientTracker: { id: 64, name: 'Kadabra' }
         };
         
-        // Fetch live data from data.json
+        // Fetch live data from Vercel API
         async function fetchDashboardData() {
             try {
-                const response = await fetch('data.json?' + Date.now()); // Cache bust
+                const response = await fetch('/api/status');
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 dashboardData = await response.json();
                 return dashboardData;
             } catch (error) {
                 console.error('Failed to load dashboard data:', error);
-                return null;
+                // Fallback to local data.json if API fails
+                try {
+                    const fallback = await fetch('data.json?' + Date.now());
+                    dashboardData = await fallback.json();
+                    return dashboardData;
+                } catch (e) {
+                    console.error('Fallback also failed:', e);
+                    return null;
+                }
             }
         }
         
