@@ -200,6 +200,47 @@
         ::-webkit-scrollbar { width: 8px; }
         ::-webkit-scrollbar-track { background: rgba(0,0,0,0.3); }
         ::-webkit-scrollbar-thumb { background: #6366f1; border-radius: 4px; }
+        
+        /* Navigation Tabs */
+        .nav-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            flex-wrap: wrap;
+        }
+        .nav-tab {
+            padding: 12px 24px;
+            background: rgba(99, 102, 241, 0.2);
+            border: 2px solid rgba(99, 102, 241, 0.4);
+            border-radius: 8px;
+            color: #fff;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            font-size: 0.95em;
+        }
+        .nav-tab:hover {
+            background: rgba(99, 102, 241, 0.4);
+            border-color: #6366f1;
+        }
+        .nav-tab.active {
+            background: #6366f1;
+            border-color: #8b5cf6;
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
+        }
+        
+        /* Page Sections */
+        .page-section {
+            display: none;
+        }
+        .page-section.active {
+            display: block;
+            animation: fadeIn 0.5s ease;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
     </style>
 </head>
 <body>
@@ -209,6 +250,17 @@
             <p class="subtitle">YBOT Operations Command Center</p>
         </header>
         
+        <!-- Navigation Tabs -->
+        <div class="nav-tabs">
+            <a href="#dashboard" class="nav-tab active" onclick="showPage('dashboard')">📊 Dashboard</a>
+            <a href="#projects" class="nav-tab" onclick="showPage('projects')">🚀 Projects</a>
+            <a href="#agents" class="nav-tab" onclick="showPage('agents')">🤖 Agents</a>
+            <a href="#activity" class="nav-tab" onclick="showPage('activity')">📋 Activity</a>
+        </div>
+        
+        <!-- Dashboard Page -->
+        <div id="dashboard" class="page-section active">
+        
         <!-- Project Progress Taskbar -->
         <div class="taskbar">
             <div class="taskbar-title">📊 Project Progress Overview</div>
@@ -216,40 +268,50 @@
             <div class="project-bar">
                 <div class="project-info">
                     <span class="project-name">🌌 OrbitX NFT</span>
-                    <span class="project-percent" id="orbitx-percent">75%</span>
+                    <span class="project-percent" id="orbitx-percent">--</span>
                 </div>
                 <div class="progress-track">
-                    <div class="progress-fill active" style="width: 75%;" id="orbitx-progress"></div>
+                    <div class="progress-fill" style="width: 0%;" id="orbitx-progress"></div>
                 </div>
             </div>
             
             <div class="project-bar">
                 <div class="project-info">
                     <span class="project-name">🚀 KINKIN</span>
-                    <span class="project-percent" id="kinkin-percent">60%</span>
+                    <span class="project-percent" id="kinkin-percent">--</span>
                 </div>
                 <div class="progress-track">
-                    <div class="progress-fill active" style="width: 60%;" id="kinkin-progress"></div>
+                    <div class="progress-fill" style="width: 0%;" id="kinkin-progress"></div>
                 </div>
             </div>
             
             <div class="project-bar">
                 <div class="project-info">
                     <span class="project-name">💼 TechWealth</span>
-                    <span class="project-percent" id="techwealth-percent">15%</span>
+                    <span class="project-percent" id="techwealth-percent">--</span>
                 </div>
                 <div class="progress-track">
-                    <div class="progress-fill" style="width: 15%;" id="techwealth-progress"></div>
+                    <div class="progress-fill" style="width: 0%;" id="techwealth-progress"></div>
                 </div>
             </div>
             
             <div class="project-bar">
                 <div class="project-info">
                     <span class="project-name">🐾 WPO (World Paws Org)</span>
-                    <span class="project-percent" id="wpo-percent">5%</span>
+                    <span class="project-percent" id="wpo-percent">--</span>
                 </div>
                 <div class="progress-track">
-                    <div class="progress-fill" style="width: 5%;" id="wpo-progress"></div>
+                    <div class="progress-fill" style="width: 0%;" id="wpo-progress"></div>
+                </div>
+            </div>
+            
+            <div class="project-bar">
+                <div class="project-info">
+                    <span class="project-name">📊 Client Tracker Pro</span>
+                    <span class="project-percent" id="client-tracker-percent">--</span>
+                </div>
+                <div class="progress-track">
+                    <div class="progress-fill active" style="width: 60%;" id="client-tracker-progress"></div>
                 </div>
             </div>
         </div>
@@ -380,8 +442,8 @@
             <div class="card">
                 <h3>🐾 WPO</h3>
                 <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/58.gif" alt="Growlithe" class="pokemon-sprite standby" id="wpo-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🐕'">
-                    <div class="pokemon-name">Growlithe 🌍</div>
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif" alt="Chansey" class="pokemon-sprite standby" id="wpo-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='💖'">
+                    <div class="pokemon-name">Chansey 💖</div>
                 </div>
                 <div class="metric">
                     <span class="metric-label">Full Name</span>
@@ -394,6 +456,27 @@
                 <div class="metric">
                     <span class="metric-label">Token</span>
                     <span class="metric-value">WPO Token</span>
+                </div>
+            </div>
+            
+            <!-- Client Tracker Pro Project -->
+            <div class="card">
+                <h3>📊 Client Tracker Pro</h3>
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif" alt="Kadabra" class="pokemon-sprite building" id="client-tracker-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                    <div class="pokemon-name">Kadabra 🔮</div>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Status</span>
+                    <span class="status-badge status-building">Deploying</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">GitHub</span>
+                    <span class="metric-value" style="font-size: 0.8em;">YBOT8AI/Client_Tracker_Pro</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Features</span>
+                    <span class="metric-value" style="font-size: 0.85em;">Clients, Purchases, Referrals</span>
                 </div>
             </div>
             
@@ -451,6 +534,48 @@
             </div>
         </div>
         
+        </div><!-- End Dashboard Page -->
+        
+        <!-- Projects Page -->
+        <div id="projects" class="page-section">
+            <div class="taskbar">
+                <div class="taskbar-title">📋 All Project Tasks</div>
+                <div id="project-tasks-container" style="display: grid; gap: 20px;">
+                    <!-- Dynamically populated -->
+                </div>
+            </div>
+        </div>
+        
+        <!-- Agents Page -->
+        <div id="agents" class="page-section">
+            <div class="grid">
+                <div class="card">
+                    <h3>🤖 Active Agents</h3>
+                    <div class="metric">
+                        <span class="metric-label">YBOT (Main)</span>
+                        <span class="status-badge status-online">Online ⚡</span>
+                    </div>
+                    <div class="metric">
+                        <span class="metric-label">Heartbeat Agent</span>
+                        <span class="status-badge status-online">Active (30 min)</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Activity Page -->
+        <div id="activity" class="page-section">
+            <div class="card">
+                <h3>📋 Full Activity Log</h3>
+                <div class="activity-log" id="full-activity-log" style="max-height: 600px;">
+                    <div class="activity-item">
+                        <div class="activity-time">Initializing...</div>
+                        <div>Activity page loaded</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
         <footer>
             <p>🎮 YBOT Mission Control • Powered by Pokémon & ⚡</p>
         </footer>
@@ -464,8 +589,77 @@
             orbitx: { id: 150, name: 'Mewtwo' },       // Psychic - powerful AI
             system: { id: 132, name: 'Ditto' },        // Transform - adapts to everything
             techwealth: { id: 52, name: 'Meowth' },    // Money cat - wealth/finance
-            wpo: { id: 58, name: 'Growlithe' }         // Puppy - animal welfare
+            wpo: { id: 113, name: 'Chansey' }          // Caring Pokémon - charity/love
         };
+        
+        // Project Tasks - Update this list to track progress
+        // Add tasks as needed, mark completed: true when done
+        const PROJECT_TASKS = {
+            orbitx: [
+                { name: 'Frontend Development', completed: true },
+                { name: 'Smart Contract Setup', completed: true },
+                { name: 'WalletConnect Integration', completed: true },
+                { name: 'Testnet Deployment', completed: false },
+                { name: 'Artist Outreach', completed: false }
+            ],
+            kinkin: [
+                { name: 'Core Marketplace', completed: true },
+                { name: 'Provider Profiles', completed: true },
+                { name: 'Booking Flow', completed: false },
+                { name: 'Payment Integration', completed: false },
+                { name: 'Mobile App', completed: false }
+            ],
+            techwealth: [
+                { name: 'Concept Definition', completed: true },
+                { name: 'Market Research', completed: false },
+                { name: 'MVP Planning', completed: false },
+                { name: 'Development', completed: false }
+            ],
+            wpo: [
+                { name: 'Mission Definition', completed: true },
+                { name: 'Token Economics', completed: false },
+                { name: 'Partnership Outreach', completed: false }
+            ],
+            clientTracker: [
+                { name: 'Dashboard UI', completed: true },
+                { name: 'Client Forms', completed: true },
+                { name: 'Purchase Tracking', completed: true },
+                { name: 'Referral System', completed: true },
+                { name: 'GitHub Upload', completed: true },
+                { name: 'Vercel Deploy', completed: false },
+                { name: 'Supabase Setup', completed: false }
+            ]
+        };
+        
+        // Calculate completion percentage for a project
+        function calculateCompletion(projectKey) {
+            const tasks = PROJECT_TASKS[projectKey] || [];
+            if (tasks.length === 0) return 0;
+            const completed = tasks.filter(t => t.completed).length;
+            return Math.round((completed / tasks.length) * 100);
+        }
+        
+        // Update progress bars dynamically
+        function updateProgressBars() {
+            const projects = ['orbitx', 'kinkin', 'techwealth', 'wpo', 'clientTracker'];
+            
+            projects.forEach(key => {
+                const percent = calculateCompletion(key);
+                const percentEl = document.getElementById(`${key}-percent`);
+                const progressEl = document.getElementById(`${key}-progress`);
+                
+                if (percentEl) percentEl.textContent = `${percent}%`;
+                if (progressEl) {
+                    progressEl.style.width = `${percent}%`;
+                    // Update color based on completion
+                    progressEl.className = 'progress-fill';
+                    if (percent === 100) progressEl.classList.add('complete');
+                    else if (percent > 50) progressEl.classList.add('active');
+                }
+            });
+            
+            addActivity(`Progress updated: OrbitX ${calculateCompletion('orbitx')}%, KINKIN ${calculateCompletion('kinkin')}%, TechWealth ${calculateCompletion('techwealth')}%, WPO ${calculateCompletion('wpo')}%, Client Tracker ${calculateCompletion('clientTracker')}%`, 'info');
+        }
         
         // Update uptime
         function updateUptime() {
@@ -518,17 +712,82 @@
             addActivity(randomEvent);
         }
         
-        // Initialize
-        updateUptime();
-        setInterval(updateUptime, 60000);
+        // Initialize when DOM is ready
+        document.addEventListener('DOMContentLoaded', function() {
+            updateUptime();
+            updateProgressBars(); // Calculate and display initial progress
+            renderProjectTasks(); // Render detailed task lists
+            setInterval(updateUptime, 60000);
+            
+            // Simulate activity every 10 seconds
+            setInterval(simulateUpdates, 10000);
+            
+            // Initial activities
+            setTimeout(() => addActivity('Mission Control initialized', 'success'), 1000);
+            setTimeout(() => addActivity('Connected to Vercel API', 'info'), 2000);
+            setTimeout(() => addActivity('KINKIN deployment detected', 'warning'), 3000);
+        });
         
-        // Simulate activity every 10 seconds
-        setInterval(simulateUpdates, 10000);
+        // Show/hide pages
+        function showPage(pageId) {
+            // Hide all pages
+            document.querySelectorAll('.page-section').forEach(page => {
+                page.classList.remove('active');
+            });
+            
+            // Remove active from all tabs
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+            
+            // Show selected page
+            document.getElementById(pageId).classList.add('active');
+            
+            // Activate corresponding tab
+            const activeTab = document.querySelector(`.nav-tab[href="#${pageId}"]`);
+            if (activeTab) activeTab.classList.add('active');
+            
+            addActivity(`Navigated to ${pageId} page`, 'info');
+        }
         
-        // Initial activities
-        setTimeout(() => addActivity('Mission Control initialized', 'success'), 1000);
-        setTimeout(() => addActivity('Connected to Vercel API', 'info'), 2000);
-        setTimeout(() => addActivity('KINKIN deployment detected', 'warning'), 3000);
+        // Render detailed project tasks
+        function renderProjectTasks() {
+            const container = document.getElementById('project-tasks-container');
+            if (!container) return;
+            
+            const projectNames = {
+                orbitx: '🌌 OrbitX NFT',
+                kinkin: '🚀 KINKIN',
+                techwealth: '💼 TechWealth',
+                wpo: '🐾 WPO',
+                clientTracker: '📊 Client Tracker Pro'
+            };
+            
+            let html = '';
+            for (const [key, tasks] of Object.entries(PROJECT_TASKS)) {
+                const percent = calculateCompletion(key);
+                html += `
+                    <div class="card">
+                        <h3>${projectNames[key] || key} <span style="font-size:0.8em;color:#a0a0a0;">(${percent}%)</span></h3>
+                        <div style="display:grid;gap:8px;">
+                `;
+                
+                tasks.forEach(task => {
+                    const statusClass = task.completed ? 'status-online' : 'status-standby';
+                    const statusText = task.completed ? '✓' : '○';
+                    html += `
+                        <div class="metric">
+                            <span class="metric-label">${statusText} ${task.name}</span>
+                            <span class="status-badge ${statusClass}" style="font-size:0.75em;">${task.completed ? 'Done' : 'Pending'}</span>
+                        </div>
+                    `;
+                });
+                
+                html += `</div></div>`;
+            }
+            
+            container.innerHTML = html;
+        }
     </script>
 </body>
 </html>
