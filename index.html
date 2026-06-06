@@ -248,6 +248,12 @@
         <header>
             <h1>🎯 Mission Control</h1>
             <p class="subtitle">YBOT Operations Command Center</p>
+            <div style="display:flex;justify-content:center;align-items:center;gap:15px;margin-top:15px;">
+                <div id="last-refresh" style="font-size:0.85em;color:#6366f1;">⏳ Loading live data...</div>
+                <button onclick="refreshDashboard()" style="background:#6366f1;color:#fff;border:none;padding:8px 16px;border-radius:6px;cursor:pointer;font-size:0.85em;display:flex;align-items:center;gap:6px;transition:all 0.3s;" onmouseover="this.style.background='#8b5cf6'" onmouseout="this.style.background='#6366f1'">
+                    🔄 Refresh Now
+                </button>
+            </div>
         </header>
         
         <!-- Navigation Tabs -->
@@ -596,15 +602,33 @@
             clientTracker: { id: 64, name: 'Kadabra' }
         };
         
-        // Fetch live data from Vercel API
+        // Fetch live data from Vercel API (lightweight, no auth required)
         async function fetchDashboardData() {
             try {
-                const response = await fetch('/api/status');
+                const response = await fetch('/api/status-lite');
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 dashboardData = await response.json();
+                
+                // Update last refresh indicator
+                const refreshEl = document.getElementById('last-refresh');
+                if (refreshEl && dashboardData.lastUpdated) {
+                    const time = new Date(dashboardData.lastUpdated).toLocaleTimeString();
+                    const source = dashboardData.source || 'api';
+                    refreshEl.textContent = `📡 Live • Last updated: ${time} (${source})`;
+                    refreshEl.style.color = '#22c55e';
+                }
+                
                 return dashboardData;
             } catch (error) {
                 console.error('Failed to load dashboard data:', error);
+                
+                // Update indicator to show error
+                const refreshEl = document.getElementById('last-refresh');
+                if (refreshEl) {
+                    refreshEl.textContent = `⚠️ Using cached data • ${new Date().toLocaleTimeString()}`;
+                    refreshEl.style.color = '#fbbf24';
+                }
+                
                 // Fallback to local data.json if API fails
                 try {
                     const fallback = await fetch('data.json?' + Date.now());
@@ -742,18 +766,36 @@
         }
         
         // Refresh all dashboard data
-        async function refreshDashboard() {
+        async function refreshDashboard(showNotification = true) {
+            const refreshBtn = document.querySelector('button[onclick="refreshDashboard()"]');
+            if (refreshBtn) {
+                refreshBtn.disabled = true;
+                refreshBtn.innerHTML = '⏳ Refreshing...';
+                refreshBtn.style.opacity = '0.7';
+            }
+            
             await fetchDashboardData();
             if (dashboardData) {
                 updateProgressBars();
                 updateProjectCards();
                 updateActivityLog();
                 updateAgents();
+                renderProjectTasks();
                 
-                // Update last refreshed time
-                const now = new Date(dashboardData.lastUpdated);
-                addActivity(`Dashboard refreshed: ${now.toLocaleString()}`, 'success');
+                if (showNotification) {
+                    const now = new Date(dashboardData.lastUpdated);
+                    addActivity(`✅ Dashboard refreshed: ${now.toLocaleString()}`, 'success');
+                }
             }
+            
+            // Reset button
+            setTimeout(() => {
+                if (refreshBtn) {
+                    refreshBtn.disabled = false;
+                    refreshBtn.innerHTML = '🔄 Refresh Now';
+                    refreshBtn.style.opacity = '1';
+                }
+            }, 1000);
         }
         
         // Initialize when DOM is ready
