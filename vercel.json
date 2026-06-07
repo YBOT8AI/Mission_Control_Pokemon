@@ -8,9 +8,5 @@
     "api/*.js": {
       "runtime": "@vercel/node@3.0.0"
     }
-  },
-  "env": {
-    "GITHUB_TOKEN": "@github-token",
-    "VERCEL_TOKEN": "@vercel-token"
   }
 }
