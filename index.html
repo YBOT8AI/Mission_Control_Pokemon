@@ -241,9 +241,98 @@
             from { opacity: 0; transform: translateY(10px); }
             to { opacity: 1; transform: translateY(0); }
         }
+        
+        /* Login Screen */
+        #login-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+        }
+        .login-box {
+            background: rgba(255,255,255,0.05);
+            border: 2px solid rgba(99, 102, 241, 0.5);
+            border-radius: 16px;
+            padding: 40px;
+            text-align: center;
+            box-shadow: 0 0 40px rgba(99, 102, 241, 0.3);
+            max-width: 400px;
+            width: 90%;
+        }
+        .login-box h2 {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+            color: #fff;
+            text-shadow: 0 0 20px #6366f1;
+        }
+        .login-box p {
+            color: #a0a0a0;
+            margin-bottom: 30px;
+        }
+        .login-input {
+            width: 100%;
+            padding: 15px;
+            margin-bottom: 20px;
+            background: rgba(0,0,0,0.3);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            border-radius: 8px;
+            color: #fff;
+            font-size: 1.1em;
+            font-family: 'Courier New', monospace;
+            text-align: center;
+        }
+        .login-input:focus {
+            outline: none;
+            border-color: #6366f1;
+            box-shadow: 0 0 20px rgba(99, 102, 241, 0.3);
+        }
+        .login-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            border: none;
+            border-radius: 8px;
+            color: #fff;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-family: 'Courier New', monospace;
+        }
+        .login-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(99, 102, 241, 0.4);
+        }
+        .login-error {
+            color: #ef4444;
+            margin-top: 15px;
+            display: none;
+        }
+        #main-content {
+            display: none;
+        }
     </style>
 </head>
 <body>
+    <!-- Login Screen -->
+    <div id="login-screen">
+        <div class="login-box">
+            <h2>🔐 Mission Control</h2>
+            <p>Enter password to access dashboard</p>
+            <input type="password" id="password-input" class="login-input" placeholder="Enter password" onkeypress="if(event.key==='Enter')login()">
+            <button onclick="login()" class="login-btn">🔓 Unlock</button>
+            <div id="login-error" class="login-error">❌ Incorrect password</div>
+        </div>
+    </div>
+    
+    <!-- Main Content (hidden until logged in) -->
+    <div id="main-content">
     <div class="container">
         <header>
             <h1>🎯 Mission Control</h1>
@@ -880,7 +969,66 @@
             
             container.innerHTML = html;
         }
+        
+        // Password Protection
+        const PASSWORD = 'orbitx2026'; // Change this to your desired password
+        
+        function login() {
+            const input = document.getElementById('password-input').value;
+            const errorDiv = document.getElementById('login-error');
+            
+            if (input === PASSWORD) {
+                // Save auth to localStorage
+                localStorage.setItem('dashboardAuth', 'true');
+                localStorage.setItem('dashboardAuthTime', Date.now().toString());
+                
+                // Hide login, show content
+                document.getElementById('login-screen').style.display = 'none';
+                document.getElementById('main-content').style.display = 'block';
+                
+                // Initialize dashboard
+                refreshDashboard();
+                updateUptime();
+                renderProjectTasks();
+                setInterval(updateUptime, 60000);
+                setInterval(refreshDashboard, 30000);
+            } else {
+                errorDiv.style.display = 'block';
+                document.getElementById('password-input').value = '';
+            }
+        }
+        
+        // Check if already logged in
+        function checkAuth() {
+            const auth = localStorage.getItem('dashboardAuth');
+            const authTime = localStorage.getItem('dashboardAuthTime');
+            
+            // Auto-logout after 24 hours
+            if (auth && authTime) {
+                const hoursSinceAuth = (Date.now() - parseInt(authTime)) / (1000 * 60 * 60);
+                if (hoursSinceAuth < 24) {
+                    document.getElementById('login-screen').style.display = 'none';
+                    document.getElementById('main-content').style.display = 'block';
+                    refreshDashboard();
+                    updateUptime();
+                    renderProjectTasks();
+                    setInterval(updateUptime, 60000);
+                    setInterval(refreshDashboard, 30000);
+                    return;
+                }
+            }
+            
+            // Show login screen
+            document.getElementById('login-screen').style.display = 'flex';
+            document.getElementById('main-content').style.display = 'none';
+        }
+        
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', function() {
+            checkAuth();
+        });
     </script>
+</div><!-- /main-content -->
 </body>
 </html>
 <!-- Force redeploy -->
