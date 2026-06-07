@@ -1,12 +1,7 @@
 {
-  "buildCommand": "echo 'Static site with API'",
+  "buildCommand": "echo 'Static site'",
   "outputDirectory": ".",
   "github": {
     "silent": true
-  },
-  "functions": {
-    "api/*.js": {
-      "runtime": "@vercel/node@18"
-    }
   }
 }
