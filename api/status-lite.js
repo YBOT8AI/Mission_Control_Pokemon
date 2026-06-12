@@ -135,12 +135,22 @@ export default async function handler(request, response) {
           emoji: '🐾',
           pokemon: 'Chansey',
           pokemonId: 113,
-          status: 'planning',
-          progress: 33,
+          status: 'building',
+          phase: 'Option B - Full Build',
+          blockchain: 'Solana',
+          token: 'WPO Token (SPL)',
+          progress: 45,
+          logo: 'received',
+          youtube: 'planned',
           tasks: [
             { name: 'Mission Definition', completed: true },
-            { name: 'Token Economics', completed: false },
-            { name: 'Partnership Outreach', completed: false }
+            { name: 'Option B Selected', completed: true },
+            { name: 'Logo Received', completed: true },
+            { name: 'Solana Token Setup', completed: false },
+            { name: 'Website Development', completed: false },
+            { name: 'GitHub Repository', completed: false },
+            { name: 'Vercel Deployment', completed: false },
+            { name: 'YouTube Channel Setup', completed: false }
           ]
         },
         
@@ -187,7 +197,15 @@ export default async function handler(request, response) {
         ybot: { name: 'YBOT (Main)', status: 'online', emoji: '⚡' },
         heartbeat: { name: 'Heartbeat Scan', status: 'active', interval: '30 min' },
         ceobriefing: { name: 'CEO Briefing', status: 'scheduled', frequency: '3x daily (HKT)' },
-        gateway: { name: 'Gateway', status: 'running', host: 'srv1595219' }
+        gateway: { name: 'Gateway', status: 'running', host: 'srv1595219' },
+        bulle: { 
+          name: 'Bull-E 🐂', 
+          status: 'standby', 
+          role: 'Market Intelligence',
+          lastBriefing: '2026-06-10T19:58:31Z',
+          schedule: '01:00/07:00/13:00 UTC (09:00/15:00/21:00 HKT)',
+          workspace: '/root/.openclaw/workspace-bull-e/'
+        }
       },
       
       activity: generateActivityLog(repoStatus, now),
