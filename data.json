@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T08:39:42Z",
+  "lastUpdated": "2026-06-12T10:11:00Z",
   "projects": {
     "orbitx": {
       "name": "OrbitX NFT",
@@ -206,9 +206,22 @@
       "name": "Gateway",
       "status": "running",
       "host": "srv1595219"
+    },
+    "bulle": {
+      "name": "Bull-E \ud83d\udc02",
+      "status": "standby",
+      "role": "Market Intelligence",
+      "lastBriefing": "2026-06-10T19:58:31Z",
+      "schedule": "01:00/07:00/13:00 UTC",
+      "workspace": "/root/.openclaw/workspace-bull-e/"
     }
   },
   "activity": [
+    {
+      "time": "2026-06-12T10:11:00Z",
+      "type": "info",
+      "text": "Bull-E agent status added to dashboard"
+    },
     {
       "time": "2026-06-12T08:39:42Z",
       "type": "info",
