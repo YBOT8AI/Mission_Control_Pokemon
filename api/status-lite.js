@@ -194,10 +194,21 @@ export default async function handler(request, response) {
       },
       
       agents: {
-        ybot: { name: 'YBOT (Main)', status: 'online', emoji: '⚡' },
-        heartbeat: { name: 'Heartbeat Scan', status: 'active', interval: '30 min' },
-        ceobriefing: { name: 'CEO Briefing', status: 'scheduled', frequency: '3x daily (HKT)' },
-        gateway: { name: 'Gateway', status: 'running', host: 'srv1595219' },
+        ybot: { name: 'YBOT (Main)', status: 'online', emoji: '⚡', role: 'Overall Coordination' },
+        agentx: { 
+          name: 'Agent X 🌌', 
+          status: 'active', 
+          role: 'OrbitX NFT Operations',
+          respawn: 'Every 5 min',
+          workspace: '/root/.openclaw/workspace-orbitx/'
+        },
+        agentkinkin: { 
+          name: 'Agent KinKin 🚀', 
+          status: 'active', 
+          role: 'KINKIN Marketplace',
+          respawn: 'Every 5 min',
+          workspace: '/root/.openclaw/workspace-kinkin/'
+        },
         bulle: { 
           name: 'Bull-E 🐂', 
           status: 'standby', 
@@ -205,7 +216,10 @@ export default async function handler(request, response) {
           lastBriefing: '2026-06-10T19:58:31Z',
           schedule: '01:00/07:00/13:00 UTC (09:00/15:00/21:00 HKT)',
           workspace: '/root/.openclaw/workspace-bull-e/'
-        }
+        },
+        heartbeat: { name: 'Heartbeat Scan', status: 'active', interval: '30 min' },
+        ceobriefing: { name: 'CEO Briefing', status: 'scheduled', frequency: '3x daily (HKT)' },
+        gateway: { name: 'Gateway', status: 'running', host: 'srv1595219' }
       },
       
       activity: generateActivityLog(repoStatus, now),
