@@ -643,17 +643,10 @@
         
         <!-- Agents Page -->
         <div id="agents" class="page-section">
-            <div class="grid">
-                <div class="card">
-                    <h3>🤖 Active Agents</h3>
-                    <div class="metric">
-                        <span class="metric-label">YBOT (Main)</span>
-                        <span class="status-badge status-online">Online ⚡</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Heartbeat Agent</span>
-                        <span class="status-badge status-online">Active (30 min)</span>
-                    </div>
+            <div class="taskbar">
+                <div class="taskbar-title">🤖 Active Agents & Scheduled Jobs</div>
+                <div id="agents-container" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px;">
+                    <!-- Dynamically populated from data.json -->
                 </div>
             </div>
         </div>
@@ -815,8 +808,35 @@
         function updateAgents() {
             if (!dashboardData || !dashboardData.agents) return;
             
-            // Can expand this to show dynamic agent status
-            console.log('Agents updated:', dashboardData.agents);
+            const agentsContainer = document.getElementById('agents-container');
+            let agentsHtml = '';
+            
+            for (const [key, agent] of Object.entries(dashboardData.agents)) {
+                const statusClass = agent.status === 'online' || agent.status === 'active' || agent.status === 'running' ? 'status-online' : 
+                                   agent.status === 'standby' || agent.status === 'scheduled' ? 'status-standby' : 'status-offline';
+                const statusEmoji = agent.status === 'online' || agent.status === 'active' || agent.status === 'running' ? '🟢' : 
+                                   agent.status === 'standby' || agent.status === 'scheduled' ? '🟡' : '🔴';
+                
+                let details = '';
+                if (agent.interval) details += `<div style="font-size:0.8em;color:#a0a0a0;">Interval: ${agent.interval}</div>`;
+                if (agent.frequency) details += `<div style="font-size:0.8em;color:#a0a0a0;">${agent.frequency}</div>`;
+                if (agent.schedule) details += `<div style="font-size:0.8em;color:#a0a0a0;">Schedule: ${agent.schedule}</div>`;
+                if (agent.role) details += `<div style="font-size:0.8em;color:#a0a0a0;">Role: ${agent.role}</div>`;
+                if (agent.lastBriefing) details += `<div style="font-size:0.75em;color:#666;">Last: ${agent.lastBriefing}</div>`;
+                if (agent.host) details += `<div style="font-size:0.8em;color:#a0a0a0;">Host: ${agent.host}</div>`;
+                
+                agentsHtml += `
+                    <div class="card" style="padding:15px;">
+                        <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+                            <strong>${agent.name}</strong>
+                            <span class="status-badge ${statusClass}">${statusEmoji} ${agent.status.toUpperCase()}</span>
+                        </div>
+                        ${details}
+                    </div>
+                `;
+            }
+            
+            agentsContainer.innerHTML = agentsHtml;
         }
         
         // Update uptime
