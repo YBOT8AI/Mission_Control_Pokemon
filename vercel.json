@@ -2,9 +2,6 @@
   "buildCommand": "echo 'Static site'",
   "outputDirectory": ".",
   "github": {
-    "silent": false
-  },
-  "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1" }
-  ]
+    "silent": true
+  }
 }
