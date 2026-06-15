@@ -684,10 +684,11 @@
             clientTracker: { id: 64, name: 'Kadabra' }
         };
         
-        // Fetch live data from Vercel API (lightweight, no auth required)
+        // Fetch dashboard data - GitHub Pages mode (direct data.json load)
         async function fetchDashboardData() {
             try {
-                const response = await fetch('/api/status-lite');
+                // Direct load from data.json (GitHub Pages compatible)
+                const response = await fetch('data.json?' + Date.now());
                 if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 dashboardData = await response.json();
                 
@@ -695,8 +696,7 @@
                 const refreshEl = document.getElementById('last-refresh');
                 if (refreshEl && dashboardData.lastUpdated) {
                     const time = new Date(dashboardData.lastUpdated).toLocaleTimeString();
-                    const source = dashboardData.source || 'api';
-                    refreshEl.textContent = `📡 Live • Last updated: ${time} (${source})`;
+                    refreshEl.textContent = `✅ Live • Last updated: ${time}`;
                     refreshEl.style.color = '#22c55e';
                 }
                 
@@ -711,15 +711,7 @@
                     refreshEl.style.color = '#fbbf24';
                 }
                 
-                // Fallback to local data.json if API fails
-                try {
-                    const fallback = await fetch('data.json?' + Date.now());
-                    dashboardData = await fallback.json();
-                    return dashboardData;
-                } catch (e) {
-                    console.error('Fallback also failed:', e);
-                    return null;
-                }
+                return null;
             }
         }
         
