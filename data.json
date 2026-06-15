@@ -12,6 +12,15 @@
       "testnet": "pending",
       "repo": "YBOT8AI/Orbitx-NFT",
       "vercel": "pending",
+      "subProjects": [
+        {
+          "name": "OXC Token",
+          "emoji": "\ud83e\ude99",
+          "status": "live",
+          "progress": 15,
+          "note": "Token created on Solana"
+        }
+      ],
       "tasks": [
         {
           "name": "Frontend Development",
