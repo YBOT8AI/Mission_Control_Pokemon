@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-06-21T20:10:18Z",
+  "lastUpdated": "2026-06-21T20:18:44Z",
   "projects": {
     "orbitx": {
       "name": "OrbitX NFT",
-      "emoji": "\ud83c\udf0c",
+      "emoji": "🌌",
       "pokemon": "Mewtwo",
       "pokemonId": 150,
       "status": "pre-launch",
@@ -15,7 +15,7 @@
       "subProjects": [
         {
           "name": "OXC Token",
-          "emoji": "\ud83e\ude99",
+          "emoji": "🪙",
           "status": "live",
           "progress": 15,
           "note": "Token created on Solana"
@@ -46,7 +46,7 @@
     },
     "kinkin": {
       "name": "KINKIN",
-      "emoji": "\ud83d\ude80",
+      "emoji": "🚀",
       "pokemon": "Pikachu",
       "pokemonId": 25,
       "status": "deploying",
@@ -79,7 +79,7 @@
     },
     "techwealth": {
       "name": "TechWealth",
-      "emoji": "\ud83d\udcbc",
+      "emoji": "💼",
       "pokemon": "Meowth",
       "pokemonId": 52,
       "status": "building",
@@ -142,7 +142,7 @@
     },
     "techwealthTracker": {
       "name": "TechWealth Tracker Pro",
-      "emoji": "\ud83d\udcca",
+      "emoji": "📊",
       "pokemon": "Kadabra",
       "pokemonId": 64,
       "status": "building",
@@ -184,7 +184,7 @@
     },
     "wpo": {
       "name": "WPO (World Paws Org)",
-      "emoji": "\ud83d\udc3e",
+      "emoji": "🐾",
       "pokemon": "Chansey",
       "pokemonId": 113,
       "status": "archived",
@@ -237,11 +237,11 @@
     "ybot": {
       "name": "YBOT (Main)",
       "status": "online",
-      "emoji": "\u26a1",
+      "emoji": "⚡",
       "role": "Overall Coordination"
     },
     "daifu": {
-      "name": "DAIFU \ud83e\uddec",
+      "name": "DAIFU 🧬",
       "status": "active",
       "role": "Health & Biohacking Agent",
       "rank": "#2 in Chain of Command",
@@ -249,21 +249,21 @@
       "workspace": "/root/.openclaw/workspace-daifu/"
     },
     "agentx": {
-      "name": "Agent X \ud83c\udf0c",
+      "name": "Agent X 🌌",
       "status": "active",
       "role": "OrbitX NFT Operations",
       "respawn": "Every 5 min",
       "workspace": "/root/.openclaw/workspace-orbitx/"
     },
     "agentkinkin": {
-      "name": "Agent KinKin \ud83d\ude80",
+      "name": "Agent KinKin 🚀",
       "status": "active",
       "role": "KINKIN Marketplace",
       "respawn": "Every 5 min",
       "workspace": "/root/.openclaw/workspace-kinkin/"
     },
     "bulle": {
-      "name": "Bull-E \ud83d\udc02",
+      "name": "Bull-E 🐂",
       "status": "standby",
       "role": "Market Intelligence",
       "lastBriefing": "2026-06-10T19:58:31Z",
@@ -271,7 +271,7 @@
       "workspace": "/root/.openclaw/workspace-bull-e/"
     },
     "doublemay": {
-      "name": "DoubleMay \ud83c\udf0b",
+      "name": "DoubleMay 🌋",
       "status": "active",
       "role": "Doomsday Survival & Apocalypse Continuity",
       "rank": "#6 in Chain of Command",
@@ -290,6 +290,11 @@
     }
   },
   "activity": [
+    {
+      "time": "2026-06-21T20:18:44Z",
+      "type": "success",
+      "text": "Telegram sync: Dashboard updated (user-triggered)"
+    },
     {
       "time": "2026-06-21T20:10:18Z",
       "type": "info",
