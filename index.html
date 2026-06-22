@@ -392,21 +392,21 @@
             
             <div class="project-bar">
                 <div class="project-info">
-                    <span class="project-name">🐾 WPO (World Paws Org)</span>
-                    <span class="project-percent" id="wpo-percent">--</span>
+                    <span class="project-name">📊 TechWealth Tracker Pro</span>
+                    <span class="project-percent" id="techwealthTracker-percent">--</span>
                 </div>
                 <div class="progress-track">
-                    <div class="progress-fill" style="width: 0%;" id="wpo-progress"></div>
+                    <div class="progress-fill active" style="width: 85%;" id="techwealthTracker-progress"></div>
                 </div>
             </div>
             
             <div class="project-bar">
                 <div class="project-info">
-                    <span class="project-name">📊 TechWealth Tracker</span>
-                    <span class="project-percent" id="techwealthTracker-percent">--</span>
+                    <span class="project-name">🐾 WPO (World Paws Org)</span>
+                    <span class="project-percent" id="wpo-percent">--</span>
                 </div>
                 <div class="progress-track">
-                    <div class="progress-fill active" style="width: 85%;" id="techwealthTracker-progress"></div>
+                    <div class="progress-fill" style="width: 0%;" id="wpo-progress"></div>
                 </div>
             </div>
         </div>
@@ -533,6 +533,27 @@
                 </div>
             </div>
             
+            <!-- TechWealth Tracker Project -->
+            <div class="card" id="techwealthTracker-card">
+                <h3>📊 TechWealth Tracker Pro</h3>
+                <div class="pokemon-container">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif" alt="Kadabra" class="pokemon-sprite building" id="techwealthTracker-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                    <div class="pokemon-name">Kadabra 🔮</div>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Status</span>
+                    <span class="status-badge status-building">Deploying</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">GitHub</span>
+                    <span class="metric-value" style="font-size: 0.8em;">YBOT8AI/Client_Tracker_Pro</span>
+                </div>
+                <div class="metric">
+                    <span class="metric-label">Features</span>
+                    <span class="metric-value" style="font-size: 0.85em;">TechWealth Client Management</span>
+                </div>
+            </div>
+            
             <!-- WPO Project -->
             <div class="card">
                 <h3>🐾 WPO</h3>
@@ -551,27 +572,6 @@
                 <div class="metric">
                     <span class="metric-label">Token</span>
                     <span class="metric-value">WPO Token</span>
-                </div>
-            </div>
-            
-            <!-- TechWealth Tracker Project -->
-            <div class="card" id="techwealthTracker-card">
-                <h3>📊 TechWealth Tracker</h3>
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif" alt="Kadabra" class="pokemon-sprite building" id="techwealthTracker-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
-                    <div class="pokemon-name">Kadabra 🔮</div>
-                </div>
-                <div class="metric">
-                    <span class="metric-label">Status</span>
-                    <span class="status-badge status-building">Deploying</span>
-                </div>
-                <div class="metric">
-                    <span class="metric-label">GitHub</span>
-                    <span class="metric-value" style="font-size: 0.8em;">YBOT8AI/Client_Tracker_Pro</span>
-                </div>
-                <div class="metric">
-                    <span class="metric-label">Features</span>
-                    <span class="metric-value" style="font-size: 0.85em;">TechWealth Client Management</span>
                 </div>
             </div>
             
@@ -950,7 +950,7 @@
                 kinkin: '🚀 KINKIN',
                 techwealth: '💼 TechWealth',
                 wpo: '🐾 WPO',
-                techwealthTracker: '📊 TechWealth Tracker'
+                techwealthTracker: '📊 TechWealth Tracker Pro'
             };
             
             let html = '';
