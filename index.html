@@ -860,8 +860,12 @@
                 </div>
                 
                 <nav class="nav-section">
-                    <div class="nav-label">Navigation</div>
-                    <a href="#dashboard" class="nav-item active" onclick="showPage('dashboard')">
+                    <div class="nav-label">Main</div>
+                    <a href="#home" class="nav-item active" onclick="showPage('home')">
+                        <span class="nav-icon">🏠</span>
+                        <span class="nav-text">Home</span>
+                    </a>
+                    <a href="#dashboard" class="nav-item" onclick="showPage('dashboard')">
                         <span class="nav-icon">📊</span>
                         <span class="nav-text">Dashboard</span>
                     </a>
@@ -869,13 +873,25 @@
                         <span class="nav-icon">🚀</span>
                         <span class="nav-text">Projects</span>
                     </a>
-                    <a href="#agents" class="nav-item" onclick="showPage('agents')">
-                        <span class="nav-icon">🤖</span>
-                        <span class="nav-text">Agents</span>
+                </nav>
+                
+                <nav class="nav-section">
+                    <div class="nav-label">Automation</div>
+                    <a href="#cronjobs" class="nav-item" onclick="showPage('cronjobs')">
+                        <span class="nav-icon">⏰</span>
+                        <span class="nav-text">Cron Jobs</span>
                     </a>
-                    <a href="#activity" class="nav-item" onclick="showPage('activity')">
-                        <span class="nav-icon">📋</span>
-                        <span class="nav-text">Activity</span>
+                    <a href="#briefings" class="nav-item" onclick="showPage('briefings')">
+                        <span class="nav-icon">📰</span>
+                        <span class="nav-text">Briefings</span>
+                    </a>
+                </nav>
+                
+                <nav class="nav-section">
+                    <div class="nav-label">Intelligence</div>
+                    <a href="#market" class="nav-item" onclick="showPage('market')">
+                        <span class="nav-icon">📈</span>
+                        <span class="nav-text">Market Analysis</span>
                     </a>
                 </nav>
                 
@@ -908,7 +924,7 @@
             <main class="main-content">
                 <!-- Header -->
                 <header class="header">
-                    <h1 class="header-title">Dashboard Overview</h1>
+                    <div class="header-title" id="page-title">Dashboard Overview</div>
                     <div class="header-actions">
                         <div class="status-indicator">
                             <span class="status-dot"></span>
@@ -922,8 +938,72 @@
                 
                 <!-- Page Content -->
                 <div class="page-content">
+                    <!-- Home Page -->
+                    <div id="home" class="page-section active">
+                        <div class="stats-grid">
+                            <!-- Welcome Card -->
+                            <div class="card" style="grid-column: span 2;">
+                                <div class="card-header">
+                                    <h3 class="card-title">⚡ Welcome Back, TOBY</h3>
+                                </div>
+                                <div style="padding: 20px 0;">
+                                    <p style="color: var(--text-secondary); margin-bottom: 16px; line-height: 1.6;">
+                                        Mission Control is fully operational. All systems are running normally.
+                                        Your multi-agent network is active and monitoring all projects.
+                                    </p>
+                                    <div style="display: flex; gap: 16px; flex-wrap: wrap;">
+                                        <div style="background: rgba(99, 102, 241, 0.1); padding: 16px; border-radius: 8px; border-left: 3px solid var(--primary);">
+                                            <div style="font-size: 0.85rem; color: var(--text-muted);">Active Agents</div>
+                                            <div style="font-size: 1.5rem; font-weight: 700; color: var(--success);">6</div>
+                                        </div>
+                                        <div style="background: rgba(34, 197, 94, 0.1); padding: 16px; border-radius: 8px; border-left: 3px solid var(--success);">
+                                            <div style="font-size: 0.85rem; color: var(--text-muted);">System Uptime</div>
+                                            <div style="font-size: 1.5rem; font-weight: 700; color: var(--success);">99.9%</div>
+                                        </div>
+                                        <div style="background: rgba(251, 191, 36, 0.1); padding: 16px; border-radius: 8px; border-left: 3px solid var(--warning);">
+                                            <div style="font-size: 0.85rem; color: var(--text-muted);">Pending Tasks</div>
+                                            <div style="font-size: 1.5rem; font-weight: 700; color: var(--warning);">3</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Quick Stats -->
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">🎯 Today's Focus</h3>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">OrbitX Testnet</span>
+                                    <span class="status-badge status-standby">Pending</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">KINKIN Deploy</span>
+                                    <span class="status-badge status-building">In Progress</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">TechWealth MVP</span>
+                                    <span class="status-badge status-standby">Planning</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <!-- Activity Feed -->
+                        <div class="card activity-section">
+                            <div class="card-header">
+                                <h3 class="card-title">⚡ Recent Activity</h3>
+                            </div>
+                            <div class="activity-log" id="home-activity-log">
+                                <div class="activity-item">
+                                    <div class="activity-time">Initializing...</div>
+                                    <div class="activity-text">Welcome to Mission Control</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <!-- Dashboard Page -->
-                    <div id="dashboard" class="page-section active">
+                    <div id="dashboard" class="page-section">
                         <!-- Project Progress -->
                         <div class="taskbar">
                             <div class="taskbar-title">📊 Project Progress Overview</div>
@@ -1037,6 +1117,201 @@
                         </div>
                     </div>
                     
+                    <!-- Cron Jobs Page -->
+                    <div id="cronjobs" class="page-section">
+                        <div class="stats-grid">
+                            <div class="card" style="grid-column: span 2;">
+                                <div class="card-header">
+                                    <h3 class="card-title">⏰ Scheduled Jobs</h3>
+                                </div>
+                                <div id="cron-jobs-list" style="padding: 16px 0;">
+                                    <div class="metric">
+                                        <span class="metric-label">Heartbeat Scan</span>
+                                        <span class="status-badge status-online">Every 30 min</span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">CEO Briefing (Morning)</span>
+                                        <span class="status-badge status-standby">01:00 UTC (09:00 HKT)</span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">CEO Briefing (Evening)</span>
+                                        <span class="status-badge status-standby">13:00 UTC (21:00 HKT)</span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">Dashboard Auto-Sync</span>
+                                        <span class="status-badge status-online">Every 3 hours</span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">Bull-E Briefing</span>
+                                        <span class="status-badge status-online">04:00 UTC (12:00 HKT)</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">📊 Job Statistics</h3>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Total Jobs</span>
+                                    <span class="metric-value">5</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Active</span>
+                                    <span class="status-badge status-online">3</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Scheduled</span>
+                                    <span class="status-badge status-standby">2</span>
+                                </div>
+                                <div class="metric">
+                                    <span class="metric-label">Last Execution</span>
+                                    <span class="metric-value" id="last-cron-run">--</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Briefings Page -->
+                    <div id="briefings" class="page-section">
+                        <div class="stats-grid">
+                            <div class="card" style="grid-column: span 2;">
+                                <div class="card-header">
+                                    <h3 class="card-title">📰 CEO Briefings Archive</h3>
+                                </div>
+                                <div id="briefings-list" style="padding: 16px 0; max-height: 500px; overflow-y: auto;">
+                                    <div class="activity-item">
+                                        <div class="activity-time">Today • 09:00 HKT</div>
+                                        <div class="activity-text"><strong>Morning Brief:</strong> Overnight markets stable. Day ahead priorities reviewed.</div>
+                                    </div>
+                                    <div class="activity-item">
+                                        <div class="activity-time">Yesterday • 21:00 HKT</div>
+                                        <div class="activity-text"><strong>Evening Brief:</strong> Daily summary complete. Tomorrow's outlook prepared.</div>
+                                    </div>
+                                    <div class="activity-item">
+                                        <div class="activity-time">Yesterday • 09:00 HKT</div>
+                                        <div class="activity-text"><strong>Morning Brief:</strong> Market intel delivered. Action items identified.</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">📅 Schedule</h3>
+                                </div>
+                                <div style="padding: 16px 0;">
+                                    <div style="margin-bottom: 16px;">
+                                        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 4px;">Morning Brief</div>
+                                        <div style="font-weight: 600; color: var(--text-primary);">01:00 UTC / 09:00 HKT</div>
+                                    </div>
+                                    <div style="margin-bottom: 16px;">
+                                        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 4px;">Evening Brief</div>
+                                        <div style="font-weight: 600; color: var(--text-primary);">13:00 UTC / 21:00 HKT</div>
+                                    </div>
+                                    <div>
+                                        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 4px;">Bull-E Intel</div>
+                                        <div style="font-weight: 600; color: var(--text-primary);">04:00 UTC / 12:00 HKT</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Market Analysis Page -->
+                    <div id="market" class="page-section">
+                        <div class="taskbar">
+                            <div class="taskbar-title">📈 Watchlist & Market Intelligence</div>
+                        </div>
+                        
+                        <div class="stats-grid">
+                            <!-- Crypto Section -->
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">₿ Cryptocurrency</h3>
+                                </div>
+                                <div id="crypto-watchlist">
+                                    <div class="metric">
+                                        <span class="metric-label">Bitcoin (BTC)</span>
+                                        <span class="metric-value" style="color: var(--success);">$67,234 <span style="font-size: 0.8em;">+2.4%</span></span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">Ethereum (ETH)</span>
+                                        <span class="metric-value" style="color: var(--success);">$3,456 <span style="font-size: 0.8em;">+1.8%</span></span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">Solana (SOL)</span>
+                                        <span class="metric-value" style="color: var(--danger);">$142.50 <span style="font-size: 0.8em;">-0.5%</span></span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Stocks Section -->
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">📊 Stocks</h3>
+                                </div>
+                                <div id="stocks-watchlist">
+                                    <div class="metric">
+                                        <span class="metric-label">S&P 500 (SPY)</span>
+                                        <span class="metric-value" style="color: var(--success);">$548.20 <span style="font-size: 0.8em;">+0.8%</span></span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">Nasdaq (QQQ)</span>
+                                        <span class="metric-value" style="color: var(--success);">$456.78 <span style="font-size: 0.8em;">+1.2%</span></span>
+                                    </div>
+                                    <div class="metric">
+                                        <span class="metric-label">Hang Seng</span>
+                                        <span class="metric-value" style="color: var(--danger);">$18,234 <span style="font-size: 0.8em;">-0.3%</span></span>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Market Sentiment -->
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">🎯 Market Sentiment</h3>
+                                </div>
+                                <div style="padding: 16px 0;">
+                                    <div style="margin-bottom: 16px;">
+                                        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 8px;">Fear & Greed Index</div>
+                                        <div class="progress-track">
+                                            <div class="progress-fill complete" style="width: 65%;"></div>
+                                        </div>
+                                        <div style="text-align: right; margin-top: 4px; font-size: 0.85rem; color: var(--success);">65 - Greed</div>
+                                    </div>
+                                    <div style="margin-bottom: 16px;">
+                                        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 8px;">VIX (Volatility)</div>
+                                        <div style="font-size: 1.5rem; font-weight: 700; color: var(--text-primary);">14.2</div>
+                                        <div style="font-size: 0.85rem; color: var(--success);">Low volatility</div>
+                                    </div>
+                                    <div>
+                                        <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 8px;">Trend</div>
+                                        <div style="display: inline-block; padding: 4px 12px; background: rgba(34, 197, 94, 0.15); border: 1px solid rgba(34, 197, 94, 0.3); border-radius: 6px; color: var(--success); font-size: 0.85rem; font-weight: 600;">BULLISH 📈</div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <!-- Alerts -->
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3 class="card-title">🔔 Price Alerts</h3>
+                                </div>
+                                <div style="padding: 16px 0;">
+                                    <div class="activity-item" style="margin-bottom: 8px;">
+                                        <div class="activity-time">Active</div>
+                                        <div class="activity-text">BTC > $70,000</div>
+                                    </div>
+                                    <div class="activity-item" style="margin-bottom: 8px;">
+                                        <div class="activity-time">Active</div>
+                                        <div class="activity-text">ETH > $3,800</div>
+                                    </div>
+                                    <div class="activity-item">
+                                        <div class="activity-time">Active</div>
+                                        <div class="activity-text">Hang Seng < 17,500</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <!-- Agents Page -->
                     <div id="agents" class="page-section">
                         <div class="taskbar">
@@ -1086,7 +1361,18 @@
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
             document.getElementById(pageId).classList.add('active');
             event.target.closest('.nav-item').classList.add('active');
-            document.querySelector('.header-title').textContent = pageId.charAt(0).toUpperCase() + pageId.slice(1);
+            
+            const titles = {
+                'home': '🏠 Home',
+                'dashboard': '📊 Dashboard',
+                'projects': '🚀 Projects',
+                'cronjobs': '⏰ Cron Jobs',
+                'briefings': '📰 Briefings',
+                'market': '📈 Market Analysis',
+                'agents': '🤖 Agents',
+                'activity': '📋 Activity'
+            };
+            document.getElementById('page-title').textContent = titles[pageId] || 'Dashboard';
         }
         
         async function initDashboard() {
@@ -1252,6 +1538,7 @@
             // Render activity log
             const activityLog = document.getElementById('activity-log');
             const fullActivityLog = document.getElementById('full-activity-log');
+            const homeActivityLog = document.getElementById('home-activity-log');
             if (dashboardData.activity) {
                 const html = dashboardData.activity.slice(0, 20).map(a => `
                     <div class="activity-item">
@@ -1262,6 +1549,13 @@
                 
                 if (activityLog) activityLog.innerHTML = html;
                 if (fullActivityLog) fullActivityLog.innerHTML = html;
+                if (homeActivityLog) homeActivityLog.innerHTML = html;
+            }
+            
+            // Update last cron run
+            const lastCronRun = document.getElementById('last-cron-run');
+            if (lastCronRun && dashboardData.lastUpdated) {
+                lastCronRun.textContent = new Date(dashboardData.lastUpdated).toLocaleTimeString();
             }
         }
         
