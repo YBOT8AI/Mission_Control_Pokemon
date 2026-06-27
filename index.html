@@ -6,6 +6,86 @@
     <title>🎯 YBOT Mission Control</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --sidebar-width: 260px;
+        }
+        body {
+            font-family: 'Courier New', monospace;
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            color: #fff;
+            min-height: 100vh;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            width: var(--sidebar-width);
+            background: rgba(15, 23, 42, 0.95);
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100vh;
+            overflow-y: auto;
+            z-index: 100;
+            border-right: 2px solid rgba(99, 102, 241, 0.3);
+            padding: 20px 0;
+        }
+        .sidebar-header {
+            padding: 0 20px 20px;
+            border-bottom: 1px solid rgba(99, 102, 241, 0.3);
+            margin-bottom: 20px;
+        }
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #6366f1;
+        }
+        .nav-section {
+            padding: 0 12px;
+            margin-bottom: 20px;
+        }
+        .nav-label {
+            font-size: 0.75em;
+            color: #6366f1;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+            padding-left: 12px;
+        }
+        .nav-item {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            padding: 12px;
+            border-radius: 8px;
+            color: #a0a0a0;
+            text-decoration: none;
+            cursor: pointer;
+            margin-bottom: 4px;
+            transition: all 0.2s;
+        }
+        .nav-item:hover {
+            background: rgba(99, 102, 241, 0.1);
+            color: #fff;
+        }
+        .nav-item.active {
+            background: rgba(99, 102, 241, 0.2);
+            color: #6366f1;
+            border-left: 3px solid #6366f1;
+        }
+        .nav-icon {
+            width: 20px;
+            text-align: center;
+        }
+        
+        /* Main Content */
+        .main-wrapper {
+            margin-left: var(--sidebar-width);
+            min-height: 100vh;
+        }
+        
         body {
             font-family: 'Courier New', monospace;
             background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
@@ -246,6 +326,53 @@
     
     <!-- Main Content -->
     <div id="main-content">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <span>⚡</span>
+                    <span>YBOT</span>
+                </div>
+            </div>
+            
+            <nav class="nav-section">
+                <div class="nav-label">Main</div>
+                <a href="#" class="nav-item active" onclick="showPage('home')">
+                    <span class="nav-icon">🏠</span>
+                    <span>Home</span>
+                </a>
+                <a href="#" class="nav-item" onclick="showPage('dashboard')">
+                    <span class="nav-icon">📊</span>
+                    <span>Dashboard</span>
+                </a>
+                <a href="#" class="nav-item" onclick="showPage('projects')">
+                    <span class="nav-icon">🚀</span>
+                    <span>Projects</span>
+                </a>
+            </nav>
+            
+            <nav class="nav-section">
+                <div class="nav-label">Automation</div>
+                <a href="#" class="nav-item" onclick="showPage('cronjobs')">
+                    <span class="nav-icon">⏰</span>
+                    <span>Cron Jobs</span>
+                </a>
+                <a href="#" class="nav-item" onclick="showPage('briefings')">
+                    <span class="nav-icon">📰</span>
+                    <span>Briefings</span>
+                </a>
+            </nav>
+            
+            <nav class="nav-section">
+                <div class="nav-label">Intelligence</div>
+                <a href="#" class="nav-item" onclick="showPage('market')">
+                    <span class="nav-icon">📈</span>
+                    <span>Market Analysis</span>
+                </a>
+            </nav>
+        </aside>
+        
+        <div class="main-wrapper">
         <div class="container">
             <header>
                 <h1>🎯 Mission Control</h1>
@@ -534,10 +661,379 @@
             
             </div><!-- End Home Page -->
             
-            <footer>
-                <p>🎮 YBOT Mission Control • Powered by Pokémon & ⚡</p>
-            </footer>
-        </div>
+            <!-- Dashboard Page -->
+            <div id="dashboard" class="page-section" style="display:none;">
+                <header>
+                    <h1>📊 Dashboard</h1>
+                    <p class="subtitle">Real-time project overview</p>
+                </header>
+                
+                <!-- Project Progress Taskbar -->
+                <div class="taskbar">
+                    <div class="taskbar-title">📊 Project Progress Overview</div>
+                    
+                    <div class="project-bar">
+                        <div class="project-info">
+                            <span class="project-name">🌌 OrbitX NFT</span>
+                            <span class="project-percent" id="orbitx-percent">--</span>
+                        </div>
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 0%;" id="orbitx-progress"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-bar">
+                        <div class="project-info">
+                            <span class="project-name">🚀 KINKIN</span>
+                            <span class="project-percent" id="kinkin-percent">--</span>
+                        </div>
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 0%;" id="kinkin-progress"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-bar">
+                        <div class="project-info">
+                            <span class="project-name">💼 TechWealth</span>
+                            <span class="project-percent" id="techwealth-percent">--</span>
+                        </div>
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 0%;" id="techwealth-progress"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-bar">
+                        <div class="project-info">
+                            <span class="project-name">📊 TechWealth Tracker Pro</span>
+                            <span class="project-percent" id="techwealthTracker-percent">--</span>
+                        </div>
+                        <div class="progress-track">
+                            <div class="progress-fill active" style="width: 85%;" id="techwealthTracker-progress"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="project-bar">
+                        <div class="project-info">
+                            <span class="project-name">🐾 WPO (World Paws Org)</span>
+                            <span class="project-percent" id="wpo-percent">--</span>
+                        </div>
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 0%;" id="wpo-progress"></div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="grid">
+                    <!-- OrbitX Project -->
+                    <div class="card">
+                        <h3>🌌 OrbitX NFT</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" class="pokemon-sprite offline" id="orbitx-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                            <div class="pokemon-name">Mewtwo 🔮</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Phase</span>
+                            <span class="metric-value">1 - Fine Arts</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Status</span>
+                            <span class="status-badge status-standby">Pre-Launch</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Testnet</span>
+                            <span class="metric-value">Pending</span>
+                        </div>
+                    </div>
+                    
+                    <!-- KINKIN Project -->
+                    <div class="card">
+                        <h3>🚀 KINKIN</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu" class="pokemon-sprite building" id="kinkin-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='⚡'">
+                            <div class="pokemon-name">Pikachu ⚡</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Status</span>
+                            <span class="status-badge status-building">Deploying</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">URL</span>
+                            <span class="metric-value" style="font-size: 0.8em;">kinkin.vercel.app</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Build</span>
+                            <span class="metric-value" id="kinkin-build">#5</span>
+                        </div>
+                    </div>
+                    
+                    <!-- TechWealth Project -->
+                    <div class="card">
+                        <h3>💼 TechWealth</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" alt="Meowth" class="pokemon-sprite standby" id="techwealth-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='💰'">
+                            <div class="pokemon-name">Meowth 💰</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Focus</span>
+                            <span class="metric-value">Financial Tech</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Status</span>
+                            <span class="status-badge status-standby">Planning</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Stage</span>
+                            <span class="metric-value">Concept</span>
+                        </div>
+                    </div>
+                    
+                    <!-- TechWealth Tracker Project -->
+                    <div class="card" id="techwealthTracker-card">
+                        <h3>📊 TechWealth Tracker Pro</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif" alt="Kadabra" class="pokemon-sprite building" id="techwealthTracker-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                            <div class="pokemon-name">Kadabra 🔮</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Status</span>
+                            <span class="status-badge status-building">Deploying</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">GitHub</span>
+                            <span class="metric-value" style="font-size: 0.8em;">YBOT8AI/Client_Tracker_Pro</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Features</span>
+                            <span class="metric-value" style="font-size: 0.85em;">TechWealth Client Management</span>
+                        </div>
+                    </div>
+                    
+                    <!-- WPO Project -->
+                    <div class="card">
+                        <h3>🐾 WPO</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif" alt="Chansey" class="pokemon-sprite standby" id="wpo-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='💖'">
+                            <div class="pokemon-name">Chansey 💖</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Full Name</span>
+                            <span class="metric-value" style="font-size: 0.8em;">World Paws Org</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Status</span>
+                            <span class="status-badge status-standby">Concept</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Token</span>
+                            <span class="metric-value">WPO Token</span>
+                        </div>
+                    </div>
+                    
+                    <!-- System Health -->
+                    <div class="card">
+                        <h3>💻 System</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/132.gif" alt="Ditto" class="pokemon-sprite online" id="system-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='🔄'">
+                            <div class="pokemon-name">Ditto 🔄</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Gateway</span>
+                            <span class="status-badge status-online">Running</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Uptime</span>
+                            <span class="metric-value" id="uptime">--</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Sessions</span>
+                            <span class="metric-value" id="sessions">--</span>
+                        </div>
+                    </div>
+                    
+                    <!-- Agent Status -->
+                    <div class="card">
+                        <h3>🤖 Agents</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/144.gif" alt="Articuno" class="pokemon-sprite online" id="ybot-pokemon" onerror="this.style.display='none';this.parentElement.innerHTML='❄️'">
+                            <div class="pokemon-name">Articuno ❄️</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">YBOT (Main)</span>
+                            <span class="status-badge status-online">Online ⚡</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">KinKin Agent</span>
+                            <span class="status-badge status-standby">Standby</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Heartbeat</span>
+                            <span class="metric-value">30 min</span>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Dashboard Page -->
+            
+            <!-- Projects Page -->
+            <div id="projects" class="page-section" style="display:none;">
+                <header>
+                    <h1>🚀 Projects</h1>
+                    <p class="subtitle">Detailed project breakdown</p>
+                </header>
+                <div class="grid">
+                    <!-- Same project cards as dashboard -->
+                    <div class="card">
+                        <h3>🌌 OrbitX NFT</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/150.gif" alt="Mewtwo" class="pokemon-sprite offline">
+                            <div class="pokemon-name">Mewtwo 🔮</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Phase</span>
+                            <span class="metric-value">1 - Fine Arts</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Tasks</span>
+                            <span class="metric-value">3/5 Complete</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <h3>🚀 KINKIN</h3>
+                        <div class="pokemon-container">
+                            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" alt="Pikachu" class="pokemon-sprite building">
+                            <div class="pokemon-name">Pikachu ⚡</div>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Status</span>
+                            <span class="status-badge status-building">Deploying</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Tasks</span>
+                            <span class="metric-value">2/5 Complete</span>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Projects Page -->
+            
+            <!-- Cron Jobs Page -->
+            <div id="cronjobs" class="page-section" style="display:none;">
+                <header>
+                    <h1>⏰ Cron Jobs</h1>
+                    <p class="subtitle">Scheduled automation tasks</p>
+                </header>
+                <div class="taskbar">
+                    <div class="taskbar-title">📋 Active Cron Jobs</div>
+                    <div class="activity-log">
+                        <div class="activity-item">
+                            <div class="activity-time">Every 30 minutes</div>
+                            <div>❤️ Heartbeat Scan - Market intelligence, system health</div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-time">01:00 UTC (09:00 HKT)</div>
+                            <div>📰 Morning CEO Briefing - Overnight markets, day ahead</div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-time">13:00 UTC (21:00 HKT)</div>
+                            <div>📰 Evening CEO Briefing - Daily summary, tomorrow's outlook</div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-time">Every 3 hours (active hours)</div>
+                            <div>🔄 Mission Control Auto-Sync - Dashboard updates</div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Cron Jobs Page -->
+            
+            <!-- Briefings Page -->
+            <div id="briefings" class="page-section" style="display:none;">
+                <header>
+                    <h1>📰 Briefings</h1>
+                    <p class="subtitle">CEO briefing archive</p>
+                </header>
+                <div class="taskbar">
+                    <div class="taskbar-title">📅 Briefing Schedule</div>
+                    <div class="activity-log">
+                        <div class="activity-item">
+                            <div class="activity-time">Daily at 09:00 HKT</div>
+                            <div>Morning Brief - Markets, priorities, opportunities</div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-time">Daily at 21:00 HKT</div>
+                            <div>Evening Brief - Summary, analysis, tomorrow's outlook</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="taskbar" style="margin-top:20px;">
+                    <div class="taskbar-title">📁 Recent Briefings</div>
+                    <div class="activity-log">
+                        <div class="activity-item">
+                            <div class="activity-time">2026-06-27 09:00</div>
+                            <div>Morning Brief - Tech stocks rally, crypto volatility increases</div>
+                        </div>
+                        <div class="activity-item">
+                            <div class="activity-time">2026-06-26 21:00</div>
+                            <div>Evening Brief - Market close summary, OrbitX testnet prep</div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Briefings Page -->
+            
+            <!-- Market Analysis Page -->
+            <div id="market" class="page-section" style="display:none;">
+                <header>
+                    <h1>📈 Market Analysis</h1>
+                    <p class="subtitle">Your watchlist & market intelligence</p>
+                </header>
+                <div class="grid">
+                    <div class="card">
+                        <h3>₿ Cryptocurrency</h3>
+                        <div class="metric">
+                            <span class="metric-label">Bitcoin (BTC)</span>
+                            <span class="metric-value">$67,890 <span style="color:#4ade80;">+2.3%</span></span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Ethereum (ETH)</span>
+                            <span class="metric-value">$3,456 <span style="color:#4ade80;">+1.8%</span></span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Solana (SOL)</span>
+                            <span class="metric-value">$145 <span style="color:#f87171;">-0.5%</span></span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <h3>📊 Stocks</h3>
+                        <div class="metric">
+                            <span class="metric-label">S&P 500</span>
+                            <span class="metric-value">5,234 <span style="color:#4ade80;">+0.8%</span></span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Nasdaq</span>
+                            <span class="metric-value">16,789 <span style="color:#4ade80;">+1.2%</span></span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Hang Seng</span>
+                            <span class="metric-value">18,234 <span style="color:#f87171;">-0.3%</span></span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <h3>📉 Market Sentiment</h3>
+                        <div class="metric">
+                            <span class="metric-label">Fear & Greed</span>
+                            <span class="metric-value" style="color:#fbbf24;">Neutral (52)</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">VIX</span>
+                            <span class="metric-value">13.45</span>
+                        </div>
+                        <div class="metric">
+                            <span class="metric-label">Trend</span>
+                            <span class="status-badge status-online">Bullish</span>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- End Market Analysis Page -->
+            
+            </div><!-- End main-wrapper -->
+        </div><!-- End container -->
     </div>
     
     <script>
@@ -558,7 +1054,16 @@
         
         function showPage(pageId) {
             document.querySelectorAll('.page-section').forEach(el => el.classList.remove('active'));
-            document.getElementById(pageId).classList.add('active');
+            document.querySelectorAll('.page-section').forEach(el => el.style.display = 'none');
+            document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
+            const page = document.getElementById(pageId);
+            if (page) {
+                page.classList.add('active');
+                page.style.display = 'block';
+            }
+            if (event && event.target) {
+                event.target.closest('.nav-item').classList.add('active');
+            }
         }
         
         async function initDashboard() {
