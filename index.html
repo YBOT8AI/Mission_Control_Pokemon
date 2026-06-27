@@ -191,11 +191,38 @@
             width: 40px;
             height: 40px;
             background: var(--gradient-primary);
-            border-radius: var(--border-radius-sm);
+            border-radius: 50%;
             display: flex;
             align-items: center;
             justify-content: center;
             font-size: 1.25rem;
+            border: 3px solid rgba(255,255,255,0.1);
+            box-shadow: 0 0 15px rgba(99, 102, 241, 0.4);
+            position: relative;
+        }
+        
+        .logo-icon::before {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: rgba(255,255,255,0.3);
+            transform: translateY(-50%);
+        }
+        
+        .logo-icon::after {
+            content: '';
+            position: absolute;
+            width: 12px;
+            height: 12px;
+            background: white;
+            border-radius: 50%;
+            border: 2px solid rgba(99, 102, 241, 0.5);
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
         }
         
         .nav-section {
@@ -461,9 +488,19 @@
             top: 0;
             left: 0;
             right: 0;
-            height: 3px;
+            height: 4px;
             background: var(--gradient-primary);
             opacity: 0;
+            transition: opacity 0.3s;
+        }
+        
+        .card::after {
+            content: '⚡';
+            position: absolute;
+            bottom: 12px;
+            right: 12px;
+            font-size: 1.5rem;
+            opacity: 0.1;
             transition: opacity 0.3s;
         }
         
@@ -475,6 +512,10 @@
         
         .card:hover::before {
             opacity: 1;
+        }
+        
+        .card:hover::after {
+            opacity: 0.3;
         }
         
         .card-header {
@@ -499,10 +540,31 @@
         .pokemon-container {
             text-align: center;
             padding: 20px;
-            background: rgba(15, 23, 42, 0.5);
-            border-radius: var(--border-radius-sm);
+            background: radial-gradient(ellipse at center, rgba(99, 102, 241, 0.1) 0%, rgba(15, 23, 42, 0.5) 70%);
+            border-radius: var(--border-radius-md);
             margin-bottom: 16px;
             border: 1px solid var(--border-light);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .pokemon-container::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: repeating-conic-gradient(
+                rgba(99, 102, 241, 0.03) 0deg 30deg,
+                transparent 30deg 60deg
+            );
+            animation: rotate 30s linear infinite;
+        }
+        
+        @keyframes rotate {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
         }
         
         .pokemon-sprite {
@@ -512,10 +574,12 @@
             image-rendering: crisp-edges;
             transition: all 0.3s;
             filter: drop-shadow(0 0 10px rgba(99, 102, 241, 0.3));
+            position: relative;
+            z-index: 1;
         }
         
         .pokemon-sprite.online {
-            filter: drop-shadow(0 0 15px rgba(34, 197, 94, 0.5));
+            filter: drop-shadow(0 0 20px rgba(34, 197, 94, 0.6));
             animation: bounce 1s infinite;
         }
         
@@ -525,9 +589,27 @@
         }
         
         .pokemon-sprite.building {
-            filter: drop-shadow(0 0 15px rgba(251, 191, 36, 0.5));
+            filter: drop-shadow(0 0 20px rgba(251, 191, 36, 0.6));
             animation: shake 0.5s infinite;
         }
+        
+        .pokemon-type-badge {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-top: 8px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .type-psychic { background: linear-gradient(135deg, #a855f7, #c084fc); color: white; }
+        .type-electric { background: linear-gradient(135deg, #fbbf24, #fcd34d); color: #1e293b; }
+        .type-normal { background: linear-gradient(135deg, #94a3b8, #cbd5e1); color: #1e293b; }
+        .type-fairy { background: linear-gradient(135deg, #fb7185, #fda4af); color: white; }
+        .type-ghost { background: linear-gradient(135deg, #7c3aed, #a78bfa); color: white; }
         
         @keyframes bounce {
             0%, 100% { transform: translateY(0); }
@@ -542,8 +624,10 @@
         .pokemon-name {
             margin-top: 12px;
             font-size: 0.9rem;
-            color: var(--text-secondary);
-            font-weight: 500;
+            color: var(--text-primary);
+            font-weight: 600;
+            position: relative;
+            z-index: 1;
         }
         
         /* Status Badges */
@@ -798,8 +882,24 @@
                 <nav class="nav-section">
                     <div class="nav-label">Quick Actions</div>
                     <div class="nav-item" onclick="refreshDashboard()">
-                        <span class="nav-icon">🔄</span>
+                        <span class="nav-icon">⚡</span>
                         <span class="nav-text">Refresh Data</span>
+                    </div>
+                </nav>
+                
+                <nav class="nav-section">
+                    <div class="nav-label">Projects</div>
+                    <div class="nav-item">
+                        <span class="nav-icon">🌌</span>
+                        <span class="nav-text">OrbitX</span>
+                    </div>
+                    <div class="nav-item">
+                        <span class="nav-icon">🚀</span>
+                        <span class="nav-text">KINKIN</span>
+                    </div>
+                    <div class="nav-item">
+                        <span class="nav-icon">💼</span>
+                        <span class="nav-text">TechWealth</span>
                     </div>
                 </nav>
             </aside>
@@ -958,7 +1058,8 @@
                 
                 <!-- Footer -->
                 <footer>
-                    <p>🎮 YBOT Mission Control • Powered by Pokémon & ⚡</p>
+                    <p>🎮 YBOT Mission Control • Pokémon Battle Station ⚡</p>
+                    <p style="font-size:0.8rem;margin-top:8px;opacity:0.6">Gotta Monitor 'Em All!</p>
                 </footer>
             </main>
         </div>
@@ -1048,6 +1149,19 @@
                     onerror="this.style.display='none'">`;
         }
         
+        function getPokemonType(name) {
+            const types = {
+                'Mewtwo': 'psychic',
+                'Pikachu': 'electric',
+                'Meowth': 'normal',
+                'Kadabra': 'psychic',
+                'Chansey': 'fairy',
+                'Ditto': 'ghost',
+                'Articuno': 'ghost'
+            };
+            return types[name] || 'normal';
+        }
+        
         function renderDashboard() {
             if (!dashboardData) return;
             
@@ -1082,6 +1196,7 @@
                             <div class="pokemon-container">
                                 ${getPokemonSprite(p.pokemonId || 132, p.status)}
                                 <div class="pokemon-name">${p.pokemon || 'Unknown'}</div>
+                                <div class="pokemon-type-badge ${getPokemonType(p.pokemon)}">${getPokemonType(p.pokemon)}</div>
                             </div>
                             <div class="metric">
                                 <span class="metric-label">Status</span>
