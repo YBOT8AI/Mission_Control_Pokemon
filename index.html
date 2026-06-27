@@ -19,15 +19,54 @@
         /* Sidebar */
         .sidebar {
             width: var(--sidebar-width);
-            background: rgba(15, 23, 42, 0.95);
+            background: rgba(15, 23, 42, 0.98);
             position: fixed;
             top: 0;
             left: 0;
             height: 100vh;
             overflow-y: auto;
-            z-index: 100;
+            z-index: 1000;
             border-right: 2px solid rgba(99, 102, 241, 0.3);
             padding: 20px 0;
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            backdrop-filter: blur(10px);
+            box-shadow: 4px 0 20px rgba(0,0,0,0.3);
+        }
+        
+        .sidebar-hidden {
+            transform: translateX(-100%);
+        }
+        
+        /* Mobile Toggle Button */
+        .sidebar-toggle {
+            display: none;
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            z-index: 1100;
+            background: rgba(99, 102, 241, 0.9);
+            border: 2px solid rgba(99, 102, 241, 0.5);
+            border-radius: 12px;
+            width: 50px;
+            height: 50px;
+            cursor: pointer;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5em;
+            color: #fff;
+            transition: all 0.3s ease;
+            backdrop-filter: blur(10px);
+            box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4);
+        }
+        
+        .sidebar-toggle:hover {
+            background: rgba(99, 102, 241, 1);
+            transform: scale(1.1);
+            box-shadow: 0 6px 20px rgba(99, 102, 241, 0.6);
+        }
+        
+        .sidebar-toggle.active {
+            background: rgba(239, 68, 68, 0.9);
         }
         .sidebar-header {
             padding: 0 20px 20px;
@@ -84,6 +123,84 @@
         .main-wrapper {
             margin-left: var(--sidebar-width);
             min-height: 100vh;
+            transition: margin-left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            :root {
+                --sidebar-width: 280px;
+            }
+            .sidebar-toggle {
+                display: flex;
+            }
+            .sidebar {
+                transform: translateX(-100%);
+            }
+            .sidebar.visible {
+                transform: translateX(0);
+                box-shadow: 10px 0 40px rgba(0,0,0,0.5);
+            }
+            .main-wrapper {
+                margin-left: 0;
+            }
+            .overlay {
+                display: none;
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                background: rgba(0,0,0,0.7);
+                z-index: 999;
+                opacity: 0;
+                transition: opacity 0.3s ease;
+            }
+            .overlay.active {
+                display: block;
+                opacity: 1;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            :root {
+                --sidebar-width: 100%;
+            }
+            .sidebar {
+                width: 85%;
+                max-width: 320px;
+            }
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            .taskbar {
+                padding: 15px;
+            }
+            header {
+                padding: 60px 15px 30px;
+            }
+            h1 {
+                font-size: 1.8em;
+            }
+        }
+        
+        @media (min-width: 1025px) and (max-width: 1440px) {
+            :root {
+                --sidebar-width: 240px;
+            }
+            .grid {
+                grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            }
+        }
+        
+        /* Tablet Optimization (iPad) */
+        @media (min-width: 769px) and (max-width: 1024px) {
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+            .card {
+                padding: 15px;
+            }
         }
         
         body {
@@ -326,6 +443,14 @@
     
     <!-- Main Content -->
     <div id="main-content">
+        <!-- Mobile Sidebar Toggle -->
+        <button class="sidebar-toggle" onclick="toggleSidebar()" aria-label="Toggle navigation">
+            ☰
+        </button>
+        
+        <!-- Overlay for mobile -->
+        <div class="overlay" onclick="toggleSidebar()"></div>
+        
         <!-- Sidebar -->
         <aside class="sidebar">
             <div class="sidebar-header">
@@ -1052,9 +1177,24 @@
             }
         }
         
+        function toggleSidebar() {
+            const sidebar = document.querySelector('.sidebar');
+            const toggle = document.querySelector('.sidebar-toggle');
+            const overlay = document.querySelector('.overlay');
+            
+            if (window.innerWidth <= 1024) {
+                sidebar.classList.toggle('visible');
+                toggle.classList.toggle('active');
+                overlay.classList.toggle('active');
+                toggle.innerHTML = sidebar.classList.contains('visible') ? '✕' : '☰';
+            }
+        }
+        
         function showPage(pageId) {
-            document.querySelectorAll('.page-section').forEach(el => el.classList.remove('active'));
-            document.querySelectorAll('.page-section').forEach(el => el.style.display = 'none');
+            document.querySelectorAll('.page-section').forEach(el => {
+                el.classList.remove('active');
+                el.style.display = 'none';
+            });
             document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
             const page = document.getElementById(pageId);
             if (page) {
@@ -1063,6 +1203,10 @@
             }
             if (event && event.target) {
                 event.target.closest('.nav-item').classList.add('active');
+            }
+            // Close sidebar on mobile after navigation
+            if (window.innerWidth <= 1024) {
+                toggleSidebar();
             }
         }
         
