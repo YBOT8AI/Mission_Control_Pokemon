@@ -233,7 +233,7 @@
         
         .pokemon-sprite.online { 
             filter: drop-shadow(0 0 10px #27ae60);
-            animation: pulse 2s infinite;
+            animation: pulse 4s infinite;
         }
         
         .pokemon-sprite.offline { 
@@ -243,7 +243,7 @@
         
         .pokemon-sprite.building { 
             filter: drop-shadow(0 0 10px #f39c12);
-            animation: shake 0.5s infinite;
+            animation: gentle-bounce 3s infinite;
         }
         
         .pokemon-sprite.standby { 
@@ -253,6 +253,11 @@
         @keyframes pulse {
             0%, 100% { opacity: 1; }
             50% { opacity: 0.7; }
+        }
+        
+        @keyframes gentle-bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-3px); }
         }
         
         @keyframes shake {
@@ -754,7 +759,7 @@
                 </div>
                 
                 <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/52.gif" 
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" 
                          alt="Meowth" class="pokemon-sprite building" id="techwealth-pokemon"
                          onerror="this.style.display='none';this.parentElement.innerHTML='💰'">
                     <div class="pokemon-name">Meowth 💰</div>
@@ -787,7 +792,7 @@
                 </div>
                 
                 <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/64.gif" 
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" 
                          alt="Kadabra" class="pokemon-sprite building" id="techwealthTracker-pokemon"
                          onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
                     <div class="pokemon-name">Kadabra 🔮</div>
@@ -820,7 +825,7 @@
                 </div>
                 
                 <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/113.gif" 
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" 
                          alt="Chansey" class="pokemon-sprite standby" id="wpo-pokemon"
                          onerror="this.style.display='none';this.parentElement.innerHTML='💖'">
                     <div class="pokemon-name">Chansey 💖</div>
@@ -853,7 +858,7 @@
                 </div>
                 
                 <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/149.gif" 
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" 
                          alt="Dragonite" class="pokemon-sprite standby" id="aeroview-pokemon"
                          onerror="this.style.display='none';this.parentElement.innerHTML='🚁'">
                     <div class="pokemon-name">Dragonite 🚁</div>
