@@ -611,6 +611,80 @@
 
         @media (max-width: 1024px) { .stat-row { grid-template-columns: repeat(2, 1fr); } .chart-grid { grid-template-columns: 1fr; } .market-grid { grid-template-columns: 1fr; } }
         @media (max-width: 768px) { .stat-row { grid-template-columns: 1fr; } }
+
+        /* ── Project Detail Pages ── */
+        .project-detail-header {
+            display: flex; align-items: center; gap: 20px; margin-bottom: 30px;
+            padding: 25px; background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3);
+            border-radius: 8px; backdrop-filter: blur(10px); position: relative; overflow: hidden;
+        }
+        .project-detail-header::before {
+            content: ""; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
+        }
+        .project-detail-pokemon {
+            width: 80px; height: 80px; image-rendering: pixelated; flex-shrink: 0;
+        }
+        .project-detail-pokemon.online { filter: drop-shadow(0 0 10px #27ae60); animation: pulse 4s infinite; }
+        .project-detail-pokemon.building { filter: drop-shadow(0 0 10px #f39c12); animation: gentle-bounce 3s infinite; }
+        .project-detail-pokemon.standby { filter: drop-shadow(0 0 10px #3498db); }
+        .project-detail-title { font-size: 1.8em; color: var(--military-accent); display: flex; align-items: center; gap: 10px; }
+        .project-detail-subtitle { color: #bdc3c7; font-size: 0.9em; margin-top: 5px; }
+        .project-detail-meta { display: flex; gap: 15px; margin-top: 10px; flex-wrap: wrap; }
+        .project-detail-meta .status-badge { font-size: 0.75em; }
+        
+        .back-btn {
+            display: inline-block; margin-bottom: 20px; padding: 8px 16px;
+            background: rgba(52,152,219,0.1); border: 1px solid var(--military-accent);
+            border-radius: 4px; color: var(--military-accent); cursor: pointer;
+            font-family: 'Courier New', monospace; font-size: 0.85em; font-weight: bold;
+            text-transform: uppercase; letter-spacing: 1px; transition: all 0.3s ease;
+        }
+        .back-btn:hover { background: rgba(52,152,219,0.2); box-shadow: 0 0 10px rgba(52,152,219,0.5); }
+        
+        .task-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin-bottom: 30px; }
+        @media (max-width: 768px) { .task-grid { grid-template-columns: 1fr; } }
+        
+        .task-list-card {
+            background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3);
+            border-radius: 8px; padding: 20px; backdrop-filter: blur(10px);
+        }
+        .task-list-card h3 { font-size: 1.2em; margin-bottom: 15px; display: flex; align-items: center; gap: 8px; }
+        .task-list-card.completed h3 { color: #27ae60; }
+        .task-list-card.pending h3 { color: #f39c12; }
+        
+        .task-item {
+            display: flex; align-items: flex-start; gap: 10px; padding: 10px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.88em;
+        }
+        .task-item:last-child { border-bottom: none; }
+        .task-icon { flex-shrink: 0; margin-top: 1px; }
+        .task-text { color: #bdc3c7; line-height: 1.4; }
+        .task-item.completed .task-text { color: #95a5a6; }
+        .task-item.completed .task-text::after { content: ""; }
+        
+        .project-link-grid {
+            display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 30px;
+        }
+        .project-link-card {
+            background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3);
+            border-radius: 8px; padding: 25px; cursor: pointer; transition: all 0.3s ease;
+            backdrop-filter: blur(10px); position: relative; overflow: hidden;
+        }
+        .project-link-card:hover { transform: translateY(-5px); border-color: var(--military-accent); box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
+        .project-link-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--military-accent), #2ecc71); }
+        .project-link-card .pl-pokemon { width: 60px; height: 60px; image-rendering: pixelated; }
+        .project-link-card .pl-pokemon.online { filter: drop-shadow(0 0 8px #27ae60); animation: pulse 4s infinite; }
+        .project-link-card .pl-pokemon.building { filter: drop-shadow(0 0 8px #f39c12); animation: gentle-bounce 3s infinite; }
+        .project-link-card .pl-pokemon.standby { filter: drop-shadow(0 0 8px #3498db); }
+        .project-link-card .pl-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+        .project-link-card .pl-title { font-size: 1.2em; color: var(--military-accent); }
+        .project-link-card .pl-progress { margin: 10px 0; }
+        .project-link-card .pl-progress-track { height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden; }
+        .project-link-card .pl-progress-fill { height: 100%; background: linear-gradient(90deg, var(--military-accent), #2ecc71); border-radius: 4px; transition: width 0.5s ease; }
+        .project-link-card .pl-progress-fill.warning { background: linear-gradient(90deg, #f39c12, #e67e22); }
+        .project-link-card .pl-progress-fill.critical { background: linear-gradient(90deg, #e74c3c, #c0392b); }
+        .project-link-card .pl-tasks { font-size: 0.8em; color: #95a5a6; margin-top: 5px; }
     </style>
 </head>
 <body>
@@ -639,6 +713,12 @@
             <a class="nav-link" onclick="showPage('agents')">Agents</a>
             <a class="nav-link" onclick="showPage('market')">Market</a>
             <a class="nav-link" onclick="showPage('activity')">Activity</a>
+            <a class="nav-link" onclick="showPage('orbitx')">🌌</a>
+            <a class="nav-link" onclick="showPage('kinkin')">⚡</a>
+            <a class="nav-link" onclick="showPage('techwealth')">💰</a>
+            <a class="nav-link" onclick="showPage('tracker')">🔮</a>
+            <a class="nav-link" onclick="showPage('wpo')">💖</a>
+            <a class="nav-link" onclick="showPage('aeroview')">🚁</a>
         </nav>
         
         <div class="status-bar">
@@ -688,20 +768,20 @@
                 <div class="progress-item">
                     <div class="progress-header">
                         <span class="progress-label">🚀 KINKIN</span>
-                        <span class="progress-percent" id="kinkin-percent">60%</span>
+                        <span class="progress-percent" id="kinkin-percent">85%</span>
                     </div>
                     <div class="progress-track">
-                        <div class="progress-fill" id="kinkin-progress" style="width: 60%"></div>
+                        <div class="progress-fill" id="kinkin-progress" style="width: 85%"></div>
                     </div>
                 </div>
                 
                 <div class="progress-item">
                     <div class="progress-header">
                         <span class="progress-label">💼 TechWealth</span>
-                        <span class="progress-percent" id="techwealth-percent">45%</span>
+                        <span class="progress-percent" id="techwealth-percent">55%</span>
                     </div>
                     <div class="progress-track">
-                        <div class="progress-fill warning" id="techwealth-progress" style="width: 45%"></div>
+                        <div class="progress-fill warning" id="techwealth-progress" style="width: 55%"></div>
                     </div>
                 </div>
                 
@@ -792,7 +872,7 @@
                 <div class="mission-metrics">
                     <div class="metric">
                         <span class="metric-label">Status</span>
-                        <span class="metric-value">Build #5</span>
+                        <span class="metric-value">Build #6 · 8-Tier Polish</span>
                     </div>
                     <div class="metric">
                         <span class="metric-label">URL</span>
@@ -1047,6 +1127,352 @@
             </div></div>
         </div>
 
+        <!-- ===== PROJECTS GRID PAGE ===== -->
+        <div class="page-section" id="page-projects">
+            <div class="dashboard-header">
+                <h1 class="dashboard-title">📁 PROJECT PORTFOLIO</h1>
+                <p class="dashboard-subtitle">SELECT A PROJECT FOR DETAILED BREAKDOWN</p>
+            </div>
+            <div class="project-link-grid">
+                <div class="project-link-card" onclick="showPage('orbitx')">
+                    <div class="pl-header">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="pl-pokemon online" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                        <div>
+                            <div class="pl-title">🌌 OrbitX NFT</div>
+                            <span class="status-badge status-prelaunch">PRE-LAUNCH</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill" style="width:75%"></div></div></div>
+                    <div class="pl-tasks">10 completed · 7 pending · 75%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('kinkin')">
+                    <div class="pl-header">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="pl-pokemon building" onerror="this.style.display='none';this.parentElement.innerHTML='⚡'">
+                        <div>
+                            <div class="pl-title">🚀 KINKIN</div>
+                            <span class="status-badge status-building">DEPLOYING</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill" style="width:85%"></div></div></div>
+                    <div class="pl-tasks">10 completed · 7 pending · 85%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('techwealth')">
+                    <div class="pl-header">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="pl-pokemon building" onerror="this.style.display='none';this.parentElement.innerHTML='💰'">
+                        <div>
+                            <div class="pl-title">💼 TechWealth</div>
+                            <span class="status-badge status-building">BUILDING</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill warning" style="width:55%"></div></div></div>
+                    <div class="pl-tasks">10 completed · 7 pending · 55%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('tracker')">
+                    <div class="pl-header">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="pl-pokemon building" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
+                        <div>
+                            <div class="pl-title">📊 Tracker Pro</div>
+                            <span class="status-badge status-building">DEPLOYING</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill" style="width:85%"></div></div></div>
+                    <div class="pl-tasks">10 completed · 7 pending · 85%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('wpo')">
+                    <div class="pl-header">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="pl-pokemon standby" onerror="this.style.display='none';this.parentElement.innerHTML='💖'">
+                        <div>
+                            <div class="pl-title">🐾 WPO</div>
+                            <span class="status-badge status-standby">CONCEPT</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill warning" style="width:45%"></div></div></div>
+                    <div class="pl-tasks">10 completed · 7 pending · 45%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('aeroview')">
+                    <div class="pl-header">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="pl-pokemon standby" onerror="this.style.display='none';this.parentElement.innerHTML='🚁'">
+                        <div>
+                            <div class="pl-title">🚁 Aeroview</div>
+                            <span class="status-badge status-standby">PLANNING</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill critical" style="width:20%"></div></div></div>
+                    <div class="pl-tasks">10 completed · 7 pending · 20%</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== ORBITX NFT DETAIL PAGE ===== -->
+        <div class="page-section" id="page-orbitx">
+            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <div class="project-detail-header">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="project-detail-pokemon online" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🌌 OrbitX NFT'">
+                <div>
+                    <div class="project-detail-title">🌌 OrbitX NFT</div>
+                    <div class="project-detail-subtitle">Solana-based NFT marketplace for fine arts & music · YBOT8AI/Orbitx-NFT</div>
+                    <div class="project-detail-meta">
+                        <span class="status-badge status-prelaunch">PRE-LAUNCH</span>
+                        <span class="status-badge status-online">PHASE 1 · FINE ARTS</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-section" style="margin-bottom:30px;">
+                <h2 class="section-title">📊 PROGRESS · 75%</h2>
+                <div class="progress-track" style="height:16px;"><div class="progress-fill" style="width:75%"></div></div>
+            </div>
+            <div class="task-grid">
+                <div class="task-list-card completed">
+                    <h3>✅ COMPLETED (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Next.js frontend marketplace UI</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Solidity smart contracts (ERC-721 + marketplace)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">WalletConnect integration</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Solana Amoy testnet configuration</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">OpenZeppelin v5 import fixes</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Hardhat deployment scripts</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Vercel deployment config</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">OXC Token created on Solana (15%)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Smart contract audit preparation</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Project context file (.hermes.md)</span></div>
+                </div>
+                <div class="task-list-card pending">
+                    <h3>⏳ PENDING (7)</h3>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Testnet deployment + validation</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Artist outreach program (onboard 5 artists)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Mainnet deployment</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Phase 2: Music NFT marketplace expansion</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Cross-chain bridge (Polygon/Solana)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Royalty distribution system</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Public launch + marketing campaign</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== KINKIN DETAIL PAGE ===== -->
+        <div class="page-section" id="page-kinkin">
+            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <div class="project-detail-header">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="project-detail-pokemon building" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🚀 KINKIN'">
+                <div>
+                    <div class="project-detail-title">🚀 KINKIN</div>
+                    <div class="project-detail-subtitle">Neighborhood services marketplace with gamification · kinkin.vercel.app · YBOT8AI/KinKin</div>
+                    <div class="project-detail-meta">
+                        <span class="status-badge status-building">DEPLOYING</span>
+                        <span class="status-badge status-online">BUILD #6 · 8-TIER POLISH</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-section" style="margin-bottom:30px;">
+                <h2 class="section-title">📊 PROGRESS · 85%</h2>
+                <div class="progress-track" style="height:16px;"><div class="progress-fill" style="width:85%"></div></div>
+            </div>
+            <div class="task-grid">
+                <div class="task-list-card completed">
+                    <h3>✅ COMPLETED (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Core marketplace (6 service categories)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Provider profiles with level system</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Trilingual i18n (en, zh-Hant, zh-Hans)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Gamification engine (XP, KinPoints, KindPoints)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 1: Conversion & trust (TrustBar, risk-reversal, CTAs)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 2-3: UI polish + gamification visibility components</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 4-5: Mobile nav, search, enhanced provider cards</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 6: KindKin charity arm with request feed + leaderboard</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 7: SEO, sitemap, PWA manifest, accessibility</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 8: District pages, earnings calculator, blog, challenges</span></div>
+                </div>
+                <div class="task-list-card pending">
+                    <h3>⏳ PENDING (7)</h3>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Booking flow + payment integration (escrow)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Supabase backend (auth, real-time, database)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Mobile app (iOS + Android via React Native)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Blog article content (6 guides outlined, 0 written)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Provider onboarding flow + KYC verification</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Review + rating system backend</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Public launch + neighborhood marketing campaign</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== TECHWEALTH DETAIL PAGE ===== -->
+        <div class="page-section" id="page-techwealth">
+            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <div class="project-detail-header">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="project-detail-pokemon building" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='💼 TechWealth'">
+                <div>
+                    <div class="project-detail-title">💼 TechWealth</div>
+                    <div class="project-detail-subtitle">Financial tech platform · 5-tier membership · 15% fee · tech-wealth-website.vercel.app · evilmoni/TechWealth</div>
+                    <div class="project-detail-meta">
+                        <span class="status-badge status-building">BUILDING</span>
+                        <span class="status-badge status-online">MONETIZATION ENGINE</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-section" style="margin-bottom:30px;">
+                <h2 class="section-title">📊 PROGRESS · 55%</h2>
+                <div class="progress-track" style="height:16px;"><div class="progress-fill warning" style="width:55%"></div></div>
+            </div>
+            <div class="task-grid">
+                <div class="task-list-card completed">
+                    <h3>✅ COMPLETED (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Concept definition + business model</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Market research + competitor analysis</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Policy framework (4 key decisions)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">UI/UX (logo, pricing, Diamond tier)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">WhatsApp link preview (OG tags)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Monetization engine (Stripe checkout + auto-provisioning)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Digital store implementation</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Master strategy merge (vision, pricing, features, API, revenue)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">TECHWEALTH_ROADMAP.md consolidated</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Next.js 14 app router structure (158 files)</span></div>
+                </div>
+                <div class="task-list-card pending">
+                    <h3>⏳ PENDING (7)</h3>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Payment integration (FPS/Bank Transfer for HK)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Member database (Firestore)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">3-slot engine implementation</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Family audit dashboard</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Beta testing (10 members)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Admin panel + member management</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Public launch + customer acquisition</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== CLIENT TRACKER PRO DETAIL PAGE ===== -->
+        <div class="page-section" id="page-tracker">
+            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <div class="project-detail-header">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="project-detail-pokemon building" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='📊 Tracker Pro'">
+                <div>
+                    <div class="project-detail-title">📊 TechWealth Tracker Pro</div>
+                    <div class="project-detail-subtitle">Client management system for TechWealth members · YBOT8AI/Client_Tracker_Pro</div>
+                    <div class="project-detail-meta">
+                        <span class="status-badge status-building">DEPLOYING</span>
+                        <span class="status-badge status-online">HK/CHINA LOCALIZED</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-section" style="margin-bottom:30px;">
+                <h2 class="section-title">📊 PROGRESS · 85%</h2>
+                <div class="progress-track" style="height:16px;"><div class="progress-fill" style="width:85%"></div></div>
+            </div>
+            <div class="task-grid">
+                <div class="task-list-card completed">
+                    <h3>✅ COMPLETED (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Dashboard UI (client overview + stats)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Client forms (add/edit/delete)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Purchase tracking system</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Referral system</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">GitHub repository setup</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Supabase schema design</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">HK/China localization (FPS, WeChat Pay)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">IRD invoice generation</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Analytics dashboard</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Deployment documentation</span></div>
+                </div>
+                <div class="task-list-card pending">
+                    <h3>⏳ PENDING (7)</h3>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Vercel deployment (live)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Supabase production setup</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Real-time sync across devices</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">CSV/Excel export</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Email notification system</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Multi-tenant support (TechWealth integration)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Production launch + user onboarding</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== WPO DETAIL PAGE ===== -->
+        <div class="page-section" id="page-wpo">
+            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <div class="project-detail-header">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="project-detail-pokemon standby" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🐾 WPO'">
+                <div>
+                    <div class="project-detail-title">🐾 WPO (World Paws Org)</div>
+                    <div class="project-detail-subtitle">Animal welfare organization · Solana token · WorldPawsOrg_Website · Priority shifted to TechWealth</div>
+                    <div class="project-detail-meta">
+                        <span class="status-badge status-standby">CONCEPT</span>
+                        <span class="status-badge status-building">OPTION B · FULL BUILD</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-section" style="margin-bottom:30px;">
+                <h2 class="section-title">📊 PROGRESS · 45%</h2>
+                <div class="progress-track" style="height:16px;"><div class="progress-fill warning" style="width:45%"></div></div>
+            </div>
+            <div class="task-grid">
+                <div class="task-list-card completed">
+                    <h3>✅ COMPLETED (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Mission definition + vision</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Option B selected (full build)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Logo design received</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">GitHub repository created</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Website initial deployment (GitHub Pages)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">CI/CD pipeline (GitHub Actions)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Cache cleanup + force redeploy</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Obsolete file cleanup</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Project context file (.hermes.md)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Blockchain platform decided (Solana)</span></div>
+                </div>
+                <div class="task-list-card pending">
+                    <h3>⏳ PENDING (7)</h3>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Solana token setup + smart contract</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Website development (full build)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Vercel deployment</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">YouTube channel setup + content</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Token launch + distribution</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Community building + social media</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Partnership outreach (animal shelters)</span></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== AEROVIEW DETAIL PAGE ===== -->
+        <div class="page-section" id="page-aeroview">
+            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <div class="project-detail-header">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="project-detail-pokemon standby" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🚁 Aeroview'">
+                <div>
+                    <div class="project-detail-title">🚁 Aeroview</div>
+                    <div class="project-detail-subtitle">Drone fleet management system · YBOT8AI/Aeroview · Concept definition phase</div>
+                    <div class="project-detail-meta">
+                        <span class="status-badge status-standby">PLANNING</span>
+                        <span class="status-badge status-building">CONCEPT DEFINITION</span>
+                    </div>
+                </div>
+            </div>
+            <div class="progress-section" style="margin-bottom:30px;">
+                <h2 class="section-title">📊 PROGRESS · 20%</h2>
+                <div class="progress-track" style="height:16px;"><div class="progress-fill critical" style="width:20%"></div></div>
+            </div>
+            <div class="task-grid">
+                <div class="task-list-card completed">
+                    <h3>✅ COMPLETED (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Concept definition document</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">GitHub repository created</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Initial project structure</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Use case brainstorming (5 scenarios)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Market research (drone industry)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Competitor analysis (DJI, Skydio)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Project context file (.hermes.md)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Mission Control dashboard tracking</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Dragonite assigned as Pokémon mascot</span></div>
+                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Priority assessment (medium)</span></div>
+                </div>
+                <div class="task-list-card pending">
+                    <h3>⏳ PENDING (7)</h3>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Detailed requirements gathering</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Architecture design + system diagram</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Tech stack selection (real-time, mapping)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Prototype development (MVP)</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Drone hardware integration API</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Real-time data processing pipeline</span></div>
+                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Beta testing with actual drone fleet</span></div>
+                </div>
+            </div>
+        </div>
+
     </main>
     
     <script>
@@ -1083,10 +1509,10 @@
         function initCharts() {
             // Stat cards
             const projects = [
-                {name:'OrbitX NFT',progress:75},{name:'KINKIN',progress:60},{name:'TechWealth',progress:90},
-                {name:'Client Tracker Pro',progress:85},{name:'WPO',progress:20},{name:'Aeroview',progress:20}
+                {name:'OrbitX NFT',progress:75},{name:'KINKIN',progress:85},{name:'TechWealth',progress:55},
+                {name:'Client Tracker Pro',progress:85},{name:'WPO',progress:45},{name:'Aeroview',progress:20}
             ];
-            const totalTasks = 33, doneTasks = 18;
+            const totalTasks = 102, doneTasks = 58;
             const avgProgress = Math.round(projects.reduce((s,p)=>s+p.progress,0)/projects.length);
             const cronOk = 8, cronTotal = 8;
 
