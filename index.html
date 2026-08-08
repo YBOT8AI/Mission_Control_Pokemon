@@ -1266,62 +1266,70 @@
             });
         }
 
-        function destroyCharts() {
-            Object.values(chartInstances).forEach(c => { try { c.destroy(); } catch(e) {} });
-            chartInstances = {};
-        }
-
         function renderCharts() {
             const d = dashboardData;
             if (!d) return;
             const projects = d.projects || {};
             const projKeys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
             const projList = projKeys.map(k => projects[k]).filter(Boolean);
-            destroyCharts();
+            if (projList.length === 0) return;
 
+            // Update existing charts in-place, or create if first time
             const ctx1 = document.getElementById('chart-progress');
             if (ctx1) {
-                chartInstances.progress = new Chart(ctx1, {
-                    type: 'bar',
-                    data: {
-                        labels: projList.map(p => p.name),
-                        datasets: [{
-                            label: 'Progress %', data: projList.map(p => p.progress),
-                            backgroundColor: projList.map(p => p.progress >= 80 ? 'rgba(39,166,68,0.6)' : p.progress >= 40 ? 'rgba(217,119,6,0.6)' : 'rgba(220,38,38,0.6)'),
-                            borderColor: projList.map(p => p.progress >= 80 ? '#27a644' : p.progress >= 40 ? '#d97706' : '#dc2626'),
-                            borderWidth: 1, borderRadius: 4
-                        }]
-                    },
-                    options: {
-                        responsive: true, maintainAspectRatio: false,
-                        plugins: { legend: { display: false } },
-                        scales: {
-                            y: { max: 100, grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { color: '#6e7278', font: { size: 10 } } },
-                            x: { ticks: { color: '#6e7278', font: { size: 9 } }, grid: { display: false } }
+                if (chartInstances.progress) {
+                    chartInstances.progress.data.labels = projList.map(p => p.name);
+                    chartInstances.progress.data.datasets[0].data = projList.map(p => p.progress);
+                    chartInstances.progress.data.datasets[0].backgroundColor = projList.map(p => p.progress >= 80 ? 'rgba(39,166,68,0.6)' : p.progress >= 40 ? 'rgba(217,119,6,0.6)' : 'rgba(220,38,38,0.6)');
+                    chartInstances.progress.update();
+                } else {
+                    chartInstances.progress = new Chart(ctx1, {
+                        type: 'bar',
+                        data: {
+                            labels: projList.map(p => p.name),
+                            datasets: [{
+                                label: 'Progress %', data: projList.map(p => p.progress),
+                                backgroundColor: projList.map(p => p.progress >= 80 ? 'rgba(39,166,68,0.6)' : p.progress >= 40 ? 'rgba(217,119,6,0.6)' : 'rgba(220,38,38,0.6)'),
+                                borderColor: projList.map(p => p.progress >= 80 ? '#27a644' : p.progress >= 40 ? '#d97706' : '#dc2626'),
+                                borderWidth: 1, borderRadius: 4
+                            }]
+                        },
+                        options: {
+                            responsive: true, maintainAspectRatio: false,
+                            plugins: { legend: { display: false } },
+                            scales: {
+                                y: { max: 100, grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { color: '#6e7278', font: { size: 10 } } },
+                                x: { ticks: { color: '#6e7278', font: { size: 9 } }, grid: { display: false } }
+                            }
                         }
-                    }
-                });
+                    });
+                }
             }
 
             const totalCommits = projList.reduce((s, p) => s + (p.git?.totalCommits || 0), 0);
             const recentCommits = projList.reduce((s, p) => s + (p.git?.commits30d || 0), 0);
             const ctx2 = document.getElementById('chart-tasks');
             if (ctx2) {
-                chartInstances.tasks = new Chart(ctx2, {
-                    type: 'doughnut',
-                    data: {
-                        labels: ['Recent (30d)', 'Older'],
-                        datasets: [{
-                            data: [recentCommits, Math.max(0, totalCommits - recentCommits)],
-                            backgroundColor: ['rgba(39,166,68,0.6)', 'rgba(110,114,120,0.2)'],
-                            borderColor: ['#27a644', '#3e4044'], borderWidth: 1
-                        }]
-                    },
-                    options: {
-                        responsive: true, maintainAspectRatio: false,
-                        plugins: { legend: { labels: { color: '#6e7278', font: { size: 10 }, padding: 16 } } }
-                    }
-                });
+                if (chartInstances.tasks) {
+                    chartInstances.tasks.data.datasets[0].data = [recentCommits, Math.max(0, totalCommits - recentCommits)];
+                    chartInstances.tasks.update();
+                } else {
+                    chartInstances.tasks = new Chart(ctx2, {
+                        type: 'doughnut',
+                        data: {
+                            labels: ['Recent (30d)', 'Older'],
+                            datasets: [{
+                                data: [recentCommits, Math.max(0, totalCommits - recentCommits)],
+                                backgroundColor: ['rgba(39,166,68,0.6)', 'rgba(110,114,120,0.2)'],
+                                borderColor: ['#27a644', '#3e4044'], borderWidth: 1
+                            }]
+                        },
+                        options: {
+                            responsive: true, maintainAspectRatio: false,
+                            plugins: { legend: { labels: { color: '#6e7278', font: { size: 10 }, padding: 16 } } }
+                        }
+                    });
+                }
             }
 
             const cron = d.cron || {};
@@ -1329,47 +1337,59 @@
             const ctx3 = document.getElementById('chart-cron');
             if (ctx3 && jobs.length > 0) {
                 const names = jobs.map(j => (j.name || j.id).substring(0, 10));
-                chartInstances.cron = new Chart(ctx3, {
-                    type: 'bar',
-                    data: {
-                        labels: names,
-                        datasets: [{
-                            label: 'Status', data: jobs.map(j => j.last_status === 'ok' ? 1 : 0.3),
-                            backgroundColor: jobs.map(j => j.last_status === 'ok' ? 'rgba(39,166,68,0.6)' : 'rgba(220,38,38,0.6)'),
-                            borderColor: jobs.map(j => j.last_status === 'ok' ? '#27a644' : '#dc2626'),
-                            borderWidth: 1, borderRadius: 3
-                        }]
-                    },
-                    options: {
-                        responsive: true, maintainAspectRatio: false,
-                        plugins: { legend: { display: false } },
-                        scales: {
-                            y: { max: 1.5, grid: { display: false }, ticks: { display: false } },
-                            x: { ticks: { color: '#6e7278', font: { size: 7 } }, grid: { display: false } }
+                if (chartInstances.cron) {
+                    chartInstances.cron.data.labels = names;
+                    chartInstances.cron.data.datasets[0].data = jobs.map(j => j.last_status === 'ok' ? 1 : 0.3);
+                    chartInstances.cron.data.datasets[0].backgroundColor = jobs.map(j => j.last_status === 'ok' ? 'rgba(39,166,68,0.6)' : 'rgba(220,38,38,0.6)');
+                    chartInstances.cron.update();
+                } else {
+                    chartInstances.cron = new Chart(ctx3, {
+                        type: 'bar',
+                        data: {
+                            labels: names,
+                            datasets: [{
+                                label: 'Status', data: jobs.map(j => j.last_status === 'ok' ? 1 : 0.3),
+                                backgroundColor: jobs.map(j => j.last_status === 'ok' ? 'rgba(39,166,68,0.6)' : 'rgba(220,38,38,0.6)'),
+                                borderColor: jobs.map(j => j.last_status === 'ok' ? '#27a644' : '#dc2626'),
+                                borderWidth: 1, borderRadius: 3
+                            }]
+                        },
+                        options: {
+                            responsive: true, maintainAspectRatio: false,
+                            plugins: { legend: { display: false } },
+                            scales: {
+                                y: { max: 1.5, grid: { display: false }, ticks: { display: false } },
+                                x: { ticks: { color: '#6e7278', font: { size: 7 } }, grid: { display: false } }
+                            }
                         }
-                    }
-                });
+                    });
+                }
             }
 
             const ctx4 = document.getElementById('chart-agents');
             if (ctx4) {
                 const agents = d.agents || {};
                 const active = (agents.hermes?.status === 'running' ? 1 : 0) + (agents.cron?.status === 'running' ? 1 : 0);
-                chartInstances.agents = new Chart(ctx4, {
-                    type: 'doughnut',
-                    data: {
-                        labels: ['Running', 'Stopped'],
-                        datasets: [{
-                            data: [active, Math.max(0, 2 - active)],
-                            backgroundColor: ['rgba(39,166,68,0.6)', 'rgba(110,114,120,0.2)'],
-                            borderColor: ['#27a644', '#3e4044'], borderWidth: 1
-                        }]
-                    },
-                    options: {
-                        responsive: true, maintainAspectRatio: false,
-                        plugins: { legend: { labels: { color: '#6e7278', font: { size: 10 }, padding: 16 } } }
-                    }
-                });
+                if (chartInstances.agents) {
+                    chartInstances.agents.data.datasets[0].data = [active, Math.max(0, 2 - active)];
+                    chartInstances.agents.update();
+                } else {
+                    chartInstances.agents = new Chart(ctx4, {
+                        type: 'doughnut',
+                        data: {
+                            labels: ['Running', 'Stopped'],
+                            datasets: [{
+                                data: [active, Math.max(0, 2 - active)],
+                                backgroundColor: ['rgba(39,166,68,0.6)', 'rgba(110,114,120,0.2)'],
+                                borderColor: ['#27a644', '#3e4044'], borderWidth: 1
+                            }]
+                        },
+                        options: {
+                            responsive: true, maintainAspectRatio: false,
+                            plugins: { legend: { labels: { color: '#6e7278', font: { size: 10 }, padding: 16 } } }
+                        }
+                    });
+                }
             }
         }
 
