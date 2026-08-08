@@ -86,8 +86,8 @@
         /* ── Main Content ─────────────────────────────────────── */
         .main-content { margin-top: 56px; padding: 32px 28px; max-width: 1440px; margin-left: auto; margin-right: auto; }
 
-        .page-section { display: none; animation: fadeIn 0.25s ease; }
-        .page-section.active { display: block; }
+        .page-section { visibility: hidden; position: absolute; width: 100%; pointer-events: none; }
+        .page-section.active { visibility: visible; position: relative; pointer-events: auto; animation: fadeIn 0.25s ease; }
         @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
 
         /* ── Page Header ──────────────────────────────────────── */
