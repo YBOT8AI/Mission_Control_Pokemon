@@ -114,7 +114,6 @@
         }
         .chart-card h2 { font-size: 0.8em; font-weight: 600; color: var(--text-secondary); margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.04em; }
         .chart-wrap { position: relative; height: 240px; min-height: 240px; }
-        .chart-wrap canvas { width: 100% !important; height: 100% !important; }
 
         /* ── Progress Tracker ─────────────────────────────────── */
         .progress-section {
@@ -1055,6 +1054,12 @@
         }
 
         function showPage(name) {
+            // Destroy charts when leaving dashboard to prevent stale canvas references
+            if (!document.getElementById('page-dashboard').classList.contains('active') && name !== 'dashboard') {
+                // Already on another page, no charts to worry about
+            } else if (name !== 'dashboard') {
+                destroyCharts();
+            }
             document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
             document.querySelectorAll('.nav-link').forEach(n => n.classList.remove('active'));
             const page = document.getElementById('page-' + name);
@@ -1265,6 +1270,11 @@
                 if (pctEl) pctEl.textContent = pct;
                 if (barEl) { barEl.style.width = pct + '%'; barEl.className = 'progress-fill' + (pct >= 80 ? ' good' : pct >= 40 ? ' warning' : ' critical'); }
             });
+        }
+
+        function destroyCharts() {
+            Object.values(chartInstances).forEach(c => { try { c.destroy(); } catch(e) {} });
+            chartInstances = {};
         }
 
         function renderCharts() {
