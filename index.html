@@ -113,7 +113,8 @@
             border-radius: var(--radius-md); padding: 20px 22px;
         }
         .chart-card h2 { font-size: 0.8em; font-weight: 600; color: var(--text-secondary); margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.04em; }
-        .chart-wrap { position: relative; height: 240px; }
+        .chart-wrap { position: relative; height: 240px; min-height: 240px; }
+        .chart-wrap canvas { width: 100% !important; height: 100% !important; }
 
         /* ── Progress Tracker ─────────────────────────────────── */
         .progress-section {
@@ -1082,7 +1083,7 @@
                 dashboardData = await resp.json();
                 updateAllSections();
                 if (document.getElementById('page-dashboard').classList.contains('active')) {
-                    renderCharts();
+                    requestAnimationFrame(() => renderCharts());
                 }
                 updateHeaderStatus();
             } catch (err) {
