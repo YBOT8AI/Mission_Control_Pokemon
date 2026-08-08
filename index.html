@@ -1072,15 +1072,25 @@
         }
 
         async function fetchData() {
+            const statsRow = document.getElementById('stats-row');
+            if (statsRow && !dashboardData) {
+                statsRow.innerHTML = '<div class="stat-row"><div class="stat-card" style="grid-column:1/-1;text-align:center"><div class="stat-value" style="font-size:1em;color:var(--text-tertiary)">Loading…</div></div></div>';
+            }
             try {
                 const resp = await fetch(DATA_URL + '?t=' + Date.now());
                 if (!resp.ok) throw new Error('HTTP ' + resp.status);
                 dashboardData = await resp.json();
                 updateAllSections();
-                renderCharts();
+                if (document.getElementById('page-dashboard').classList.contains('active')) {
+                    renderCharts();
+                }
                 updateHeaderStatus();
             } catch (err) {
                 console.warn('Data fetch failed:', err.message);
+                if (!dashboardData) {
+                    const statsRow = document.getElementById('stats-row');
+                    if (statsRow) statsRow.innerHTML = '<div class="stat-row"><div class="stat-card" style="grid-column:1/-1;text-align:center"><div class="stat-value" style="font-size:1em;color:#f87171">Data unavailable</div><div class="stat-label">Retrying in 60s</div></div></div>';
+                }
             }
         }
 
