@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T17:02:38.673975+08:00",
+  "generatedAt": "2026-08-08T17:32:42.873325+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-08T16:57:45.991995+08:00",
-        "next_run": "2026-08-08T17:27:45.991995+08:00"
+        "last_run": "2026-08-08T17:28:50.349946+08:00",
+        "next_run": "2026-08-08T17:58:50.349946+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-08T16:32:36.693609+08:00",
-        "next_run": "2026-08-08T17:32:36.727557+08:00"
+        "last_run": "2026-08-08T17:02:40.819659+08:00",
+        "next_run": "2026-08-08T18:02:40.875262+08:00"
       }
     ],
     "total": 14,
@@ -296,16 +296,16 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "417Gi",
-    "uptime": "22:22"
+    "uptime": "22:52"
   },
   "activity": [
     {
-      "time": "2026-08-08T17:02:38.673628+08:00",
+      "time": "2026-08-08T17:32:42.873049+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-08T17:02:38.673628+08:00",
+      "time": "2026-08-08T17:32:42.873049+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/14 jobs healthy"
     },
