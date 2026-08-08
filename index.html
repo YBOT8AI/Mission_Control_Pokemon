@@ -3,1493 +3,1042 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🎯 MISSION CONTROL | YBOT Operations</title>
+    <title>Mission Control — YBOT Operations</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
     <style>
-        * { 
-            margin: 0; 
-            padding: 0; 
-            box-sizing: border-box; 
-        }
-        
         :root {
-            --military-green: #2c3e50;
-            --military-dark: #1a1a2e;
-            --military-accent: #3498db;
-            --military-highlight: #e74c3c;
-            --military-text: #ecf0f1;
-            --sidebar-width: 280px;
+            --bg-deep: #08090a;
+            --bg-panel: #0f1011;
+            --bg-surface: #141516;
+            --bg-elevated: #191a1b;
+            --bg-hover: #1e1f20;
+            --text-primary: #f7f8f8;
+            --text-secondary: #b4b8bf;
+            --text-tertiary: #6e7278;
+            --accent: #5e6ad2;
+            --accent-bright: #7170ff;
+            --accent-glow: rgba(94,106,210,0.15);
+            --green: #27a644;
+            --green-glow: rgba(39,166,68,0.15);
+            --amber: #d97706;
+            --amber-glow: rgba(217,119,6,0.15);
+            --red: #dc2626;
+            --red-glow: rgba(220,38,38,0.15);
+            --border-subtle: rgba(255,255,255,0.06);
+            --border-standard: rgba(255,255,255,0.08);
+            --radius-sm: 6px;
+            --radius-md: 10px;
+            --radius-lg: 14px;
+            --radius-xl: 20px;
+            --shadow-card: 0 1px 2px rgba(0,0,0,0.4);
+            --shadow-elevated: 0 4px 16px rgba(0,0,0,0.5);
         }
-        
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
         body {
-            font-family: 'Courier New', monospace;
-            background: linear-gradient(135deg, var(--military-dark) 0%, #0f3460 100%);
-            color: var(--military-text);
+            font-family: 'Inter', -apple-system, system-ui, sans-serif;
+            background: var(--bg-deep);
+            color: var(--text-primary);
             min-height: 100vh;
-            overflow-x: hidden;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
         }
-        
-        /* Military Grid Background */
-        body::before {
-            content: "";
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-image: 
-                linear-gradient(rgba(44, 62, 80, 0.1) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(44, 62, 80, 0.1) 1px, transparent 1px);
-            background-size: 30px 30px;
-            z-index: -1;
-            opacity: 0.3;
-        }
-        
-        /* Header/Navigation */
+
+        /* ── Header ──────────────────────────────────────────── */
         .header {
-            background: rgba(0, 0, 0, 0.85);
-            border-bottom: 2px solid var(--military-accent);
-            padding: 15px 30px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            position: fixed;
-            top: 0;
-            left: 0;
-            right: 0;
-            z-index: 1000;
-            backdrop-filter: blur(10px);
+            position: fixed; top: 0; left: 0; right: 0; z-index: 1000;
+            background: rgba(8,9,10,0.85);
+            backdrop-filter: blur(20px) saturate(180%);
+            -webkit-backdrop-filter: blur(20px) saturate(180%);
+            border-bottom: 1px solid var(--border-subtle);
+            padding: 0 28px; height: 56px;
+            display: flex; align-items: center; justify-content: space-between;
         }
-        
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 15px;
-        }
-        
-        .logo-icon {
-            font-size: 2em;
-            color: var(--military-accent);
-        }
-        
+
+        .logo { display: flex; align-items: center; gap: 10px; }
+        .logo-icon { font-size: 1.5em; }
         .logo-text {
-            font-size: 1.5em;
-            font-weight: bold;
-            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-transform: uppercase;
-            letter-spacing: 2px;
+            font-size: 0.95em; font-weight: 600; letter-spacing: -0.01em;
+            color: var(--text-primary);
         }
-        
-        .nav-links {
-            display: flex;
-            gap: 30px;
-        }
-        
+        .logo-dot { color: var(--accent-bright); }
+
+        .nav-links { display: flex; gap: 4px; align-items: center; }
         .nav-link {
-            color: var(--military-text);
-            text-decoration: none;
-            padding: 8px 15px;
-            border-radius: 4px;
-            transition: all 0.3s ease;
-            font-weight: bold;
-            text-transform: uppercase;
-            font-size: 0.9em;
-            letter-spacing: 1px;
-            cursor: pointer;
-        }
-        
-        .nav-link:hover, .nav-link.active {
-            background: rgba(52, 152, 219, 0.2);
-            color: var(--military-accent);
-            box-shadow: 0 0 10px rgba(52, 152, 219, 0.5);
-        }
-        
-        .status-bar {
-            display: flex;
-            align-items: center;
-            gap: 20px;
-        }
-        
-        .status-item {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 0.9em;
-        }
-        
-        .status-indicator {
-            width: 12px;
-            height: 12px;
-            border-radius: 50%;
-            background: #27ae60;
-        }
-        
-        .status-indicator.offline {
-            background: #e74c3c;
-        }
-        
-        .status-indicator.warning {
-            background: #f39c12;
-        }
-        
-        /* Main Content */
-        .main-content {
-            margin-top: 80px;
-            padding: 30px;
-            max-width: 1600px;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        
-        .dashboard-header {
-            text-align: center;
-            margin-bottom: 40px;
-            padding: 20px;
-            border-bottom: 1px solid rgba(52, 152, 219, 0.3);
-        }
-        
-        .dashboard-title {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            text-transform: uppercase;
-            letter-spacing: 3px;
-        }
-        
-        .dashboard-subtitle {
-            color: #bdc3c7;
-            font-size: 1.2em;
-            letter-spacing: 1px;
-        }
-        
-        /* Mission Cards Grid */
-        .missions-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 25px;
-            margin-bottom: 40px;
-        }
-        
-        .mission-card {
-            background: rgba(0, 0, 0, 0.7);
-            border: 1px solid rgba(52, 152, 219, 0.3);
-            border-radius: 8px;
-            padding: 25px;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-            backdrop-filter: blur(10px);
-        }
-        
-        .mission-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
-            border-color: var(--military-accent);
-        }
-        
-        .mission-card::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 3px;
-            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
-        }
-        
-        .mission-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 20px;
-        }
-        
-        .mission-title {
-            font-size: 1.4em;
-            color: var(--military-accent);
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        
-        .mission-emoji {
-            font-size: 1.2em;
-        }
-        
-        .pokemon-container {
-            text-align: center;
-            margin: 15px 0;
-        }
-        
-        .pokemon-sprite {
-            width: 100px;
-            height: 100px;
-            image-rendering: pixelated;
-            image-rendering: crisp-edges;
-            transition: all 0.3s ease;
-        }
-        
-        .pokemon-sprite.online { 
-            filter: drop-shadow(0 0 10px #27ae60);
-            animation: pulse 4s infinite;
-        }
-        
-        .pokemon-sprite.offline { 
-            filter: grayscale(100%) drop-shadow(0 0 10px #e74c3c);
-            opacity: 0.6;
-        }
-        
-        .pokemon-sprite.building { 
-            filter: drop-shadow(0 0 10px #f39c12);
-            animation: gentle-bounce 3s infinite;
-        }
-        
-        .pokemon-sprite.standby { 
-            filter: drop-shadow(0 0 10px #3498db);
-        }
-        
-        @keyframes pulse {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0.7; }
-        }
-        
-        @keyframes gentle-bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-3px); }
-        }
-        
-        @keyframes shake {
-            0%, 100% { transform: translateX(0); }
-            25% { transform: translateX(-5px); }
-            75% { transform: translateX(5px); }
-        }
-        
-        .pokemon-name {
-            margin-top: 10px;
-            font-size: 1.1em;
-            color: #bdc3c7;
-            font-weight: bold;
-        }
-        
-        .mission-metrics {
-            margin: 20px 0;
-        }
-        
-        .metric {
-            display: flex;
-            justify-content: space-between;
-            padding: 12px 0;
-            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
-        }
-        
-        .metric:last-child {
-            border-bottom: none;
-        }
-        
-        .metric-label {
-            color: #95a5a6;
-            font-size: 0.95em;
-        }
-        
-        .metric-value {
-            font-weight: bold;
-            color: var(--military-text);
-        }
-        
-        .status-badge {
-            display: inline-block;
-            padding: 4px 12px;
-            border-radius: 12px;
-            font-size: 0.8em;
-            font-weight: bold;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-        
-        .status-online { 
-            background: rgba(39, 174, 96, 0.2); 
-            color: #27ae60; 
-            border: 1px solid #27ae60;
-        }
-        
-        .status-offline { 
-            background: rgba(231, 76, 60, 0.2); 
-            color: #e74c3c; 
-            border: 1px solid #e74c3c;
-        }
-        
-        .status-building { 
-            background: rgba(243, 156, 18, 0.2); 
-            color: #f39c12; 
-            border: 1px solid #f39c12;
-        }
-        
-        .status-standby { 
-            background: rgba(52, 152, 219, 0.2); 
-            color: #3498db; 
-            border: 1px solid #3498db;
-        }
-        
-        .status-prelaunch { 
-            background: rgba(155, 89, 182, 0.2); 
-            color: #9b59b6; 
-            border: 1px solid #9b59b6;
-        }
-        
-        /* Progress Section */
-        .progress-section {
-            background: rgba(0, 0, 0, 0.7);
-            border: 1px solid rgba(52, 152, 219, 0.3);
-            border-radius: 8px;
-            padding: 25px;
-            margin-bottom: 40px;
-            backdrop-filter: blur(10px);
-        }
-        
-        .section-title {
-            font-size: 1.5em;
-            color: var(--military-accent);
-            margin-bottom: 20px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-        
-        .progress-bars {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        
-        .progress-item {
-            margin-bottom: 20px;
-        }
-        
-        .progress-header {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 8px;
-        }
-        
-        .progress-label {
-            font-weight: bold;
-            color: var(--military-text);
-        }
-        
-        .progress-percent {
-            color: var(--military-accent);
-            font-weight: bold;
-        }
-        
-        .progress-track {
-            height: 12px;
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 6px;
-            overflow: hidden;
-        }
-        
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
-            border-radius: 6px;
-            transition: width 0.5s ease;
-        }
-        
-        .progress-fill.warning {
-            background: linear-gradient(90deg, #f39c12, #e67e22);
-        }
-        
-        .progress-fill.critical {
-            background: linear-gradient(90deg, #e74c3c, #c0392b);
-        }
-        
-        /* Activity Log */
-        .activity-log {
-            background: rgba(0, 0, 0, 0.7);
-            border: 1px solid rgba(52, 152, 219, 0.3);
-            border-radius: 8px;
-            padding: 25px;
-            backdrop-filter: blur(10px);
-        }
-        
-        .activity-items {
-            max-height: 400px;
-            overflow-y: auto;
-        }
-        
-        .activity-item {
-            padding: 15px;
-            border-left: 3px solid var(--military-accent);
-            background: rgba(52, 152, 219, 0.1);
-            margin: 10px 0;
-            border-radius: 0 4px 4px 0;
-        }
-        
-        .activity-time {
-            color: var(--military-accent);
-            font-size: 0.85em;
-            margin-bottom: 5px;
-            font-weight: bold;
-        }
-        
-        .activity-text {
-            color: #bdc3c7;
-        }
-        
-        /* Responsive Design */
-        @media (max-width: 1024px) {
-            .missions-grid {
-                grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            }
-            
-            .nav-links {
-                display: none;
-            }
-        }
-        
-        @media (max-width: 768px) {
-            .header {
-                padding: 15px;
-            }
-            
-            .logo-text {
-                font-size: 1.2em;
-            }
-            
-            .main-content {
-                padding: 20px 15px;
-                margin-top: 70px;
-            }
-            
-            .dashboard-title {
-                font-size: 2em;
-            }
-            
-            .missions-grid {
-                grid-template-columns: 1fr;
-            }
-            
-            .status-bar {
-                display: none;
-            }
-        }
-        
-        /* Login Screen */
-        #login-screen {
-            position: fixed;
-            top: 0; left: 0; right: 0; bottom: 0;
-            background: rgba(0, 0, 0, 0.95);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            z-index: 2000;
-            backdrop-filter: blur(10px);
-        }
-        
-        .login-box {
-            background: rgba(30, 30, 46, 0.9);
-            padding: 40px;
-            border-radius: 12px;
-            border: 2px solid var(--military-accent);
-            text-align: center;
-            max-width: 400px;
-            width: 90%;
-            box-shadow: 0 0 30px rgba(52, 152, 219, 0.3);
-        }
-        
-        .login-box h2 {
-            margin-bottom: 20px;
-            color: var(--military-accent);
-            font-size: 2em;
-        }
-        
-        .login-box p {
-            color: #bdc3c7;
-            margin-bottom: 25px;
-        }
-        
-        .login-box input {
-            width: 100%;
-            padding: 15px;
-            margin: 15px 0;
-            background: rgba(0, 0, 0, 0.3);
-            border: 1px solid var(--military-accent);
-            border-radius: 6px;
-            color: white;
-            font-family: 'Courier New', monospace;
-            font-size: 1.1em;
-        }
-        
-        .login-box button {
-            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
-            color: white;
-            border: none;
-            padding: 15px 30px;
-            border-radius: 6px;
-            cursor: pointer;
-            font-family: 'Courier New', monospace;
-            font-weight: bold;
-            font-size: 1.1em;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            transition: all 0.3s ease;
-            width: 100%;
-        }
-        
-        .login-box button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(52, 152, 219, 0.4);
-        }
-        
-        #login-error {
-            color: #e74c3c;
-            margin-top: 15px;
-            display: none;
-            font-weight: bold;
-        }
-        
-        /* Military Terminal Effect */
-        .terminal-text {
-            font-family: 'Courier New', monospace;
-            position: relative;
-        }
-        
-        .terminal-text::after {
-            content: "▋";
-            animation: blink 1s infinite;
-            margin-left: 5px;
-        }
-        
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0; }
-        }
+            color: var(--text-tertiary); text-decoration: none;
+            padding: 6px 12px; border-radius: var(--radius-sm);
+            font-size: 0.8em; font-weight: 500; letter-spacing: -0.01em;
+            transition: all 0.15s ease; cursor: pointer;
+            white-space: nowrap;
+        }
+        .nav-link:hover { color: var(--text-secondary); background: var(--bg-hover); }
+        .nav-link.active { color: var(--text-primary); background: var(--bg-surface); }
+        .nav-link.poke-nav { font-size: 1em; padding: 6px 8px; }
 
-        /* ── NEW: Multi-page & Chart Styles ── */
-        .page-section { display: none; }
+        .status-bar { display: flex; align-items: center; gap: 16px; }
+        .status-item { display: flex; align-items: center; gap: 6px; font-size: 0.75em; color: var(--text-tertiary); font-weight: 500; }
+        .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
+        .status-dot.warning { background: var(--amber); }
+        .status-dot.danger { background: var(--red); }
+
+        /* ── Main Content ─────────────────────────────────────── */
+        .main-content { margin-top: 56px; padding: 32px 28px; max-width: 1440px; margin-left: auto; margin-right: auto; }
+
+        .page-section { display: none; animation: fadeIn 0.25s ease; }
         .page-section.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
 
-        .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-bottom: 30px; }
-        .stat-card { background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3); border-radius: 8px; padding: 20px; text-align: center; backdrop-filter: blur(10px); }
-        .stat-value { font-size: 2em; font-weight: bold; color: var(--military-accent); }
-        .stat-label { color: #95a5a6; font-size: 0.75em; margin-top: 5px; text-transform: uppercase; letter-spacing: 1px; }
+        /* ── Page Header ──────────────────────────────────────── */
+        .page-header { margin-bottom: 32px; }
+        .page-title { font-size: 1.6em; font-weight: 600; letter-spacing: -0.02em; color: var(--text-primary); }
+        .page-subtitle { font-size: 0.85em; color: var(--text-tertiary); margin-top: 4px; font-weight: 400; }
 
-        .chart-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin-bottom: 30px; }
-        .chart-card { background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3); border-radius: 8px; padding: 20px; backdrop-filter: blur(10px); }
-        .chart-wrap { position: relative; height: 280px; }
-
-        .data-table { width: 100%; border-collapse: collapse; font-size: 0.85em; }
-        .data-table th { text-align: left; padding: 10px 12px; color: var(--military-accent); border-bottom: 1px solid rgba(52,152,219,0.3); text-transform: uppercase; font-size: 0.75em; letter-spacing: 1px; }
-        .data-table td { padding: 10px 12px; border-bottom: 1px solid rgba(255,255,255,0.05); }
-        .data-table tr:hover td { background: rgba(52,152,219,0.05); }
-
-        .agent-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
-        .agent-card { background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3); border-radius: 8px; padding: 20px; backdrop-filter: blur(10px); }
-        .agent-card .agent-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        .agent-card .agent-name { font-size: 1.1em; color: var(--military-accent); }
-        .agent-card .agent-role { color: #95a5a6; font-size: 0.8em; margin-top: 5px; }
-        .agent-card .agent-clearance { color: #bdc3c7; font-size: 0.7em; margin-top: 8px; }
-
-        .market-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
-        .market-card { background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3); border-radius: 8px; padding: 20px; backdrop-filter: blur(10px); }
-        .market-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 0.9em; }
-        .market-row:last-child { border-bottom: none; }
-        .market-price { color: var(--military-accent); font-weight: bold; }
-        .market-change-up { color: #27ae60; }
-        .market-change-down { color: #e74c3c; }
-
-        .timeline { position: relative; padding-left: 20px; }
-        .timeline::before { content: ""; position: absolute; left: 8px; top: 0; bottom: 0; width: 2px; background: rgba(52,152,219,0.3); }
-        .timeline-item { position: relative; padding: 8px 0 8px 20px; font-size: 0.85em; }
-        .timeline-item::before { content: ""; position: absolute; left: -16px; top: 14px; width: 10px; height: 10px; border-radius: 50%; background: var(--military-accent); }
-        .timeline-time { color: var(--military-accent); font-size: 0.75em; font-weight: bold; }
-        .timeline-text { color: #bdc3c7; }
-
-        @media (max-width: 1024px) { .stat-row { grid-template-columns: repeat(2, 1fr); } .chart-grid { grid-template-columns: 1fr; } .market-grid { grid-template-columns: 1fr; } }
-        @media (max-width: 768px) { .stat-row { grid-template-columns: 1fr; } }
-
-        /* ── Project Detail Pages ── */
-        .project-detail-header {
-            display: flex; align-items: center; gap: 20px; margin-bottom: 30px;
-            padding: 25px; background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3);
-            border-radius: 8px; backdrop-filter: blur(10px); position: relative; overflow: hidden;
+        /* ── Stat Row ─────────────────────────────────────────── */
+        .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 28px; }
+        .stat-card {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 20px 22px;
+            transition: border-color 0.2s;
         }
-        .project-detail-header::before {
-            content: ""; position: absolute; top: 0; left: 0; right: 0; height: 3px;
-            background: linear-gradient(90deg, var(--military-accent), #2ecc71);
+        .stat-card:hover { border-color: var(--border-standard); }
+        .stat-value { font-size: 2em; font-weight: 700; letter-spacing: -0.03em; color: var(--text-primary); line-height: 1; }
+        .stat-label { font-size: 0.72em; color: var(--text-tertiary); margin-top: 6px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; }
+
+        /* ── Chart Grid ───────────────────────────────────────── */
+        .chart-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-bottom: 28px; }
+        .chart-card {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 20px 22px;
         }
-        .project-detail-pokemon {
-            width: 80px; height: 80px; image-rendering: pixelated; flex-shrink: 0;
+        .chart-card h2 { font-size: 0.8em; font-weight: 600; color: var(--text-secondary); margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.04em; }
+        .chart-wrap { position: relative; height: 240px; }
+
+        /* ── Progress Tracker ─────────────────────────────────── */
+        .progress-section {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 24px; margin-bottom: 28px;
         }
-        .project-detail-pokemon.online { filter: drop-shadow(0 0 10px #27ae60); animation: pulse 4s infinite; }
-        .project-detail-pokemon.building { filter: drop-shadow(0 0 10px #f39c12); animation: gentle-bounce 3s infinite; }
-        .project-detail-pokemon.standby { filter: drop-shadow(0 0 10px #3498db); }
-        .project-detail-title { font-size: 1.8em; color: var(--military-accent); display: flex; align-items: center; gap: 10px; }
-        .project-detail-subtitle { color: #bdc3c7; font-size: 0.9em; margin-top: 5px; }
-        .project-detail-meta { display: flex; gap: 15px; margin-top: 10px; flex-wrap: wrap; }
-        .project-detail-meta .status-badge { font-size: 0.75em; }
-        
-        .back-btn {
-            display: inline-block; margin-bottom: 20px; padding: 8px 16px;
-            background: rgba(52,152,219,0.1); border: 1px solid var(--military-accent);
-            border-radius: 4px; color: var(--military-accent); cursor: pointer;
-            font-family: 'Courier New', monospace; font-size: 0.85em; font-weight: bold;
-            text-transform: uppercase; letter-spacing: 1px; transition: all 0.3s ease;
+        .section-title { font-size: 0.8em; font-weight: 600; color: var(--text-secondary); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 0.04em; }
+        .progress-bars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px 28px; }
+        .progress-item { }
+        .progress-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+        .progress-label { font-size: 0.82em; font-weight: 500; color: var(--text-secondary); display: flex; align-items: center; gap: 6px; }
+        .progress-label .poke-mini { width: 20px; height: 20px; image-rendering: pixelated; }
+        .progress-percent { font-size: 0.82em; font-weight: 600; color: var(--text-primary); font-variant-numeric: tabular-nums; }
+        .progress-track { height: 5px; background: var(--bg-surface); border-radius: 3px; overflow: hidden; }
+        .progress-fill { height: 100%; border-radius: 3px; transition: width 0.6s cubic-bezier(0.22, 1, 0.36, 1); }
+        .progress-fill.good { background: var(--green); }
+        .progress-fill.warning { background: var(--amber); }
+        .progress-fill.critical { background: var(--red); }
+
+        /* ── Mission Cards (Pokémon Grid) ─────────────────────── */
+        .missions-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; margin-bottom: 28px; }
+        .mission-card {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-lg); padding: 24px;
+            transition: all 0.2s ease; cursor: default;
+            position: relative; overflow: hidden;
         }
-        .back-btn:hover { background: rgba(52,152,219,0.2); box-shadow: 0 0 10px rgba(52,152,219,0.5); }
-        
-        .task-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 25px; margin-bottom: 30px; }
-        @media (max-width: 768px) { .task-grid { grid-template-columns: 1fr; } }
-        
-        .task-list-card {
-            background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3);
-            border-radius: 8px; padding: 20px; backdrop-filter: blur(10px);
+        .mission-card:hover {
+            border-color: var(--border-standard);
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-elevated);
         }
-        .task-list-card h3 { font-size: 1.2em; margin-bottom: 15px; display: flex; align-items: center; gap: 8px; }
-        .task-list-card.completed h3 { color: #27ae60; }
-        .task-list-card.pending h3 { color: #f39c12; }
-        
-        .task-item {
-            display: flex; align-items: flex-start; gap: 10px; padding: 10px 0;
-            border-bottom: 1px solid rgba(255,255,255,0.05); font-size: 0.88em;
+        .mission-card .card-glow {
+            position: absolute; top: -40px; right: -40px;
+            width: 120px; height: 120px; border-radius: 50%;
+            opacity: 0.08; pointer-events: none; transition: opacity 0.3s;
         }
-        .task-item:last-child { border-bottom: none; }
-        .task-icon { flex-shrink: 0; margin-top: 1px; }
-        .task-text { color: #bdc3c7; line-height: 1.4; }
-        .task-item.completed .task-text { color: #95a5a6; }
-        .task-item.completed .task-text::after { content: ""; }
-        
-        .project-link-grid {
-            display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; margin-bottom: 30px;
+        .mission-card:hover .card-glow { opacity: 0.14; }
+        .mission-card .card-glow.green { background: var(--green); }
+        .mission-card .card-glow.amber { background: var(--amber); }
+        .mission-card .card-glow.blue { background: var(--accent); }
+        .mission-card .card-glow.purple { background: #8b5cf6; }
+
+        .mission-card-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px; }
+        .mission-card-name { font-size: 1em; font-weight: 600; color: var(--text-primary); letter-spacing: -0.01em; }
+        .mission-card-emoji { margin-right: 4px; }
+
+        .pokemon-showcase { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+        .pokemon-sprite {
+            width: 72px; height: 72px; image-rendering: pixelated; image-rendering: crisp-edges;
+            flex-shrink: 0; transition: transform 0.3s ease;
         }
+        .mission-card:hover .pokemon-sprite { transform: scale(1.08); }
+        .pokemon-sprite.online { filter: drop-shadow(0 0 14px rgba(39,166,68,0.5)); animation: pokePulse 4s infinite; }
+        .pokemon-sprite.building { filter: drop-shadow(0 0 14px rgba(217,119,6,0.5)); animation: pokeFloat 3s infinite; }
+        .pokemon-sprite.standby { filter: drop-shadow(0 0 14px rgba(94,106,210,0.4)); }
+        @keyframes pokePulse { 0%,100%{opacity:1} 50%{opacity:0.75} }
+        @keyframes pokeFloat { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
+
+        .pokemon-info { flex: 1; min-width: 0; }
+        .pokemon-name { font-size: 0.85em; font-weight: 600; color: var(--text-primary); }
+        .pokemon-role { font-size: 0.72em; color: var(--text-tertiary); margin-top: 2px; }
+
+        .mission-metrics { display: flex; flex-direction: column; gap: 8px; }
+        .metric { display: flex; justify-content: space-between; align-items: center; padding: 6px 0; }
+        .metric + .metric { border-top: 1px solid var(--border-subtle); }
+        .metric-label { font-size: 0.72em; color: var(--text-tertiary); font-weight: 500; }
+        .metric-value { font-size: 0.78em; color: var(--text-secondary); font-weight: 500; }
+
+        .mission-card .git-footer {
+            margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--border-subtle);
+            font-size: 0.68em; color: var(--text-tertiary);
+            display: flex; align-items: center; gap: 6px;
+        }
+        .git-footer .git-dot { width: 5px; height: 5px; border-radius: 50%; background: var(--green); flex-shrink: 0; }
+        .git-footer .git-dot.stale { background: var(--text-tertiary); }
+
+        /* ── Activity Log ─────────────────────────────────────── */
+        .activity-log {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 24px;
+        }
+        .activity-items { max-height: 360px; overflow-y: auto; }
+        .activity-item {
+            display: flex; gap: 14px; padding: 10px 0; align-items: baseline;
+            border-bottom: 1px solid var(--border-subtle);
+        }
+        .activity-item:last-child { border-bottom: none; }
+        .activity-time { font-size: 0.7em; color: var(--text-tertiary); font-weight: 500; white-space: nowrap; font-family: 'JetBrains Mono', monospace; min-width: 80px; }
+        .activity-text { font-size: 0.8em; color: var(--text-secondary); line-height: 1.4; }
+        .activity-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; margin-top: 5px; }
+        .activity-dot.success { background: var(--green); }
+        .activity-dot.info { background: var(--accent); }
+
+        /* ── Badges ───────────────────────────────────────────── */
+        .badge {
+            display: inline-flex; align-items: center; gap: 5px;
+            padding: 3px 10px; border-radius: 20px;
+            font-size: 0.68em; font-weight: 600; letter-spacing: 0.02em;
+            text-transform: uppercase;
+        }
+        .badge-green { background: var(--green-glow); color: var(--green); }
+        .badge-amber { background: var(--amber-glow); color: var(--amber); }
+        .badge-purple { background: rgba(139,92,246,0.15); color: #a78bfa; }
+        .badge-blue { background: var(--accent-glow); color: var(--accent-bright); }
+        .badge-red { background: var(--red-glow); color: #f87171; }
+        .badge-dot { width: 5px; height: 5px; border-radius: 50%; background: currentColor; }
+
+        /* ── Data Table ───────────────────────────────────────── */
+        .data-table { width: 100%; border-collapse: collapse; font-size: 0.8em; }
+        .data-table th { text-align: left; padding: 10px 14px; color: var(--text-tertiary); font-weight: 600; font-size: 0.75em; text-transform: uppercase; letter-spacing: 0.04em; border-bottom: 1px solid var(--border-subtle); }
+        .data-table td { padding: 10px 14px; border-bottom: 1px solid var(--border-subtle); color: var(--text-secondary); }
+        .data-table tr:hover td { background: var(--bg-hover); }
+        .data-table .mono { font-family: 'JetBrains Mono', monospace; font-size: 0.9em; }
+
+        /* ── Agent Grid ───────────────────────────────────────── */
+        .agent-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+        .agent-card {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 20px;
+            transition: border-color 0.2s;
+        }
+        .agent-card:hover { border-color: var(--border-standard); }
+        .agent-card .agent-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+        .agent-card .agent-name { font-size: 0.9em; font-weight: 600; color: var(--text-primary); }
+        .agent-card .agent-role { font-size: 0.75em; color: var(--text-tertiary); margin-bottom: 6px; }
+        .agent-card .agent-meta { font-size: 0.7em; color: var(--text-tertiary); }
+
+        /* ── Market Grid ──────────────────────────────────────── */
+        .market-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+        .market-card {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 22px;
+        }
+        .market-card h2 { font-size: 0.8em; font-weight: 600; color: var(--text-secondary); margin-bottom: 14px; text-transform: uppercase; letter-spacing: 0.04em; }
+        .market-row { display: flex; justify-content: space-between; align-items: center; padding: 8px 0; font-size: 0.82em; }
+        .market-row + .market-row { border-top: 1px solid var(--border-subtle); }
+        .market-symbol { color: var(--text-primary); font-weight: 500; }
+        .market-price { color: var(--text-secondary); font-weight: 500; font-variant-numeric: tabular-nums; }
+        .market-change { font-weight: 600; font-variant-numeric: tabular-nums; }
+        .market-up { color: var(--green); }
+        .market-down { color: #f87171; }
+
+        /* ── Timeline ─────────────────────────────────────────── */
+        .timeline { position: relative; padding-left: 24px; }
+        .timeline::before { content: ''; position: absolute; left: 8px; top: 4px; bottom: 4px; width: 1px; background: var(--border-standard); }
+        .timeline-item { position: relative; padding: 8px 0 8px 16px; font-size: 0.82em; }
+        .timeline-item::before { content: ''; position: absolute; left: -20px; top: 13px; width: 8px; height: 8px; border-radius: 50%; background: var(--bg-elevated); border: 2px solid var(--border-standard); }
+        .timeline-time { font-size: 0.7em; color: var(--text-tertiary); font-weight: 500; font-family: 'JetBrains Mono', monospace; }
+        .timeline-text { color: var(--text-secondary); margin-top: 2px; }
+
+        /* ── Project Grid Cards ──────────────────────────────── */
+        .project-link-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
         .project-link-card {
-            background: rgba(0,0,0,0.7); border: 1px solid rgba(52,152,219,0.3);
-            border-radius: 8px; padding: 25px; cursor: pointer; transition: all 0.3s ease;
-            backdrop-filter: blur(10px); position: relative; overflow: hidden;
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-lg); padding: 22px; cursor: pointer;
+            transition: all 0.2s ease;
         }
-        .project-link-card:hover { transform: translateY(-5px); border-color: var(--military-accent); box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
-        .project-link-card::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, var(--military-accent), #2ecc71); }
-        .project-link-card .pl-pokemon { width: 60px; height: 60px; image-rendering: pixelated; }
-        .project-link-card .pl-pokemon.online { filter: drop-shadow(0 0 8px #27ae60); animation: pulse 4s infinite; }
-        .project-link-card .pl-pokemon.building { filter: drop-shadow(0 0 8px #f39c12); animation: gentle-bounce 3s infinite; }
-        .project-link-card .pl-pokemon.standby { filter: drop-shadow(0 0 8px #3498db); }
-        .project-link-card .pl-header { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
-        .project-link-card .pl-title { font-size: 1.2em; color: var(--military-accent); }
-        .project-link-card .pl-progress { margin: 10px 0; }
-        .project-link-card .pl-progress-track { height: 8px; background: rgba(255,255,255,0.1); border-radius: 4px; overflow: hidden; }
-        .project-link-card .pl-progress-fill { height: 100%; background: linear-gradient(90deg, var(--military-accent), #2ecc71); border-radius: 4px; transition: width 0.5s ease; }
-        .project-link-card .pl-progress-fill.warning { background: linear-gradient(90deg, #f39c12, #e67e22); }
-        .project-link-card .pl-progress-fill.critical { background: linear-gradient(90deg, #e74c3c, #c0392b); }
-        .project-link-card .pl-tasks { font-size: 0.8em; color: #95a5a6; margin-top: 5px; }
+        .project-link-card:hover { border-color: var(--border-standard); transform: translateY(-2px); box-shadow: var(--shadow-elevated); }
+        .pl-top { display: flex; align-items: center; gap: 12px; margin-bottom: 14px; }
+        .pl-pokemon { width: 48px; height: 48px; image-rendering: pixelated; flex-shrink: 0; }
+        .pl-pokemon.online { filter: drop-shadow(0 0 10px rgba(39,166,68,0.5)); }
+        .pl-pokemon.building { filter: drop-shadow(0 0 10px rgba(217,119,6,0.5)); }
+        .pl-pokemon.standby { filter: drop-shadow(0 0 10px rgba(94,106,210,0.4)); }
+        .pl-info { flex: 1; min-width: 0; }
+        .pl-title { font-size: 0.9em; font-weight: 600; color: var(--text-primary); }
+        .pl-progress { margin: 10px 0 6px; }
+        .pl-progress-track { height: 4px; background: var(--bg-surface); border-radius: 2px; overflow: hidden; }
+        .pl-progress-fill { height: 100%; border-radius: 2px; transition: width 0.5s ease; }
+        .pl-progress-fill.good { background: var(--green); }
+        .pl-progress-fill.warning { background: var(--amber); }
+        .pl-progress-fill.critical { background: var(--red); }
+        .pl-meta { font-size: 0.7em; color: var(--text-tertiary); }
+
+        /* ── Project Detail Pages ─────────────────────────────── */
+        .back-btn {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 7px 14px; border-radius: var(--radius-sm);
+            background: var(--bg-surface); border: 1px solid var(--border-subtle);
+            color: var(--text-secondary); font-size: 0.78em; font-weight: 500;
+            cursor: pointer; margin-bottom: 20px; transition: all 0.15s;
+        }
+        .back-btn:hover { background: var(--bg-hover); color: var(--text-primary); }
+
+        .project-detail-header {
+            display: flex; align-items: center; gap: 20px; margin-bottom: 24px;
+            padding: 24px; background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-lg);
+        }
+        .project-detail-pokemon { width: 80px; height: 80px; image-rendering: pixelated; flex-shrink: 0; }
+        .project-detail-pokemon.online { filter: drop-shadow(0 0 16px rgba(39,166,68,0.5)); animation: pokePulse 4s infinite; }
+        .project-detail-pokemon.building { filter: drop-shadow(0 0 16px rgba(217,119,6,0.5)); animation: pokeFloat 3s infinite; }
+        .project-detail-pokemon.standby { filter: drop-shadow(0 0 16px rgba(94,106,210,0.4)); }
+        .project-detail-title { font-size: 1.4em; font-weight: 700; color: var(--text-primary); letter-spacing: -0.02em; }
+        .project-detail-subtitle { font-size: 0.8em; color: var(--text-tertiary); margin-top: 4px; }
+        .project-detail-meta { display: flex; gap: 8px; margin-top: 8px; flex-wrap: wrap; }
+
+        .task-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+        .task-list-card {
+            background: var(--bg-panel); border: 1px solid var(--border-subtle);
+            border-radius: var(--radius-md); padding: 20px;
+        }
+        .task-list-card h3 { font-size: 0.8em; font-weight: 600; margin-bottom: 14px; text-transform: uppercase; letter-spacing: 0.04em; }
+        .task-list-card.completed h3 { color: var(--green); }
+        .task-list-card.pending h3 { color: var(--amber); }
+        .task-item { display: flex; align-items: flex-start; gap: 8px; padding: 7px 0; font-size: 0.8em; }
+        .task-item + .task-item { border-top: 1px solid var(--border-subtle); }
+        .task-icon { flex-shrink: 0; font-size: 0.85em; }
+        .task-text { color: var(--text-secondary); line-height: 1.4; }
+        .task-item.completed .task-text { color: var(--text-tertiary); text-decoration: line-through; text-decoration-color: rgba(255,255,255,0.1); }
+
+        /* ── Login ────────────────────────────────────────────── */
+        #login-screen {
+            position: fixed; inset: 0; z-index: 2000;
+            background: var(--bg-deep);
+            display: flex; align-items: center; justify-content: center;
+        }
+        .login-box {
+            background: var(--bg-panel); border: 1px solid var(--border-standard);
+            border-radius: var(--radius-xl); padding: 44px 36px;
+            text-align: center; max-width: 380px; width: 90%;
+        }
+        .login-box .login-pokemon { width: 64px; height: 64px; image-rendering: pixelated; margin-bottom: 16px; }
+        .login-box h2 { font-size: 1.3em; font-weight: 700; color: var(--text-primary); margin-bottom: 6px; letter-spacing: -0.02em; }
+        .login-box p { font-size: 0.8em; color: var(--text-tertiary); margin-bottom: 24px; }
+        .login-box input {
+            width: 100%; padding: 12px 16px; margin-bottom: 14px;
+            background: var(--bg-surface); border: 1px solid var(--border-standard);
+            border-radius: var(--radius-sm); color: var(--text-primary);
+            font-family: 'JetBrains Mono', monospace; font-size: 0.9em;
+            outline: none; transition: border-color 0.15s;
+        }
+        .login-box input:focus { border-color: var(--accent); }
+        .login-box button {
+            width: 100%; padding: 12px; border: none; border-radius: var(--radius-sm);
+            background: var(--accent); color: #fff; font-size: 0.85em; font-weight: 600;
+            cursor: pointer; transition: background 0.15s; letter-spacing: -0.01em;
+        }
+        .login-box button:hover { background: var(--accent-bright); }
+        #login-error { color: #f87171; font-size: 0.78em; margin-top: 10px; display: none; font-weight: 500; }
+
+        /* ── Responsive ───────────────────────────────────────── */
+        @media (max-width: 1200px) {
+            .missions-grid, .project-link-grid { grid-template-columns: repeat(2, 1fr); }
+            .agent-grid { grid-template-columns: repeat(2, 1fr); }
+            .stat-row { grid-template-columns: repeat(2, 1fr); }
+            .progress-bars { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 768px) {
+            .missions-grid, .project-link-grid, .chart-grid, .market-grid, .agent-grid { grid-template-columns: 1fr; }
+            .stat-row { grid-template-columns: 1fr; }
+            .progress-bars { grid-template-columns: 1fr; }
+            .task-grid { grid-template-columns: 1fr; }
+            .nav-links { display: none; }
+            .main-content { padding: 20px 16px; }
+            .header { padding: 0 16px; }
+        }
     </style>
 </head>
 <body>
-    <!-- Login Screen -->
+
+    <!-- ── Login ──────────────────────────────────────────────── -->
     <div id="login-screen">
         <div class="login-box">
-            <h2>🎯 MISSION CONTROL</h2>
-            <p>SECURE ACCESS REQUIRED</p>
-            <input type="password" id="password-input" placeholder="ENTER ACCESS CODE" class="terminal-text">
-            <button onclick="login()">🔓 AUTHENTICATE</button>
-            <div id="login-error">⚠️ ACCESS DENIED - INVALID CREDENTIALS</div>
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="login-pokemon" style="filter:drop-shadow(0 0 20px rgba(94,106,210,0.5))">
+            <h2>Mission Control</h2>
+            <p>Secure access required</p>
+            <input type="password" id="password-input" placeholder="Enter access code">
+            <button onclick="login()">Authenticate</button>
+            <div id="login-error">Access denied — invalid credentials</div>
         </div>
     </div>
-    
-    <!-- Header Navigation -->
+
+    <!-- ── Header ────────────────────────────────────────────── -->
     <header class="header">
         <div class="logo">
-            <div class="logo-icon">🎯</div>
-            <div class="logo-text">Mission Control</div>
+            <span class="logo-icon">⚡</span>
+            <span class="logo-text">Mission<span class="logo-dot">.</span>Control</span>
         </div>
-        
         <nav class="nav-links">
-            <a class="nav-link active" onclick="showPage('dashboard')">Dashboard</a>
+            <a class="nav-link active" onclick="showPage('dashboard')">Overview</a>
             <a class="nav-link" onclick="showPage('projects')">Projects</a>
-            <a class="nav-link" onclick="showPage('cron')">Cron Jobs</a>
+            <a class="nav-link" onclick="showPage('cron')">Cron</a>
             <a class="nav-link" onclick="showPage('agents')">Agents</a>
             <a class="nav-link" onclick="showPage('market')">Market</a>
             <a class="nav-link" onclick="showPage('activity')">Activity</a>
-            <a class="nav-link" onclick="showPage('orbitx')">🌌</a>
-            <a class="nav-link" onclick="showPage('kinkin')">⚡</a>
-            <a class="nav-link" onclick="showPage('techwealth')">💰</a>
-            <a class="nav-link" onclick="showPage('tracker')">🔮</a>
-            <a class="nav-link" onclick="showPage('wpo')">💖</a>
-            <a class="nav-link" onclick="showPage('aeroview')">🚁</a>
+            <a class="nav-link poke-nav" onclick="showPage('orbitx')" title="OrbitX">🌌</a>
+            <a class="nav-link poke-nav" onclick="showPage('kinkin')" title="KINKIN">⚡</a>
+            <a class="nav-link poke-nav" onclick="showPage('techwealth')" title="TechWealth">💰</a>
+            <a class="nav-link poke-nav" onclick="showPage('tracker')" title="Tracker Pro">🔮</a>
+            <a class="nav-link poke-nav" onclick="showPage('wpo')" title="WPO">💖</a>
+            <a class="nav-link poke-nav" onclick="showPage('aeroview')" title="Aeroview">🚁</a>
         </nav>
-        
         <div class="status-bar">
-            <div class="status-item">
-                <div class="status-indicator"></div>
-                <span>SYSTEM ONLINE</span>
-            </div>
-            <div class="status-item">
-                <div class="status-indicator warning"></div>
-                <span>ALERT LEVEL 2</span>
-            </div>
+            <div class="status-item"><div class="status-dot"></div><span>Live</span></div>
+            <div class="status-item"><div class="status-dot warning"></div><span id="header-cron">Cron —</span></div>
         </div>
     </header>
-    
-    <!-- Main Content -->
+
+    <!-- ── Main Content ───────────────────────────────────────── -->
     <main class="main-content">
-        <!-- ===== DASHBOARD PAGE (existing content) ===== -->
+
+        <!-- ═══════════ DASHBOARD ═══════════ -->
         <div class="page-section active" id="page-dashboard">
-        <div class="dashboard-header">
-            <h1 class="dashboard-title">OPERATIONS COMMAND CENTER</h1>
-            <p class="dashboard-subtitle">REAL-TIME MISSION STATUS & ASSET TRACKING</p>
+            <div class="page-header">
+                <h1 class="page-title">Command Center</h1>
+                <p class="page-subtitle">Real-time mission status across all ventures</p>
+            </div>
+            <div id="stats-row"></div>
+            <div class="chart-grid">
+                <div class="chart-card"><h2>Project Progress</h2><div class="chart-wrap"><canvas id="chart-progress"></canvas></div></div>
+                <div class="chart-card"><h2>Commit Activity</h2><div class="chart-wrap"><canvas id="chart-tasks"></canvas></div></div>
+                <div class="chart-card"><h2>Cron Health</h2><div class="chart-wrap"><canvas id="chart-cron"></canvas></div></div>
+                <div class="chart-card"><h2>System Status</h2><div class="chart-wrap"><canvas id="chart-agents"></canvas></div></div>
+            </div>
+
+            <section class="progress-section">
+                <h2 class="section-title">Progress Tracker</h2>
+                <div class="progress-bars">
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" class="poke-mini" alt="">OrbitX NFT</span>
+                            <span class="progress-percent" id="orbitx-percent">—</span>
+                        </div>
+                        <div class="progress-track"><div class="progress-fill good" id="orbitx-progress" style="width:0%"></div></div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" class="poke-mini" alt="">KINKIN</span>
+                            <span class="progress-percent" id="kinkin-percent">—</span>
+                        </div>
+                        <div class="progress-track"><div class="progress-fill good" id="kinkin-progress" style="width:0%"></div></div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" class="poke-mini" alt="">TechWealth</span>
+                            <span class="progress-percent" id="techwealth-percent">—</span>
+                        </div>
+                        <div class="progress-track"><div class="progress-fill warning" id="techwealth-progress" style="width:0%"></div></div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" class="poke-mini" alt="">Tracker Pro</span>
+                            <span class="progress-percent" id="techwealthTracker-percent">—</span>
+                        </div>
+                        <div class="progress-track"><div class="progress-fill good" id="techwealthTracker-progress" style="width:0%"></div></div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" class="poke-mini" alt="">WPO</span>
+                            <span class="progress-percent" id="wpo-percent">—</span>
+                        </div>
+                        <div class="progress-track"><div class="progress-fill warning" id="wpo-progress" style="width:0%"></div></div>
+                    </div>
+                    <div class="progress-item">
+                        <div class="progress-header">
+                            <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" class="poke-mini" alt="">Aeroview</span>
+                            <span class="progress-percent" id="aeroview-percent">—</span>
+                        </div>
+                        <div class="progress-track"><div class="progress-fill critical" id="aeroview-progress" style="width:0%"></div></div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="missions-grid">
+                <!-- OrbitX -->
+                <div class="mission-card">
+                    <div class="card-glow purple"></div>
+                    <div class="mission-card-top">
+                        <span class="mission-card-name"><span class="mission-card-emoji">🌌</span>OrbitX NFT</span>
+                        <span class="badge badge-purple"><span class="badge-dot"></span>Pre-Launch</span>
+                    </div>
+                    <div class="pokemon-showcase">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="pokemon-sprite online" onerror="this.style.display='none'">
+                        <div class="pokemon-info">
+                            <div class="pokemon-name">Mewtwo</div>
+                            <div class="pokemon-role">Psychic · #150</div>
+                        </div>
+                    </div>
+                    <div class="mission-metrics">
+                        <div class="metric"><span class="metric-label">Phase</span><span class="metric-value">Fine Arts</span></div>
+                        <div class="metric"><span class="metric-label">Repository</span><span class="metric-value">YBOT8AI/Orbitx-NFT</span></div>
+                        <div class="metric"><span class="metric-label">Testnet</span><span class="metric-value">Pending</span></div>
+                    </div>
+                </div>
+                <!-- KINKIN -->
+                <div class="mission-card">
+                    <div class="card-glow amber"></div>
+                    <div class="mission-card-top">
+                        <span class="mission-card-name"><span class="mission-card-emoji">🚀</span>KINKIN</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Deploying</span>
+                    </div>
+                    <div class="pokemon-showcase">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="pokemon-sprite building" onerror="this.style.display='none'">
+                        <div class="pokemon-info">
+                            <div class="pokemon-name">Pikachu</div>
+                            <div class="pokemon-role">Electric · #25</div>
+                        </div>
+                    </div>
+                    <div class="mission-metrics">
+                        <div class="metric"><span class="metric-label">Build</span><span class="metric-value">#6 · 8-Tier Polish</span></div>
+                        <div class="metric"><span class="metric-label">URL</span><span class="metric-value">kinkin.vercel.app</span></div>
+                        <div class="metric"><span class="metric-label">Repository</span><span class="metric-value">evilmoni/KinKin</span></div>
+                    </div>
+                </div>
+                <!-- TechWealth -->
+                <div class="mission-card">
+                    <div class="card-glow amber"></div>
+                    <div class="mission-card-top">
+                        <span class="mission-card-name"><span class="mission-card-emoji">💼</span>TechWealth</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Building</span>
+                    </div>
+                    <div class="pokemon-showcase">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="pokemon-sprite building" onerror="this.style.display='none'">
+                        <div class="pokemon-info">
+                            <div class="pokemon-name">Meowth</div>
+                            <div class="pokemon-role">Normal · #52</div>
+                        </div>
+                    </div>
+                    <div class="mission-metrics">
+                        <div class="metric"><span class="metric-label">Focus</span><span class="metric-value">Financial Tech</span></div>
+                        <div class="metric"><span class="metric-label">Stage</span><span class="metric-value">Policy Defined</span></div>
+                        <div class="metric"><span class="metric-label">URL</span><span class="metric-value">tech-wealth-website.vercel.app</span></div>
+                    </div>
+                </div>
+                <!-- Tracker Pro -->
+                <div class="mission-card">
+                    <div class="card-glow amber"></div>
+                    <div class="mission-card-top">
+                        <span class="mission-card-name"><span class="mission-card-emoji">📊</span>Tracker Pro</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Deploying</span>
+                    </div>
+                    <div class="pokemon-showcase">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="pokemon-sprite building" onerror="this.style.display='none'">
+                        <div class="pokemon-info">
+                            <div class="pokemon-name">Kadabra</div>
+                            <div class="pokemon-role">Psychic · #64</div>
+                        </div>
+                    </div>
+                    <div class="mission-metrics">
+                        <div class="metric"><span class="metric-label">Status</span><span class="metric-value">Rebranded</span></div>
+                        <div class="metric"><span class="metric-label">Repository</span><span class="metric-value">YBOT8AI/Client_Tracker_Pro</span></div>
+                        <div class="metric"><span class="metric-label">Features</span><span class="metric-value">Client Management</span></div>
+                    </div>
+                </div>
+                <!-- WPO -->
+                <div class="mission-card">
+                    <div class="card-glow blue"></div>
+                    <div class="mission-card-top">
+                        <span class="mission-card-name"><span class="mission-card-emoji">🐾</span>WPO</span>
+                        <span class="badge badge-blue"><span class="badge-dot"></span>Concept</span>
+                    </div>
+                    <div class="pokemon-showcase">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="pokemon-sprite standby" onerror="this.style.display='none'">
+                        <div class="pokemon-info">
+                            <div class="pokemon-name">Chansey</div>
+                            <div class="pokemon-role">Normal · #113</div>
+                        </div>
+                    </div>
+                    <div class="mission-metrics">
+                        <div class="metric"><span class="metric-label">Full Name</span><span class="metric-value">World Paws Org</span></div>
+                        <div class="metric"><span class="metric-label">Token</span><span class="metric-value">WPO Token</span></div>
+                        <div class="metric"><span class="metric-label">Blockchain</span><span class="metric-value">Solana</span></div>
+                    </div>
+                </div>
+                <!-- Aeroview -->
+                <div class="mission-card">
+                    <div class="card-glow blue"></div>
+                    <div class="mission-card-top">
+                        <span class="mission-card-name"><span class="mission-card-emoji">🚁</span>Aeroview</span>
+                        <span class="badge badge-blue"><span class="badge-dot"></span>Planning</span>
+                    </div>
+                    <div class="pokemon-showcase">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="pokemon-sprite standby" onerror="this.style.display='none'">
+                        <div class="pokemon-info">
+                            <div class="pokemon-name">Dragonite</div>
+                            <div class="pokemon-role">Dragon · #149</div>
+                        </div>
+                    </div>
+                    <div class="mission-metrics">
+                        <div class="metric"><span class="metric-label">Focus</span><span class="metric-value">Drone Fleet Mgmt</span></div>
+                        <div class="metric"><span class="metric-label">Phase</span><span class="metric-value">Concept Definition</span></div>
+                        <div class="metric"><span class="metric-label">Repository</span><span class="metric-value">YBOT8AI/Aeroview</span></div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="activity-log">
+                <h2 class="section-title">Operations Log</h2>
+                <div class="activity-items" id="activity-log"></div>
+            </section>
         </div>
 
-        <!-- Stats + Charts -->
-        <div id="stats-row"></div>
-        <div class="chart-grid">
-            <div class="chart-card"><h2 class="section-title">📈 Project Progress</h2><div class="chart-wrap"><canvas id="chart-progress"></canvas></div></div>
-            <div class="chart-card"><h2 class="section-title">✅ Task Completion</h2><div class="chart-wrap"><canvas id="chart-tasks"></canvas></div></div>
-            <div class="chart-card"><h2 class="section-title">⏰ Cron Job Health</h2><div class="chart-wrap"><canvas id="chart-cron"></canvas></div></div>
-            <div class="chart-card"><h2 class="section-title">🤖 Agent Status</h2><div class="chart-wrap"><canvas id="chart-agents"></canvas></div></div>
+        <!-- ═══════════ PROJECTS GRID ═══════════ -->
+        <div class="page-section" id="page-projects">
+            <div class="page-header">
+                <h1 class="page-title">Project Portfolio</h1>
+                <p class="page-subtitle">Select a venture for detailed breakdown</p>
+            </div>
+            <div class="project-link-grid">
+                <div class="project-link-card" onclick="showPage('orbitx')">
+                    <div class="pl-top">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="pl-pokemon online" onerror="this.style.display='none'">
+                        <div class="pl-info">
+                            <div class="pl-title">🌌 OrbitX NFT</div>
+                            <span class="badge badge-purple" style="margin-top:4px"><span class="badge-dot"></span>Pre-Launch</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill good" style="width:0%"></div></div></div>
+                    <div class="pl-meta">— commits · — in 30d · —%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('kinkin')">
+                    <div class="pl-top">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="pl-pokemon building" onerror="this.style.display='none'">
+                        <div class="pl-info">
+                            <div class="pl-title">🚀 KINKIN</div>
+                            <span class="badge badge-amber" style="margin-top:4px"><span class="badge-dot"></span>Deploying</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill good" style="width:0%"></div></div></div>
+                    <div class="pl-meta">— commits · — in 30d · —%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('techwealth')">
+                    <div class="pl-top">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="pl-pokemon building" onerror="this.style.display='none'">
+                        <div class="pl-info">
+                            <div class="pl-title">💼 TechWealth</div>
+                            <span class="badge badge-amber" style="margin-top:4px"><span class="badge-dot"></span>Building</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill warning" style="width:0%"></div></div></div>
+                    <div class="pl-meta">— commits · — in 30d · —%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('tracker')">
+                    <div class="pl-top">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="pl-pokemon building" onerror="this.style.display='none'">
+                        <div class="pl-info">
+                            <div class="pl-title">📊 Tracker Pro</div>
+                            <span class="badge badge-amber" style="margin-top:4px"><span class="badge-dot"></span>Deploying</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill good" style="width:0%"></div></div></div>
+                    <div class="pl-meta">— commits · — in 30d · —%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('wpo')">
+                    <div class="pl-top">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="pl-pokemon standby" onerror="this.style.display='none'">
+                        <div class="pl-info">
+                            <div class="pl-title">🐾 WPO</div>
+                            <span class="badge badge-blue" style="margin-top:4px"><span class="badge-dot"></span>Concept</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill warning" style="width:0%"></div></div></div>
+                    <div class="pl-meta">— commits · — in 30d · —%</div>
+                </div>
+                <div class="project-link-card" onclick="showPage('aeroview')">
+                    <div class="pl-top">
+                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="pl-pokemon standby" onerror="this.style.display='none'">
+                        <div class="pl-info">
+                            <div class="pl-title">🚁 Aeroview</div>
+                            <span class="badge badge-blue" style="margin-top:4px"><span class="badge-dot"></span>Planning</span>
+                        </div>
+                    </div>
+                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill critical" style="width:0%"></div></div></div>
+                    <div class="pl-meta">— commits · — in 30d · —%</div>
+                </div>
+            </div>
         </div>
 
-        <!-- Mission Progress Overview -->
-        <section class="progress-section">
-            <h2 class="section-title">📊 MISSION PROGRESS TRACKER</h2>
-            <div class="progress-bars">
-                <div class="progress-item">
-                    <div class="progress-header">
-                        <span class="progress-label">🌌 OrbitX NFT</span>
-                        <span class="progress-percent" id="orbitx-percent">75%</span>
-                    </div>
-                    <div class="progress-track">
-                        <div class="progress-fill" id="orbitx-progress" style="width: 75%"></div>
-                    </div>
-                </div>
-                
-                <div class="progress-item">
-                    <div class="progress-header">
-                        <span class="progress-label">🚀 KINKIN</span>
-                        <span class="progress-percent" id="kinkin-percent">85%</span>
-                    </div>
-                    <div class="progress-track">
-                        <div class="progress-fill" id="kinkin-progress" style="width: 85%"></div>
-                    </div>
-                </div>
-                
-                <div class="progress-item">
-                    <div class="progress-header">
-                        <span class="progress-label">💼 TechWealth</span>
-                        <span class="progress-percent" id="techwealth-percent">55%</span>
-                    </div>
-                    <div class="progress-track">
-                        <div class="progress-fill warning" id="techwealth-progress" style="width: 55%"></div>
-                    </div>
-                </div>
-                
-                <div class="progress-item">
-                    <div class="progress-header">
-                        <span class="progress-label">📊 TechWealth Tracker Pro</span>
-                        <span class="progress-percent" id="techwealthTracker-percent">85%</span>
-                    </div>
-                    <div class="progress-track">
-                        <div class="progress-fill" id="techwealthTracker-progress" style="width: 85%"></div>
-                    </div>
-                </div>
-                
-                <div class="progress-item">
-                    <div class="progress-header">
-                        <span class="progress-label">🐾 WPO</span>
-                        <span class="progress-percent" id="wpo-percent">45%</span>
-                    </div>
-                    <div class="progress-track">
-                        <div class="progress-fill warning" id="wpo-progress" style="width: 45%"></div>
-                    </div>
-                </div>
-                
-                <div class="progress-item">
-                    <div class="progress-header">
-                        <span class="progress-label">🚁 Aeroview</span>
-                        <span class="progress-percent" id="aeroview-percent">20%</span>
-                    </div>
-                    <div class="progress-track">
-                        <div class="progress-fill critical" id="aeroview-progress" style="width: 20%"></div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        
-        <!-- Mission Cards -->
-        <section class="missions-grid">
-            <!-- OrbitX Mission -->
-            <div class="mission-card">
-                <div class="mission-header">
-                    <h3 class="mission-title">
-                        <span class="mission-emoji">🌌</span>
-                        OrbitX NFT
-                    </h3>
-                    <span class="status-badge status-prelaunch">PRE-LAUNCH</span>
-                </div>
-                
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" 
-                         alt="Mewtwo" class="pokemon-sprite online" id="orbitx-pokemon"
-                         onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
-                    <div class="pokemon-name">Mewtwo 🔮</div>
-                </div>
-                
-                <div class="mission-metrics">
-                    <div class="metric">
-                        <span class="metric-label">Status</span>
-                        <span class="metric-value">Phase 1 - Fine Arts</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Repository</span>
-                        <span class="metric-value">YBOT8AI/Orbitx-NFT</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Testnet</span>
-                        <span class="metric-value">Pending</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- KINKIN Mission -->
-            <div class="mission-card">
-                <div class="mission-header">
-                    <h3 class="mission-title">
-                        <span class="mission-emoji">🚀</span>
-                        KINKIN
-                    </h3>
-                    <span class="status-badge status-building">DEPLOYING</span>
-                </div>
-                
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" 
-                         alt="Pikachu" class="pokemon-sprite building" id="kinkin-pokemon"
-                         onerror="this.style.display='none';this.parentElement.innerHTML='⚡'">
-                    <div class="pokemon-name">Pikachu ⚡</div>
-                </div>
-                
-                <div class="mission-metrics">
-                    <div class="metric">
-                        <span class="metric-label">Status</span>
-                        <span class="metric-value">Build #6 · 8-Tier Polish</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">URL</span>
-                        <span class="metric-value">kinkin.vercel.app</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Repository</span>
-                        <span class="metric-value">YBOT8AI/KinKin</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- TechWealth Mission -->
-            <div class="mission-card">
-                <div class="mission-header">
-                    <h3 class="mission-title">
-                        <span class="mission-emoji">💼</span>
-                        TechWealth
-                    </h3>
-                    <span class="status-badge status-building">BUILDING</span>
-                </div>
-                
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" 
-                         alt="Meowth" class="pokemon-sprite building" id="techwealth-pokemon"
-                         onerror="this.style.display='none';this.parentElement.innerHTML='💰'">
-                    <div class="pokemon-name">Meowth 💰</div>
-                </div>
-                
-                <div class="mission-metrics">
-                    <div class="metric">
-                        <span class="metric-label">Focus</span>
-                        <span class="metric-value">Financial Tech</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Stage</span>
-                        <span class="metric-value">Policy Defined</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">URL</span>
-                        <span class="metric-value">tech-wealth-website.vercel.app</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- TechWealth Tracker Mission -->
-            <div class="mission-card">
-                <div class="mission-header">
-                    <h3 class="mission-title">
-                        <span class="mission-emoji">📊</span>
-                        TechWealth Tracker Pro
-                    </h3>
-                    <span class="status-badge status-building">DEPLOYING</span>
-                </div>
-                
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" 
-                         alt="Kadabra" class="pokemon-sprite building" id="techwealthTracker-pokemon"
-                         onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
-                    <div class="pokemon-name">Kadabra 🔮</div>
-                </div>
-                
-                <div class="mission-metrics">
-                    <div class="metric">
-                        <span class="metric-label">Status</span>
-                        <span class="metric-value">Rebranded</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Repository</span>
-                        <span class="metric-value">YBOT8AI/Client_Tracker_Pro</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Features</span>
-                        <span class="metric-value">Client Management</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- WPO Mission -->
-            <div class="mission-card">
-                <div class="mission-header">
-                    <h3 class="mission-title">
-                        <span class="mission-emoji">🐾</span>
-                        WPO
-                    </h3>
-                    <span class="status-badge status-standby">CONCEPT</span>
-                </div>
-                
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" 
-                         alt="Chansey" class="pokemon-sprite standby" id="wpo-pokemon"
-                         onerror="this.style.display='none';this.parentElement.innerHTML='💖'">
-                    <div class="pokemon-name">Chansey 💖</div>
-                </div>
-                
-                <div class="mission-metrics">
-                    <div class="metric">
-                        <span class="metric-label">Full Name</span>
-                        <span class="metric-value">World Paws Org</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Token</span>
-                        <span class="metric-value">WPO Token</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Blockchain</span>
-                        <span class="metric-value">Solana</span>
-                    </div>
-                </div>
-            </div>
-            
-            <!-- Aeroview Mission -->
-            <div class="mission-card">
-                <div class="mission-header">
-                    <h3 class="mission-title">
-                        <span class="mission-emoji">🚁</span>
-                        Aeroview
-                    </h3>
-                    <span class="status-badge status-standby">PLANNING</span>
-                </div>
-                
-                <div class="pokemon-container">
-                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" 
-                         alt="Dragonite" class="pokemon-sprite standby" id="aeroview-pokemon"
-                         onerror="this.style.display='none';this.parentElement.innerHTML='🚁'">
-                    <div class="pokemon-name">Dragonite 🚁</div>
-                </div>
-                
-                <div class="mission-metrics">
-                    <div class="metric">
-                        <span class="metric-label">Focus</span>
-                        <span class="metric-value">Drone Fleet Mgmt</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Phase</span>
-                        <span class="metric-value">Concept Definition</span>
-                    </div>
-                    <div class="metric">
-                        <span class="metric-label">Repository</span>
-                        <span class="metric-value">YBOT8AI/Aeroview</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-        
-        <!-- Activity Log -->
-        <section class="activity-log">
-            <h2 class="section-title">📋 OPERATIONS LOG</h2>
-            <div class="activity-items" id="activity-log">
-                <div class="activity-item">
-                    <div class="activity-time">05:00:00 UTC</div>
-                    <div class="activity-text">Portfolio Dashboard: Added Aeroview project to tracking</div>
-                </div>
-                <div class="activity-item">
-                    <div class="activity-time">04:30:00 UTC</div>
-                    <div class="activity-text">TechWealth Tracker Pro: Vercel deployment in progress</div>
-                </div>
-                <div class="activity-item">
-                    <div class="activity-time">04:00:00 UTC</div>
-                    <div class="activity-text">KINKIN: Booking flow implementation 70% complete</div>
-                </div>
-                <div class="activity-item">
-                    <div class="activity-time">03:30:00 UTC</div>
-                    <div class="activity-text">OrbitX NFT: Smart contract audit preparation</div>
-                </div>
-                <div class="activity-item">
-                    <div class="activity-time">03:00:00 UTC</div>
-                    <div class="activity-text">TechWealth: Payment integration development started</div>
-                </div>
-            </div>
-        </section>
-        </div><!-- /page-dashboard -->
-
-        <!-- ===== CRON JOBS PAGE ===== -->
+        <!-- ═══════════ CRON JOBS ═══════════ -->
         <div class="page-section" id="page-cron">
-            <div class="dashboard-header"><h1 class="dashboard-title">⏰ CRON JOB MONITOR</h1><p class="dashboard-subtitle">ALL 8 SCHEDULED AUTOMATION JOBS</p></div>
+            <div class="page-header">
+                <h1 class="page-title">Cron Jobs</h1>
+                <p class="page-subtitle">Scheduled automation health</p>
+            </div>
             <div class="progress-section">
                 <table class="data-table">
                     <thead><tr><th>Job</th><th>Schedule</th><th>Last Run</th><th>Status</th><th>Next Run</th></tr></thead>
-                    <tbody>
-                        <tr><td>Token Saving Setup</td><td>Daily 9AM</td><td>Jul 16 09:00</td><td><span class="status-badge status-online">OK</span></td><td>Jul 17 09:00</td></tr>
-                        <tr><td>Morning Briefing</td><td>Mon-Fri 9AM</td><td>Jul 16 09:00</td><td><span class="status-badge status-online">OK</span></td><td>Jul 17 09:00</td></tr>
-                        <tr><td>Weekly Backup</td><td>Sun 3:33AM</td><td>Jul 12 03:44</td><td><span class="status-badge status-online">OK</span></td><td>Jul 19 03:33</td></tr>
-                        <tr><td>Deploy Loop Monitor</td><td>Every 30min</td><td>Jul 16 22:15</td><td><span class="status-badge status-online">OK</span></td><td>Jul 16 22:45</td></tr>
-                        <tr><td>Daily Business Report</td><td>Daily 9AM</td><td>Jul 16 09:00</td><td><span class="status-badge status-online">OK</span></td><td>Jul 17 09:00</td></tr>
-                        <tr><td>Health Check</td><td>Every 30min</td><td>Jul 16 22:30</td><td><span class="status-badge status-online">OK</span></td><td>Jul 16 23:00</td></tr>
-                        <tr><td>Market Sentinel</td><td>Every 2h</td><td>Jul 16 22:06</td><td><span class="status-badge status-online">OK</span></td><td>Jul 17 00:06</td></tr>
-                        <tr><td>Daily Project Audit</td><td>Daily 9AM</td><td>Jul 16 09:01</td><td><span class="status-badge status-online">OK</span></td><td>Jul 17 09:00</td></tr>
-                    </tbody>
+                    <tbody></tbody>
                 </table>
             </div>
         </div>
 
-        <!-- ===== AGENTS PAGE ===== -->
+        <!-- ═══════════ AGENTS ═══════════ -->
         <div class="page-section" id="page-agents">
-            <div class="dashboard-header"><h1 class="dashboard-title">🤖 AGENT NETWORK</h1><p class="dashboard-subtitle">ACTIVE AI AGENTS & ASSIGNMENTS</p></div>
+            <div class="page-header">
+                <h1 class="page-title">Agent Network</h1>
+                <p class="page-subtitle">Active AI agents & assignments</p>
+            </div>
             <div class="agent-grid">
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">⚡ YBOT (Main)</span><span class="status-badge status-online">ONLINE</span></div><div class="agent-role">🎯 Overall Coordination</div><div class="agent-clearance">🔒 LEVEL 5 — TOP SECRET</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">🧬 DAIFU</span><span class="status-badge status-online">ACTIVE</span></div><div class="agent-role">🎯 Health & Biohacking Agent</div><div class="agent-clearance">🔒 LEVEL 4 — #2 Chain of Command</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">🌌 Agent X</span><span class="status-badge status-online">ACTIVE</span></div><div class="agent-role">🎯 OrbitX NFT Operations</div><div class="agent-clearance">🔒 LEVEL 4 — Respawn every 5min</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">🚀 Agent KinKin</span><span class="status-badge status-online">ACTIVE</span></div><div class="agent-role">🎯 KINKIN Marketplace</div><div class="agent-clearance">🔒 LEVEL 4 — Respawn every 5min</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">🐂 Bull-E</span><span class="status-badge status-standby">STANDBY</span></div><div class="agent-role">🎯 Market Intelligence</div><div class="agent-clearance">🔒 LEVEL 3 — Briefings 9/15/21 HKT</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">🌋 DoubleMay</span><span class="status-badge status-online">ACTIVE</span></div><div class="agent-role">🎯 Doomsday Continuity</div><div class="agent-clearance">🔒 LEVEL 3 — #6 Chain of Command</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">💓 Heartbeat Scan</span><span class="status-badge status-online">ACTIVE</span></div><div class="agent-role">🎯 System Monitoring (30min)</div><div class="agent-clearance">🔒 LEVEL 3</div></div>
-                <div class="agent-card"><div class="agent-header"><span class="agent-name">🌐 Gateway</span><span class="status-badge status-online">RUNNING</span></div><div class="agent-role">🎯 Message Routing</div><div class="agent-clearance">🔒 LEVEL 4 — srv1595219</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">⚡ YBOT (Main)</span><span class="badge badge-green"><span class="badge-dot"></span>Online</span></div><div class="agent-role">Overall Coordination</div><div class="agent-meta">Level 5 · Top Secret</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">🧬 DAIFU</span><span class="badge badge-green"><span class="badge-dot"></span>Active</span></div><div class="agent-role">Health & Biohacking</div><div class="agent-meta">Level 4 · #2 Chain of Command</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">🌌 Agent X</span><span class="badge badge-green"><span class="badge-dot"></span>Active</span></div><div class="agent-role">OrbitX NFT Operations</div><div class="agent-meta">Level 4 · Respawn 5min</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">🚀 Agent KinKin</span><span class="badge badge-green"><span class="badge-dot"></span>Active</span></div><div class="agent-role">KINKIN Marketplace</div><div class="agent-meta">Level 4 · Respawn 5min</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">🐂 Bull-E</span><span class="badge badge-blue"><span class="badge-dot"></span>Standby</span></div><div class="agent-role">Market Intelligence</div><div class="agent-meta">Level 3 · 9/15/21 HKT</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">🌋 DoubleMay</span><span class="badge badge-green"><span class="badge-dot"></span>Active</span></div><div class="agent-role">Doomsday Continuity</div><div class="agent-meta">Level 3 · #6 Chain of Command</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">💓 Heartbeat</span><span class="badge badge-green"><span class="badge-dot"></span>Active</span></div><div class="agent-role">System Monitoring</div><div class="agent-meta">Level 3 · 30min interval</div></div>
+                <div class="agent-card"><div class="agent-top"><span class="agent-name">🌐 Gateway</span><span class="badge badge-green"><span class="badge-dot"></span>Running</span></div><div class="agent-role">Message Routing</div><div class="agent-meta">Level 4 · srv1595219</div></div>
             </div>
         </div>
 
-        <!-- ===== MARKET PAGE ===== -->
+        <!-- ═══════════ MARKET ═══════════ -->
         <div class="page-section" id="page-market">
-            <div class="dashboard-header"><h1 class="dashboard-title">💹 MARKET INTELLIGENCE</h1><p class="dashboard-subtitle">LIVE CRYPTO, STOCKS, METALS & COMMODITIES — HKD PRIMARY</p></div>
+            <div class="page-header">
+                <h1 class="page-title">Market Intelligence</h1>
+                <p class="page-subtitle">Crypto, stocks, metals & commodities — HKD primary</p>
+            </div>
             <div class="market-grid">
-                <div class="market-card"><h2 class="section-title">💎 Cryptocurrency</h2>
-                    <div class="market-row"><span>₿ BTC</span><span class="market-price">HK$502,528 ($64,098 USD)</span><span class="market-change-down">📉 -0.86%</span></div>
-                    <div class="market-row"><span>Ξ ETH</span><span class="market-price">HK$14,772 ($1,884 USD)</span><span class="market-change-up">📈 +0.24%</span></div>
-                    <div class="market-row"><span>☀ SOL</span><span class="market-price">HK$596.62 ($76.10 USD)</span><span class="market-change-down">📉 -1.67%</span></div>
-                    <div style="color:#95a5a6;font-size:0.75em;margin-top:8px;">💱 USD/HKD: 7.8400</div>
+                <div class="market-card"><h2>Cryptocurrency</h2>
+                    <div class="market-row"><span class="market-symbol">₿ BTC</span><span class="market-price">HK$502,528</span><span class="market-change market-down">−0.86%</span></div>
+                    <div class="market-row"><span class="market-symbol">Ξ ETH</span><span class="market-price">HK$14,772</span><span class="market-change market-up">+0.24%</span></div>
+                    <div class="market-row"><span class="market-symbol">☀ SOL</span><span class="market-price">HK$596.62</span><span class="market-change market-down">−1.67%</span></div>
+                    <div style="font-size:0.7em;color:var(--text-tertiary);margin-top:8px;">USD/HKD: 7.8400</div>
                 </div>
-                <div class="market-card"><h2 class="section-title">💰 Stock Markets</h2>
-                    <div class="market-row"><span>📊 VOO</span><span class="market-price">HK$5,439 ($694 USD)</span><span class="market-change-up">📈 +0.39%</span></div>
-                    <div class="market-row"><span>📈 SPX</span><span class="market-price">HK$59,368 ($7,572 USD)</span><span class="market-change-up">📈 +0.38%</span></div>
-                    <div class="market-row"><span>🚀 SPCX</span><span class="market-price">HK$1,061 ($135 USD)</span><span class="market-change-down">📉 -0.60%</span></div>
+                <div class="market-card"><h2>Stock Markets</h2>
+                    <div class="market-row"><span class="market-symbol">VOO</span><span class="market-price">HK$5,439</span><span class="market-change market-up">+0.39%</span></div>
+                    <div class="market-row"><span class="market-symbol">SPX</span><span class="market-price">HK$59,368</span><span class="market-change market-up">+0.38%</span></div>
+                    <div class="market-row"><span class="market-symbol">SPCX</span><span class="market-price">HK$1,061</span><span class="market-change market-down">−0.60%</span></div>
                 </div>
-                <div class="market-card"><h2 class="section-title">🥇 Precious Metals</h2>
-                    <div class="market-row"><span>🟡 Gold</span><span class="market-price">HK$1,015 ($129 USD) per g</span></div>
-                    <div class="market-row"><span>⚪ Silver</span><span class="market-price">HK$14.27 ($1.82 USD) per g</span></div>
+                <div class="market-card"><h2>Precious Metals</h2>
+                    <div class="market-row"><span class="market-symbol">Gold</span><span class="market-price">HK$1,015/g</span></div>
+                    <div class="market-row"><span class="market-symbol">Silver</span><span class="market-price">HK$14.27/g</span></div>
                 </div>
-                <div class="market-card"><h2 class="section-title">🛢️ Commodities</h2>
-                    <div class="market-row"><span>🛢️ Crude Oil</span><span class="market-price">HK$629 ($80 USD) per barrel</span><span class="market-change-up">📈 +0.83%</span></div>
-                    <div class="market-row"><span>🔥 Natural Gas</span><span class="market-price">HK$23.12 ($2.95 USD) per MMBtu</span><span class="market-change-up">📈 +0.85%</span></div>
+                <div class="market-card"><h2>Commodities</h2>
+                    <div class="market-row"><span class="market-symbol">Crude Oil</span><span class="market-price">HK$629/bbl</span><span class="market-change market-up">+0.83%</span></div>
+                    <div class="market-row"><span class="market-symbol">Natural Gas</span><span class="market-price">HK$23.12/MMBtu</span><span class="market-change market-up">+0.85%</span></div>
                 </div>
             </div>
         </div>
 
-        <!-- ===== ACTIVITY PAGE ===== -->
+        <!-- ═══════════ ACTIVITY ═══════════ -->
         <div class="page-section" id="page-activity">
-            <div class="dashboard-header"><h1 class="dashboard-title">📋 ACTIVITY LOG</h1><p class="dashboard-subtitle">RECENT OPERATIONS & EVENTS</p></div>
-            <div class="progress-section"><div class="timeline">
-                <div class="timeline-item"><div class="timeline-time">Jul 16 22:30</div><div class="timeline-text">Health check: All systems operational</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 22:06</div><div class="timeline-text">Market Sentinel: Monitoring cycle completed</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 21:00</div><div class="timeline-text">Dashboard: Animation fixes deployed (static PNGs)</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 19:30</div><div class="timeline-text">Morning Briefing: Added gold, silver, oil, gas prices</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 18:00</div><div class="timeline-text">System Audit: All 8 problems resolved, curator disabled</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 16:00</div><div class="timeline-text">Morning Briefing: SPCX added, HKD formatting applied</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 12:02</div><div class="timeline-text">Market Sentinel: Model pinned to deepseek-v4-pro</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 11:30</div><div class="timeline-text">Dashboard: Remote removed, local-only confirmed</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 10:22</div><div class="timeline-text">Telegram: Brief outage, auto-recovered</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 09:00</div><div class="timeline-text">Morning Briefing: Delivered with live crypto + stock data</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 16 09:00</div><div class="timeline-text">Daily Project Audit: All 8 repos synced</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 15 22:33</div><div class="timeline-text">Curator: Background session ended (disabled Jul 16)</div></div>
-                <div class="timeline-item"><div class="timeline-time">Jul 12 03:44</div><div class="timeline-text">Weekly Backup: Completed successfully</div></div>
-            </div></div>
+            <div class="page-header">
+                <h1 class="page-title">Activity Log</h1>
+                <p class="page-subtitle">Recent operations & events</p>
+            </div>
+            <div class="progress-section"><div class="timeline"></div></div>
         </div>
 
-        <!-- ===== PROJECTS GRID PAGE ===== -->
-        <div class="page-section" id="page-projects">
-            <div class="dashboard-header">
-                <h1 class="dashboard-title">📁 PROJECT PORTFOLIO</h1>
-                <p class="dashboard-subtitle">SELECT A PROJECT FOR DETAILED BREAKDOWN</p>
-            </div>
-            <div class="project-link-grid">
-                <div class="project-link-card" onclick="showPage('orbitx')">
-                    <div class="pl-header">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="pl-pokemon online" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
-                        <div>
-                            <div class="pl-title">🌌 OrbitX NFT</div>
-                            <span class="status-badge status-prelaunch">PRE-LAUNCH</span>
-                        </div>
-                    </div>
-                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill" style="width:75%"></div></div></div>
-                    <div class="pl-tasks">10 completed · 7 pending · 75%</div>
-                </div>
-                <div class="project-link-card" onclick="showPage('kinkin')">
-                    <div class="pl-header">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="pl-pokemon building" onerror="this.style.display='none';this.parentElement.innerHTML='⚡'">
-                        <div>
-                            <div class="pl-title">🚀 KINKIN</div>
-                            <span class="status-badge status-building">DEPLOYING</span>
-                        </div>
-                    </div>
-                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill" style="width:85%"></div></div></div>
-                    <div class="pl-tasks">10 completed · 7 pending · 85%</div>
-                </div>
-                <div class="project-link-card" onclick="showPage('techwealth')">
-                    <div class="pl-header">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="pl-pokemon building" onerror="this.style.display='none';this.parentElement.innerHTML='💰'">
-                        <div>
-                            <div class="pl-title">💼 TechWealth</div>
-                            <span class="status-badge status-building">BUILDING</span>
-                        </div>
-                    </div>
-                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill warning" style="width:55%"></div></div></div>
-                    <div class="pl-tasks">10 completed · 7 pending · 55%</div>
-                </div>
-                <div class="project-link-card" onclick="showPage('tracker')">
-                    <div class="pl-header">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="pl-pokemon building" onerror="this.style.display='none';this.parentElement.innerHTML='🔮'">
-                        <div>
-                            <div class="pl-title">📊 Tracker Pro</div>
-                            <span class="status-badge status-building">DEPLOYING</span>
-                        </div>
-                    </div>
-                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill" style="width:85%"></div></div></div>
-                    <div class="pl-tasks">10 completed · 7 pending · 85%</div>
-                </div>
-                <div class="project-link-card" onclick="showPage('wpo')">
-                    <div class="pl-header">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="pl-pokemon standby" onerror="this.style.display='none';this.parentElement.innerHTML='💖'">
-                        <div>
-                            <div class="pl-title">🐾 WPO</div>
-                            <span class="status-badge status-standby">CONCEPT</span>
-                        </div>
-                    </div>
-                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill warning" style="width:45%"></div></div></div>
-                    <div class="pl-tasks">10 completed · 7 pending · 45%</div>
-                </div>
-                <div class="project-link-card" onclick="showPage('aeroview')">
-                    <div class="pl-header">
-                        <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="pl-pokemon standby" onerror="this.style.display='none';this.parentElement.innerHTML='🚁'">
-                        <div>
-                            <div class="pl-title">🚁 Aeroview</div>
-                            <span class="status-badge status-standby">PLANNING</span>
-                        </div>
-                    </div>
-                    <div class="pl-progress"><div class="pl-progress-track"><div class="pl-progress-fill critical" style="width:20%"></div></div></div>
-                    <div class="pl-tasks">10 completed · 7 pending · 20%</div>
-                </div>
-            </div>
-        </div>
-
-        <!-- ===== ORBITX NFT DETAIL PAGE ===== -->
+        <!-- ═══════════ PROJECT DETAIL: ORBITX ═══════════ -->
         <div class="page-section" id="page-orbitx">
-            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <a class="back-btn" onclick="showPage('projects')">← Back to Projects</a>
             <div class="project-detail-header">
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="project-detail-pokemon online" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🌌 OrbitX NFT'">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="project-detail-pokemon online" onerror="this.style.display='none'">
                 <div>
                     <div class="project-detail-title">🌌 OrbitX NFT</div>
                     <div class="project-detail-subtitle">Solana-based NFT marketplace for fine arts & music · YBOT8AI/Orbitx-NFT</div>
                     <div class="project-detail-meta">
-                        <span class="status-badge status-prelaunch">PRE-LAUNCH</span>
-                        <span class="status-badge status-online">PHASE 1 · FINE ARTS</span>
+                        <span class="badge badge-purple"><span class="badge-dot"></span>Pre-Launch</span>
+                        <span class="badge badge-green"><span class="badge-dot"></span>Phase 1 · Fine Arts</span>
                     </div>
                 </div>
             </div>
-            <div class="progress-section" style="margin-bottom:30px;">
-                <h2 class="section-title">📊 PROGRESS · 75%</h2>
-                <div class="progress-track" style="height:16px;"><div class="progress-fill" style="width:75%"></div></div>
+            <div class="progress-section" style="margin-bottom:20px">
+                <h2 class="section-title">Progress · <span id="orbitx-detail-pct">—</span>%</h2>
+                <div class="progress-track" style="height:6px"><div class="progress-fill good" id="orbitx-detail-bar" style="width:0%"></div></div>
             </div>
             <div class="task-grid">
                 <div class="task-list-card completed">
-                    <h3>✅ COMPLETED (10)</h3>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Next.js frontend marketplace UI</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Solidity smart contracts (ERC-721 + marketplace)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">WalletConnect integration</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Solana Amoy testnet configuration</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">OpenZeppelin v5 import fixes</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Hardhat deployment scripts</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Vercel deployment config</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">OXC Token created on Solana (15%)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Smart contract audit preparation</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Project context file (.hermes.md)</span></div>
+                    <h3>Completed (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Next.js frontend marketplace UI</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Solidity smart contracts (ERC-721 + marketplace)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">WalletConnect integration</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Solana Amoy testnet configuration</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">OpenZeppelin v5 import fixes</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Hardhat deployment scripts</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Vercel deployment config</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">OXC Token created on Solana (15%)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Smart contract audit preparation</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Project context file (.hermes.md)</span></div>
                 </div>
                 <div class="task-list-card pending">
-                    <h3>⏳ PENDING (7)</h3>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Testnet deployment + validation</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Artist outreach program (onboard 5 artists)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Mainnet deployment</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Phase 2: Music NFT marketplace expansion</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Cross-chain bridge (Polygon/Solana)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Royalty distribution system</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Public launch + marketing campaign</span></div>
+                    <h3>Pending (7)</h3>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Testnet deployment + validation</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Artist outreach program (onboard 5 artists)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Mainnet deployment</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Phase 2: Music NFT marketplace expansion</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Cross-chain bridge (Polygon/Solana)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Royalty distribution system</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Public launch + marketing campaign</span></div>
                 </div>
             </div>
         </div>
 
-        <!-- ===== KINKIN DETAIL PAGE ===== -->
+        <!-- ═══════════ PROJECT DETAIL: KINKIN ═══════════ -->
         <div class="page-section" id="page-kinkin">
-            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <a class="back-btn" onclick="showPage('projects')">← Back to Projects</a>
             <div class="project-detail-header">
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="project-detail-pokemon building" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🚀 KINKIN'">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu" class="project-detail-pokemon building" onerror="this.style.display='none'">
                 <div>
                     <div class="project-detail-title">🚀 KINKIN</div>
-                    <div class="project-detail-subtitle">Neighborhood services marketplace with gamification · kinkin.vercel.app · YBOT8AI/KinKin</div>
+                    <div class="project-detail-subtitle">Neighborhood services marketplace with gamification · kinkin.vercel.app · evilmoni/KinKin</div>
                     <div class="project-detail-meta">
-                        <span class="status-badge status-building">DEPLOYING</span>
-                        <span class="status-badge status-online">BUILD #6 · 8-TIER POLISH</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Deploying</span>
+                        <span class="badge badge-green"><span class="badge-dot"></span>Build #6 · 8-Tier Polish</span>
                     </div>
                 </div>
             </div>
-            <div class="progress-section" style="margin-bottom:30px;">
-                <h2 class="section-title">📊 PROGRESS · 85%</h2>
-                <div class="progress-track" style="height:16px;"><div class="progress-fill" style="width:85%"></div></div>
+            <div class="progress-section" style="margin-bottom:20px">
+                <h2 class="section-title">Progress · <span id="kinkin-detail-pct">—</span>%</h2>
+                <div class="progress-track" style="height:6px"><div class="progress-fill good" id="kinkin-detail-bar" style="width:0%"></div></div>
             </div>
             <div class="task-grid">
                 <div class="task-list-card completed">
-                    <h3>✅ COMPLETED (10)</h3>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Core marketplace (6 service categories)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Provider profiles with level system</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Trilingual i18n (en, zh-Hant, zh-Hans)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Gamification engine (XP, KinPoints, KindPoints)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 1: Conversion & trust (TrustBar, risk-reversal, CTAs)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 2-3: UI polish + gamification visibility components</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 4-5: Mobile nav, search, enhanced provider cards</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 6: KindKin charity arm with request feed + leaderboard</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 7: SEO, sitemap, PWA manifest, accessibility</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Tier 8: District pages, earnings calculator, blog, challenges</span></div>
+                    <h3>Completed (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Core marketplace (6 service categories)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Provider profiles with level system</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Trilingual i18n (en, zh-Hant, zh-Hans)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Gamification engine (XP, KinPoints, KindPoints)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Tier 1: Conversion & trust (TrustBar, risk-reversal, CTAs)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Tier 2-3: UI polish + gamification visibility</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Tier 4-5: Mobile nav, search, enhanced provider cards</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Tier 6: KindKin charity arm + leaderboard</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Tier 7: SEO, sitemap, PWA manifest, accessibility</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Tier 8: District pages, earnings calculator, blog</span></div>
                 </div>
                 <div class="task-list-card pending">
-                    <h3>⏳ PENDING (7)</h3>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Booking flow + payment integration (escrow)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Supabase backend (auth, real-time, database)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Mobile app (iOS + Android via React Native)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Blog article content (6 guides outlined, 0 written)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Provider onboarding flow + KYC verification</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Review + rating system backend</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Public launch + neighborhood marketing campaign</span></div>
+                    <h3>Pending (7)</h3>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Booking flow + payment integration (escrow)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Supabase backend (auth, real-time, database)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Mobile app (iOS + Android via React Native)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Blog article content (6 guides outlined, 0 written)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Provider onboarding flow + KYC verification</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Review + rating system backend</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Public launch + neighborhood marketing campaign</span></div>
                 </div>
             </div>
         </div>
 
-        <!-- ===== TECHWEALTH DETAIL PAGE ===== -->
+        <!-- ═══════════ PROJECT DETAIL: TECHWEALTH ═══════════ -->
         <div class="page-section" id="page-techwealth">
-            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <a class="back-btn" onclick="showPage('projects')">← Back to Projects</a>
             <div class="project-detail-header">
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="project-detail-pokemon building" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='💼 TechWealth'">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" alt="Meowth" class="project-detail-pokemon building" onerror="this.style.display='none'">
                 <div>
                     <div class="project-detail-title">💼 TechWealth</div>
                     <div class="project-detail-subtitle">Financial tech platform · 5-tier membership · 15% fee · tech-wealth-website.vercel.app · evilmoni/TechWealth</div>
                     <div class="project-detail-meta">
-                        <span class="status-badge status-building">BUILDING</span>
-                        <span class="status-badge status-online">MONETIZATION ENGINE</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Building</span>
+                        <span class="badge badge-green"><span class="badge-dot"></span>Monetization Engine</span>
                     </div>
                 </div>
             </div>
-            <div class="progress-section" style="margin-bottom:30px;">
-                <h2 class="section-title">📊 PROGRESS · 55%</h2>
-                <div class="progress-track" style="height:16px;"><div class="progress-fill warning" style="width:55%"></div></div>
+            <div class="progress-section" style="margin-bottom:20px">
+                <h2 class="section-title">Progress · <span id="techwealth-detail-pct">—</span>%</h2>
+                <div class="progress-track" style="height:6px"><div class="progress-fill warning" id="techwealth-detail-bar" style="width:0%"></div></div>
             </div>
             <div class="task-grid">
                 <div class="task-list-card completed">
-                    <h3>✅ COMPLETED (10)</h3>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Concept definition + business model</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Market research + competitor analysis</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Policy framework (4 key decisions)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">UI/UX (logo, pricing, Diamond tier)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">WhatsApp link preview (OG tags)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Monetization engine (Stripe checkout + auto-provisioning)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Digital store implementation</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Master strategy merge (vision, pricing, features, API, revenue)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">TECHWEALTH_ROADMAP.md consolidated</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Next.js 14 app router structure (158 files)</span></div>
+                    <h3>Completed (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Concept definition + business model</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Market research + competitor analysis</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Policy framework (4 key decisions)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">UI/UX (logo, pricing, Diamond tier)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">WhatsApp link preview (OG tags)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Monetization engine (Stripe checkout + auto-provisioning)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Digital store implementation</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Master strategy merge (vision, pricing, features, API, revenue)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">TECHWEALTH_ROADMAP.md consolidated</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Next.js 14 app router structure (158 files)</span></div>
                 </div>
                 <div class="task-list-card pending">
-                    <h3>⏳ PENDING (7)</h3>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Payment integration (FPS/Bank Transfer for HK)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Member database (Firestore)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">3-slot engine implementation</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Family audit dashboard</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Beta testing (10 members)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Admin panel + member management</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Public launch + customer acquisition</span></div>
+                    <h3>Pending (7)</h3>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Payment integration (FPS/Bank Transfer for HK)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Member database (Firestore)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">3-slot engine implementation</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Family audit dashboard</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Beta testing (10 members)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Admin panel + member management</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Public launch + customer acquisition</span></div>
                 </div>
             </div>
         </div>
 
-        <!-- ===== CLIENT TRACKER PRO DETAIL PAGE ===== -->
+        <!-- ═══════════ PROJECT DETAIL: TRACKER PRO ═══════════ -->
         <div class="page-section" id="page-tracker">
-            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <a class="back-btn" onclick="showPage('projects')">← Back to Projects</a>
             <div class="project-detail-header">
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="project-detail-pokemon building" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='📊 Tracker Pro'">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" alt="Kadabra" class="project-detail-pokemon building" onerror="this.style.display='none'">
                 <div>
                     <div class="project-detail-title">📊 TechWealth Tracker Pro</div>
                     <div class="project-detail-subtitle">Client management system for TechWealth members · YBOT8AI/Client_Tracker_Pro</div>
                     <div class="project-detail-meta">
-                        <span class="status-badge status-building">DEPLOYING</span>
-                        <span class="status-badge status-online">HK/CHINA LOCALIZED</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Deploying</span>
+                        <span class="badge badge-green"><span class="badge-dot"></span>HK/China Localized</span>
                     </div>
                 </div>
             </div>
-            <div class="progress-section" style="margin-bottom:30px;">
-                <h2 class="section-title">📊 PROGRESS · 85%</h2>
-                <div class="progress-track" style="height:16px;"><div class="progress-fill" style="width:85%"></div></div>
+            <div class="progress-section" style="margin-bottom:20px">
+                <h2 class="section-title">Progress · <span id="tracker-detail-pct">—</span>%</h2>
+                <div class="progress-track" style="height:6px"><div class="progress-fill good" id="tracker-detail-bar" style="width:0%"></div></div>
             </div>
             <div class="task-grid">
                 <div class="task-list-card completed">
-                    <h3>✅ COMPLETED (10)</h3>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Dashboard UI (client overview + stats)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Client forms (add/edit/delete)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Purchase tracking system</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Referral system</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">GitHub repository setup</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Supabase schema design</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">HK/China localization (FPS, WeChat Pay)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">IRD invoice generation</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Analytics dashboard</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Deployment documentation</span></div>
+                    <h3>Completed (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Dashboard UI (client overview + stats)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Client forms (add/edit/delete)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Purchase tracking system</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Referral system</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">GitHub repository setup</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Supabase schema design</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">HK/China localization (FPS, WeChat Pay)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">IRD invoice generation</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Analytics dashboard</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Deployment documentation</span></div>
                 </div>
                 <div class="task-list-card pending">
-                    <h3>⏳ PENDING (7)</h3>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Vercel deployment (live)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Supabase production setup</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Real-time sync across devices</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">CSV/Excel export</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Email notification system</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Multi-tenant support (TechWealth integration)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Production launch + user onboarding</span></div>
+                    <h3>Pending (7)</h3>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Vercel deployment (live)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Supabase production setup</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Real-time sync across devices</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">CSV/Excel export</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Email notification system</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Multi-tenant support (TechWealth integration)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Production launch + user onboarding</span></div>
                 </div>
             </div>
         </div>
 
-        <!-- ===== WPO DETAIL PAGE ===== -->
+        <!-- ═══════════ PROJECT DETAIL: WPO ═══════════ -->
         <div class="page-section" id="page-wpo">
-            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <a class="back-btn" onclick="showPage('projects')">← Back to Projects</a>
             <div class="project-detail-header">
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="project-detail-pokemon standby" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🐾 WPO'">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" alt="Chansey" class="project-detail-pokemon standby" onerror="this.style.display='none'">
                 <div>
                     <div class="project-detail-title">🐾 WPO (World Paws Org)</div>
                     <div class="project-detail-subtitle">Animal welfare organization · Solana token · WorldPawsOrg_Website · Priority shifted to TechWealth</div>
                     <div class="project-detail-meta">
-                        <span class="status-badge status-standby">CONCEPT</span>
-                        <span class="status-badge status-building">OPTION B · FULL BUILD</span>
+                        <span class="badge badge-blue"><span class="badge-dot"></span>Concept</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Option B · Full Build</span>
                     </div>
                 </div>
             </div>
-            <div class="progress-section" style="margin-bottom:30px;">
-                <h2 class="section-title">📊 PROGRESS · 45%</h2>
-                <div class="progress-track" style="height:16px;"><div class="progress-fill warning" style="width:45%"></div></div>
+            <div class="progress-section" style="margin-bottom:20px">
+                <h2 class="section-title">Progress · <span id="wpo-detail-pct">—</span>%</h2>
+                <div class="progress-track" style="height:6px"><div class="progress-fill warning" id="wpo-detail-bar" style="width:0%"></div></div>
             </div>
             <div class="task-grid">
                 <div class="task-list-card completed">
-                    <h3>✅ COMPLETED (10)</h3>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Mission definition + vision</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Option B selected (full build)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Logo design received</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">GitHub repository created</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Website initial deployment (GitHub Pages)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">CI/CD pipeline (GitHub Actions)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Cache cleanup + force redeploy</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Obsolete file cleanup</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Project context file (.hermes.md)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Blockchain platform decided (Solana)</span></div>
+                    <h3>Completed (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Mission definition + vision</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Option B selected (full build)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Logo design received</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">GitHub repository created</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Website initial deployment (GitHub Pages)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">CI/CD pipeline (GitHub Actions)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Cache cleanup + force redeploy</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Obsolete file cleanup</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Project context file (.hermes.md)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Blockchain platform decided (Solana)</span></div>
                 </div>
                 <div class="task-list-card pending">
-                    <h3>⏳ PENDING (7)</h3>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Solana token setup + smart contract</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Website development (full build)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Vercel deployment</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">YouTube channel setup + content</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Token launch + distribution</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Community building + social media</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Partnership outreach (animal shelters)</span></div>
+                    <h3>Pending (7)</h3>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Solana token setup + smart contract</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Website development (full build)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Vercel deployment</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">YouTube channel setup + content</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Token launch + distribution</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Community building + social media</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Partnership outreach (animal shelters)</span></div>
                 </div>
             </div>
         </div>
 
-        <!-- ===== AEROVIEW DETAIL PAGE ===== -->
+        <!-- ═══════════ PROJECT DETAIL: AEROVIEW ═══════════ -->
         <div class="page-section" id="page-aeroview">
-            <a class="back-btn" onclick="showPage('projects')">← BACK TO PROJECTS</a>
+            <a class="back-btn" onclick="showPage('projects')">← Back to Projects</a>
             <div class="project-detail-header">
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="project-detail-pokemon standby" onerror="this.style.display='none';this.parentElement.querySelector('.project-detail-title').innerHTML='🚁 Aeroview'">
+                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" alt="Dragonite" class="project-detail-pokemon standby" onerror="this.style.display='none'">
                 <div>
                     <div class="project-detail-title">🚁 Aeroview</div>
                     <div class="project-detail-subtitle">Drone fleet management system · YBOT8AI/Aeroview · Concept definition phase</div>
                     <div class="project-detail-meta">
-                        <span class="status-badge status-standby">PLANNING</span>
-                        <span class="status-badge status-building">CONCEPT DEFINITION</span>
+                        <span class="badge badge-blue"><span class="badge-dot"></span>Planning</span>
+                        <span class="badge badge-amber"><span class="badge-dot"></span>Concept Definition</span>
                     </div>
                 </div>
             </div>
-            <div class="progress-section" style="margin-bottom:30px;">
-                <h2 class="section-title">📊 PROGRESS · 20%</h2>
-                <div class="progress-track" style="height:16px;"><div class="progress-fill critical" style="width:20%"></div></div>
+            <div class="progress-section" style="margin-bottom:20px">
+                <h2 class="section-title">Progress · <span id="aeroview-detail-pct">—</span>%</h2>
+                <div class="progress-track" style="height:6px"><div class="progress-fill critical" id="aeroview-detail-bar" style="width:0%"></div></div>
             </div>
             <div class="task-grid">
                 <div class="task-list-card completed">
-                    <h3>✅ COMPLETED (10)</h3>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Concept definition document</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">GitHub repository created</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Initial project structure</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Use case brainstorming (5 scenarios)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Market research (drone industry)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Competitor analysis (DJI, Skydio)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Project context file (.hermes.md)</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Mission Control dashboard tracking</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Dragonite assigned as Pokémon mascot</span></div>
-                    <div class="task-item completed"><span class="task-icon">✅</span><span class="task-text">Priority assessment (medium)</span></div>
+                    <h3>Completed (10)</h3>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Concept definition document</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">GitHub repository created</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Initial project structure</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Use case brainstorming (5 scenarios)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Market research (drone industry)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Competitor analysis (DJI, Skydio)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Project context file (.hermes.md)</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Mission Control dashboard tracking</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Dragonite assigned as Pokémon mascot</span></div>
+                    <div class="task-item completed"><span class="task-icon">✓</span><span class="task-text">Priority assessment (medium)</span></div>
                 </div>
                 <div class="task-list-card pending">
-                    <h3>⏳ PENDING (7)</h3>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Detailed requirements gathering</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Architecture design + system diagram</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Tech stack selection (real-time, mapping)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Prototype development (MVP)</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Drone hardware integration API</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Real-time data processing pipeline</span></div>
-                    <div class="task-item"><span class="task-icon">⏳</span><span class="task-text">Beta testing with actual drone fleet</span></div>
+                    <h3>Pending (7)</h3>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Detailed requirements gathering</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Architecture design + system diagram</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Tech stack selection (real-time, mapping)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Prototype development (MVP)</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Drone hardware integration API</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Real-time data processing pipeline</span></div>
+                    <div class="task-item"><span class="task-icon">○</span><span class="task-text">Beta testing with actual drone fleet</span></div>
                 </div>
             </div>
         </div>
 
     </main>
-    
+
     <script>
         // ═══════════════════════════════════════════════════════════
         //  MISSION CONTROL — DYNAMIC DATA ENGINE
-        //  Fetches data.json (auto-generated by cron) + GitHub API
+        //  Fetches data.json (auto-generated by cron)
         //  Auto-refreshes every 60s
         // ═══════════════════════════════════════════════════════════
 
         const PASSWORD = 'ybot2026';
-        const DATA_URL = 'data.json';  // Same origin on GitHub Pages
-        const REFRESH_INTERVAL = 60000; // 60 seconds
+        const DATA_URL = 'data.json';
+        const REFRESH_INTERVAL = 60000;
         let dashboardData = null;
         let refreshTimer = null;
         let chartInstances = {};
 
-        // ── Login ─────────────────────────────────────────────────
         function login() {
             const input = document.getElementById('password-input').value;
             const error = document.getElementById('login-error');
@@ -1498,34 +1047,30 @@
                 initDashboard();
             } else {
                 error.style.display = 'block';
-                const loginBox = document.querySelector('.login-box');
-                loginBox.style.animation = 'shake 0.5s';
-                setTimeout(() => { loginBox.style.animation = ''; }, 500);
+                const box = document.querySelector('.login-box');
+                box.style.animation = 'shake 0.5s';
+                setTimeout(() => { box.style.animation = ''; }, 500);
             }
         }
 
-        // ── Page Navigation ───────────────────────────────────────
         function showPage(name) {
             document.querySelectorAll('.page-section').forEach(p => p.classList.remove('active'));
             document.querySelectorAll('.nav-link').forEach(n => n.classList.remove('active'));
             const page = document.getElementById('page-' + name);
             if (page) page.classList.add('active');
-            const navs = document.querySelectorAll('.nav-link');
-            navs.forEach(n => {
+            document.querySelectorAll('.nav-link').forEach(n => {
                 const txt = n.textContent.toLowerCase();
-                if (txt.includes(name) || (name === 'dashboard' && txt === 'dashboard')) n.classList.add('active');
+                if (txt.includes(name) || (name === 'dashboard' && txt === 'overview')) n.classList.add('active');
             });
             if (name === 'dashboard') renderCharts();
         }
 
-        // ── Init ──────────────────────────────────────────────────
         function initDashboard() {
             fetchData();
             if (refreshTimer) clearInterval(refreshTimer);
             refreshTimer = setInterval(fetchData, REFRESH_INTERVAL);
         }
 
-        // ── Data Fetch ───────────────────────────────────────────
         async function fetchData() {
             try {
                 const resp = await fetch(DATA_URL + '?t=' + Date.now());
@@ -1533,77 +1078,52 @@
                 dashboardData = await resp.json();
                 updateAllSections();
                 renderCharts();
-                updateStatusBar();
+                updateHeaderStatus();
             } catch (err) {
-                console.warn('Data fetch failed, using fallback:', err.message);
-                // Keep showing whatever was last loaded
+                console.warn('Data fetch failed:', err.message);
             }
         }
 
-        // ── Status Bar ───────────────────────────────────────────
-        function updateStatusBar() {
+        function updateHeaderStatus() {
             if (!dashboardData) return;
             const d = dashboardData;
-            const now = new Date();
-            const genTime = new Date(d.generatedAt);
-            const minsAgo = Math.round((now - genTime) / 60000);
-
-            const statusBar = document.querySelector('.status-bar');
-            if (!statusBar) return;
-
             const cronOk = d.stats?.healthyCronJobs || 0;
             const cronTotal = d.stats?.totalCronJobs || 0;
-            const cronClass = cronOk === cronTotal ? '' : (cronOk >= cronTotal * 0.7 ? 'warning' : 'offline');
-
-            statusBar.innerHTML = `
-                <div class="status-item">
-                    <div class="status-indicator"></div>
-                    <span>LIVE · ${minsAgo}m ago</span>
-                </div>
-                <div class="status-item">
-                    <div class="status-indicator ${cronClass}"></div>
-                    <span>CRON ${cronOk}/${cronTotal}</span>
-                </div>
-                <div class="status-item">
-                    <span style="font-size:0.8em;color:#95a5a6;">${d.systemHealth?.hostname || 'YBOT'} · ${d.systemHealth?.diskUsed || '?'}% disk</span>
-                </div>`;
+            const el = document.getElementById('header-cron');
+            if (el) el.textContent = 'Cron ' + cronOk + '/' + cronTotal;
+            const dot = document.querySelector('.status-bar .status-dot.warning');
+            if (dot) dot.className = 'status-dot' + (cronOk === cronTotal ? '' : ' warning');
         }
 
-        // ── Update All Sections ───────────────────────────────────
         function updateAllSections() {
             if (!dashboardData) return;
             updateStatCards();
             updateProgressBars();
             updateMissionCards();
             updateCronTable();
-            updateAgentsPage();
             updateActivityLogs();
             updateProjectCards();
             updateProjectDetailPages();
         }
 
-        // ── Stat Cards ────────────────────────────────────────────
         function updateStatCards() {
             const d = dashboardData;
-            const stats = d.stats || {};
+            const s = d.stats || {};
             const container = document.getElementById('stats-row');
             if (!container) return;
-
             container.innerHTML = `
                 <div class="stat-row">
-                    <div class="stat-card"><div class="stat-value">${stats.totalProjects || 6}</div><div class="stat-label">Active Projects</div></div>
-                    <div class="stat-card"><div class="stat-value">${stats.avgProgress || 0}%</div><div class="stat-label">Avg Progress</div></div>
-                    <div class="stat-card"><div class="stat-value">${stats.healthyCronJobs || 0}/${stats.totalCronJobs || 0}</div><div class="stat-label">Cron Healthy</div></div>
-                    <div class="stat-card"><div class="stat-value">${d.systemHealth?.uptime || '?'}</div><div class="stat-label">System Uptime</div></div>
+                    <div class="stat-card"><div class="stat-value">${s.totalProjects || 6}</div><div class="stat-label">Active Projects</div></div>
+                    <div class="stat-card"><div class="stat-value">${s.avgProgress || 0}%</div><div class="stat-label">Average Progress</div></div>
+                    <div class="stat-card"><div class="stat-value">${s.healthyCronJobs || 0}<span style="font-size:0.5em;color:var(--text-tertiary)">/${s.totalCronJobs || 0}</span></div><div class="stat-label">Cron Healthy</div></div>
+                    <div class="stat-card"><div class="stat-value" style="font-size:1.3em;font-family:'JetBrains Mono',monospace">${d.systemHealth?.uptime || '—'}</div><div class="stat-label">System Uptime</div></div>
                 </div>`;
         }
 
-        // ── Progress Bars (Dashboard) ─────────────────────────────
         function updateProgressBars() {
             const d = dashboardData;
             const projects = d.projects || {};
             const keys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
-
             keys.forEach(key => {
                 const p = projects[key];
                 if (!p) return;
@@ -1613,241 +1133,129 @@
                 if (pctEl) pctEl.textContent = pct + '%';
                 if (barEl) {
                     barEl.style.width = pct + '%';
-                    barEl.className = 'progress-fill' + (pct < 30 ? ' critical' : pct < 60 ? ' warning' : '');
+                    barEl.className = 'progress-fill' + (pct >= 80 ? ' good' : pct >= 40 ? ' warning' : ' critical');
                 }
             });
         }
 
-        // ── Mission Cards ─────────────────────────────────────────
         function updateMissionCards() {
             const d = dashboardData;
             const projects = d.projects || {};
             const cards = document.querySelectorAll('.mission-card');
             if (cards.length < 6) return;
-
             const keys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
-            const statusLabels = {
-                'pre-launch': 'PRE-LAUNCH', 'deploying': 'DEPLOYING', 'building': 'BUILDING',
-                'standby': 'CONCEPT', 'planning': 'PLANNING', 'active': 'ACTIVE', 'online': 'ONLINE'
-            };
-            const statusClasses = {
-                'pre-launch': 'status-prelaunch', 'deploying': 'status-building', 'building': 'status-building',
-                'standby': 'status-standby', 'planning': 'status-standby', 'active': 'status-online', 'online': 'status-online'
+            const statusMap = {
+                'pre-launch': ['Pre-Launch','badge-purple'], 'deploying': ['Deploying','badge-amber'],
+                'building': ['Building','badge-amber'], 'standby': ['Concept','badge-blue'],
+                'planning': ['Planning','badge-blue'], 'active': ['Active','badge-green'], 'online': ['Online','badge-green']
             };
 
             keys.forEach((key, i) => {
                 const p = projects[key];
                 if (!p || i >= cards.length) return;
                 const card = cards[i];
+                const [label, cls] = statusMap[p.status] || [p.status, 'badge-blue'];
 
-                // Update status badge
-                const badge = card.querySelector('.status-badge');
-                if (badge) {
-                    badge.textContent = statusLabels[p.status] || p.status.toUpperCase();
-                    badge.className = 'status-badge ' + (statusClasses[p.status] || 'status-standby');
-                }
+                const badge = card.querySelector('.badge');
+                if (badge) { badge.innerHTML = '<span class="badge-dot"></span>' + label; badge.className = 'badge ' + cls; }
 
-                // Update metrics
-                const metrics = card.querySelectorAll('.metric-value');
-                if (metrics.length >= 3) {
-                    if (key === 'orbitx') {
-                        metrics[0].textContent = p.phase || 'Phase 1';
-                        metrics[1].textContent = p.repo || '';
-                        metrics[2].textContent = 'Pending';
-                    } else if (key === 'kinkin') {
-                        metrics[0].textContent = 'Build #6';
-                        metrics[1].textContent = p.url || 'kinkin.vercel.app';
-                        metrics[2].textContent = p.repo || '';
-                    } else if (key === 'techwealth') {
-                        metrics[0].textContent = p.focus || 'Financial Tech';
-                        metrics[1].textContent = 'Policy Defined';
-                        metrics[2].textContent = p.url || '';
-                    } else if (key === 'techwealthTracker') {
-                        metrics[0].textContent = 'Rebranded';
-                        metrics[1].textContent = p.repo || '';
-                        metrics[2].textContent = 'Client Management';
-                    } else if (key === 'wpo') {
-                        metrics[0].textContent = 'World Paws Org';
-                        metrics[1].textContent = p.blockchain || 'Solana';
-                        metrics[2].textContent = 'WPO Token';
-                    } else if (key === 'aeroview') {
-                        metrics[0].textContent = p.focus || 'Drone Fleet Mgmt';
-                        metrics[1].textContent = p.phase || 'Concept';
-                        metrics[2].textContent = p.repo || '';
-                    }
-                }
-
-                // Update git info if available
                 const git = p.git;
+                let gitFooter = card.querySelector('.git-footer');
+                if (!gitFooter) {
+                    gitFooter = document.createElement('div');
+                    gitFooter.className = 'git-footer';
+                    card.appendChild(gitFooter);
+                }
                 if (git && git.lastCommit) {
-                    const lc = git.lastCommit;
-                    const lastMetric = card.querySelector('.mission-metrics');
-                    if (lastMetric && !lastMetric.querySelector('.git-info')) {
-                        const gitDiv = document.createElement('div');
-                        gitDiv.className = 'git-info';
-                        gitDiv.style.cssText = 'margin-top:10px;padding-top:10px;border-top:1px solid rgba(255,255,255,0.05);font-size:0.75em;color:#95a5a6;';
-                        const daysAgo = Math.round((Date.now() - new Date(lc.time).getTime()) / 86400000);
-                        gitDiv.innerHTML = `🔧 ${lc.message.substring(0, 50)} · ${daysAgo}d ago · ${git.totalCommits || 0} commits`;
-                        lastMetric.appendChild(gitDiv);
-                    }
+                    const daysAgo = Math.round((Date.now() - new Date(git.lastCommit.time).getTime()) / 86400000);
+                    const dotClass = daysAgo > 14 ? ' stale' : '';
+                    gitFooter.innerHTML = `<span class="git-dot${dotClass}"></span>${git.lastCommit.message.substring(0,45)} · ${daysAgo}d ago · ${git.totalCommits || 0} commits`;
+                } else {
+                    gitFooter.innerHTML = '<span class="git-dot stale"></span>No commit data';
                 }
             });
         }
 
-        // ── Cron Table ────────────────────────────────────────────
         function updateCronTable() {
             const d = dashboardData;
-            const cron = d.cron || {};
-            const jobs = cron.jobs || [];
+            const jobs = (d.cron || {}).jobs || [];
             const tbody = document.querySelector('#page-cron tbody');
             if (!tbody || jobs.length === 0) return;
-
             tbody.innerHTML = jobs.map(j => {
-                const statusClass = j.last_status === 'ok' ? 'status-online' : 'status-offline';
-                const statusText = j.last_status === 'ok' ? 'OK' : 'ERROR';
+                const ok = j.last_status === 'ok';
                 const lastRun = j.last_run ? new Date(j.last_run).toLocaleString('en-US', {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'}) : 'Never';
-                const nextRun = j.next_run ? new Date(j.next_run).toLocaleString('en-US', {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'}) : 'N/A';
+                const nextRun = j.next_run ? new Date(j.next_run).toLocaleString('en-US', {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'}) : '—';
                 return `<tr>
                     <td>${j.name || j.id}</td>
-                    <td>${j.schedule || ''}</td>
-                    <td>${lastRun}</td>
-                    <td><span class="status-badge ${statusClass}">${statusText}</span></td>
-                    <td>${nextRun}</td>
+                    <td class="mono">${j.schedule || ''}</td>
+                    <td class="mono">${lastRun}</td>
+                    <td><span class="badge ${ok?'badge-green':'badge-red'}"><span class="badge-dot"></span>${ok?'OK':'Error'}</span></td>
+                    <td class="mono">${nextRun}</td>
                 </tr>`;
             }).join('');
         }
 
-        // ── Agents Page ───────────────────────────────────────────
-        function updateAgentsPage() {
-            const d = dashboardData;
-            const agents = d.agents || {};
-            const grid = document.querySelector('#page-agents .agent-grid');
-            if (!grid) return;
-
-            // Keep the hardcoded agent cards but update status indicators
-            const hermesStatus = agents.hermes?.status || 'unknown';
-            const cronStatus = agents.cron?.status || 'unknown';
-
-            // Update the first card (Hermes)
-            const firstCard = grid.querySelector('.agent-card:first-child .status-badge');
-            if (firstCard) {
-                firstCard.textContent = hermesStatus === 'running' ? 'ONLINE' : 'OFFLINE';
-                firstCard.className = 'status-badge ' + (hermesStatus === 'running' ? 'status-online' : 'status-offline');
-            }
-
-            // Add a system health card at the end if not present
-            if (!grid.querySelector('.agent-card.system-health')) {
-                const sysCard = document.createElement('div');
-                sysCard.className = 'agent-card system-health';
-                sysCard.innerHTML = `
-                    <div class="agent-header"><span class="agent-name">💻 System</span><span class="status-badge ${hermesStatus === 'running' ? 'status-online' : 'status-offline'}">${hermesStatus.toUpperCase()}</span></div>
-                    <div class="agent-role">🎯 ${d.systemHealth?.hostname || 'Unknown'}</div>
-                    <div class="agent-clearance">💾 Disk: ${d.systemHealth?.diskUsed || '?'}% used · ${d.systemHealth?.diskAvail || '?'} free</div>`;
-                grid.appendChild(sysCard);
-            }
-        }
-
-        // ── Activity Logs (Dashboard + Activity Page) ─────────────
         function updateActivityLogs() {
             const d = dashboardData;
             const activity = d.activity || [];
             if (activity.length === 0) return;
+            const fmt = (iso) => new Date(iso).toLocaleString('en-US', {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'});
 
-            const formatTime = (iso) => {
-                const dt = new Date(iso);
-                return dt.toLocaleString('en-US', {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'});
-            };
-
-            // Dashboard activity log
             const dashLog = document.getElementById('activity-log');
             if (dashLog) {
                 dashLog.innerHTML = activity.slice(0, 8).map(a => `
                     <div class="activity-item">
-                        <div class="activity-time">${formatTime(a.time)}</div>
-                        <div class="activity-text">${a.text}</div>
+                        <span class="activity-dot ${a.type==='success'?'success':'info'}"></span>
+                        <span class="activity-time">${fmt(a.time)}</span>
+                        <span class="activity-text">${a.text}</span>
                     </div>`).join('');
             }
 
-            // Activity page timeline
             const timeline = document.querySelector('#page-activity .timeline');
             if (timeline) {
                 timeline.innerHTML = activity.slice(0, 15).map(a => `
                     <div class="timeline-item">
-                        <div class="timeline-time">${formatTime(a.time)}</div>
+                        <div class="timeline-time">${fmt(a.time)}</div>
                         <div class="timeline-text">${a.text}</div>
                     </div>`).join('');
             }
         }
 
-        // ── Project Cards (Projects Grid) ─────────────────────────
         function updateProjectCards() {
             const d = dashboardData;
             const projects = d.projects || {};
             const cards = document.querySelectorAll('.project-link-card');
             if (cards.length < 6) return;
-
             const keys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
-
             keys.forEach((key, i) => {
                 const p = projects[key];
                 if (!p || i >= cards.length) return;
                 const card = cards[i];
                 const pct = p.progress || 0;
-
-                // Update progress bar
                 const fill = card.querySelector('.pl-progress-fill');
-                if (fill) {
-                    fill.style.width = pct + '%';
-                    fill.className = 'pl-progress-fill' + (pct < 30 ? ' critical' : pct < 60 ? ' warning' : '');
-                }
-
-                // Update task text
-                const tasks = card.querySelector('.pl-tasks');
-                if (tasks) {
-                    const git = p.git || {};
-                    const commits = git.commits30d || 0;
-                    tasks.textContent = `${git.totalCommits || 0} commits · ${commits} in 30d · ${pct}%`;
-                }
+                if (fill) { fill.style.width = pct + '%'; fill.className = 'pl-progress-fill' + (pct >= 80 ? ' good' : pct >= 40 ? ' warning' : ' critical'); }
+                const meta = card.querySelector('.pl-meta');
+                const git = p.git || {};
+                if (meta) meta.textContent = `${git.totalCommits || 0} commits · ${git.commits30d || 0} in 30d · ${pct}%`;
             });
         }
 
-        // ── Project Detail Pages ───────────────────────────────────
         function updateProjectDetailPages() {
             const d = dashboardData;
             const projects = d.projects || {};
-            const keys = ['orbitx', 'kinkin', 'techwealth', 'tracker', 'wpo', 'aeroview'];
+            const pageKeys = ['orbitx', 'kinkin', 'techwealth', 'tracker', 'wpo', 'aeroview'];
             const dataKeys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
-
-            keys.forEach((pageKey, i) => {
-                const dataKey = dataKeys[i];
-                const p = projects[dataKey];
+            pageKeys.forEach((pk, i) => {
+                const p = projects[dataKeys[i]];
                 if (!p) return;
-
-                const page = document.getElementById('page-' + pageKey);
-                if (!page) return;
-
-                // Update progress section
-                const progressTitle = page.querySelector('.progress-section .section-title');
-                if (progressTitle) {
-                    progressTitle.textContent = '📊 PROGRESS · ' + (p.progress || 0) + '%';
-                }
-                const progressFill = page.querySelector('.progress-section .progress-fill');
-                if (progressFill) {
-                    progressFill.style.width = (p.progress || 0) + '%';
-                }
-
-                // Update subtitle with git info
-                const subtitle = page.querySelector('.project-detail-subtitle');
-                const git = p.git || {};
-                if (subtitle && git.lastCommit) {
-                    const daysAgo = Math.round((Date.now() - new Date(git.lastCommit.time).getTime()) / 86400000);
-                    const existing = subtitle.textContent.split(' · ')[0];
-                    subtitle.textContent = existing + ' · Last commit: ' + daysAgo + 'd ago (' + git.lastCommit.sha + ')';
-                }
+                const pct = p.progress || 0;
+                const pctEl = document.getElementById(pk + '-detail-pct');
+                const barEl = document.getElementById(pk + '-detail-bar');
+                if (pctEl) pctEl.textContent = pct;
+                if (barEl) { barEl.style.width = pct + '%'; barEl.className = 'progress-fill' + (pct >= 80 ? ' good' : pct >= 40 ? ' warning' : ' critical'); }
             });
         }
 
-        // ── Charts ─────────────────────────────────────────────────
         function destroyCharts() {
             Object.values(chartInstances).forEach(c => { try { c.destroy(); } catch(e) {} });
             chartInstances = {};
@@ -1856,14 +1264,11 @@
         function renderCharts() {
             const d = dashboardData;
             if (!d) return;
-
             const projects = d.projects || {};
             const projKeys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
             const projList = projKeys.map(k => projects[k]).filter(Boolean);
-
             destroyCharts();
 
-            // Progress bar chart
             const ctx1 = document.getElementById('chart-progress');
             if (ctx1) {
                 chartInstances.progress = new Chart(ctx1, {
@@ -1871,25 +1276,23 @@
                     data: {
                         labels: projList.map(p => p.name),
                         datasets: [{
-                            label: 'Progress %',
-                            data: projList.map(p => p.progress),
-                            backgroundColor: projList.map(p => p.progress >= 80 ? 'rgba(39,174,96,0.7)' : p.progress >= 40 ? 'rgba(243,156,18,0.7)' : 'rgba(231,76,60,0.7)'),
-                            borderColor: projList.map(p => p.progress >= 80 ? '#27ae60' : p.progress >= 40 ? '#f39c12' : '#e74c3c'),
-                            borderWidth: 1
+                            label: 'Progress %', data: projList.map(p => p.progress),
+                            backgroundColor: projList.map(p => p.progress >= 80 ? 'rgba(39,166,68,0.6)' : p.progress >= 40 ? 'rgba(217,119,6,0.6)' : 'rgba(220,38,38,0.6)'),
+                            borderColor: projList.map(p => p.progress >= 80 ? '#27a644' : p.progress >= 40 ? '#d97706' : '#dc2626'),
+                            borderWidth: 1, borderRadius: 4
                         }]
                     },
                     options: {
                         responsive: true, maintainAspectRatio: false,
                         plugins: { legend: { display: false } },
                         scales: {
-                            y: { max: 100, grid: { color: 'rgba(255,255,255,0.05)' }, ticks: { color: '#95a5a6' } },
-                            x: { ticks: { color: '#95a5a6', font: { size: 9 } } }
+                            y: { max: 100, grid: { color: 'rgba(255,255,255,0.04)' }, ticks: { color: '#6e7278', font: { size: 10 } } },
+                            x: { ticks: { color: '#6e7278', font: { size: 9 } }, grid: { display: false } }
                         }
                     }
                 });
             }
 
-            // Task completion (from git activity)
             const totalCommits = projList.reduce((s, p) => s + (p.git?.totalCommits || 0), 0);
             const recentCommits = projList.reduce((s, p) => s + (p.git?.commits30d || 0), 0);
             const ctx2 = document.getElementById('chart-tasks');
@@ -1900,36 +1303,31 @@
                         labels: ['Recent (30d)', 'Older'],
                         datasets: [{
                             data: [recentCommits, Math.max(0, totalCommits - recentCommits)],
-                            backgroundColor: ['rgba(39,174,96,0.7)', 'rgba(149,165,166,0.2)'],
-                            borderColor: ['#27ae60', '#7f8c8d'],
-                            borderWidth: 1
+                            backgroundColor: ['rgba(39,166,68,0.6)', 'rgba(110,114,120,0.2)'],
+                            borderColor: ['#27a644', '#3e4044'], borderWidth: 1
                         }]
                     },
                     options: {
                         responsive: true, maintainAspectRatio: false,
-                        plugins: { legend: { labels: { color: '#95a5a6' } } }
+                        plugins: { legend: { labels: { color: '#6e7278', font: { size: 10 }, padding: 16 } } }
                     }
                 });
             }
 
-            // Cron health
             const cron = d.cron || {};
             const jobs = cron.jobs || [];
             const ctx3 = document.getElementById('chart-cron');
             if (ctx3 && jobs.length > 0) {
-                const names = jobs.map(j => (j.name || j.id).substring(0, 12));
-                const statuses = jobs.map(j => j.last_status === 'ok' ? 1 : 0.3);
-                const colors = jobs.map(j => j.last_status === 'ok' ? 'rgba(39,174,96,0.7)' : 'rgba(231,76,60,0.7)');
+                const names = jobs.map(j => (j.name || j.id).substring(0, 10));
                 chartInstances.cron = new Chart(ctx3, {
                     type: 'bar',
                     data: {
                         labels: names,
                         datasets: [{
-                            label: 'Status',
-                            data: statuses,
-                            backgroundColor: colors,
-                            borderColor: jobs.map(j => j.last_status === 'ok' ? '#27ae60' : '#e74c3c'),
-                            borderWidth: 1
+                            label: 'Status', data: jobs.map(j => j.last_status === 'ok' ? 1 : 0.3),
+                            backgroundColor: jobs.map(j => j.last_status === 'ok' ? 'rgba(39,166,68,0.6)' : 'rgba(220,38,38,0.6)'),
+                            borderColor: jobs.map(j => j.last_status === 'ok' ? '#27a644' : '#dc2626'),
+                            borderWidth: 1, borderRadius: 3
                         }]
                     },
                     options: {
@@ -1937,13 +1335,12 @@
                         plugins: { legend: { display: false } },
                         scales: {
                             y: { max: 1.5, grid: { display: false }, ticks: { display: false } },
-                            x: { ticks: { color: '#95a5a6', font: { size: 7 } } }
+                            x: { ticks: { color: '#6e7278', font: { size: 7 } }, grid: { display: false } }
                         }
                     }
                 });
             }
 
-            // Agent status
             const ctx4 = document.getElementById('chart-agents');
             if (ctx4) {
                 const agents = d.agents || {};
@@ -1953,40 +1350,27 @@
                     data: {
                         labels: ['Running', 'Stopped'],
                         datasets: [{
-                            data: [active, 2 - active],
-                            backgroundColor: ['rgba(39,174,96,0.7)', 'rgba(149,165,166,0.2)'],
-                            borderColor: ['#27ae60', '#7f8c8d'],
-                            borderWidth: 1
+                            data: [active, Math.max(0, 2 - active)],
+                            backgroundColor: ['rgba(39,166,68,0.6)', 'rgba(110,114,120,0.2)'],
+                            borderColor: ['#27a644', '#3e4044'], borderWidth: 1
                         }]
                     },
                     options: {
                         responsive: true, maintainAspectRatio: false,
-                        plugins: { legend: { labels: { color: '#95a5a6' } } }
+                        plugins: { legend: { labels: { color: '#6e7278', font: { size: 10 }, padding: 16 } } }
                     }
                 });
             }
         }
 
-        // ── Keyboard support ───────────────────────────────────────
         document.addEventListener('DOMContentLoaded', function() {
             const pwInput = document.getElementById('password-input');
-            if (pwInput) {
-                pwInput.addEventListener('keyup', function(event) {
-                    if (event.key === 'Enter') { login(); }
-                });
-            }
+            if (pwInput) pwInput.addEventListener('keyup', e => { if (e.key === 'Enter') login(); });
         });
 
-        // ── Shake animation for login error ───────────────────────
-        const style = document.createElement('style');
-        style.textContent = `
-            @keyframes shake {
-                0%, 100% { transform: translateX(0); }
-                20%, 60% { transform: translateX(-10px); }
-                40%, 80% { transform: translateX(10px); }
-            }
-        `;
-        document.head.appendChild(style);
+        const shakeStyle = document.createElement('style');
+        shakeStyle.textContent = '@keyframes shake{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(-8px)}40%,80%{transform:translateX(8px)}}';
+        document.head.appendChild(shakeStyle);
     </script>
 </body>
 </html>
