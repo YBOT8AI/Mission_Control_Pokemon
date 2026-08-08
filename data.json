@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:01:31.269176+08:00",
+  "generatedAt": "2026-08-08T16:17:48.358435+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -10,7 +10,7 @@
       "pokemon": "Mewtwo",
       "pokemonId": 150,
       "status": "pre-launch",
-      "progress": 20,
+      "progress": 75,
       "repo": "YBOT8AI/Orbitx-NFT",
       "priority": "high",
       "classification": "CONFIDENTIAL",
@@ -34,7 +34,7 @@
       "pokemon": "Pikachu",
       "pokemonId": 25,
       "status": "deploying",
-      "progress": 85,
+      "progress": 98,
       "repo": "evilmoni/KinKin",
       "priority": "high",
       "classification": "CONFIDENTIAL",
@@ -58,7 +58,7 @@
       "pokemon": "Meowth",
       "pokemonId": 52,
       "status": "building",
-      "progress": 85,
+      "progress": 70,
       "repo": "evilmoni/TechWealth",
       "priority": "high",
       "classification": "CONFIDENTIAL",
@@ -82,7 +82,7 @@
       "pokemon": "Kadabra",
       "pokemonId": 64,
       "status": "deploying",
-      "progress": 20,
+      "progress": 85,
       "repo": "YBOT8AI/Client_Tracker_Pro",
       "priority": "high",
       "classification": "CONFIDENTIAL",
@@ -105,7 +105,7 @@
       "pokemon": "Chansey",
       "pokemonId": 113,
       "status": "standby",
-      "progress": 42,
+      "progress": 50,
       "repo": "WorldPaws/WorldPawsOrg_Website",
       "priority": "medium",
       "classification": "INTERNAL",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-08T15:30:31.436831+08:00",
-        "next_run": "2026-08-08T16:31:29.291438+08:00"
+        "last_run": "2026-08-08T16:01:33.203373+08:00",
+        "next_run": "2026-08-08T16:31:33.203373+08:00"
       }
     ],
     "total": 14,
@@ -293,19 +293,19 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MacBook-Pro.local",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
     "diskUsed": "4",
     "diskAvail": "417Gi",
-    "uptime": "21:21"
+    "uptime": "21:37"
   },
   "activity": [
     {
-      "time": "2026-08-08T16:01:31.268770+08:00",
+      "time": "2026-08-08T16:17:48.358066+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-08T16:01:31.268770+08:00",
+      "time": "2026-08-08T16:17:48.358066+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/14 jobs healthy"
     },
@@ -344,6 +344,6 @@
     "totalProjects": 6,
     "totalCronJobs": 14,
     "healthyCronJobs": 9,
-    "avgProgress": 45
+    "avgProgress": 66
   }
 }

@@ -325,25 +325,24 @@ def main():
         gs = git_stats.get(key, {})
         lc = gs.get("lastCommit", {})
 
-        # Calculate progress from git activity
+        # Calculate progress: known_progress is the FLOOR, git activity can boost it
         commits30 = gs.get("commits30d", 0)
         total_commits = gs.get("totalCommits", 0)
-        if total_commits > 100:
-            progress = min(95, 50 + commits30 * 3)
-        elif total_commits > 20:
-            progress = min(85, 30 + commits30 * 4)
-        elif total_commits > 0:
-            progress = min(70, 15 + commits30 * 5)
-        else:
-            progress = 10
-
-        # Override with known progress from skill if git data is sparse
         known_progress = {
             "orbitx": 75, "kinkin": 90, "techwealth": 55,
             "techwealthTracker": 85, "wpo": 45, "aeroview": 20,
         }
-        if commits30 == 0 and total_commits < 50:
-            progress = known_progress.get(key, progress)
+        base = known_progress.get(key, 50)
+
+        # Git activity bonus: recent commits push progress above the floor
+        if commits30 >= 30:
+            progress = min(98, base + 15)
+        elif commits30 >= 10:
+            progress = min(95, base + 10)
+        elif commits30 >= 3:
+            progress = min(92, base + 5)
+        else:
+            progress = base
 
         entry = {
             "name": proj["name"],
