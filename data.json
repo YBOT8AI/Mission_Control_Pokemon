@@ -1,550 +1,349 @@
 {
-  "lastUpdated": "2026-07-07T06:00:00Z",
+  "generatedAt": "2026-08-08T14:29:40.585803+08:00",
+  "generatedBy": "generate_dashboard_data.py",
+  "source": "live-local",
+  "refreshIntervalSeconds": 60,
   "projects": {
     "orbitx": {
       "name": "OrbitX NFT",
-      "emoji": "\ud83c\udf0c",
+      "emoji": "🌌",
       "pokemon": "Mewtwo",
       "pokemonId": 150,
       "status": "pre-launch",
-      "phase": "1 - Fine Arts",
-      "progress": 75,
-      "testnet": "pending",
+      "progress": 20,
       "repo": "YBOT8AI/Orbitx-NFT",
-      "vercel": "pending",
       "priority": "high",
       "classification": "CONFIDENTIAL",
-      "subProjects": [
-        {
-          "name": "OXC Token",
-          "emoji": "\ud83e\ude99",
-          "status": "live",
-          "progress": 15,
-          "note": "Token created on Solana"
-        }
-      ],
-      "tasks": [
-        {
-          "name": "Frontend Development",
-          "completed": true
+      "git": {
+        "lastCommit": {
+          "sha": "47623e9",
+          "message": "Add .hermes.md project context file",
+          "author": "ybot",
+          "time": "2026-07-16T11:37:36+08:00"
         },
-        {
-          "name": "Smart Contract Setup",
-          "completed": true
-        },
-        {
-          "name": "WalletConnect Integration",
-          "completed": true
-        },
-        {
-          "name": "Testnet Deployment",
-          "completed": false
-        },
-        {
-          "name": "Artist Outreach",
-          "completed": false
-        }
-      ]
+        "commits30d": 1,
+        "totalCommits": 7,
+        "branch": "main",
+        "uncommittedChanges": 0
+      },
+      "phase": "1 - Fine Arts"
     },
     "kinkin": {
       "name": "KINKIN",
-      "emoji": "\ud83d\ude80",
+      "emoji": "🚀",
       "pokemon": "Pikachu",
       "pokemonId": 25,
       "status": "deploying",
-      "progress": 60,
-      "url": "kinkin.vercel.app",
-      "build": 5,
-      "repo": "YBOT8AI/KINKIN",
+      "progress": 85,
+      "repo": "evilmoni/KinKin",
       "priority": "high",
       "classification": "CONFIDENTIAL",
-      "tasks": [
-        {
-          "name": "Core Marketplace",
-          "completed": true
+      "git": {
+        "lastCommit": {
+          "sha": "5cf79cd",
+          "message": "docs: update dev queue and README for React Native task completion",
+          "author": "evilmoni",
+          "time": "2026-08-08T07:52:39+08:00"
         },
-        {
-          "name": "Provider Profiles",
-          "completed": true
-        },
-        {
-          "name": "Booking Flow",
-          "completed": false
-        },
-        {
-          "name": "Payment Integration",
-          "completed": false
-        },
-        {
-          "name": "Mobile App",
-          "completed": false
-        }
-      ]
+        "commits30d": 89,
+        "totalCommits": 99,
+        "branch": "main",
+        "uncommittedChanges": 0
+      },
+      "url": "kinkin.vercel.app"
     },
     "techwealth": {
       "name": "TechWealth",
-      "emoji": "\ud83d\udcbc",
+      "emoji": "💼",
       "pokemon": "Meowth",
       "pokemonId": 52,
       "status": "building",
-      "focus": "Financial Tech",
-      "stage": "policy-defined",
-      "progress": 45,
-      "url": "tech-wealth-website.vercel.app",
+      "progress": 85,
       "repo": "evilmoni/TechWealth",
-      "build": 3,
       "priority": "high",
       "classification": "CONFIDENTIAL",
-      "milestones": {
-        "uiComplete": true,
-        "researchComplete": true,
-        "policyDefined": true,
-        "paymentIntegration": false,
-        "databaseSetup": false,
-        "betaLaunch": false
+      "git": {
+        "lastCommit": {
+          "sha": "1e4738a",
+          "message": "fix: close public write access, remove fabricated admin metrics",
+          "author": "evilmoni",
+          "time": "2026-07-31T01:39:17+08:00"
+        },
+        "commits30d": 40,
+        "totalCommits": 98,
+        "branch": "main",
+        "uncommittedChanges": 1
       },
-      "tasks": [
-        {
-          "name": "Concept Definition",
-          "completed": true
-        },
-        {
-          "name": "Market Research",
-          "completed": true
-        },
-        {
-          "name": "Policy Framework (4 Decisions)",
-          "completed": true
-        },
-        {
-          "name": "UI/UX Updates (Logo, Pricing, Diamond Tier)",
-          "completed": true
-        },
-        {
-          "name": "WhatsApp Link Preview (OG Tags)",
-          "completed": true
-        },
-        {
-          "name": "Payment Integration (FPS/Bank Transfer)",
-          "completed": false
-        },
-        {
-          "name": "Member Database (Firestore)",
-          "completed": false
-        },
-        {
-          "name": "3-Slot Engine Implementation",
-          "completed": false
-        },
-        {
-          "name": "Family Audit Dashboard",
-          "completed": false
-        },
-        {
-          "name": "Beta Testing (10 Members)",
-          "completed": false
-        }
-      ]
+      "focus": "Financial Tech"
     },
     "techwealthTracker": {
       "name": "TechWealth Tracker Pro",
-      "emoji": "\ud83d\udcca",
+      "emoji": "📊",
       "pokemon": "Kadabra",
       "pokemonId": 64,
-      "status": "building",
-      "progress": 85,
+      "status": "deploying",
+      "progress": 20,
       "repo": "YBOT8AI/Client_Tracker_Pro",
-      "vercel": "pending",
-      "rebranded": true,
-      "formerName": "Client Tracker Pro",
       "priority": "high",
       "classification": "CONFIDENTIAL",
-      "tasks": [
-        {
-          "name": "Dashboard UI",
-          "completed": true
+      "git": {
+        "lastCommit": {
+          "sha": "06a6992",
+          "message": "Add .hermes.md project context file",
+          "author": "ybot",
+          "time": "2026-07-16T11:37:36+08:00"
         },
-        {
-          "name": "Client Forms",
-          "completed": true
-        },
-        {
-          "name": "Purchase Tracking",
-          "completed": true
-        },
-        {
-          "name": "Referral System",
-          "completed": true
-        },
-        {
-          "name": "GitHub Upload",
-          "completed": true
-        },
-        {
-          "name": "Vercel Deploy",
-          "completed": false
-        },
-        {
-          "name": "Supabase Setup",
-          "completed": false
-        }
-      ]
+        "commits30d": 1,
+        "totalCommits": 5,
+        "branch": "main",
+        "uncommittedChanges": 0
+      }
     },
     "wpo": {
       "name": "WPO (World Paws Org)",
-      "emoji": "\ud83d\udc3e",
+      "emoji": "🐾",
       "pokemon": "Chansey",
       "pokemonId": 113,
       "status": "standby",
-      "phase": "Option B - Full Build",
-      "blockchain": "Solana",
-      "token": "***)",
-      "progress": 45,
-      "logo": "received",
-      "youtube": "planned",
+      "progress": 42,
       "repo": "WorldPaws/WorldPawsOrg_Website",
-      "vercel": "pending",
-      "note": "Relocated - Priority shifted to TechWealth",
       "priority": "medium",
       "classification": "INTERNAL",
-      "tasks": [
-        {
-          "name": "Mission Definition",
-          "completed": true
+      "git": {
+        "lastCommit": {
+          "sha": "196f759",
+          "message": "Add .hermes.md project context file",
+          "author": "ybot",
+          "time": "2026-07-16T11:37:37+08:00"
         },
-        {
-          "name": "Option B Selected",
-          "completed": true
-        },
-        {
-          "name": "Logo Received",
-          "completed": true
-        },
-        {
-          "name": "Solana Token Setup",
-          "completed": false
-        },
-        {
-          "name": "Website Development",
-          "completed": false
-        },
-        {
-          "name": "GitHub Repository",
-          "completed": false
-        },
-        {
-          "name": "Vercel Deployment",
-          "completed": false
-        },
-        {
-          "name": "YouTube Channel Setup",
-          "completed": false
-        }
-      ]
+        "commits30d": 3,
+        "totalCommits": 29,
+        "branch": "main",
+        "uncommittedChanges": 2
+      },
+      "phase": "Option B - Full Build",
+      "blockchain": "Solana"
     },
     "aeroview": {
       "name": "Aeroview",
-      "emoji": "\ud83d\ude81",
+      "emoji": "🚁",
       "pokemon": "Dragonite",
       "pokemonId": 149,
       "status": "planning",
-      "focus": "Drone Fleet Management",
-      "phase": "Concept Definition",
       "progress": 20,
       "repo": "YBOT8AI/Aeroview",
       "priority": "medium",
       "classification": "INTERNAL",
-      "tasks": [
-        {
-          "name": "Concept Definition",
-          "completed": true
-        },
-        {
-          "name": "Requirements Gathering",
-          "completed": false
-        },
-        {
-          "name": "Architecture Design",
-          "completed": false
-        },
-        {
-          "name": "Tech Stack Selection",
-          "completed": false
-        },
-        {
-          "name": "Prototype Development",
-          "completed": false
-        },
-        {
-          "name": "Drone Integration",
-          "completed": false
-        },
-        {
-          "name": "Real-time Data Processing",
-          "completed": false
-        }
-      ]
+      "git": {
+        "lastCommit": {},
+        "commits30d": 0,
+        "totalCommits": 0,
+        "branch": "main",
+        "uncommittedChanges": 0
+      },
+      "phase": "Concept Definition",
+      "focus": "Drone Fleet Management"
     }
   },
+  "cron": {
+    "jobs": [
+      {
+        "id": "c4a0f2b0c07e",
+        "enabled": true,
+        "name": "Token Saving Setup",
+        "schedule": "0 9 * * *",
+        "last_status": "ok",
+        "last_run": "2026-08-08T09:00:37.725831+08:00",
+        "next_run": "2026-08-09T09:00:00+08:00"
+      },
+      {
+        "id": "cdaa5fb09bc9",
+        "enabled": true,
+        "name": "Morning Briefing",
+        "schedule": "0 9 * * 1-5",
+        "last_status": "ok",
+        "last_run": "2026-08-07T09:00:32.779626+08:00",
+        "next_run": "2026-08-10T09:00:00+08:00"
+      },
+      {
+        "id": "1bd808c15df2",
+        "enabled": true,
+        "name": "Hermes Weekly Backup",
+        "schedule": "33 3 * * 0",
+        "last_status": "ok",
+        "last_run": "2026-08-02T05:48:17.175020+08:00",
+        "next_run": "2026-08-09T03:33:00+08:00"
+      },
+      {
+        "id": "881a4237821c",
+        "enabled": true,
+        "name": "Deployment Loop Monitor Script",
+        "schedule": "every 30m",
+        "last_status": "ok",
+        "last_run": "2026-08-08T14:22:22.180729+08:00",
+        "next_run": "2026-08-08T14:52:22.180729+08:00"
+      },
+      {
+        "id": "b466a7b13b9e",
+        "enabled": true,
+        "name": "Daily Business Report",
+        "schedule": "0 9 * * *",
+        "last_status": "ok",
+        "last_run": "2026-08-08T09:00:37.504215+08:00",
+        "next_run": "2026-08-09T09:00:00+08:00"
+      },
+      {
+        "id": "0e7702e470c4",
+        "enabled": true,
+        "name": "Market Sentinel",
+        "schedule": "0 17 * * 1-5",
+        "last_status": "ok",
+        "last_run": "2026-08-07T18:42:16.493854+08:00",
+        "next_run": "2026-08-10T17:00:00+08:00"
+      },
+      {
+        "id": "24c480ec6e9e",
+        "enabled": true,
+        "name": "Daily Project Audit",
+        "schedule": "0 9 * * *",
+        "last_status": "error",
+        "last_run": "2026-08-08T09:00:33.466204+08:00",
+        "next_run": "2026-08-09T09:00:00+08:00"
+      },
+      {
+        "id": "539a150ac028",
+        "enabled": true,
+        "name": "Midday Wake-Up Call",
+        "schedule": "0 12 * * *",
+        "last_status": "ok",
+        "last_run": "2026-08-08T12:00:58.368919+08:00",
+        "next_run": "2026-08-09T12:00:00+08:00"
+      },
+      {
+        "id": "0b2d056a7785",
+        "enabled": true,
+        "name": "Weekly Strategy Review",
+        "schedule": "0 10 * * 0",
+        "last_status": "error",
+        "last_run": "2026-08-02T22:24:47.134154+08:00",
+        "next_run": "2026-08-09T10:00:00+08:00"
+      },
+      {
+        "id": "30bc44718228",
+        "enabled": true,
+        "name": "Hair Treatment Reminder (Tuesday)\"",
+        "schedule": "0 19 * * 2",
+        "last_status": "error",
+        "last_run": "2026-08-04T19:00:39.780076+08:00",
+        "next_run": "2026-08-11T19:00:00+08:00"
+      },
+      {
+        "id": "c80e91808258",
+        "enabled": true,
+        "name": "Hair Treatment Reminder (Friday)",
+        "schedule": "0 19 * * 5",
+        "last_status": "error",
+        "last_run": "2026-08-07T19:00:47.476681+08:00",
+        "next_run": "2026-08-14T19:00:00+08:00"
+      },
+      {
+        "id": "194eb023f5c8",
+        "enabled": true,
+        "name": "KinKin Monthly Market Research",
+        "schedule": "0 10 1 * *",
+        "last_status": "error",
+        "last_run": "2026-08-01T10:00:34.180986+08:00",
+        "next_run": "2026-09-01T10:00:00+08:00"
+      },
+      {
+        "id": "5d4e3ba70f14",
+        "enabled": true,
+        "name": "KinKin Autonomous Developer",
+        "schedule": "every 360m",
+        "last_status": "ok",
+        "last_run": "2026-08-08T13:54:22.638462+08:00",
+        "next_run": "2026-08-08T19:54:22.638462+08:00"
+      },
+      {
+        "id": "84968eb1095e",
+        "enabled": true,
+        "name": "Dashboard Data Sync",
+        "schedule": "every 30m",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-08T14:59:35.432365+08:00"
+      }
+    ],
+    "total": 14,
+    "healthy": 8
+  },
   "agents": {
-    "ybot": {
-      "name": "YBOT (Main)",
-      "status": "online",
-      "emoji": "\u26a1",
-      "role": "Overall Coordination",
-      "classification": "TOP_SECRET",
-      "clearance": "LEVEL_5"
-    },
-    "daifu": {
-      "name": "DAIFU \ud83e\uddec",
-      "status": "active",
-      "role": "Health & Biohacking Agent",
-      "rank": "#2 in Chain of Command",
-      "respawn": "Every 5 min",
-      "workspace": "/root/.openclaw/workspace-daifu/",
-      "classification": "CONFIDENTIAL",
-      "clearance": "LEVEL_4"
-    },
-    "agentx": {
-      "name": "Agent X \ud83c\udf0c",
-      "status": "active",
-      "role": "OrbitX NFT Operations",
-      "respawn": "Every 5 min",
-      "workspace": "/root/.openclaw/workspace-orbitx/",
-      "classification": "CONFIDENTIAL",
-      "clearance": "LEVEL_4"
-    },
-    "agentkinkin": {
-      "name": "Agent KinKin \ud83d\ude80",
-      "status": "active",
-      "role": "KINKIN Marketplace",
-      "respawn": "Every 5 min",
-      "workspace": "/root/.openclaw/workspace-kinkin/",
-      "classification": "CONFIDENTIAL",
-      "clearance": "LEVEL_4"
-    },
-    "bulle": {
-      "name": "Bull-E \ud83d\udc02",
-      "status": "standby",
-      "role": "Market Intelligence",
-      "lastBriefing": "2026-06-10T19:58:31Z",
-      "schedule": "01:00/07:00/13:00 UTC (09:00/15:00/21:00 HKT)",
-      "workspace": "/root/.openclaw/workspace-bull-e/",
-      "classification": "INTERNAL",
-      "clearance": "LEVEL_3"
-    },
-    "doublemay": {
-      "name": "DoubleMay \ud83c\udf0b",
-      "status": "active",
-      "role": "Doomsday Survival & Apocalypse Continuity",
-      "rank": "#6 in Chain of Command",
-      "workspace": "/root/.openclaw/workspace-doublemay/",
-      "created": "2026-06-15",
-      "classification": "INTERNAL",
-      "clearance": "LEVEL_3"
-    },
-    "heartbeat": {
-      "name": "Heartbeat Scan",
-      "status": "active",
-      "interval": "30 min",
-      "classification": "INTERNAL"
-    },
-    "gateway": {
-      "name": "Gateway",
+    "hermes": {
+      "name": "Hermes Agent",
+      "emoji": "⚡",
       "status": "running",
-      "host": "srv1595219",
-      "classification": "CONFIDENTIAL"
+      "role": "AI Assistant & Automation"
+    },
+    "cron": {
+      "name": "Cron Scheduler",
+      "emoji": "⏰",
+      "status": "stopped",
+      "role": "Scheduled Task Runner"
     }
+  },
+  "systemHealth": {
+    "hostname": "YBOTs-MacBook-Pro.local",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
+    "diskUsed": "4",
+    "diskAvail": "417Gi",
+    "uptime": "19:49"
   },
   "activity": [
     {
-      "time": "2026-07-07T06:00:00Z",
+      "time": "2026-08-08T14:29:40.585481+08:00",
       "type": "info",
-      "text": "MISSION CONTROL: Military-themed dashboard deployment initiated",
-      "classification": "INTERNAL"
+      "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-07-07T05:30:00Z",
+      "time": "2026-08-08T14:29:40.585481+08:00",
       "type": "info",
-      "text": "Portfolio Dashboard: Added Aeroview project to tracking",
-      "classification": "CONFIDENTIAL"
+      "text": "⏰ Cron: 8/14 jobs healthy"
     },
     {
-      "time": "2026-07-07T05:00:00Z",
-      "type": "info",
-      "text": "TechWealth Tracker Pro: Vercel deployment in progress",
-      "classification": "CONFIDENTIAL"
+      "time": "2026-08-08T07:52:39+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: docs: update dev queue and README for React Native task completion",
+      "project": "kinkin"
     },
     {
-      "time": "2026-07-07T04:30:00Z",
-      "type": "info",
-      "text": "KINKIN: Booking flow implementation 70% complete",
-      "classification": "CONFIDENTIAL"
+      "time": "2026-07-31T01:39:17+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: fix: close public write access, remove fabricated admin metrics",
+      "project": "techwealth"
     },
     {
-      "time": "2026-07-07T04:00:00Z",
-      "type": "info",
-      "text": "OrbitX NFT: Smart contract audit preparation",
-      "classification": "CONFIDENTIAL"
+      "time": "2026-07-16T11:37:37+08:00",
+      "type": "success",
+      "text": "🐾 WPO (World Paws Org): Add .hermes.md project context file",
+      "project": "wpo"
     },
     {
-      "time": "2026-07-07T03:30:00Z",
-      "type": "info",
-      "text": "TechWealth: Payment integration development started",
-      "classification": "CONFIDENTIAL"
+      "time": "2026-07-16T11:37:36+08:00",
+      "type": "success",
+      "text": "🌌 OrbitX NFT: Add .hermes.md project context file",
+      "project": "orbitx"
     },
     {
-      "time": "2026-07-07T03:00:00Z",
-      "type": "info",
-      "text": "WPO: Website development paused for TechWealth priority",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-07-07T02:30:00Z",
-      "type": "info",
-      "text": "Aeroview: Concept definition phase completed",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-07-07T02:00:00Z",
-      "type": "info",
-      "text": "Agent KinKin: Marketplace optimization in progress",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "time": "2026-07-07T01:30:00Z",
-      "type": "info",
-      "text": "Agent X: OrbitX NFT contract deployment testing",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "time": "2026-07-07T01:00:00Z",
-      "type": "info",
-      "text": "YBOT Main: Portfolio dashboard enhancement complete",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "time": "2026-07-07T00:30:00Z",
-      "type": "info",
-      "text": "SECURITY: Military-themed interface deployed",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "time": "2026-07-07T00:00:00Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T07:00:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T06:30:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T06:00:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T05:30:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T05:00:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T04:30:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
-    },
-    {
-      "time": "2026-06-22T04:00:01Z",
-      "type": "info",
-      "text": "Auto-sync: Dashboard updated with latest project status",
-      "classification": "INTERNAL"
+      "time": "2026-07-16T11:37:36+08:00",
+      "type": "success",
+      "text": "📊 TechWealth Tracker Pro: Add .hermes.md project context file",
+      "project": "techwealthTracker"
     }
   ],
-  "goals": [
-    {
-      "name": "OrbitX Phase 2",
-      "desc": "Music NFT marketplace expansion",
-      "priority": "high",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "name": "KINKIN Mobile App",
-      "desc": "iOS + Android launch",
-      "priority": "high",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "name": "TechWealth Launch",
-      "desc": "Financial tech platform MVP",
-      "priority": "high",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "name": "TechWealth Tracker Pro",
-      "desc": "Client management system for TechWealth members",
-      "priority": "high",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "name": "WPO Token Launch",
-      "desc": "Solana blockchain token deployment",
-      "priority": "medium",
-      "classification": "INTERNAL"
-    },
-    {
-      "name": "Aeroview Prototype",
-      "desc": "Drone fleet management system prototype",
-      "priority": "medium",
-      "classification": "INTERNAL"
-    },
-    {
-      "name": "KINKIN Gamification",
-      "desc": "Advanced XP and achievement system",
-      "priority": "medium",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "name": "OrbitX Cross-chain",
-      "desc": "Polygon/Solana bridge implementation",
-      "priority": "medium",
-      "classification": "CONFIDENTIAL"
-    },
-    {
-      "name": "Portfolio Integration",
-      "desc": "Unified user experience across all platforms",
-      "priority": "low",
-      "classification": "INTERNAL"
-    },
-    {
-      "name": "AI Enhancement",
-      "desc": "Agent intelligence upgrade",
-      "priority": "low",
-      "classification": "INTERNAL"
-    }
-  ],
-  "security": {
-    "lastScan": "2026-07-07T06:00:00Z",
-    "status": "SECURE",
-    "threatLevel": "LOW",
-    "alerts": 0,
-    "classification": "CONFIDENTIAL"
+  "stats": {
+    "totalProjects": 6,
+    "totalCronJobs": 14,
+    "healthyCronJobs": 8,
+    "avgProgress": 45
   }
 }
