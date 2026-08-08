@@ -1062,7 +1062,7 @@
                 const txt = n.textContent.toLowerCase();
                 if (txt.includes(name) || (name === 'dashboard' && txt === 'overview')) n.classList.add('active');
             });
-            if (name === 'dashboard') renderCharts();
+            if (name === 'dashboard') fetchData();
         }
 
         function initDashboard() {
