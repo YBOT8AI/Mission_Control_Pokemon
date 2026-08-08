@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T16:17:48.358435+08:00",
+  "generatedAt": "2026-08-08T16:32:34.569564+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-08T15:55:39.305121+08:00",
-        "next_run": "2026-08-08T16:25:39.305121+08:00"
+        "last_run": "2026-08-08T16:26:41.574201+08:00",
+        "next_run": "2026-08-08T16:56:41.574201+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -271,7 +271,7 @@
         "schedule": "every 30m",
         "last_status": "ok",
         "last_run": "2026-08-08T16:01:33.203373+08:00",
-        "next_run": "2026-08-08T16:31:33.203373+08:00"
+        "next_run": "2026-08-08T17:02:32.598646+08:00"
       }
     ],
     "total": 14,
@@ -293,19 +293,19 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MacBook-Pro.local",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "417Gi",
-    "uptime": "21:37"
+    "uptime": "21:52"
   },
   "activity": [
     {
-      "time": "2026-08-08T16:17:48.358066+08:00",
+      "time": "2026-08-08T16:32:34.569210+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-08T16:17:48.358066+08:00",
+      "time": "2026-08-08T16:32:34.569210+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/14 jobs healthy"
     },
