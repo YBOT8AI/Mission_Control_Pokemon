@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T01:41:45.898113+08:00",
+  "generatedAt": "2026-08-09T02:12:50.024580+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "5cf79cd",
-          "message": "docs: update dev queue and README for React Native task completion",
+          "sha": "5b71b1d",
+          "message": "chore: sync dev queue checkboxes with actual status — all phases 1-3 complete, p",
           "author": "evilmoni",
-          "time": "2026-08-08T07:52:39+08:00"
+          "time": "2026-08-09T01:56:30+08:00"
         },
-        "commits30d": 89,
-        "totalCommits": 99,
+        "commits30d": 90,
+        "totalCommits": 100,
         "branch": "main",
         "uncommittedChanges": 15
       },
@@ -69,7 +69,7 @@
           "author": "evilmoni",
           "time": "2026-07-31T01:39:17+08:00"
         },
-        "commits30d": 40,
+        "commits30d": 39,
         "totalCommits": 98,
         "branch": "main",
         "uncommittedChanges": 1
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T01:14:50.123647+08:00",
-        "next_run": "2026-08-09T01:44:50.123647+08:00"
+        "last_run": "2026-08-09T01:45:54.808628+08:00",
+        "next_run": "2026-08-09T02:15:54.808628+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -261,8 +261,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-08T19:55:10.481008+08:00",
-        "next_run": "2026-08-09T01:55:10.481008+08:00"
+        "last_run": "2026-08-09T01:56:42.136736+08:00",
+        "next_run": "2026-08-09T07:56:42.136736+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T01:11:43.768346+08:00",
-        "next_run": "2026-08-09T02:11:43.806651+08:00"
+        "last_run": "2026-08-09T01:41:47.949986+08:00",
+        "next_run": "2026-08-09T02:42:48.052879+08:00"
       }
     ],
     "total": 14,
@@ -292,7 +292,7 @@
     }
   },
   "systemHealth": {
-    "hostname": "YBOTs-MacBook-Pro.local",
+    "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "417Gi",
@@ -300,19 +300,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-09T01:41:45.897708+08:00",
+      "time": "2026-08-09T02:12:50.024163+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-09T01:41:45.897708+08:00",
+      "time": "2026-08-09T02:12:50.024163+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/14 jobs healthy"
     },
     {
-      "time": "2026-08-08T07:52:39+08:00",
+      "time": "2026-08-09T01:56:30+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: docs: update dev queue and README for React Native task completion",
+      "text": "🚀 KINKIN: chore: sync dev queue checkboxes with actual status — all phases 1-3 complete, p",
       "project": "kinkin"
     },
     {
