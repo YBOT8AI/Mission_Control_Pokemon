@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T19:36:59.326298+08:00",
+  "generatedAt": "2026-08-08T20:07:03.381633+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-08T19:33:06.196357+08:00",
-        "next_run": "2026-08-08T20:03:06.196357+08:00"
+        "last_run": "2026-08-08T20:04:05.914790+08:00",
+        "next_run": "2026-08-08T20:34:05.914790+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -261,8 +261,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-08T13:54:22.638462+08:00",
-        "next_run": "2026-08-08T19:54:22.638462+08:00"
+        "last_run": "2026-08-08T19:55:10.481008+08:00",
+        "next_run": "2026-08-09T01:55:10.481008+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-08T19:05:57.208900+08:00",
-        "next_run": "2026-08-08T20:06:57.262748+08:00"
+        "last_run": "2026-08-08T19:37:01.448003+08:00",
+        "next_run": "2026-08-08T20:37:01.473680+08:00"
       }
     ],
     "total": 14,
@@ -300,12 +300,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-08T19:36:59.325898+08:00",
+      "time": "2026-08-08T20:07:03.381291+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-08T19:36:59.325898+08:00",
+      "time": "2026-08-08T20:07:03.381291+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/14 jobs healthy"
     },
