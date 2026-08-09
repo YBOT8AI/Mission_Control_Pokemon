@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:17:32.188155+08:00",
+  "generatedAt": "2026-08-10T01:48:32.627300+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -69,7 +69,7 @@
           "author": "ybot",
           "time": "2026-08-09T23:26:11+08:00"
         },
-        "commits30d": 32,
+        "commits30d": 31,
         "totalCommits": 104,
         "branch": "main",
         "uncommittedChanges": 0
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T01:03:40.922125+08:00",
-        "next_run": "2026-08-10T01:33:40.922125+08:00"
+        "last_run": "2026-08-10T01:34:41.498140+08:00",
+        "next_run": "2026-08-10T02:04:41.498140+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -261,8 +261,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T00:46:34.011602+08:00",
-        "next_run": "2026-08-10T01:47:29.583182+08:00"
+        "last_run": "2026-08-10T01:17:34.384934+08:00",
+        "next_run": "2026-08-10T02:18:30.011964+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -309,12 +309,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-10T01:17:32.187691+08:00",
+      "time": "2026-08-10T01:48:32.626821+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-10T01:17:32.187691+08:00",
+      "time": "2026-08-10T01:48:32.626821+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/15 jobs healthy"
     },
