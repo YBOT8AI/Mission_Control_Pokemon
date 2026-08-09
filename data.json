@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T01:48:32.627300+08:00",
+  "generatedAt": "2026-08-10T02:19:33.538420+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "96b92cc",
-          "message": "chore: fix Task 5 checkbox (was done but unchecked)",
+          "sha": "7c1dcc3",
+          "message": "chore: mark Task 25 (credential rotation) as blocked — requires owner action",
           "author": "evilmoni",
-          "time": "2026-08-09T20:05:35+08:00"
+          "time": "2026-08-10T02:07:01+08:00"
         },
-        "commits30d": 97,
-        "totalCommits": 107,
+        "commits30d": 98,
+        "totalCommits": 108,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T01:34:41.498140+08:00",
-        "next_run": "2026-08-10T02:04:41.498140+08:00"
+        "last_run": "2026-08-10T02:05:41.889017+08:00",
+        "next_run": "2026-08-10T02:35:41.889017+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -252,8 +252,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-09T20:05:43.815485+08:00",
-        "next_run": "2026-08-10T02:05:43.815485+08:00"
+        "last_run": "2026-08-10T02:07:09.997425+08:00",
+        "next_run": "2026-08-10T08:07:09.997425+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -261,8 +261,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T01:17:34.384934+08:00",
-        "next_run": "2026-08-10T02:18:30.011964+08:00"
+        "last_run": "2026-08-10T01:48:34.745202+08:00",
+        "next_run": "2026-08-10T02:49:31.010172+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -309,26 +309,26 @@
   },
   "activity": [
     {
-      "time": "2026-08-10T01:48:32.626821+08:00",
+      "time": "2026-08-10T02:19:33.537997+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-10T01:48:32.626821+08:00",
+      "time": "2026-08-10T02:19:33.537997+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/15 jobs healthy"
+    },
+    {
+      "time": "2026-08-10T02:07:01+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: chore: mark Task 25 (credential rotation) as blocked — requires owner action",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-09T23:26:11+08:00",
       "type": "success",
       "text": "💼 TechWealth: docs: reorganize execution plan — proper sequencing: principle → situation → pos",
       "project": "techwealth"
-    },
-    {
-      "time": "2026-08-09T20:05:35+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: fix Task 5 checkbox (was done but unchecked)",
-      "project": "kinkin"
     },
     {
       "time": "2026-08-09T09:02:21+08:00",
