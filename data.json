@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T22:11:24.444525+08:00",
+  "generatedAt": "2026-08-09T22:42:28.554422+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,13 +64,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "13ffdae",
-          "message": "docs: merge competitive intelligence into master execution plan — steal sheet in",
+          "sha": "5f7ad4a",
+          "message": "docs: consolidate — merge roadmap into execution plan, delete 3 redundant files,",
           "author": "ybot",
-          "time": "2026-08-09T22:04:23+08:00"
+          "time": "2026-08-09T22:28:39+08:00"
         },
-        "commits30d": 31,
-        "totalCommits": 102,
+        "commits30d": 32,
+        "totalCommits": 103,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T21:57:26.168286+08:00",
-        "next_run": "2026-08-09T22:27:26.168286+08:00"
+        "last_run": "2026-08-09T22:28:34.520177+08:00",
+        "next_run": "2026-08-09T22:58:34.520177+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T21:40:24.638002+08:00",
-        "next_run": "2026-08-09T22:41:22.342871+08:00"
+        "last_run": "2026-08-09T22:11:26.594631+08:00",
+        "next_run": "2026-08-09T23:12:26.403695+08:00"
       }
     ],
     "total": 14,
@@ -300,19 +300,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-09T22:11:24.444157+08:00",
+      "time": "2026-08-09T22:42:28.554013+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-09T22:11:24.444157+08:00",
+      "time": "2026-08-09T22:42:28.554013+08:00",
       "type": "info",
       "text": "⏰ Cron: 10/14 jobs healthy"
     },
     {
-      "time": "2026-08-09T22:04:23+08:00",
+      "time": "2026-08-09T22:28:39+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: merge competitive intelligence into master execution plan — steal sheet in",
+      "text": "💼 TechWealth: docs: consolidate — merge roadmap into execution plan, delete 3 redundant files,",
       "project": "techwealth"
     },
     {
