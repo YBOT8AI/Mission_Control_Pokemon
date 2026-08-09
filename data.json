@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:08:11.466241+08:00",
+  "generatedAt": "2026-08-09T20:38:15.950514+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -48,7 +48,7 @@
         "commits30d": 97,
         "totalCommits": 107,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       },
       "url": "kinkin.vercel.app"
     },
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T19:53:17.491437+08:00",
-        "next_run": "2026-08-09T20:23:17.491437+08:00"
+        "last_run": "2026-08-09T20:24:21.790735+08:00",
+        "next_run": "2026-08-09T20:54:21.790735+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T19:37:09.629193+08:00",
-        "next_run": "2026-08-09T20:38:09.420451+08:00"
+        "last_run": "2026-08-09T20:08:13.595436+08:00",
+        "next_run": "2026-08-09T21:08:13.695096+08:00"
       }
     ],
     "total": 14,
@@ -300,12 +300,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-09T20:08:11.465844+08:00",
+      "time": "2026-08-09T20:38:15.950160+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-09T20:08:11.465844+08:00",
+      "time": "2026-08-09T20:38:15.950160+08:00",
       "type": "info",
       "text": "⏰ Cron: 10/14 jobs healthy"
     },
