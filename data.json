@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T23:44:30.638184+08:00",
+  "generatedAt": "2026-08-10T00:15:30.843430+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T23:30:37.920172+08:00",
-        "next_run": "2026-08-10T00:00:37.920172+08:00"
+        "last_run": "2026-08-10T00:01:38.464759+08:00",
+        "next_run": "2026-08-10T00:31:38.464759+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -261,8 +261,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T23:13:32.513598+08:00",
-        "next_run": "2026-08-10T00:14:28.465400+08:00"
+        "last_run": "2026-08-09T23:44:32.821362+08:00",
+        "next_run": "2026-08-10T00:45:28.744852+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -309,12 +309,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-09T23:44:30.637836+08:00",
+      "time": "2026-08-10T00:15:30.843052+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-09T23:44:30.637836+08:00",
+      "time": "2026-08-10T00:15:30.843052+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/15 jobs healthy"
     },
