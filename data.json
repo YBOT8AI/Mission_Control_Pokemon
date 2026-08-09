@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T08:53:41.279111+08:00",
+  "generatedAt": "2026-08-09T09:23:45.501442+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,15 +64,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "1e4738a",
-          "message": "fix: close public write access, remove fabricated admin metrics",
-          "author": "evilmoni",
-          "time": "2026-07-31T01:39:17+08:00"
+          "sha": "5cdec76",
+          "message": "docs: update .hermes.md — Supabase migration, component refactor, collaborator c",
+          "author": "ybot",
+          "time": "2026-08-09T09:02:20+08:00"
         },
-        "commits30d": 36,
-        "totalCommits": 98,
+        "commits30d": 37,
+        "totalCommits": 99,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       },
       "focus": "Financial Tech"
     },
@@ -105,21 +105,21 @@
       "pokemon": "Chansey",
       "pokemonId": 113,
       "status": "standby",
-      "progress": 50,
+      "progress": 55,
       "repo": "WorldPaws/WorldPawsOrg_Website",
       "priority": "medium",
       "classification": "INTERNAL",
       "git": {
         "lastCommit": {
-          "sha": "196f759",
-          "message": "Add .hermes.md project context file",
+          "sha": "17aeebb",
+          "message": "docs: update .hermes.md — Vercel deploy, new collaborator commits from Interscop",
           "author": "ybot",
-          "time": "2026-07-16T11:37:37+08:00"
+          "time": "2026-08-09T09:02:21+08:00"
         },
-        "commits30d": 3,
-        "totalCommits": 29,
+        "commits30d": 10,
+        "totalCommits": 36,
         "branch": "main",
-        "uncommittedChanges": 2
+        "uncommittedChanges": 0
       },
       "phase": "Option B - Full Build",
       "blockchain": "Solana"
@@ -153,8 +153,8 @@
         "name": "Token Saving Setup",
         "schedule": "0 9 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-08T09:00:37.725831+08:00",
-        "next_run": "2026-08-09T09:00:00+08:00"
+        "last_run": "2026-08-09T09:00:46.204572+08:00",
+        "next_run": "2026-08-10T09:00:00+08:00"
       },
       {
         "id": "cdaa5fb09bc9",
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T08:29:45.834018+08:00",
-        "next_run": "2026-08-09T08:59:45.834018+08:00"
+        "last_run": "2026-08-09T09:00:49.751853+08:00",
+        "next_run": "2026-08-09T09:30:49.751853+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -189,8 +189,8 @@
         "name": "Daily Business Report",
         "schedule": "0 9 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-08T09:00:37.504215+08:00",
-        "next_run": "2026-08-09T09:00:00+08:00"
+        "last_run": "2026-08-09T09:00:45.833748+08:00",
+        "next_run": "2026-08-10T09:00:00+08:00"
       },
       {
         "id": "0e7702e470c4",
@@ -206,9 +206,9 @@
         "enabled": true,
         "name": "Daily Project Audit",
         "schedule": "0 9 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-08T09:00:33.466204+08:00",
-        "next_run": "2026-08-09T09:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-09T09:02:55.939914+08:00",
+        "next_run": "2026-08-10T09:00:00+08:00"
       },
       {
         "id": "539a150ac028",
@@ -270,12 +270,12 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T08:22:39.226119+08:00",
-        "next_run": "2026-08-09T09:23:39.299671+08:00"
+        "last_run": "2026-08-09T08:53:43.427757+08:00",
+        "next_run": "2026-08-09T09:53:43.444507+08:00"
       }
     ],
     "total": 14,
-    "healthy": 9
+    "healthy": 10
   },
   "agents": {
     "hermes": {
@@ -300,32 +300,32 @@
   },
   "activity": [
     {
-      "time": "2026-08-09T08:53:41.278734+08:00",
+      "time": "2026-08-09T09:23:45.501038+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-09T08:53:41.278734+08:00",
+      "time": "2026-08-09T09:23:45.501038+08:00",
       "type": "info",
-      "text": "⏰ Cron: 9/14 jobs healthy"
+      "text": "⏰ Cron: 10/14 jobs healthy"
+    },
+    {
+      "time": "2026-08-09T09:02:21+08:00",
+      "type": "success",
+      "text": "🐾 WPO (World Paws Org): docs: update .hermes.md — Vercel deploy, new collaborator commits from Interscop",
+      "project": "wpo"
+    },
+    {
+      "time": "2026-08-09T09:02:20+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: docs: update .hermes.md — Supabase migration, component refactor, collaborator c",
+      "project": "techwealth"
     },
     {
       "time": "2026-08-09T07:59:29+08:00",
       "type": "success",
       "text": "🚀 KINKIN: docs: add Phase 5 tasks to dev queue + mark Task 21 done",
       "project": "kinkin"
-    },
-    {
-      "time": "2026-07-31T01:39:17+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: fix: close public write access, remove fabricated admin metrics",
-      "project": "techwealth"
-    },
-    {
-      "time": "2026-07-16T11:37:37+08:00",
-      "type": "success",
-      "text": "🐾 WPO (World Paws Org): Add .hermes.md project context file",
-      "project": "wpo"
     },
     {
       "time": "2026-07-16T11:37:36+08:00",
@@ -343,7 +343,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 14,
-    "healthyCronJobs": 9,
-    "avgProgress": 66
+    "healthyCronJobs": 10,
+    "avgProgress": 67
   }
 }
