@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T21:40:22.420435+08:00",
+  "generatedAt": "2026-08-09T22:11:24.444525+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -58,19 +58,19 @@
       "pokemon": "Meowth",
       "pokemonId": 52,
       "status": "building",
-      "progress": 65,
+      "progress": 70,
       "repo": "evilmoni/TechWealth",
       "priority": "high",
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "7407250",
-          "message": "docs: execution plan — 4-phase cold start to HK.67M ARR",
+          "sha": "13ffdae",
+          "message": "docs: merge competitive intelligence into master execution plan — steal sheet in",
           "author": "ybot",
-          "time": "2026-08-09T21:39:15+08:00"
+          "time": "2026-08-09T22:04:23+08:00"
         },
-        "commits30d": 29,
-        "totalCommits": 100,
+        "commits30d": 31,
+        "totalCommits": 102,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T21:26:29.858522+08:00",
-        "next_run": "2026-08-09T21:56:29.858522+08:00"
+        "last_run": "2026-08-09T21:57:26.168286+08:00",
+        "next_run": "2026-08-09T22:27:26.168286+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -270,8 +270,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-09T21:09:22.617658+08:00",
-        "next_run": "2026-08-09T22:10:20.310927+08:00"
+        "last_run": "2026-08-09T21:40:24.638002+08:00",
+        "next_run": "2026-08-09T22:41:22.342871+08:00"
       }
     ],
     "total": 14,
@@ -300,19 +300,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-09T21:40:22.420094+08:00",
+      "time": "2026-08-09T22:11:24.444157+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-09T21:40:22.420094+08:00",
+      "time": "2026-08-09T22:11:24.444157+08:00",
       "type": "info",
       "text": "⏰ Cron: 10/14 jobs healthy"
     },
     {
-      "time": "2026-08-09T21:39:15+08:00",
+      "time": "2026-08-09T22:04:23+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: execution plan — 4-phase cold start to HK.67M ARR",
+      "text": "💼 TechWealth: docs: merge competitive intelligence into master execution plan — steal sheet in",
       "project": "techwealth"
     },
     {
@@ -344,6 +344,6 @@
     "totalProjects": 6,
     "totalCronJobs": 14,
     "healthyCronJobs": 10,
-    "avgProgress": 66
+    "avgProgress": 67
   }
 }
