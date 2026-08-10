@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T08:52:36.593597+08:00",
+  "generatedAt": "2026-08-10T09:22:40.905493+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -153,8 +153,8 @@
         "name": "Token Saving Setup",
         "schedule": "0 9 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-09T09:00:46.204572+08:00",
-        "next_run": "2026-08-10T09:00:00+08:00"
+        "last_run": "2026-08-10T09:00:42.129753+08:00",
+        "next_run": "2026-08-11T09:00:00+08:00"
       },
       {
         "id": "cdaa5fb09bc9",
@@ -162,8 +162,8 @@
         "name": "Morning Briefing",
         "schedule": "0 9 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-08-07T09:00:32.779626+08:00",
-        "next_run": "2026-08-10T09:00:00+08:00"
+        "last_run": "2026-08-10T09:00:50.458578+08:00",
+        "next_run": "2026-08-11T09:00:00+08:00"
       },
       {
         "id": "1bd808c15df2",
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T08:23:36.592510+08:00",
-        "next_run": "2026-08-10T08:53:36.592510+08:00"
+        "last_run": "2026-08-10T08:54:40.069289+08:00",
+        "next_run": "2026-08-10T09:24:40.069289+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -189,8 +189,8 @@
         "name": "Daily Business Report",
         "schedule": "0 9 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-09T09:00:45.833748+08:00",
-        "next_run": "2026-08-10T09:00:00+08:00"
+        "last_run": "2026-08-10T09:00:41.457098+08:00",
+        "next_run": "2026-08-11T09:00:00+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -198,8 +198,8 @@
         "name": "Daily Project Audit",
         "schedule": "0 9 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-09T09:02:55.939914+08:00",
-        "next_run": "2026-08-10T09:00:00+08:00"
+        "last_run": "2026-08-10T09:01:03.817176+08:00",
+        "next_run": "2026-08-11T09:00:00+08:00"
       },
       {
         "id": "539a150ac028",
@@ -261,8 +261,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T08:21:35.074570+08:00",
-        "next_run": "2026-08-10T09:22:34.592054+08:00"
+        "last_run": "2026-08-10T08:52:38.831652+08:00",
+        "next_run": "2026-08-10T09:52:38.856549+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -305,16 +305,16 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "417Gi",
-    "uptime": "3:36"
+    "uptime": "4:06"
   },
   "activity": [
     {
-      "time": "2026-08-10T08:52:36.593193+08:00",
+      "time": "2026-08-10T09:22:40.905140+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-10T08:52:36.593193+08:00",
+      "time": "2026-08-10T09:22:40.905140+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/15 jobs healthy"
     },
