@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:50:28.406684+08:00",
+  "generatedAt": "2026-08-10T08:21:32.910818+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -180,8 +180,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T07:21:30.021062+08:00",
-        "next_run": "2026-08-10T07:51:30.021062+08:00"
+        "last_run": "2026-08-10T07:52:35.157076+08:00",
+        "next_run": "2026-08-10T08:22:35.157076+08:00"
       },
       {
         "id": "b466a7b13b9e",
@@ -252,8 +252,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-10T02:07:09.997425+08:00",
-        "next_run": "2026-08-10T08:07:09.997425+08:00"
+        "last_run": "2026-08-10T08:07:38.449892+08:00",
+        "next_run": "2026-08-10T14:07:38.449892+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -261,8 +261,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-10T07:20:26.240230+08:00",
-        "next_run": "2026-08-10T08:20:26.251957+08:00"
+        "last_run": "2026-08-10T07:50:30.632531+08:00",
+        "next_run": "2026-08-10T08:51:30.762263+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -305,16 +305,16 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "417Gi",
-    "uptime": "2:34"
+    "uptime": "3:05"
   },
   "activity": [
     {
-      "time": "2026-08-10T07:50:28.406345+08:00",
+      "time": "2026-08-10T08:21:32.910429+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-10T07:50:28.406345+08:00",
+      "time": "2026-08-10T08:21:32.910429+08:00",
       "type": "info",
       "text": "⏰ Cron: 9/15 jobs healthy"
     },
