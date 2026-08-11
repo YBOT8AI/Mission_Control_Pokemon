@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T02:43:09.962092+08:00",
+  "generatedAt": "2026-08-12T03:14:14.269340+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -171,8 +171,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T02:20:14.436348+08:00",
-        "next_run": "2026-08-12T02:50:14.436348+08:00"
+        "last_run": "2026-08-12T02:51:18.946053+08:00",
+        "next_run": "2026-08-12T03:21:18.946053+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -243,8 +243,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T02:13:07.688858+08:00",
-        "next_run": "2026-08-12T03:13:07.776108+08:00"
+        "last_run": "2026-08-12T02:43:12.572407+08:00",
+        "next_run": "2026-08-12T03:44:12.154431+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -270,8 +270,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T02:22:05.549683+08:00",
-        "next_run": "2026-08-12T02:52:05.549683+08:00"
+        "last_run": "2026-08-12T02:52:09.701145+08:00",
+        "next_run": "2026-08-12T03:22:09.701145+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -279,17 +279,17 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "error",
-        "last_run": "2026-08-12T02:42:08.238479+08:00",
-        "next_run": "2026-08-12T02:52:08.238479+08:00"
+        "last_run": "2026-08-12T03:12:12.465666+08:00",
+        "next_run": "2026-08-12T03:22:12.465666+08:00"
       },
       {
         "id": "bda480fda81d",
         "enabled": true,
         "name": "DB Maintenance",
         "schedule": "0 3 * * *",
-        "last_status": "unknown",
-        "last_run": null,
-        "next_run": "2026-08-12T03:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-12T03:00:12.585067+08:00",
+        "next_run": "2026-08-13T03:00:00+08:00"
       },
       {
         "id": "9451057f9c1f",
@@ -302,7 +302,7 @@
       }
     ],
     "total": 17,
-    "healthy": 9
+    "healthy": 10
   },
   "agents": {
     "hermes": {
@@ -327,14 +327,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-12T02:43:09.961741+08:00",
+      "time": "2026-08-12T03:14:14.268966+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-12T02:43:09.961741+08:00",
+      "time": "2026-08-12T03:14:14.268966+08:00",
       "type": "info",
-      "text": "⏰ Cron: 9/17 jobs healthy"
+      "text": "⏰ Cron: 10/17 jobs healthy"
     },
     {
       "time": "2026-08-10T02:07:01+08:00",
@@ -370,7 +370,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 17,
-    "healthyCronJobs": 9,
+    "healthyCronJobs": 10,
     "avgProgress": 67
   }
 }
