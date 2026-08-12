@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T23:54:12.227103+08:00",
+  "generatedAt": "2026-08-13T00:24:16.875131+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -171,8 +171,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T23:34:12.437538+08:00",
-        "next_run": "2026-08-13T00:04:12.437538+08:00"
+        "last_run": "2026-08-13T00:05:21.808121+08:00",
+        "next_run": "2026-08-13T00:35:21.808121+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -243,8 +243,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T23:23:10.534366+08:00",
-        "next_run": "2026-08-13T00:24:10.120101+08:00"
+        "last_run": "2026-08-12T23:54:14.453196+08:00",
+        "next_run": "2026-08-13T00:54:14.645017+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -270,8 +270,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T23:25:06.711067+08:00",
-        "next_run": "2026-08-12T23:55:06.711067+08:00"
+        "last_run": "2026-08-12T23:55:11.021876+08:00",
+        "next_run": "2026-08-13T00:25:11.021876+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -279,8 +279,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "error",
-        "last_run": "2026-08-12T23:45:09.473622+08:00",
-        "next_run": "2026-08-12T23:55:09.473622+08:00"
+        "last_run": "2026-08-13T00:15:14.151843+08:00",
+        "next_run": "2026-08-13T00:25:14.151843+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -327,12 +327,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-12T23:54:12.226752+08:00",
+      "time": "2026-08-13T00:24:16.874703+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-12T23:54:12.226752+08:00",
+      "time": "2026-08-13T00:24:16.874703+08:00",
       "type": "info",
       "text": "⏰ Cron: 11/17 jobs healthy"
     },
