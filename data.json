@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T14:35:51.865652+08:00",
+  "generatedAt": "2026-08-12T15:06:55.958191+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -48,7 +48,7 @@
         "commits30d": 95,
         "totalCommits": 108,
         "branch": "main",
-        "uncommittedChanges": 2
+        "uncommittedChanges": 0
       },
       "url": "kinkin.vercel.app"
     },
@@ -171,8 +171,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T14:14:56.771885+08:00",
-        "next_run": "2026-08-12T14:44:56.771885+08:00"
+        "last_run": "2026-08-12T14:46:01.058543+08:00",
+        "next_run": "2026-08-12T15:16:01.058543+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -243,8 +243,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T14:04:49.634834+08:00",
-        "next_run": "2026-08-12T15:05:49.720513+08:00"
+        "last_run": "2026-08-12T14:35:54.076434+08:00",
+        "next_run": "2026-08-12T15:36:53.864656+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -252,8 +252,8 @@
         "name": "Afternoon Briefing (3 PM)",
         "schedule": "0 15 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-11T15:02:19.948406+08:00",
-        "next_run": "2026-08-12T15:00:00+08:00"
+        "last_run": "2026-08-12T15:02:34.104757+08:00",
+        "next_run": "2026-08-13T15:00:00+08:00"
       },
       {
         "id": "3a29f6419e7a",
@@ -270,8 +270,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-12T14:23:48.716499+08:00",
-        "next_run": "2026-08-12T14:53:48.716499+08:00"
+        "last_run": "2026-08-12T14:53:52.726154+08:00",
+        "next_run": "2026-08-12T15:23:52.726154+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -279,8 +279,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "error",
-        "last_run": "2026-08-12T14:33:50.035888+08:00",
-        "next_run": "2026-08-12T14:43:50.035888+08:00"
+        "last_run": "2026-08-12T15:03:54.080456+08:00",
+        "next_run": "2026-08-12T15:13:54.080456+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -327,12 +327,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-12T14:35:51.865305+08:00",
+      "time": "2026-08-12T15:06:55.957793+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-12T14:35:51.865305+08:00",
+      "time": "2026-08-12T15:06:55.957793+08:00",
       "type": "info",
       "text": "⏰ Cron: 11/17 jobs healthy"
     },
