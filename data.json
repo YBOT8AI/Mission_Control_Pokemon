@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:19:00.915258+08:00",
+  "generatedAt": "2026-08-13T19:50:05.184592+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-13T19:15:04.762664+08:00",
-        "next_run": "2026-08-13T19:45:04.762664+08:00"
+        "last_run": "2026-08-13T19:46:10.779005+08:00",
+        "next_run": "2026-08-13T20:16:10.779005+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-13T18:48:58.675556+08:00",
-        "next_run": "2026-08-13T19:48:58.768507+08:00"
+        "last_run": "2026-08-13T19:19:03.160089+08:00",
+        "next_run": "2026-08-13T20:20:02.857694+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,17 +261,17 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-13T18:57:56.377506+08:00",
-        "next_run": "2026-08-13T19:27:56.377506+08:00"
+        "last_run": "2026-08-13T19:28:00.796607+08:00",
+        "next_run": "2026-08-13T19:58:00.796607+08:00"
       },
       {
         "id": "e6f0dccaa749",
         "enabled": true,
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
-        "last_status": "error",
-        "last_run": "2026-08-13T19:17:59.258569+08:00",
-        "next_run": "2026-08-13T19:27:59.258569+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-13T19:45:02.189052+08:00",
+        "next_run": "2026-08-13T19:55:02.189052+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -293,7 +293,7 @@
       }
     ],
     "total": 16,
-    "healthy": 10
+    "healthy": 11
   },
   "agents": {
     "hermes": {
@@ -318,14 +318,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-13T19:19:00.914876+08:00",
+      "time": "2026-08-13T19:50:05.184211+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-13T19:19:00.914876+08:00",
+      "time": "2026-08-13T19:50:05.184211+08:00",
       "type": "info",
-      "text": "⏰ Cron: 10/16 jobs healthy"
+      "text": "⏰ Cron: 11/16 jobs healthy"
     },
     {
       "time": "2026-08-10T02:07:01+08:00",
@@ -361,7 +361,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 16,
-    "healthyCronJobs": 10,
+    "healthyCronJobs": 11,
     "avgProgress": 67
   }
 }
