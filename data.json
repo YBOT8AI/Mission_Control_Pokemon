@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T18:17:52.144559+08:00",
+  "generatedAt": "2026-08-13T18:48:56.540703+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -148,15 +148,6 @@
   "cron": {
     "jobs": [
       {
-        "id": "c4a0f2b0c07e",
-        "enabled": true,
-        "name": "Token Saving Setup",
-        "schedule": "0 9 * * *",
-        "last_status": "ok",
-        "last_run": "2026-08-13T09:00:36.100982+08:00",
-        "next_run": "2026-08-14T09:00:00+08:00"
-      },
-      {
         "id": "1bd808c15df2",
         "enabled": true,
         "name": "Hermes Weekly Backup",
@@ -171,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-13T18:12:55.415613+08:00",
-        "next_run": "2026-08-13T18:42:55.415613+08:00"
+        "last_run": "2026-08-13T18:44:02.334822+08:00",
+        "next_run": "2026-08-13T19:14:02.334822+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -243,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-13T17:46:50.263817+08:00",
-        "next_run": "2026-08-13T18:47:50.066781+08:00"
+        "last_run": "2026-08-13T18:17:54.266473+08:00",
+        "next_run": "2026-08-13T19:18:54.416225+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -270,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-13T17:57:47.992826+08:00",
-        "next_run": "2026-08-13T18:27:47.992826+08:00"
+        "last_run": "2026-08-13T18:27:52.228352+08:00",
+        "next_run": "2026-08-13T18:57:52.228352+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -279,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "error",
-        "last_run": "2026-08-13T18:17:50.893381+08:00",
-        "next_run": "2026-08-13T18:27:50.893381+08:00"
+        "last_run": "2026-08-13T18:47:54.951624+08:00",
+        "next_run": "2026-08-13T18:57:54.951624+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -301,8 +292,8 @@
         "next_run": "2026-08-14T09:00:00+08:00"
       }
     ],
-    "total": 17,
-    "healthy": 11
+    "total": 16,
+    "healthy": 10
   },
   "agents": {
     "hermes": {
@@ -327,14 +318,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-13T18:17:52.144129+08:00",
+      "time": "2026-08-13T18:48:56.540332+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-13T18:17:52.144129+08:00",
+      "time": "2026-08-13T18:48:56.540332+08:00",
       "type": "info",
-      "text": "⏰ Cron: 11/17 jobs healthy"
+      "text": "⏰ Cron: 10/16 jobs healthy"
     },
     {
       "time": "2026-08-10T02:07:01+08:00",
@@ -369,8 +360,8 @@
   ],
   "stats": {
     "totalProjects": 6,
-    "totalCronJobs": 17,
-    "healthyCronJobs": 11,
+    "totalCronJobs": 16,
+    "healthyCronJobs": 10,
     "avgProgress": 67
   }
 }
