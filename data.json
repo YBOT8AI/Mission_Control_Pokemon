@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T15:00:29.175994+08:00",
+  "generatedAt": "2026-08-15T15:31:33.757915+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "7c1dcc3",
-          "message": "chore: mark Task 25 (credential rotation) as blocked — requires owner action",
+          "sha": "5ba2783",
+          "message": "docs: recover expert-consensus launch strategy (Home Repairs ONLY) + v2 pre-depl",
           "author": "evilmoni",
-          "time": "2026-08-10T02:07:01+08:00"
+          "time": "2026-08-15T15:03:15+08:00"
         },
-        "commits30d": 94,
-        "totalCommits": 108,
+        "commits30d": 95,
+        "totalCommits": 109,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-15T14:45:32.229166+08:00",
-        "next_run": "2026-08-15T15:15:32.229166+08:00"
+        "last_run": "2026-08-15T15:16:34.479767+08:00",
+        "next_run": "2026-08-15T15:46:34.479767+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-15T14:30:26.833891+08:00",
-        "next_run": "2026-08-15T15:30:27.155019+08:00"
+        "last_run": "2026-08-15T15:00:31.642116+08:00",
+        "next_run": "2026-08-15T16:01:31.780824+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -243,7 +243,7 @@
         "name": "Afternoon Briefing (3 PM)",
         "schedule": "0 15 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-14T15:01:57.815387+08:00",
+        "last_run": "2026-08-15T15:01:18.947435+08:00",
         "next_run": "2026-08-17T15:00:00+08:00"
       },
       {
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-15T14:37:24.219710+08:00",
-        "next_run": "2026-08-15T15:07:24.219710+08:00"
+        "last_run": "2026-08-15T15:07:28.965305+08:00",
+        "next_run": "2026-08-15T15:37:28.965305+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-15T14:58:26.965154+08:00",
-        "next_run": "2026-08-15T15:08:26.965154+08:00"
+        "last_run": "2026-08-15T15:28:31.594500+08:00",
+        "next_run": "2026-08-15T15:38:31.594500+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,7 +315,7 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-15T12:02:51.384681+08:00",
+        "last_run": "2026-08-15T15:03:29.979045+08:00",
         "next_run": "2026-08-15T18:00:00+08:00"
       }
     ],
@@ -341,30 +341,30 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "415Gi",
-    "uptime": "20:31"
+    "uptime": "21:02"
   },
   "activity": [
     {
-      "time": "2026-08-15T15:00:29.175653+08:00",
+      "time": "2026-08-15T15:31:33.757547+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-15T15:00:29.175653+08:00",
+      "time": "2026-08-15T15:31:33.757547+08:00",
       "type": "info",
       "text": "⏰ Cron: 15/19 jobs healthy"
+    },
+    {
+      "time": "2026-08-15T15:03:15+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: docs: recover expert-consensus launch strategy (Home Repairs ONLY) + v2 pre-depl",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-15T14:02:37+08:00",
       "type": "success",
       "text": "💼 TechWealth: docs: add Deloitte 2026 family office data — 3,384 SFOs, 686 in $10-30M tier (Te",
       "project": "techwealth"
-    },
-    {
-      "time": "2026-08-10T02:07:01+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: mark Task 25 (credential rotation) as blocked — requires owner action",
-      "project": "kinkin"
     },
     {
       "time": "2026-08-09T09:02:21+08:00",
