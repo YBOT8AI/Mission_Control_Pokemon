@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T09:25:15.079330+08:00",
+  "generatedAt": "2026-08-15T09:56:19.419696+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-15T09:04:16.332278+08:00",
-        "next_run": "2026-08-15T09:34:16.332278+08:00"
+        "last_run": "2026-08-15T09:35:23.181997+08:00",
+        "next_run": "2026-08-15T10:05:23.181997+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -243,8 +243,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-15T08:54:13.120766+08:00",
-        "next_run": "2026-08-15T09:55:12.891599+08:00"
+        "last_run": "2026-08-15T09:25:17.186364+08:00",
+        "next_run": "2026-08-15T10:26:17.317094+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -270,8 +270,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-15T09:06:10.955873+08:00",
-        "next_run": "2026-08-15T09:36:10.955873+08:00"
+        "last_run": "2026-08-15T09:36:15.362804+08:00",
+        "next_run": "2026-08-15T10:06:15.362804+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -279,8 +279,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-15T09:16:11.780614+08:00",
-        "next_run": "2026-08-15T09:26:11.780614+08:00"
+        "last_run": "2026-08-15T09:56:17.602038+08:00",
+        "next_run": "2026-08-15T10:06:17.602038+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -332,16 +332,16 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "417Gi",
-    "uptime": "14:56"
+    "uptime": "15:27"
   },
   "activity": [
     {
-      "time": "2026-08-15T09:25:15.078975+08:00",
+      "time": "2026-08-15T09:56:19.419338+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-15T09:25:15.078975+08:00",
+      "time": "2026-08-15T09:56:19.419338+08:00",
       "type": "info",
       "text": "⏰ Cron: 13/18 jobs healthy"
     },
