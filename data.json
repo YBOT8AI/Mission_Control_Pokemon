@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T09:58:11.955790+08:00",
+  "generatedAt": "2026-08-16T10:28:16.387764+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,13 +64,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "801810a",
-          "message": "docs: add Deloitte 2026 family office data — 3,384 SFOs, 686 in $10-30M tier (Te",
+          "sha": "a0954e8",
+          "message": "Weekly roadmap review — 2026-08-16",
           "author": "ybot",
-          "time": "2026-08-15T14:02:37+08:00"
+          "time": "2026-08-16T10:00:52+08:00"
         },
-        "commits30d": 26,
-        "totalCommits": 107,
+        "commits30d": 27,
+        "totalCommits": 108,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-16T09:55:14.148778+08:00",
-        "next_run": "2026-08-16T10:25:14.148778+08:00"
+        "last_run": "2026-08-16T10:26:18.747306+08:00",
+        "next_run": "2026-08-16T10:56:18.747306+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -188,9 +188,9 @@
         "enabled": true,
         "name": "Weekly Strategy Review",
         "schedule": "0 10 * * 0",
-        "last_status": "error",
-        "last_run": "2026-08-09T10:00:51.509171+08:00",
-        "next_run": "2026-08-16T10:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-16T10:00:59.201826+08:00",
+        "next_run": "2026-08-23T10:00:00+08:00"
       },
       {
         "id": "30bc44718228",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-16T09:27:09.761277+08:00",
-        "next_run": "2026-08-16T10:28:09.816430+08:00"
+        "last_run": "2026-08-16T09:58:14.111339+08:00",
+        "next_run": "2026-08-16T10:58:14.317123+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-16T09:40:07.727972+08:00",
-        "next_run": "2026-08-16T10:10:07.727972+08:00"
+        "last_run": "2026-08-16T10:10:12.327552+08:00",
+        "next_run": "2026-08-16T10:40:12.327552+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-16T09:51:08.885202+08:00",
-        "next_run": "2026-08-16T10:01:08.885202+08:00"
+        "last_run": "2026-08-16T10:21:13.393965+08:00",
+        "next_run": "2026-08-16T10:31:13.393965+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -320,7 +320,7 @@
       }
     ],
     "total": 19,
-    "healthy": 15
+    "healthy": 16
   },
   "agents": {
     "hermes": {
@@ -345,26 +345,26 @@
   },
   "activity": [
     {
-      "time": "2026-08-16T09:58:11.955424+08:00",
+      "time": "2026-08-16T10:28:16.387406+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-16T09:58:11.955424+08:00",
+      "time": "2026-08-16T10:28:16.387406+08:00",
       "type": "info",
-      "text": "⏰ Cron: 15/19 jobs healthy"
+      "text": "⏰ Cron: 16/19 jobs healthy"
+    },
+    {
+      "time": "2026-08-16T10:00:52+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: Weekly roadmap review — 2026-08-16",
+      "project": "techwealth"
     },
     {
       "time": "2026-08-15T15:03:15+08:00",
       "type": "success",
       "text": "🚀 KINKIN: docs: recover expert-consensus launch strategy (Home Repairs ONLY) + v2 pre-depl",
       "project": "kinkin"
-    },
-    {
-      "time": "2026-08-15T14:02:37+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: docs: add Deloitte 2026 family office data — 3,384 SFOs, 686 in $10-30M tier (Te",
-      "project": "techwealth"
     },
     {
       "time": "2026-08-09T09:02:21+08:00",
@@ -388,7 +388,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 19,
-    "healthyCronJobs": 15,
+    "healthyCronJobs": 16,
     "avgProgress": 66
   }
 }
