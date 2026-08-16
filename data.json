@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T05:48:05.881701+08:00",
+  "generatedAt": "2026-08-17T06:18:10.287104+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-17T05:36:07.024194+08:00",
-        "next_run": "2026-08-17T06:06:07.024194+08:00"
+        "last_run": "2026-08-17T06:07:16.449570+08:00",
+        "next_run": "2026-08-17T06:37:16.449570+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-17T05:18:03.318003+08:00",
-        "next_run": "2026-08-17T06:18:03.708342+08:00"
+        "last_run": "2026-08-17T05:48:08.014799+08:00",
+        "next_run": "2026-08-17T06:48:08.167669+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-17T05:43:03.578421+08:00",
-        "next_run": "2026-08-17T06:13:03.578421+08:00"
+        "last_run": "2026-08-17T06:13:08.066469+08:00",
+        "next_run": "2026-08-17T06:43:08.066469+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-17T05:44:03.265630+08:00",
-        "next_run": "2026-08-17T05:54:03.265630+08:00"
+        "last_run": "2026-08-17T06:14:07.722916+08:00",
+        "next_run": "2026-08-17T06:24:07.722916+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -324,8 +324,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-17T05:34:01.912113+08:00",
-        "next_run": "2026-08-17T05:49:01.912113+08:00"
+        "last_run": "2026-08-17T06:04:06.450214+08:00",
+        "next_run": "2026-08-17T06:19:06.450214+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -398,9 +398,18 @@
         "last_status": "unknown",
         "last_run": null,
         "next_run": "2026-08-17T12:00:00+08:00"
+      },
+      {
+        "id": "c3c11d707717",
+        "enabled": true,
+        "name": "Morning News Report",
+        "schedule": "30 7 * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-17T07:30:00+08:00"
       }
     ],
-    "total": 28,
+    "total": 29,
     "healthy": 17
   },
   "agents": {
@@ -426,14 +435,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-17T05:48:05.881338+08:00",
+      "time": "2026-08-17T06:18:10.286740+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-17T05:48:05.881338+08:00",
+      "time": "2026-08-17T06:18:10.286740+08:00",
       "type": "info",
-      "text": "⏰ Cron: 17/28 jobs healthy"
+      "text": "⏰ Cron: 17/29 jobs healthy"
     },
     {
       "time": "2026-08-17T02:48:00+08:00",
@@ -468,7 +477,7 @@
   ],
   "stats": {
     "totalProjects": 6,
-    "totalCronJobs": 28,
+    "totalCronJobs": 29,
     "healthyCronJobs": 17,
     "avgProgress": 66
   }
