@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T11:58:29.636586+08:00",
+  "generatedAt": "2026-08-16T12:28:33.941561+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-16T11:28:27.955360+08:00",
-        "next_run": "2026-08-16T11:58:27.955360+08:00"
+        "last_run": "2026-08-16T11:59:32.474857+08:00",
+        "next_run": "2026-08-16T12:29:32.474857+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -180,8 +180,8 @@
         "name": "Midday Wake-Up Call",
         "schedule": "0 12 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-15T12:00:36.903540+08:00",
-        "next_run": "2026-08-16T12:00:00+08:00"
+        "last_run": "2026-08-16T12:00:29.471743+08:00",
+        "next_run": "2026-08-17T12:00:00+08:00"
       },
       {
         "id": "0b2d056a7785",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-16T11:28:27.294960+08:00",
-        "next_run": "2026-08-16T12:28:27.578692+08:00"
+        "last_run": "2026-08-16T11:58:31.794754+08:00",
+        "next_run": "2026-08-16T12:58:31.882190+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-16T11:40:25.554862+08:00",
-        "next_run": "2026-08-16T12:10:25.554862+08:00"
+        "last_run": "2026-08-16T12:10:30.011045+08:00",
+        "next_run": "2026-08-16T12:40:30.011045+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-16T11:51:26.676725+08:00",
-        "next_run": "2026-08-16T12:01:26.676725+08:00"
+        "last_run": "2026-08-16T12:21:31.093867+08:00",
+        "next_run": "2026-08-16T12:31:31.093867+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,8 +315,8 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-16T09:01:26.671787+08:00",
-        "next_run": "2026-08-16T12:00:00+08:00"
+        "last_run": "2026-08-16T12:01:08.878123+08:00",
+        "next_run": "2026-08-16T15:00:00+08:00"
       }
     ],
     "total": 19,
@@ -345,12 +345,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-16T11:58:29.636246+08:00",
+      "time": "2026-08-16T12:28:33.941202+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-16T11:58:29.636246+08:00",
+      "time": "2026-08-16T12:28:33.941202+08:00",
       "type": "info",
       "text": "⏰ Cron: 16/19 jobs healthy"
     },
