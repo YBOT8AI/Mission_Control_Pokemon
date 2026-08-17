@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T13:53:18.124293+08:00",
+  "generatedAt": "2026-08-17T14:23:22.615434+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,13 +64,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "a0954e8",
-          "message": "Weekly roadmap review — 2026-08-16",
+          "sha": "21b3aad",
+          "message": "docs: add UBS Global Wealth Report 2026 data — HK 4th in avg wealth, +0.3% milli",
           "author": "ybot",
-          "time": "2026-08-16T10:00:52+08:00"
+          "time": "2026-08-17T14:02:15+08:00"
         },
-        "commits30d": 18,
-        "totalCommits": 108,
+        "commits30d": 19,
+        "totalCommits": 109,
         "branch": "main",
         "uncommittedChanges": 1
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-17T13:22:17.641471+08:00",
-        "next_run": "2026-08-17T14:23:15.971654+08:00"
+        "last_run": "2026-08-17T13:53:25.354346+08:00",
+        "next_run": "2026-08-17T14:23:25.354346+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-17T13:23:15.815027+08:00",
-        "next_run": "2026-08-17T14:23:15.971654+08:00"
+        "last_run": "2026-08-17T13:53:20.234938+08:00",
+        "next_run": "2026-08-17T14:53:20.474589+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-17T13:44:15.194881+08:00",
-        "next_run": "2026-08-17T14:14:15.194881+08:00"
+        "last_run": "2026-08-17T14:14:19.823485+08:00",
+        "next_run": "2026-08-17T14:44:19.823485+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-17T13:50:15.652469+08:00",
-        "next_run": "2026-08-17T14:00:15.652469+08:00"
+        "last_run": "2026-08-17T14:20:20.299516+08:00",
+        "next_run": "2026-08-17T14:30:20.299516+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -297,8 +297,8 @@
         "name": "TechWealth Daily Autonomous Workflow",
         "schedule": "0 14 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-15T14:02:46.913417+08:00",
-        "next_run": "2026-08-17T14:00:00+08:00"
+        "last_run": "2026-08-17T14:02:29.521212+08:00",
+        "next_run": "2026-08-18T14:00:00+08:00"
       },
       {
         "id": "e7c5bf794690",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-17T13:50:15.927564+08:00",
-        "next_run": "2026-08-17T14:05:15.927564+08:00"
+        "last_run": "2026-08-17T14:20:20.495330+08:00",
+        "next_run": "2026-08-17T14:35:20.495330+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -426,26 +426,26 @@
   },
   "activity": [
     {
-      "time": "2026-08-17T13:53:18.123941+08:00",
+      "time": "2026-08-17T14:23:22.615133+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-17T13:53:18.123941+08:00",
+      "time": "2026-08-17T14:23:22.615133+08:00",
       "type": "info",
       "text": "⏰ Cron: 16/28 jobs healthy"
+    },
+    {
+      "time": "2026-08-17T14:02:15+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: docs: add UBS Global Wealth Report 2026 data — HK 4th in avg wealth, +0.3% milli",
+      "project": "techwealth"
     },
     {
       "time": "2026-08-17T02:48:00+08:00",
       "type": "success",
       "text": "🚀 KINKIN: docs: record ESLint toolchain fix (Task 26) + CI workflow PAT-scope blocker",
       "project": "kinkin"
-    },
-    {
-      "time": "2026-08-16T10:00:52+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: Weekly roadmap review — 2026-08-16",
-      "project": "techwealth"
     },
     {
       "time": "2026-08-09T09:02:21+08:00",
