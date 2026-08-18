@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T05:42:17.281510+08:00",
+  "generatedAt": "2026-08-19T06:13:21.251143+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T05:13:21.181816+08:00",
-        "next_run": "2026-08-19T05:43:21.181816+08:00"
+        "last_run": "2026-08-19T05:44:25.623467+08:00",
+        "next_run": "2026-08-19T06:14:25.623467+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T05:11:15.421989+08:00",
-        "next_run": "2026-08-19T06:12:15.082437+08:00"
+        "last_run": "2026-08-19T05:42:19.781469+08:00",
+        "next_run": "2026-08-19T06:43:19.153315+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T05:38:15.084682+08:00",
-        "next_run": "2026-08-19T06:08:15.084682+08:00"
+        "last_run": "2026-08-19T06:08:19.179217+08:00",
+        "next_run": "2026-08-19T06:38:19.179217+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-19T05:40:14.887304+08:00",
-        "next_run": "2026-08-19T05:50:14.887304+08:00"
+        "last_run": "2026-08-19T06:10:18.901144+08:00",
+        "next_run": "2026-08-19T06:20:18.901144+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-19T05:42:15.933221+08:00",
-        "next_run": "2026-08-19T05:57:15.933221+08:00"
+        "last_run": "2026-08-19T06:12:19.343217+08:00",
+        "next_run": "2026-08-19T06:27:19.343217+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -430,17 +430,17 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "414Gi",
-    "uptime": "18:44"
+    "diskAvail": "415Gi",
+    "uptime": "19:15"
   },
   "activity": [
     {
-      "time": "2026-08-19T05:42:17.281154+08:00",
+      "time": "2026-08-19T06:13:21.250783+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-19T05:42:17.281154+08:00",
+      "time": "2026-08-19T06:13:21.250783+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/29 jobs healthy"
     },
