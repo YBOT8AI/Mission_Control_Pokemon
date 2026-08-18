@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:51:02.481601+08:00",
+  "generatedAt": "2026-08-18T19:22:06.003547+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T18:21:07.552149+08:00",
-        "next_run": "2026-08-18T18:51:07.552149+08:00"
+        "last_run": "2026-08-18T18:52:10.599589+08:00",
+        "next_run": "2026-08-18T19:22:10.599589+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -197,9 +197,9 @@
         "enabled": true,
         "name": "Hair Treatment Reminder (Tuesday)\"",
         "schedule": "0 19 * * 2",
-        "last_status": "error",
-        "last_run": "2026-08-11T19:00:10.344359+08:00",
-        "next_run": "2026-08-18T19:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-18T19:00:07.171889+08:00",
+        "next_run": "2026-08-25T19:00:00+08:00"
       },
       {
         "id": "c80e91808258",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T18:20:01.836973+08:00",
-        "next_run": "2026-08-18T19:21:00.415075+08:00"
+        "last_run": "2026-08-18T18:51:04.822665+08:00",
+        "next_run": "2026-08-18T19:52:03.853499+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T18:37:00.518759+08:00",
-        "next_run": "2026-08-18T19:07:00.518759+08:00"
+        "last_run": "2026-08-18T19:07:02.525329+08:00",
+        "next_run": "2026-08-18T19:37:02.525329+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-18T18:48:00.510371+08:00",
-        "next_run": "2026-08-18T18:58:00.510371+08:00"
+        "last_run": "2026-08-18T19:18:03.458694+08:00",
+        "next_run": "2026-08-18T19:28:03.458694+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-18T18:40:00.623040+08:00",
-        "next_run": "2026-08-18T18:55:00.623040+08:00"
+        "last_run": "2026-08-18T19:11:02.825660+08:00",
+        "next_run": "2026-08-18T19:26:02.825660+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -410,7 +410,7 @@
       }
     ],
     "total": 29,
-    "healthy": 20
+    "healthy": 21
   },
   "agents": {
     "hermes": {
@@ -431,18 +431,18 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "415Gi",
-    "uptime": "7:52"
+    "uptime": "8:23"
   },
   "activity": [
     {
-      "time": "2026-08-18T18:51:02.481197+08:00",
+      "time": "2026-08-18T19:22:06.003204+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-18T18:51:02.481197+08:00",
+      "time": "2026-08-18T19:22:06.003204+08:00",
       "type": "info",
-      "text": "⏰ Cron: 20/29 jobs healthy"
+      "text": "⏰ Cron: 21/29 jobs healthy"
     },
     {
       "time": "2026-08-18T14:04:06+08:00",
@@ -478,7 +478,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 29,
-    "healthyCronJobs": 20,
+    "healthyCronJobs": 21,
     "avgProgress": 66
   }
 }
