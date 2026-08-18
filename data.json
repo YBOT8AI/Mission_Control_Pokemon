@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T11:06:12.308032+08:00",
+  "generatedAt": "2026-08-18T11:37:15.564081+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -45,7 +45,7 @@
           "author": "evilmoni",
           "time": "2026-08-17T02:48:00+08:00"
         },
-        "commits30d": 92,
+        "commits30d": 91,
         "totalCommits": 111,
         "branch": "main",
         "uncommittedChanges": 1
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T10:05:32.632446+08:00",
-        "next_run": "2026-08-18T11:36:09.650618+08:00"
+        "last_run": "2026-08-18T11:06:19.807678+08:00",
+        "next_run": "2026-08-18T12:07:13.305230+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T09:49:19.102063+08:00",
-        "next_run": "2026-08-18T11:36:09.650618+08:00"
+        "last_run": "2026-08-18T11:06:14.475107+08:00",
+        "next_run": "2026-08-18T12:07:13.305230+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T11:06:10.684162+08:00",
-        "next_run": "2026-08-18T11:36:10.684162+08:00"
+        "last_run": "2026-08-18T11:36:13.873492+08:00",
+        "next_run": "2026-08-18T12:06:13.873492+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-18T11:06:10.198946+08:00",
-        "next_run": "2026-08-18T11:16:10.198946+08:00"
+        "last_run": "2026-08-18T11:36:13.328753+08:00",
+        "next_run": "2026-08-18T11:46:13.328753+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-18T11:06:10.789039+08:00",
-        "next_run": "2026-08-18T11:21:10.789039+08:00"
+        "last_run": "2026-08-18T11:36:13.920248+08:00",
+        "next_run": "2026-08-18T11:51:13.920248+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -421,17 +421,17 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "414Gi",
-    "uptime": "8 mins"
+    "diskAvail": "415Gi",
+    "uptime": "39 mins"
   },
   "activity": [
     {
-      "time": "2026-08-18T11:06:12.307611+08:00",
+      "time": "2026-08-18T11:37:15.563755+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-18T11:06:12.307611+08:00",
+      "time": "2026-08-18T11:37:15.563755+08:00",
       "type": "info",
       "text": "⏰ Cron: 20/28 jobs healthy"
     },
