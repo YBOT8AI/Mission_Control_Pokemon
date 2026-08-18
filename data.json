@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:19:10.975340+08:00",
+  "generatedAt": "2026-08-18T09:49:16.646705+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T09:03:16.514020+08:00",
-        "next_run": "2026-08-18T09:33:16.514020+08:00"
+        "last_run": "2026-08-18T09:34:27.852167+08:00",
+        "next_run": "2026-08-18T10:04:27.852167+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T08:49:08.378691+08:00",
-        "next_run": "2026-08-18T09:49:08.648095+08:00"
+        "last_run": "2026-08-18T09:19:13.287411+08:00",
+        "next_run": "2026-08-18T10:19:13.355196+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T09:17:09.019629+08:00",
-        "next_run": "2026-08-18T09:47:09.019629+08:00"
+        "last_run": "2026-08-18T09:47:14.197467+08:00",
+        "next_run": "2026-08-18T10:17:14.197467+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-18T09:13:07.994969+08:00",
-        "next_run": "2026-08-18T09:23:07.994969+08:00"
+        "last_run": "2026-08-18T09:43:12.598243+08:00",
+        "next_run": "2026-08-18T09:53:12.598243+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,17 +315,17 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-18T09:08:07.489163+08:00",
-        "next_run": "2026-08-18T09:23:07.489163+08:00"
+        "last_run": "2026-08-18T09:38:12.086433+08:00",
+        "next_run": "2026-08-18T09:53:12.086433+08:00"
       },
       {
         "id": "402c0e3975a1",
         "enabled": true,
         "name": "Noelle Daily Blocker Nag",
         "schedule": "30 9 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-17T09:38:53.301089+08:00",
-        "next_run": "2026-08-18T09:30:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-18T09:31:08.541114+08:00",
+        "next_run": "2026-08-19T09:30:00+08:00"
       },
       {
         "id": "b67aca50ef83",
@@ -401,7 +401,7 @@
       }
     ],
     "total": 28,
-    "healthy": 19
+    "healthy": 20
   },
   "agents": {
     "hermes": {
@@ -426,14 +426,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-18T09:19:10.974929+08:00",
+      "time": "2026-08-18T09:49:16.646099+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-18T09:19:10.974929+08:00",
+      "time": "2026-08-18T09:49:16.646099+08:00",
       "type": "info",
-      "text": "⏰ Cron: 19/28 jobs healthy"
+      "text": "⏰ Cron: 20/28 jobs healthy"
     },
     {
       "time": "2026-08-17T14:02:15+08:00",
@@ -469,7 +469,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 28,
-    "healthyCronJobs": 19,
+    "healthyCronJobs": 20,
     "avgProgress": 66
   }
 }
