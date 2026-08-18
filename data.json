@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:40:27.269797+08:00",
+  "generatedAt": "2026-08-18T14:11:30.764818+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "bc7486e",
-          "message": "docs: record ESLint toolchain fix (Task 26) + CI workflow PAT-scope blocker",
+          "sha": "b47be24",
+          "message": "docs: add Home Repairs HK market pricing validation (2026-08) — pricing within m",
           "author": "evilmoni",
-          "time": "2026-08-17T02:48:00+08:00"
+          "time": "2026-08-18T14:04:06+08:00"
         },
-        "commits30d": 91,
-        "totalCommits": 111,
+        "commits30d": 92,
+        "totalCommits": 112,
         "branch": "main",
         "uncommittedChanges": 1
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T13:10:31.779541+08:00",
-        "next_run": "2026-08-18T13:40:31.779541+08:00"
+        "last_run": "2026-08-18T13:41:35.672896+08:00",
+        "next_run": "2026-08-18T14:11:35.672896+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T13:09:25.838973+08:00",
-        "next_run": "2026-08-18T14:10:25.120931+08:00"
+        "last_run": "2026-08-18T13:40:29.399998+08:00",
+        "next_run": "2026-08-18T14:41:28.756451+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-18T13:36:25.455018+08:00",
-        "next_run": "2026-08-18T14:06:25.455018+08:00"
+        "last_run": "2026-08-18T14:06:28.598307+08:00",
+        "next_run": "2026-08-18T14:36:28.598307+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-18T13:37:25.004901+08:00",
-        "next_run": "2026-08-18T13:47:25.004901+08:00"
+        "last_run": "2026-08-18T14:07:28.245507+08:00",
+        "next_run": "2026-08-18T14:17:28.245507+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -297,8 +297,8 @@
         "name": "TechWealth Daily Autonomous Workflow",
         "schedule": "0 14 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-17T14:02:29.521212+08:00",
-        "next_run": "2026-08-18T14:00:00+08:00"
+        "last_run": "2026-08-18T14:04:38.339419+08:00",
+        "next_run": "2026-08-19T14:00:00+08:00"
       },
       {
         "id": "e7c5bf794690",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-18T13:38:25.329705+08:00",
-        "next_run": "2026-08-18T13:53:25.329705+08:00"
+        "last_run": "2026-08-18T14:08:28.692202+08:00",
+        "next_run": "2026-08-18T14:23:28.692202+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -422,30 +422,30 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "415Gi",
-    "uptime": "2:42"
+    "uptime": "3:13"
   },
   "activity": [
     {
-      "time": "2026-08-18T13:40:27.269395+08:00",
+      "time": "2026-08-18T14:11:30.764503+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-18T13:40:27.269395+08:00",
+      "time": "2026-08-18T14:11:30.764503+08:00",
       "type": "info",
       "text": "⏰ Cron: 20/28 jobs healthy"
+    },
+    {
+      "time": "2026-08-18T14:04:06+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: docs: add Home Repairs HK market pricing validation (2026-08) — pricing within m",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-17T14:02:15+08:00",
       "type": "success",
       "text": "💼 TechWealth: docs: add UBS Global Wealth Report 2026 data — HK 4th in avg wealth, +0.3% milli",
       "project": "techwealth"
-    },
-    {
-      "time": "2026-08-17T02:48:00+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: docs: record ESLint toolchain fix (Task 26) + CI workflow PAT-scope blocker",
-      "project": "kinkin"
     },
     {
       "time": "2026-08-09T09:02:21+08:00",
