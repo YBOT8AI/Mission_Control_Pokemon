@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:53:59.114199+08:00",
+  "generatedAt": "2026-08-19T12:25:02.821519+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -16,15 +16,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "47623e9",
-          "message": "Add .hermes.md project context file",
+          "sha": "af0ad7f",
+          "message": "ci: add GitHub Actions workflow (lint + build on push/PR)",
           "author": "ybot",
-          "time": "2026-07-16T11:37:36+08:00"
+          "time": "2026-08-19T12:02:01+08:00"
         },
-        "commits30d": 0,
-        "totalCommits": 7,
+        "commits30d": 1,
+        "totalCommits": 8,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       },
       "phase": "1 - Fine Arts"
     },
@@ -40,15 +40,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "b47be24",
-          "message": "docs: add Home Repairs HK market pricing validation (2026-08) — pricing within m",
+          "sha": "07ebdc1",
+          "message": "ci: add GitHub Actions workflow (lint + build on push/PR)",
           "author": "evilmoni",
-          "time": "2026-08-18T14:04:06+08:00"
+          "time": "2026-08-19T12:02:01+08:00"
         },
-        "commits30d": 90,
-        "totalCommits": 112,
+        "commits30d": 91,
+        "totalCommits": 113,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       },
       "url": "kinkin.vercel.app"
     },
@@ -64,15 +64,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "21b3aad",
-          "message": "docs: add UBS Global Wealth Report 2026 data — HK 4th in avg wealth, +0.3% milli",
+          "sha": "b43ef47",
+          "message": "ci: add GitHub Actions workflow (lint + build on push/PR)",
           "author": "ybot",
-          "time": "2026-08-17T14:02:15+08:00"
+          "time": "2026-08-19T12:02:01+08:00"
         },
-        "commits30d": 19,
-        "totalCommits": 109,
+        "commits30d": 20,
+        "totalCommits": 110,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       },
       "focus": "Financial Tech"
     },
@@ -88,15 +88,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "06a6992",
-          "message": "Add .hermes.md project context file",
+          "sha": "ffb40c7",
+          "message": "ci: add GitHub Actions workflow (lint + build on push/PR)",
           "author": "ybot",
-          "time": "2026-07-16T11:37:36+08:00"
+          "time": "2026-08-19T12:02:01+08:00"
         },
-        "commits30d": 0,
-        "totalCommits": 5,
+        "commits30d": 1,
+        "totalCommits": 6,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       }
     },
     "wpo": {
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T11:26:03.618882+08:00",
-        "next_run": "2026-08-19T11:56:03.618882+08:00"
+        "last_run": "2026-08-19T11:57:07.725813+08:00",
+        "next_run": "2026-08-19T12:27:07.725813+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -180,8 +180,8 @@
         "name": "Midday Wake-Up Call",
         "schedule": "0 12 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-18T12:00:17.930658+08:00",
-        "next_run": "2026-08-19T12:00:00+08:00"
+        "last_run": "2026-08-19T12:00:59.257055+08:00",
+        "next_run": "2026-08-20T12:00:00+08:00"
       },
       {
         "id": "0b2d056a7785",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T11:22:57.136063+08:00",
-        "next_run": "2026-08-19T12:23:57.043485+08:00"
+        "last_run": "2026-08-19T11:54:01.530578+08:00",
+        "next_run": "2026-08-19T12:55:00.699943+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T11:38:55.803868+08:00",
-        "next_run": "2026-08-19T12:08:55.803868+08:00"
+        "last_run": "2026-08-19T12:08:59.865238+08:00",
+        "next_run": "2026-08-19T12:38:59.865238+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-19T11:52:57.049479+08:00",
-        "next_run": "2026-08-19T12:02:57.049479+08:00"
+        "last_run": "2026-08-19T12:23:00.801539+08:00",
+        "next_run": "2026-08-19T12:33:00.801539+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -306,8 +306,8 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-19T09:02:03.757942+08:00",
-        "next_run": "2026-08-19T12:00:00+08:00"
+        "last_run": "2026-08-19T12:02:43.980924+08:00",
+        "next_run": "2026-08-19T15:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-19T11:48:57.064323+08:00",
-        "next_run": "2026-08-19T12:03:57.064323+08:00"
+        "last_run": "2026-08-19T12:19:00.904192+08:00",
+        "next_run": "2026-08-19T12:34:00.904192+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -387,8 +387,8 @@
         "name": "Dr. Demi Daily Health Check-in",
         "schedule": "0 12 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-18T12:00:26.790458+08:00",
-        "next_run": "2026-08-19T12:00:00+08:00"
+        "last_run": "2026-08-19T12:01:07.214040+08:00",
+        "next_run": "2026-08-20T12:00:00+08:00"
       },
       {
         "id": "c3c11d707717",
@@ -426,44 +426,44 @@
   },
   "activity": [
     {
-      "time": "2026-08-19T11:53:59.113837+08:00",
+      "time": "2026-08-19T12:25:02.821127+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-19T11:53:59.113837+08:00",
+      "time": "2026-08-19T12:25:02.821127+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/28 jobs healthy"
     },
     {
-      "time": "2026-08-18T14:04:06+08:00",
+      "time": "2026-08-19T12:02:01+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: docs: add Home Repairs HK market pricing validation (2026-08) — pricing within m",
+      "text": "🌌 OrbitX NFT: ci: add GitHub Actions workflow (lint + build on push/PR)",
+      "project": "orbitx"
+    },
+    {
+      "time": "2026-08-19T12:02:01+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: ci: add GitHub Actions workflow (lint + build on push/PR)",
       "project": "kinkin"
     },
     {
-      "time": "2026-08-17T14:02:15+08:00",
+      "time": "2026-08-19T12:02:01+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: add UBS Global Wealth Report 2026 data — HK 4th in avg wealth, +0.3% milli",
+      "text": "💼 TechWealth: ci: add GitHub Actions workflow (lint + build on push/PR)",
       "project": "techwealth"
+    },
+    {
+      "time": "2026-08-19T12:02:01+08:00",
+      "type": "success",
+      "text": "📊 TechWealth Tracker Pro: ci: add GitHub Actions workflow (lint + build on push/PR)",
+      "project": "techwealthTracker"
     },
     {
       "time": "2026-08-09T09:02:21+08:00",
       "type": "success",
       "text": "🐾 WPO (World Paws Org): docs: update .hermes.md — Vercel deploy, new collaborator commits from Interscop",
       "project": "wpo"
-    },
-    {
-      "time": "2026-07-16T11:37:36+08:00",
-      "type": "success",
-      "text": "🌌 OrbitX NFT: Add .hermes.md project context file",
-      "project": "orbitx"
-    },
-    {
-      "time": "2026-07-16T11:37:36+08:00",
-      "type": "success",
-      "text": "📊 TechWealth Tracker Pro: Add .hermes.md project context file",
-      "project": "techwealthTracker"
     }
   ],
   "stats": {
