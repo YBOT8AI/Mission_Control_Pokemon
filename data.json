@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T14:28:19.087897+08:00",
+  "generatedAt": "2026-08-19T14:59:22.347953+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T14:01:23.337539+08:00",
-        "next_run": "2026-08-19T14:31:23.337539+08:00"
+        "last_run": "2026-08-19T14:32:22.363378+08:00",
+        "next_run": "2026-08-19T15:02:22.363378+08:00"
       },
       {
         "id": "24c480ec6e9e",
@@ -234,8 +234,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T13:58:16.869305+08:00",
-        "next_run": "2026-08-19T14:58:16.975120+08:00"
+        "last_run": "2026-08-19T14:28:21.322997+08:00",
+        "next_run": "2026-08-19T15:29:20.336237+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -261,8 +261,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-19T14:09:15.007600+08:00",
-        "next_run": "2026-08-19T14:39:15.007600+08:00"
+        "last_run": "2026-08-19T14:39:19.347462+08:00",
+        "next_run": "2026-08-19T15:09:19.347462+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -270,8 +270,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-19T14:23:16.405248+08:00",
-        "next_run": "2026-08-19T14:33:16.405248+08:00"
+        "last_run": "2026-08-19T14:53:20.396048+08:00",
+        "next_run": "2026-08-19T15:03:20.396048+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -315,8 +315,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-19T14:19:16.048730+08:00",
-        "next_run": "2026-08-19T14:34:16.048730+08:00"
+        "last_run": "2026-08-19T14:49:20.316092+08:00",
+        "next_run": "2026-08-19T15:04:20.316092+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -426,12 +426,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-19T14:28:19.087458+08:00",
+      "time": "2026-08-19T14:59:22.347592+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-19T14:28:19.087458+08:00",
+      "time": "2026-08-19T14:59:22.347592+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/28 jobs healthy"
     },
