@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:10:13.444411+08:00",
+  "generatedAt": "2026-08-21T06:41:17.837068+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "eecd84b",
-          "message": "fix: align Organization & Decluttering pricing (page ↔ booking flow)",
+          "sha": "dbcbc0b",
+          "message": "feat: provider \"go online\" screen with nearby jobs",
           "author": "evilmoni",
-          "time": "2026-08-20T21:21:15+08:00"
+          "time": "2026-08-21T01:25:30+08:00"
         },
-        "commits30d": 97,
-        "totalCommits": 119,
+        "commits30d": 98,
+        "totalCommits": 120,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -64,13 +64,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "b9a2a19",
-          "message": "db: add migration 004 — create 7 missing tables + performance indexes",
+          "sha": "c1a7067",
+          "message": "lucky8: revenue deliberation — 2026-08-21",
           "author": "evilmoni",
-          "time": "2026-08-20T15:36:51+08:00"
+          "time": "2026-08-21T06:19:25+08:00"
         },
-        "commits30d": 36,
-        "totalCommits": 126,
+        "commits30d": 39,
+        "totalCommits": 129,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-21T04:51:01.269728+08:00",
-        "next_run": "2026-08-21T06:40:11.163253+08:00"
+        "last_run": "2026-08-21T06:10:16.201341+08:00",
+        "next_run": "2026-08-21T07:11:15.730687+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-21T04:42:55.094814+08:00",
-        "next_run": "2026-08-21T06:40:11.163253+08:00"
+        "last_run": "2026-08-21T06:10:15.672718+08:00",
+        "next_run": "2026-08-21T07:11:15.730687+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-21T06:10:12.241725+08:00",
-        "next_run": "2026-08-21T06:40:12.241725+08:00"
+        "last_run": "2026-08-21T06:40:16.244695+08:00",
+        "next_run": "2026-08-21T07:10:16.244695+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-21T06:10:11.656609+08:00",
-        "next_run": "2026-08-21T06:20:11.656609+08:00"
+        "last_run": "2026-08-21T06:40:15.736701+08:00",
+        "next_run": "2026-08-21T06:50:15.736701+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-21T06:10:11.971330+08:00",
-        "next_run": "2026-08-21T06:25:11.971330+08:00"
+        "last_run": "2026-08-21T06:40:15.937825+08:00",
+        "next_run": "2026-08-21T06:55:15.937825+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -378,7 +378,7 @@
         "name": "Lucky 8 — TechWealth Revenue Team",
         "schedule": "0 6 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-20T06:05:49.203898+08:00",
+        "last_run": "2026-08-21T06:20:19.997805+08:00",
         "next_run": "2026-08-22T06:00:00+08:00"
       },
       {
@@ -430,31 +430,31 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "414Gi",
+    "diskAvail": "413Gi",
     "uptime": "2 days"
   },
   "activity": [
     {
-      "time": "2026-08-21T06:10:13.443986+08:00",
+      "time": "2026-08-21T06:41:17.836741+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-21T06:10:13.443986+08:00",
+      "time": "2026-08-21T06:41:17.836741+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/29 jobs healthy"
     },
     {
-      "time": "2026-08-20T21:21:15+08:00",
+      "time": "2026-08-21T06:19:25+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: fix: align Organization & Decluttering pricing (page ↔ booking flow)",
-      "project": "kinkin"
+      "text": "💼 TechWealth: lucky8: revenue deliberation — 2026-08-21",
+      "project": "techwealth"
     },
     {
-      "time": "2026-08-20T15:36:51+08:00",
+      "time": "2026-08-21T01:25:30+08:00",
       "type": "success",
-      "text": "💼 TechWealth: db: add migration 004 — create 7 missing tables + performance indexes",
-      "project": "techwealth"
+      "text": "🚀 KINKIN: feat: provider \"go online\" screen with nearby jobs",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-20T12:01:34+08:00",
