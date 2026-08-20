@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:02:15.932467+08:00",
+  "generatedAt": "2026-08-20T23:33:18.313163+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T22:38:21.042223+08:00",
-        "next_run": "2026-08-20T23:08:21.042223+08:00"
+        "last_run": "2026-08-20T23:09:23.846761+08:00",
+        "next_run": "2026-08-20T23:39:23.846761+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T22:31:15.346660+08:00",
-        "next_run": "2026-08-20T23:32:13.535053+08:00"
+        "last_run": "2026-08-20T23:02:18.165905+08:00",
+        "next_run": "2026-08-21T00:03:16.040049+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T22:43:12.448439+08:00",
-        "next_run": "2026-08-20T23:13:12.448439+08:00"
+        "last_run": "2026-08-20T23:13:14.636814+08:00",
+        "next_run": "2026-08-20T23:43:14.636814+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-20T22:58:13.614751+08:00",
-        "next_run": "2026-08-20T23:08:13.614751+08:00"
+        "last_run": "2026-08-20T23:28:15.445989+08:00",
+        "next_run": "2026-08-20T23:38:15.445989+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-20T22:57:13.796440+08:00",
-        "next_run": "2026-08-20T23:12:13.796440+08:00"
+        "last_run": "2026-08-20T23:28:15.655033+08:00",
+        "next_run": "2026-08-20T23:43:15.655033+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -387,8 +387,8 @@
         "name": "Nightly Task Check-In",
         "schedule": "30 23 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-19T23:30:28.697468+08:00",
-        "next_run": "2026-08-20T23:30:00+08:00"
+        "last_run": "2026-08-20T23:30:21.226712+08:00",
+        "next_run": "2026-08-21T23:30:00+08:00"
       },
       {
         "id": "537154b2525d",
@@ -435,12 +435,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-20T23:02:15.932091+08:00",
+      "time": "2026-08-20T23:33:18.312794+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-20T23:02:15.932091+08:00",
+      "time": "2026-08-20T23:33:18.312794+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/29 jobs healthy"
     },
