@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:16:18.192809+08:00",
+  "generatedAt": "2026-08-20T15:47:22.526251+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,13 +64,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "60dffdb",
-          "message": "docs: add Phase 0 — member acquisition precedes deal flow",
+          "sha": "b9a2a19",
+          "message": "db: add migration 004 — create 7 missing tables + performance indexes",
           "author": "evilmoni",
-          "time": "2026-08-20T14:42:00+08:00"
+          "time": "2026-08-20T15:36:51+08:00"
         },
-        "commits30d": 35,
-        "totalCommits": 125,
+        "commits30d": 36,
+        "totalCommits": 126,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T14:52:23.543886+08:00",
-        "next_run": "2026-08-20T15:22:23.543886+08:00"
+        "last_run": "2026-08-20T15:23:27.627506+08:00",
+        "next_run": "2026-08-20T15:53:27.627506+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T14:45:17.586706+08:00",
-        "next_run": "2026-08-20T15:46:16.163799+08:00"
+        "last_run": "2026-08-20T15:16:20.541575+08:00",
+        "next_run": "2026-08-20T16:17:20.262258+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T15:12:16.252134+08:00",
-        "next_run": "2026-08-20T15:42:16.252134+08:00"
+        "last_run": "2026-08-20T15:42:20.736048+08:00",
+        "next_run": "2026-08-20T16:12:20.736048+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-20T15:07:14.854552+08:00",
-        "next_run": "2026-08-20T15:17:14.854552+08:00"
+        "last_run": "2026-08-20T15:47:20.569396+08:00",
+        "next_run": "2026-08-20T15:57:20.569396+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-20T15:11:15.717018+08:00",
-        "next_run": "2026-08-20T15:26:15.717018+08:00"
+        "last_run": "2026-08-20T15:41:20.230706+08:00",
+        "next_run": "2026-08-20T15:56:20.230706+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -417,19 +417,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-20T15:16:18.192405+08:00",
+      "time": "2026-08-20T15:47:22.525911+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-20T15:16:18.192405+08:00",
+      "time": "2026-08-20T15:47:22.525911+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/27 jobs healthy"
     },
     {
-      "time": "2026-08-20T14:42:00+08:00",
+      "time": "2026-08-20T15:36:51+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: add Phase 0 — member acquisition precedes deal flow",
+      "text": "💼 TechWealth: db: add migration 004 — create 7 missing tables + performance indexes",
       "project": "techwealth"
     },
     {
