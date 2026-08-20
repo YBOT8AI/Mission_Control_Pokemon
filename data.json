@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:51:38.551788+08:00",
+  "generatedAt": "2026-08-20T18:22:42.330380+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "df16d04",
-          "message": "fix: module-scope Supabase clients broke the build",
+          "sha": "ceb2ff9",
+          "message": "feat: full cost model for Home Repairs; guide for unlocking services",
           "author": "evilmoni",
-          "time": "2026-08-20T14:40:22+08:00"
+          "time": "2026-08-20T15:05:55+08:00"
         },
-        "commits30d": 94,
-        "totalCommits": 116,
+        "commits30d": 95,
+        "totalCommits": 117,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T17:27:44.462786+08:00",
-        "next_run": "2026-08-20T17:57:44.462786+08:00"
+        "last_run": "2026-08-20T17:58:47.756695+08:00",
+        "next_run": "2026-08-20T18:28:47.756695+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T17:20:37.309163+08:00",
-        "next_run": "2026-08-20T18:21:36.403262+08:00"
+        "last_run": "2026-08-20T17:51:41.005636+08:00",
+        "next_run": "2026-08-20T18:52:40.117115+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T17:42:36.529111+08:00",
-        "next_run": "2026-08-20T18:12:36.529111+08:00"
+        "last_run": "2026-08-20T18:12:39.830002+08:00",
+        "next_run": "2026-08-20T18:42:39.830002+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-20T17:47:36.060583+08:00",
-        "next_run": "2026-08-20T17:57:36.060583+08:00"
+        "last_run": "2026-08-20T18:17:39.866773+08:00",
+        "next_run": "2026-08-20T18:27:39.866773+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -279,8 +279,8 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-20T15:03:53.924152+08:00",
-        "next_run": "2026-08-20T18:00:00+08:00"
+        "last_run": "2026-08-20T18:01:54.653963+08:00",
+        "next_run": "2026-08-21T09:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-20T17:41:36.122016+08:00",
-        "next_run": "2026-08-20T17:56:36.122016+08:00"
+        "last_run": "2026-08-20T18:11:39.298852+08:00",
+        "next_run": "2026-08-20T18:26:39.298852+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -398,9 +398,18 @@
         "last_status": "unknown",
         "last_run": null,
         "next_run": "2026-08-23T19:00:00+08:00"
+      },
+      {
+        "id": "df37c9f1b614",
+        "enabled": true,
+        "name": "Hermes Full Backup (state.db + .env)",
+        "schedule": "30 3 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-23T03:30:00+08:00"
       }
     ],
-    "total": 28,
+    "total": 29,
     "healthy": 21
   },
   "agents": {
@@ -426,14 +435,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-20T17:51:38.551429+08:00",
+      "time": "2026-08-20T18:22:42.330015+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-20T17:51:38.551429+08:00",
+      "time": "2026-08-20T18:22:42.330015+08:00",
       "type": "info",
-      "text": "⏰ Cron: 21/28 jobs healthy"
+      "text": "⏰ Cron: 21/29 jobs healthy"
     },
     {
       "time": "2026-08-20T15:36:51+08:00",
@@ -442,9 +451,9 @@
       "project": "techwealth"
     },
     {
-      "time": "2026-08-20T14:40:22+08:00",
+      "time": "2026-08-20T15:05:55+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: fix: module-scope Supabase clients broke the build",
+      "text": "🚀 KINKIN: feat: full cost model for Home Repairs; guide for unlocking services",
       "project": "kinkin"
     },
     {
@@ -468,7 +477,7 @@
   ],
   "stats": {
     "totalProjects": 6,
-    "totalCronJobs": 28,
+    "totalCronJobs": 29,
     "healthyCronJobs": 21,
     "avgProgress": 67
   }
