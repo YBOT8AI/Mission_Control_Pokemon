@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:34:36.563217+08:00",
+  "generatedAt": "2026-08-20T10:05:40.796283+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -48,7 +48,7 @@
         "commits30d": 90,
         "totalCommits": 112,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 1
       },
       "url": "kinkin.vercel.app"
     },
@@ -87,16 +87,11 @@
       "priority": "high",
       "classification": "CONFIDENTIAL",
       "git": {
-        "lastCommit": {
-          "sha": "ffb40c7",
-          "message": "ci: add GitHub Actions workflow (lint + build on push/PR)",
-          "author": "ybot",
-          "time": "2026-08-19T12:02:01+08:00"
-        },
-        "commits30d": 1,
-        "totalCommits": 6,
+        "lastCommit": {},
+        "commits30d": 0,
+        "totalCommits": 0,
         "branch": "main",
-        "uncommittedChanges": 1
+        "uncommittedChanges": 0
       }
     },
     "wpo": {
@@ -162,8 +157,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T09:10:41.042971+08:00",
-        "next_run": "2026-08-20T09:40:41.042971+08:00"
+        "last_run": "2026-08-20T09:41:45.167056+08:00",
+        "next_run": "2026-08-20T10:11:45.167056+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +202,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T09:04:33.632116+08:00",
-        "next_run": "2026-08-20T10:04:34.210215+08:00"
+        "last_run": "2026-08-20T09:34:38.815325+08:00",
+        "next_run": "2026-08-20T10:35:38.606223+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +229,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T09:11:31.544767+08:00",
-        "next_run": "2026-08-20T09:41:31.544767+08:00"
+        "last_run": "2026-08-20T09:41:36.087656+08:00",
+        "next_run": "2026-08-20T10:11:36.087656+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +238,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-20T09:26:33.125755+08:00",
-        "next_run": "2026-08-20T09:36:33.125755+08:00"
+        "last_run": "2026-08-20T09:56:37.477907+08:00",
+        "next_run": "2026-08-20T10:06:37.477907+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +283,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-20T09:25:33.843787+08:00",
-        "next_run": "2026-08-20T09:40:33.843787+08:00"
+        "last_run": "2026-08-20T09:55:38.021529+08:00",
+        "next_run": "2026-08-20T10:10:38.021529+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -417,12 +412,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-20T09:34:36.562823+08:00",
+      "time": "2026-08-20T10:05:40.795930+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-20T09:34:36.562823+08:00",
+      "time": "2026-08-20T10:05:40.795930+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/27 jobs healthy"
     },
@@ -437,12 +432,6 @@
       "type": "success",
       "text": "🌌 OrbitX NFT: ci: add GitHub Actions workflow (lint + build on push/PR)",
       "project": "orbitx"
-    },
-    {
-      "time": "2026-08-19T12:02:01+08:00",
-      "type": "success",
-      "text": "📊 TechWealth Tracker Pro: ci: add GitHub Actions workflow (lint + build on push/PR)",
-      "project": "techwealthTracker"
     },
     {
       "time": "2026-08-18T14:04:06+08:00",
