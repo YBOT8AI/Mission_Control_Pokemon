@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:14:11.753776+08:00",
+  "generatedAt": "2026-08-20T14:45:15.155481+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,13 +64,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "3f2520c",
-          "message": "docs: mark premium tiers done (lucky8), reframe launch blocker as Vercel deploy ",
+          "sha": "7a4db04",
+          "message": "refactor: remove Firebase, consolidate auth on Supabase",
           "author": "ybot",
-          "time": "2026-08-20T14:02:04+08:00"
+          "time": "2026-08-20T14:33:02+08:00"
         },
-        "commits30d": 33,
-        "totalCommits": 123,
+        "commits30d": 34,
+        "totalCommits": 124,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -157,8 +157,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T13:50:16.535169+08:00",
-        "next_run": "2026-08-20T14:20:16.535169+08:00"
+        "last_run": "2026-08-20T14:21:20.175608+08:00",
+        "next_run": "2026-08-20T14:51:20.175608+08:00"
       },
       {
         "id": "539a150ac028",
@@ -202,8 +202,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T13:43:09.801481+08:00",
-        "next_run": "2026-08-20T14:44:09.758758+08:00"
+        "last_run": "2026-08-20T14:14:13.877538+08:00",
+        "next_run": "2026-08-20T15:15:12.893663+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -229,8 +229,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-20T14:12:10.180703+08:00",
-        "next_run": "2026-08-20T14:42:10.180703+08:00"
+        "last_run": "2026-08-20T14:42:13.128053+08:00",
+        "next_run": "2026-08-20T15:12:13.128053+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -238,8 +238,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-20T14:07:08.833182+08:00",
-        "next_run": "2026-08-20T14:17:08.833182+08:00"
+        "last_run": "2026-08-20T14:37:11.870859+08:00",
+        "next_run": "2026-08-20T14:47:11.870859+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -283,8 +283,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-20T14:11:09.646775+08:00",
-        "next_run": "2026-08-20T14:26:09.646775+08:00"
+        "last_run": "2026-08-20T14:41:12.620863+08:00",
+        "next_run": "2026-08-20T14:56:12.620863+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -412,19 +412,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-20T14:14:11.753368+08:00",
+      "time": "2026-08-20T14:45:15.155084+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-20T14:14:11.753368+08:00",
+      "time": "2026-08-20T14:45:15.155084+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/27 jobs healthy"
     },
     {
-      "time": "2026-08-20T14:02:04+08:00",
+      "time": "2026-08-20T14:33:02+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: mark premium tiers done (lucky8), reframe launch blocker as Vercel deploy ",
+      "text": "💼 TechWealth: refactor: remove Firebase, consolidate auth on Supabase",
       "project": "techwealth"
     },
     {
