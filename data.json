@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T06:44:34.982221+08:00",
+  "generatedAt": "2026-08-22T07:14:51.192215+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,15 +64,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "234a652",
-          "message": "feat: give each page its own identity in search, and add robots + sitemap",
+          "sha": "8163756",
+          "message": "security: rate-limit the endpoints where guessing pays",
           "author": "evilmoni",
-          "time": "2026-08-21T10:21:24+08:00"
+          "time": "2026-08-21T21:54:48+08:00"
         },
-        "commits30d": 40,
-        "totalCommits": 130,
+        "commits30d": 42,
+        "totalCommits": 132,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 2
       },
       "focus": "Financial Tech"
     },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T04:13:36.738472+08:00",
-        "next_run": "2026-08-22T07:14:32.274522+08:00"
+        "last_run": "2026-08-22T07:01:07.527408+08:00",
+        "next_run": "2026-08-22T07:31:07.527408+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T04:13:35.763545+08:00",
-        "next_run": "2026-08-22T07:14:32.274522+08:00"
+        "last_run": "2026-08-22T06:44:37.294562+08:00",
+        "next_run": "2026-08-22T07:44:49.034011+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T06:44:33.516839+08:00",
-        "next_run": "2026-08-22T07:14:33.516839+08:00"
+        "last_run": "2026-08-22T07:14:49.851927+08:00",
+        "next_run": "2026-08-22T07:44:49.851927+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-22T06:44:32.814627+08:00",
-        "next_run": "2026-08-22T06:54:32.814627+08:00"
+        "last_run": "2026-08-22T07:11:49.112553+08:00",
+        "next_run": "2026-08-22T07:21:49.112553+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-22T06:44:33.810330+08:00",
-        "next_run": "2026-08-22T06:59:33.810330+08:00"
+        "last_run": "2026-08-22T07:01:49.017700+08:00",
+        "next_run": "2026-08-22T07:16:49.017700+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -369,8 +369,8 @@
         "name": "Self-Improving News Brief Loop",
         "schedule": "0 7 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-21T09:01:29.824892+08:00",
-        "next_run": "2026-08-22T07:00:00+08:00"
+        "last_run": "2026-08-22T07:02:29.535193+08:00",
+        "next_run": "2026-08-23T07:00:00+08:00"
       },
       {
         "id": "8c77d49e7801",
@@ -435,19 +435,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-22T06:44:34.981893+08:00",
+      "time": "2026-08-22T07:14:51.191803+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-22T06:44:34.981893+08:00",
+      "time": "2026-08-22T07:14:51.191803+08:00",
       "type": "info",
       "text": "⏰ Cron: 20/29 jobs healthy"
     },
     {
-      "time": "2026-08-21T10:21:24+08:00",
+      "time": "2026-08-21T21:54:48+08:00",
       "type": "success",
-      "text": "💼 TechWealth: feat: give each page its own identity in search, and add robots + sitemap",
+      "text": "💼 TechWealth: security: rate-limit the endpoints where guessing pays",
       "project": "techwealth"
     },
     {
