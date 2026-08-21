@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:14:51.192215+08:00",
+  "generatedAt": "2026-08-22T07:59:39.107754+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -64,15 +64,15 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "8163756",
-          "message": "security: rate-limit the endpoints where guessing pays",
+          "sha": "f46224e",
+          "message": "lucky8: i18n keys for payment-success state (fix build baseline)",
           "author": "evilmoni",
-          "time": "2026-08-21T21:54:48+08:00"
+          "time": "2026-08-22T07:17:38+08:00"
         },
-        "commits30d": 42,
-        "totalCommits": 132,
+        "commits30d": 44,
+        "totalCommits": 134,
         "branch": "main",
-        "uncommittedChanges": 2
+        "uncommittedChanges": 0
       },
       "focus": "Financial Tech"
     },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T07:01:07.527408+08:00",
-        "next_run": "2026-08-22T07:31:07.527408+08:00"
+        "last_run": "2026-08-22T07:36:24.278916+08:00",
+        "next_run": "2026-08-22T08:06:24.278916+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T06:44:37.294562+08:00",
-        "next_run": "2026-08-22T07:44:49.034011+08:00"
+        "last_run": "2026-08-22T07:14:53.382824+08:00",
+        "next_run": "2026-08-22T08:29:36.865901+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T07:14:49.851927+08:00",
-        "next_run": "2026-08-22T07:44:49.851927+08:00"
+        "last_run": "2026-08-22T07:59:37.776930+08:00",
+        "next_run": "2026-08-22T08:29:37.776930+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-22T07:11:49.112553+08:00",
-        "next_run": "2026-08-22T07:21:49.112553+08:00"
+        "last_run": "2026-08-22T07:59:37.293296+08:00",
+        "next_run": "2026-08-22T08:09:37.293296+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-22T07:01:49.017700+08:00",
-        "next_run": "2026-08-22T07:16:49.017700+08:00"
+        "last_run": "2026-08-22T07:59:37.517574+08:00",
+        "next_run": "2026-08-22T08:14:37.517574+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -378,7 +378,7 @@
         "name": "Lucky 8 — TechWealth Revenue Team",
         "schedule": "0 6 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-21T06:20:19.997805+08:00",
+        "last_run": "2026-08-22T07:17:47.382622+08:00",
         "next_run": "2026-08-24T06:00:00+08:00"
       },
       {
@@ -435,19 +435,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-22T07:14:51.191803+08:00",
+      "time": "2026-08-22T07:59:39.107343+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-22T07:14:51.191803+08:00",
+      "time": "2026-08-22T07:59:39.107343+08:00",
       "type": "info",
       "text": "⏰ Cron: 20/29 jobs healthy"
     },
     {
-      "time": "2026-08-21T21:54:48+08:00",
+      "time": "2026-08-22T07:17:38+08:00",
       "type": "success",
-      "text": "💼 TechWealth: security: rate-limit the endpoints where guessing pays",
+      "text": "💼 TechWealth: lucky8: i18n keys for payment-success state (fix build baseline)",
       "project": "techwealth"
     },
     {
