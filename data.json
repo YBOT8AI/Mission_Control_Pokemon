@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:13:54.613715+08:00",
+  "generatedAt": "2026-08-22T02:14:41.006856+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-21T17:21:49.381748+08:00",
-        "next_run": "2026-08-21T20:43:49.208896+08:00"
+        "last_run": "2026-08-21T20:13:58.389127+08:00",
+        "next_run": "2026-08-22T00:44:41.875031+08:00"
       },
       {
         "id": "539a150ac028",
@@ -199,7 +199,7 @@
         "schedule": "every 360m",
         "last_status": "ok",
         "last_run": "2026-08-21T15:25:34.943391+08:00",
-        "next_run": "2026-08-21T21:25:34.943391+08:00"
+        "next_run": "2026-08-22T06:14:41.875031+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-21T17:21:40.922595+08:00",
-        "next_run": "2026-08-21T20:43:49.208896+08:00"
+        "last_run": "2026-08-21T20:13:57.551443+08:00",
+        "next_run": "2026-08-22T00:44:41.875031+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -226,7 +226,7 @@
         "schedule": "0 21 * * 1-6",
         "last_status": "ok",
         "last_run": "2026-08-20T21:02:32.916783+08:00",
-        "next_run": "2026-08-21T21:00:00+08:00"
+        "next_run": "2026-08-22T21:00:00+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-21T20:13:53.317977+08:00",
-        "next_run": "2026-08-21T20:43:53.317977+08:00"
+        "last_run": "2026-08-22T02:14:39.512130+08:00",
+        "next_run": "2026-08-22T02:44:39.512130+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-21T20:13:52.366075+08:00",
-        "next_run": "2026-08-21T20:23:52.366075+08:00"
+        "last_run": "2026-08-22T02:14:38.055294+08:00",
+        "next_run": "2026-08-22T02:24:38.055294+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -278,8 +278,8 @@
         "enabled": true,
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
-        "last_status": "ok",
-        "last_run": "2026-08-21T15:16:41.946087+08:00",
+        "last_status": "error",
+        "last_run": "2026-08-21T22:14:21.187565+08:00",
         "next_run": "2026-08-22T09:00:00+08:00"
       },
       {
@@ -289,7 +289,7 @@
         "schedule": "every 15m",
         "last_status": "ok",
         "last_run": "2026-08-21T20:13:53.174729+08:00",
-        "next_run": "2026-08-21T20:28:53.174729+08:00"
+        "next_run": "2026-08-22T00:29:41.875031+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -350,8 +350,8 @@
         "enabled": true,
         "name": "Hair Treatment Reminder",
         "schedule": "0 19 * * 2,5",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-08-21T20:13:56.818436+08:00",
         "next_run": "2026-08-25T19:00:00+08:00"
       },
       {
@@ -388,7 +388,7 @@
         "schedule": "30 23 * * *",
         "last_status": "ok",
         "last_run": "2026-08-20T23:30:21.226712+08:00",
-        "next_run": "2026-08-21T23:30:00+08:00"
+        "next_run": "2026-08-22T23:30:00+08:00"
       },
       {
         "id": "537154b2525d",
@@ -435,12 +435,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-21T20:13:54.613346+08:00",
+      "time": "2026-08-22T02:14:41.006456+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-21T20:13:54.613346+08:00",
+      "time": "2026-08-22T02:14:41.006456+08:00",
       "type": "info",
       "text": "⏰ Cron: 21/29 jobs healthy"
     },
