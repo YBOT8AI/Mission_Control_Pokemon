@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T08:58:32.707972+08:00",
+  "generatedAt": "2026-08-22T09:29:37.436317+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -111,13 +111,13 @@
       "classification": "INTERNAL",
       "git": {
         "lastCommit": {
-          "sha": "03afb9a",
-          "message": "docs: add institutional business plan",
+          "sha": "f6c435f",
+          "message": "docs: refresh .hermes.md — donations closed, token frozen, claims corrected",
           "author": "ybot",
-          "time": "2026-08-20T12:01:34+08:00"
+          "time": "2026-08-22T09:01:21+08:00"
         },
-        "commits30d": 11,
-        "totalCommits": 37,
+        "commits30d": 14,
+        "totalCommits": 40,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T08:06:43.155276+08:00",
-        "next_run": "2026-08-22T09:28:29.207023+08:00"
+        "last_run": "2026-08-22T08:58:41.713197+08:00",
+        "next_run": "2026-08-22T09:59:35.174184+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T07:59:41.318074+08:00",
-        "next_run": "2026-08-22T09:28:29.207023+08:00"
+        "last_run": "2026-08-22T08:58:35.091800+08:00",
+        "next_run": "2026-08-22T09:59:35.174184+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T08:58:31.081085+08:00",
-        "next_run": "2026-08-22T09:28:31.081085+08:00"
+        "last_run": "2026-08-22T09:28:35.677975+08:00",
+        "next_run": "2026-08-22T09:58:35.677975+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-22T08:58:30.595246+08:00",
-        "next_run": "2026-08-22T09:08:30.595246+08:00"
+        "last_run": "2026-08-22T09:28:35.182130+08:00",
+        "next_run": "2026-08-22T09:38:35.182130+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -278,9 +278,9 @@
         "enabled": true,
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-21T22:14:21.187565+08:00",
-        "next_run": "2026-08-22T09:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-22T09:01:59.052014+08:00",
+        "next_run": "2026-08-22T12:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-22T08:58:30.785648+08:00",
-        "next_run": "2026-08-22T09:13:30.785648+08:00"
+        "last_run": "2026-08-22T09:28:35.727426+08:00",
+        "next_run": "2026-08-22T09:43:35.727426+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -410,7 +410,7 @@
       }
     ],
     "total": 29,
-    "healthy": 20
+    "healthy": 21
   },
   "agents": {
     "hermes": {
@@ -435,14 +435,20 @@
   },
   "activity": [
     {
-      "time": "2026-08-22T08:58:32.707605+08:00",
+      "time": "2026-08-22T09:29:37.435859+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-22T08:58:32.707605+08:00",
+      "time": "2026-08-22T09:29:37.435859+08:00",
       "type": "info",
-      "text": "⏰ Cron: 20/29 jobs healthy"
+      "text": "⏰ Cron: 21/29 jobs healthy"
+    },
+    {
+      "time": "2026-08-22T09:01:21+08:00",
+      "type": "success",
+      "text": "🐾 WPO (World Paws Org): docs: refresh .hermes.md — donations closed, token frozen, claims corrected",
+      "project": "wpo"
     },
     {
       "time": "2026-08-22T07:17:38+08:00",
@@ -463,12 +469,6 @@
       "project": "orbitx"
     },
     {
-      "time": "2026-08-20T12:01:34+08:00",
-      "type": "success",
-      "text": "🐾 WPO (World Paws Org): docs: add institutional business plan",
-      "project": "wpo"
-    },
-    {
       "time": "2026-08-19T12:02:01+08:00",
       "type": "success",
       "text": "📊 TechWealth Tracker Pro: ci: add GitHub Actions workflow (lint + build on push/PR)",
@@ -478,7 +478,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 29,
-    "healthyCronJobs": 20,
+    "healthyCronJobs": 21,
     "avgProgress": 67
   }
 }
