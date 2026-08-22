@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T16:41:27.653120+08:00",
+  "generatedAt": "2026-08-22T17:12:29.959466+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -40,13 +40,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "69083fd",
-          "message": "feat: complete the Home Repairs catalogue — 9 jobs to 30",
+          "sha": "69afb0b",
+          "message": "docs: record QuickBook booking wiring (Task 29) in queue + README",
           "author": "evilmoni",
-          "time": "2026-08-21T09:05:13+08:00"
+          "time": "2026-08-22T16:47:25+08:00"
         },
-        "commits30d": 99,
-        "totalCommits": 121,
+        "commits30d": 101,
+        "totalCommits": 123,
         "branch": "main",
         "uncommittedChanges": 0
       },
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T16:13:31.450616+08:00",
-        "next_run": "2026-08-22T16:43:31.450616+08:00"
+        "last_run": "2026-08-22T16:44:35.961410+08:00",
+        "next_run": "2026-08-22T17:14:35.961410+08:00"
       },
       {
         "id": "539a150ac028",
@@ -198,8 +198,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-22T10:38:04.510722+08:00",
-        "next_run": "2026-08-22T22:38:25.038951+08:00"
+        "last_run": "2026-08-22T16:48:06.771605+08:00",
+        "next_run": "2026-08-22T22:48:06.771605+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T16:11:25.244061+08:00",
-        "next_run": "2026-08-22T17:11:25.573777+08:00"
+        "last_run": "2026-08-22T16:41:29.740070+08:00",
+        "next_run": "2026-08-22T17:42:27.769449+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-22T16:29:24.404860+08:00",
-        "next_run": "2026-08-22T16:59:24.404860+08:00"
+        "last_run": "2026-08-22T16:59:28.192212+08:00",
+        "next_run": "2026-08-22T17:29:28.192212+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-22T16:40:25.552324+08:00",
-        "next_run": "2026-08-22T16:50:25.552324+08:00"
+        "last_run": "2026-08-22T17:11:27.882062+08:00",
+        "next_run": "2026-08-22T17:21:27.882062+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-22T16:31:24.773055+08:00",
-        "next_run": "2026-08-22T16:46:24.773055+08:00"
+        "last_run": "2026-08-22T17:01:27.923910+08:00",
+        "next_run": "2026-08-22T17:16:27.923910+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -435,14 +435,20 @@
   },
   "activity": [
     {
-      "time": "2026-08-22T16:41:27.652738+08:00",
+      "time": "2026-08-22T17:12:29.959051+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-22T16:41:27.652738+08:00",
+      "time": "2026-08-22T17:12:29.959051+08:00",
       "type": "info",
       "text": "⏰ Cron: 22/29 jobs healthy"
+    },
+    {
+      "time": "2026-08-22T16:47:25+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: docs: record QuickBook booking wiring (Task 29) in queue + README",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-22T09:01:21+08:00",
@@ -455,12 +461,6 @@
       "type": "success",
       "text": "💼 TechWealth: lucky8: i18n keys for payment-success state (fix build baseline)",
       "project": "techwealth"
-    },
-    {
-      "time": "2026-08-21T09:05:13+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: feat: complete the Home Repairs catalogue — 9 jobs to 30",
-      "project": "kinkin"
     },
     {
       "time": "2026-08-20T12:01:34+08:00",
