@@ -200,7 +200,71 @@ def get_git_stats(local_path):
     if ok and out:
         stats["uncommittedChanges"] = int(out.strip())
 
+    # Push/pull sync state
+    out, ok = run(f"cd {local_path} && git rev-list --count '@{{upstream}}..HEAD' 2>/dev/null", timeout=5)
+    if ok and out and out.strip().isdigit():
+        stats["ahead"] = int(out.strip())
+    out, ok = run(f"cd {local_path} && git rev-list --count 'HEAD..@{{upstream}}' 2>/dev/null", timeout=5)
+    if ok and out and out.strip().isdigit():
+        stats["behind"] = int(out.strip())
+
     return stats
+
+
+def get_test_status(local_path):
+    """Detect test framework + count test files for a repo. Returns None if no git dir."""
+    if not local_path or not os.path.isdir(local_path):
+        return None
+
+    t = {"framework": None, "testFileCount": 0, "hasTestScript": False, "hasTests": False}
+
+    # 1. Detect framework from package.json
+    pkg_path = os.path.join(local_path, "package.json")
+    if os.path.isfile(pkg_path):
+        try:
+            with open(pkg_path) as f:
+                pkg = json.load(f)
+            scripts = pkg.get("scripts", {})
+            test_script = scripts.get("test", "")
+            if test_script:
+                t["hasTestScript"] = True
+                ts = test_script.lower()
+                if "jest" in ts:
+                    t["framework"] = "jest"
+                elif "vitest" in ts:
+                    t["framework"] = "vitest"
+                elif "mocha" in ts:
+                    t["framework"] = "mocha"
+                elif "hardhat test" in ts:
+                    t["framework"] = "hardhat"
+                elif "playwright" in ts:
+                    t["framework"] = "playwright"
+                elif "pytest" in ts:
+                    t["framework"] = "pytest"
+                else:
+                    t["framework"] = "custom"
+        except Exception:
+            pass
+
+    # 2. Count test files (excluding node_modules/.git)
+    try:
+        count = 0
+        for root, dirs, files in os.walk(local_path):
+            dirs[:] = [d for d in dirs if d not in ("node_modules", ".git", ".next", "dist", "build", "venv", ".venv", "__pycache__")]
+            # limit depth to avoid huge walks
+            depth = root[len(local_path):].count(os.sep)
+            if depth > 4:
+                dirs[:] = []
+                continue
+            for f in files:
+                if f.endswith((".test.js", ".test.ts", ".test.tsx", ".test.jsx", ".spec.js", ".spec.ts", ".spec.tsx", ".spec.jsx", "test_*.py")) or f.startswith("test_") and f.endswith(".py"):
+                    count += 1
+        t["testFileCount"] = count
+    except Exception:
+        pass
+
+    t["hasTests"] = t["testFileCount"] > 0
+    return t
 
 
 def get_hermes_agent_status():
@@ -741,9 +805,10 @@ def main():
     cron_data = get_cron_statuses()
     print(f"     → {cron_data.get('total', 0)} jobs, {cron_data.get('healthy', 0)} healthy")
 
-    # 2. Git stats for each project
+    # 2. Git stats + test status for each project
     print("  📦 Fetching git stats...")
     git_stats = {}
+    test_stats = {}
     for key, proj in PROJECTS.items():
         path = proj.get("local_path")
         if path and os.path.isdir(path):
@@ -754,6 +819,10 @@ def main():
                 print(f"     → {proj['name']}: {stats.get('totalCommits', 0)} commits, last: {lc.get('time', 'N/A')}")
             else:
                 print(f"     → {proj['name']}: no git data")
+            tst = get_test_status(path)
+            if tst:
+                test_stats[key] = tst
+                print(f"        tests: {tst.get('framework') or 'none'} · {tst.get('testFileCount', 0)} files")
         else:
             print(f"     → {proj['name']}: repo not found at {path}")
 
@@ -803,6 +872,7 @@ def main():
     for key, proj in PROJECTS.items():
         gs = git_stats.get(key, {})
         lc = gs.get("lastCommit", {})
+        tst = test_stats.get(key, {})
 
         # Calculate progress: known_progress is the FLOOR, git activity can boost it
         commits30 = gs.get("commits30d", 0)
@@ -823,6 +893,75 @@ def main():
         else:
             progress = base
 
+        # ── Operational health + next actions (LIVE, not hardcoded) ──
+        issues = []
+        actions = []
+
+        # Tests
+        has_tests = tst.get("hasTests", False)
+        framework = tst.get("framework")
+        test_count = tst.get("testFileCount", 0)
+        has_test_script = tst.get("hasTestScript", False)
+
+        if not has_test_script and not has_tests:
+            issues.append("No test suite")
+            actions.append("Set up test framework & write first smoke test")
+        elif has_test_script and not has_tests:
+            issues.append(f"Test script configured ({framework}) but 0 test files")
+            actions.append(f"Write first {framework} test file")
+        elif has_tests:
+            actions.append(f"Run {test_count} test files via `{framework or 'test'}`")
+
+        # Git sync
+        ahead = gs.get("ahead", 0)
+        behind = gs.get("behind", 0)
+        uncommitted = gs.get("uncommittedChanges", 0)
+        if uncommitted > 0:
+            issues.append(f"{uncommitted} uncommitted changes")
+            actions.append("Commit & push uncommitted changes")
+        if ahead and ahead > 0:
+            issues.append(f"{ahead} commits not pushed")
+            actions.append("Push commits to remote")
+        if behind and behind > 0:
+            actions.append(f"Pull {behind} remote commits")
+
+        # Staleness
+        last_time = lc.get("time")
+        stale = False
+        if last_time:
+            try:
+                from datetime import datetime as _dt2
+                last_dt = _dt2.fromisoformat(last_time.replace("Z", "+00:00"))
+                days_ago = (datetime.now(timezone.utc) - last_dt).days
+                if days_ago >= 7:
+                    stale = True
+                    issues.append(f"No commits in {days_ago} days")
+                    actions.append("Review roadmap & commit next milestone")
+            except Exception:
+                pass
+
+        # Health score: 100 minus penalties
+        health = 100
+        if not has_tests:
+            health -= 25
+        elif has_test_script and not has_tests:
+            health -= 20
+        if uncommitted > 0:
+            health -= 10
+        if ahead and ahead > 0:
+            health -= 10
+        if stale:
+            health -= 15
+        health = max(0, health)
+
+        # Health label
+        if health >= 85:
+            health_label = "healthy"
+        elif health >= 60:
+            health_label = "attention"
+        else:
+            health_label = "at-risk"
+
         entry = {
             "name": proj["name"],
             "emoji": proj["emoji"],
@@ -839,6 +978,20 @@ def main():
                 "totalCommits": total_commits,
                 "branch": gs.get("branch", "main"),
                 "uncommittedChanges": gs.get("uncommittedChanges", 0),
+                "ahead": gs.get("ahead", 0),
+                "behind": gs.get("behind", 0),
+            },
+            "tests": {
+                "framework": framework,
+                "testFileCount": test_count,
+                "hasTests": has_tests,
+                "hasTestScript": has_test_script,
+            },
+            "health": {
+                "score": health,
+                "label": health_label,
+                "issues": issues,
+                "actions": actions,
             },
         }
 

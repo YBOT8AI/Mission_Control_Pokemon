@@ -462,6 +462,7 @@
         </div>
         <nav class="nav-links">
             <a class="nav-link active" onclick="showPage('dashboard')">Overview</a>
+            <a class="nav-link" onclick="showPage('ops')">⚡ Ops</a>
             <a class="nav-link" onclick="showPage('projects')">Projects</a>
             <a class="nav-link" onclick="showPage('cron')">Cron</a>
             <a class="nav-link" onclick="showPage('agents')">Agents</a>
@@ -855,6 +856,16 @@
             <div class="progress-section" id="research-focus"></div>
             <div class="progress-section" id="research-hierarchy"></div>
             <div class="progress-section" id="research-journal"></div>
+        </div>
+
+        <!-- ═══════════ OPS (DAILY ACTIONS) ═══════════ -->
+        <div class="page-section" id="page-ops">
+            <div class="page-header">
+                <h1 class="page-title">⚡ Operations</h1>
+                <p class="page-subtitle">Live task list — what needs your attention today, per project</p>
+            </div>
+            <div class="health-stats" id="ops-stats"></div>
+            <div id="ops-actions"></div>
         </div>
 
         <!-- ═══════════ COMPETITOR RADAR ═══════════ -->
@@ -1541,6 +1552,7 @@
             updateGithub();
             updateResearch();
             updateCompetitors();
+            updateOps();
         }
 
         function updateStatCards() {
@@ -1959,6 +1971,65 @@
                     ${steals ? `<div><div style="font-size:0.68em;color:var(--text-tertiary);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:6px">What to Steal</div>${steals}</div>` : ''}
                     ${c.lastUpdated ? `<div class="agent-meta">📅 ${c.lastUpdated}</div>` : ''}
                 </div>`;
+            }).join('');
+        }
+
+        function updateOps() {
+            const d = dashboardData;
+            const projects = d.projects || {};
+            const keys = ['orbitx', 'kinkin', 'techwealth', 'techwealthTracker', 'wpo', 'aeroview'];
+            const list = keys.map(k => projects[k]).filter(Boolean);
+            if (list.length === 0) return;
+
+            // Stat cards: healthy / attention / at-risk
+            const statsEl = document.getElementById('ops-stats');
+            if (statsEl) {
+                const healthy = list.filter(p => (p.health?.label) === 'healthy').length;
+                const attention = list.filter(p => (p.health?.label) === 'attention').length;
+                const atRisk = list.filter(p => (p.health?.label) === 'at-risk').length;
+                const totalActions = list.reduce((s, p) => s + (p.health?.actions?.length || 0), 0);
+                const cards = [
+                    { icon: '✅', glow: 'var(--green)', val: healthy, label: 'Healthy' },
+                    { icon: '⚠️', glow: 'var(--amber)', val: attention, label: 'Needs Attention' },
+                    { icon: '🚨', glow: '#dc2626', val: atRisk, label: 'At Risk' },
+                    { icon: '📋', glow: 'var(--accent-bright)', val: totalActions, label: 'Open Actions' },
+                ];
+                statsEl.innerHTML = cards.map(c => `
+                    <div class="stat-card">
+                        <div class="stat-glow" style="background:${c.glow}"></div>
+                        <span class="stat-icon">${c.icon}</span>
+                        <div class="stat-value">${c.val}</div>
+                        <div class="stat-label">${c.label}</div>
+                    </div>`).join('');
+            }
+
+            // Action list per project
+            const container = document.getElementById('ops-actions');
+            if (!container) return;
+
+            const healthColor = { 'healthy': 'var(--green)', 'attention': 'var(--amber)', 'at-risk': '#f87171' };
+
+            container.innerHTML = list.map(p => {
+                const h = p.health || {};
+                const color = healthColor[h.label] || 'var(--text-tertiary)';
+                const issues = (h.issues || []).map(i => `<span class="badge badge-red" style="margin-left:6px"><span class="badge-dot"></span>${i}</span>`).join('');
+                const actions = (h.actions || []).map(a => `<div class="task-item"><span class="task-icon">▸</span><span class="task-text">${a}</span></div>`).join('');
+                const testBadge = p.tests?.hasTests
+                    ? `<span class="badge badge-green"><span class="badge-dot"></span>${p.tests.testFileCount} tests</span>`
+                    : (p.tests?.hasTestScript
+                        ? `<span class="badge badge-amber"><span class="badge-dot"></span>0 tests (${p.tests.framework})</span>`
+                        : `<span class="badge badge-red"><span class="badge-dot"></span>no tests</span>`);
+                return `<section class="progress-section" style="margin-bottom:14px">
+                    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;flex-wrap:wrap;gap:8px">
+                        <span style="font-weight:600;color:var(--text-primary)">${p.emoji} ${p.name}</span>
+                        <span style="display:flex;align-items:center;gap:6px;flex-wrap:wrap">
+                            ${testBadge}
+                            <span class="badge" style="background:rgba(255,255,255,0.04);color:${color}"><span class="badge-dot" style="background:${color}"></span>${h.score || 0} · ${h.label || '—'}</span>
+                            ${issues}
+                        </span>
+                    </div>
+                    ${actions ? actions : '<div style="color:var(--text-tertiary);font-size:0.8em">Nothing pending — all clear ✓</div>'}
+                </section>`;
             }).join('');
         }
 

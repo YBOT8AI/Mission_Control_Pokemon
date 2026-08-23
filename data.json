@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:45:18.830966+08:00",
+  "generatedAt": "2026-08-24T07:45:29.089278+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -24,7 +24,25 @@
         "commits30d": 2,
         "totalCommits": 9,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 0,
+        "ahead": 0,
+        "behind": 0
+      },
+      "tests": {
+        "framework": "hardhat",
+        "testFileCount": 0,
+        "hasTests": false,
+        "hasTestScript": true
+      },
+      "health": {
+        "score": 75,
+        "label": "attention",
+        "issues": [
+          "Test script configured (hardhat) but 0 test files"
+        ],
+        "actions": [
+          "Write first hardhat test file"
+        ]
       },
       "phase": "1 - Fine Arts"
     },
@@ -48,7 +66,25 @@
         "commits30d": 102,
         "totalCommits": 127,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 0,
+        "ahead": 0,
+        "behind": 0
+      },
+      "tests": {
+        "framework": null,
+        "testFileCount": 0,
+        "hasTests": false,
+        "hasTestScript": false
+      },
+      "health": {
+        "score": 75,
+        "label": "attention",
+        "issues": [
+          "No test suite"
+        ],
+        "actions": [
+          "Set up test framework & write first smoke test"
+        ]
       },
       "url": "kinkin.vercel.app"
     },
@@ -72,7 +108,23 @@
         "commits30d": 49,
         "totalCommits": 139,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 0,
+        "ahead": 0,
+        "behind": 0
+      },
+      "tests": {
+        "framework": "jest",
+        "testFileCount": 6,
+        "hasTests": true,
+        "hasTestScript": true
+      },
+      "health": {
+        "score": 100,
+        "label": "healthy",
+        "issues": [],
+        "actions": [
+          "Run 6 test files via `jest`"
+        ]
       },
       "focus": "Financial Tech"
     },
@@ -96,7 +148,25 @@
         "commits30d": 3,
         "totalCommits": 9,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 0,
+        "ahead": 0,
+        "behind": 0
+      },
+      "tests": {
+        "framework": null,
+        "testFileCount": 0,
+        "hasTests": false,
+        "hasTestScript": false
+      },
+      "health": {
+        "score": 75,
+        "label": "attention",
+        "issues": [
+          "No test suite"
+        ],
+        "actions": [
+          "Set up test framework & write first smoke test"
+        ]
       }
     },
     "wpo": {
@@ -119,7 +189,25 @@
         "commits30d": 14,
         "totalCommits": 40,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 0,
+        "ahead": 0,
+        "behind": 0
+      },
+      "tests": {
+        "framework": null,
+        "testFileCount": 0,
+        "hasTests": false,
+        "hasTestScript": false
+      },
+      "health": {
+        "score": 75,
+        "label": "attention",
+        "issues": [
+          "No test suite"
+        ],
+        "actions": [
+          "Set up test framework & write first smoke test"
+        ]
       },
       "phase": "Option B - Full Build",
       "blockchain": "Solana"
@@ -139,7 +227,25 @@
         "commits30d": 0,
         "totalCommits": 0,
         "branch": "main",
-        "uncommittedChanges": 0
+        "uncommittedChanges": 0,
+        "ahead": 0,
+        "behind": 0
+      },
+      "tests": {
+        "framework": null,
+        "testFileCount": 0,
+        "hasTests": false,
+        "hasTestScript": false
+      },
+      "health": {
+        "score": 75,
+        "label": "attention",
+        "issues": [
+          "No test suite"
+        ],
+        "actions": [
+          "Set up test framework & write first smoke test"
+        ]
       },
       "phase": "Concept Definition",
       "focus": "Drone Fleet Management"
@@ -446,49 +552,49 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MBP",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
     "diskUsed": "4",
     "diskAvail": "406Gi",
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        12.92,
-        14.83,
-        13.86
+        12.13,
+        14.56,
+        13.78
       ],
-      "usage": "96.0%"
+      "usage": "97.5%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 37.2
+      "usedPct": 42.6
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "78.1",
-        "mem": "0.8",
+        "cpu": "67.9",
+        "mem": "2.1",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "77.2",
-        "mem": "5.4",
+        "cpu": "67.7",
+        "mem": "1.6",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "76.6",
-        "mem": "0.2",
+        "cpu": "66.6",
+        "mem": "1.7",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "76.6",
-        "mem": "0.7",
+        "cpu": "66.3",
+        "mem": "1.5",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "76.3",
-        "mem": "3.4",
+        "cpu": "66.0",
+        "mem": "6.0",
         "name": "llvm-tblgen"
       }
     ]
@@ -1053,12 +1159,12 @@
   ],
   "activity": [
     {
-      "time": "2026-08-24T07:45:18.830868+08:00",
+      "time": "2026-08-24T07:45:29.089147+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:45:18.830868+08:00",
+      "time": "2026-08-24T07:45:29.089147+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },
