@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:13:23.383719+08:00",
+  "generatedAt": "2026-08-24T07:14:09.110997+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -208,7 +208,7 @@
         "schedule": "every 30m",
         "last_status": "ok",
         "last_run": "2026-08-24T06:42:53.389438+08:00",
-        "next_run": "2026-08-24T07:12:53.389438+08:00"
+        "next_run": "2026-08-24T07:43:22.216636+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -446,48 +446,48 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MBP",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "408Gi",
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        11.64,
-        8.96,
-        5.34
+        11.07,
+        9.19,
+        5.61
       ],
-      "usage": "100.0%"
+      "usage": "99.8%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 55.0
+      "usedPct": 55.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "92.3",
-        "mem": "0.3",
+        "cpu": "87.7",
+        "mem": "0.8",
         "name": "clang++"
       },
       {
-        "cpu": "88.9",
-        "mem": "0.9",
+        "cpu": "87.1",
+        "mem": "0.6",
         "name": "clang++"
       },
       {
-        "cpu": "87.6",
-        "mem": "0.5",
+        "cpu": "86.8",
+        "mem": "0.8",
         "name": "clang++"
       },
       {
-        "cpu": "86.9",
-        "mem": "0.7",
+        "cpu": "86.3",
+        "mem": "0.6",
         "name": "clang++"
       },
       {
-        "cpu": "86.4",
+        "cpu": "85.9",
         "mem": "0.7",
         "name": "clang++"
       }
@@ -979,12 +979,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-24T07:13:23.383624+08:00",
+      "time": "2026-08-24T07:14:09.110912+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:13:23.383624+08:00",
+      "time": "2026-08-24T07:14:09.110912+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },

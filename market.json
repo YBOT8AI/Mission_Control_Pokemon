@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-24T06:42:47.302097+08:00",
+  "generatedAt": "2026-08-24T07:14:09.317208+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608940.64,
-      "changePct": 0.9
+      "priceHkd": 606698.4,
+      "changePct": 0.55
     },
     "ETH": {
-      "priceHkd": 19288.67,
-      "changePct": 1.92
+      "priceHkd": 19185.26,
+      "changePct": 1.35
     },
     "SOL": {
-      "priceHkd": 749.5,
-      "changePct": 1.9
+      "priceHkd": 745.66,
+      "changePct": 1.61
     }
   },
   "stocks": {
@@ -33,36 +33,60 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1161.6,
-      "priceUsdOz": 4608.4
+      "priceHkdPerGram": 1161.98,
+      "priceUsdOz": 4609.9
     },
     "Silver": {
       "priceHkdPerGram": 17.43,
-      "priceUsdOz": 69.16
+      "priceUsdOz": 69.14
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 677.22,
-      "changePct": -0.78
+      "priceHkd": 675.89,
+      "changePct": -0.98
     },
     "Natural Gas": {
-      "priceHkd": 21.81,
-      "changePct": 0.32
+      "priceHkd": 21.77,
+      "changePct": 0.14
     }
   },
   "news": [
     {
-      "title": "Ukraine war latest: Zelensky claims Putin drafting 300,000 troops to seize territory - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWhKMUl5SF9pVjE3TmxXVnNhT0lUdzZDT3FRck9JM25ySXJCNEZPTnc3S3c3OFd5N2VxUXB3V3NPX2FMcEZ3MXdUWi1CaUdTaTFjcldzTjgwVXlJQjJVUUhjYWlGa285MXlDUVJFWTdVQk11UjlsUjEtYzZKQVRBLTFSM3JTcDZVc1d6VGNTSnJKTzVQa3o2QkZ5NWJGMzhnb3hwUUNVVWNhb3B1RWxDbVliVl9GUndtRDgxaw?oc=5",
+      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T06:16:41+08:00"
+      "time": "2026-08-24T06:42:14+08:00"
+    },
+    {
+      "title": "Bessent Has No Easy Fix for What’s Really Driving Bond Yields Up - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ2JzSzV2M19uOU5aN2ZJSVlQTjBuM0VIR1pMYVJocnpabzhnekRpb3hRRnJZRFpoa29RY2t6WnhYX2JtdzlObjY1WGhINkViMGZ3cFZicE9LaEdPeVRlRlotTzZzVk1oUDFEek1wLUE1Rl9zWUViRHdiU3pRS0xWT1ZmZmJCMjktdTJ6Rk0yQ1RnV1NZNlU5QWREOVpEZXFDYVBCNVJzbkdYWWtxdDRaVTIzYm1xZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T06:40:00+08:00"
     },
     {
       "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T06:03:19+08:00"
+      "time": "2026-08-24T06:39:50+08:00"
+    },
+    {
+      "title": "Lindsay Clancy killed her children. The jury will soon answer a more complicated question. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXZMSkhNQjdVWm1jRWc1RThhWTQ2dmpmREg1SE9NLTc4dGtwU0xEcUw3emRmaXNyMjFZRnB1X29CWEtCczlhUGQ1amhDcEZ2REtkYXlVYXg4YjBubUNZLWFiU1Y1THlnWDE5ZW1iamtBeTNybWJIbkRNUFpRN09Sd3BCeHZfSU44R01NZmRWNms4UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T06:23:59+08:00"
+    },
+    {
+      "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc3LVpFMTBNX0ZKWEVPNHpmSVgwOXRKc1hDa2VEaGx3bWlWM3huZFJTN25pSzB6ejFySFdNQ0RYWmlsWGhKY2FLMGoybzBxdnVaM2FJd3hxbWJ5TGczYVdmeHBsUHBUdVFYWFhjQWlOLWdWV1pVU3lFR3V6UldxRGJ3aVdBTno0bi1fOExCRnZQX1gwbGE4WlpUTkl5Tm8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T06:17:00+08:00"
+    },
+    {
+      "title": "Shelley Fabares Dead: ‘The Donna Reed Show’ Star & Elvis Leading Lady Was 82 - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPZHZUcUd5Y0ZKclk3eHJmMEhXOG04bGxpLTJyTlJiRTlRcWhrTmV3X1BWemxWU2p6NUtIbkZQbjVJSGhERkxrN1U5WmhQZE5HT29NaWhEelBUd3VlVUhZZUdyc01JOTR6elJPRC1n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T05:47:00+08:00"
     },
     {
       "title": "A landslide at a landfill in the capital of Guinea kills 30 people, officials say - AP News",
@@ -71,16 +95,16 @@
       "time": "2026-08-24T05:36:00+08:00"
     },
     {
+      "title": "NASCAR Cup Series race at New Hampshire: Live updates, highlights, leaderboard for the Dollar Tree 301 - The Tennessean",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNHV4eXh4VTNLSGgzX2FCbFFnWXljTWwzRHdlaXZkQTh2aGxfRHUwRnJiQW9KTDlNN1lpa05wUkFaUU11SFNtRU9GYmZqeXQ0MDJHRWZYQ0xmcmZUZksyOTM0LThWdU54ZFNWUHFhUlQzY2xuZkhXYnhYSnhDWjZCenNVVGktZFpnbUVDa1I3eVVFbHNZZHUwQk1Ec3pvdUQxbDZ3cXVZZ2FkTWpNekpkeHBWSEI3QThmY0IzYU5GUTFIVlUyMkpyNW0yQkJCWkVwQjgxMXVCR3hvWWFaOGJnZXl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T05:22:00+08:00"
+    },
+    {
       "title": "Hayden Panettiere's 'Guiding Light' co-star Beth Chamberlin says she believed actress would overcome troubles - Fox News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0VoSmZnLTlTcTNxclFlSkRTbDJKelhSd3hQaXhMWmtobzllcVQ4TElYblVtV1FMMFBpN1Z6Tlc0VkpUZXgxUmhMMlFqRFFDejA5U2thTWpPT0VYSHduZmZKbXJONmd3RlE0VHNuMmhoWXY3SXMxTXNMaTJHZGhQRlMtNzRUakYtbnZfb0w0eUhiLWI3amNKZjU5c08yVUVPcnJRaVpWWXJuNy03Q2puQkFBWVZ3STVyTElIRzZNVDVWWUtvSnfSAcsBQVVfeXFMTzZ5dDhOVnlmc2tjR2F0OVZJMHJuLU16MDJQRU5BaUw4dVVqbW1tS0tlZTZON25CVmhKdXFVSmQ5RVFxTElyTTNiTng5ODU1UmhvYUF4dTJJUHQyclF1SEctalFrU2twa3E1TEVCVk1RTHpSQV8xRlEwc19ZQ1FHRVRMOTgyZk02WThRS19qZ0o4bGtaNm44M0o1eW1qVHlfNmc0aEh0V3NMNFlpRnpZNm9ySXNwLU03SkhpME1jYVRDdVRHOG9Za3BkWlU?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T04:52:15+08:00"
-    },
-    {
-      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T04:31:49+08:00"
     },
     {
       "title": "People Are Sharing Beautiful, Day-Brightening Facts That Sound Totally Made Up, But Are Actually 100% True - BuzzFeed",
@@ -101,10 +125,28 @@
       "time": "2026-08-24T04:19:36+08:00"
     },
     {
+      "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him. - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1IxaXJWZ3VYZkhCQ0FHVm0zUnMtLTNUUnk1UzRQN3FwazFFVmtXVVMyX0ZCM2NwUExzVlc4RVQyd3JDTVVjRjQyQTdxaml3bDZxMVJyOHNERVZ2OEFWUGo4SllSSVozWXZBTDFOeUVrNEF4dGJ6MXVNSWxFSEx1VFE2dzFXYV94bXF4anVaakIxeHY0Z1RDQ3gtYXJoS0NoeUhRczJYTVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T04:03:00+08:00"
+    },
+    {
+      "title": "US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRUtGNHpUYlVjQ05OY1VZRE9wTHBaS05VODBscDE2ZkRTbXBhajk0aV9QbHlPMk13a1VxMFc1MDFXOEhtM1RTN00yeHRzdVBRT2JNbFA3TXhRTzBvQWo0V1JDY1JMcW9zbGV0U0R1SjZYdkhlaW1uel91MXM5YlVnSDBsMmoxSDJFUFgzYkFrejZiTVlRTEJrUUtSS1dsSlNWalRsRVA5eFBhNVN6MlVqNTZ0cw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T03:30:00+08:00"
+    },
+    {
       "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T03:24:00+08:00"
+    },
+    {
+      "title": "That Weird 'Other' Section in Apple Stores Is Reportedly Being Revamped for a New Line of Home Products - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVEJ4WkpmUldqbGpDMnJkMW16WGhWX3hPVTh1UWFvXzA0VGxidHdxRGVwM1lKSGdmTUpxMm9QSWRySktWaC1KYVpZUVd5ZlBydW1PWVpMX1BIdzQ2ZnlHcGk1RF9JQkRQLVBVSWRLckNnM05qakN4U0x1UE1GdzFYY2NvSjBIbHZ4MkxzZTVpeFJzeEI4UDUtUjlhbFZqUUhHbDV2MS1GOGZDM3FJRzB6YzVGcmVpaG9SZmRGZmRDNTcyLVdjb0tKTWZ0VV8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T03:20:29+08:00"
     },
     {
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -125,52 +167,10 @@
       "time": "2026-08-24T03:03:16+08:00"
     },
     {
-      "title": "Hugging Face has been fielding M&A interest for a deal worth at least $13 billion - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOanUzRFJXLTNSVlAwcGVTaS00WHhpY1dJNFBLazMxcVM0QVRDMWI0ZTRvS01iaUxDOHFUaW5aaHh3QXJ5aHhkbkJiX0llcGo2REZCM2hQXzlROHZOQ3lBX1hsMkFUUGo4M2JUMmpaYUt1M1h6b19yVkRla2xOS09wRzhCZ3RGc1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T03:01:00+08:00"
-    },
-    {
       "title": "Former Rockstar director calls 'GTA 6' leaks a 'nothing burger' - Mashable",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa2VYU2NlbXdxLVFLTWpUdm9SZWRKS1pYaVhBVHB5R2pqYnQyRTY2ak5CblJQYkt4ZU9WWUx2TXN3akFWSnJ2dlRDY3ViVlU0Y29ydVdzc2ptM2xmbEhTOFk3SWtDbmpmYXV2b29YS1FSZEFXdUxSYm04ZVV4allTU2o1eG5nS29xWGJQczNFcGtaU1FDbGww?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T02:51:08+08:00"
-    },
-    {
-      "title": "M6 iMac Coming This Year in New Colors - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rU0wydDdoV01ha1ExRDNFZGxwaXV1UlJjeF8zNU10Qm5RVHl1NDFyVmFKREE0V0IyVEpUSzZNS3RTVXZPZXY2RUdobVctTUNkVDQ4ZDh1UWp3ckdyRXRrUnZDSDFBZGMwaHp0QnpzdWtDcGdR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T02:36:39+08:00"
-    },
-    {
-      "title": "Lindsay Clancy’s murder trial has captured the nation’s attention. Here’s why. - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXZMSkhNQjdVWm1jRWc1RThhWTQ2dmpmREg1SE9NLTc4dGtwU0xEcUw3emRmaXNyMjFZRnB1X29CWEtCczlhUGQ1amhDcEZ2REtkYXlVYXg4YjBubUNZLWFiU1Y1THlnWDE5ZW1iamtBeTNybWJIbkRNUFpRN09Sd3BCeHZfSU44R01NZmRWNms4UQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T02:33:00+08:00"
-    },
-    {
-      "title": "Guinea rubbish landfill collapse kills 30",
-      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T02:17:37+08:00"
-    },
-    {
-      "title": "China abruptly postpones ambitious lunar mission - Politico",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T02:00:00+08:00"
-    },
-    {
-      "title": "‘Spider-Man: Brand New Day’ No. 1 $109M WW, ‘Insidious’ Franchise Rises To $800M WW – Global Box Office - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWFDV3BDdVdXS3VHbUlpcUtKZ2puS3VZWDQ0TUJWVnBPMEFvblhtbkNHajJLUDBwSF9fZ1otV25RdmhsdTNaejZzSFJHMXpUS3lZSjZ6QnNLaVhsVzdmamEzUVVobThTdXZnZ1VYZXVzWWFvMk5VNzEyR2JoMXpxUjBGNHdxcDk1b3BGSGVTVV83TVpLejd5Ml9PTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T01:50:00+08:00"
-    },
-    {
-      "title": "France links sharp rise in drownings to heatwaves",
-      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T01:39:33+08:00"
     }
   ]
 }
