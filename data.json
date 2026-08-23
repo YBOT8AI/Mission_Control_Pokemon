@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:40:41.891376+08:00",
+  "generatedAt": "2026-08-24T05:41:58.105206+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -11,7 +11,7 @@
       "pokemonId": 150,
       "status": "pre-launch",
       "progress": 75,
-      "repo": "YBOT8AI/Orbitx-NFT",
+      "repo": "evilmoni/Orbitx-NFT",
       "priority": "high",
       "classification": "CONFIDENTIAL",
       "git": {
@@ -82,14 +82,19 @@
       "pokemon": "Kadabra",
       "pokemonId": 64,
       "status": "deploying",
-      "progress": 85,
-      "repo": "YBOT8AI/Client_Tracker_Pro",
+      "progress": 90,
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
       "priority": "high",
       "classification": "CONFIDENTIAL",
       "git": {
-        "lastCommit": {},
-        "commits30d": 0,
-        "totalCommits": 0,
+        "lastCommit": {
+          "sha": "d6a3d25",
+          "message": "docs: add institutional business plan",
+          "author": "ybot",
+          "time": "2026-08-20T12:01:34+08:00"
+        },
+        "commits30d": 3,
+        "totalCommits": 9,
         "branch": "main",
         "uncommittedChanges": 0
       }
@@ -126,7 +131,7 @@
       "pokemonId": 149,
       "status": "planning",
       "progress": 20,
-      "repo": "YBOT8AI/Aeroview",
+      "repo": "evilmoni/AEROVIEW",
       "priority": "medium",
       "classification": "INTERNAL",
       "git": {
@@ -202,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T05:09:41.725634+08:00",
-        "next_run": "2026-08-24T06:10:39.895194+08:00"
+        "last_run": "2026-08-24T05:40:43.934588+08:00",
+        "next_run": "2026-08-24T06:10:43.934588+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -238,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-24T05:31:39.724736+08:00",
-        "next_run": "2026-08-24T05:41:39.724736+08:00"
+        "last_run": "2026-08-24T05:41:40.180118+08:00",
+        "next_run": "2026-08-24T05:51:40.180118+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -441,19 +446,19 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MBP",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
     "diskUsed": "4",
     "diskAvail": "412Gi",
     "uptime": "5 days"
   },
   "activity": [
     {
-      "time": "2026-08-24T05:40:41.890969+08:00",
+      "time": "2026-08-24T05:41:58.104837+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T05:40:41.890969+08:00",
+      "time": "2026-08-24T05:41:58.104837+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },
@@ -480,12 +485,18 @@
       "type": "success",
       "text": "🌌 OrbitX NFT: docs: add institutional business plan",
       "project": "orbitx"
+    },
+    {
+      "time": "2026-08-20T12:01:34+08:00",
+      "type": "success",
+      "text": "📊 TechWealth Tracker Pro: docs: add institutional business plan",
+      "project": "techwealthTracker"
     }
   ],
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 31,
     "healthyCronJobs": 28,
-    "avgProgress": 67
+    "avgProgress": 68
   }
 }

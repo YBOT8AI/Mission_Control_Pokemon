@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OrbitX NFT - Mission Control Dashboard</title>
+    <style>
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #12121a;
+            --bg-card: #1a1a2e;
+            --text-primary: #ffffff;
+            --text-secondary: #a0a0b0;
+            --accent: #6366f1;
+            --accent-glow: rgba(99, 102, 241, 0.3);
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        
+        header {
+            margin-bottom: 3rem;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 2rem;
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #fff, var(--accent));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 1.1rem;
+        }
+        
+        .status-badge {
+            display: inline-block;
+            padding: 0.25rem 0.75rem;
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-left: 1rem;
+        }
+        
+        .status-foundation {
+            background: var(--accent-glow);
+            color: var(--accent);
+            border: 1px solid var(--accent);
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .card {
+            background: var(--bg-card);
+            border-radius: 12px;
+            padding: 1.5rem;
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        .card h2 {
+            font-size: 1.25rem;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+        
+        .card h3 {
+            font-size: 1rem;
+            margin: 1.5rem 0 0.75rem 0;
+            color: var(--text-primary);
+        }
+        
+        .metric-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+        }
+        
+        .metric {
+            background: var(--bg-secondary);
+            padding: 1rem;
+            border-radius: 8px;
+        }
+        
+        .metric-label {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .metric-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-top: 0.25rem;
+        }
+        
+        .metric-status {
+            font-size: 0.875rem;
+            margin-top: 0.5rem;
+        }
+        
+        .status-starting { color: var(--accent); }
+        .status-planned { color: var(--warning); }
+        .status-active { color: var(--success); }
+        
+        .checklist {
+            list-style: none;
+        }
+        
+        .checklist li {
+            padding: 0.5rem 0;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+        
+        .checkmark {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.75rem;
+        }
+        
+        .checkmark.done {
+            background: var(--success);
+            color: #000;
+        }
+        
+        .checkmark.progress {
+            border: 2px solid var(--warning);
+            color: var(--warning);
+        }
+        
+        .checkmark.pending {
+            border: 2px solid var(--text-secondary);
+            color: var(--text-secondary);
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 1rem;
+        }
+        
+        th, td {
+            text-align: left;
+            padding: 0.75rem;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+        
+        th {
+            color: var(--text-secondary);
+            font-weight: 600;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+        
+        .priority-section {
+            margin-bottom: 2rem;
+        }
+        
+        .timeline {
+            list-style: none;
+            counter-reset: timeline;
+        }
+        
+        .timeline li {
+            position: relative;
+            padding-left: 2rem;
+            margin-bottom: 1rem;
+        }
+        
+        .timeline li::before {
+            counter-increment: timeline;
+            content: counter(timeline);
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 1.5rem;
+            height: 1.5rem;
+            background: var(--accent);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.75rem;
+            font-weight: 700;
+        }
+        
+        .blocker-card {
+            background: rgba(239, 68, 68, 0.1);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-bottom: 0.75rem;
+        }
+        
+        footer {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid rgba(255,255,255,0.1);
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 OrbitX NFT - Mission Control</h1>
+            <p class="subtitle">
+                Operations Dashboard 
+                <span class="status-badge status-foundation">Foundation Phase</span>
+            </p>
+            <p style="margin-top: 0.5rem; color: var(--text-secondary);">
+                Last Updated: 2026-04-24 | COO: YBOT (acting) | Reporting to: CEO TOBY NG
+            </p>
+        </header>
+
+        <div class="grid">
+            <div class="card">
+                <h2>📊 Key Metrics</h2>
+                <div class="metric-grid">
+                    <div class="metric">
+                        <div class="metric-label">Artists in Pipeline</div>
+                        <div class="metric-value">0 / 100</div>
+                        <div class="metric-status status-starting">📍 Starting</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-label">Beta Launch</div>
+                        <div class="metric-value">Q3 2026</div>
+                        <div class="metric-status status-planned">📅 Planned</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-label">Operational Hires</div>
+                        <div class="metric-value">0 / 3</div>
+                        <div class="metric-status status-starting">📍 Starting</div>
+                    </div>
+                    <div class="metric">
+                        <div class="metric-label">Platform Development</div>
+                        <div class="metric-value">MVP</div>
+                        <div class="metric-status status-active">🚧 Active</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card">
+                <h2>✅ Completed</h2>
+                <ul class="checklist">
+                    <li><span class="checkmark done">✓</span> Core manifesto established</li>
+                    <li><span class="checkmark done">✓</span> Operational structure created</li>
+                    <li><span class="checkmark done">✓</span> Artist outreach strategy drafted</li>
+                    <li><span class="checkmark done">✓</span> Initial hiring plan defined</li>
+                </ul>
+
+                <h3>🔄 In Progress</h3>
+                <ul class="checklist">
+                    <li><span class="checkmark progress">◐</span> Platform development (Lead Architect: YBOT)</li>
+                    <li><span class="checkmark progress">◐</span> Artist pipeline building</li>
+                    <li><span class="checkmark progress">◐</span> Collector network development</li>
+                    <li><span class="checkmark progress">◐</span> Legal/compliance framework</li>
+                </ul>
+
+                <h3>📋 Pending</h3>
+                <ul class="checklist">
+                    <li><span class="checkmark pending">○</span> First operational hires</li>
+                    <li><span class="checkmark pending">○</span> Beta artist onboarding</li>
+                    <li><span class="checkmark pending">○</span> Marketplace MVP launch</li>
+                    <li><span class="checkmark pending">○</span> Phase 2 (Music) planning</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card priority-section">
+            <h2>🎯 Priority Focus Areas</h2>
+            
+            <h3>1. Artist Outreach (IMMEDIATE)</h3>
+            <p style="color: var(--text-secondary); margin-bottom: 0.5rem;">
+                Build pipeline of high-quality, unseen artists for beta launch.
+            </p>
+            <p><strong>Owner:</strong> COO | <strong>Strategy:</strong> /orbitx/artist_outreach/outreach_strategy.md</p>
+
+            <h3>2. Platform Development</h3>
+            <p style="color: var(--text-secondary); margin-bottom: 0.5rem;">
+                Technical foundation for fine arts marketplace.
+            </p>
+            <p><strong>Owner:</strong> Lead Architect YBOT | <strong>Timeline:</strong> MVP by Q3 2026</p>
+
+            <h3>3. Team Building</h3>
+            <p style="color: var(--text-secondary); margin-bottom: 0.5rem;">
+                First 3 critical hires to scale operations.
+            </p>
+            <p><strong>Roles defined, recruiting pending</strong> | <strong>Owner:</strong> COO + CEO</p>
+        </div>
+
+        <div class="card">
+            <h2>⚠️ Blockers & Needs</h2>
+            <div class="blocker-card">
+                <strong>No team yet</strong><br>
+                <span style="color: var(--text-secondary);">Impact: Slow execution</span><br>
+                <span style="color: var(--accent);">Resolution: Approve first hires</span>
+            </div>
+            <div class="blocker-card">
+                <strong>No platform</strong><br>
+                <span style="color: var(--text-secondary);">Impact: Can't onboard artists</span><br>
+                <span style="color: var(--accent);">Resolution: Accelerate dev with YBOT</span>
+            </div>
+            <div class="blocker-card">
+                <strong>No budget clarity</strong><br>
+                <span style="color: var(--text-secondary);">Impact: Can't commit to artists</span><br>
+                <span style="color: var(--accent);">Resolution: CEO to define runway</span>
+            </div>
+        </div>
+
+        <div class="card" style="margin-top: 1.5rem;">
+            <h2>📅 Next 30 Days</h2>
+            <ul class="timeline">
+                <li><strong>Week 1-2:</strong> Finalize outreach strategy, begin artist identification</li>
+                <li><strong>Week 2-3:</strong> Interview candidates for first operational hire</li>
+                <li><strong>Week 3-4:</strong> Secure 10-20 beta artists committed to launch</li>
+                <li><strong>Week 4:</strong> Review progress with CEO, adjust strategy</li>
+            </ul>
+        </div>
+
+        <footer>
+            <p><strong>Contact & Escalation:</strong></p>
+            <p>CEO: TOBY NG (strategic decisions, budget, approvals)</p>
+            <p>Lead Architect: YBOT (platform, technical direction)</p>
+            <p>COO: This role (operations, artist relations, hiring)</p>
+            <p style="margin-top: 1rem;"><strong>Escalation Path:</strong> COO → CEO for strategic/budget | COO ↔ Lead Architect for product/ops alignment</p>
+            <p style="margin-top: 1.5rem; font-style: italic; color: var(--accent);">"Execution is everything. Strategy without action is hallucination."</p>
+        </footer>
+    </div>
+</body>
+</html>
