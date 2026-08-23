@@ -173,6 +173,10 @@
             transform: translateY(-2px);
             box-shadow: var(--shadow-elevated);
         }
+        .mission-card.clickable { cursor: pointer; }
+        .progress-item.clickable { cursor: pointer; }
+        .progress-item.clickable:hover .progress-label { color: var(--text-primary); }
+        .progress-item.clickable:hover .progress-fill { filter: brightness(1.15); }
         .mission-card .card-glow {
             position: absolute; top: -40px; right: -40px;
             width: 120px; height: 120px; border-radius: 50%;
@@ -507,42 +511,42 @@
             <section class="progress-section">
                 <h2 class="section-title">Progress Tracker</h2>
                 <div class="progress-bars">
-                    <div class="progress-item">
+                    <div class="progress-item clickable" onclick="showPage('orbitx')">
                         <div class="progress-header">
                             <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" class="poke-mini" alt="">OrbitX NFT</span>
                             <span class="progress-percent" id="orbitx-percent">—</span>
                         </div>
                         <div class="progress-track"><div class="progress-fill good" id="orbitx-progress" style="width:0%"></div></div>
                     </div>
-                    <div class="progress-item">
+                    <div class="progress-item clickable" onclick="showPage('kinkin')">
                         <div class="progress-header">
                             <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" class="poke-mini" alt="">KINKIN</span>
                             <span class="progress-percent" id="kinkin-percent">—</span>
                         </div>
                         <div class="progress-track"><div class="progress-fill good" id="kinkin-progress" style="width:0%"></div></div>
                     </div>
-                    <div class="progress-item">
+                    <div class="progress-item clickable" onclick="showPage('techwealth')">
                         <div class="progress-header">
                             <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png" class="poke-mini" alt="">TechWealth</span>
                             <span class="progress-percent" id="techwealth-percent">—</span>
                         </div>
                         <div class="progress-track"><div class="progress-fill warning" id="techwealth-progress" style="width:0%"></div></div>
                     </div>
-                    <div class="progress-item">
+                    <div class="progress-item clickable" onclick="showPage('tracker')">
                         <div class="progress-header">
                             <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png" class="poke-mini" alt="">Tracker Pro</span>
                             <span class="progress-percent" id="techwealthTracker-percent">—</span>
                         </div>
                         <div class="progress-track"><div class="progress-fill good" id="techwealthTracker-progress" style="width:0%"></div></div>
                     </div>
-                    <div class="progress-item">
+                    <div class="progress-item clickable" onclick="showPage('wpo')">
                         <div class="progress-header">
                             <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png" class="poke-mini" alt="">WPO</span>
                             <span class="progress-percent" id="wpo-percent">—</span>
                         </div>
                         <div class="progress-track"><div class="progress-fill warning" id="wpo-progress" style="width:0%"></div></div>
                     </div>
-                    <div class="progress-item">
+                    <div class="progress-item clickable" onclick="showPage('aeroview')">
                         <div class="progress-header">
                             <span class="progress-label"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png" class="poke-mini" alt="">Aeroview</span>
                             <span class="progress-percent" id="aeroview-percent">—</span>
@@ -554,7 +558,7 @@
 
             <section class="missions-grid">
                 <!-- OrbitX -->
-                <div class="mission-card">
+                <div class="mission-card clickable" onclick="showPage('orbitx')">
                     <div class="card-glow purple"></div>
                     <div class="mission-card-top">
                         <span class="mission-card-name"><span class="mission-card-emoji">🌌</span>OrbitX NFT</span>
@@ -574,7 +578,7 @@
                     </div>
                 </div>
                 <!-- KINKIN -->
-                <div class="mission-card">
+                <div class="mission-card clickable" onclick="showPage('kinkin')">
                     <div class="card-glow amber"></div>
                     <div class="mission-card-top">
                         <span class="mission-card-name"><span class="mission-card-emoji">🚀</span>KINKIN</span>
@@ -594,7 +598,7 @@
                     </div>
                 </div>
                 <!-- TechWealth -->
-                <div class="mission-card">
+                <div class="mission-card clickable" onclick="showPage('techwealth')">
                     <div class="card-glow amber"></div>
                     <div class="mission-card-top">
                         <span class="mission-card-name"><span class="mission-card-emoji">💼</span>TechWealth</span>
@@ -614,7 +618,7 @@
                     </div>
                 </div>
                 <!-- Tracker Pro -->
-                <div class="mission-card">
+                <div class="mission-card clickable" onclick="showPage('tracker')">
                     <div class="card-glow amber"></div>
                     <div class="mission-card-top">
                         <span class="mission-card-name"><span class="mission-card-emoji">📊</span>Tracker Pro</span>
@@ -634,7 +638,7 @@
                     </div>
                 </div>
                 <!-- WPO -->
-                <div class="mission-card">
+                <div class="mission-card clickable" onclick="showPage('wpo')">
                     <div class="card-glow blue"></div>
                     <div class="mission-card-top">
                         <span class="mission-card-name"><span class="mission-card-emoji">🐾</span>WPO</span>
@@ -654,7 +658,7 @@
                     </div>
                 </div>
                 <!-- Aeroview -->
-                <div class="mission-card">
+                <div class="mission-card clickable" onclick="showPage('aeroview')">
                     <div class="card-glow blue"></div>
                     <div class="mission-card-top">
                         <span class="mission-card-name"><span class="mission-card-emoji">🚁</span>Aeroview</span>
