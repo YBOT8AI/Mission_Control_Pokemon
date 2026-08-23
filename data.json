@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:37:21.376375+08:00",
+  "generatedAt": "2026-08-24T03:08:22.820624+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T02:23:28.298214+08:00",
-        "next_run": "2026-08-24T02:53:28.298214+08:00"
+        "last_run": "2026-08-24T02:54:30.400531+08:00",
+        "next_run": "2026-08-24T03:24:30.400531+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T02:06:19.796621+08:00",
-        "next_run": "2026-08-24T03:07:19.227802+08:00"
+        "last_run": "2026-08-24T02:37:23.564891+08:00",
+        "next_run": "2026-08-24T03:38:20.660569+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T02:35:19.857432+08:00",
-        "next_run": "2026-08-24T03:05:19.857432+08:00"
+        "last_run": "2026-08-24T03:05:21.125066+08:00",
+        "next_run": "2026-08-24T03:35:21.125066+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-24T02:31:19.253693+08:00",
-        "next_run": "2026-08-24T02:41:19.253693+08:00"
+        "last_run": "2026-08-24T03:01:20.585818+08:00",
+        "next_run": "2026-08-24T03:11:20.585818+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -252,8 +252,8 @@
         "name": "DB Maintenance",
         "schedule": "0 3 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-23T03:00:42.370825+08:00",
-        "next_run": "2026-08-24T03:00:00+08:00"
+        "last_run": "2026-08-24T03:00:23.987932+08:00",
+        "next_run": "2026-08-25T03:00:00+08:00"
       },
       {
         "id": "9451057f9c1f",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-24T02:28:18.997085+08:00",
-        "next_run": "2026-08-24T02:43:18.997085+08:00"
+        "last_run": "2026-08-24T02:58:20.546775+08:00",
+        "next_run": "2026-08-24T03:13:20.546775+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -407,10 +407,19 @@
         "last_status": "ok",
         "last_run": "2026-08-23T03:30:55.141774+08:00",
         "next_run": "2026-08-30T03:30:00+08:00"
+      },
+      {
+        "id": "5d3a49623653",
+        "enabled": true,
+        "name": "Robotics Daily Brief (1am)",
+        "schedule": "0 1 * * *",
+        "last_status": "ok",
+        "last_run": "2026-08-24T02:51:16.929980+08:00",
+        "next_run": "2026-08-25T01:00:00+08:00"
       }
     ],
-    "total": 29,
-    "healthy": 26
+    "total": 30,
+    "healthy": 27
   },
   "agents": {
     "hermes": {
@@ -430,19 +439,19 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "413Gi",
+    "diskAvail": "412Gi",
     "uptime": "5 days"
   },
   "activity": [
     {
-      "time": "2026-08-24T02:37:21.376002+08:00",
+      "time": "2026-08-24T03:08:22.820215+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T02:37:21.376002+08:00",
+      "time": "2026-08-24T03:08:22.820215+08:00",
       "type": "info",
-      "text": "⏰ Cron: 26/29 jobs healthy"
+      "text": "⏰ Cron: 27/30 jobs healthy"
     },
     {
       "time": "2026-08-23T10:01:08+08:00",
@@ -477,8 +486,8 @@
   ],
   "stats": {
     "totalProjects": 6,
-    "totalCronJobs": 29,
-    "healthyCronJobs": 26,
+    "totalCronJobs": 30,
+    "healthyCronJobs": 27,
     "avgProgress": 67
   }
 }
