@@ -82,9 +82,26 @@
         .status-dot { width: 7px; height: 7px; border-radius: 50%; background: var(--green); }
         .status-dot.warning { background: var(--amber); }
         .status-dot.danger { background: var(--red); }
+        .status-clock { font-family: 'JetBrains Mono', monospace; font-size: 0.75em; color: var(--text-secondary); font-weight: 500; letter-spacing: 0.02em; }
+
+        /* ── Market Ticker ─────────────────────────────────────── */
+        .ticker-bar {
+            position: fixed; top: 56px; left: 0; right: 0; z-index: 999;
+            background: rgba(15,16,17,0.9); backdrop-filter: blur(16px);
+            border-bottom: 1px solid var(--border-subtle);
+            overflow: hidden; height: 34px; display: flex; align-items: center;
+        }
+        .ticker-track { display: flex; gap: 32px; white-space: nowrap; animation: tickerScroll 40s linear infinite; padding-left: 100%; }
+        .ticker-bar:hover .ticker-track { animation-play-state: paused; }
+        @keyframes tickerScroll { from { transform: translateX(0); } to { transform: translateX(-100%); } }
+        .ticker-item { display: inline-flex; align-items: center; gap: 6px; font-size: 0.72em; font-weight: 500; }
+        .ticker-symbol { color: var(--text-tertiary); font-weight: 600; }
+        .ticker-price { color: var(--text-primary); font-variant-numeric: tabular-nums; font-family: 'JetBrains Mono', monospace; }
+        .ticker-up { color: var(--green); }
+        .ticker-down { color: #f87171; }
 
         /* ── Main Content ─────────────────────────────────────── */
-        .main-content { margin-top: 56px; padding: 32px 28px; max-width: 1440px; margin-left: auto; margin-right: auto; }
+        .main-content { margin-top: 90px; padding: 32px 28px; max-width: 1440px; margin-left: auto; margin-right: auto; }
 
         .page-section { visibility: hidden; position: absolute; width: 100%; pointer-events: none; }
         .page-section.active { visibility: visible; position: relative; pointer-events: auto; animation: fadeIn 0.25s ease; }
@@ -100,9 +117,11 @@
         .stat-card {
             background: var(--bg-panel); border: 1px solid var(--border-subtle);
             border-radius: var(--radius-md); padding: 20px 22px;
-            transition: border-color 0.2s;
+            transition: all 0.2s ease; position: relative; overflow: hidden;
         }
-        .stat-card:hover { border-color: var(--border-standard); }
+        .stat-card:hover { border-color: var(--border-standard); transform: translateY(-2px); box-shadow: var(--shadow-elevated); }
+        .stat-card .stat-glow { position: absolute; top: -30px; right: -30px; width: 90px; height: 90px; border-radius: 50%; opacity: 0.07; pointer-events: none; }
+        .stat-card .stat-icon { font-size: 1.3em; margin-bottom: 10px; display: block; }
         .stat-value { font-size: 2em; font-weight: 700; letter-spacing: -0.03em; color: var(--text-primary); line-height: 1; }
         .stat-label { font-size: 0.72em; color: var(--text-tertiary); margin-top: 6px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.04em; }
 
@@ -411,8 +430,12 @@
         <div class="status-bar">
             <div class="status-item"><div class="status-dot"></div><span>Live</span></div>
             <div class="status-item"><div class="status-dot warning"></div><span id="header-cron">Cron —</span></div>
+            <div class="status-clock" id="header-clock">—</div>
         </div>
     </header>
+
+    <!-- ── Market Ticker ──────────────────────────────────────── -->
+    <div class="ticker-bar"><div class="ticker-track" id="ticker-track"></div></div>
 
     <!-- ── Main Content ───────────────────────────────────────── -->
     <main class="main-content">
@@ -425,10 +448,10 @@
             </div>
             <div id="stats-row"></div>
             <div class="chart-grid">
-                <div class="chart-card"><h2>Project Progress</h2><div class="chart-wrap"><canvas id="chart-progress"></canvas></div></div>
-                <div class="chart-card"><h2>Commit Activity</h2><div class="chart-wrap"><canvas id="chart-tasks"></canvas></div></div>
-                <div class="chart-card"><h2>Cron Health</h2><div class="chart-wrap"><canvas id="chart-cron"></canvas></div></div>
-                <div class="chart-card"><h2>System Status</h2><div class="chart-wrap"><canvas id="chart-agents"></canvas></div></div>
+                <div class="chart-card"><h2>📊 Project Progress</h2><div class="chart-wrap"><canvas id="chart-progress"></canvas></div></div>
+                <div class="chart-card"><h2>🔨 Commit Activity</h2><div class="chart-wrap"><canvas id="chart-tasks"></canvas></div></div>
+                <div class="chart-card"><h2>⏰ Cron Health</h2><div class="chart-wrap"><canvas id="chart-cron"></canvas></div></div>
+                <div class="chart-card"><h2>🖥️ System Status</h2><div class="chart-wrap"><canvas id="chart-agents"></canvas></div></div>
             </div>
 
             <section class="progress-section">
@@ -1049,6 +1072,7 @@
         let dashboardData = null;
         let marketData = null;
         let refreshTimer = null;
+        let clockTimer = null;
         let chartInstances = {};
 
         function login() {
@@ -1086,8 +1110,11 @@
         function initDashboard() {
             fetchData();
             fetchMarketData();
+            updateClock();
             if (refreshTimer) clearInterval(refreshTimer);
             refreshTimer = setInterval(() => { fetchData(); fetchMarketData(); }, REFRESH_INTERVAL);
+            if (clockTimer) clearInterval(clockTimer);
+            clockTimer = setInterval(updateClock, 1000);
         }
 
         async function fetchData() {
@@ -1125,6 +1152,35 @@
         }
 
         // ═══════════ MARKET + NEWS (live) ═══════════
+        function updateClock() {
+            const el = document.getElementById('header-clock');
+            if (el) {
+                const now = new Date();
+                el.textContent = now.toLocaleString('en-US', { weekday:'short', month:'short', day:'numeric', hour:'2-digit', minute:'2-digit', second:'2-digit', hour12:false });
+            }
+        }
+
+        function updateTicker() {
+            if (!marketData) return;
+            const track = document.getElementById('ticker-track');
+            if (!track) return;
+            const m = marketData;
+            const items = [];
+            const push = (sym, price, chg) => {
+                if (price === null || price === undefined) return;
+                const cls = chg === null || chg === undefined ? '' : (chg >= 0 ? 'ticker-up' : 'ticker-down');
+                const arrow = chg === null || chg === undefined ? '' : (chg >= 0 ? '▲' : '▼');
+                items.push(`<span class="ticker-item"><span class="ticker-symbol">${sym}</span><span class="ticker-price">${fmtHkd(price)}</span><span class="${cls}">${arrow}${chg !== null && chg !== undefined ? Math.abs(chg).toFixed(2) + '%' : ''}</span></span>`);
+            };
+            for (const k of ['BTC', 'ETH', 'SOL']) { const c = m.crypto?.[k]; push(k, c?.priceHkd, c?.changePct); }
+            for (const k of ['VOO', 'SPX', 'SPCX']) { const s = m.stocks?.[k]; push(k, s?.priceHkd, s?.changePct); }
+            push('GOLD', m.metals?.Gold?.priceHkdPerGram, null);
+            push('SILVER', m.metals?.Silver?.priceHkdPerGram, null);
+            for (const k of ['Crude Oil', 'Natural Gas']) { const cm = m.commodities?.[k]; push(k.toUpperCase(), cm?.priceHkd, cm?.changePct); }
+            // Duplicate for seamless loop
+            track.innerHTML = items.join('') + items.join('');
+        }
+
         async function fetchMarketData() {
             try {
                 const resp = await fetch(MARKET_URL + '?t=' + Date.now());
@@ -1132,6 +1188,7 @@
                 marketData = await resp.json();
                 updateMarketPage();
                 updateNewsPage();
+                updateTicker();
             } catch (err) {
                 console.warn('Market fetch failed:', err.message);
             }
@@ -1245,13 +1302,19 @@
             const s = d.stats || {};
             const container = document.getElementById('stats-row');
             if (!container) return;
-            container.innerHTML = `
-                <div class="stat-row">
-                    <div class="stat-card"><div class="stat-value">${s.totalProjects || 6}</div><div class="stat-label">Active Projects</div></div>
-                    <div class="stat-card"><div class="stat-value">${s.avgProgress || 0}%</div><div class="stat-label">Average Progress</div></div>
-                    <div class="stat-card"><div class="stat-value">${s.healthyCronJobs || 0}<span style="font-size:0.5em;color:var(--text-tertiary)">/${s.totalCronJobs || 0}</span></div><div class="stat-label">Cron Healthy</div></div>
-                    <div class="stat-card"><div class="stat-value" style="font-size:1.3em;font-family:'JetBrains Mono',monospace">${d.systemHealth?.uptime || '—'}</div><div class="stat-label">System Uptime</div></div>
-                </div>`;
+            const cards = [
+                { icon: '🗂️', glow: 'var(--accent)', val: s.totalProjects || 6, label: 'Active Projects' },
+                { icon: '📈', glow: 'var(--green)', val: (s.avgProgress || 0) + '%', label: 'Average Progress' },
+                { icon: '⏰', glow: 'var(--amber)', val: (s.healthyCronJobs || 0) + '<span style="font-size:0.5em;color:var(--text-tertiary)">/' + (s.totalCronJobs || 0) + '</span>', label: 'Cron Healthy' },
+                { icon: '🖥️', glow: 'var(--accent-bright)', val: '<span style="font-size:1.3em;font-family:\'JetBrains Mono\',monospace">' + (d.systemHealth?.uptime || '—') + '</span>', label: 'System Uptime' },
+            ];
+            container.innerHTML = '<div class="stat-row">' + cards.map(c => `
+                <div class="stat-card">
+                    <div class="stat-glow" style="background:${c.glow}"></div>
+                    <span class="stat-icon">${c.icon}</span>
+                    <div class="stat-value">${c.val}</div>
+                    <div class="stat-label">${c.label}</div>
+                </div>`).join('') + '</div>';
         }
 
         function updateProgressBars() {
