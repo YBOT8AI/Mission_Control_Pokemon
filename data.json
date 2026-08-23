@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T04:38:36.597515+08:00",
+  "generatedAt": "2026-08-24T05:09:39.430252+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T04:27:42.009341+08:00",
-        "next_run": "2026-08-24T04:57:42.009341+08:00"
+        "last_run": "2026-08-24T04:58:46.035086+08:00",
+        "next_run": "2026-08-24T05:28:46.035086+08:00"
       },
       {
         "id": "539a150ac028",
@@ -198,8 +198,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-23T22:54:08.249466+08:00",
-        "next_run": "2026-08-24T04:54:08.249466+08:00"
+        "last_run": "2026-08-24T04:54:57.388770+08:00",
+        "next_run": "2026-08-24T10:54:57.388770+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T04:08:34.019608+08:00",
-        "next_run": "2026-08-24T05:08:34.293328+08:00"
+        "last_run": "2026-08-24T04:38:38.763690+08:00",
+        "next_run": "2026-08-24T05:39:37.288845+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T04:35:34.801764+08:00",
-        "next_run": "2026-08-24T05:05:34.801764+08:00"
+        "last_run": "2026-08-24T05:05:37.345675+08:00",
+        "next_run": "2026-08-24T05:35:37.345675+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-24T04:31:33.554344+08:00",
-        "next_run": "2026-08-24T04:41:33.554344+08:00"
+        "last_run": "2026-08-24T05:01:36.221251+08:00",
+        "next_run": "2026-08-24T05:11:36.221251+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-24T04:28:33.157275+08:00",
-        "next_run": "2026-08-24T04:43:33.157275+08:00"
+        "last_run": "2026-08-24T04:58:36.017311+08:00",
+        "next_run": "2026-08-24T05:13:36.017311+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -411,7 +411,7 @@
       {
         "id": "5d3a49623653",
         "enabled": true,
-        "name": "Robotics Daily Brief (1am)",
+        "name": "Robotics Business Daily Brief (6am)",
         "schedule": "0 6 * * *",
         "last_status": "ok",
         "last_run": "2026-08-24T02:51:16.929980+08:00",
@@ -444,12 +444,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-24T04:38:36.597153+08:00",
+      "time": "2026-08-24T05:09:39.429871+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T04:38:36.597153+08:00",
+      "time": "2026-08-24T05:09:39.429871+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/30 jobs healthy"
     },
