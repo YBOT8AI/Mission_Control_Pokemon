@@ -611,6 +611,88 @@ def get_research_buddy():
     return result
 
 
+def get_competitors():
+    """Parse KinKin competitor analysis docs into a structured radar feed."""
+    import re
+    base = "/Users/ybot/KinKin/docs"
+    competitors = [
+        # (file, name, emoji, threat)
+        ("competitor-analysis-01-hellotoby.md", "HelloToby (Toby)", "🥇", "high"),
+        ("competitor-analysis-02-papabo.md", "Papabo", "🔴", "critical"),
+        ("competitor-analysis-04-wanhelp.md", "Wanhelp (萬師傅)", "🟠", "high"),
+        ("competitor-analysis-03-helpergo.md", "HelperGo", "🟡", "low"),
+        ("competitor-analysis-05-others.md", "Handyman HK & Others", "🟢", "low"),
+    ]
+
+    radar = []
+    for fname, name, emoji, threat in competitors:
+        path = os.path.join(base, fname)
+        if not os.path.isfile(path):
+            radar.append({"name": name, "emoji": emoji, "threat": threat, "verdict": "", "moat": [], "weakness": [], "lastUpdated": None})
+            continue
+
+        try:
+            with open(path) as f:
+                text = f.read()
+        except Exception:
+            text = ""
+
+        # Verdict line ("> **Verdict:** ...")
+        verdict = ""
+        m = re.search(r"\*\*Verdict:\*\*\s*(.+)", text)
+        if m:
+            verdict = m.group(1).strip()
+
+        # Weaknesses (rows in "Weaknesses" tables — grab "KinKin counter" col content)
+        weaknesses = []
+        _header_labels = ("kinkin counter", "implication for kinkin", "kinkin opening", "counter", "kinKin counter", "implication for kinKin")
+        for line in text.split("\n"):
+            s = line.strip()
+            if s.startswith("|") and ("KinKin" in s or "KindKin" in s or "counter" in s.lower()):
+                cells = [c.strip() for c in s.strip("|").split("|")]
+                if cells:
+                    counter = cells[-1]
+                    if not counter or counter in ("---", ""):
+                        continue
+                    # skip the header row itself (e.g. "KinKin counter" / "Implication for KinKin")
+                    if counter.lower() in _header_labels:
+                        continue
+                    if "KinKin" in counter or "KindKin" in counter or "escrow" in counter.lower() or "outcome" in counter.lower() or "gamification" in counter.lower():
+                        weaknesses.append(counter)
+
+        # Moat/steal (rows in "What to STEAL" tables)
+        steals = []
+        in_steal = False
+        for line in text.split("\n"):
+            s = line.strip()
+            if "STEAL" in s or "steal" in s.lower():
+                in_steal = True
+                continue
+            if in_steal and s.startswith("|") and "---" not in s:
+                cells = [c.strip() for c in s.strip("|").split("|")]
+                if cells and cells[0] and cells[0][0].isdigit() is False and cells[0] not in ("#", ""):
+                    # first cell is a tactic name (non-empty, non-header)
+                    if len(cells) >= 2 and cells[0] and not cells[0].startswith("Tactic"):
+                        steals.append(cells[0])
+
+        # last updated from file mtime
+        import datetime as _dt
+        mtime = os.path.getmtime(path)
+        last_updated = _dt.datetime.fromtimestamp(mtime).strftime("%b %d, %Y")
+
+        radar.append({
+            "name": name,
+            "emoji": emoji,
+            "threat": threat,
+            "verdict": verdict,
+            "weaknesses": weaknesses[:4],
+            "steals": steals[:4],
+            "lastUpdated": last_updated,
+        })
+
+    return radar
+
+
 def build_activity_log(git_stats, cron_data):
     """Build activity log from real data."""
     activities = []
@@ -705,7 +787,12 @@ def main():
     research_buddy = get_research_buddy()
     print(f"     → cycles: {research_buddy.get('state', {}).get('meta', {}).get('cycles', '?')}")
 
-    # 9. Build activity log
+    # 9. Competitor radar
+    print("  🎯 Competitor radar...")
+    competitors = get_competitors()
+    print(f"     → {len(competitors)} competitors")
+
+    # 10. Build activity log
     activity = build_activity_log(git_stats, cron_data)
 
     # 6. Assemble final data.json
@@ -791,6 +878,7 @@ def main():
         "subAgents": sub_agents,
         "githubActivity": github_activity,
         "researchBuddy": research_buddy,
+        "competitors": competitors,
         "activity": activity,
         "stats": {
             "totalProjects": len(PROJECTS),

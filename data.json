@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:14:09.110997+08:00",
+  "generatedAt": "2026-08-24T07:39:23.720358+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:02:42.408366+08:00",
-        "next_run": "2026-08-24T07:32:42.408366+08:00"
+        "last_run": "2026-08-24T07:34:07.966718+08:00",
+        "next_run": "2026-08-24T08:04:07.966718+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T06:42:53.389438+08:00",
-        "next_run": "2026-08-24T07:43:22.216636+08:00"
+        "last_run": "2026-08-24T07:14:20.434948+08:00",
+        "next_run": "2026-08-24T07:44:20.434948+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:06:28.038097+08:00",
-        "next_run": "2026-08-24T07:36:28.038097+08:00"
+        "last_run": "2026-08-24T07:37:30.262045+08:00",
+        "next_run": "2026-08-24T08:07:30.262045+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:04:26.690385+08:00",
-        "next_run": "2026-08-24T07:14:26.690385+08:00"
+        "last_run": "2026-08-24T07:35:27.664588+08:00",
+        "next_run": "2026-08-24T07:45:27.664588+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-24T06:59:25.493840+08:00",
-        "next_run": "2026-08-24T07:14:25.493840+08:00"
+        "last_run": "2026-08-24T07:30:26.697837+08:00",
+        "next_run": "2026-08-24T07:45:26.697837+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -446,50 +446,50 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MBP",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
     "diskUsed": "4",
-    "diskAvail": "408Gi",
+    "diskAvail": "407Gi",
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        11.07,
-        9.19,
-        5.61
+        17.61,
+        15.8,
+        13.47
       ],
-      "usage": "99.8%"
+      "usage": "98.2%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 55.5
+      "usedPct": 53.3
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "87.7",
-        "mem": "0.8",
-        "name": "clang++"
+        "cpu": "73.5",
+        "mem": "1.9",
+        "name": "llvm-tblgen"
       },
       {
-        "cpu": "87.1",
-        "mem": "0.6",
-        "name": "clang++"
+        "cpu": "71.7",
+        "mem": "3.9",
+        "name": "llvm-tblgen"
       },
       {
-        "cpu": "86.8",
-        "mem": "0.8",
-        "name": "clang++"
+        "cpu": "71.1",
+        "mem": "5.3",
+        "name": "llvm-tblgen"
       },
       {
-        "cpu": "86.3",
-        "mem": "0.6",
-        "name": "clang++"
+        "cpu": "71.1",
+        "mem": "2.5",
+        "name": "llvm-tblgen"
       },
       {
-        "cpu": "85.9",
-        "mem": "0.7",
-        "name": "clang++"
+        "cpu": "70.9",
+        "mem": "2.7",
+        "name": "llvm-tblgen"
       }
     ]
   },
@@ -977,14 +977,88 @@
     ],
     "lastUpdated": "2026-08-24"
   },
+  "competitors": [
+    {
+      "name": "HelloToby (Toby)",
+      "emoji": "🥇",
+      "threat": "high",
+      "verdict": "The incumbent. KinKin's #1 rival. Beat on trust/quality, never on scale.",
+      "weaknesses": [
+        "KinKin's quality control = the moat",
+        "KinKin same-day escrow",
+        "KinKin owns the full service + accountability",
+        "KindKin charity + leaderboard + 愛心分"
+      ],
+      "steals": [
+        "Free customer request flow",
+        "Instant quote matching",
+        "Pro verification (ID + business cert)",
+        "Bilingual EN/ZH"
+      ],
+      "lastUpdated": "Aug 22, 2026"
+    },
+    {
+      "name": "Papabo",
+      "emoji": "🔴",
+      "threat": "critical",
+      "verdict": "The most dangerous direct rival. Already has a charity arm (PapaCare) — challenges KinKin's core moat.",
+      "weaknesses": [
+        "KinKin escrow + success-fee aligns with outcomes",
+        "KindKin is the core brand story",
+        "KinKin same-day escrow",
+        "KinKin Founding 100 + XP/levels"
+      ],
+      "steals": [
+        "\"Handyman Quality Guarantee\"",
+        "Live job tracking",
+        "Verified licenses (not just ID)",
+        "Instant quote"
+      ],
+      "lastUpdated": "Aug 22, 2026"
+    },
+    {
+      "name": "Wanhelp (萬師傅)",
+      "emoji": "🟠",
+      "threat": "high",
+      "verdict": "The scale monster. China-backed, 1.7B orders, deep in install/repair. Don't fight on install — fight on trust/community.",
+      "weaknesses": [
+        "KindKin charity + local community identity",
+        "KindKin is the differentiator",
+        "KinKin same-day escrow",
+        "KinKin Founding 100 + XP/levels"
+      ],
+      "steals": [],
+      "lastUpdated": "Aug 22, 2026"
+    },
+    {
+      "name": "HelperGo",
+      "emoji": "🟡",
+      "threat": "low",
+      "verdict": "Adjacent, not direct. Domestic services (cleaning/childcare/nursing), NOT home repair. Lower priority for KinKin's launch.",
+      "weaknesses": [
+        "Domestic/cleaning, NOT home repair — no direct overlap with KinKin's launch"
+      ],
+      "steals": [],
+      "lastUpdated": "Aug 22, 2026"
+    },
+    {
+      "name": "Handyman HK & Others",
+      "emoji": "🟢",
+      "threat": "low",
+      "verdict": "Fragmented tail. No single player owns the \"trusted handyman\" brand. Low direct threat, but they validate the demand.",
+      "weaknesses": [],
+      "steals": [],
+      "lastUpdated": "Aug 22, 2026"
+    }
+  ],
   "activity": [
     {
-      "time": "2026-08-24T07:14:09.110912+08:00",
+      "time": "2026-08-24T07:39:23.720257+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:14:09.110912+08:00",
+      "time": "2026-08-24T07:39:23.720257+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },

@@ -470,6 +470,7 @@
             <a class="nav-link" onclick="showPage('system')">System</a>
             <a class="nav-link" onclick="showPage('github')">GitHub</a>
             <a class="nav-link" onclick="showPage('research')">Research</a>
+            <a class="nav-link" onclick="showPage('competitors')">Competitors</a>
             <a class="nav-link" onclick="showPage('market')">Market</a>
             <a class="nav-link" onclick="showPage('news')">News</a>
             <a class="nav-link" onclick="showPage('activity')">Activity</a>
@@ -854,6 +855,16 @@
             <div class="progress-section" id="research-focus"></div>
             <div class="progress-section" id="research-hierarchy"></div>
             <div class="progress-section" id="research-journal"></div>
+        </div>
+
+        <!-- ═══════════ COMPETITOR RADAR ═══════════ -->
+        <div class="page-section" id="page-competitors">
+            <div class="page-header">
+                <h1 class="page-title">🎯 Competitor Radar</h1>
+                <p class="page-subtitle">KinKin's competitive landscape — threats, weaknesses & what to steal</p>
+            </div>
+            <div class="health-stats" id="competitor-stats"></div>
+            <div class="subagent-grid" id="competitor-grid"></div>
         </div>
 
         <!-- ═══════════ MARKET ═══════════ -->
@@ -1529,6 +1540,7 @@
             updateSystemHealth();
             updateGithub();
             updateResearch();
+            updateCompetitors();
         }
 
         function updateStatCards() {
@@ -1898,6 +1910,56 @@
                         </div>`).join('');
                 }
             }
+        }
+
+        function updateCompetitors() {
+            const d = dashboardData;
+            const comps = d.competitors || [];
+            if (comps.length === 0) return;
+
+            // Stat cards: counts by threat level
+            const statsEl = document.getElementById('competitor-stats');
+            if (statsEl) {
+                const critical = comps.filter(c => c.threat === 'critical').length;
+                const high = comps.filter(c => c.threat === 'high').length;
+                const low = comps.filter(c => c.threat === 'low').length;
+                const cards = [
+                    { icon: '🔴', glow: '#dc2626', val: critical, label: 'Critical Threat' },
+                    { icon: '🟠', glow: 'var(--amber)', val: high, label: 'High Threat' },
+                    { icon: '🟡', glow: 'var(--accent)', val: low, label: 'Low Threat' },
+                    { icon: '🗂️', glow: 'var(--accent-bright)', val: comps.length, label: 'Total Tracked' },
+                ];
+                statsEl.innerHTML = cards.map(c => `
+                    <div class="stat-card">
+                        <div class="stat-glow" style="background:${c.glow}"></div>
+                        <span class="stat-icon">${c.icon}</span>
+                        <div class="stat-value">${c.val}</div>
+                        <div class="stat-label">${c.label}</div>
+                    </div>`).join('');
+            }
+
+            const grid = document.getElementById('competitor-grid');
+            if (!grid) return;
+            const threatBadge = {
+                'critical': ['CRITICAL', 'badge-red'],
+                'high': ['HIGH', 'badge-amber'],
+                'low': ['LOW', 'badge-blue'],
+            };
+            grid.innerHTML = comps.map(c => {
+                const [label, cls] = threatBadge[c.threat] || [c.threat.toUpperCase(), 'badge-blue'];
+                const weaknesses = (c.weaknesses || []).map(w => `<div class="task-item"><span class="task-icon">🎯</span><span class="task-text">${w}</span></div>`).join('');
+                const steals = (c.steals || []).map(s => `<div class="task-item"><span class="task-icon">💡</span><span class="task-text">${s}</span></div>`).join('');
+                return `<div class="agent-card" style="display:flex;flex-direction:column;gap:12px">
+                    <div class="agent-top">
+                        <span class="agent-name">${c.emoji} ${c.name}</span>
+                        <span class="badge ${cls}"><span class="badge-dot"></span>${label}</span>
+                    </div>
+                    <div style="font-size:0.78em;color:var(--text-secondary);line-height:1.5">${c.verdict || ''}</div>
+                    ${weaknesses ? `<div><div style="font-size:0.68em;color:var(--text-tertiary);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:6px">KinKin's Counter</div>${weaknesses}</div>` : ''}
+                    ${steals ? `<div><div style="font-size:0.68em;color:var(--text-tertiary);text-transform:uppercase;letter-spacing:0.04em;margin-bottom:6px">What to Steal</div>${steals}</div>` : ''}
+                    ${c.lastUpdated ? `<div class="agent-meta">📅 ${c.lastUpdated}</div>` : ''}
+                </div>`;
+            }).join('');
         }
 
         function destroyCharts() {
