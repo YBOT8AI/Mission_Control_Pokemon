@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-08-24T05:48:52.151060+08:00",
+  "fx": {
+    "usdHkd": 7.84
+  },
+  "crypto": {
+    "BTC": {
+      "priceHkd": 609175.84,
+      "changePct": 0.99
+    },
+    "ETH": {
+      "priceHkd": 19333.91,
+      "changePct": 2.27
+    },
+    "SOL": {
+      "priceHkd": 747.23,
+      "changePct": 2.43
+    }
+  },
+  "stocks": {
+    "VOO": {
+      "priceHkd": 5517.09,
+      "changePct": 0.39
+    },
+    "SPX": {
+      "priceHkd": 60167.06,
+      "changePct": 0.43
+    },
+    "SPCX": {
+      "priceHkd": 1073.84,
+      "changePct": 2.22
+    }
+  },
+  "metals": {
+    "Gold": {
+      "priceHkdPerGram": 1160.59,
+      "priceUsdOz": 4604.4
+    },
+    "Silver": {
+      "priceHkdPerGram": 17.42,
+      "priceUsdOz": 69.11
+    }
+  },
+  "commodities": {
+    "Crude Oil": {
+      "priceHkd": 682.55,
+      "changePct": -0.88
+    },
+    "Natural Gas": {
+      "priceHkd": 22.04,
+      "changePct": 2.85
+    }
+  },
+  "news": [
+    {
+      "title": "IndyCar drivers roar through D.C. streets in auto race along National Mall - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY1AwczlOdXJCVlNISzFENzk0UUhzSnQ4b1E3a2ZoVFMyVW9LWFVRV3hnUllIWGduYS1qbW9hS21hU2hxV1F2Tk9FMVhvU0ZPYzRERndJc0FMRk1IeU5QcmZfZGZFWWtITncycXpEeFhvUlVwRlZMWW5aYmFtZmlEYkhkSW9QRXRYRUtrOWNPS0hlbng5OEozaGJSaEM0dnZtcGw3b0o0aUxJVWlnZURpVnVOQUxkeG0tSVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T04:33:19+08:00"
+    },
+    {
+      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T04:31:49+08:00"
+    },
+    {
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
+      "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T04:19:36+08:00"
+    },
+    {
+      "title": "Carney warned about economic coercion. Now Trump is testing the Canadian prime minister - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3dhSlN1T1ZfMHl3Y1BSSjJwMEdLQVN2OFFMRUhwb2p6MWtwX0ZpZmd4VlZKV1NlTDFEdnZRMFQ3cDg2a2hpOHB0SFNrN1Y4RldoVHhaNkFsdUFSSm5KOFB3LWE1TGJVbW1YS0NqblVOZ2dEcnZQTlgya3JNZVFVUDRHRkJlX2hfMWFlSG85cXdTRjJGa2tBNTFIdGdILU9iT09ybXNFM2J0MXVPQmhfQw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T03:59:00+08:00"
+    },
+    {
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEVVUWlzZUFXVmhmamNqb3VmWk9vVUMtRTZvZmlXMXQ2Q3FGT2l6TzZIZ1l4UU8tQzFzNGV3Nms3ZmQ0NnJPZU1jNWFILWVxaU5xczdaSk1aUnBHdVJ1UmFFY0RtaFRwNndlNlZ3NGhiLUpsQTVabGFaZVlwZ2psWU1YY2JGYmVNd2VlTXFoR1lJWDRHQjVV?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T03:24:00+08:00"
+    },
+    {
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T03:11:30+08:00"
+    },
+    {
+      "title": "M6 iMac Coming This Year in New Colors - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rU0wydDdoV01ha1ExRDNFZGxwaXV1UlJjeF8zNU10Qm5RVHl1NDFyVmFKREE0V0IyVEpUSzZNS3RTVXZPZXY2RUdobVctTUNkVDQ4ZDh1UWp3ckdyRXRrUnZDSDFBZGMwaHp0QnpzdWtDcGdR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T02:36:39+08:00"
+    },
+    {
+      "title": "Lindsay Clancy’s murder trial has captured the nation’s attention. Here’s why. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcXZMSkhNQjdVWm1jRWc1RThhWTQ2dmpmREg1SE9NLTc4dGtwU0xEcUw3emRmaXNyMjFZRnB1X29CWEtCczlhUGQ1amhDcEZ2REtkYXlVYXg4YjBubUNZLWFiU1Y1THlnWDE5ZW1iamtBeTNybWJIbkRNUFpRN09Sd3BCeHZfSU44R01NZmRWNms4UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T02:33:00+08:00"
+    },
+    {
+      "title": "Guinea rubbish landfill collapse kills 30",
+      "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T02:17:37+08:00"
+    },
+    {
+      "title": "Guinea rubbish landfill collapse kills 30 in Conakry - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISjU1R21yODRFNkthU0pRem9xb2ZZY2FsS193eUdiVTdGZ25IeU50enQteTl5akZOQkVhUG53ZlcxYjhiNWdRSEJwNzZTNmdoNVAySlNHaHR3UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T02:17:37+08:00"
+    },
+    {
+      "title": "China abruptly postpones ambitious lunar mission - Politico",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1NEWTJoME93UWlqU0RwOURBTHFPZzBSZm44ODVDNGl0NG03TVJ6WXBuaGJZZVRaamZSTFZyb0pEMXY1SWhhTTlVQUUydlJKMDZ3bkdtUERnZ1Q4cVJMN3hadDhkRHpfQ3lLaVlObGI5SlhRaDZYNWo2YW1xam5USGVLQTc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T02:00:00+08:00"
+    },
+    {
+      "title": "France links sharp rise in drownings to heatwaves",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T01:39:33+08:00"
+    },
+    {
+      "title": "'The MMR vaccine is not a lethal vaccine,' Mehmet Oz says - Politico",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUzFZZklCckx1cVVjNEZ6SkxLeWUtb1FHbV84QVRfWmpvYWdtMFY3X1dBTE5rR2RJdkZfbGZZT3V5Nmt6d0E4X0ZJdUVzR2RMZlNnUnN2TUotU1ZPYzkxSERSYkQ1OHZTazl5bm5ESV85MmM5dVVZOEI4cjA3QWMxdEQ4Ulo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T01:31:00+08:00"
+    },
+    {
+      "title": "Treasury's recent moves in the bond and currency markets add up to 'soft-form financial repression' - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd1g2Rk5FZkYtSTZueVRmMmpFTlJ4RXZtdGJnMUlEa0dFLUFKU1R4TFZWakgzQmd0S2ZseC1MdkxFUWVvZ2JRdERCQWJTUnBrT0EtVlV1NnM5aVg5WkZaQjNFelI3NE1VdGFNdE1QSktvUUh5aDJwVGxnUHVYOWVZdWROV1FUTV9VRTVEczFwQ2xwRkUxa1RsQzI5aVUwaWpPTmVWa3NUN1RRRjJxQWljZmhJRjRIT0k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T01:22:00+08:00"
+    },
+    {
+      "title": "Eleven bodies recovered after boat carrying migrants sinks off Tunisia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHd3a3l0Q0tteVVERzJqSjNEajFFQkFKenYwWklNRlJER2ZJcVkwQWR4Nmw5cTM0UEM1WDJkSmV3S2pOZlZCcVRJN09tVF9LWWVpSmh5ZlhNTm1ZRHdHYURUS3ltRE4wQkY5OElmbFlndU5ua19RUERxT3hCVDlvSjE3OHF6ZnB1SW9nX1F5aTFsNlVFenZ1T1RFTkdNNmgtVTJQTTlBaTU3QjhqZGpBbEJrX1pLZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T01:00:09+08:00"
+    },
+    {
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVJQbnY5eVBWRWltQlE5U2V2VnpJMENtdlJGZ0Eybmxwajd1V0pzbHhfLWRBUXlfbEtYendHSXVsdVpFLTFieGx0SHpndDhqRDkxck5OVDZ5aWVKZ0VWYU1QWVFaaVFoZkJCWnlTS0lHMW5aVFZ1a05DTEpLQjBuejQ2LTZxWWR0ZnVDTm9kTWxiRXNER3NJQk5XeDZMUk1fQktqbDA0ZC1rQ1lxLVJnQWFta2ZidEhmOXlPeEZTQmw1UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T00:55:37+08:00"
+    },
+    {
+      "title": "‘Spider-Man’ tops box office in fourth weekend; ‘The Odyssey’ becomes Nolan’s highest-grossing film - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1g3OXU1bHdwNTVnLXZQWlY5ZE52Nk1lTUxjb0tpU2s0RnlOZEJWTHc5UDlJNUNheVBlbEwtc1RoTFExNTluNVJUeFd1RnMtdUVZaDhoU0hSbzR3SEp2cVBKTGU0UThJVjQzcDVLdXdSTUxhOWt6b2Y4c3lEVWptblBZVXU0Mzg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T00:47:00+08:00"
+    },
+    {
+      "title": "Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWE5QVhDSFhLcG1UbzQ3bmlweFQtZHVremU4a283a0xzSVNFRUxSZXFqazlZQS1FMWFYR0ZpYjZhNFIxaGxRQTc3ZXBsU1ZXMkFFNDg5TzF5cFRYYnYwOVFIRE9xdXd1Y1NUbGFWcjlqS0JmWmcweU1mOVRENE92SXhBbldVMzdESlY0MlBMcFZjVnRKTVRYcjRKZGJIZ1EyVkd6b1YzVG9rWFhhM0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T00:44:27+08:00"
+    },
+    {
+      "title": "Melissa Gilbert On Child Actor Protections After Hayden Panettiere Death - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXBpNUtELXhROHlzTC13eG5qYkVqYmxpYmk2el94RHctY29DYW9iUlJaQXdqd0J5SXFzTS1BaWxCdEJtTklaajR4WWVyYVFkRTRJVVl3c3V0TDdhS3YzVVc1Qk1Gam1hUi0yLU0xQ0dHeG9jVTNydXgwVlV5M2xrUmZMbWxnMEZ4WDF1RXpXR192STY2RmlfdmNoZGNHeDFSaHUw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T00:25:00+08:00"
+    },
+    {
+      "title": "El-Sayed under fire online after taking aim at Usha Vance, female Trump aide in weekend social media posts - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlh0SDgycnRtLUFJd19rOU5TSGNDb0cwdGJ5MXdfSzhESEhncFA2NldGRTRhTHl6OWlEcE5TbnEwX3JNQWpwLTFEbng3TGUyWjFBTXNjQ2x0SnlDcUFwVEZjdjNyN0IxbUJneEc0Nkc0RG9wNVUwZG9USXFWM08wQ3BUOUNRV21KV25WMFVKZHlvZHhCT1VqaEN5cm41OXluaVNuTWVwOFRVTm10ZHMyYnQ1Vi0wbHYtWktnMtIBwgFBVV95cUxNdEVrQlA2Sm1KRC1MSzZXcy1SZGJkS2d0dlA3OEFaNVNBZFQwUDNMT2ZZeWEwczdISUx2Q2lpSnlVeVlRdzJhcDF1SXNIRDNQMnUzUmhqMkxCblRRby1EMFRjQVZLRXhpR3dIaVhDMFpLUTlFMUZFOW5kbHgyS3lEUzBhM09kblp1VkZnS1pfLUFxcnhxRHhHb2Z4M3BNWkJwcHZ5THJqUkJnUFpuNzZKTjJPVVhDeFZ6ekh5Z3JYbld0dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T00:17:24+08:00"
+    }
+  ]
+}

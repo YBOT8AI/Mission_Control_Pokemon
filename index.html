@@ -399,6 +399,7 @@
             <a class="nav-link" onclick="showPage('cron')">Cron</a>
             <a class="nav-link" onclick="showPage('agents')">Agents</a>
             <a class="nav-link" onclick="showPage('market')">Market</a>
+            <a class="nav-link" onclick="showPage('news')">News</a>
             <a class="nav-link" onclick="showPage('activity')">Activity</a>
             <a class="nav-link poke-nav" onclick="showPage('orbitx')" title="OrbitX">🌌</a>
             <a class="nav-link poke-nav" onclick="showPage('kinkin')" title="KINKIN">⚡</a>
@@ -719,29 +720,38 @@
         <div class="page-section" id="page-market">
             <div class="page-header">
                 <h1 class="page-title">Market Intelligence</h1>
-                <p class="page-subtitle">Crypto, stocks, metals & commodities — HKD primary</p>
+                <p class="page-subtitle">Crypto, stocks, metals & commodities — HKD primary · <span id="market-updated">live</span></p>
             </div>
             <div class="market-grid">
                 <div class="market-card"><h2>Cryptocurrency</h2>
-                    <div class="market-row"><span class="market-symbol">₿ BTC</span><span class="market-price">HK$502,528</span><span class="market-change market-down">−0.86%</span></div>
-                    <div class="market-row"><span class="market-symbol">Ξ ETH</span><span class="market-price">HK$14,772</span><span class="market-change market-up">+0.24%</span></div>
-                    <div class="market-row"><span class="market-symbol">☀ SOL</span><span class="market-price">HK$596.62</span><span class="market-change market-down">−1.67%</span></div>
-                    <div style="font-size:0.7em;color:var(--text-tertiary);margin-top:8px;">USD/HKD: 7.8400</div>
+                    <div class="market-row"><span class="market-symbol">₿ BTC</span><span class="market-price" id="mkt-BTC">—</span><span class="market-change" id="mkt-BTC-chg">—</span></div>
+                    <div class="market-row"><span class="market-symbol">Ξ ETH</span><span class="market-price" id="mkt-ETH">—</span><span class="market-change" id="mkt-ETH-chg">—</span></div>
+                    <div class="market-row"><span class="market-symbol">☀ SOL</span><span class="market-price" id="mkt-SOL">—</span><span class="market-change" id="mkt-SOL-chg">—</span></div>
+                    <div style="font-size:0.7em;color:var(--text-tertiary);margin-top:8px;">USD/HKD: <span id="mkt-fx">—</span></div>
                 </div>
                 <div class="market-card"><h2>Stock Markets</h2>
-                    <div class="market-row"><span class="market-symbol">VOO</span><span class="market-price">HK$5,439</span><span class="market-change market-up">+0.39%</span></div>
-                    <div class="market-row"><span class="market-symbol">SPX</span><span class="market-price">HK$59,368</span><span class="market-change market-up">+0.38%</span></div>
-                    <div class="market-row"><span class="market-symbol">SPCX</span><span class="market-price">HK$1,061</span><span class="market-change market-down">−0.60%</span></div>
+                    <div class="market-row"><span class="market-symbol">VOO</span><span class="market-price" id="mkt-VOO">—</span><span class="market-change" id="mkt-VOO-chg">—</span></div>
+                    <div class="market-row"><span class="market-symbol">SPX</span><span class="market-price" id="mkt-SPX">—</span><span class="market-change" id="mkt-SPX-chg">—</span></div>
+                    <div class="market-row"><span class="market-symbol">SPCX</span><span class="market-price" id="mkt-SPCX">—</span><span class="market-change" id="mkt-SPCX-chg">—</span></div>
                 </div>
                 <div class="market-card"><h2>Precious Metals</h2>
-                    <div class="market-row"><span class="market-symbol">Gold</span><span class="market-price">HK$1,015/g</span></div>
-                    <div class="market-row"><span class="market-symbol">Silver</span><span class="market-price">HK$14.27/g</span></div>
+                    <div class="market-row"><span class="market-symbol">Gold</span><span class="market-price" id="mkt-Gold">—</span><span class="market-change" id="mkt-Gold-chg">—</span></div>
+                    <div class="market-row"><span class="market-symbol">Silver</span><span class="market-price" id="mkt-Silver">—</span><span class="market-change" id="mkt-Silver-chg">—</span></div>
                 </div>
                 <div class="market-card"><h2>Commodities</h2>
-                    <div class="market-row"><span class="market-symbol">Crude Oil</span><span class="market-price">HK$629/bbl</span><span class="market-change market-up">+0.83%</span></div>
-                    <div class="market-row"><span class="market-symbol">Natural Gas</span><span class="market-price">HK$23.12/MMBtu</span><span class="market-change market-up">+0.85%</span></div>
+                    <div class="market-row"><span class="market-symbol">Crude Oil</span><span class="market-price" id="mkt-Crude Oil">—</span><span class="market-change" id="mkt-Crude Oil-chg">—</span></div>
+                    <div class="market-row"><span class="market-symbol">Natural Gas</span><span class="market-price" id="mkt-Natural Gas">—</span><span class="market-change" id="mkt-Natural Gas-chg">—</span></div>
                 </div>
             </div>
+        </div>
+
+        <!-- ═══════════ NEWS ═══════════ -->
+        <div class="page-section" id="page-news">
+            <div class="page-header">
+                <h1 class="page-title">News Feed</h1>
+                <p class="page-subtitle">Live headlines from wire services · <span id="news-updated">live</span></p>
+            </div>
+            <div class="progress-section"><div class="timeline" id="news-feed"></div></div>
         </div>
 
         <!-- ═══════════ ACTIVITY ═══════════ -->
@@ -1034,8 +1044,10 @@
 
         const PASSWORD = 'ybot2026';
         const DATA_URL = 'data.json';
+        const MARKET_URL = 'market.json';
         const REFRESH_INTERVAL = 60000;
         let dashboardData = null;
+        let marketData = null;
         let refreshTimer = null;
         let chartInstances = {};
 
@@ -1073,8 +1085,9 @@
 
         function initDashboard() {
             fetchData();
+            fetchMarketData();
             if (refreshTimer) clearInterval(refreshTimer);
-            refreshTimer = setInterval(fetchData, REFRESH_INTERVAL);
+            refreshTimer = setInterval(() => { fetchData(); fetchMarketData(); }, REFRESH_INTERVAL);
         }
 
         async function fetchData() {
@@ -1109,6 +1122,111 @@
             if (el) el.textContent = 'Cron ' + cronOk + '/' + cronTotal;
             const dot = document.querySelector('.status-bar .status-dot.warning');
             if (dot) dot.className = 'status-dot' + (cronOk === cronTotal ? '' : ' warning');
+        }
+
+        // ═══════════ MARKET + NEWS (live) ═══════════
+        async function fetchMarketData() {
+            try {
+                const resp = await fetch(MARKET_URL + '?t=' + Date.now());
+                if (!resp.ok) throw new Error('HTTP ' + resp.status);
+                marketData = await resp.json();
+                updateMarketPage();
+                updateNewsPage();
+            } catch (err) {
+                console.warn('Market fetch failed:', err.message);
+            }
+        }
+
+        function fmtHkd(v) {
+            if (v === null || v === undefined) return '—';
+            if (v >= 1000000) return 'HK$' + (v / 1000000).toFixed(2) + 'M';
+            if (v >= 1000) return 'HK$' + v.toLocaleString('en-US', {maximumFractionDigits: 0});
+            return 'HK$' + v.toLocaleString('en-US', {maximumFractionDigits: 2});
+        }
+
+        function fmtChg(pct) {
+            if (pct === null || pct === undefined) return '—';
+            const arrow = pct >= 0 ? '▲' : '▼';
+            return arrow + ' ' + Math.abs(pct).toFixed(2) + '%';
+        }
+
+        function setChgClass(el, pct) {
+            if (pct === null || pct === undefined) { el.className = 'market-change'; return; }
+            el.className = 'market-change ' + (pct >= 0 ? 'market-up' : 'market-down');
+        }
+
+        function updateMarketPage() {
+            if (!marketData) return;
+            const m = marketData;
+            const set = (id, val) => { const el = document.getElementById(id); if (el) el.textContent = val; };
+
+            // FX
+            set('mkt-fx', (m.fx?.usdHkd || '—').toFixed(4));
+
+            // Crypto
+            for (const k of ['BTC', 'ETH', 'SOL']) {
+                const c = m.crypto?.[k];
+                set('mkt-' + k, fmtHkd(c?.priceHkd));
+                const chgEl = document.getElementById('mkt-' + k + '-chg');
+                if (chgEl) { chgEl.textContent = fmtChg(c?.changePct); setChgClass(chgEl, c?.changePct); }
+            }
+
+            // Stocks
+            for (const k of ['VOO', 'SPX', 'SPCX']) {
+                const s = m.stocks?.[k];
+                set('mkt-' + k, fmtHkd(s?.priceHkd));
+                const chgEl = document.getElementById('mkt-' + k + '-chg');
+                if (chgEl) { chgEl.textContent = fmtChg(s?.changePct); setChgClass(chgEl, s?.changePct); }
+            }
+
+            // Metals (per gram)
+            for (const k of ['Gold', 'Silver']) {
+                const mt = m.metals?.[k];
+                set('mkt-' + k, mt?.priceHkdPerGram ? 'HK$' + mt.priceHkdPerGram.toFixed(2) + '/g' : '—');
+                const chgEl = document.getElementById('mkt-' + k + '-chg');
+                if (chgEl) chgEl.textContent = '';
+            }
+
+            // Commodities
+            for (const k of ['Crude Oil', 'Natural Gas']) {
+                const cm = m.commodities?.[k];
+                set('mkt-' + k, fmtHkd(cm?.priceHkd));
+                const chgEl = document.getElementById('mkt-' + k + '-chg');
+                if (chgEl) { chgEl.textContent = fmtChg(cm?.changePct); setChgClass(chgEl, cm?.changePct); }
+            }
+
+            // Updated timestamp
+            const upd = document.getElementById('market-updated');
+            if (upd && m.generatedAt) {
+                const d = new Date(m.generatedAt);
+                upd.textContent = 'updated ' + d.toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit'});
+            }
+        }
+
+        function updateNewsPage() {
+            if (!marketData) return;
+            const news = marketData.news || [];
+            const feed = document.getElementById('news-feed');
+            if (!feed) return;
+            if (news.length === 0) {
+                feed.innerHTML = '<div class="timeline-item"><div class="timeline-text">No headlines available</div></div>';
+                return;
+            }
+            const fmt = (iso) => {
+                if (!iso) return '';
+                const d = new Date(iso);
+                return d.toLocaleString('en-US', {month:'short', day:'numeric', hour:'2-digit', minute:'2-digit'});
+            };
+            feed.innerHTML = news.map(n => `
+                <div class="timeline-item">
+                    <div class="timeline-time">${fmt(n.time)} · ${n.source || ''}</div>
+                    <div class="timeline-text"><a href="${n.link || '#'}" target="_blank" rel="noopener" style="color:var(--text-primary);text-decoration:none">${n.title || ''}</a></div>
+                </div>`).join('');
+            const upd = document.getElementById('news-updated');
+            if (upd && marketData.generatedAt) {
+                const d = new Date(marketData.generatedAt);
+                upd.textContent = 'updated ' + d.toLocaleTimeString('en-US', {hour:'2-digit', minute:'2-digit'});
+            }
         }
 
         function updateAllSections() {
