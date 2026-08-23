@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T19:56:31.291106+08:00",
+  "generatedAt": "2026-08-23T20:27:35.766139+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-23T19:39:36.831387+08:00",
-        "next_run": "2026-08-23T20:09:36.831387+08:00"
+        "last_run": "2026-08-23T20:10:41.180629+08:00",
+        "next_run": "2026-08-23T20:40:41.180629+08:00"
       },
       {
         "id": "539a150ac028",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-23T19:26:28.622666+08:00",
-        "next_run": "2026-08-23T20:26:28.836300+08:00"
+        "last_run": "2026-08-23T19:56:33.448560+08:00",
+        "next_run": "2026-08-23T20:57:33.565430+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-23T19:34:26.121725+08:00",
-        "next_run": "2026-08-23T20:04:26.121725+08:00"
+        "last_run": "2026-08-23T20:04:30.883402+08:00",
+        "next_run": "2026-08-23T20:34:30.883402+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-23T19:50:28.114061+08:00",
-        "next_run": "2026-08-23T20:00:28.114061+08:00"
+        "last_run": "2026-08-23T20:20:32.821777+08:00",
+        "next_run": "2026-08-23T20:30:32.821777+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-23T19:42:27.143127+08:00",
-        "next_run": "2026-08-23T19:57:27.143127+08:00"
+        "last_run": "2026-08-23T20:27:34.307177+08:00",
+        "next_run": "2026-08-23T20:42:34.307177+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -323,9 +323,9 @@
         "enabled": true,
         "name": "Weekly Portfolio Debt Review",
         "schedule": "0 20 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
-        "next_run": "2026-08-23T20:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-23T20:02:02.020961+08:00",
+        "next_run": "2026-08-30T20:00:00+08:00"
       },
       {
         "id": "d0488acf6e7a",
@@ -410,7 +410,7 @@
       }
     ],
     "total": 29,
-    "healthy": 25
+    "healthy": 26
   },
   "agents": {
     "hermes": {
@@ -435,14 +435,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-23T19:56:31.290733+08:00",
+      "time": "2026-08-23T20:27:35.765763+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-23T19:56:31.290733+08:00",
+      "time": "2026-08-23T20:27:35.765763+08:00",
       "type": "info",
-      "text": "⏰ Cron: 25/29 jobs healthy"
+      "text": "⏰ Cron: 26/29 jobs healthy"
     },
     {
       "time": "2026-08-23T10:01:08+08:00",
@@ -478,7 +478,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 29,
-    "healthyCronJobs": 25,
+    "healthyCronJobs": 26,
     "avgProgress": 67
   }
 }
