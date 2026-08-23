@@ -1,4 +1,4 @@
-const CACHE = 'mission-control-v3';
+const CACHE = 'mission-control-v4';
 const ASSETS = [
   './',
   './index.html',
@@ -25,8 +25,8 @@ self.addEventListener('activate', (e) => {
 // Network-first for data AND the page shell (fresh HTML + prices), cache fallback for offline
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);
-  // Always network-first for JSON data (live prices/news) and index.html (page shell)
-  if (url.pathname.endsWith('.json') || url.pathname.endsWith('/') || url.pathname.endsWith('index.html')) {
+  // Always network-first for JSON data (live prices/news), index.html (page shell), and manifest.json
+  if (url.pathname.endsWith('.json') || url.pathname.endsWith('/') || url.pathname.endsWith('index.html') || url.pathname.endsWith('manifest.json')) {
     e.respondWith(
       fetch(e.request).then((res) => {
         const clone = res.clone();
