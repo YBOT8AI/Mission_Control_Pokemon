@@ -219,7 +219,7 @@ def get_hermes_agent_status():
 
 
 def get_system_health():
-    """Basic system health metrics."""
+    """System health metrics — CPU, memory, disk, network, top processes."""
     import platform
 
     # Disk usage
@@ -230,13 +230,195 @@ def get_system_health():
     out, ok = run("uptime | awk -F'up ' '{print $2}' | awk -F',' '{print $1}'", timeout=5)
     uptime = out.strip() if ok else "?"
 
+    # CPU: load averages + usage %
+    load = []
+    out, ok = run("sysctl -n vm.loadavg 2>/dev/null", timeout=5)
+    if ok and out:
+        load = [float(x) for x in out.replace("{", "").replace("}", "").split()[:3]]
+
+    cpu_usage = "?"
+    out, ok = run("top -l 1 -n 0 2>/dev/null | grep 'CPU usage' | awk -F'idle' '{print $1}'", timeout=8)
+    if ok and out:
+        # e.g. "CPU usage: 19.61% user, 14.83% sys, " → sum user+sys
+        import re as _re
+        nums = _re.findall(r"([\d.]+)%\s*(user|sys)", out)
+        if nums:
+            busy = sum(float(n) for n, _ in nums)
+            cpu_usage = f"{round(busy, 1)}%"
+
+    # Memory: total (bytes) + used %
+    mem_total_gb = "?"
+    out, ok = run("sysctl -n hw.memsize 2>/dev/null", timeout=5)
+    if ok and out and out.isdigit():
+        mem_total_gb = round(int(out) / (1024**3), 1)
+
+    mem_used_pct = "?"
+    out, ok = run("vm_stat 2>/dev/null | awk '/Pages active/{a=$3} /Pages wired/{w=$4} /Pages occupied/{o=$3} END{print a+w}'", timeout=5)
+    # fallback: use memory_pressure
+    if ok and out and out.strip().isdigit():
+        pages_used = int(out.strip())
+        # approximate: pages * 4096 / total
+        out2, ok2 = run("sysctl -n hw.memsize 2>/dev/null", timeout=5)
+        if ok2 and out2.isdigit():
+            total_bytes = int(out2)
+            mem_used_pct = round((pages_used * 4096 / total_bytes) * 100, 1)
+
+    # Network: local IP
+    local_ip = "?"
+    out, ok = run("ipconfig getifaddr en0 2>/dev/null || ipconfig getifaddr en1 2>/dev/null", timeout=5)
+    if ok and out:
+        local_ip = out.strip()
+
+    # Top processes by CPU
+    top_procs = []
+    out, ok = run("ps -Ao pcpu,pmem,comm -r 2>/dev/null | head -6", timeout=5)
+    if ok and out:
+        lines = out.split("\n")[1:]  # skip header
+        for line in lines:
+            parts = line.split(None, 2)
+            if len(parts) >= 3:
+                top_procs.append({
+                    "cpu": parts[0],
+                    "mem": parts[1],
+                    "name": parts[2].split("/")[-1][:30],
+                })
+
     return {
         "hostname": platform.node(),
         "platform": platform.platform(),
         "diskUsed": disk_used.rstrip("%"),
         "diskAvail": disk_avail,
         "uptime": uptime,
+        "cpu": {
+            "loadAvg": load,
+            "usage": cpu_usage,
+        },
+        "memory": {
+            "totalGb": mem_total_gb,
+            "usedPct": mem_used_pct,
+        },
+        "network": {
+            "localIp": local_ip,
+        },
+        "topProcesses": top_procs,
     }
+
+
+def get_workout_data():
+    """Parse ~/.hermes/workout-log.md into structured training data."""
+    import re
+    log_path = os.path.expanduser("~/.hermes/workout-log.md")
+    result = {
+        "exists": False,
+        "commitment": {},
+        "weeks": [],
+        "stats": {"daysLogged": 0, "runsCompleted": 0, "pushupsCompleted": 0, "totalDays": 0},
+    }
+    if not os.path.isfile(log_path):
+        return result
+
+    result["exists"] = True
+    try:
+        with open(log_path, "r") as f:
+            text = f.read()
+    except Exception:
+        return result
+
+    # Commitment lines
+    for line in text.split("\n"):
+        s = line.strip()
+        if s.startswith("- 🏃"):
+            result["commitment"]["run"] = s.lstrip("- ").strip()
+        elif s.startswith("- 💪"):
+            result["commitment"]["pushups"] = s.lstrip("- ").strip()
+        elif s.startswith("- Rules"):
+            result["commitment"]["rules"] = s.lstrip("- ").strip()
+
+    # Parse weekly tables: rows like | Mon Aug 17 | ✅ 5km | ✅ 100 | ... |
+    rows = []
+    for line in text.split("\n"):
+        s = line.strip()
+        if not s.startswith("|"):
+            continue
+        cells = [c.strip() for c in s.strip("|").split("|")]
+        # header rows: "Day", "Run (5km)" — skip
+        if cells and cells[0].lower() in ("day", "-----", ""):
+            continue
+        if len(cells) >= 3 and re.search(r"(Mon|Tue|Wed|Thu|Fri|Sat|Sun)", cells[0]):
+            rows.append(cells)
+
+    total_days = runs = pushups = 0
+    for r in rows:
+        day = r[0] if len(r) > 0 else ""
+        run_cell = r[1] if len(r) > 1 else ""
+        pu_cell = r[2] if len(r) > 2 else ""
+        notes = r[3] if len(r) > 3 else ""
+        if not day:
+            continue
+        total_days += 1
+        run_done = "✅" in run_cell and "❌" not in run_cell
+        pu_done = "✅" in pu_cell
+        if run_done:
+            runs += 1
+        if pu_done:
+            pushups += 1
+
+    result["weeks"] = [
+        {"day": r[0], "run": r[1], "pushups": r[2], "notes": r[3] if len(r) > 3 else ""}
+        for r in rows
+    ]
+    result["stats"] = {
+        "daysLogged": total_days,
+        "runsCompleted": runs,
+        "pushupsCompleted": pushups,
+        "totalDays": total_days,
+    }
+
+    # Current streak estimate: count trailing consecutive ✅ runs
+    streak = 0
+    for r in reversed(rows):
+        run_cell = r[1] if len(r) > 1 else ""
+        if "✅" in run_cell and "❌" not in run_cell:
+            streak += 1
+        elif "❌" in run_cell or "—" in run_cell:
+            # a rest day or miss breaks the "never miss twice" streak only if not makeup
+            continue
+        else:
+            break
+    result["stats"]["currentStreak"] = streak
+
+    return result
+
+
+def get_sub_agents(cron_data):
+    """Build the sub-agent roster, cross-referencing live cron jobs."""
+    jobs = cron_data.get("jobs", []) if cron_data else []
+    job_names = " ".join(j.get("name", "") for j in jobs)
+
+    def status_for(needle):
+        if needle.lower() in job_names.lower():
+            return "active"
+        return "standby"
+
+    roster = [
+        {"name": "Lawania", "emoji": "⚖️", "role": "Legal Compliance", "status": status_for("Lawania")},
+        {"name": "Dr. Demi", "emoji": "🩺", "role": "Health & Biohacking", "status": status_for("Dr. Demi")},
+        {"name": "Noelle", "emoji": "📅", "role": "Personal Assistant", "status": status_for("Noelle")},
+        {"name": "Agent-Bling Bling", "emoji": "💎", "role": "Investment Strategist", "status": status_for("Bling")},
+        {"name": "Lucky 8", "emoji": "🎱", "role": "TechWealth Revenue Team", "status": status_for("Lucky 8")},
+        {"name": "Future Me 44", "emoji": "🔮", "role": "Future Self Advisor", "status": status_for("Future Me")},
+    ]
+
+    # Find the cron job names/schedules for each
+    for a in roster:
+        match = next((j for j in jobs if a["name"].lower() in j.get("name", "").lower()), None)
+        if match:
+            a["schedule"] = match.get("schedule", "")
+            a["lastStatus"] = match.get("last_status", "unknown")
+            a["lastRun"] = match.get("last_run")
+
+    return roster
+
 
 
 def build_activity_log(git_stats, cron_data):
@@ -313,7 +495,17 @@ def main():
     sys_health = get_system_health()
     print(f"     → {sys_health['hostname']}, disk: {sys_health['diskUsed']}% used")
 
-    # 5. Build activity log
+    # 5. Workout / training data
+    print("  🏋️ Workout log...")
+    workout_data = get_workout_data()
+    print(f"     → {workout_data['stats'].get('daysLogged', 0)} days logged, streak: {workout_data['stats'].get('currentStreak', 0)}")
+
+    # 6. Sub-agent roster
+    print("  🤖 Sub-agent roster...")
+    sub_agents = get_sub_agents(cron_data)
+    print(f"     → {len(sub_agents)} agents")
+
+    # 7. Build activity log
     activity = build_activity_log(git_stats, cron_data)
 
     # 6. Assemble final data.json
@@ -395,6 +587,8 @@ def main():
         "cron": cron_data,
         "agents": agents_out,
         "systemHealth": sys_health,
+        "workout": workout_data,
+        "subAgents": sub_agents,
         "activity": activity,
         "stats": {
             "totalProjects": len(PROJECTS),
