@@ -66,6 +66,7 @@
 
         .logo { display: flex; align-items: center; gap: 10px; }
         .logo-icon { font-size: 1.5em; }
+        .logo-img { width: 30px; height: 30px; border-radius: 6px; image-rendering: auto; flex-shrink: 0; }
         .logo-text {
             font-size: 0.95em; font-weight: 600; letter-spacing: -0.01em;
             color: var(--text-primary);
@@ -389,7 +390,7 @@
             border-radius: var(--radius-xl); padding: 44px 36px;
             text-align: center; max-width: 380px; width: 90%;
         }
-        .login-box .login-pokemon { width: 64px; height: 64px; image-rendering: pixelated; margin-bottom: 16px; }
+        .login-box .login-pokemon { width: 64px; height: 64px; margin-bottom: 16px; object-fit: cover; }
         .login-box h2 { font-size: 1.3em; font-weight: 700; color: var(--text-primary); margin-bottom: 6px; letter-spacing: -0.02em; }
         .login-box p { font-size: 0.8em; color: var(--text-tertiary); margin-bottom: 24px; }
         .login-box input {
@@ -440,7 +441,7 @@
     <!-- ── Login ──────────────────────────────────────────────── -->
     <div id="login-screen">
         <div class="login-box">
-            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png" alt="Mewtwo" class="login-pokemon" style="filter:drop-shadow(0 0 20px rgba(94,106,210,0.5))">
+            <img src="icons/logo.jpg" alt="Mission Control" class="login-pokemon" style="border-radius:12px">
             <h2>Mission Control</h2>
             <p>Secure access required</p>
             <input type="password" id="password-input" placeholder="Enter access code">
@@ -452,7 +453,7 @@
     <!-- ── Header ────────────────────────────────────────────── -->
     <header class="header">
         <div class="logo">
-            <span class="logo-icon">⚡</span>
+            <img src="icons/logo-header.png" alt="Mission Control" class="logo-img" onerror="this.style.display='none'">
             <span class="logo-text">Mission<span class="logo-dot">.</span>Control</span>
         </div>
         <nav class="nav-links">

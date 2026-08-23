@@ -1,10 +1,12 @@
-const CACHE = 'mission-control-v1';
+const CACHE = 'mission-control-v2';
 const ASSETS = [
   './',
   './index.html',
   './data.json',
   './market.json',
   './manifest.json',
+  './icons/logo.jpg',
+  './icons/logo-header.png',
   './icons/icon-192.png',
   './icons/icon-512.png',
   './icons/icon-512-maskable.png'
