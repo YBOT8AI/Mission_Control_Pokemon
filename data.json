@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:43:23.824520+08:00",
+  "generatedAt": "2026-08-23T11:14:26.474171+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -162,8 +162,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-23T10:20:30.529150+08:00",
-        "next_run": "2026-08-23T10:50:30.529150+08:00"
+        "last_run": "2026-08-23T10:51:32.780172+08:00",
+        "next_run": "2026-08-23T11:21:32.780172+08:00"
       },
       {
         "id": "539a150ac028",
@@ -198,8 +198,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-23T04:51:15.029328+08:00",
-        "next_run": "2026-08-23T10:51:15.029328+08:00"
+        "last_run": "2026-08-23T10:52:28.083871+08:00",
+        "next_run": "2026-08-23T16:52:28.083871+08:00"
       },
       {
         "id": "84968eb1095e",
@@ -207,8 +207,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-23T10:12:23.925051+08:00",
-        "next_run": "2026-08-23T11:13:21.673206+08:00"
+        "last_run": "2026-08-23T10:43:26.112337+08:00",
+        "next_run": "2026-08-23T11:44:24.286429+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -234,8 +234,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-23T10:33:21.541748+08:00",
-        "next_run": "2026-08-23T11:03:21.541748+08:00"
+        "last_run": "2026-08-23T11:03:23.995707+08:00",
+        "next_run": "2026-08-23T11:33:23.995707+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -243,8 +243,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-23T10:38:21.368697+08:00",
-        "next_run": "2026-08-23T10:48:21.368697+08:00"
+        "last_run": "2026-08-23T11:08:23.916947+08:00",
+        "next_run": "2026-08-23T11:18:23.916947+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -288,8 +288,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-23T10:40:21.828348+08:00",
-        "next_run": "2026-08-23T10:55:21.828348+08:00"
+        "last_run": "2026-08-23T11:10:24.347765+08:00",
+        "next_run": "2026-08-23T11:25:24.347765+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -431,16 +431,16 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "413Gi",
-    "uptime": "4 days"
+    "uptime": "5 days"
   },
   "activity": [
     {
-      "time": "2026-08-23T10:43:23.824186+08:00",
+      "time": "2026-08-23T11:14:26.473754+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-23T10:43:23.824186+08:00",
+      "time": "2026-08-23T11:14:26.473754+08:00",
       "type": "info",
       "text": "⏰ Cron: 23/29 jobs healthy"
     },
