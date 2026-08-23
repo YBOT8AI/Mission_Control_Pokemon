@@ -1,0 +1,15 @@
+{
+  "name": "Mission Control — YBOT Operations",
+  "short_name": "Mission Control",
+  "description": "Pokémon-themed unified portfolio dashboard for YBOT's ventures",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08090a",
+  "theme_color": "#08090a",
+  "orientation": "any",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
