@@ -420,6 +420,196 @@ def get_sub_agents(cron_data):
     return roster
 
 
+def get_github_activity():
+    """Fetch recent commit activity across all repos via GitHub API."""
+    import urllib.request
+    import urllib.error
+
+    def _fetch_commit_message(repo, sha, token):
+        """Resolve a commit message from its SHA when the event payload is truncated."""
+        url = f"https://api.github.com/repos/{repo}/commits/{sha}"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "mission-control"})
+        if token:
+            req.add_header("Authorization", f"token {token}")
+        try:
+            with urllib.request.urlopen(req, timeout=8) as resp:
+                data = json.loads(resp.read().decode())
+            return (data.get("commit", {}) or {}).get("message", "")
+        except Exception:
+            return ""
+
+    # Read token from ~/.git-credentials (format: https://user:token@github.com)
+    token = None
+    cred_path = os.path.expanduser("~/.git-credentials")
+    if os.path.isfile(cred_path):
+        try:
+            with open(cred_path) as f:
+                for line in f:
+                    if "github.com" in line:
+                        token = line.strip().split("@github.com")[0].rsplit(":", 1)[-1]
+                        break
+        except Exception:
+            pass
+
+    repos = [p.get("repo", "") for p in PROJECTS.values() if p.get("repo")]
+    events = []
+
+    for repo in repos:
+        if not repo:
+            continue
+        url = f"https://api.github.com/repos/{repo}/events?per_page=15"
+        req = urllib.request.Request(url, headers={"Accept": "application/vnd.github+json", "User-Agent": "mission-control"})
+        if token:
+            req.add_header("Authorization", f"token {token}")
+        try:
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                data = json.loads(resp.read().decode())
+        except Exception:
+            continue
+
+        for ev in data:
+            etype = ev.get("type", "")
+            if etype not in ("PushEvent", "PullRequestEvent", "IssuesEvent", "CreateEvent", "DeleteEvent", "ReleaseEvent"):
+                continue
+            actor = (ev.get("actor") or {}).get("login", "unknown")
+            created = ev.get("created_at", "")
+            repo_name = (ev.get("repo") or {}).get("name", repo)
+            title = ""
+            detail = ""
+            if etype == "PushEvent":
+                payload = ev.get("payload", {})
+                commits = payload.get("commits", [])
+                if commits:
+                    title = commits[-1].get("message", "")[:60]
+                else:
+                    # GitHub truncates commit arrays on busy repos — resolve via head SHA
+                    head_sha = payload.get("head", "")
+                    if head_sha:
+                        cmsg = _fetch_commit_message(repo, head_sha, token)
+                        title = (cmsg or "")[:60]
+                    if not title:
+                        title = head_sha[:7] if head_sha else "push"
+                detail = f"{payload.get('size', 1)} commit(s)"
+            elif etype == "PullRequestEvent":
+                pr = ev.get("payload", {}).get("pull_request", {})
+                title = pr.get("title", "")[:60]
+                detail = (ev.get("payload", {}).get("action", "") or "").title()
+            elif etype == "IssuesEvent":
+                iss = ev.get("payload", {}).get("issue", {})
+                title = iss.get("title", "")[:60]
+                detail = (ev.get("payload", {}).get("action", "") or "").title()
+            elif etype == "CreateEvent":
+                title = (ev.get("payload", {}).get("ref_type", "") or "") + " " + (ev.get("payload", {}).get("ref", "") or "")
+            elif etype == "ReleaseEvent":
+                title = (ev.get("payload", {}).get("release", {}) or {}).get("name", "release")
+                detail = "Release"
+            else:
+                title = etype
+
+            events.append({
+                "repo": repo_name,
+                "type": etype,
+                "actor": actor,
+                "time": created,
+                "title": title,
+                "detail": detail,
+            })
+
+    events.sort(key=lambda x: x.get("time", ""), reverse=True)
+    return events[:40]
+
+
+def get_research_buddy():
+    """Parse the AI research buddy state + journal into structured data."""
+    base = os.path.expanduser("~/ai-research-buddy")
+    result = {
+        "exists": False,
+        "state": {},
+        "journal": [],
+        "lastUpdated": None,
+    }
+    state_path = os.path.join(base, "state.md")
+    journal_path = os.path.join(base, "journal.md")
+
+    if not os.path.isdir(base):
+        return result
+    result["exists"] = True
+
+    # Parse state.md
+    if os.path.isfile(state_path):
+        try:
+            with open(state_path) as f:
+                state_text = f.read()
+        except Exception:
+            state_text = ""
+
+        def grab_section(heading):
+            import re as _re
+            lines = []
+            in_section = False
+            for line in state_text.split("\n"):
+                if line.startswith("## " + heading):
+                    in_section = True
+                    continue
+                if in_section and line.startswith("## "):
+                    break
+                if in_section:
+                    s = line.strip()
+                    # bullet "- item" or numbered "1. item"
+                    if s.startswith("- "):
+                        lines.append(s[2:].strip())
+                    elif _re.match(r"^\d+\.\s+", s):
+                        lines.append(_re.sub(r"^\d+\.\s+", "", s).strip())
+            return lines
+
+        result["state"] = {
+            "meta": {
+                "created": "",
+                "lastUpdated": "",
+                "cycles": "",
+            },
+            "hierarchy": grab_section("Research Hierarchy"),
+            "currentFocus": grab_section("Current Focus"),
+            "activeHypotheses": grab_section("Active Hypotheses"),
+            "openQuestions": grab_section("Open Questions"),
+            "completedResearch": grab_section("Completed Research"),
+            "nextSteps": grab_section("Next Steps"),
+            "keyInsights": grab_section("Key Insights"),
+        }
+        # Meta lines
+        for line in state_text.split("\n"):
+            s = line.strip()
+            if s.startswith("- Created:"):
+                result["state"]["meta"]["created"] = s.split(":", 1)[-1].strip()
+            elif s.startswith("- Last updated:"):
+                result["state"]["meta"]["lastUpdated"] = s.split(":", 1)[-1].strip()
+                result["lastUpdated"] = s.split(":", 1)[-1].strip()
+            elif s.startswith("- Cycles run:"):
+                result["state"]["meta"]["cycles"] = s.split(":", 1)[-1].strip()
+
+    # Parse journal.md (reverse chronological)
+    if os.path.isfile(journal_path):
+        try:
+            with open(journal_path) as f:
+                journal_text = f.read()
+        except Exception:
+            journal_text = ""
+        entries = []
+        current = None
+        for line in journal_text.split("\n"):
+            s = line.strip()
+            if s.startswith("## "):
+                if current:
+                    entries.append(current)
+                current = {"date": s.lstrip("# ").strip(), "items": []}
+            elif current and s.startswith("-"):
+                current["items"].append(s.lstrip("- ").strip())
+        if current:
+            entries.append(current)
+        result["journal"] = entries
+
+    return result
+
 
 def build_activity_log(git_stats, cron_data):
     """Build activity log from real data."""
@@ -505,7 +695,17 @@ def main():
     sub_agents = get_sub_agents(cron_data)
     print(f"     → {len(sub_agents)} agents")
 
-    # 7. Build activity log
+    # 7. GitHub activity feed
+    print("  📊 GitHub activity...")
+    github_activity = get_github_activity()
+    print(f"     → {len(github_activity)} events")
+
+    # 8. Research buddy insights
+    print("  🧠 Research buddy...")
+    research_buddy = get_research_buddy()
+    print(f"     → cycles: {research_buddy.get('state', {}).get('meta', {}).get('cycles', '?')}")
+
+    # 9. Build activity log
     activity = build_activity_log(git_stats, cron_data)
 
     # 6. Assemble final data.json
@@ -589,6 +789,8 @@ def main():
         "systemHealth": sys_health,
         "workout": workout_data,
         "subAgents": sub_agents,
+        "githubActivity": github_activity,
+        "researchBuddy": research_buddy,
         "activity": activity,
         "stats": {
             "totalProjects": len(PROJECTS),

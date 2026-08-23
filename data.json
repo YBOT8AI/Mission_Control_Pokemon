@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:07:28.339040+08:00",
+  "generatedAt": "2026-08-24T07:13:23.383719+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -452,43 +452,43 @@
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        8.77,
-        4.56,
-        2.72
+        11.64,
+        8.96,
+        5.34
       ],
-      "usage": "99.8%"
+      "usage": "100.0%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 54.9
+      "usedPct": 55.0
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "87.7",
+        "cpu": "92.3",
+        "mem": "0.3",
+        "name": "clang++"
+      },
+      {
+        "cpu": "88.9",
+        "mem": "0.9",
+        "name": "clang++"
+      },
+      {
+        "cpu": "87.6",
         "mem": "0.5",
         "name": "clang++"
       },
       {
         "cpu": "86.9",
-        "mem": "0.6",
+        "mem": "0.7",
         "name": "clang++"
       },
       {
         "cpu": "86.4",
         "mem": "0.7",
-        "name": "clang++"
-      },
-      {
-        "cpu": "86.0",
-        "mem": "0.3",
-        "name": "clang++"
-      },
-      {
-        "cpu": "85.7",
-        "mem": "0.3",
         "name": "clang++"
       }
     ]
@@ -602,14 +602,389 @@
       "status": "standby"
     }
   ],
+  "githubActivity": [
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-23T22:04:54Z",
+      "title": "lucky8: revenue deliberation — 2026-08-24",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-23T19:54:48Z",
+      "title": "docs: monthly market research — August 2026\n\nResearched all ",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-23T17:45:08Z",
+      "title": "feat: one migration file, an invite button, and the recruiti",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-23T17:34:12Z",
+      "title": "fix: thirteen admin routes were refusing signed-in admins\n\nT",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-23T17:29:14Z",
+      "title": "fix: the Chinese and German pages were substantially in Engl",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-23T17:17:35Z",
+      "title": "fix: booking and recruitment pages required a login in produ",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-23T02:01:10Z",
+      "title": "Weekly roadmap review — 2026-08-23",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-22T14:50:18Z",
+      "title": "docs: correct commit hash reference in Task 30 log entries",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-22T14:50:08Z",
+      "title": "docs: competitor deep-dives + STRATEGY.md moat correction (T",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "WorldPaws/WorldPawsOrg_Website",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-22T01:01:23Z",
+      "title": "docs: refresh .hermes.md — donations closed, token frozen, c",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-21T23:17:42Z",
+      "title": "lucky8: i18n keys for payment-success state (fix build basel",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-21T23:15:56Z",
+      "title": "lucky8: revenue deliberation — 2026-08-22",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "WorldPaws/WorldPawsOrg_Website",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-21T21:08:22Z",
+      "title": "Merge branch 'main' of github.com:WorldPaws/WorldPawsOrg_Web",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-21T13:54:58Z",
+      "title": "security: rate-limit the endpoints where guessing pays\n\nSign",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-21T13:46:01Z",
+      "title": "security: stop shipping the admin API token to every visitor",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-21T02:22:05Z",
+      "title": "feat: give each page its own identity in search, and add rob",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-21T01:05:22Z",
+      "title": "feat: complete the Home Repairs catalogue — 9 jobs to 30\n\nCo",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T22:19:28Z",
+      "title": "lucky8: revenue deliberation — 2026-08-21",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T17:26:57Z",
+      "title": "feat: an approved member can now actually get in\n\nAn applica",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T17:26:29Z",
+      "title": "feat: provider \"go online\" screen with nearby jobs\n\nThe Uber",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T17:18:16Z",
+      "title": "feat: capture member professions, and a field playbook for t",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T13:22:12Z",
+      "title": "fix: align Organization & Decluttering pricing (page ↔ booki",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T10:49:03Z",
+      "title": "feat: mobile-first quick service intake at /request\n\nFour fu",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T07:36:57Z",
+      "title": "db: add migration 004 — create 7 missing tables + performanc",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T07:06:00Z",
+      "title": "feat: full cost model for Home Repairs; guide for unlocking ",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T06:51:49Z",
+      "title": "docs: add Phase 0 — member acquisition precedes deal flow\n\nE",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T06:40:27Z",
+      "title": "fix: module-scope Supabase clients broke the build\n\n`npm run",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-20T06:31:40Z",
+      "title": "feat: launch gate — ship with home repairs only, one line to",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T04:01:47Z",
+      "title": "docs: add billionaire-grade business proposal",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "WorldPaws/WorldPawsOrg_Website",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T04:01:45Z",
+      "title": "docs: add institutional business plan",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T04:01:43Z",
+      "title": "docs: add institutional business plan",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/Orbitx-NFT",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-20T04:01:39Z",
+      "title": "docs: add institutional business plan",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-19T04:02:17Z",
+      "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/Orbitx-NFT",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-19T04:02:13Z",
+      "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-18T06:04:08Z",
+      "title": "docs: add Home Repairs HK market pricing validation (2026-08",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-16T18:48:02Z",
+      "title": "docs: record ESLint toolchain fix (Task 26) + CI workflow PA",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-16T18:47:05Z",
+      "title": "fix: align ESLint toolchain to Next 14 and make lint pass\n\n-",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-08T11:06:53Z",
+      "title": "feat: Projects, Dispatch and Assets, and the billing that co",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-07T05:11:56Z",
+      "title": "feat: gate the CRM, scope it per member, and add invoicing +",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-05T17:54:40Z",
+      "title": "Add modular multi-industry CRM with persistence, packages an",
+      "detail": "1 commit(s)"
+    }
+  ],
+  "researchBuddy": {
+    "exists": true,
+    "state": {
+      "meta": {
+        "created": "2026-08-24",
+        "lastUpdated": "2026-08-24",
+        "cycles": "0"
+      },
+      "hierarchy": [
+        "Financial freedom — retire dad (60) in 5yrs, match GF's $40k, Zhongshan house + Zeekr + driver",
+        "Close protection / bodyguard (career + CV campaign)",
+        "Robotics — HK security-robotics-as-a-service (10-yr venture)",
+        "KinKin — home services marketplace (charity-backed)",
+        "TechWealth — fintech platform",
+        "TechWealth-Tracker-Pro — portfolio tracker",
+        "Orbitx-NFT — NFT platform",
+        "WorldPawsOrg — animal welfare org site",
+        "Mission_Control_Pokemon — portfolio dashboard + identity hub (merged with former \"Dashboard\" project)"
+      ],
+      "currentFocus": [
+        "#1 Financial freedom (in progress)"
+      ],
+      "activeHypotheses": [
+        "(none yet)"
+      ],
+      "openQuestions": [
+        "(none yet)"
+      ],
+      "completedResearch": [
+        "(none yet)"
+      ],
+      "nextSteps": [
+        "Run first research cycle on #1: financial freedom",
+        "Income streams to reach $40k+/mo (match GF) and retire dad in 5yrs",
+        "Zhongshan house (670k RMB loan) + Zeekr + driver cost planning",
+        "Investment vehicles: BTC, ETH, SOL, VOO, SPX, SPCX, Gold, Silver, Oil, Gas (HKD)",
+        "Asset protection given Mainland spouse, no prenup"
+      ],
+      "keyInsights": [
+        "(none yet)"
+      ]
+    },
+    "journal": [
+      {
+        "date": "2026-08-24 — Initialization",
+        "items": [
+          "Created directory, state.md, journal.md.",
+          "No research run yet. Awaiting research focus definition."
+        ]
+      }
+    ],
+    "lastUpdated": "2026-08-24"
+  },
   "activity": [
     {
-      "time": "2026-08-24T07:07:28.338505+08:00",
+      "time": "2026-08-24T07:13:23.383624+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:07:28.338505+08:00",
+      "time": "2026-08-24T07:13:23.383624+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },
