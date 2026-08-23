@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:39:23.720358+08:00",
+  "generatedAt": "2026-08-24T07:45:18.830966+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -208,7 +208,7 @@
         "schedule": "every 30m",
         "last_status": "ok",
         "last_run": "2026-08-24T07:14:20.434948+08:00",
-        "next_run": "2026-08-24T07:44:20.434948+08:00"
+        "next_run": "2026-08-24T08:14:28.913522+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -446,49 +446,49 @@
   },
   "systemHealth": {
     "hostname": "YBOTs-MBP",
-    "platform": "macOS-12.7.6-x86_64-i386-64bit-Mach-O",
+    "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "407Gi",
+    "diskAvail": "406Gi",
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        17.61,
-        15.8,
-        13.47
+        12.92,
+        14.83,
+        13.86
       ],
-      "usage": "98.2%"
+      "usage": "96.0%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 53.3
+      "usedPct": 37.2
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "73.5",
-        "mem": "1.9",
+        "cpu": "78.1",
+        "mem": "0.8",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "71.7",
-        "mem": "3.9",
+        "cpu": "77.2",
+        "mem": "5.4",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "71.1",
-        "mem": "5.3",
+        "cpu": "76.6",
+        "mem": "0.2",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "71.1",
-        "mem": "2.5",
+        "cpu": "76.6",
+        "mem": "0.7",
         "name": "llvm-tblgen"
       },
       {
-        "cpu": "70.9",
-        "mem": "2.7",
+        "cpu": "76.3",
+        "mem": "3.4",
         "name": "llvm-tblgen"
       }
     ]
@@ -1053,12 +1053,12 @@
   ],
   "activity": [
     {
-      "time": "2026-08-24T07:39:23.720257+08:00",
+      "time": "2026-08-24T07:45:18.830868+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:39:23.720257+08:00",
+      "time": "2026-08-24T07:45:18.830868+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },
