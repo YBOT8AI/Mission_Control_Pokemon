@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:45:29.089278+08:00",
+  "generatedAt": "2026-08-24T07:49:57.490576+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -313,8 +313,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:14:20.434948+08:00",
-        "next_run": "2026-08-24T08:14:28.913522+08:00"
+        "last_run": "2026-08-24T07:45:30.597828+08:00",
+        "next_run": "2026-08-24T08:15:30.597828+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -349,8 +349,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:35:27.664588+08:00",
-        "next_run": "2026-08-24T07:45:27.664588+08:00"
+        "last_run": "2026-08-24T07:45:30.618687+08:00",
+        "next_run": "2026-08-24T07:55:30.618687+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -394,8 +394,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:30:26.697837+08:00",
-        "next_run": "2026-08-24T07:45:26.697837+08:00"
+        "last_run": "2026-08-24T07:45:31.070051+08:00",
+        "next_run": "2026-08-24T08:00:31.070051+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -558,44 +558,44 @@
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        12.13,
-        14.56,
-        13.78
+        13.66,
+        14.41,
+        13.95
       ],
-      "usage": "97.5%"
+      "usage": "98.0%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 42.6
+      "usedPct": 32.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "67.9",
-        "mem": "2.1",
-        "name": "llvm-tblgen"
+        "cpu": "76.3",
+        "mem": "1.4",
+        "name": "clang++"
       },
       {
-        "cpu": "67.7",
-        "mem": "1.6",
-        "name": "llvm-tblgen"
+        "cpu": "75.4",
+        "mem": "0.2",
+        "name": "clang++"
       },
       {
-        "cpu": "66.6",
-        "mem": "1.7",
-        "name": "llvm-tblgen"
+        "cpu": "75.0",
+        "mem": "1.1",
+        "name": "clang++"
       },
       {
-        "cpu": "66.3",
-        "mem": "1.5",
-        "name": "llvm-tblgen"
+        "cpu": "75.0",
+        "mem": "0.3",
+        "name": "clang++"
       },
       {
-        "cpu": "66.0",
-        "mem": "6.0",
-        "name": "llvm-tblgen"
+        "cpu": "74.2",
+        "mem": "0.2",
+        "name": "clang++"
       }
     ]
   },
@@ -1159,12 +1159,12 @@
   ],
   "activity": [
     {
-      "time": "2026-08-24T07:45:29.089147+08:00",
+      "time": "2026-08-24T07:49:57.490457+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:45:29.089147+08:00",
+      "time": "2026-08-24T07:49:57.490457+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },
