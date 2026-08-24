@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-08-25T01:08:42.373912+08:00",
+  "generatedAt": "2026-08-25T01:40:47.241144+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618481.92,
-      "changePct": 2.01
+      "priceHkd": 617407.84,
+      "changePct": 1.95
     },
     "ETH": {
-      "priceHkd": 19401.88,
-      "changePct": 1.15
+      "priceHkd": 19331.87,
+      "changePct": 1.04
     },
     "SOL": {
-      "priceHkd": 750.52,
-      "changePct": 0.44
+      "priceHkd": 745.82,
+      "changePct": 0.02
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5509.01,
-      "changePct": -0.15
+      "priceHkd": 5501.41,
+      "changePct": -0.28
     },
     "SPX": {
-      "priceHkd": 60069.14,
-      "changePct": -0.16
+      "priceHkd": 59993.72,
+      "changePct": -0.29
     },
     "SPCX": {
-      "priceHkd": 1068.44,
-      "changePct": -0.5
+      "priceHkd": 1068.36,
+      "changePct": -0.51
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1172.52,
-      "priceUsdOz": 4651.7
+      "priceHkdPerGram": 1170.15,
+      "priceUsdOz": 4642.3
     },
     "Silver": {
-      "priceHkdPerGram": 17.37,
-      "priceUsdOz": 68.92
+      "priceHkdPerGram": 17.31,
+      "priceUsdOz": 68.68
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 668.91,
-      "changePct": -2.0
+      "priceHkd": 664.99,
+      "changePct": -2.57
     },
     "Natural Gas": {
-      "priceHkd": 22.13,
-      "changePct": 1.8
+      "priceHkd": 22.11,
+      "changePct": 1.69
     }
   },
   "news": [
     {
-      "title": "Livestream, live updates: New rebuttal witness testifies in Lindsay Clancy trial - NBC Boston",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeENvZkZHU3dGcjlWdklFbDkwTjZwc3VTMXd2UERfMW5felVJV1pVa2NMY3NtQk1DbzdZaVJ3LTVsVVZad3VjRWtQMm9UWFgxMnBMRGowX09hVEtvdmVNOUdDd1hvTnFTWXVsTFoxZDdJb1NKNUZ3R1B3TG1NZ05ETkdxUlVzVzdDZWVLdWYxWdIBlwFBVV95cUxOZWlfd1NyM2ZuTUpMdmlMNGJjUV83UnY0eVRYaGdGRTBCNUh4NzlrOE9oVEpVbEZsbW9qNTRHcWsyWDRIbDNmVW10al82a0hQbTU0MDRPNUV5NVNGQjR2QVFkTkpBdEQta3BnbXNyaHExdENxRXBTX1NyblJwSFVodmw4QUhmXzViX2hIRGU1cm5wcDNsRzN3?oc=5",
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-25T01:29:59+08:00"
+    },
+    {
+      "title": "Former Illinois sheriff’s deputy who killed Sonya Massey in her home dies aged 32 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbnZiNnlpQ2MwdjA1a1JNMjF0VUFkMzRTN2o0ODR0ZWRKN3h6M2lnLUhIVHFiaDZvNWZQV2RNTmtIN2V1SEl3dm1PODRqbXVOQUt0cVNlNklIeUd6emliOXRqRkgtZ0JtSE9SWms3QnNRdEZlLXlOMjcwdmRDQ290SUk1ZmFyaC1Vd3VmTFFXYno?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T00:54:02+08:00"
+      "time": "2026-08-25T01:26:00+08:00"
+    },
+    {
+      "title": "Outrage in Nepal over rape and murder of three-year-old girl",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-25T01:24:25+08:00"
+    },
+    {
+      "title": "Deshaun Watson: My emotions got the best of me after being booed - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYnlzUnRzSHpLT3NzUDRPTGRqWVg1OXc5XzlyQ2xQdW5xWFZMdFl6cVp4WHZwT3dNcDdRdWo1VDE1WTI4aTBIZU9RM2VYV0x0dXZVdmtDMDJRcmVyYjdvWGIwR2tnUkdLUllYbG5DcUZmTmZpaXptN3Q2WVJnUTl5UFQ5ZjAtTFJXYXZubllwSy14Rk5LZW85SUhuWHN6dVd3dElrNFNZaFRFNEE3ZGlZTlk2VWh4Q2VTWnd2TmhNcE9xNTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T01:05:40+08:00"
     },
     {
       "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
@@ -65,10 +83,10 @@
       "time": "2026-08-25T00:50:47+08:00"
     },
     {
-      "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+      "title": "Treasury Secretary Scott Bessent is set to unveil new economic sanctions on Iran - NPR",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVlnRnlJRzZOY2ZlQTVmSGpoR0tPbmMwMi1ZRmtIa2c1Y2lVWTN2U3MxdzdsUFFMX0VHWmwxcDhTc0JRS0VvWkdGb0lkTmRYZjV2akt3aWpiai0tRC1FNDgtZlhhQXFNSzhrNWdNWkpoZ181Z085ak1lQlRfZ1c0aFhGSkdVZTNwbHJRV09JTTRLckZCSEU0NmNWNGhOMFNjaUVKMFhHeDU5WWVZcmdUY3BrX1EzVE0?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T00:38:00+08:00"
+      "time": "2026-08-25T00:39:32+08:00"
     },
     {
       "title": "Rail companies sued for £5m over oil spill caused by derailment",
@@ -83,28 +101,22 @@
       "time": "2026-08-25T00:18:41+08:00"
     },
     {
-      "title": "Lunar eclipse 2026: Will weather block it in the U.S.? - The Weather Channel",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDl5U1gyUVVGOUlyX2hwMnZKcDVya3RESUhSOV9sQVBnR2ZRQ0czcnlJb0Q4N1lSY3gxS2pJcThDdWwyNlJQX0RZVTN6RkE3TlY4NjlLa25lNVp1UktNdThYYTM0blZFdi1qNnJ5OG1fS3BLQnE1WFJCdl9kbkxYVDZfc3UydWhzVUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T00:00:58+08:00"
-    },
-    {
       "title": "Apple Watch Series 12: Everything to Expect Next Month - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONjFfUFdUbGVDX2ZNSFRSRXlsVS1GNlpfUnpKcW9IbHp5N1pyQWRidFpIeFp5dXVBQUhUSnpBVkF6WEI2dWVUWmZSbmhFaUtGX01mbXpEY21QaVBqb1lVTlRxX1lhTTF4NzQwb3BqRXlXX1pabXFTVUQwaVdvWThQUlJMeGYxZEk?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T23:55:35+08:00"
     },
     {
-      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T23:54:16+08:00"
+      "title": "Trump Live Updates: U.S. to Announce Iran Sanctions; Trump Issues New Canada Tariff Threat - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:53:53+08:00"
     },
     {
-      "title": "Trump hits back at Carney, threatens to hike auto, truck, metals tariffs to 50% - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1lmcVp0cU5yRWMtV3Y0eU4xUlR2aENvZ2hHZi1mM3ZYY1YzV0Z4UUw5STQ4Tms3X0N4S04zS3ppdWZObGpMcVNHZU5IN1lpOW51U2ZoRkhZbzFoMUJlc0tZYWYtWUdKMTRseTNkYWt6dGJwaVZXOG1Xc0lZZHRGMXhWckpfdU1HY09JRnRB?oc=5",
+      "title": "Local Business Group Sues Over Mamdani’s Plan to Open Municipal Grocery Stores - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHQ1NDkzVF9ReGlKZlRkU2s5TUwtbGFKNi1kUzR0OHNlV09oYzRXZnMyWnc4WVljMS1PNHVrMTcxMDR2RWptUV9SYzNrMGhSSWl6MThFYWJ4aVBJek1sYlpPMy1hVGtQZjJOaUhsY3VadDRiMUxQNkRYQ3h2XzFvbkFKdHE0eEJPeGpKZGRYOEpSdVdpakJ3YTJ3a0locG1scXlVYVVneUVzV1lFWGFGdXJqSFc?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T23:34:23+08:00"
+      "time": "2026-08-24T23:30:00+08:00"
     },
     {
       "title": "Reggie Watts: Festivals Remove Comedian, ‘Comedy Bang! Bang!’ Drops Theme Song - Rolling Stone",
@@ -119,12 +131,6 @@
       "time": "2026-08-24T23:21:11+08:00"
     },
     {
-      "title": "Big Apple targeted in lawsuit over Mamdani's government grocery store plans - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXlPUWtXRkdVb0hRVU5acnVWajg5bFAtQWNXaUZLM3dzRnZVREtNTFZFMm91Mktkd0tZTERvYkJrYXFPRXllZ2dpX29YNFVXRW1ZMWR3WmJETU9qQzRlTm10R3hmSGJkbjVDN0dfRWNGcFZmM3R1ZFBoY0pDRTVJa1pDSXk3OTkxVlZRbDhyZUtFaDFXdS1MRE5QVGVHSlBiQ0dVSXhkRnVUM0VX0gGyAUFVX3lxTE5ZUjNicnFWNnhYTkhhTkNrZ29ISVBLR1c2SmljRGdyZUNjbV9acURpNnBNc2plWGdESjcyR3JodXN2a0N3a2ZMV25uclF0c2FzaDV4SFhScmZSXzFYaXdIbm42Y0VYcmVuLUtUUFNvUDRXUEo0MDZYSjlSWkNBbVFqUGgzcEtob0lPZmZtbFd4RzhWNkNISWEtamJQZDVLSnVTdXlzSzl3c2dOMUxrTWZXZGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T23:20:00+08:00"
-    },
-    {
       "title": "UK to help Ukraine build Storm Shadow long-range missiles: Why it matters - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVllyNmJZd09teXQ2LUlsZVBrSmFLbjF3MW1kc0JvbWxubGEwR1FBQXR3WjRrcldLOXFzMUJjSmFhczJYU1VRdFNNcnF5YnBjQWlzY0FmdmtjNXpBV3R5cW10dmtnY0w5XzltZDY0dDFTSnpmR2kySDFTcFkwaXFaMFhMN193WFB3ajE0VFZvSnh6MFUzckFFVjFScmhJRHprT245YmhfNTAwV1l1cUxEYW9DRQ?oc=5",
       "source": "Google News Top",
@@ -137,16 +143,10 @@
       "time": "2026-08-24T23:14:14+08:00"
     },
     {
-      "title": "The Ruthless Efficiency of Ultrapotent Street Drugs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWhHVGZ3R2VEeVFMaEwtX0tsUEhURlJVRWE2MUpybTBUVlU2Y2dPendIVERSdm5hYWZiSjlDNWhLU2JNY1B3Y3A3cHFGd1JPc3oySll2ZjFNLTl5c2xUNzZIWF9ENkhnR0RqWV9mcHBqQmEzMkRBX0VvRTh0dnF3UXc5YzlNczQ?oc=5",
+      "title": "Trump administration moves to impose more than $100,000 fee for H-1B worker visas - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUtndEJ6VGx1aUtyN3gxdUFsOVQxNVU2Ymx4dXZCRDZyT3pwSXFJYW5NcF9rZ1duMTFxUHFMeHRCTGhHVXJvd2tYRDc5SG8zQjJTXzJxM1VDQ2w5QVRPTm1LekxpYnZGNm1YVHhFZ0FqYXFSSmw0aUx2RUk4UEhRZEJ4UEtYTGlrelBmZS1LZ1JEVENVdENRWFlmUURzQzVYcllSWDlILURhRXhxaU5FWWpUaFF1a0x2MzZSZmw0UkdhUk0?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T23:12:51+08:00"
-    },
-    {
-      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTFMRjRjUUFFMy1CZlRYODREeGdMaExJYTh3OTFReW5LNWxXakxkRzJhcURaMndxYmlrRUktSHV2QUNRcVhiclBYLTVFTmNrMXpsX2t4UWk4YXV2a0syVE00TzhKaXdlc2JGcnRfOTczNXcydUhrNmExYkg5bWFoVnRWTmpxUzU0Mm5icTV5ZXBhN1NyNGJiTEZ4aEtSNk16SDRLcVI3c1ByUdIBrwFBVV95cUxOYWZ0eW9xbUlMR21BU1N2WEtuak15QVBMSzUySUJIS2tFcDE2NFBuRDdHbktZdW9FV0JfbWVrQ3pZY0VQbWVwcEtsd1Rwa1BsdzYxdEZzUjdHSmNVQ3VrN1A2YWxYTFJTZTV5aFQ4WlVmWkVfTTFfeHJNZkhQVG9nR09HWEZDZ1Z1UENWVEhsYmF0aE9xS0VSOTVZOC00bHFKYXUyNnU3OUNsZzEtU0xZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T23:00:01+08:00"
+      "time": "2026-08-24T23:12:53+08:00"
     },
     {
       "title": "Raspberry Pi shares its official tutorial for making a cyberdeck - The Verge",
@@ -161,16 +161,16 @@
       "time": "2026-08-24T22:39:14+08:00"
     },
     {
-      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
+      "title": "S&P 500 falls slightly as chip stock slide outweighs yield decline: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WVhEWGtPNEFpYV90cDVnTW5jcjJ4XzMwRWl6d2dEOWxVMjk5cVA0bGNzMTR6THNiN3JIMlVCbkNaZHJlRUxMaTVZUFRJcTdfZW41TWNSXzI4a3hZOFdHcEtHcEJHb0ZwQTdLUE1LVkN3RG4zUnpB0gF8QVVfeXFMTlYxNW1kWmY1QUNNU3VLbUFwalRnVmYzTEY5aVRtTElfVFpfNmFEZDZ5ejdzS1RlWHQ1Q25BX0ZkOTZaMWNpT3ZrWXBPc0R1SnIzMVkzdGxvUG9qZUVyS0tieGd0NEZubGxJa2VNbnVTaXlzRUFPMjVWN2pocQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T22:24:53+08:00"
+      "time": "2026-08-24T22:10:22+08:00"
     },
     {
-      "title": "Washington Post Ordered to Rehire Fired Columnist Karen Attiah - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX2ZXdkdEX0lOZ2tmcmt3OEw1cFFRU3FIQS1IY25VYl9LRHQ1UFJrQzJIOGxEbHVUdjVTMnhONmhXTFBvZXUySmNNYURLdFJoNS1qV3hPZ19wRE5LOTZZVlFZQkluTnFHNXFBNm1FalBjbTdfVEJXb0ZzYWdDVmNiS0N4aw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T22:19:30+08:00"
+      "title": "Coin hidden in 1971 earns finder free pint of beer",
+      "link": "https://www.bbc.co.uk/news/videos/cx2zg9xzkzyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-24T22:10:10+08:00"
     }
   ]
 }
