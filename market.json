@@ -1,62 +1,128 @@
 {
-  "generatedAt": "2026-08-24T21:24:07.823253+08:00",
+  "generatedAt": "2026-08-24T21:56:18.371719+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619430.56,
-      "changePct": 1.93
+      "priceHkd": 612429.44,
+      "changePct": 0.86
     },
     "ETH": {
-      "priceHkd": 19703.57,
-      "changePct": 1.95
+      "priceHkd": 19452.06,
+      "changePct": 1.07
     },
     "SOL": {
-      "priceHkd": 754.13,
-      "changePct": 0.98
+      "priceHkd": 741.66,
+      "changePct": -0.81
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5517.09,
-      "changePct": 0.39
+      "priceHkd": 5502.19,
+      "changePct": -0.27
     },
     "SPX": {
-      "priceHkd": 60167.06,
-      "changePct": 0.43
+      "priceHkd": 59996.54,
+      "changePct": -0.28
     },
     "SPCX": {
-      "priceHkd": 1073.84,
-      "changePct": 2.22
+      "priceHkd": 1057.07,
+      "changePct": -1.56
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1177.63,
-      "priceUsdOz": 4672.0
+      "priceHkdPerGram": 1176.83,
+      "priceUsdOz": 4668.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.56,
-      "priceUsdOz": 69.66
+      "priceHkdPerGram": 17.43,
+      "priceUsdOz": 69.16
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 670.24,
-      "changePct": -1.8
+      "priceHkd": 669.93,
+      "changePct": -1.85
     },
     "Natural Gas": {
-      "priceHkd": 22.58,
-      "changePct": 3.86
+      "priceHkd": 22.43,
+      "changePct": 3.17
     }
   },
   "news": [
     {
+      "title": "Demand soars for free school uniform, says charity",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy4pve4v8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-24T21:46:48+08:00"
+    },
+    {
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T21:35:07+08:00"
+    },
+    {
+      "title": "‘Point Break’: The Totally Tubular Ride With High-Voltage Buddy Chemistry - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRHI0OHBjcmNnR2lZdDYwdUczeXJLNjlLa0xVQWRvNTJScHVSNHR1RmlXUV82TENtWnNWN3ZPNHZRNUU0SDVabWgwRl9NdnYwNGxSUDlpdWlLbU51QTFHMXNCVEQxUzlhY2NzblI1a18tVXJDQTVUcDV6emdzZGhkWlVkSk5xcW0tZFZ4QU5pMA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:28:11+08:00"
+    },
+    {
+      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
+      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T21:14:10+08:00"
+    },
+    {
+      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:14:00+08:00"
+    },
+    {
+      "title": "Iran War Updates: U.S. to unveil new sanctions Trump said would hit Iran with an \"economic D-Day\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEpzNDk2c1V6WnVlU0lpVnpZWlE4OC1YNl91RURET211TzluVGFCR0VYRm5qZkxMU1ZVTU9Sc2xzMXBudzhwcVppb1YxNlpDc1EySjVNV0xkSlRIS2VJU1FPMmtXdm52OHJJQ2cwUzdDX2NBLTQ1Tk5NNXk1RWtsSExqeDVRTnM0b2c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:12:00+08:00"
+    },
+    {
+      "title": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU3Q2YlhsVVJjQU9pODV0Zjg3RlRxU2ZqRWRLWHAtSHZ0M21mbHhJcG1uZm02ZnRBeC1DZDRKbnhTRzFpQXRTd1M1NFM3ZXBnX21hUjJST0NwUno4ZDNsTGh4bEhMeS0yeUxBci1lLWgwakZaOE5zWEdFYTBDMUFoMExGbGF0ZzJsM0xOTEJ3OGpCeHZiYkU1MDNHazc5OXZneldJd1Y5MmJqS3ItemfSAbMBQVVfeXFMTXhYTkZrTGVVNU1MZFhuSGJkRGFobDFjaXJHem1hNURLRVpTeXVxc3dYOG1QckU4RDF6eURQT3FNYXExdGFFenkyYmJSWlNyZlZTb0VKaFAxamtiYzdFQ3JJaEpsZkhlcS1weEZkQ281TzFZaGl6XzdwNUZxRGZzakFjTHJrSUU2R05ESkE1Um1OY2g5elJCTlVhYTViQ1NEX1BKZGJLZmx3N2ZveGc0ZDA4ZVk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:01:54+08:00"
+    },
+    {
+      "title": "Ranking 138 college football teams for 2026, from Indiana and Ohio State to Sac State and UMass - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcERHLXUwX2dvX3EyVlVEeUtnUkN0dHVJOVpSV00xMWcwcmlLMV9NZlJtNjc1SUt3RGd6T1JQZE9xaW9NYlJPb3Jhck1VN09aTm9iRVpJMFNISFpxQTdJMWlQeEh3OVg4Tzhod3Z2TVFwVUh5QWR3eS1WLTBVSnA0TUduTXlYN193UzZYc1pZQ2VHNHpsRDlVOGs3OVdNXzZZazYw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:01:51+08:00"
+    },
+    {
+      "title": "Tourist dies in Death Valley National Park after car gets stuck in 116-degree heat - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMExVVUNLTHZfb204VEtfYV9ScUZuWUI2Zl9UOXZOeXNJWFd4U09qVmpMZHp1OE5ZbVRkWE9jN1RHZDlxSFlDY2ZtSFBmdW9PN3owLTNGWF9rekkzVVdmOEpESDhPQzJPdVpCMmRJeFpTaE1TNGlONWtxbGV4b1I5M3p0QjRmN2RU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T20:59:00+08:00"
+    },
+    {
+      "title": "‘UK participating in Ukraine war’: What triggered Russia’s ‘outrageous threat’ to Britain - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX2w4R25uSVp5T3c5dDgxdGh0bE5RWWJKUW5aemU4bkQzaGNIMjZjNGJQdlEtaFdiQ0xMNDJ0MU9XR3lqVVNtMUIzRW5GQ0pjOFgzb0Z0MGhBZTVBdnU1S0J0blYzc1JZZHoybnkxVjBYYzFkUzFiaGtrSWgweHdFazQxMGNGMWljTHFBWjAwRkNBcjRQLTdhZmJzWDRKVnJkUDB6UjRtWHpRaWZfMVFxZnA1YkpXM1Q3eFBkdGIwZUlVWnFaZ29HTVd5dlliUE5JS1BKbDZBQ0MyTjdVNTZrSGRFX19jUGRjcS1KMVl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T20:52:00+08:00"
+    },
+    {
       "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more' - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZdIBfkFVX3lxTE5NWEtlcWFWSVFxdEdXVzN3STVEOG90UWgtT0c0UTB5aFpJWnZ0SDR0NHNWMTFTbGlENlRrQlRMMmZOYjdYWmpzSm0xQU80T2w3RlZEamZ3SFJ3MFJidzl6ZTFSa3lYSzFhY0xLeC1YSUoxa2M1UjhiVV9YRmVCZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T20:32:09+08:00"
+    },
+    {
+      "title": "Shelley Fabares, star of 'The Donna Reed Show' and 'Coach,' dead at 82 - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXhqYVRFVFcxSF90RGYtcnMtTzViU2VaYTRhS1NlUGJJQ1NYVWJXR0NDa1FyQ0haa0Y4Q216MXdJR3JtSXB5VU5vaUl4VE1CNUNIQWRxUVp1a1h1QVVlS2NaWFF1NU01UjhZLXdBMTE0cWh2b19DazdQX2lraTJ3NGRqZ1kzQTIxWDRDSnhVa0FWQdIBlwFBVV95cUxPMTZWc1JjMC1vV3drRGQ3NmtoT1pyQ1lneUdEbUlPMTdnSTdvTm93bk16TjBxNkttQ2h1RVdSYzdZUThEY2VWb0NKUkdKZC1sQ29FdVZWR0lMRTVYbVZPVE9xRVlaTXo5WkV4d281UzhfWDZabzNFMWR1UWU4VzREcjd0eTRDZnVpemlTSmtLTzJwdjdmNngw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T20:27:21+08:00"
     },
     {
       "title": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Bloomberg",
@@ -71,16 +137,10 @@
       "time": "2026-08-24T20:17:34+08:00"
     },
     {
-      "title": "US-Iran war latest: Iran’s currency drops to record low against dollar as US set to unveil ‘economic D-Day’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ONlg1RUdVNjBlVUJoQXMwUWw0Vk9LU3FBelJ1Y240TmJqQlFyS2dxeU1Zejk5LW83cnA0QXg1dm11enJDd3gydnhfdnIzTmJydUdxRVZHRzFuZlZESG5ESXlUT2RTWVhMcXQ2a3Fn?oc=5",
+      "title": "After 100 days of the deadliest Ebola outbreak, it can be stopped. Here’s how - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1NzVFRrRVIwWEllelhZVEVWWEg0VkFzR2I2bGlBZ0RBdEJSTW1yQ2pWSTVfSXJra0dZZlZJZGtDRFZOaXF2UkNfUDg5enhsWkJESHF6SFRqR3ZtMmRpbk5VdEJ6MGxtS3dTNFpMY2t0RnlqUkdOM0ZJM09CdjZxVTRPTFk1bUxiMndJZ0UzbWNZRnczZUp2MXJiZUllcC1mci1weThmVll0dVQtLV95VmFndGRQSkU?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T19:51:00+08:00"
-    },
-    {
-      "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1RLeVZWWUZDVlZaV2RpOG5UNmgwSkEyNFV6VGtxaHRTZTBZSjdfdUhrc3JlczJ6QXZkaXJiY2d6bjRlaF91Y0tGaVZQZm5YdV9qTTBxUW5nTzlWUEdlejVTMklrcGlmbW5sLXpNS2RfblFzZnFzd1hNQjd6ZUdXaEV0U3JkYmlzZklNVWxEd3ZYQ2t1N2EzMmFXNU1aN0JsTHJKRzVmMFBFVS1FcVAxQTN6S2d6aEVuZEE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T19:45:14+08:00"
+      "time": "2026-08-24T19:54:00+08:00"
     },
     {
       "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year - The Verge",
@@ -89,16 +149,16 @@
       "time": "2026-08-24T19:37:53+08:00"
     },
     {
+      "title": "U.S. Cancels Marines Drills With South Korea - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlc5ZDg4NmNuYWw5TEJHVDZsZVViRGV5akVPbzhvNzFrbTBMVGRFQzA1V0RvaXVXdmFFbW1YWlVFbnpzZFF2Y1JsSXI4b0VuQk9UNDU2c1RfaXhXVF9pbmdvYmVDT0lYX1I4eVRjaXBGM3FKV3dCZzRMeFJiekk1aDByUUo4TWRNWi1v?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T19:36:00+08:00"
+    },
+    {
       "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said - CNBC",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXNSUkxYZHM3YS04TWs4VDF1ZXVuY1V5aDE5dzdpbk41UTBSQTNWYTYtazVtLVByM3RySmFOVEh1aDlheFRaV21WbjNXRnZ4MkZsTEdHQW9wUGN4SUpfczlMLTBXVTlDOXRGTmZWMk1DcXpUV0tkdmRqWjV3RGhpcDBibU5Qako4M1luRERxa0NZRE1lR2ZUYjlR0gGfAUFVX3lxTE53OFFzUEdOSkhPbjdDLWpmZ0lpM1NHY0d6dWRqcXVQSVc5TGlHSDFmRHVtU0p3Um9GX2k3akU2YzlyVnlyWEc4OE54TzV2YUdMbkhyZjgxVFozREFWeGpnRG11XzZ6QWtzRm81QmRERlNKZm02OVdxMllUdGNhbHQ1QTl0YjR5ZlpyN0RMUzVQNFh4U09GcDZ5OV93M2FGQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T19:34:25+08:00"
-    },
-    {
-      "title": "These Conservatives Want to Be Working Moms. The Manosphere Disapproves. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcm1USHpKYVZoUUxhNWxfR3I2R25nUkFwS2RVdmFLNWZkaTVKczZRZk5XTUFOM3AwLWl6cXQwbDY4N0U3YURVVjJkb1FDQ3VwTjF0aTMwY2tpNkZOOVJfZ1k2MXg2U0ctWnJoT1VpRHpGc1A5UkM1b09QYjhjRndaTW9KSlhwSkxSUWE5Rg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T19:26:28+08:00"
     },
     {
       "title": "Guinea rubbish landfill collapse kills 31",
@@ -107,70 +167,10 @@
       "time": "2026-08-24T19:26:19+08:00"
     },
     {
-      "title": "Access to Zambian courts prevented as election petition deadline looms",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T19:17:28+08:00"
-    },
-    {
-      "title": "Four arrested over suspected poisoning of elephants in Kenya",
-      "link": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T19:08:27+08:00"
-    },
-    {
-      "title": "Review: Chuwi’s $449 Unibook laptop is a funhouse-mirror MacBook Neo - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzNqaFhaX2QyeUpHa2FqUUY1aG8wbG5ZbkduNzl5TGo5WTVfU21ocWR3SGZtWVNJejEybDhtTC1Pa0lTQ0g1NGhrclpQb1ZEV2Y1d3otWUswVTE0cDluclo3NFphWi1obWs1bDRtLUFTeEhTV0YyaDkxcE9aekJEZUVlVEtkMF9YcmVQQ2stZmFDRDV5UzFMZmJlZ2t1RXQzbDFXSDJSTUxXUQ?oc=5",
+      "title": "Minicomputers Made by Nvidia Are Powering Moscow’s A.I. Drones - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeXR6ZDdGV2VzZUpUYUJETEU3SzhrVW9Ucm1jeEE4UjRJSkt5R015LWFjS3lnS2dYWktwRTZQVU94cmdoLW5xSWxVTHlnTWd6aHVoYWF6aW93RF96bU1GbFg5NjRLRS1aWml0Z3BLMjNnUk5KS2JQcENZeTBlcDQ5djRjTmdYTnpmTW9RVmk5WXNoa3N3Mm93?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T19:00:01+08:00"
-    },
-    {
-      "title": "Social media goes into overdrive with Lindsay Clancy conspiracy theories - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEg1eVNKS2hNS01nNzFrTDJxcHEtaXRUVTBfNjg4UWxxbHRhRHlMQkg2bjc4NnpoUWI0d3ZlM1VMQnJWeEFrTENqTXF0bVlDUGo1NjVHRnpYWU9JaTRLWUlFd1lPeVR3M2JxQzhVazZQVGs4SzN1Y3RWaHpUX3RnOGllUzhqNVdvb0RyQmZpVEM2MU9rX1JjOUd2VTNJTkdqa1N3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T19:00:00+08:00"
-    },
-    {
-      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
-      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-24T18:55:47+08:00"
-    },
-    {
-      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T18:40:22+08:00"
-    },
-    {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T18:39:23+08:00"
-    },
-    {
-      "title": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-      "link": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T18:05:22+08:00"
-    },
-    {
-      "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T17:47:22+08:00"
-    },
-    {
-      "title": "Pubs and hotels could see business rates reformed after review",
-      "link": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-24T17:41:24+08:00"
-    },
-    {
-      "title": "Washington, D.C.'s first IndyCar race packed the National Mall - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVd1VlhmZGpab05rZVBhSEtKb0s1eVVIQUhJR0cyWXU2V09YeTdheHY2ZmJaeEN2dHlEVDc2Z0FPNWNkRVl5d01CRXZFN3NuWGpWR0tmczhtR3FlT3hCbF9KSXBERkJtQ2phcHZBUElOSS1EY21MNU94YjdjWW9Hbl84RndENDVFNWl3TzUyMTBhYkFaM2tEQnBZN0ZKbHZsZWFzdndZU3M?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T17:36:13+08:00"
+      "time": "2026-08-24T19:19:29+08:00"
     }
   ]
 }
