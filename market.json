@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-08-24T23:00:28.089738+08:00",
+  "generatedAt": "2026-08-24T23:32:26.602329+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622903.68,
-      "changePct": 2.96
+      "priceHkd": 626188.64,
+      "changePct": 3.39
     },
     "ETH": {
-      "priceHkd": 19713.13,
-      "changePct": 3.12
+      "priceHkd": 19787.38,
+      "changePct": 3.38
     },
     "SOL": {
-      "priceHkd": 753.5,
-      "changePct": 1.16
+      "priceHkd": 762.6,
+      "changePct": 1.61
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5502.35,
-      "changePct": -0.27
+      "priceHkd": 5503.13,
+      "changePct": -0.25
     },
     "SPX": {
-      "priceHkd": 60005.48,
-      "changePct": -0.27
+      "priceHkd": 60011.98,
+      "changePct": -0.26
     },
     "SPCX": {
-      "priceHkd": 1065.22,
-      "changePct": -0.8
+      "priceHkd": 1074.89,
+      "changePct": 0.1
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1177.51,
-      "priceUsdOz": 4671.5
+      "priceHkdPerGram": 1178.49,
+      "priceUsdOz": 4675.4
     },
     "Silver": {
-      "priceHkdPerGram": 17.41,
-      "priceUsdOz": 69.08
+      "priceHkdPerGram": 17.46,
+      "priceUsdOz": 69.27
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 666.56,
-      "changePct": -2.34
+      "priceHkd": 666.79,
+      "changePct": -2.31
     },
     "Natural Gas": {
-      "priceHkd": 22.33,
-      "changePct": 2.7
+      "priceHkd": 22.22,
+      "changePct": 2.2
     }
   },
   "news": [
+    {
+      "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
+      "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T23:14:14+08:00"
+    },
+    {
+      "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
+      "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-24T23:01:20+08:00"
+    },
     {
       "title": "Illinois officer convicted in Sonya Massey killing has died, lawyer says - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFQ1NzItd25yeUk5YkdDQnlDS1VvRWV6R3RkMFZDWnhrWjkyN1JiSjU2M2FjSTZlQ29IaVVlS0o5cHZKWTJvdk5nZ2JTMi0zVkpqMFFqbEM0QjhWT2ZCLXUzZnBOdmlRcXo4T0JuaXZubExiUDcySUdGYWlZa3dmdnUxUEdqbi1UYlVYdjg3NXNjbTdZM0dkRno4NU92U3JrdWdPQlpSUzJnMWt0X210NVY2b25ZRndXRUE?oc=5",
@@ -83,6 +95,12 @@
       "time": "2026-08-24T21:56:22+08:00"
     },
     {
+      "title": "‘I was just numb’: Hayden Panettiere's mother breaks silence on daughter's death - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzhDendCSlBuV2NDS0FPS2RTR0VNajhzQWVScTkxS0duc01UcHZHd2NVUVN5b0I2Z2xKOVhGZXF1b0FGSGFVOG16RFd5YWFkemMxVkhzc1hJY3E3Q0pOdjBHSkUwblh4UWhTdmM5NGVhV2NNR3pwOHNWN3VRYmtBR3phNVplNUNpUUNuTnFDa3hETFFfTTA3QURpa0NpTkRyb25FM0F30gGrAUFVX3lxTE9yZktRZmJSN1VCbTBRVVA5ellkS2d6MVNkTkQxQ1ZGMS0zRW91cVJ4cm5HbnNUd0xkNWpjb19JMDd5WEVKdmJJN0J3dFN1dm1EOTFjWmlFeXlic0ZFLUJnMzJXVkJxLWJRbGI0VW1zSDVnTnBvUFVmUG5zdm1pbFNNZ181dkZmYzdTQ1V4bFBzOUJLc0JaZDdGSnZST1lxSElGZlNTVjBiNE0zTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:52:30+08:00"
+    },
+    {
       "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NVnNJWGhDdTFvVFBMaGVjcldDel91bGg5eW1IdDNOOGJ0cWVnWVFTOWE0S3VHZlpjcWRIdW5lc1hCWEg5RGVMeXBBMDQ5aUpaR2xyRTZIVnAxUDJTdzJNWEkwd0drdjdiUk5TQmw5ejJFQTcyMjY0Wm9WRzjSAYIBQVVfeXFMUElPMnVlU3BVRGRvR19leEtvUzI0akZTdVRDb1VRY1NOcmQzMmVFdFNlUVZleU5LRDg0T01YRlM1djFUUmhPRTV1RjUwZlhWTV84UGFyVFl0bl9FQ1MzOHNEdUFEeHBTVzhwdEJUNTJKZlRaQzc2Q2tUSWhDR3NIVGFLdw?oc=5",
       "source": "Google News Top",
@@ -101,6 +119,12 @@
       "time": "2026-08-24T21:46:48+08:00"
     },
     {
+      "title": "NFL Preseason Week 2 Takeaways For Fantasy Football: Christian Watson, MarShawn Lloyd And Packers Trending Up - FantasyLife",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUc1WV9XcXFrd1gtdDl2S3ZqSGxVaVAwaHVVZm1BN0VjVTkycjhGMVlCX0FkZXNoSGtZeW5LVFpyZmF1RlRBNUhTZE1MOHVVZXJiRUtpYUJJN1BROVFYbHp3cDdjdFBHYUluUEY3TzVUTHlBNEhiVTlDVS1QOWpyS0ZMeU1tdGd5U0l1MktMOHJycFpRdV9IUEFfUWM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:45:00+08:00"
+    },
+    {
       "title": "Trump says communities that oppose data centers are \"making a mistake\" - Axios",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVFiOUIyM2kyQi16Zl9zY0lLODRkdVgwQ2YyMXF5TXJtZFd6LVAxS3BIOHBzOHFoNGY1RlZTay1sYjVXWkMzc3piSk5nNDdNazRaRmtOVy1UNWhCNTFhUTNZdENLQjh2QmdWMkQtMTJjS0J2OWJJeDhTTGozQkdsUQ?oc=5",
       "source": "Google News Top",
@@ -113,22 +137,22 @@
       "time": "2026-08-24T21:35:07+08:00"
     },
     {
-      "title": "European leaders mark Ukraine’s 35th Independence Day as Russian invasion pushes on - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRzFlRGlTVUtGOVc1TVV2TGQ4M3VicUJRbzBPV0VTY1hldnlvb000QWEtOXpVc2NnYlNJaVRnVDNhTjNqbTdkTDdXT0l2SXh5enNaRzZFVzRGVi1teUM0bUpDdzkyWTFNN1p4SHBNNVRxUVVzRGtfRnZ0amg0T2ZueVVtQTNSbV96Z0dBdjd0eHhJeWxrTE0zY1NfWWJzT2FG?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:28:00+08:00"
-    },
-    {
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-24T21:14:10+08:00"
     },
     {
-      "title": "Ranking 138 college football teams for 2026, from Indiana and Ohio State to Sac State and UMass - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcERHLXUwX2dvX3EyVlVEeUtnUkN0dHVJOVpSV00xMWcwcmlLMV9NZlJtNjc1SUt3RGd6T1JQZE9xaW9NYlJPb3Jhck1VN09aTm9iRVpJMFNISFpxQTdJMWlQeEh3OVg4Tzhod3Z2TVFwVUh5QWR3eS1WLTBVSnA0TUduTXlYN193UzZYc1pZQ2VHNHpsRDlVOGs3OVdNXzZZazYw?oc=5",
+      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T21:01:51+08:00"
+      "time": "2026-08-24T21:14:00+08:00"
+    },
+    {
+      "title": "Partial lunar eclipse Aug. 27-28 live updates: 3 days to go, here's what you need to know - Space",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXE5MEdRaXNjRExTQV9VaXRoZnRhb3JIYXE0WW0wa1VXaVR3RjhXbHNnWDZKSXVsdFF2RllPU3N3VWRyZExVTEsyZmJVQ1ozSzI0cngxMXV4bGxJdGVHS0hrY0RlSFZjd1FtWEpqOXplSGkyOUx5WllfOTFpSUtha3JEZTdFS0c1anpVNXlxb3c2c1FrWlRrOUJOYzJVbjkzcndoUE9hYlNGdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T20:45:05+08:00"
     },
     {
       "title": "The Ruthless Efficiency of Ultrapotent Street Drugs - The New York Times",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T20:27:00+08:00"
-    },
-    {
-      "title": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjZkNXFDX1ZPQklPTnlSejBqQnBpb0sxN0VrVXlPVFRSUjFqa283bXRibUE5VDhGU2V5SnVTQk5yc3lpNHZmdHp5UjUwalFIcUZPcDJNU0ZFVERIZ25TNHk5UUV3VVVGOEh4c3o4WC04OG1BOVItSGpXRVFLRko1ZkVkWWxOYVdqcUR3Wnh6WGJwQ0pPNlo3V0ZXUkgtLWRjR0pBR05JNUdtRnRIT19WUXotZkpMZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T20:18:45+08:00"
-    },
-    {
-      "title": "New Zealand to introduce bill for under-16s social media ban",
-      "link": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T20:17:34+08:00"
-    },
-    {
-      "title": "After 100 days of the deadliest Ebola outbreak, it can be stopped. Here’s how - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1NzVFRrRVIwWEllelhZVEVWWEg0VkFzR2I2bGlBZ0RBdEJSTW1yQ2pWSTVfSXJra0dZZlZJZGtDRFZOaXF2UkNfUDg5enhsWkJESHF6SFRqR3ZtMmRpbk5VdEJ6MGxtS3dTNFpMY2t0RnlqUkdOM0ZJM09CdjZxVTRPTFk1bUxiMndJZ0UzbWNZRnczZUp2MXJiZUllcC1mci1weThmVll0dVQtLV95VmFndGRQSkU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T19:54:00+08:00"
-    },
-    {
-      "title": "Fast-moving wildfire amid shifting winds threatens Reno, Nevada, forcing thousands to evacuate - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1RLeVZWWUZDVlZaV2RpOG5UNmgwSkEyNFV6VGtxaHRTZTBZSjdfdUhrc3JlczJ6QXZkaXJiY2d6bjRlaF91Y0tGaVZQZm5YdV9qTTBxUW5nTzlWUEdlejVTMklrcGlmbW5sLXpNS2RfblFzZnFzd1hNQjd6ZUdXaEV0U3JkYmlzZklNVWxEd3ZYQ2t1N2EzMmFXNU1aN0JsTHJKRzVmMFBFVS1FcVAxQTN6S2d6aEVuZEE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T19:45:14+08:00"
     }
   ]
 }
