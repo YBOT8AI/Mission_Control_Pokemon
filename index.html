@@ -463,6 +463,7 @@
         <nav class="nav-links">
             <a class="nav-link active" onclick="showPage('dashboard')">Overview</a>
             <a class="nav-link" onclick="showPage('ops')">⚡ Ops</a>
+            <a class="nav-link" onclick="showPage('today')">📅 Today</a>
             <a class="nav-link" onclick="showPage('projects')">Projects</a>
             <a class="nav-link" onclick="showPage('cron')">Cron</a>
             <a class="nav-link" onclick="showPage('agents')">Agents</a>
@@ -866,6 +867,28 @@
             </div>
             <div class="health-stats" id="ops-stats"></div>
             <div id="ops-actions"></div>
+        </div>
+
+        <!-- ═══════════ TODAY (DAILY OPENER) ═══════════ -->
+        <div class="page-section" id="page-today">
+            <div class="page-header">
+                <h1 class="page-title">📅 Today</h1>
+                <p class="page-subtitle" id="today-date">—</p>
+            </div>
+            <div class="chart-grid">
+                <div class="chart-card">
+                    <h2>🌦️ Weather — Hong Kong</h2>
+                    <div id="weather-hk"></div>
+                </div>
+                <div class="chart-card">
+                    <h2>🌦️ Weather — Shenzhen</h2>
+                    <div id="weather-sz"></div>
+                </div>
+            </div>
+            <div class="progress-section">
+                <h2 class="section-title">📋 Reminders & Appointments</h2>
+                <div id="today-reminders"></div>
+            </div>
         </div>
 
         <!-- ═══════════ COMPETITOR RADAR ═══════════ -->
@@ -1553,6 +1576,7 @@
             updateResearch();
             updateCompetitors();
             updateOps();
+            updateToday();
         }
 
         function updateStatCards() {
@@ -2031,6 +2055,84 @@
                     ${actions ? actions : '<div style="color:var(--text-tertiary);font-size:0.8em">Nothing pending — all clear ✓</div>'}
                 </section>`;
             }).join('');
+        }
+
+        const WMO = {
+            0: ['☀️','Clear'], 1: ['🌤️','Mostly clear'], 2: ['⛅','Partly cloudy'], 3: ['☁️','Overcast'],
+            45: ['🌫️','Fog'], 48: ['🌫️','Rime fog'],
+            51: ['🌦️','Light drizzle'], 53: ['🌦️','Drizzle'], 55: ['🌧️','Heavy drizzle'],
+            61: ['🌧️','Light rain'], 63: ['🌧️','Rain'], 65: ['🌧️','Heavy rain'],
+            71: ['🌨️','Light snow'], 73: ['🌨️','Snow'], 75: ['❄️','Heavy snow'],
+            80: ['🌦️','Light showers'], 81: ['🌧️','Showers'], 82: ['⛈️','Heavy showers'],
+            95: ['⛈️','Thunderstorm'], 96: ['⛈️','Thunderstorm + hail'], 99: ['⛈️','Severe thunderstorm'],
+        };
+
+        function wmoLabel(code) {
+            return WMO[code] || ['🌡️', 'Weather ' + code];
+        }
+
+        function renderWeatherCard(city, elId) {
+            const el = document.getElementById(elId);
+            if (!el) return;
+            if (!city || !city.current) {
+                el.innerHTML = '<div style="color:var(--text-tertiary);font-size:0.8em">Unavailable</div>';
+                return;
+            }
+            const c = city.current;
+            const [icon, label] = wmoLabel(c.code);
+            const rainy = c.code >= 51 && c.code <= 99;
+            const runHint = rainy
+                ? '<div class="badge badge-amber" style="margin-top:8px"><span class="badge-dot"></span>🌧️ Rain → stairwell run</div>'
+                : '<div class="badge badge-green" style="margin-top:8px"><span class="badge-dot"></span>🏃 Clear → outdoor run</div>';
+
+            const daily = (city.daily || []).map(d => {
+                const [di, dl] = wmoLabel(d.code);
+                return `<div class="metric"><span class="metric-label">${di} ${d.date.slice(5)}</span><span class="metric-value">${d.min}°–${d.max}° · 💧${d.rainPct}%</span></div>`;
+            }).join('');
+
+            el.innerHTML = `
+                <div style="display:flex;align-items:center;gap:16px;margin-bottom:14px">
+                    <div style="font-size:3em">${icon}</div>
+                    <div>
+                        <div style="font-size:2.2em;font-weight:700;color:var(--text-primary)">${c.temp}°C</div>
+                        <div style="color:var(--text-secondary)">${label} · wind ${c.wind} km/h</div>
+                    </div>
+                </div>
+                ${runHint}
+                <div style="margin-top:12px;border-top:1px solid var(--border-subtle);padding-top:8px">${daily}</div>`;
+        }
+
+        function updateToday() {
+            const d = dashboardData;
+
+            // Date header
+            const dateEl = document.getElementById('today-date');
+            if (dateEl && d.today) {
+                dateEl.textContent = d.today.date + ' · ' + d.today.weekday;
+            }
+
+            // Weather
+            const w = d.weather;
+            if (w && w.cities) {
+                const hk = w.cities.find(c => c.label === 'Hong Kong');
+                const sz = w.cities.find(c => c.label === 'Shenzhen');
+                renderWeatherCard(hk, 'weather-hk');
+                renderWeatherCard(sz, 'weather-sz');
+            }
+
+            // Reminders
+            const remEl = document.getElementById('today-reminders');
+            if (remEl && d.today) {
+                const rems = d.today.reminders || [];
+                if (rems.length === 0) {
+                    const msg = d.today.remindersError
+                        ? 'Apple Reminders needs permission — run `osascript -e \'tell application "Reminders" to get name of every reminder\'` once in Terminal and approve.'
+                        : 'No reminders today. Add one in the Reminders app.';
+                    remEl.innerHTML = '<div style="color:var(--text-tertiary);font-size:0.85em;line-height:1.5">' + msg + '</div>';
+                } else {
+                    remEl.innerHTML = rems.map(r => `<div class="task-item"><span class="task-icon">📌</span><span class="task-text">${r}</span></div>`).join('');
+                }
+            }
         }
 
         function destroyCharts() {

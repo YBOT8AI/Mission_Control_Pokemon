@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:49:57.490576+08:00",
+  "generatedAt": "2026-08-24T08:01:59.646582+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -349,8 +349,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:45:30.618687+08:00",
-        "next_run": "2026-08-24T07:55:30.618687+08:00"
+        "last_run": "2026-08-24T07:55:32.613164+08:00",
+        "next_run": "2026-08-24T08:05:32.613164+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -394,8 +394,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-24T07:45:31.070051+08:00",
-        "next_run": "2026-08-24T08:00:31.070051+08:00"
+        "last_run": "2026-08-24T08:00:33.906109+08:00",
+        "next_run": "2026-08-24T08:15:33.906109+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -558,43 +558,43 @@
     "uptime": "5 days",
     "cpu": {
       "loadAvg": [
-        13.66,
-        14.41,
-        13.95
+        15.5,
+        16.47,
+        15.54
       ],
-      "usage": "98.0%"
+      "usage": "98.4%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 32.5
+      "usedPct": 42.6
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "76.3",
-        "mem": "1.4",
+        "cpu": "81.4",
+        "mem": "1.8",
         "name": "clang++"
       },
       {
-        "cpu": "75.4",
-        "mem": "0.2",
+        "cpu": "80.3",
+        "mem": "1.7",
         "name": "clang++"
       },
       {
-        "cpu": "75.0",
+        "cpu": "79.4",
+        "mem": "0.6",
+        "name": "clang++"
+      },
+      {
+        "cpu": "78.9",
         "mem": "1.1",
         "name": "clang++"
       },
       {
-        "cpu": "75.0",
-        "mem": "0.3",
-        "name": "clang++"
-      },
-      {
-        "cpu": "74.2",
-        "mem": "0.2",
+        "cpu": "78.7",
+        "mem": "1.4",
         "name": "clang++"
       }
     ]
@@ -1157,14 +1157,91 @@
       "lastUpdated": "Aug 22, 2026"
     }
   ],
+  "weather": {
+    "generatedAt": "2026-08-24T08:01:51.627008+08:00",
+    "cities": [
+      {
+        "label": "Hong Kong",
+        "current": {
+          "temp": 26.8,
+          "code": 95,
+          "precip": 0.7,
+          "wind": 6.3,
+          "time": "2026-08-24T08:00"
+        },
+        "daily": [
+          {
+            "date": "2026-08-24",
+            "code": 95,
+            "max": 29.9,
+            "min": 26.6,
+            "rainPct": 84
+          },
+          {
+            "date": "2026-08-25",
+            "code": 95,
+            "max": 30.9,
+            "min": 25.2,
+            "rainPct": 100
+          },
+          {
+            "date": "2026-08-26",
+            "code": 96,
+            "max": 29.6,
+            "min": 25.0,
+            "rainPct": 98
+          }
+        ]
+      },
+      {
+        "label": "Shenzhen",
+        "current": {
+          "temp": 28.1,
+          "code": 3,
+          "precip": 0.0,
+          "wind": 3.6,
+          "time": "2026-08-24T08:00"
+        },
+        "daily": [
+          {
+            "date": "2026-08-24",
+            "code": 95,
+            "max": 31.4,
+            "min": 27.2,
+            "rainPct": 79
+          },
+          {
+            "date": "2026-08-25",
+            "code": 55,
+            "max": 32.2,
+            "min": 25.0,
+            "rainPct": 100
+          },
+          {
+            "date": "2026-08-26",
+            "code": 95,
+            "max": 30.7,
+            "min": 24.8,
+            "rainPct": 98
+          }
+        ]
+      }
+    ]
+  },
+  "today": {
+    "date": "Monday, August 24, 2026",
+    "weekday": "Monday",
+    "reminders": [],
+    "remindersError": "Command '['osascript', '-e', 'tell application \"Reminders\" t"
+  },
   "activity": [
     {
-      "time": "2026-08-24T07:49:57.490457+08:00",
+      "time": "2026-08-24T08:01:59.646364+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-24T07:49:57.490457+08:00",
+      "time": "2026-08-24T08:01:59.646364+08:00",
       "type": "info",
       "text": "⏰ Cron: 28/31 jobs healthy"
     },

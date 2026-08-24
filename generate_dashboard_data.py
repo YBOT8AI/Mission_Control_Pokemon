@@ -757,6 +757,83 @@ def get_competitors():
     return radar
 
 
+def get_weather():
+    """Fetch HK + Shenzhen weather from Open-Meteo (no API key). Returns current + 3-day forecast."""
+    import urllib.request
+    import json as _json
+
+    def _fetch(lat, lon, label):
+        url = (
+            f"https://api.open-meteo.com/v1/forecast"
+            f"?latitude={lat}&longitude={lon}"
+            f"&current=temperature_2m,weather_code,precipitation,wind_speed_10m"
+            f"&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max"
+            f"&timezone=Asia%2FHong_Kong&forecast_days=3"
+        )
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "mission-control"})
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                d = _json.loads(resp.read().decode())
+            return {
+                "label": label,
+                "current": {
+                    "temp": d["current"]["temperature_2m"],
+                    "code": d["current"]["weather_code"],
+                    "precip": d["current"]["precipitation"],
+                    "wind": d["current"]["wind_speed_10m"],
+                    "time": d["current"]["time"],
+                },
+                "daily": [
+                    {
+                        "date": d["daily"]["time"][i],
+                        "code": d["daily"]["weather_code"][i],
+                        "max": d["daily"]["temperature_2m_max"][i],
+                        "min": d["daily"]["temperature_2m_min"][i],
+                        "rainPct": d["daily"]["precipitation_probability_max"][i],
+                    }
+                    for i in range(3)
+                ],
+            }
+        except Exception as e:
+            return {"label": label, "error": str(e), "current": None, "daily": []}
+
+    hk = _fetch(22.32, 114.17, "Hong Kong")
+    sz = _fetch(22.54, 114.06, "Shenzhen")
+    return {"generatedAt": datetime.now(HKT).isoformat(), "cities": [hk, sz]}
+
+
+def get_today_view():
+    """Assemble today's operational view: date, reminders, and workout hint.
+    Native Apple Reminders/Calendar read is attempted but non-fatal (needs GUI permission)."""
+    import subprocess
+    now_hk = datetime.now(HKT)
+    today = now_hk.strftime("%A, %B %d, %Y")
+
+    reminders = []
+    reminders_error = None
+    # Try Apple Reminders via osascript (requires Automation permission on first run)
+    try:
+        r = subprocess.run(
+            ["osascript", "-e",
+             'tell application "Reminders" to get name of every reminder whose completed is false'],
+            capture_output=True, text=True, timeout=8,
+        )
+        if r.returncode == 0 and r.stdout.strip():
+            names = [n.strip() for n in r.stdout.strip().split(", ") if n.strip()]
+            reminders = names[:15]
+        else:
+            reminders_error = "permission needed"
+    except Exception as e:
+        reminders_error = str(e)[:60]
+
+    return {
+        "date": today,
+        "weekday": now_hk.strftime("%A"),
+        "reminders": reminders,
+        "remindersError": reminders_error,
+    }
+
+
 def build_activity_log(git_stats, cron_data):
     """Build activity log from real data."""
     activities = []
@@ -861,7 +938,18 @@ def main():
     competitors = get_competitors()
     print(f"     → {len(competitors)} competitors")
 
-    # 10. Build activity log
+    # 10. Weather (HK + SZ)
+    print("  🌦️ Weather...")
+    weather = get_weather()
+    w_ok = sum(1 for c in weather["cities"] if c.get("current"))
+    print(f"     → {w_ok}/2 cities fetched")
+
+    # 11. Today view
+    print("  📅 Today view...")
+    today_view = get_today_view()
+    print(f"     → {len(today_view['reminders'])} reminders")
+
+    # 12. Build activity log
     activity = build_activity_log(git_stats, cron_data)
 
     # 6. Assemble final data.json
@@ -1032,6 +1120,8 @@ def main():
         "githubActivity": github_activity,
         "researchBuddy": research_buddy,
         "competitors": competitors,
+        "weather": weather,
+        "today": today_view,
         "activity": activity,
         "stats": {
             "totalProjects": len(PROJECTS),
