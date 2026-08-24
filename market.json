@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-24T20:52:06.646036+08:00",
+  "generatedAt": "2026-08-24T21:24:07.823253+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618528.96,
-      "changePct": 2.19
+      "priceHkd": 619430.56,
+      "changePct": 1.93
     },
     "ETH": {
-      "priceHkd": 19636.85,
-      "changePct": 3.25
+      "priceHkd": 19703.57,
+      "changePct": 1.95
     },
     "SOL": {
-      "priceHkd": 753.89,
-      "changePct": 1.68
+      "priceHkd": 754.13,
+      "changePct": 0.98
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1175.64,
-      "priceUsdOz": 4664.1
+      "priceHkdPerGram": 1177.63,
+      "priceUsdOz": 4672.0
     },
     "Silver": {
-      "priceHkdPerGram": 17.48,
-      "priceUsdOz": 69.35
+      "priceHkdPerGram": 17.56,
+      "priceUsdOz": 69.66
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 670.01,
-      "changePct": -1.84
+      "priceHkd": 670.24,
+      "changePct": -1.8
     },
     "Natural Gas": {
-      "priceHkd": 22.52,
-      "changePct": 3.61
+      "priceHkd": 22.58,
+      "changePct": 3.86
     }
   },
   "news": [
+    {
+      "title": "U.S. Trade Rep Greer blames Canada for failed tariff talks: 'They wanted more' - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EekJabXFaenV0eXFYMWRIM0dxbzMyTzBRMGN4Zzd1bUNQVlBiV3VMVTlfZkcxNEs2ZU95TTg5dEJzS3kxbTg1SnBNM1RKZWl2M18zRU5Ea0ljY0k5d0p6NnpJZ3NGNWVkZmRER3VWaE9EbXA1LXBvZQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T20:32:09+08:00"
+    },
     {
       "title": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVjZkNXFDX1ZPQklPTnlSejBqQnBpb0sxN0VrVXlPVFRSUjFqa283bXRibUE5VDhGU2V5SnVTQk5yc3lpNHZmdHp5UjUwalFIcUZPcDJNU0ZFVERIZ25TNHk5UUV3VVVGOEh4c3o4WC04OG1BOVItSGpXRVFLRko1ZkVkWWxOYVdqcUR3Wnh6WGJwQ0pPNlo3V0ZXUkgtLWRjR0pBR05JNUdtRnRIT19WUXotZkpMZw?oc=5",
@@ -75,6 +81,12 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT1RLeVZWWUZDVlZaV2RpOG5UNmgwSkEyNFV6VGtxaHRTZTBZSjdfdUhrc3JlczJ6QXZkaXJiY2d6bjRlaF91Y0tGaVZQZm5YdV9qTTBxUW5nTzlWUEdlejVTMklrcGlmbW5sLXpNS2RfblFzZnFzd1hNQjd6ZUdXaEV0U3JkYmlzZklNVWxEd3ZYQ2t1N2EzMmFXNU1aN0JsTHJKRzVmMFBFVS1FcVAxQTN6S2d6aEVuZEE?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T19:45:14+08:00"
+    },
+    {
+      "title": "De-Googled GrapheneOS is coming to Motorola’s foldables next year - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbEk1X3pyVzNiVWZJeUJidHlGR280LWZjOEJNdU0zU0xEUmVucDJtbEFVWEdlc3BWd2xJcDNYeFFVakhCd01vdWI3a2JfM0J0cy1TZ1dBdTRTbGY2SlNRclZQbUZKUEdIM2tJMTVvcGxWQWpjUzROTHM5OHVqalE4WW4zODl2cEFqekJseUQ1YkpYMGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T19:37:53+08:00"
     },
     {
       "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said - CNBC",
@@ -143,21 +155,9 @@
       "time": "2026-08-24T18:05:22+08:00"
     },
     {
-      "title": "US military says strike on alleged drug-smuggling boat kills two - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQnZhcFdZaTFrUVpvU1ZaTnRBQk84dFlDUWhlNWRqcXpCLWdZeVEzQmN6U3NLY091czNoUnljdnJrWm1KZHg1eGFGbENoWjAwXzRWQ0lHYnJFTkdqcmN5X04tMDVkT1RfOGpRNXhQNmNGR0h4U1hFd01FdDZaWl9Ia0J1YVNUQTg3NFpGaVMzSHd6a2ctNGFMb3M5a1lVeFl0dTBYMGpSLWrSAa4BQVVfeXFMTUhxbm5SbXJfakJ1RlBoVDFSblZpb08xbUs5TmgwTHk1R3lZZFg2ZXF5MllHalFHSDRBa2JueU0zdW5xNUJEb1hDNTdNWEQ3VzhQdDdoNnRhWXJrU2FvVVlmY3dDREVHQUg4UGp5NHpFYmlacF9UNXhCWVoyd1pOS0NuZ1BwWUVsbWQyUUhjbk5sODhKeXdheUJEazZreFJBdDJROEZVVFBnSkdybXJR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T17:58:26+08:00"
-    },
-    {
       "title": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "link": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-24T17:47:22+08:00"
-    },
-    {
-      "title": "'Half my business will be gone' - Firms in Canada and US fear trade war - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpZHpVWGZwS0RVR2VuRjJxSmttX0NQNWw2bzcya0tzRWRhWlN6V0NJdFdyRzdMUWxyNTg3TS1LdFNfZG5ZYUVJTHFJeGY2ZkhEanVXY2V5TmlsZw?oc=5",
-      "source": "Google News Top",
       "time": "2026-08-24T17:47:22+08:00"
     },
     {
