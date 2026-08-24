@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:40:47.161833+08:00",
+  "generatedAt": "2026-08-25T02:12:53.860007+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -268,8 +268,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-25T01:30:46.831604+08:00",
-        "next_run": "2026-08-25T02:00:46.831604+08:00"
+        "last_run": "2026-08-25T02:01:54.154147+08:00",
+        "next_run": "2026-08-25T02:31:54.154147+08:00"
       },
       {
         "id": "539a150ac028",
@@ -286,8 +286,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-25T01:08:49.302446+08:00",
-        "next_run": "2026-08-25T02:09:42.038313+08:00"
+        "last_run": "2026-08-25T01:40:53.669472+08:00",
+        "next_run": "2026-08-25T02:41:46.996512+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -313,8 +313,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-25T01:21:39.984742+08:00",
-        "next_run": "2026-08-25T01:51:39.984742+08:00"
+        "last_run": "2026-08-25T01:51:44.466007+08:00",
+        "next_run": "2026-08-25T02:21:44.466007+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -322,8 +322,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-25T01:31:40.973870+08:00",
-        "next_run": "2026-08-25T01:41:40.973870+08:00"
+        "last_run": "2026-08-25T02:11:47.330124+08:00",
+        "next_run": "2026-08-25T02:21:47.330124+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -367,8 +367,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-25T01:36:41.940769+08:00",
-        "next_run": "2026-08-25T01:51:41.940769+08:00"
+        "last_run": "2026-08-25T02:06:46.524449+08:00",
+        "next_run": "2026-08-25T02:21:46.524449+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -501,9 +501,9 @@
         "enabled": true,
         "name": "AI Research Buddy — nightly compounding loop",
         "schedule": "0 2 * * *",
-        "last_status": "unknown",
-        "last_run": null,
-        "next_run": "2026-08-25T02:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-25T02:02:06.373578+08:00",
+        "next_run": "2026-08-26T02:00:00+08:00"
       },
       {
         "id": "1dabab689e0e",
@@ -534,7 +534,7 @@
       }
     ],
     "total": 31,
-    "healthy": 26
+    "healthy": 27
   },
   "agents": {
     "hermes": {
@@ -555,37 +555,32 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "412Gi",
-    "uptime": "4:50",
+    "uptime": "5:22",
     "cpu": {
       "loadAvg": [
-        1.01,
-        1.18,
-        1.27
+        1.4,
+        1.31,
+        1.29
       ],
-      "usage": "12.9%"
+      "usage": "13.3%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 36.4
+      "usedPct": 36.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "5.2",
+        "cpu": "3.1",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.9",
+        "cpu": "2.6",
         "mem": "0.0",
         "name": "sysmond"
-      },
-      {
-        "cpu": "0.9",
-        "mem": "0.0",
-        "name": "sh"
       },
       {
         "cpu": "0.6",
@@ -594,6 +589,11 @@
       },
       {
         "cpu": "0.4",
+        "mem": "0.1",
+        "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.3",
         "mem": "0.1",
         "name": "launchd"
       }
@@ -1035,8 +1035,8 @@
     "state": {
       "meta": {
         "created": "2026-08-24",
-        "lastUpdated": "2026-08-24",
-        "cycles": "0"
+        "lastUpdated": "2026-08-25",
+        "cycles": "1"
       },
       "hierarchy": [
         "Financial freedom — retire dad (60) in 5yrs, match GF's $40k, Zhongshan house + Zeekr + driver",
@@ -1050,26 +1050,37 @@
         "Mission_Control_Pokemon — portfolio dashboard + identity hub (merged with former \"Dashboard\" project)"
       ],
       "currentFocus": [
-        "#1 Financial freedom (in progress)"
+        "#1 Financial freedom (in progress — cost baseline + passive income math done; asset protection done; next: income stream strategy)"
       ],
       "activeHypotheses": [
-        "(none yet)"
+        "H1: Registering marriage in Mainland (not HK) is the superior asset-protection move — Mainland law (婚姻法第18条) treats 婚前财产 as individual property by default, whereas HK uses 公平原则 (equitable distribution) with no strict pre/post-marital split. → STRONGLY SUPPORTED by legal sources. No prenup needed for pre-marital assets under Mainland law.",
+        "H2: \"Driver\" goal is achievable at ~HK$24-26k/mo full-time, but 中港牌 driver commands premium and is scarce (listings at $20-25k with 中港牌 criticized as \"孤寒\" = too cheap). Realistic budget for a good 中港牌 driver: HK$28-35k/mo."
       ],
       "openQuestions": [
-        "(none yet)"
+        "Q1: What is the actual monthly passive-income target and required principal? (partial: $40k/mo = $480k/yr; at 5% yield needs ~$9.6M HKD principal; at 4% needs ~$12M)",
+        "Q2: Which specific income streams can realistically compound to $40k+/mo within 5yrs (bodyguard salary + business revenue + investment yield)?",
+        "Q3: Zhongshan house — is 670k RMB loan for ~80㎡ at 8,428元/㎡ (avg) or a smaller unit in 东区 (11,427元/㎡)? Which district targets?",
+        "Q4: 港車北上 (individual, HZMB route) vs traditional 粵Z business plate — which is the actual \"中港牌\" goal? Individual 港車北上 is far more accessible (no 15万 RMB tax threshold).",
+        "Q5: Zeekr model choice — 7X (SUV, HK$280k entry) vs 009 (MPV) vs X (small SUV). Which fits \"driver + family\" use case?"
       ],
       "completedResearch": [
-        "(none yet)"
+        "✅ Zhongshan property prices (2026-07): avg 8,428元/㎡, avg total 106万 RMB. District spread: 东区 11,427 / 石岐区 9,088 / 火炬开发区 8,986 / 坦洲镇 8,499 / 三乡镇 8,300. Source: creprice.cn",
+        "✅ Zeekr HK pricing: 7X entry ~HK$280,000 (2025-06 launch, agent 錦龍汽車). 009 (MPV) + X (small SUV) also sold in HK. 7X specs: 605-780km CLTC, 422-646hp, 800V fast charge.",
+        "✅ Private driver salary HK: company driver HK$20-30k; full-time private driver HK$24-26k; 中港牌 driver listings $20-25k (undervalued per market). Median driver wage HK$25-35k.",
+        "✅ 中港牌 routes: 港車北上 (individual, via 港珠澳大橋, no tax threshold) vs 粵Z business plate (needs 15万 RMB Guangdong tax for 1st indicator, 50万 for 2nd, 100万 for 3rd). Individual route = accessible; business route = expensive.",
+        "✅ Asset protection (Mainland marriage, no prenup): Mainland 婚姻法第18条 = 婚前财产 is individual property, NOT divided on divorce. HK = 公平原则, judge discretion, no strict pre/post split. → Registering in Mainland protects pre-marital assets by default."
       ],
       "nextSteps": [
-        "Run first research cycle on #1: financial freedom",
-        "Income streams to reach $40k+/mo (match GF) and retire dad in 5yrs",
-        "Zhongshan house (670k RMB loan) + Zeekr + driver cost planning",
-        "Investment vehicles: BTC, ETH, SOL, VOO, SPX, SPCX, Gold, Silver, Oil, Gas (HKD)",
-        "Asset protection given Mainland spouse, no prenup"
+        "Research income-stream strategy for $40k+/mo: bodyguard salary ceiling, business revenue models (KinKin/TechWealth), investment yield targets.",
+        "Quantify the full \"financial freedom\" monthly budget: fixed costs ($7.3k) + dad retirement + house loan + driver + car + GF lifestyle.",
+        "Research 港車北上 application specifics (eligibility, cost, timeline) vs 粵Z plate cost.",
+        "Research Zeekr 009 vs 7X for the \"driver + family\" use case."
       ],
       "keyInsights": [
-        "(none yet)"
+        "Mainland marriage registration is a FREE asset-protection mechanism (no prenup needed) — pre-marital assets stay individual under 婚姻法第18条. This is a major strategic advantage vs HK registration.",
+        "中港牌 driver is a scarce, premium skill — good ones cost HK$28-35k/mo, not the $20-25k \"孤寒\" listings. Budget accordingly.",
+        "Passive income to match GF's $40k requires ~$9.6-12M HKD principal at 4-5% yield — this is the real \"financial freedom\" number, not the salary.",
+        "Zhongshan avg price 8,428元/㎡ means 670k RMB loan ≈ 80㎡ unit (or smaller in premium 东区). Property is affordable relative to HK."
       ]
     },
     "journal": [
@@ -1079,9 +1090,23 @@
           "Created directory, state.md, journal.md.",
           "No research run yet. Awaiting research focus definition."
         ]
+      },
+      {
+        "date": "2026-08-25 — Cycle 1: Financial freedom baseline",
+        "items": [
+          "Searched: Zhongshan property prices, Zeekr HK pricing, private driver salary, 中港牌 routes, passive income methods, Mainland marriage asset protection.",
+          "Found:",
+          "Zhongshan avg 8,428元/㎡ (2026-07), 东区 highest 11,427元/㎡. 670k RMB loan ≈ 80㎡.",
+          "Zeekr 7X entry HK$280k; 009 (MPV) + X also in HK.",
+          "Private driver HK$24-26k full-time; 中港牌 driver scarce/premium ($28-35k realistic).",
+          "港車北上 (individual, HZMB) vs 粵Z business plate (15万 RMB tax threshold).",
+          "Mainland 婚姻法第18条 = 婚前财产 individual by default → no prenup needed. HK = 公平原则.",
+          "Changed in state.md: added 2 hypotheses (H1 asset protection, H2 driver cost), 5 open questions, 5 completed research items, 4 key insights, next steps.",
+          "Key insight: Mainland marriage registration is free asset protection; passive income target ~$9.6-12M principal."
+        ]
       }
     ],
-    "lastUpdated": "2026-08-24"
+    "lastUpdated": "2026-08-25"
   },
   "competitors": [
     {
@@ -1158,16 +1183,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-25T01:40:39.153957+08:00",
+    "generatedAt": "2026-08-25T02:12:45.851797+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 26.7,
+          "temp": 26.3,
           "code": 53,
           "precip": 0.2,
-          "wind": 13.5,
-          "time": "2026-08-25T01:30"
+          "wind": 14.4,
+          "time": "2026-08-25T02:00"
         },
         "daily": [
           {
@@ -1196,11 +1221,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 27.1,
+          "temp": 27.0,
           "code": 3,
           "precip": 0.0,
-          "wind": 11.0,
-          "time": "2026-08-25T01:30"
+          "wind": 11.6,
+          "time": "2026-08-25T02:00"
         },
         "daily": [
           {
@@ -1236,14 +1261,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-25T01:40:47.161692+08:00",
+      "time": "2026-08-25T02:12:53.859846+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-25T01:40:47.161692+08:00",
+      "time": "2026-08-25T02:12:53.859846+08:00",
       "type": "info",
-      "text": "⏰ Cron: 26/31 jobs healthy"
+      "text": "⏰ Cron: 27/31 jobs healthy"
     },
     {
       "time": "2026-08-24T09:02:44+08:00",
@@ -1279,7 +1304,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 31,
-    "healthyCronJobs": 26,
+    "healthyCronJobs": 27,
     "avgProgress": 68
   }
 }
