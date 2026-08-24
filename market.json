@@ -1,62 +1,98 @@
 {
-  "generatedAt": "2026-08-25T00:04:34.917114+08:00",
+  "generatedAt": "2026-08-25T00:36:33.177354+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 620818.24,
-      "changePct": 2.51
+      "priceHkd": 624479.52,
+      "changePct": 2.92
     },
     "ETH": {
-      "priceHkd": 19504.67,
-      "changePct": 1.81
+      "priceHkd": 19567.54,
+      "changePct": 1.9
     },
     "SOL": {
-      "priceHkd": 757.5,
-      "changePct": 1.23
+      "priceHkd": 761.34,
+      "changePct": 1.53
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5513.17,
-      "changePct": -0.07
+      "priceHkd": 5510.19,
+      "changePct": -0.13
     },
     "SPX": {
-      "priceHkd": 60122.69,
-      "changePct": -0.07
+      "priceHkd": 60089.52,
+      "changePct": -0.13
     },
     "SPCX": {
-      "priceHkd": 1070.67,
-      "changePct": -0.3
+      "priceHkd": 1069.3,
+      "changePct": -0.42
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1174.83,
-      "priceUsdOz": 4660.9
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 17.37,
-      "priceUsdOz": 68.89
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 663.97,
-      "changePct": -2.72
+      "priceHkd": 666.87,
+      "changePct": -2.3
     },
     "Natural Gas": {
-      "priceHkd": 22.12,
-      "changePct": 1.77
+      "priceHkd": 22.14,
+      "changePct": 1.84
     }
   },
   "news": [
+    {
+      "title": "Hawk Fire: Sierra County evacuation warnings for destructive wildfire burning in Nevada - KCRA",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTldQU25mT2FfczMzTjdGbGdjNTU1M0JpWTczN0dURUNjUE9rV0xmQk1GYVRQVTZhZ1BRbTF6SGJQVkVGbWYtcDh2OXJGMkFWTDBpZFlXR3l6RGRqLTNsa0R5TVk0dDVnOTNKOENiYk9BU1JtODJCaFkzUUFFRXd0dFlCbHZ3aThyZ1JncA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T00:18:41+08:00"
+    },
+    {
+      "title": "Guardian-produced Gaza documentary from Oscar-winning Israeli directors of No Other Land to screen at Venice film festival - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakpnNEhQaUhmUWlfQXZaZ2JQdk9UTzdnajNIa0ZOS2lLd0l2aktqSlBNb3ZjVF9pajB5NEZUQkhMS0xLbjhVaW55Z3lMeDM0c25tUy1yTlZKc0p2MGtrSVJka0plRG9hRlFQWjVYbXBrYWdERGZpenY4LVFySzB1MVpIcHdZaGlZMU43Q1JSVExhQzZXWm5YRTFUSzhWNnBSa0QtT1JyaVVsTGlkYmFqc3oxeEE1Y216bkRuR0p6Tm10WXpBMFpqNjYzd3dsYTJVelE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T00:12:00+08:00"
+    },
+    {
+      "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T00:05:00+08:00"
+    },
+    {
+      "title": "Lunar eclipse 2026: Will weather block it in the U.S.? - The Weather Channel",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWDl5U1gyUVVGOUlyX2hwMnZKcDVya3RESUhSOV9sQVBnR2ZRQ0czcnlJb0Q4N1lSY3gxS2pJcThDdWwyNlJQX0RZVTN6RkE3TlY4NjlLa25lNVp1UktNdThYYTM0blZFdi1qNnJ5OG1fS3BLQnE1WFJCdl9kbkxYVDZfc3UydWhzVUE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T00:00:58+08:00"
+    },
     {
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-24T23:54:16+08:00"
+    },
+    {
+      "title": "Trump Live Updates: U.S. to Announce Iran Sanctions; Trump Issues New Canada Tariff Threat - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:21:53+08:00"
+    },
+    {
+      "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:21:11+08:00"
     },
     {
       "title": "Big Apple targeted in lawsuit over Mamdani's government grocery store plans - Fox Business",
@@ -65,10 +101,22 @@
       "time": "2026-08-24T23:20:00+08:00"
     },
     {
+      "title": "Jeanty sprains ankle, recovery timeline still TBD - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZko2bXBZb2piR1k0Z1hxLUE4d2ktVzU2bDNtX0Vkd1k3eGxyTzNnMzBpUENpN3FoU1FtZFNVS2F6YjJHdVdmcGVPcVEycXpQSThvcGgtQ0h1V1dYM2w2NHM4bFFaOXRTcTc3a0FfeFJtWVh4OW9kQjcxc2NFU0hPWEdYQWp2eEhwYllfa2JHODdERlhhZTZudWJyQ3dvZ0ZOX0NZc1dva3FPaDFHTU9Sc3RJSG0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:15:06+08:00"
+    },
+    {
       "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
       "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-24T23:14:14+08:00"
+    },
+    {
+      "title": "The Ruthless Efficiency of Ultrapotent Street Drugs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWhHVGZ3R2VEeVFMaEwtX0tsUEhURlJVRWE2MUpybTBUVlU2Y2dPendIVERSdm5hYWZiSjlDNWhLU2JNY1B3Y3A3cHFGd1JPc3oySll2ZjFNLTl5c2xUNzZIWF9ENkhnR0RqWV9mcHBqQmEzMkRBX0VvRTh0dnF3UXc5YzlNczQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:12:51+08:00"
     },
     {
       "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
@@ -77,28 +125,22 @@
       "time": "2026-08-24T23:01:20+08:00"
     },
     {
-      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTFMRjRjUUFFMy1CZlRYODREeGdMaExJYTh3OTFReW5LNWxXakxkRzJhcURaMndxYmlrRUktSHV2QUNRcVhiclBYLTVFTmNrMXpsX2t4UWk4YXV2a0syVE00TzhKaXdlc2JGcnRfOTczNXcydUhrNmExYkg5bWFoVnRWTmpxUzU0Mm5icTV5ZXBhN1NyNGJiTEZ4aEtSNk16SDRLcVI3c1ByUdIBrwFBVV95cUxOYWZ0eW9xbUlMR21BU1N2WEtuak15QVBMSzUySUJIS2tFcDE2NFBuRDdHbktZdW9FV0JfbWVrQ3pZY0VQbWVwcEtsd1Rwa1BsdzYxdEZzUjdHSmNVQ3VrN1A2YWxYTFJTZTV5aFQ4WlVmWkVfTTFfeHJNZkhQVG9nR09HWEZDZ1Z1UENWVEhsYmF0aE9xS0VSOTVZOC00bHFKYXUyNnU3OUNsZzEtU0xZ?oc=5",
+      "title": "Raspberry Pi shares its official tutorial for making a cyberdeck - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEhqNVp3M2pMbWFSX3RQZk9jN2ZSSm5NRFpvUTRFUGx6VVdGaVFCcWF6N2p6bG9tbWYzX2ZPbnktUnVlQTRUV0Z1TGpMUk9hMlctODlISUd2TXA1Y05pX0JJWWxFSnFYTUJmZGgxWVhfekRhRjNzSFByVjRvY1p1MVJxRGN4NjRObHdXZg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T23:00:01+08:00"
+      "time": "2026-08-24T22:49:44+08:00"
     },
     {
-      "title": "Illinois officer convicted in Sonya Massey killing has died, lawyer says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFQ1NzItd25yeUk5YkdDQnlDS1VvRWV6R3RkMFZDWnhrWjkyN1JiSjU2M2FjSTZlQ29IaVVlS0o5cHZKWTJvdk5nZ2JTMi0zVkpqMFFqbEM0QjhWT2ZCLXUzZnBOdmlRcXo4T0JuaXZubExiUDcySUdGYWlZa3dmdnUxUEdqbi1UYlVYdjg3NXNjbTdZM0dkRno4NU92U3JrdWdPQlpSUzJnMWt0X210NVY2b25ZRndXRUE?oc=5",
+      "title": "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-24T22:41:34+08:00"
+      "time": "2026-08-24T22:24:53+08:00"
     },
     {
       "title": "Coin hidden in 1971 earns finder free pint of beer",
       "link": "https://www.bbc.co.uk/news/videos/cx2zg9xzkzyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-24T22:10:10+08:00"
-    },
-    {
-      "title": "Shelley Fabares, ‘Johnny Angel’ singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82 - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3RkQ1VWaWxKd1hUY3RCLWItWUVkQzIzb2hWYll4MjRWamEtWTFDbGdWLU9xaWpOb3lPT3VHVVhrR1FSSE5YMTNvMlpmVG5ldVU2YWZaUXpvQkFXTEg3aEF6RjdfYUE5UTAxV1hVUFVPdUtZdS1tNkRTLXhJMzNpVExGS3llZUNpTUFBcDVvUGRVUm1VeXRkcmFncmJlVl9MelRvT0ViLXB4N2c0ay1nQ1NEZkxLdExsUFE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T22:08:04+08:00"
     },
     {
       "title": "Access to Zambian courts prevented as election petition deadline looms",
@@ -119,18 +161,6 @@
       "time": "2026-08-24T21:52:30+08:00"
     },
     {
-      "title": "Trump says U.S. will hike Canada auto tariffs to 50% as trade war escalates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NVnNJWGhDdTFvVFBMaGVjcldDel91bGg5eW1IdDNOOGJ0cWVnWVFTOWE0S3VHZlpjcWRIdW5lc1hCWEg5RGVMeXBBMDQ5aUpaR2xyRTZIVnAxUDJTdzJNWEkwd0drdjdiUk5TQmw5ejJFQTcyMjY0Wm9WRzjSAYIBQVVfeXFMUElPMnVlU3BVRGRvR19leEtvUzI0akZTdVRDb1VRY1NOcmQzMmVFdFNlUVZleU5LRDg0T01YRlM1djFUUmhPRTV1RjUwZlhWTV84UGFyVFl0bl9FQ1MzOHNEdUFEeHBTVzhwdEJUNTJKZlRaQzc2Q2tUSWhDR3NIVGFLdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:52:06+08:00"
-    },
-    {
-      "title": "Iran’s rial currency hits new record low as US prepares to announce more sanctions - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZlROSkFsYjg2RjA1RzJfY1VYTWNZZFhPcDVqSDJrRzFWR1pXQ29uS2NvaEhkVWo1d3dHeXF2QnlWTnNJY2RyVlJJWVQwcG15V0wtbEtwdUU0R05YWVhhbHpyZnZvT0tuMXM1RlJ3YVBxSlc4SGpHazJzSndyRkNqbXF6YVF5U1hqT2t0RmpCUnM3SDNXSkxtS2t6T3RnNGMtMnNiT1Q3X0VXNjg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:51:00+08:00"
-    },
-    {
       "title": "Demand soars for free school uniform, says charity",
       "link": "https://www.bbc.co.uk/news/articles/cvgy4pve4v8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -141,36 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaUc1WV9XcXFrd1gtdDl2S3ZqSGxVaVAwaHVVZm1BN0VjVTkycjhGMVlCX0FkZXNoSGtZeW5LVFpyZmF1RlRBNUhTZE1MOHVVZXJiRUtpYUJJN1BROVFYbHp3cDdjdFBHYUluUEY3TzVUTHlBNEhiVTlDVS1QOWpyS0ZMeU1tdGd5U0l1MktMOHJycFpRdV9IUEFfUWM?oc=5",
       "source": "Google News Top",
       "time": "2026-08-24T21:45:00+08:00"
-    },
-    {
-      "title": "Trump says communities that oppose data centers are \"making a mistake\" - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVFiOUIyM2kyQi16Zl9zY0lLODRkdVgwQ2YyMXF5TXJtZFd6LVAxS3BIOHBzOHFoNGY1RlZTay1sYjVXWkMzc3piSk5nNDdNazRaRmtOVy1UNWhCNTFhUTNZdENLQjh2QmdWMkQtMTJjS0J2OWJJeDhTTGozQkdsUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:42:55+08:00"
-    },
-    {
-      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T21:35:07+08:00"
-    },
-    {
-      "title": "Reggie Watts' Theme Song Axed From 'Comedy Bang Bang' Podcast - Variety",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaloyLU94QzA5eE1xemlFc0NqNVhZZE9fU0pVZjducEkwLTRJdC1vc0ozT0lVQXlmdXpfUkNEMEdsaThRbGV6UVlPdWllc3d5ckViQ1JzU09CMlo2SXBaN05QRkY1NXB3dnhsYkNlai1wMmxhbUhZR29LMW1WWVEwb3RzaGhlWmhBeHdBdnY4R3o0MVJMQUFjZU1qWGpZLUM5dmh1WHlR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:31:00+08:00"
-    },
-    {
-      "title": "California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games” - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa25tRTRRdWFGb3dVSzJJeTZyWUFrUl8zUEthRDl5RUNWWGlFRTRCX0F4aVhLUmdTQXlZZ2RjZlV0QlV3ekpTRkFOMkRHYXYzMVRRQWJUZk5fM00wdjQzdzFtU0RMQjhJVm9OQ1VHbkxFbTVzdmpoSlB3bDF2b0h0a0Vxa3dYQTlUTGZzRlZHTkVpMlY5UnNMU3Nhc3NuM29rQk8wZUViajN3RUdDVEoyMlB0SFhscVBybEZTWHlEQlgyMnFV?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:19:58+08:00"
-    },
-    {
-      "title": "Sonya Massey's killer Sean Grayson dies in US prison",
-      "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-24T21:14:10+08:00"
     }
   ]
 }
