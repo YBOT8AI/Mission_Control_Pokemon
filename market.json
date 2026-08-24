@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-08-24T23:32:26.602329+08:00",
+  "generatedAt": "2026-08-25T00:04:34.917114+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 626188.64,
-      "changePct": 3.39
+      "priceHkd": 620818.24,
+      "changePct": 2.51
     },
     "ETH": {
-      "priceHkd": 19787.38,
-      "changePct": 3.38
+      "priceHkd": 19504.67,
+      "changePct": 1.81
     },
     "SOL": {
-      "priceHkd": 762.6,
-      "changePct": 1.61
+      "priceHkd": 757.5,
+      "changePct": 1.23
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5503.13,
-      "changePct": -0.25
+      "priceHkd": 5513.17,
+      "changePct": -0.07
     },
     "SPX": {
-      "priceHkd": 60011.98,
-      "changePct": -0.26
+      "priceHkd": 60122.69,
+      "changePct": -0.07
     },
     "SPCX": {
-      "priceHkd": 1074.89,
-      "changePct": 0.1
+      "priceHkd": 1070.67,
+      "changePct": -0.3
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1178.49,
-      "priceUsdOz": 4675.4
+      "priceHkdPerGram": 1174.83,
+      "priceUsdOz": 4660.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.46,
-      "priceUsdOz": 69.27
+      "priceHkdPerGram": 17.37,
+      "priceUsdOz": 68.89
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 666.79,
-      "changePct": -2.31
+      "priceHkd": 663.97,
+      "changePct": -2.72
     },
     "Natural Gas": {
-      "priceHkd": 22.22,
-      "changePct": 2.2
+      "priceHkd": 22.12,
+      "changePct": 1.77
     }
   },
   "news": [
+    {
+      "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+      "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-24T23:54:16+08:00"
+    },
+    {
+      "title": "Big Apple targeted in lawsuit over Mamdani's government grocery store plans - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXlPUWtXRkdVb0hRVU5acnVWajg5bFAtQWNXaUZLM3dzRnZVREtNTFZFMm91Mktkd0tZTERvYkJrYXFPRXllZ2dpX29YNFVXRW1ZMWR3WmJETU9qQzRlTm10R3hmSGJkbjVDN0dfRWNGcFZmM3R1ZFBoY0pDRTVJa1pDSXk3OTkxVlZRbDhyZUtFaDFXdS1MRE5QVGVHSlBiQ0dVSXhkRnVUM0VX0gGyAUFVX3lxTE5ZUjNicnFWNnhYTkhhTkNrZ29ISVBLR1c2SmljRGdyZUNjbV9acURpNnBNc2plWGdESjcyR3JodXN2a0N3a2ZMV25uclF0c2FzaDV4SFhScmZSXzFYaXdIbm42Y0VYcmVuLUtUUFNvUDRXUEo0MDZYSjlSWkNBbVFqUGgzcEtob0lPZmZtbFd4RzhWNkNISWEtamJQZDVLSnVTdXlzSzl3c2dOMUxrTWZXZGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:20:00+08:00"
+    },
     {
       "title": "Is UK's Storm Shadow missile a game changer for Ukraine?",
       "link": "https://www.bbc.co.uk/news/videos/cx2znjly4dno?at_medium=RSS&at_campaign=rss",
@@ -63,6 +75,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-24T23:01:20+08:00"
+    },
+    {
+      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTFMRjRjUUFFMy1CZlRYODREeGdMaExJYTh3OTFReW5LNWxXakxkRzJhcURaMndxYmlrRUktSHV2QUNRcVhiclBYLTVFTmNrMXpsX2t4UWk4YXV2a0syVE00TzhKaXdlc2JGcnRfOTczNXcydUhrNmExYkg5bWFoVnRWTmpxUzU0Mm5icTV5ZXBhN1NyNGJiTEZ4aEtSNk16SDRLcVI3c1ByUdIBrwFBVV95cUxOYWZ0eW9xbUlMR21BU1N2WEtuak15QVBMSzUySUJIS2tFcDE2NFBuRDdHbktZdW9FV0JfbWVrQ3pZY0VQbWVwcEtsd1Rwa1BsdzYxdEZzUjdHSmNVQ3VrN1A2YWxYTFJTZTV5aFQ4WlVmWkVfTTFfeHJNZkhQVG9nR09HWEZDZ1Z1UENWVEhsYmF0aE9xS0VSOTVZOC00bHFKYXUyNnU3OUNsZzEtU0xZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T23:00:01+08:00"
     },
     {
       "title": "Illinois officer convicted in Sonya Massey killing has died, lawyer says - The Washington Post",
@@ -77,16 +95,16 @@
       "time": "2026-08-24T22:10:10+08:00"
     },
     {
+      "title": "Shelley Fabares, ‘Johnny Angel’ singer and actor in ‘The Donna Reed Show’ and ‘Coach,’ dies at 82 - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU3RkQ1VWaWxKd1hUY3RCLWItWUVkQzIzb2hWYll4MjRWamEtWTFDbGdWLU9xaWpOb3lPT3VHVVhrR1FSSE5YMTNvMlpmVG5ldVU2YWZaUXpvQkFXTEg3aEF6RjdfYUE5UTAxV1hVUFVPdUtZdS1tNkRTLXhJMzNpVExGS3llZUNpTUFBcDVvUGRVUm1VeXRkcmFncmJlVl9MelRvT0ViLXB4N2c0ay1nQ1NEZkxLdExsUFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T22:08:04+08:00"
+    },
+    {
       "title": "Access to Zambian courts prevented as election petition deadline looms",
       "link": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-24T22:02:17+08:00"
-    },
-    {
-      "title": "Gaza documentary produced by the Guardian to receive world premiere at Venice film festival - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQakpnNEhQaUhmUWlfQXZaZ2JQdk9UTzdnajNIa0ZOS2lLd0l2aktqSlBNb3ZjVF9pajB5NEZUQkhMS0xLbjhVaW55Z3lMeDM0c25tUy1yTlZKc0p2MGtrSVJka0plRG9hRlFQWjVYbXBrYWdERGZpenY4LVFySzB1MVpIcHdZaGlZMU43Q1JSVExhQzZXWm5YRTFUSzhWNnBSa0QtT1JyaVVsTGlkYmFqc3oxeEE1Y216bkRuR0p6Tm10WXpBMFpqNjYzd3dsYTJVelE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T22:00:00+08:00"
     },
     {
       "title": "Israel warns of 'forceful' response to kites flown from Gaza",
@@ -137,40 +155,22 @@
       "time": "2026-08-24T21:35:07+08:00"
     },
     {
+      "title": "Reggie Watts' Theme Song Axed From 'Comedy Bang Bang' Podcast - Variety",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaloyLU94QzA5eE1xemlFc0NqNVhZZE9fU0pVZjducEkwLTRJdC1vc0ozT0lVQXlmdXpfUkNEMEdsaThRbGV6UVlPdWllc3d5ckViQ1JzU09CMlo2SXBaN05QRkY1NXB3dnhsYkNlai1wMmxhbUhZR29LMW1WWVEwb3RzaGhlWmhBeHdBdnY4R3o0MVJMQUFjZU1qWGpZLUM5dmh1WHlR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:31:00+08:00"
+    },
+    {
+      "title": "California AG Calls Off Paramount-Warner Bros. Meeting, Accusing Company of “Playing Games” - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa25tRTRRdWFGb3dVSzJJeTZyWUFrUl8zUEthRDl5RUNWWGlFRTRCX0F4aVhLUmdTQXlZZ2RjZlV0QlV3ekpTRkFOMkRHYXYzMVRRQWJUZk5fM00wdjQzdzFtU0RMQjhJVm9OQ1VHbkxFbTVzdmpoSlB3bDF2b0h0a0Vxa3dYQTlUTGZzRlZHTkVpMlY5UnNMU3Nhc3NuM29rQk8wZUViajN3RUdDVEoyMlB0SFhscVBybEZTWHlEQlgyMnFV?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-24T21:19:58+08:00"
+    },
+    {
       "title": "Sonya Massey's killer Sean Grayson dies in US prison",
       "link": "https://www.bbc.co.uk/news/articles/cgrvj28wrxgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-24T21:14:10+08:00"
-    },
-    {
-      "title": "Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51d1c4OWlSWlZrWXItWHh3bnFLMWc5NlhhRTUtNjg3c2lBOWp5U09nbk9KN1dSXzF6WmotNDVMMTY5MTBxZENxSXQ5dTZ3ZUZmTnJ2a19XMFZ5YnN5ckp4dlU5VjRid2k2LWt0c1hMeGZ0ZUFWNlp1Rg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T21:14:00+08:00"
-    },
-    {
-      "title": "Partial lunar eclipse Aug. 27-28 live updates: 3 days to go, here's what you need to know - Space",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXE5MEdRaXNjRExTQV9VaXRoZnRhb3JIYXE0WW0wa1VXaVR3RjhXbHNnWDZKSXVsdFF2RllPU3N3VWRyZExVTEsyZmJVQ1ozSzI0cngxMXV4bGxJdGVHS0hrY0RlSFZjd1FtWEpqOXplSGkyOUx5WllfOTFpSUtha3JEZTdFS0c1anpVNXlxb3c2c1FrWlRrOUJOYzJVbjkzcndoUE9hYlNGdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T20:45:05+08:00"
-    },
-    {
-      "title": "The Ruthless Efficiency of Ultrapotent Street Drugs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWhHVGZ3R2VEeVFMaEwtX0tsUEhURlJVRWE2MUpybTBUVlU2Y2dPendIVERSdm5hYWZiSjlDNWhLU2JNY1B3Y3A3cHFGd1JPc3oySll2ZjFNLTl5c2xUNzZIWF9ENkhnR0RqWV9mcHBqQmEzMkRBX0VvRTh0dnF3UXc5YzlNczQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T20:30:50+08:00"
-    },
-    {
-      "title": "Shelley Fabares, star of 'The Donna Reed Show' and 'Coach,' dead at 82 - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXhqYVRFVFcxSF90RGYtcnMtTzViU2VaYTRhS1NlUGJJQ1NYVWJXR0NDa1FyQ0haa0Y4Q216MXdJR3JtSXB5VU5vaUl4VE1CNUNIQWRxUVp1a1h1QVVlS2NaWFF1NU01UjhZLXdBMTE0cWh2b19DazdQX2lraTJ3NGRqZ1kzQTIxWDRDSnhVa0FWQdIBlwFBVV95cUxPMTZWc1JjMC1vV3drRGQ3NmtoT1pyQ1lneUdEbUlPMTdnSTdvTm93bk16TjBxNkttQ2h1RVdSYzdZUThEY2VWb0NKUkdKZC1sQ29FdVZWR0lMRTVYbVZPVE9xRVlaTXo5WkV4d281UzhfWDZabzNFMWR1UWU4VzREcjd0eTRDZnVpemlTSmtLTzJwdjdmNngw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T20:27:21+08:00"
-    },
-    {
-      "title": "Watch Live: Lindsay Clancy trial testimony continues with prosecution rebuttal witnesses - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-24T20:27:00+08:00"
     }
   ]
 }
