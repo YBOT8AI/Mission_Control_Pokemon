@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-08-25T03:17:00.388837+08:00",
+  "generatedAt": "2026-08-25T03:49:04.569173+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619540.32,
-      "changePct": 2.2
+      "priceHkd": 617729.28,
+      "changePct": 1.82
     },
     "ETH": {
-      "priceHkd": 19391.69,
-      "changePct": 1.25
+      "priceHkd": 19357.04,
+      "changePct": 0.78
     },
     "SOL": {
-      "priceHkd": 751.15,
-      "changePct": 0.85
+      "priceHkd": 753.89,
+      "changePct": 0.98
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5505.76,
-      "changePct": -0.21
+      "priceHkd": 5503.52,
+      "changePct": -0.25
     },
     "SPX": {
-      "priceHkd": 60039.35,
-      "changePct": -0.21
+      "priceHkd": 60012.22,
+      "changePct": -0.26
     },
     "SPCX": {
-      "priceHkd": 1058.64,
-      "changePct": -1.42
+      "priceHkd": 1055.97,
+      "changePct": -1.66
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1168.86,
-      "priceUsdOz": 4637.2
+      "priceHkdPerGram": 1172.99,
+      "priceUsdOz": 4653.6
     },
     "Silver": {
-      "priceHkdPerGram": 17.3,
-      "priceUsdOz": 68.62
+      "priceHkdPerGram": 17.36,
+      "priceUsdOz": 68.88
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 668.44,
-      "changePct": -2.07
+      "priceHkd": 667.11,
+      "changePct": -2.26
     },
     "Natural Gas": {
-      "priceHkd": 22.2,
-      "changePct": 2.09
+      "priceHkd": 22.16,
+      "changePct": 1.95
     }
   },
   "news": [
+    {
+      "title": "Trump Live Updates: Bessent Unveils New 'Economic D-Day' Sanctions Against Iran - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T03:29:21+08:00"
+    },
     {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-25T03:12:35+08:00"
+    },
+    {
+      "title": "Here’s How Scientists Turned Plastic Bottles Into Nutritious Cookies - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV1hjbmhCNUNoZkotTEdBSGNOb0Q0UUpDRzJUQ3RDTXBGVWZ1dUM0SFkxY0I4OVFBY0R6Y2trMXpuSTJKOHRTYV9lbnBwMXRUQ2dJYnlpa1h6QlhLSWRyeG9oVEVaS2JraUNJNUFKamJ5c3pBMVVMVFBYUGgzZDlhbjltUkZ5dXlTQlJvMUkwY2VIR0tueld5cmhrRmpfdlZhT2ZBVG1lM3RyN21ablp3NDJ3R2hLeE9Sa0R3TWl4ZENRMXlzVDcyM0R5a2k4ckhGc0pCUg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T03:00:27+08:00"
+    },
+    {
+      "title": "Patriots agree to trade Kayshon Boutte to Texans - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb1NaR3J3dGFCbVVWa0FXbUUxWE5Nd2F4azNlWHpwZlplcENvQ0NQal9kTGZvS1BqMzBRSjBmOHdEanBKYTh0Q3FLUlZMQmJUaVk0TlUydlhvUTdIV0twbmd1TzFTRFZrb2NCWTl0RF9ZTXJGTjgzWW9SSzJScC1RVnBVb0o1eUdrQkJoQ0pzSjFqYnp0eTkxdk1DSTFydVhUMDJWQUVucEYzV280OHFF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T02:56:12+08:00"
     },
     {
       "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
@@ -65,10 +83,10 @@
       "time": "2026-08-25T02:34:23+08:00"
     },
     {
-      "title": "Trump's Kim gambit deepens doubts over US reliability at a key moment for Asia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeW1HQTBPVVZlZEhfMkNQekxGc3FZMHpTb1hFUF9Nb2EzLWJsU3NjZlpiNzh3N0xuVTRfZlRUX3Y3ODVPUjNkSE4zLVRNMzBTUWk2b1BJUlI5SXprSi1admNRVU5MbE1fR0hrRXJYNHJ6RjhPRHo2WWpyWWdoNEVEVnUtN1NtU1ByNlhjV0phdUtwWDh4QXFKVmRjcWxfYngwY3FlOXdHVE1MX2JqdDFjQVJjTllmQTU1X1N0UEpCQ28?oc=5",
+      "title": "iPhone 18 Pro’s new price might be better than expected - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUHZ0bFJYMTBNSU1yWHF3S3NVaVhrMl9mTklJMnNrdEVkWmprVHBlMEw2MmNIYU1uOV9icTk4ekxRakN6Y3Zab0FSVDhsWG56YWgwMWVwRWFJMU4xYmpjVjBPVFNmOVZVY3A5VkR2Z0ViRi1pWlVFQm9KemtYaDZacjQyVk9OZTJya25OTE1HRQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T02:20:43+08:00"
+      "time": "2026-08-25T02:22:00+08:00"
     },
     {
       "title": "Mass killing: Police investigate 5 dead near Forest Grove; suspect found dead in Wash. - OregonLive.com",
@@ -77,34 +95,22 @@
       "time": "2026-08-25T02:20:00+08:00"
     },
     {
-      "title": "Reno wildfire: Nevada blaze expected to burn for 48 hours and may spread further - live updates - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4Q1VzTHA2SVJ4MDhXSlBJRzNvU0owRnY0NUZHTGFNUklVUG9adGh5Z1NMQVpneHNtZmVtVXlTdGxrTGxmVHV0eUNkVDFGWXd4U2Z3OWpB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T02:18:07+08:00"
-    },
-    {
-      "title": "Trump Live Updates: Bessent Unveils New 'Economic D-Day' Sanctions Against Iran - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T02:18:03+08:00"
-    },
-    {
       "title": "Carney says Trump’s demands would dismantle Canadian auto industry as Ford warns US could be cut off - AP News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZE5jV3dUNWhXajlyc1J1cnhRNzZEQWR3cnV3dWNLTEdWZVlWYTZyakpWR1lPVzdUZE0tMWhMd1Z4c0J5OHpBbHh0cjhFNU1aTnlucERJSVlXMlR0Xzl1UW1zNlhVRzY0RFBaRVAwYzFkV2tBbk5ORUl2cTJnVHpjaE4xbFBtMlF5aFRITE1PVQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T02:15:00+08:00"
     },
     {
-      "title": "California Cancels Talks With Paramount Over Warner Bros. Merger - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXZCTm9aanNzY1V4MkxVOHlPWXBxY1VZSU0wMUZpUlJEMGFTUnlJaU9uYkJGX1lVeG9MbGVRczc0WkdycUd1U19POElheWhaZjdBSUFDS2M4NkU1Y0FjakdBVzJaWGJ5VUMtU3Z0WlFnMkRsSkFENk1ZWEtrRW9TX3NzLXRGaS1hSUlPWXg3eEVIb1ZwMVE5cA?oc=5",
+      "title": "GTA 6 Cyberleek update: Everything leaked so far, what might be next - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY3F4ektQSnl5elZuV3dMVHpSM0lQZ3hmZVRDUHFzVGZ5T1I0QldxZFEyRlF3UHVqLTBMcVhYaUZZQjVxTjBlU3NqNzFCRU1aSTg2Tk5qbmFubUo3V0NfRzRXcHhQdVVHbzZfX2xremNQUGlUX0lXeU9idUVpT2gzbzMwTkVSZm9lYnRFOUZReUswTXEwY0FkYWZn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T01:57:06+08:00"
+      "time": "2026-08-25T01:59:29+08:00"
     },
     {
-      "title": "From Tokyo to London, heatwaves send men to work in shorts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUm50TWhYYi1WblJfWDBVLVV4Z0lwbEU4VkRfM3NVay1EZGNHXzlZWWhzbVNtUmZWVUJJTC0tZXpVTVU4VDhRdGdPY1ExeWJxLTY0RzVuX3RDZ3lKeld0Z3d3YVJwNnloQXhKX3N2RGNvcWFnd2JieTNPbUhoRU5sanpLdjNfaGhZRzlGajZvb2NxUnM?oc=5",
+      "title": "Stock Market Today: Dow rises but S&P 500, Nasdaq decline; oil prices dip after 'Operation Outcast' against Iran was announced - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTmp6eUh6bC12b1o4M0tDdS1rUmo5OWxfX0p5TzJNZXM0STBzd3l2Y2t2X0dsWS16NEdnT216SVlGNkwzbnZPaXBLTnhuNXV3b0FhYmdrRXYzR0wxN3JfLTBkUDNfVnZQSlUxLVRLdDFjNUE5cWRVdHVQOG44aGxYdG8yQlVKTGNCSDZDS1hvX1B5WGxKUGZRQzh1U2JwZURsYXRxcUJkaUxFSlJ2TlVrakE2X0hhQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T01:45:38+08:00"
+      "time": "2026-08-25T01:51:00+08:00"
     },
     {
       "title": "Roche, Eli Lilly's Alzheimer's blood test gets FDA clearance - Reuters",
@@ -131,10 +137,10 @@
       "time": "2026-08-25T01:29:59+08:00"
     },
     {
-      "title": "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMjViVS03S3N1Z2ZhbHBmQktTRHJLaEZhcXFhZkQzOEpFb2hIdTRBQkkxakRiVk13WVNlY2Q5SXdyRVRlMzNieUZnbDh5LWlBamZoTHVIM1FaQmdwRS1SWmhqYmNLTUZneWxEM3BxWHJra0hVNW91MDZIN2tkY29kaEMwdEdXYkF1Z3BNRjQ2QXRKQnNMb01hN0hGa2M?oc=5",
+      "title": "8-year-old girl dies from a rare brain-eating amoeba found in warm freshwater - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdS1oYjFCaTFEUzdtS3lQYkIwZjVSM2N0anU2ZVVYOThHa0VYbl9NLVhQZkdGaW16cTFvMVRVOUZHbDA1bzRSZDUxZldwenBFc2dzbzJicGJwZXowa3dlN2xBQ1VtcXp1cjhJd0MxSmZUQWZCQ2k2c2J5MW5Bdzhoa3YxdW12YzlrWnZsZmdMai1SWk5zYzlOc19fTmhEMm1fMDhrSWlrb3ZWQnduWmgxTnAyYWNTTUpXRFlCLXRUcmcxbmdLSFliRElncFZnX3BXSTgw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T01:26:00+08:00"
+      "time": "2026-08-25T01:27:03+08:00"
     },
     {
       "title": "Outrage in Nepal over rape and murder of three-year-old girl",
@@ -143,34 +149,28 @@
       "time": "2026-08-25T01:24:25+08:00"
     },
     {
+      "title": "Here’s Why Nvidia Stock Is Down Today—Again - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGFuejdLcFlEYk1wTVhLZGZQTHNIT3NSRGJoOWY1NWZOU2VWU1FNQl9BeUdNdjY4RWhqRE9WYXFpYmRQcTBjTHFZRXVUa290OVVTdHlidVMwUVlqNWRzOTkzbTVwTnU1dHc4RERWYUJhOTZkQ1NVS0dQWXd1dFRmZTNrSG5UdGdtZWtZcE5SV1FmellEVkpqTUdreWFvNk85WWVPeHFoUkRieWFpYlhJZlVpTnMtcVhDT0ZSN1VOT1NUeV82djZuUkp5czc1c3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T01:14:48+08:00"
+    },
+    {
+      "title": "Hawk Fire remains 0% contained as evacuations continue across North Valleys, Northwest Reno as winds increase - KTVN",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdEVtc0ExdU85OEt5bzNMWVN3Z0M4eGk4SE4wYXVJWlFpamNnbGRTbmZ3eC1oUkxDWHE3UFY2Z0FEbXNLQlY3X0lrbjUxN1hZS3RYalhsMk92Wk9Fc0ZETVhneDZxQzRwYmxJOUV5dWUtd3BQYk5faVdNT3Fvb0owWWI4TGlwNXVydDlMTmVudHBWMUtBa1dlU0FmYWNhV0dDRTE4bm8zaHdheDZOQzdzUjhDcWhOU1VLa3dEeGF3ZkstWVJZbXZQY3lBYkU1OHdyaERvNnVxNVpUMXNWQW1WcEZXbFdKVkRCN1NfSEhocEhRdmlsVzNzeXJkUkpUQ0RPTXpUZ1JjRlVJN21k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T01:05:00+08:00"
+    },
+    {
       "title": "Graduate job vacancies drop by almost 50% in a year, survey suggests",
       "link": "https://www.bbc.co.uk/news/articles/crerd8l3pw5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-25T00:50:47+08:00"
     },
     {
-      "title": "Rail companies sued for £5m over oil spill caused by derailment",
-      "link": "https://www.bbc.co.uk/news/articles/cwyz37zzp22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T00:30:40+08:00"
-    },
-    {
-      "title": "Kit Harington Joins ‘Harry Potter’ Season 2 As Gilderoy Lockhart In Recasting, Reprising Voice Role - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWndnWjFyQ1RrcmNQczhKTDB4RC1TTWN6VUZ0YVZfbDBZeDJDa0NUOUFxeEx6WnhpZ0JvYXg2WUlzcmlGaDUwUEZKeHRLN3hhMHFGS3gweHVzMVE2a3BMT3JZaG9KRnBPVmU2eEo4ejZHZ2s2MThNS0tCc3dPZml1TTZEbnhuNUZUR2dVR0lQMEpqX0ZPMElzbmZiSWlyUE1LTmc?oc=5",
+      "title": "Kit Harington Joins ‘Harry Potter’ Season 2 as Gilderoy Lockhart, Replacing Nicholas Hoult - Variety",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEZDQ1hOQ1NnRWxOMzIycVJvSE9BSGx3XzdLU2tiRlJNVnZSYzVzUVNTaDh5cW5TOFdGUzI3NTl0cUhJb1RodFFieVpKdHlKcG5DLTFUY09XU1Mzb29KX2I1YkJEejFhOWh6c3Jockc5c28yMGgxOUJ2VG5JcFZmY2NrYmFKLVgxRU5CdWItbnE3YWVHRVgxdWxyaEV1VmU2OUJPalhEVGFkT3QtcHV1Yw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T00:30:00+08:00"
-    },
-    {
-      "title": "Hayden Panettiere’s Mom Denies “You Owe Me” Claim, Says She Went “Downhill” After ‘Heroes’ - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1c4LXpqTVo5NXpJcWdacWhoeHpCaXFfYmoyMUU5Sk9iOTJkX3dCWVJ6VjVmYkJ4SFNKMS1feTc5ZVNXcGVxeUR1UGlfaE9LY2hxTkctcU5kTi05QXlwVkMweER1ZlQzOTZvaEEwaFJUZ0pmSndULXNmd0otUFhQZ3luS1Y?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T00:25:22+08:00"
-    },
-    {
-      "title": "Livestream, live updates: New rebuttal witness testifies in Lindsay Clancy trial - NBC Boston",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeENvZkZHU3dGcjlWdklFbDkwTjZwc3VTMXd2UERfMW5felVJV1pVa2NMY3NtQk1DbzdZaVJ3LTVsVVZad3VjRWtQMm9UWFgxMnBMRGowX09hVEtvdmVNOUdDd1hvTnFTWXVsTFoxZDdJb1NKNUZ3R1B3TG1NZ05ETkdxUlVzVzdDZWVLdWYxWdIBlwFBVV95cUxOZWlfd1NyM2ZuTUpMdmlMNGJjUV83UnY0eVRYaGdGRTBCNUh4NzlrOE9oVEpVbEZsbW9qNTRHcWsyWDRIbDNmVW10al82a0hQbTU0MDRPNUV5NVNGQjR2QVFkTkpBdEQta3BnbXNyaHExdENxRXBTX1NyblJwSFVodmw4QUhmXzViX2hIRGU1cm5wcDNsRzN3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T00:10:15+08:00"
+      "time": "2026-08-25T00:42:00+08:00"
     }
   ]
 }
