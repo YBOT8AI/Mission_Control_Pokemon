@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T06:30:50.216910+08:00",
+  "generatedAt": "2026-08-26T07:01:51.790190+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616694.4,
-      "changePct": -0.12
+      "priceHkd": 618528.96,
+      "changePct": 0.19
     },
     "ETH": {
-      "priceHkd": 19168.09,
-      "changePct": -1.31
+      "priceHkd": 19235.44,
+      "changePct": -0.86
     },
     "SOL": {
       "priceHkd": 762.6,
-      "changePct": -0.19
+      "changePct": -0.21
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1176.57,
-      "priceUsdOz": 4667.8
+      "priceHkdPerGram": 1178.19,
+      "priceUsdOz": 4674.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.4,
-      "priceUsdOz": 69.04
+      "priceHkdPerGram": 17.45,
+      "priceUsdOz": 69.21
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 635.75,
-      "changePct": -4.61
+      "priceHkd": 635.59,
+      "changePct": -4.63
     },
     "Natural Gas": {
-      "priceHkd": 22.27,
-      "changePct": 2.12
+      "priceHkd": 22.3,
+      "changePct": 2.23
     }
   },
   "news": [
+    {
+      "title": "Court halts Ohio proof-of-citizenship requirement at motor vehicle offices - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajV2RXRTUXdEdGdFTzRBSkJEYXBXTkluWVM2NGk5dm9UMUxlQXlxT0dZeGVoTEdXcWhWLTNXMHp1QlZKb0UwenJNWEN0a1o4aFY2LUlBYTFPMHNHTFdPY09BS2JaMHZSUXdHTVhQU2NGLTR3NFZaaDFFRzlUSC1zTDRZQXdsQUM4cW9YaGt3dGcyd0ltakVjRGVzeTZWSjEycHJpUGpwVTI2VEoyak85S0dzUXFqSEY3RXFTMzJtUnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T06:51:02+08:00"
+    },
     {
       "title": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
@@ -59,14 +65,14 @@
       "time": "2026-08-26T06:28:43+08:00"
     },
     {
-      "title": "Canada announces retaliatory tariffs on U.S. products as trade war deepens - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN29kZkg1Q05EQ09rTHRnWHI1R3h0RlJXWW91ZjVRZTYwdzB2dEJkQlNuZmswRzFXNVFuNTJNZkNSZ3BkdVl3eGRxRkdGeXN1MEF2SE5NcTF6UnRsS1FaeTk1aVJmZndvQkxRZElXejNPLWZvQ1BTVWNzRC1Kc1MyVThqYWJXeFFNSmJTekEyUXNDbGJ5X21seGxxQlplcXBqVVFXR29ZSm55d1RhMUZj?oc=5",
+      "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T06:05:57+08:00"
+      "time": "2026-08-26T06:26:00+08:00"
     },
     {
-      "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHh2dmcyaWU3UlA2RXhCUnJKNTFucVk5Q0ZsQXMyMWowekZxbC1YOVViTk1uWnJKbXE1VHZ0UHk1c2JHMzNIRThYdU1fNzVOMEotcUZBRThDQ3NvNTRWTmRIQm9uZDJMbllocDBlOENVcjgwYjBCZDBzUkp1S0J5NThTT0RVR05jRnZWaDRNOG5jaHo1b21Gd3JGMVVCQ3dYWElpRFcwYw?oc=5",
+      "title": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T05:51:00+08:00"
     },
@@ -77,34 +83,34 @@
       "time": "2026-08-26T05:41:11+08:00"
     },
     {
+      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T05:39:50+08:00"
+    },
+    {
       "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T05:37:00+08:00"
     },
     {
-      "title": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThOWWROMUxXVGktT3F1UV83Vlo5UXJSckpQaDZNcVFYMTY5RUFhYXVlZHJQd0Z2QWprc0xfLXhZOGdIU2pibUh2ekRyeFJmSnREdnVKMl9IR3ZWcGhiMVlQR1ZnVF9meFdjVU1DLUx2emlXTWQxUy1NQVpQNzRSLUF1TQ?oc=5",
+      "title": "Two unvaccinated people die of measles in Pennsylvania outbreak, health officials say - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJraFpvQXUwNDh2ZVJoQThSUnlud2RNWXBNdUZVbExpU09CajIwVWJaQlNsX1VpSm5kYTVla2ZmdEZfbERGYTA5U2FVVzlnaFZPVVFqOVYxNm5IV1paeDJTekFxVUtYSlJjS29TNThwZmNCN1pRQXUwM0lHMFJYbDk0STh2c3RTcEIyRVN2eVAwaUNMWWVDWFBSaWlXdUotNDlj?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T05:31:12+08:00"
+      "time": "2026-08-26T05:17:18+08:00"
     },
     {
-      "title": "Trump threatens to demolish Kennedy Center if $250m renovation not done - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdGY0TGlhWURfVTh0NkNTNWt1d0RZcGV0dlJlbGpBcVRkMm1RQlNOdDAtYjR1RXlVNlFXUmNHcU55ZnhJbExpSENtRzdMN2ZTc3lyel9uOVltTmFQMkcxNlRuY21TVXZVOFZVTHhUdGJqaVBaVjlLdmRyZWJydnY2dVJVTQ?oc=5",
+      "title": "Geralt Returns in The Witcher 3: Wild Hunt — Songs of the Past and Remastered - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY28yM1dpQVdRNW51eUJqTXZCMHNkRnhWX2EyWFNsSnlqZ2dNV3dtMFZQQUVrUFFqb28wSXEwZlpheGYwMGUwTkd5UU1mWW9yOEJWcWFTZmdfZjVVWEFLbGpqMl9DbFhOemxjZl9PRlVJZDcteHlOR2pIQS02TkpyaEpPTVh6SDlWNHfSAY8BQVVfeXFMTi1RZlprXzhOdjlONmlaTTlqS0M3X3RLUzZMR01mQ3VnZ0M3dktueklMZVEwaG0xeXNBYnhoSFMxZHkwMEVReUdVc3NvNGNwcll0MWhQS2c3blBybW5rVDFlSzh6MWlDT2FQOE9KSlhoazA2XzAyX1BHeHVsaXZZVGo1d2tfYkJ1ZjhsNUwtclU?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T05:10:00+08:00"
+      "time": "2026-08-26T05:02:11+08:00"
     },
     {
-      "title": "Court halts Ohio proof-of-citizenship requirement at motor vehicle offices - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajV2RXRTUXdEdGdFTzRBSkJEYXBXTkluWVM2NGk5dm9UMUxlQXlxT0dZeGVoTEdXcWhWLTNXMHp1QlZKb0UwenJNWEN0a1o4aFY2LUlBYTFPMHNHTFdPY09BS2JaMHZSUXdHTVhQU2NGLTR3NFZaaDFFRzlUSC1zTDRZQXdsQUM4cW9YaGt3dGcyd0ltakVjRGVzeTZWSjEycHJpUGpwVTI2VEoyak85S0dzUXFqSEY3RXFTMzJtUnc?oc=5",
+      "title": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T05:02:20+08:00"
-    },
-    {
-      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:46:33+08:00"
+      "time": "2026-08-26T04:46:26+08:00"
     },
     {
       "title": "Trump administration violated court order on mail-voting rules, judge says - Axios",
@@ -113,40 +119,34 @@
       "time": "2026-08-26T04:42:20+08:00"
     },
     {
-      "title": "Pennsylvania reports first 2 measles deaths in the US this year, both people unvaccinated - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUdkUzczMUpFX3hTek1ZTExoUkJKaW1yUDdoeTd6WDU1ZmtFbVFRbUlrZUNBaVVOTE1VMUlyR0swbFBrY3lqZ0twRlJfZlF2U2ZVZGVRbmt6ZG1zQ2JKdks3d3A2dkw0NGNNZGxRZExHU01wXzR6MnpxSVFYVWhYYWZqaF82Vl8tMVFJcnZyOWo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:35:00+08:00"
-    },
-    {
-      "title": "49ers owner Jed York responded to undercover ad on prostitution website, police say - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlRYdWI5VktDaG5QaFB2LV9Ib2EyVldBWklxV0pfdzFQRWhvcGZtam9rWmtpM3FvQm43bUdTX1M4cElpMVRxc1U2SjRYTW8weDBxdGFCdXBmS2hueHZYeXNvbDVqRE54MDhyaC1hOHNSaHZjaG5NT0NyNXhBODBPREcwUEJXU2ZPOGp1Sk9VRGtYTlJLbUk1bzJRUHhObDBvc2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:33:32+08:00"
-    },
-    {
-      "title": "Big Ten Passes Rule Change Banning NFL Players from Returning to CFB, Potential Discipline Revealed - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUhCR1k5akpKREdsUUVJQU5mSVJqYWFCTXBvTXVaZ0tLeEM1VFZBVzVZTXFudHpvcXdmQnFPRUw3aUFpR1BjTkNFOUdrcmpOR3RBTTZrOThIdlkwc2kwVUU0RUFhVU82MHE2TmJPa1E2aGJtNzBCbFNVLTNYbTlJV3JFQXRnaG9PWTd1WlB6aFZ4N1YwYkZMNU1LZU45ZHBNLWJER3c4a0Q3cmtLcFY4QmdDVTQxbDRFd21TSE9xcm1LSV9ZRC1ZVnBLaXI3YzZF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:29:55+08:00"
-    },
-    {
-      "title": "The Witcher 3 is getting a remaster - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUEVEM3pkWUNYMGE3VG1UZnREaHVLVEM4SVhTSDN4Nm16WFRtN3BLdHBOc0dJSEN0VnVpcjB0dVVzZE1xQmtPSk5EemQxZlQwVXZwX1pncEd2d0J6UDFSNUR1bThOaUkxc2dOakplaHBURUxtcklNNW9XU2xsRVpTRl9tdXZSY21xNlVWY3AtOVdTOU5aQkFz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:24:24+08:00"
-    },
-    {
       "title": "‘Purely just up to Iran’: Bessent’s D-Day unlikely to end war, calm energy markets - Politico",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjdSRllVVVJYRnlRWUZheXBNMWZReDY1SHZoZk5pUUtGYXNvUjlaaTVYUlE1bFZfMi1RLWdtdGUwdVFjck54RFctUDd6cmVRTDA0RE0xQUR4ejcxUnNnZlJQUGdfazVZZXJjWTFLZHl1VmFFM3lvcEJZd2JpckJJZVNvbTFXa2oyTTVadFZLWERDUW12c0VLaG54bzRPbjRRUGhVMmpOTmUwcDZSZVdYcm9HelNqOXRCVnYyV0Q1RFZ4UC1HQWc?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T04:14:00+08:00"
     },
     {
+      "title": "Report gives new details about 49ers owner Jed York’s arrest in Ohio - San Francisco Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1I4X3BRQVRFSVFkdVM0bURRM1FmdElKWTdNZVZncnJUSFkxZlQ0NFlXWnY0VmJydUJpakpQdllBeTJ5RGc2VnpUMERpaWdsS3c1RlZ3Q2xMcUowdzB1Z05xV2JjVlJGTVE5T1lKd3BiVkp4UGF4emlPaXpSX3FhQnNKc2podVg2OVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T04:13:59+08:00"
+    },
+    {
+      "title": "Lions reveal new rivalry uniform that looks like Panthers jersey - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtaejg2TGR0QThRSF9UZGdCN0p6cEZwUTc5a0NjZWFScWQtZldjcHd3aFVJMmF5THpsSmp4djFjRk82cFltb1kwU1JQdWJUeVM0cWVQMFRIR0NuTTg2NjRKZUlvLU1jaE03WkJVV3ZvcXVhSEg0enRvOF9TSTV0TVdNalVsM0V0c3VzblRPUS0waDd5Wjh4NFNyM2ViWVNwM2F5Z1hCOF8tMWE0aDRvSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T04:12:00+08:00"
+    },
+    {
       "title": "Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTNRYm9rREZkZWZUVTFPaHBSTUhJQVpQR1ItU0p6d3BBZ29tMzhUcG92WlkxWExnNHF6V0tCTXZSZnBEVmtJUXZESUpLWVR1OXR3WXlacmRwcXZKQUtTTFhuNWIzYkRYWlE5QUxzNko4R0NuMGRjbmFLS0lSUXBaS281WVFzNndoeUQ3V1RQblhGNnBrdnRhdG9lMA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T04:01:10+08:00"
+    },
+    {
+      "title": "Rory McIlroy praises PGA Tour's 'big swing' with match play format for Tour Championship, offers dream venues - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXJOcTVGZ1d0Q3Q3blNXN2V2Q3NDT0ZkYmE2UlVOWU1GQ1VEOVFsWUtxTWZfYWJ0dXE3Y0hZNTNBUktzczJxNG5wSDVKQ1RDYll4QnFodzZWcFI1YngyajQ0cXlMcTc3bnU4ODZZYWlud3NaemMtUlJsTTJmT0Qta2h3WW1kMDFITGZUcVdFUU51U1hZT1dFOWNXenhYNl9hY0hrQkZlbHZTdzlwRDBoQzNkYUFsdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T03:57:37+08:00"
     },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -167,10 +167,10 @@
       "time": "2026-08-26T03:48:14+08:00"
     },
     {
-      "title": "Target shares drop after Halloween costume backlash - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTl1Ni1Pel9LckVkOVZ4OHZyTFZuT2pwNzBvekpucHNhWHBpSW1iRmlOLTRpb2g4OGlzNXVSVHEycHF6eXlZZFppdUpmVnZ2NnZXOUE3bVpVTjQ3X1RSTXFSXzJ6VFQxcnBqZ1NHNnBHdjRwQW1Yc0FONGwyZ3dpbGtXQzlucUJ1RlJwUGdQVUFrTjNCWFpva2J5R0NiM28tZTZteW1udldRdUxkOEE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T03:38:00+08:00"
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T03:30:37+08:00"
     }
   ]
 }
