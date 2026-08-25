@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-25T10:42:58.239414+08:00",
+  "generatedAt": "2026-08-25T11:14:03.506787+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 634804.8,
-      "changePct": 4.52
+      "priceHkd": 633730.72,
+      "changePct": 4.66
     },
     "ETH": {
-      "priceHkd": 19754.13,
-      "changePct": 2.99
+      "priceHkd": 19687.65,
+      "changePct": 3.04
     },
     "SOL": {
-      "priceHkd": 797.72,
-      "changePct": 7.33
+      "priceHkd": 794.74,
+      "changePct": 7.8
     }
   },
   "stocks": {
@@ -33,25 +33,49 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1171.2,
-      "priceUsdOz": 4646.5
+      "priceHkdPerGram": 1168.68,
+      "priceUsdOz": 4636.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.18,
-      "priceUsdOz": 68.15
+      "priceHkdPerGram": 17.13,
+      "priceUsdOz": 67.94
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 672.28,
-      "changePct": -1.5
+      "priceHkd": 670.48,
+      "changePct": -1.77
     },
     "Natural Gas": {
-      "priceHkd": 22.06,
-      "changePct": 1.48
+      "priceHkd": 22.09,
+      "changePct": 1.59
     }
   },
   "news": [
+    {
+      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
+      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-25T10:51:53+08:00"
+    },
+    {
+      "title": "How Canada could hit back to hurt the US economy - and Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-25T10:49:22+08:00"
+    },
+    {
+      "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T10:44:29+08:00"
+    },
+    {
+      "title": "French tourist dies in Death Valley after car gets stuck in mud",
+      "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-25T10:08:57+08:00"
+    },
     {
       "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
@@ -71,28 +95,16 @@
       "time": "2026-08-25T09:35:47+08:00"
     },
     {
-      "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlo0OEhnMEd4MmszbWZZcFotZ1llcGNqMjlSNTJtQTduS3cwUW1yWXJZa2Z1bEQ0Ym0zamhxWUozd2RtMEwzb2xxZnItbENuNDNTMVRUd0YxODMxa01CSnJuU2pSa1FLVGMzUjA2a3NRYy1sbzhaU0hkWmlYUGlueFp4X1NCU3BTcE4xUlB4Tjl3MWpoRjFDX3NrU2xRYW5BZ3BrUVU1dThTWXPSAbABQVVfeXFMTU52UXBENHFVRHdnNy15Z215NGk4ZHlYUmwtaGtwSlRJMWFXejNtc1dMMmhUdmF3emZKeUZKc2NiUENQRnFOR0lzUFlPUVJ4OWVETXF6amRBZ2JjY0kzcjRKcnZyWTZ4blJRMHlqQWZZdDJoQ29RbC1yM3hPYnVFRFFvSU14S0E3MEtndDdsdWhzRnM0dE43OXNXMzJHNXhSREJwYkFjb0U5WVhyWkdaVWU?oc=5",
+      "title": "Ex-Lakers player speaks out in defense of Enes Kanter, doubles down against WNBA's trans issue - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONE1tall6cWVCeUZpd2tBTlVNdHRaZWt6WTVVRVBla05KLWRMSGtWa3h3WUk1X1ctTnkxTEplMGIzR2FLUERuZHpFT3R4VnFQaHF4QVNLX3BUSi1oVEdjd3YzLXNHSlV5bWxWUjFYaEhveXBVYng3VnloZmlzaUxTX2lBMVhGTThSTjdBSDRabWF5bjZkWndLcDg5WWVXWENnOGMwZlRIbWQwcWswYkRNV1pJQ21tWUpTTEtkRmRn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T09:09:26+08:00"
-    },
-    {
-      "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc1l3TE8ybXRLODc4Y2tKc1ZFalhVbUVPYUpVMUNqRE82Z29lQ0dzVzUtbEhrN2RDVDQtOGVoZzdGakUtckdnWFJhWl9WZ24zaUZxdjZDTHA3ODdHd0x5V2V0TTVDSWJ1YjJOTENGcGllSVZWQzMtcUFrY0NOdUJFcmNhcFdla3FiU1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T08:59:25+08:00"
+      "time": "2026-08-25T09:08:40+08:00"
     },
     {
       "title": "U.S. withdraws from military exercises with South Korea set for next month - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVVFV01JMlVwYUZVM2ZEcjhlbVZKMkEzUHdHcnpEdTZKQm9QVnBNS2RnblN6UWcyT1NHVW95a2hCUjBzT1FrcUVwV1Z0RDNOOW5kY19rOWlEbldrRU9Bb3psZWoyS1hwc1lmaGlHZmhzNVd2QjVZaTJpRDViUHRXZUgyMXNJa0ZiTjhjcmUwZ2RPVlNuSkNtVFlHaEdqNVFuMUVBcTlpT3JGT1pXelhScnFn?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T08:44:55+08:00"
-    },
-    {
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-25T08:40:06+08:00"
     },
     {
       "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
@@ -105,12 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T08:31:47+08:00"
-    },
-    {
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
-      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T08:25:52+08:00"
     },
     {
       "title": "Target apologizes for 'offensive' Halloween costume after backlash - USA Today",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNTVRLUxWaEVLX3ZkbEgxWlN5VFVRaWNKbmlaS0xUS0hpZjZvVXdHRVp5OTY4UnV1V2xUMWsydjZucVg4eGFvdFlSWlRMaHQtYnlaMHJIbHJ1YTlIMVpuemNObWZDR2xEbEQ0XzFR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T07:36:50+08:00"
-    },
-    {
-      "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0Y2d0NoaVZhLUUwRWRYbGtnSVVfbVJjcmYxb0ZaZHZvVTNmdWJSd05zajY1U0ZwakVEelR1eFZ0dWkybmF2cGJWOFlmVFZHczVNZjB6SjlCa0trZmE2MXpHaHVJMEU0ZlBBMnQ5N21FejFnVG5yVTJBUU04a3Vjc3ZXSTZMSkNF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T07:28:53+08:00"
     }
   ]
 }
