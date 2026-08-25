@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-08-26T03:54:30.632352+08:00",
+  "generatedAt": "2026-08-26T04:25:35.700541+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618262.4,
-      "changePct": 0.28
+      "priceHkd": 618615.2,
+      "changePct": 0.17
     },
     "ETH": {
-      "priceHkd": 19295.26,
-      "changePct": -0.21
+      "priceHkd": 19281.23,
+      "changePct": -0.48
     },
     "SOL": {
-      "priceHkd": 766.67,
-      "changePct": 1.58
+      "priceHkd": 767.22,
+      "changePct": 1.82
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5520.85,
-      "changePct": 0.34
+      "priceHkd": 5519.52,
+      "changePct": 0.31
     },
     "SPX": {
-      "priceHkd": 60202.26,
-      "changePct": 0.34
+      "priceHkd": 60189.87,
+      "changePct": 0.32
     },
     "SPCX": {
-      "priceHkd": 1086.08,
-      "changePct": 2.61
+      "priceHkd": 1081.53,
+      "changePct": 2.19
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1176.42,
-      "priceUsdOz": 4667.2
+      "priceHkdPerGram": 1176.45,
+      "priceUsdOz": 4667.3
     },
     "Silver": {
-      "priceHkdPerGram": 17.43,
-      "priceUsdOz": 69.15
+      "priceHkdPerGram": 17.41,
+      "priceUsdOz": 69.07
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 642.72,
-      "changePct": -3.56
+      "priceHkd": 631.98,
+      "changePct": -5.18
     },
     "Natural Gas": {
-      "priceHkd": 22.34,
-      "changePct": 2.41
+      "priceHkd": 22.3,
+      "changePct": 2.23
     }
   },
   "news": [
+    {
+      "title": "Gun-running ship sunk by Israeli military in 1948 located intact 1,650 feet underwater - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRGhKaEs1d1RoZEZRUmdjZGdKWUNXVXdVaVJlZmI2X1pNQm1uVDU0Q3JRMXZyYW5QREpwMGljT2ZEcUZUWURTYmdrMGppTlpEaUUya3B0XzFjbmlSei02eVhTRFY2X1NxcFJoVWFLY29EQ0liUzR6UF9wWTJDbmhLRDZEeXktRzF3ci1sdGwwOHQ4Z1U?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T03:53:31+08:00"
+    },
     {
       "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
@@ -63,6 +69,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-26T03:48:14+08:00"
+    },
+    {
+      "title": "Big Ten Passes Rule Change Banning NFL Players from Returning to CFB Rosters - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQazZSRDdGa0EzZUNrZ1VnVUtPRUlZLWhmVWFIVlpjTGo5cDk5eDdtenBGVWx2MzJzYjkzMzdNeEZzYXVsMEVBVGNOcS1yaXg4S3E0aEJrYUpPajJpWG5lNGdIdmxES3VHMjR4MThlbFZ4U2tZdDVmcUg1OGRNbGwyR293cl9IWFRBR1Nrb0JoVVd1RG9xMFNrendfUE9oczJ3N2ZaMmlHRFpKS0JPVmw3aWFGVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T03:44:49+08:00"
     },
     {
       "title": "Mass arrests in global crackdown on West African cyber-crime networks",
@@ -83,10 +95,22 @@
       "time": "2026-08-26T03:27:00+08:00"
     },
     {
+      "title": "Dick's Sporting Goods stock plunges as retailer warns athleticwear demand is weakening - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEhBdzlOMkwzdnVHNTJYYndUX0x3c0lHeV9wUXNfdEJLbjdMcDNQNUNWeEVVaDQ5Z1RlRXljQUtMME9hQjFUem1NVm90OHRCa0JTTlJianVFbllTV1djOUM4VlVfem94SWo0cm1mV055bHR4V3hhQ3RKc01GUWMySDJneFZMTnZIQnFHYjhWeDVLUmc5WDlQQlVFMTRGdjNtZmo1UktkTUxVbVdiN29ZZHAxdnVSQdIBuwFBVV95cUxQTmZzdG1HVkM1RFJzZE03cDV6Y1BGbVRGRkhpckxSWjNzdnBueUVpOW5lNjBUbG96STFRMVkwLU5xTDhNUEhNREhRMV9HOWhEYWJ5Ty1lT0dlMHNpSmFvMjdYMC1MNmxaMjI2eDEzY2pTMExXcGlmS3c0WDZicEh3ZUdWVktfUVBwRTBXLUZlREVQMThXemtpYjVzLU9iUHJVNGd0bnZVT21iRXUwamdSMjR0Z3dLXzY0eWhz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T03:11:00+08:00"
+    },
+    {
       "title": "8-year-old died of brain-eating amoeba. Who's most at risk? - USA Today",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T02:51:00+08:00"
+    },
+    {
+      "title": "Lake America? Trump mulls renaming Lake Ontario, expresses love for French Canadians amid trade war - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQkoxdV83WXpiYW1YUTFfYUZSVTU5SG9oc3FkZ1N2aGozRmNqNXRwbk1XaEVWZDIza0YwTFc0R1FEckd6ZWtRMG1QTkdCZE9jUURDcl9laXZRazFRTnZiZFJ5cEtBU2xhODhhenVhSTBtYkFPVDNnTEVPRjFudzVIUGoxRF9YZzBSa3B4QTlMTHJWaW1oODlITE9aYUd1SWhoV3BCUlZpTkU3LVZncVEyMmFPenFlMmpFS0hKR290UGlsMDcyVmdR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T02:49:32+08:00"
     },
     {
       "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs - The New York Times",
@@ -95,22 +119,22 @@
       "time": "2026-08-26T02:42:58+08:00"
     },
     {
-      "title": "Lions reveal new rivalry uniform that looks like Panthers jersey - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtaejg2TGR0QThRSF9UZGdCN0p6cEZwUTc5a0NjZWFScWQtZldjcHd3aFVJMmF5THpsSmp4djFjRk82cFltb1kwU1JQdWJUeVM0cWVQMFRIR0NuTTg2NjRKZUlvLU1jaE03WkJVV3ZvcXVhSEg0enRvOF9TSTV0TVdNalVsM0V0c3VzblRPUS0waDd5Wjh4NFNyM2ViWVNwM2F5Z1hCOF8tMWE0aDRvSQ?oc=5",
+      "title": "US to revoke visas of short-term visitors seeking asylum - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Q251cHpJRGR1ZF9CQ3lGaGdTNGRVU3lXOTVna0FQQXJyZ1NEd1RaZmxHLUhIZy10RUFGTjRYWk5zb2pnZVlubHdYNDZISF8xNEp6RC1lVkh1dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T01:54:00+08:00"
+      "time": "2026-08-26T02:12:09+08:00"
     },
     {
-      "title": "LIVE: Louisiana lawmakers gather in Abbeville to announce SpaceX development near Pecan Island - WDSU",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdFJ0Q2dSQ1IyaExvWXA1UnFxQ1Qzak9tQ2tCS09HU1BnMXUxczBvR1lNM0Fia1pNbmVTOV9aaGNmVTRqbGZuVTJ1OWh4ZWo2cEtVZi1Fc2JWRFZIN2FFX3l5clFYYllLOGNmcUY1a1oyckpHcUFrYkV3SzRlV1o2Uw?oc=5",
+      "title": "SpaceX to Spend $100 Billion on New Spaceport in Louisiana - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVThOWWROMUxXVGktT3F1UV83Vlo5UXJSckpQaDZNcVFYMTY5RUFhYXVlZHJQd0Z2QWprc0xfLXhZOGdIU2pibUh2ekRyeFJmSnREdnVKMl9IR3ZWcGhiMVlQR1ZnVF9meFdjVU1DLUx2emlXTWQxUy1NQVpQNzRSLUF1TQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T01:49:00+08:00"
+      "time": "2026-08-26T01:50:38+08:00"
     },
     {
-      "title": "What We Know About the Hawk Fire Near Reno - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKTVlaMDlwLUU2MFEzelJEaS1Ha1E3bUZfazhLcTI4dE1ncnJOSEhOc2RfMElSMjFwRmxJcVFCNUZZSmFCUXlfSXdlMVZQcWloNExjTTdMdHhfcmNBSWdhMVBxbEhhWWRuV3ZHUEowWm5Rdw?oc=5",
+      "title": "Watch Live: Lindsay Clancy trial testimony nears end with prosecution set to call final rebuttal witness - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm5BX1pzSlRfSEhjNlRCX0pRN28zNU9KT1lBeldGM1pHQTZKdUlKMC02SmVILVR1Z3ItVV8yMVRZbmdWRkFWZXdjR1RkZzNQTkE2WTUzSkYtVFZMU3U0Q1F5ZEhfeldQb1dMSjZwOHVMZWFPVHFFNzN4NDBCVkNHVw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T01:32:15+08:00"
+      "time": "2026-08-26T01:39:33+08:00"
     },
     {
       "title": "Target shares drop after Halloween costume backlash - Reuters",
@@ -137,40 +161,16 @@
       "time": "2026-08-26T00:26:00+08:00"
     },
     {
-      "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFdUQXhtUHQxbG54QmNDR3NQM1BmaUJmUm1rUDB1YU5nNEtRbHJKS0JzN1BVeFBJbVhQU2p4RExITGtRakw4SHJmWi1lTXZpQXFsc3RHdC1mcUxHQkNGVDZHTDFlbG1Sc2JlVTM3aWxxQXFvYTFlWWFyalhCNjZFYnliZy1LNUpCSHJRWms2QzAzZGNOYzg1RGw0dGh6dDlwOXNr?oc=5",
+      "title": "NFL's new 'Rivalries' uniforms are here for NFC North and AFC South: Eight teams just got a new look for 2026 - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNjQ3Zm5RZUNoX00wZWJ0djJlXzJuWXN5Y0RTZ1h5RWMxaFBKYV9oanJvOVFfU0JhUFltUVNjek1tdEtCaGJrV1NDS3lWMzEzWUpvTjRyWU1qUkd0TDBhZjBsTXBockVacVREMS1HRXcwaW5tU3NJdHJ4dFFfOEFzLU5QdEZXVU1BdGVn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T00:08:22+08:00"
+      "time": "2026-08-26T00:12:21+08:00"
     },
     {
-      "title": "Watch Live: Lindsay Clancy trial testimony nears end with prosecution set to call final rebuttal witness - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm5BX1pzSlRfSEhjNlRCX0pRN28zNU9KT1lBeldGM1pHQTZKdUlKMC02SmVILVR1Z3ItVV8yMVRZbmdWRkFWZXdjR1RkZzNQTkE2WTUzSkYtVFZMU3U0Q1F5ZEhfeldQb1dMSjZwOHVMZWFPVHFFNzN4NDBCVkNHVw?oc=5",
+      "title": "Two unvaccinated people die of measles in Pennsylvania outbreak, health officials say - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJraFpvQXUwNDh2ZVJoQThSUnlud2RNWXBNdUZVbExpU09CajIwVWJaQlNsX1VpSm5kYTVla2ZmdEZfbERGYTA5U2FVVzlnaFZPVVFqOVYxNm5IV1paeDJTekFxVUtYSlJjS29TNThwZmNCN1pRQXUwM0lHMFJYbDk0STh2c3RTcEIyRVN2eVAwaUNMWWVDWFBSaWlXdUotNDlj?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T00:04:01+08:00"
-    },
-    {
-      "title": "Dan Stevens To Play RoboCop In Prime Video Series (Exclusive) - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN3d2VFFfZG83b2YxNVhSOTN5cnpCeWJ2ZU9nZHE5Qkxabnd6TXJpWkJGdFlwbW8xSkt6Z2NJN3Q5U19YaXNhcWFRTl9Camw0TnMzcjRjS045SVkzZ2ZqczNTbWQxQ1dncmE1NHU0Y091ZlJ2b05KaWhQaUNoQ2lKelJGU2FhWmNsZGlCMQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T00:00:00+08:00"
-    },
-    {
-      "title": "European rights court orders Turkey to free imprisoned businessman",
-      "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-25T23:58:20+08:00"
-    },
-    {
-      "title": "CIA director Ratcliffe visits Moscow - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRTJqYnRjYVo5N0JocTJUV3JnMEkzQURFOXhJanNQU1ZQTmVIOXUzZlVTblR6azVIc3gxOFZGMXh5dnFJdmEwLWtXZGxlQlB3NjlpWnRfLTI1amN0Yzg5ck9tZHVnUnF1aXNjaFc0cGZjSkpLangzQw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T23:52:57+08:00"
-    },
-    {
-      "title": "Exclusive: Justice Department considers bringing charges against ICE officer in Minneapolis shooting - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQTZrY1plRWVHZHJlRHlCakpscWM1aDJjT3JTZmdzeGFTQ2NJMEVKV0FmLWNDdUxEVFhCaW1mYm9zdXc0Q1NmRTJpSzI2aEZGa1N6T3BVQjJ5bHJ5RE52aHRfWlRyWS16X1JDeVdpNHVKNll0R2U2cnozQUNobjBHYnp6TTg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T23:36:10+08:00"
+      "time": "2026-08-26T00:02:59+08:00"
     }
   ]
 }
