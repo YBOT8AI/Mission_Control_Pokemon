@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-25T11:14:03.506787+08:00",
+  "generatedAt": "2026-08-25T11:45:07.618512+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 633730.72,
-      "changePct": 4.66
+      "priceHkd": 633072.16,
+      "changePct": 4.88
     },
     "ETH": {
-      "priceHkd": 19687.65,
-      "changePct": 3.04
+      "priceHkd": 19633.95,
+      "changePct": 2.79
     },
     "SOL": {
-      "priceHkd": 794.74,
-      "changePct": 7.8
+      "priceHkd": 797.17,
+      "changePct": 8.41
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1168.68,
-      "priceUsdOz": 4636.5
+      "priceHkdPerGram": 1168.96,
+      "priceUsdOz": 4637.6
     },
     "Silver": {
-      "priceHkdPerGram": 17.13,
-      "priceUsdOz": 67.94
+      "priceHkdPerGram": 17.17,
+      "priceUsdOz": 68.11
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 670.48,
-      "changePct": -1.77
+      "priceHkd": 669.54,
+      "changePct": -1.91
     },
     "Natural Gas": {
       "priceHkd": 22.09,
@@ -52,6 +52,12 @@
     }
   },
   "news": [
+    {
+      "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T11:30:18+08:00"
+    },
     {
       "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
       "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
@@ -77,12 +83,6 @@
       "time": "2026-08-25T10:08:57+08:00"
     },
     {
-      "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T10:00:18+08:00"
-    },
-    {
       "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
       "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -93,6 +93,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-25T09:35:47+08:00"
+    },
+    {
+      "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlo0OEhnMEd4MmszbWZZcFotZ1llcGNqMjlSNTJtQTduS3cwUW1yWXJZa2Z1bEQ0Ym0zamhxWUozd2RtMEwzb2xxZnItbENuNDNTMVRUd0YxODMxa01CSnJuU2pSa1FLVGMzUjA2a3NRYy1sbzhaU0hkWmlYUGlueFp4X1NCU3BTcE4xUlB4Tjl3MWpoRjFDX3NrU2xRYW5BZ3BrUVU1dThTWXPSAbABQVVfeXFMTU52UXBENHFVRHdnNy15Z215NGk4ZHlYUmwtaGtwSlRJMWFXejNtc1dMMmhUdmF3emZKeUZKc2NiUENQRnFOR0lzUFlPUVJ4OWVETXF6amRBZ2JjY0kzcjRKcnZyWTZ4blJRMHlqQWZZdDJoQ29RbC1yM3hPYnVFRFFvSU14S0E3MEtndDdsdWhzRnM0dE43OXNXMzJHNXhSREJwYkFjb0U5WVhyWkdaVWU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T09:09:26+08:00"
     },
     {
       "title": "Ex-Lakers player speaks out in defense of Enes Kanter, doubles down against WNBA's trans issue - Fox News",
@@ -107,22 +113,10 @@
       "time": "2026-08-25T08:44:55+08:00"
     },
     {
-      "title": "70,000 social and affordable homes to be built across England as part of £39bn plan",
+      "title": "More than 70,000 social and affordable homes to be built across England as part of £39bn plan",
       "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-25T08:32:20+08:00"
-    },
-    {
-      "title": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T08:31:47+08:00"
-    },
-    {
-      "title": "Target apologizes for 'offensive' Halloween costume after backlash - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnFLNU1WWlFFVTd4Mk5fTGFsOHI0T0pUbktwMXRSWmwxbngxWExubU1vUjJJOWRTV3hDN3kwQWZNMVdPV0FITEl5SjdTbW5XTW5QaVRXa25ZU0xqYjJwUmk2MzRXOU9tNm03NEhWVEdkXzZ0SkNUcEllVUdyLUc4N3FwT3M1VmFDYXlsQU9lYlhmTDFISllNSVBvd0lmdnNreDJmSUs3cFhLbklTa3hSb3A0WndTNkhOaTNNeGNFVmI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T08:20:00+08:00"
     },
     {
       "title": "US removes Syria from list of state sponsors of terrorism",
@@ -149,12 +143,6 @@
       "time": "2026-08-25T07:53:32+08:00"
     },
     {
-      "title": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHhQQ1JXOFd2QWNvb3JHaW5XbTFfandKdHNOZVRWN2hjZkRwdGFYSXJsOU5qd3JjcjY0X2hYSzQtekNNQm5aNWp0MExrM1gtdElRbjNyYWhkVldXdFFUdEV1OFdMcm12ejRHN0Jtb2RsSlU5c1J3OHZQUUZhdURtQ25TWXNBclBTRU1Yci1POGl6dTVabE5OYUhDWV95Y0dmMlZF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T07:50:00+08:00"
-    },
-    {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -171,6 +159,18 @@
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLNTVRLUxWaEVLX3ZkbEgxWlN5VFVRaWNKbmlaS0xUS0hpZjZvVXdHRVp5OTY4UnV1V2xUMWsydjZucVg4eGFvdFlSWlRMaHQtYnlaMHJIbHJ1YTlIMVpuemNObWZDR2xEbEQ0XzFR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T07:36:50+08:00"
+    },
+    {
+      "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0Y2d0NoaVZhLUUwRWRYbGtnSVVfbVJjcmYxb0ZaZHZvVTNmdWJSd05zajY1U0ZwakVEelR1eFZ0dWkybmF2cGJWOFlmVFZHczVNZjB6SjlCa0trZmE2MXpHaHVJMEU0ZlBBMnQ5N21FejFnVG5yVTJBUU04a3Vjc3ZXSTZMSkNF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T07:28:53+08:00"
+    },
+    {
+      "title": "Victims of Forest Grove quintuple homicide identified - KGW",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNbFVHZ1B2N0htRlVzV0tlUDNnbUtKYlpIdm44MnFFMTlEenBmcmZaWFduMXZwcGFqUGoxdGw2YVlCUlJLVzNqaFAxcUozUEZ3RlV5M2hGa3pIaWdjbXB0SEdRdENoTFVTUktSSTRkSDBocTlVcXkyWHJjdGxlUlh2R2tuOWVxa3F4c2lBN3l1TE5WLVBPSldQYUtPSDFFa2VlNzZiQXZaQ01qNEVnSnc3MTJKNmxGMm50U3JzVVg3MlQ5b3ZFeTF2bUJDSENrbGtSTi1LSDBZcUhSSHZJeHVVOU54Vkk0U3MzR3JubUlIQ3I?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T07:17:00+08:00"
     }
   ]
 }
