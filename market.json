@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-25T10:11:57.030964+08:00",
+  "generatedAt": "2026-08-25T10:42:58.239414+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625271.36,
-      "changePct": 3.44
+      "priceHkd": 634804.8,
+      "changePct": 4.52
     },
     "ETH": {
-      "priceHkd": 19543.08,
-      "changePct": 2.36
+      "priceHkd": 19754.13,
+      "changePct": 2.99
     },
     "SOL": {
-      "priceHkd": 786.43,
-      "changePct": 6.71
+      "priceHkd": 797.72,
+      "changePct": 7.33
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1171.05,
-      "priceUsdOz": 4645.9
+      "priceHkdPerGram": 1171.2,
+      "priceUsdOz": 4646.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.23,
-      "priceUsdOz": 68.37
+      "priceHkdPerGram": 17.18,
+      "priceUsdOz": 68.15
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 671.34,
-      "changePct": -1.64
+      "priceHkd": 672.28,
+      "changePct": -1.5
     },
     "Natural Gas": {
-      "priceHkd": 22.05,
-      "changePct": 1.41
+      "priceHkd": 22.06,
+      "changePct": 1.48
     }
   },
   "news": [
@@ -69,6 +69,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-25T09:35:47+08:00"
+    },
+    {
+      "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlo0OEhnMEd4MmszbWZZcFotZ1llcGNqMjlSNTJtQTduS3cwUW1yWXJZa2Z1bEQ0Ym0zamhxWUozd2RtMEwzb2xxZnItbENuNDNTMVRUd0YxODMxa01CSnJuU2pSa1FLVGMzUjA2a3NRYy1sbzhaU0hkWmlYUGlueFp4X1NCU3BTcE4xUlB4Tjl3MWpoRjFDX3NrU2xRYW5BZ3BrUVU1dThTWXPSAbABQVVfeXFMTU52UXBENHFVRHdnNy15Z215NGk4ZHlYUmwtaGtwSlRJMWFXejNtc1dMMmhUdmF3emZKeUZKc2NiUENQRnFOR0lzUFlPUVJ4OWVETXF6amRBZ2JjY0kzcjRKcnZyWTZ4blJRMHlqQWZZdDJoQ29RbC1yM3hPYnVFRFFvSU14S0E3MEtndDdsdWhzRnM0dE43OXNXMzJHNXhSREJwYkFjb0U5WVhyWkdaVWU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T09:09:26+08:00"
     },
     {
       "title": "Supreme Court gives Trump an interim win on his mail voting order, but hurdles loom - NPR",
@@ -95,10 +101,22 @@
       "time": "2026-08-25T08:32:20+08:00"
     },
     {
+      "title": "Trump administration proposes $103,000 fee for H-1B visas after legal setback - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGlMenMwT3ZOUjB2dkMtTXdDUXN1Nml1ZXZPYllFMExKNFdidTJFMzVBOFd1Wm1Da3BEVHNqYzA2bGRmbXNKeGh1VG4zbjNNbElmcVFiTTVaZEZnY3BPLWZsM1ZpWFY3RmxlX3g4NlYxMnVEbUxneG1lQUF5bzFmbjAtbkhVUy1jcUtKSXdJOGhaVlRJckdJZDRaeTJFYXNZSlVVS193eGpHTVJMN1RKMXpqX1FBNTRQYWhqZUt1d3R5cDdE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T08:31:47+08:00"
+    },
+    {
       "title": "US-Canada trade war escalates as Trump threatens tariff hike on autos after Carney vows to retaliate",
       "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-25T08:25:52+08:00"
+    },
+    {
+      "title": "Target apologizes for 'offensive' Halloween costume after backlash - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnFLNU1WWlFFVTd4Mk5fTGFsOHI0T0pUbktwMXRSWmwxbngxWExubU1vUjJJOWRTV3hDN3kwQWZNMVdPV0FITEl5SjdTbW5XTW5QaVRXa25ZU0xqYjJwUmk2MzRXOU9tNm03NEhWVEdkXzZ0SkNUcEllVUdyLUc4N3FwT3M1VmFDYXlsQU9lYlhmTDFISllNSVBvd0lmdnNreDJmSUs3cFhLbklTa3hSb3A0WndTNkhOaTNNeGNFVmI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T08:20:00+08:00"
     },
     {
       "title": "US removes Syria from list of state sponsors of terrorism",
@@ -125,6 +143,12 @@
       "time": "2026-08-25T07:53:32+08:00"
     },
     {
+      "title": "Measles outbreak in southern Iowa expands to 17 cases, new potential exposure location added - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTHhQQ1JXOFd2QWNvb3JHaW5XbTFfandKdHNOZVRWN2hjZkRwdGFYSXJsOU5qd3JjcjY0X2hYSzQtekNNQm5aNWp0MExrM1gtdElRbjNyYWhkVldXdFFUdEV1OFdMcm12ejRHN0Jtb2RsSlU5c1J3OHZQUUZhdURtQ25TWXNBclBTRU1Yci1POGl6dTVabE5OYUhDWV95Y0dmMlZF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T07:50:00+08:00"
+    },
+    {
       "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -143,34 +167,10 @@
       "time": "2026-08-25T07:36:50+08:00"
     },
     {
-      "title": "Deshaun Watson named Cleveland Browns’ starting quarterback over Shedeur Sanders - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRVRkZkhXT01waW1QYmdlSzR5VmZpLVVCZDB5N2h3RFlBVFZObEhJaGxPQVZBQ1hGUThjSkx5RERUT08tTURTMjVfYkhmZ3pFTVJHYmFqb0pZVTdqYkhkcFE0dkRjcTFnMXJwdV9hUHBlSUdWMlp4WXpMUktveW05YzBLNDk1U3g0Nnp2bUVOMk5jUQ?oc=5",
+      "title": "Religious References in Lindsay Clancy Trial Anger Judge and Defense - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0Y2d0NoaVZhLUUwRWRYbGtnSVVfbVJjcmYxb0ZaZHZvVTNmdWJSd05zajY1U0ZwakVEelR1eFZ0dWkybmF2cGJWOFlmVFZHczVNZjB6SjlCa0trZmE2MXpHaHVJMEU0ZlBBMnQ5N21FejFnVG5yVTJBUU04a3Vjc3ZXSTZMSkNF?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T07:10:00+08:00"
-    },
-    {
-      "title": "‘Getting no help’: Thousands in Gary, Indiana, still without power nearly 2 weeks after storms - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMmJNU0pBZW02MlJ4Y3ktbzZsbnlWY2NLQ2hmNDNicFVrUTFRZHRmcUt5Y3pYMnBEMzNrY3VNNjBhUk8yWnp2SThwOUxvZUs0eUtLNHVIclktX3VvYktiM3VRV3FoLURwdklnc3k4d3lPdWtTM0xwaVR6LVI2cTZwWHVnZ2NxOFgz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T07:09:46+08:00"
-    },
-    {
-      "title": "'What you see is what you pay' - why some US restaurants are banning tips",
-      "link": "https://www.bbc.co.uk/news/articles/c4g36yze692o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T07:04:17+08:00"
-    },
-    {
-      "title": "New 10p coin enters circulation - will you spot one?",
-      "link": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T07:03:42+08:00"
-    },
-    {
-      "title": "SEC subpoenas Wall Street banks over Situational Awareness - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeU5TZjlrVHZicGoxZEhiWnJzQ05SMUJ2cTBOVnRmcG1NcUw5cFo1RUszZm55b3MzUEhaY05KUHFyQ0hIa090R041X2ZRQk1WdjNmM2xIc3dqVEdKYjJwSWFnYklDa2lxZU5URHFlUE9NYUlNakVtWDBPNWoxT3dvTURNZmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T06:56:18+08:00"
+      "time": "2026-08-25T07:28:53+08:00"
     }
   ]
 }
