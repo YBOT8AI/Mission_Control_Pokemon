@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T07:01:51.790190+08:00",
+  "generatedAt": "2026-08-26T07:32:53.341649+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618528.96,
-      "changePct": 0.19
+      "priceHkd": 616843.36,
+      "changePct": -0.27
     },
     "ETH": {
-      "priceHkd": 19235.44,
-      "changePct": -0.86
+      "priceHkd": 19210.74,
+      "changePct": -1.31
     },
     "SOL": {
-      "priceHkd": 762.6,
-      "changePct": -0.21
+      "priceHkd": 760.48,
+      "changePct": -1.29
     }
   },
   "stocks": {
@@ -33,30 +33,66 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1178.19,
-      "priceUsdOz": 4674.2
+      "priceHkdPerGram": 1174.81,
+      "priceUsdOz": 4660.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.45,
-      "priceUsdOz": 69.21
+      "priceHkdPerGram": 17.38,
+      "priceUsdOz": 68.95
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 635.59,
-      "changePct": -4.63
+      "priceHkd": 634.88,
+      "changePct": -4.74
     },
     "Natural Gas": {
-      "priceHkd": 22.3,
-      "changePct": 2.23
+      "priceHkd": 22.33,
+      "changePct": 2.37
     }
   },
   "news": [
     {
-      "title": "Court halts Ohio proof-of-citizenship requirement at motor vehicle offices - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOajV2RXRTUXdEdGdFTzRBSkJEYXBXTkluWVM2NGk5dm9UMUxlQXlxT0dZeGVoTEdXcWhWLTNXMHp1QlZKb0UwenJNWEN0a1o4aFY2LUlBYTFPMHNHTFdPY09BS2JaMHZSUXdHTVhQU2NGLTR3NFZaaDFFRzlUSC1zTDRZQXdsQUM4cW9YaGt3dGcyd0ltakVjRGVzeTZWSjEycHJpUGpwVTI2VEoyak85S0dzUXFqSEY3RXFTMzJtUnc?oc=5",
+      "title": "AI gold rush draws crypto firms away from Bitcoin",
+      "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T07:11:02+08:00"
+    },
+    {
+      "title": "Firms scramble for battery power in Spain and Portugal",
+      "link": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T07:09:31+08:00"
+    },
+    {
+      "title": "Back to school: How to save on uniform costs",
+      "link": "https://www.bbc.co.uk/news/articles/cedjqx6zdl0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T07:08:31+08:00"
+    },
+    {
+      "title": "Winter energy prices expected to rise to three-year high",
+      "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T07:07:29+08:00"
+    },
+    {
+      "title": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T06:51:02+08:00"
+      "time": "2026-08-26T07:02:00+08:00"
+    },
+    {
+      "title": "New NASA telescope to probe dark energy, dark matter and exoplanets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeFdYY1BBZ0twUzM0TFVyVDRHUXk2OXdjbC1ZdXNBb3RyYTRKUVYzV0JJVy1LbVdGWXpIUVhiZTZhZE1MdWdQWmFEajI4NGRCRTg3UmpScTJna2x6NDVLZXBoUmJIdWtkTnFBMEdiV3NPUllaRlVvZkEtaElKNGdtMG1Cb0JvNURIMGU0NDVac1R4QS1lbDVnbGZUei10dXlaOHRNOEZRbGswUkNTSVYycTRFSHE5cE0tM0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T07:00:19+08:00"
+    },
+    {
+      "title": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24 - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS053T0tyclZoWWplR0FnUGdFM0ZaN3lnM01DQjNEazI4N2Z3bGZNQXhrTmQyZlBDMEZhR28xaU9YcVpvSW1UV2lFZUFtNHp3VnNjcFNscFNial9XanhTNVkzTnNxSzZnU2t3aW85ZTh4b2tnOWpXWlNfZ3VfanRlU1ZpbnQ2d2ZsMkczdU5KY2Etalk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T06:50:40+08:00"
     },
     {
       "title": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
@@ -65,28 +101,16 @@
       "time": "2026-08-26T06:28:43+08:00"
     },
     {
-      "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
+      "title": "Clinton-appointed judge triggers appeal after blocking key voter citizenship law - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzltWnlHT0pHOXdKNldxdFJDaTFEU3hvd1BuMjVYZnJXYi1ub2J2VlMzTjQ2UlQ3TG1wVU1sOVpQaXEzbWFuc3hFdE5PZlhPbkh2UDB0emQtblFubEFOU1FMbFRkTDNSV0JQZEk1cTJZOGJoWU9BQS1ZNHBNcWtFaE1seGJONXhvQkR6WlVMaENmM3F1Um5QQzkzQnY2M2ozSnYyUG10RzFRdm5zQmo2bWN4b0VhLVI5OEN4cnBRdkg3ZHl6bFlYSVpGVdIB0AFBVV95cUxOVmN1Z0NDWnJVWElBcUxid2t5akJHVEVqSG44bFh3SDI5LTFjbDJOR3NlWXdVTUhlY3NIWjFDVUlrcnhGMk01Y1YwMWdkUUlTR0lwRkFjdGFBTnl0Z2loazJRTFZBWDdVd0F6VTU4M2RmcFlSaEExNi1ya2E5bzdkeExSZE9adWxPNVJWZjRXRDZZMEpBNy1qdXBrTnRmamhnXzY4ZWRMMkJtZUZvNkNwZW5xRFBOV3o4R2NvdlZjakhLWlRxQUZfQXhlRlFIUENT?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T06:26:00+08:00"
-    },
-    {
-      "title": "Exclusive | Trump Sends Nuclear Agreement With Saudi Arabia to Congress - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lMNk41ZjNONEZiVmpqRFVXTmVIeGU0bjIxbHNheWlHLVNqSFNvMEstQ0hGUlpLOW5FQWhlZjU5Sl90TnhPSWhQY3JrdFZkYmR6ZURGOUVNVGRqWFdCVjdINl9vbXg1S1RId3NpdzczMG5Vc1N0ejVCaVZid0ZVamtRZ0xWRVNkNHZfSnNZMkJvdnZIQ19jMFFZMWttcmFGOFFldTM3dXU3dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T05:51:00+08:00"
+      "time": "2026-08-26T05:56:38+08:00"
     },
     {
       "title": "Dolly Parton, country music icon, dies at 80 - NBC News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHM0bEtXZ3pRVDhvNGJYWHl5emltcmFkUVhva1ptbmU1Rld6WXd0alBEYTFweXdTRWhJT2Y5SEw2RmlFZzFEOFFUZmZFMVNJeXp2bWNNOEZ3RU1ZYnZQMG03d0ZVemFLenBaaGdvdkJlQTBRd1JDV2RCdVdSMWRCdldjSkdlVmJJSnVXYUVENA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T05:41:11+08:00"
-    },
-    {
-      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T05:39:50+08:00"
     },
     {
       "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
@@ -110,7 +134,19 @@
       "title": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T04:46:26+08:00"
+      "time": "2026-08-26T04:54:25+08:00"
+    },
+    {
+      "title": "Trump scoffs at ‘affordability’ issues. The White House knows it’s a big deal. - Politico",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWk02VjVOQ0xMLVhaQWRrUWJCRl9kbUpjUlBqV1o4eXhCdG42M2dIZUxwLTNuZHAxVlQ0UVc3b19iby1mS1BvM0dDZVN2SUxoQ3pXWGkwU1kzdGcwcFNCQ3B4YzRGSkdBaWtqUDhLTk43a1l1c21XbGQ5eklzNGE1MUR3VVExVUd3Z29URjN5S2ZiS0FQMTd2Wk95Nm14akRNcDEtSEEyazliYnhoSms1ZVJNQ09uRjRRTUZ0eWdxR2JoSkxn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T04:51:00+08:00"
+    },
+    {
+      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T04:46:33+08:00"
     },
     {
       "title": "Trump administration violated court order on mail-voting rules, judge says - Axios",
@@ -119,58 +155,22 @@
       "time": "2026-08-26T04:42:20+08:00"
     },
     {
-      "title": "‘Purely just up to Iran’: Bessent’s D-Day unlikely to end war, calm energy markets - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUjdSRllVVVJYRnlRWUZheXBNMWZReDY1SHZoZk5pUUtGYXNvUjlaaTVYUlE1bFZfMi1RLWdtdGUwdVFjck54RFctUDd6cmVRTDA0RE0xQUR4ejcxUnNnZlJQUGdfazVZZXJjWTFLZHl1VmFFM3lvcEJZd2JpckJJZVNvbTFXa2oyTTVadFZLWERDUW12c0VLaG54bzRPbjRRUGhVMmpOTmUwcDZSZVdYcm9HelNqOXRCVnYyV0Q1RFZ4UC1HQWc?oc=5",
+      "title": "49ers owner Jed York responded to undercover ad on prostitution website, police say - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlRYdWI5VktDaG5QaFB2LV9Ib2EyVldBWklxV0pfdzFQRWhvcGZtam9rWmtpM3FvQm43bUdTX1M4cElpMVRxc1U2SjRYTW8weDBxdGFCdXBmS2hueHZYeXNvbDVqRE54MDhyaC1hOHNSaHZjaG5NT0NyNXhBODBPREcwUEJXU2ZPOGp1Sk9VRGtYTlJLbUk1bzJRUHhObDBvc2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T04:14:00+08:00"
+      "time": "2026-08-26T04:33:32+08:00"
     },
     {
-      "title": "Report gives new details about 49ers owner Jed York’s arrest in Ohio - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa1I4X3BRQVRFSVFkdVM0bURRM1FmdElKWTdNZVZncnJUSFkxZlQ0NFlXWnY0VmJydUJpakpQdllBeTJ5RGc2VnpUMERpaWdsS3c1RlZ3Q2xMcUowdzB1Z05xV2JjVlJGTVE5T1lKd3BiVkp4UGF4emlPaXpSX3FhQnNKc2podVg2OVE?oc=5",
+      "title": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUVrUnBqVHJPeXJmX1FJcmRUZ19XWmJkZU5RcUJLbUxIc1pLOTdiME5Kb1NXTTEyNFdPVjhrZlNnTXh0b21zcmMtSGxzMmhFNW5EaHdRVFVqT21vdU90ZDlaSVUtb29EY25hQVJXV3NiN2lTOVVDZ2hjZ2U0Qjk0YTVwWHp2b25MRmlqS0g4QVNpVVdMUVFMOHFQU0RDZTdqSlpRTEZqdnp5RHdTQlhVcDFEd2gzN3NCXy1DdVBERTVtQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T04:13:59+08:00"
-    },
-    {
-      "title": "Lions reveal new rivalry uniform that looks like Panthers jersey - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtaejg2TGR0QThRSF9UZGdCN0p6cEZwUTc5a0NjZWFScWQtZldjcHd3aFVJMmF5THpsSmp4djFjRk82cFltb1kwU1JQdWJUeVM0cWVQMFRIR0NuTTg2NjRKZUlvLU1jaE03WkJVV3ZvcXVhSEg0enRvOF9TSTV0TVdNalVsM0V0c3VzblRPUS0waDd5Wjh4NFNyM2ViWVNwM2F5Z1hCOF8tMWE0aDRvSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:12:00+08:00"
+      "time": "2026-08-26T04:06:00+08:00"
     },
     {
       "title": "Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTNRYm9rREZkZWZUVTFPaHBSTUhJQVpQR1ItU0p6d3BBZ29tMzhUcG92WlkxWExnNHF6V0tCTXZSZnBEVmtJUXZESUpLWVR1OXR3WXlacmRwcXZKQUtTTFhuNWIzYkRYWlE5QUxzNko4R0NuMGRjbmFLS0lSUXBaS281WVFzNndoeUQ3V1RQblhGNnBrdnRhdG9lMA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T04:01:10+08:00"
-    },
-    {
-      "title": "Rory McIlroy praises PGA Tour's 'big swing' with match play format for Tour Championship, offers dream venues - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbXJOcTVGZ1d0Q3Q3blNXN2V2Q3NDT0ZkYmE2UlVOWU1GQ1VEOVFsWUtxTWZfYWJ0dXE3Y0hZNTNBUktzczJxNG5wSDVKQ1RDYll4QnFodzZWcFI1YngyajQ0cXlMcTc3bnU4ODZZYWlud3NaemMtUlJsTTJmT0Qta2h3WW1kMDFITGZUcVdFUU51U1hZT1dFOWNXenhYNl9hY0hrQkZlbHZTdzlwRDBoQzNkYUFsdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T03:57:37+08:00"
-    },
-    {
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T03:50:57+08:00"
-    },
-    {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T03:48:14+08:00"
-    },
-    {
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xWlh4T2hUTi1yVUFianZxemw5WTBlZzA5TzBrTVpEM29WbGpKVGltYm1ZbTIzeXBHTDYzTVp2RzJPLTBYVm80Ul90dlM1V1ZZNF9BRFFJLVo3Zw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T03:48:14+08:00"
-    },
-    {
-      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T03:30:37+08:00"
     }
   ]
 }
