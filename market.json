@@ -1,68 +1,104 @@
 {
-  "generatedAt": "2026-08-26T02:21:16.532244+08:00",
+  "generatedAt": "2026-08-26T02:52:20.535544+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 621367.04,
-      "changePct": 0.36
+      "priceHkd": 620904.48,
+      "changePct": 0.27
     },
     "ETH": {
-      "priceHkd": 19380.32,
-      "changePct": -0.29
+      "priceHkd": 19352.41,
+      "changePct": -0.35
     },
     "SOL": {
-      "priceHkd": 772.08,
-      "changePct": 2.38
+      "priceHkd": 772.87,
+      "changePct": 2.71
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5512.23,
-      "changePct": 0.18
+      "priceHkd": 5518.22,
+      "changePct": 0.29
     },
     "SPX": {
-      "priceHkd": 60111.08,
-      "changePct": 0.19
+      "priceHkd": 60173.88,
+      "changePct": 0.29
     },
     "SPCX": {
-      "priceHkd": 1084.43,
-      "changePct": 2.46
+      "priceHkd": 1083.96,
+      "changePct": 2.41
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1172.11,
-      "priceUsdOz": 4650.1
+      "priceHkdPerGram": 1172.54,
+      "priceUsdOz": 4651.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.39,
-      "priceUsdOz": 68.98
+      "priceHkdPerGram": 17.38,
+      "priceUsdOz": 68.97
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 643.98,
-      "changePct": -3.38
+      "priceHkd": 646.02,
+      "changePct": -3.07
     },
     "Natural Gas": {
-      "priceHkd": 22.13,
-      "changePct": 1.47
+      "priceHkd": 22.18,
+      "changePct": 1.69
     }
   },
   "news": [
     {
-      "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFViVWpSZnJmV1lubURHZG51NlNpNFZZQmcyZXNIdVRrenNEalBDSmlPSVZ6RlM0VjJEMUdYUDFSMHFUaGV1LXJJRlJqOVZYVHJBSVpFenVPOW9LanktOTNGVU5FQlFicldlLXJmOGpHb0dtT1RiLUxCbVVJYlFVVHE0eFQ?oc=5",
+      "title": "Dolly Parton, Superstar Whose Songs Spoke to Millions, Dies at 80 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SSlFNMWUtMEpKb1VyMUtVbk9QNmJDNWhfNFpGZTdITUYwajdxS0tSSzZjaXVpNTdDVWpsdDlybVZEc3JGTFFwamdSbVBRTy1WX2ZCYWNVLW9mdGdKb0poc08yQTdmX015QmdSX0JLaVlDcm91NFow?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T02:06:00+08:00"
+      "time": "2026-08-26T02:48:24+08:00"
     },
     {
-      "title": "CIA Director John Ratcliffe Makes Surprise Trip to Moscow - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVNtcDAtZ0ZDQVVBRXk3UzdpaEM3dzloOFUtSGxaajVpYkdGa1JfYUk5ejhZZlh3MlJtdVp4QS1qcFFQb0t5V0NzaVNKOWtPTEN1UEh6QU5ETkNOT2Q0amcxeWREZ2lCM01NcmVWZTJaRjNZdFBxX2hOZWlYUHBIWEZSeExlUzdldEtCbVk1c2tRWUtrbUJv?oc=5",
+      "title": "Canada slaps retaliatory tariffs on US goods worth $20 billion as trade war intensifies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnllQWZiMlB2MERDOUJLLWZUdGs0SjFhaDVKcVJwNWVGb0FhZ2pramhtQVJlT2l0eUlBREV1YUgzTEgxZzliNjVQR1hRTWdOdGJXSFhlamF3LXl0dGRmZjg0c1NwWEZKNDRiRkgyZG5QUmw1UlZ3dDA2ZlNtMTNabUVxc0UzdDRsNTM1b2hPWHlTZjVadWxJUTRLWGVuM1A3eFQxU21lQm1RY3hpMS1URUcxX1lGQktwZnR6SFhkOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T01:06:00+08:00"
+      "time": "2026-08-26T02:11:24+08:00"
+    },
+    {
+      "title": "Two Unvaccinated People Died from Measles in Pennsylvania, Officials Say - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDhUVEhNaFBYcklnMXhvbExRY3NqdDJHWlhtUFN5bkRpMXVkRUtWcXVYOFFzTW0tc0p0cTJHSEZDV0oyc3AyRVMwTzEzSTRWS0dZOG03dXQydVpoNUdvYXJGVkNNSWw2eEFyMUk2bkZqS1FrUlRUV2ZpTUJzZm5nLVRJZk5zc1Rv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T01:59:11+08:00"
+    },
+    {
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T01:54:03+08:00"
+    },
+    {
+      "title": "Lions reveal new rivalry uniform that looks like Panthers jersey - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUtaejg2TGR0QThRSF9UZGdCN0p6cEZwUTc5a0NjZWFScWQtZldjcHd3aFVJMmF5THpsSmp4djFjRk82cFltb1kwU1JQdWJUeVM0cWVQMFRIR0NuTTg2NjRKZUlvLU1jaE03WkJVV3ZvcXVhSEg0enRvOF9TSTV0TVdNalVsM0V0c3VzblRPUS0waDd5Wjh4NFNyM2ViWVNwM2F5Z1hCOF8tMWE0aDRvSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T01:54:00+08:00"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRzJ2NjVRTVo0RXlDM25tVENldV9ITmRCT1NFRjllbW5aQm5Td3RYVWNNQ2gwMm1BcjBMNmlVV2dkakVtT01VNGg5TWY5N2Vsdi1ZTVVvYk1KM3lKUWs3a1dPak43WU9seDZhdHhZeU5XbU1FdFlBWkZjQ0FOYWpCQ0hZNWJDTWZUMUhGSTB3U0did3llc2QwWFpqbnRHV3Jwbk5qdlRB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T01:35:11+08:00"
+    },
+    {
+      "title": "SpaceX intends to invest up to $100 billion in massive Louisiana spaceport - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVkJKOTRrSm04b2JLRGJqVDhuRFBsS2RmSkg3cFVOWUY5Q2k5LVkwMGZIS0x2UENPdTg3TlZnUzBwa0JsZFJhMnJ2SFVEdzNaVkotWUwyQUk4eFJtc191TFBfNVdjZlN0dVpzVmw3OEdxa0c1Mi1uczRmb0FBbGczNlVaS05aV2ZMQ1V4TTBQSGVqNGU5OWRwZC00ai1wczBXTGtCTjUwWTU2MnJldkd3Qlh3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T01:26:15+08:00"
+    },
+    {
+      "title": "Target shares drop after Halloween costume backlash - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTl1Ni1Pel9LckVkOVZ4OHZyTFZuT2pwNzBvekpucHNhWHBpSW1iRmlOLTRpb2g4OGlzNXVSVHEycHF6eXlZZFppdUpmVnZ2NnZXOUE3bVpVTjQ3X1RSTXFSXzJ6VFQxcnBqZ1NHNnBHdjRwQW1Yc0FONGwyZ3dpbGtXQzlucUJ1RlJwUGdQVUFrTjNCWFpva2J5R0NiM28tZTZteW1udldRdUxkOEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T01:11:40+08:00"
     },
     {
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
@@ -71,28 +107,16 @@
       "time": "2026-08-26T00:56:20+08:00"
     },
     {
-      "title": "Two unvaccinated people die of measles in Pennsylvania outbreak, health officials say - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJraFpvQXUwNDh2ZVJoQThSUnlud2RNWXBNdUZVbExpU09CajIwVWJaQlNsX1VpSm5kYTVla2ZmdEZfbERGYTA5U2FVVzlnaFZPVVFqOVYxNm5IV1paeDJTekFxVUtYSlJjS29TNThwZmNCN1pRQXUwM0lHMFJYbDk0STh2c3RTcEIyRVN2eVAwaUNMWWVDWFBSaWlXdUotNDlj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T00:56:00+08:00"
-    },
-    {
-      "title": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T00:48:57+08:00"
-    },
-    {
       "title": "Two unvaccinated people die of measles in Pennsylvania",
       "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-26T00:43:08+08:00"
     },
     {
-      "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakZzdURoeWVCRFVRUVotX3NidXdfX1h3YUU1WVF2RUlIRy02dzRsQ1V5ZTRTUW5tekR5Q1Y5LXVKNWRZMmVoLWxYTzNEUGRjeFlZY2s2NFR4aVVrSElJLW5Wd2QzUGRoOTd6RE5tMlZfWi1Ba2Zvbkw0ZmU3elZfLURSbl82Y29sUU9zSUluY0pVM1I4VWRN?oc=5",
+      "title": "Trump: Mines fully removed from Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9va1JQWnZ4dEZoTTQwSzhwa0E5MnpRMTBkaXp0THRHYW80cHdwMGw1RXYzYllUTzh2MmlrY1dDMjVfTEdGeUVMZmhfdHdfU3Ayc0VITm9zeGxjQUllLVhPdEZrY05LWkwxdmhPQ1FNZDE0NGt5Z1E?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T00:34:25+08:00"
+      "time": "2026-08-26T00:31:37+08:00"
     },
     {
       "title": "Partial lunar eclipse Aug. 27-28 live updates — 2 days to go - Space",
@@ -107,10 +131,16 @@
       "time": "2026-08-26T00:08:22+08:00"
     },
     {
-      "title": "Watch Live: Lindsay Clancy trial resumes with prosecution psychologist calling her \"criminally responsible\" - CBS News",
+      "title": "Watch Live: Lindsay Clancy trial testimony nears end as prosecution calls final rebuttal witness - CBS News",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm5BX1pzSlRfSEhjNlRCX0pRN28zNU9KT1lBeldGM1pHQTZKdUlKMC02SmVILVR1Z3ItVV8yMVRZbmdWRkFWZXdjR1RkZzNQTkE2WTUzSkYtVFZMU3U0Q1F5ZEhfeldQb1dMSjZwOHVMZWFPVHFFNzN4NDBCVkNHVw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T00:04:01+08:00"
+    },
+    {
+      "title": "Live updates: South Carolina GOP Senate special primary runoff - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0dnQVZYRVZBa1A4eFdoVzRrdzJvWGZvWjYwc1BCc3lUU1Vsek5fckhubm1YbFN4eUdxY24yRHFCQkMxeHN0SDk2bnhkNXpNS3V5cmhFeGV0RFFPaDlaM25SQWcwNUlfN0hZWE05cEVLMFRxZUdmem5wT0tvdlFsSnFSbHdfRUZhaXAwUXRuU2h1SW5wYU02REJlNVBUSlk2MEZCNVk0aGU5eXNFNUtONFBNN0ZzYi1VVGVGb0hZZ2VpVTZJeVl5WnBLc2dpOEVTM3pIemJHTldCSEdn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T00:00:00+08:00"
     },
     {
       "title": "European rights court orders Turkey to free imprisoned businessman",
@@ -119,10 +149,10 @@
       "time": "2026-08-25T23:58:20+08:00"
     },
     {
-      "title": "Wall St recovers as tech bounces back before Nvidia results, inflation data - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
+      "title": "CIA director Ratcliffe visits Moscow - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKRTJqYnRjYVo5N0JocTJUV3JnMEkzQURFOXhJanNQU1ZQTmVIOXUzZlVTblR6azVIc3gxOFZGMXh5dnFJdmEwLWtXZGxlQlB3NjlpWnRfLTI1amN0Yzg5ck9tZHVnUnF1aXNjaFc0cGZjSkpLangzQw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T23:53:18+08:00"
+      "time": "2026-08-25T23:47:58+08:00"
     },
     {
       "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
@@ -131,46 +161,16 @@
       "time": "2026-08-25T23:45:00+08:00"
     },
     {
+      "title": "Mindy Kaling and ‘Not Suitable for Work’ Cast React to Cancellation: “I Loved Making This Show” - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ1MwdENDcHBmVVlUeGlnYUJ6QVFiTXVXVlotWTd6aDN6bkl1MUZONnlGa3VBZWpTSGR5US1FRHluQlJmTWl4SjBuZ2F6aDhUYVNFcW1sSUxwUV9mWnk5RVhkZ2IxTTljaC13bUt5blJxelc4dmRHOGw1SEJIY2sySV9tdHBkdkZ0a1FndTNubjNiQjBRU1loVDJpTnR1RC0zRTZ4VnFHSXpPMWgySEpDS3RObFcyZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T23:32:38+08:00"
+    },
+    {
       "title": "Angel Reese sets two WNBA records with historic rebounding performance - Fox News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ1ltcmhFemJ4aFoyeHNQZXNkcVIycmhCUUtLQjhMemhqclpqWXZLcjgweHh1aVJiaW5WU244d0J1ODRQWVhKU09BbXNNODU0d2JDSExzZ1ViMlJyaFVlLTRIT2tmRnlfZHhRTFNON1MwTVFscEw5NjhhQVcySElyZktFZFV3eXFDa3U4Z0hUajRveFNEMHFJRVlxYmdDNWJtTHlEd2F6bw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T23:29:27+08:00"
-    },
-    {
-      "title": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-25T23:18:50+08:00"
-    },
-    {
-      "title": "Former senior Russian official warns \"unknown sources\" could attack U.K. factories making drones for Ukraine - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzY5TnhHd3VBRWRDdkJRdUdTMzhjTllyQU9INHBwREZ6cU5wcDVQSWhLM2VyS2pkU2FFU29KcW5vaEZ1TlhHSUZ3TzFXMVZNUDEzVEk3RXlhNXEtZW1oQ1I0YWtfdVRHMHFXd21UTG5OSVNXRWtQaXR1UzV4VEVDN0gxdWFfTFU2SzJUTkJQVW5jdTF2UGxmc2pJTmVlbGs?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T23:18:21+08:00"
-    },
-    {
-      "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T23:04:52+08:00"
-    },
-    {
-      "title": "‘Forget about going back’: 9 years on, Rohingya crisis enters dangerous phase - NPR",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlNDNGx6UG55UUFyVjNEMzdzaU5XTDQzbmdBQlY4MUV0cUZEUE40QXl1eHhxT1NmYm5oSThfdnY2UEltX0RWRHhhYVFJa2UydmVLckpnZm5LWXFlbVpvUUxWdV9ZTnZBdm1XaEdxV2Naek5FUzkta08xODJpTk5ZRzk4VnBBbEVqRHNaWGN0eDFZMGViRWJjZzQxdUh1SjRDd0cybmpBazIwTXc4TmdveUNWOXRxdXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T22:59:12+08:00"
-    },
-    {
-      "title": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T22:32:30+08:00"
-    },
-    {
-      "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario - Axios",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTjd2MF90S0ZfTkFZRVE2d1FSdzM4X3NDS2VscF9sczUtMGxfb25sWS1HZWgyUXRGYUdhR1luM3d0a0I5RWJBZVQ3LW00WXkyUWczeUhWWWhfRFNUbjFfdmp1VWNERmwtOWtHV2Z4aF9pRnJxU25ZM1BSRUp1R2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T22:32:14+08:00"
     }
   ]
 }
