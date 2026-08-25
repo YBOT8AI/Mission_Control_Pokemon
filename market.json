@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-25T15:22:39.612820+08:00",
+  "generatedAt": "2026-08-25T15:53:44.469586+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 631974.56,
-      "changePct": 3.89
+      "priceHkd": 625020.48,
+      "changePct": 3.09
     },
     "ETH": {
-      "priceHkd": 19619.44,
-      "changePct": 1.67
+      "priceHkd": 19457.55,
+      "changePct": 0.99
     },
     "SOL": {
-      "priceHkd": 794.66,
-      "changePct": 6.85
+      "priceHkd": 786.51,
+      "changePct": 6.37
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1170.02,
-      "priceUsdOz": 4641.8
+      "priceHkdPerGram": 1168.43,
+      "priceUsdOz": 4635.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.27,
-      "priceUsdOz": 68.51
+      "priceHkdPerGram": 17.21,
+      "priceUsdOz": 68.27
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 661.23,
-      "changePct": -0.79
+      "priceHkd": 661.3,
+      "changePct": -0.78
     },
     "Natural Gas": {
       "priceHkd": 21.94,
@@ -52,6 +52,18 @@
     }
   },
   "news": [
+    {
+      "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
+      "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-25T15:39:25+08:00"
+    },
+    {
+      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-25T15:36:13+08:00"
+    },
     {
       "title": "Lockerbie bombing trial postponed days before it was due to start",
       "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
@@ -63,6 +75,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-25T14:54:46+08:00"
+    },
+    {
+      "title": "Tornado in Aude: over 40 injured and 300 homes damaged - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnpTb3NZTk1tUjNTNGNZQ0o1X0VrN2RHTnZGd1ZLZzE0VWVmQVMtck9lUlZBNUJzdXo1UlBUTUhTSTI3d0NJWjJXS1pkamJKNGxBRUxTNXJUV3VMMGJRRWRYTHNJZC0xOVFYT1Jodi01bFBPTmo0bzF5M1Nra0N2eV95WHJTaWpGcG5VOW5EMFVyOTg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T14:49:46+08:00"
     },
     {
       "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
@@ -77,16 +95,10 @@
       "time": "2026-08-25T14:40:33+08:00"
     },
     {
-      "title": "More than 70,000 social and affordable homes to be built across England over 10 years",
-      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T13:41:08+08:00"
-    },
-    {
-      "title": "Starbucks’ Pumpkin Spice Latte Is Back, Along With 6 All-New Drinks—and We Tried Them First - Allrecipes",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxUkpVRHJ5UW5PQU5MM0lSeFpwM1oxZFZ0OGpTMWFLY25IdHdKeG50ckdSczkzM1ROZ0NKQlQ0REN0VkVxa1pZeGtqemg4OE5GSG1Nd1Ficl9TbW5TR1F2N2lIV3Z2RjcxLTN3WA?oc=5",
+      "title": "Trump targets Iran’s trade lifelines — here are the countries most exposed - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYUpnWE9aZ0tXQ3dYTkZxcC1EdWdIXzFkWFVpNTQ1SGFsNXQ1NnBqSVpyTXk0eEdPVjF4djRVSGlYWXRDckpOLWRjTVhfYXBUNkJ4YWRCNHlQRVdFR2c0aFpCY2tWYjJ2QnNCX21oSlNQU2tKTUZGMlZoVkVmZkNybkFlaEwwU0RJckJuVFJZOUtwMmNnUWpiWGhR0gGfAUFVX3lxTE1mME1EWXJTZU1mdVc4MHdWb2ZXREZfUTV3LS1Sc3FodWgxWG5adGJwV3pWRG1qM2dkSWtNM2xLLXZnUHB5ZkV1VDdFeW9KcVk3VzBoaUVTXzdPWkVtc3hOVnh4MVJzb2p3WGg4UTR1Z3pETkVCaDJ1ZFJFbkhzNkx6RXJOWU9tUnFVUUhndHdIY3U4MElVRy1kdVloQ3BMaw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T13:16:36+08:00"
+      "time": "2026-08-25T13:29:41+08:00"
     },
     {
       "title": "The Gurkha families fighting for their pensions",
@@ -107,10 +119,22 @@
       "time": "2026-08-25T13:01:00+08:00"
     },
     {
+      "title": "Supreme Court eases path for Trump’s sweeping limits on mail-in balloting - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXpmRXpPQlBXSGpjSzVkajA3cF9xRmlVcnVxaXo1Rm8yWWNUU1JHVjJrTTUtRkw3cVF2aXNPdVNBcVhnb1NsSmh6UWZZQlVBdDJ5TVVtZWhoeW5jNkxFMjZMUTlGYXBqVE9WZVhyTlFScW9WQTJRVURDNnRPc3YyUGs4cy1seFhUMWZTLVh0U21FbUpzVVJhRXNBc0NibHdHUDVQRE1fRUZMOHhINFV2dlN6TFRHOWpx?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T12:57:20+08:00"
+    },
+    {
       "title": "Songs created by AI banned from Australia's music charts",
       "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-25T12:54:01+08:00"
+    },
+    {
+      "title": "Raleigh goes supernova with 1st 3-HR night of his career - MLB.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUkZQV2JlZDg1ckRyREVFTGVRd0phbXNaZ0pPNjQ0aVctUzl2OHgxcG9CMzA5UDhpdzROc1k2YS1URFdEcHZ0UXRyRkk0VjZDNGNyUF9ILWFKeW1qeVBYZkVRS2hxNmJIZUE1YWZJanFXa0VsSHFLNlNzUzdsN1pqTVhMLUN3OGs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T12:38:14+08:00"
     },
     {
       "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
@@ -119,7 +143,7 @@
       "time": "2026-08-25T12:06:34+08:00"
     },
     {
-      "title": "From ‘Fortress North America’ to All-Out Trade War: How the U.S.-Canada Talks Collapsed - The New York Times",
+      "title": "How U.S.-Canada Tariff Negotiations Turned Into an All-Out Trade War - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjgyam16ajl5RG5oYnJjOFhDMndvMDJqbFZ4WHZVMkctOHNneU5GaU1KQkFiS29CNS1kcmRDY1JPN3dwekZEeTB5d0hvUVEyc3JQVGZuQm1KNDBENnhaUmp0UW5ieUJuV21rczFZWnZpRWxIWEo1UGVUd0c5SF9WSzZxTmt5dVRWMlJN?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T12:01:11+08:00"
@@ -137,12 +161,6 @@
       "time": "2026-08-25T11:33:27+08:00"
     },
     {
-      "title": "Supreme Court eases path for Trump’s sweeping limits on mail-in balloting - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRXpmRXpPQlBXSGpjSzVkajA3cF9xRmlVcnVxaXo1Rm8yWWNUU1JHVjJrTTUtRkw3cVF2aXNPdVNBcVhnb1NsSmh6UWZZQlVBdDJ5TVVtZWhoeW5jNkxFMjZMUTlGYXBqVE9WZVhyTlFScW9WQTJRVURDNnRPc3YyUGs4cy1seFhUMWZTLVh0U21FbUpzVVJhRXNBc0NibHdHUDVQRE1fRUZMOHhINFV2dlN6TFRHOWpx?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T11:32:53+08:00"
-    },
-    {
       "title": "Lindsay Clancy trial judge denies mistrial request, but reprimands prosecution over witness testimony about religion - CBS News",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNck8wd0huUmVfTk5sc3BtSUNoeWMyTEQ2TGhmMThrcXNjYk5zUDRmSGlHRGlWc1dTT3k5RmMzeThOcnNuaHVYaGdUUzg4eW83UjM4WGFCbVN6T1BnVHp6bUUwWGlpZXczVkxKaEM5MzhBeS1HME5PdnRQVF9wRW9sdkV0T3V5U2RfcFFtQQ?oc=5",
       "source": "Google News Top",
@@ -153,24 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-25T11:07:34+08:00"
-    },
-    {
-      "title": "Apple could debut two AirPods 5 models next month, per report - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX29PNUQwcDlCOGdKVGtvY3B5SUdKY3BjTzdad1NHTUtPRHZBMUdFeVk2cVJnQVU2MnIwZDREZ2Q3akc1YWFUVlFkQjRJWTV1T3E1cERBNWRWYTIzQWZSRFd6bEZBdVdjQ28wenViRDFZcFlacDMweFZPVFdldkRjaXJVM0dVd0hBVFpIWkhKMm9QQl9kSWNj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T10:56:00+08:00"
-    },
-    {
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-25T10:51:53+08:00"
-    },
-    {
-      "title": "How Canada could hit back to hurt the US economy - and Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-25T10:49:22+08:00"
     }
   ]
 }
