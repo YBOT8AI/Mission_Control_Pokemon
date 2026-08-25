@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:16:59.777919+08:00",
+  "generatedAt": "2026-08-26T00:48:06.424625+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -268,8 +268,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-25T23:46:10.951491+08:00",
-        "next_run": "2026-08-26T00:16:10.951491+08:00"
+        "last_run": "2026-08-26T00:17:15.876203+08:00",
+        "next_run": "2026-08-26T00:47:15.876203+08:00"
       },
       {
         "id": "539a150ac028",
@@ -286,8 +286,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-25T23:45:07.268491+08:00",
-        "next_run": "2026-08-26T00:46:05.334046+08:00"
+        "last_run": "2026-08-26T00:17:07.270074+08:00",
+        "next_run": "2026-08-26T01:17:10.384156+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -313,8 +313,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-25T23:55:02.915517+08:00",
-        "next_run": "2026-08-26T00:25:02.915517+08:00"
+        "last_run": "2026-08-26T00:25:07.595331+08:00",
+        "next_run": "2026-08-26T00:55:07.595331+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -322,8 +322,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-26T00:15:05.313414+08:00",
-        "next_run": "2026-08-26T00:25:05.313414+08:00"
+        "last_run": "2026-08-26T00:45:10.158195+08:00",
+        "next_run": "2026-08-26T00:55:10.158195+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -367,8 +367,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-26T00:10:04.770216+08:00",
-        "next_run": "2026-08-26T00:25:04.770216+08:00"
+        "last_run": "2026-08-26T00:40:09.593646+08:00",
+        "next_run": "2026-08-26T00:55:09.593646+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -558,44 +558,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        1.49,
-        1.39,
+        1.67,
+        1.45,
         1.38
       ],
       "usage": "13.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 40.6
+      "usedPct": 40.7
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.4",
+        "cpu": "3.2",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.3",
+        "cpu": "2.2",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
         "cpu": "0.7",
+        "mem": "1.7",
+        "name": "python"
+      },
+      {
+        "cpu": "0.6",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.5",
-        "mem": "0.1",
-        "name": "opendirectoryd"
-      },
-      {
         "cpu": "0.4",
         "mem": "0.1",
-        "name": "launchd"
+        "name": "opendirectoryd"
       }
     ]
   },
@@ -626,10 +626,10 @@
         "notes": "5km + 5km makeup for Tue"
       },
       {
-        "day": "Thu Aug 20",
-        "run": "✅ 5km (stairwell)",
-        "pushups": "✅ 100",
-        "notes": "Rain → stairwell"
+        "day": "Thu Aug 25",
+        "run": "✅ 5km",
+        "pushups": "✅ 50",
+        "notes": "Run completed today ✅"
       },
       {
         "day": "Fri Aug 21",
@@ -1183,16 +1183,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-26T00:16:59.478800+08:00",
+    "generatedAt": "2026-08-26T00:48:06.056421+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 27.4,
+          "temp": 27.2,
           "code": 51,
           "precip": 0.1,
-          "wind": 12.4,
-          "time": "2026-08-26T00:15"
+          "wind": 13.6,
+          "time": "2026-08-26T00:45"
         },
         "daily": [
           {
@@ -1221,11 +1221,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.4,
-          "code": 3,
+          "temp": 26.5,
+          "code": 2,
           "precip": 0.0,
-          "wind": 6.3,
-          "time": "2026-08-26T00:15"
+          "wind": 7.2,
+          "time": "2026-08-26T00:45"
         },
         "daily": [
           {
@@ -1261,12 +1261,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-26T00:16:59.777773+08:00",
+      "time": "2026-08-26T00:48:06.424475+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-26T00:16:59.777773+08:00",
+      "time": "2026-08-26T00:48:06.424475+08:00",
       "type": "info",
       "text": "⏰ Cron: 27/31 jobs healthy"
     },
