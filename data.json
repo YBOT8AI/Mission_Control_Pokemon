@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T01:50:16.045564+08:00",
+  "generatedAt": "2026-08-26T02:21:16.453655+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -268,8 +268,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-26T01:19:25.416325+08:00",
-        "next_run": "2026-08-26T01:49:25.416325+08:00"
+        "last_run": "2026-08-26T01:50:30.063953+08:00",
+        "next_run": "2026-08-26T02:20:30.063953+08:00"
       },
       {
         "id": "539a150ac028",
@@ -286,8 +286,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-26T01:19:16.173629+08:00",
-        "next_run": "2026-08-26T02:19:19.518588+08:00"
+        "last_run": "2026-08-26T01:50:22.095769+08:00",
+        "next_run": "2026-08-26T02:50:24.296876+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -313,8 +313,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-26T01:25:16.981370+08:00",
-        "next_run": "2026-08-26T01:55:16.981370+08:00"
+        "last_run": "2026-08-26T01:55:21.393719+08:00",
+        "next_run": "2026-08-26T02:25:21.393719+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -322,8 +322,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-26T01:45:19.080890+08:00",
-        "next_run": "2026-08-26T01:55:19.080890+08:00"
+        "last_run": "2026-08-26T02:15:23.806013+08:00",
+        "next_run": "2026-08-26T02:25:23.806013+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -367,8 +367,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-26T01:40:18.567289+08:00",
-        "next_run": "2026-08-26T01:55:18.567289+08:00"
+        "last_run": "2026-08-26T02:10:23.529439+08:00",
+        "next_run": "2026-08-26T02:25:23.529439+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -502,8 +502,8 @@
         "name": "AI Research Buddy — nightly compounding loop",
         "schedule": "0 2 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-25T02:02:06.373578+08:00",
-        "next_run": "2026-08-26T02:00:00+08:00"
+        "last_run": "2026-08-26T02:02:33.839482+08:00",
+        "next_run": "2026-08-27T02:00:00+08:00"
       },
       {
         "id": "1dabab689e0e",
@@ -558,11 +558,11 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        1.47,
         1.4,
-        1.36
+        1.33,
+        1.29
       ],
-      "usage": "13.0%"
+      "usage": "12.6%"
     },
     "memory": {
       "totalGb": 16.0,
@@ -573,27 +573,27 @@
     },
     "topProcesses": [
       {
-        "cpu": "3.4",
+        "cpu": "4.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.6",
+        "cpu": "2.4",
+        "mem": "0.1",
+        "name": "coreduetd"
+      },
+      {
+        "cpu": "2.1",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.7",
-        "mem": "3.6",
-        "name": "Google Chrome Helper (Renderer"
-      },
-      {
-        "cpu": "0.6",
+        "cpu": "0.5",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.5",
+        "cpu": "0.3",
         "mem": "0.1",
         "name": "opendirectoryd"
       }
@@ -1035,8 +1035,8 @@
     "state": {
       "meta": {
         "created": "2026-08-24",
-        "lastUpdated": "2026-08-25",
-        "cycles": "1"
+        "lastUpdated": "2026-08-26",
+        "cycles": "2"
       },
       "hierarchy": [
         "Financial freedom — retire dad (60) in 5yrs, match GF's $40k, Zhongshan house + Zeekr + driver",
@@ -1050,37 +1050,46 @@
         "Mission_Control_Pokemon — portfolio dashboard + identity hub (merged with former \"Dashboard\" project)"
       ],
       "currentFocus": [
-        "#1 Financial freedom (in progress — cost baseline + passive income math done; asset protection done; next: income stream strategy)"
+        "#1 Financial freedom (in progress — cost baseline + passive income math + 港車北上 + Zeekr model done; next: income stream strategy + full monthly budget)"
       ],
       "activeHypotheses": [
         "H1: Registering marriage in Mainland (not HK) is the superior asset-protection move — Mainland law (婚姻法第18条) treats 婚前财产 as individual property by default, whereas HK uses 公平原则 (equitable distribution) with no strict pre/post-marital split. → STRONGLY SUPPORTED by legal sources. No prenup needed for pre-marital assets under Mainland law.",
-        "H2: \"Driver\" goal is achievable at ~HK$24-26k/mo full-time, but 中港牌 driver commands premium and is scarce (listings at $20-25k with 中港牌 criticized as \"孤寒\" = too cheap). Realistic budget for a good 中港牌 driver: HK$28-35k/mo."
+        "H2: \"Driver\" goal is achievable at ~HK$24-26k/mo full-time, but 中港牌 driver commands premium and is scarce (listings at $20-25k with 中港牌 criticized as \"孤寒\" = too cheap). Realistic budget for a good 中港牌 driver: HK$28-35k/mo.",
+        "H3 (NEW): The \"中港牌\" goal is likely MIS-SCOPED — 港車北上 (individual, HZMB route) is the accessible path (no 中港牌, no 15万 RMB tax threshold, ~$2-3k/yr total cost). A \"driver\" for 港車北上 only needs a HK licence + 內地駕駛證 (免試換領), NOT a 中港牌. → The premium \"中港牌 driver\" may be unnecessary; a regular driver + 港車北上 covers the Zhongshan commute use case. REVISED: driver budget likely HK$24-26k/mo, not $28-35k.",
+        "H4 (NEW): Passive income target of $40k/mo ($480k/yr) is achievable at 5-6% yield with ~$8-10M HKD principal — but HK dividend stocks/REITs offer 5-7% yields (Link REIT 6.52%, China Mobile 6.44%, VTech 7.88%), so the required principal is lower than the earlier 4-5% estimate (~$9.6-12M). At 6% yield, $40k/mo needs ~$8M."
       ],
       "openQuestions": [
-        "Q1: What is the actual monthly passive-income target and required principal? (partial: $40k/mo = $480k/yr; at 5% yield needs ~$9.6M HKD principal; at 4% needs ~$12M)",
-        "Q2: Which specific income streams can realistically compound to $40k+/mo within 5yrs (bodyguard salary + business revenue + investment yield)?",
+        "Q1: What is the actual monthly passive-income target and required principal? (REFINED: at 5-6% HK dividend yield, $40k/mo = $480k/yr needs ~$8-9.6M HKD principal; at 6% needs ~$8M)",
+        "Q2: Which specific income streams can realistically compound to $40k+/mo within 5yrs (bodyguard salary + business revenue + investment yield)? (PARTIAL: bodyguard demand surging = seller's market; dividend yield 5-7% achievable)",
         "Q3: Zhongshan house — is 670k RMB loan for ~80㎡ at 8,428元/㎡ (avg) or a smaller unit in 东区 (11,427元/㎡)? Which district targets?",
-        "Q4: 港車北上 (individual, HZMB route) vs traditional 粵Z business plate — which is the actual \"中港牌\" goal? Individual 港車北上 is far more accessible (no 15万 RMB tax threshold).",
-        "Q5: Zeekr model choice — 7X (SUV, HK$280k entry) vs 009 (MPV) vs X (small SUV). Which fits \"driver + family\" use case?"
+        "Q4: 港車北上 (individual, HZMB route) vs traditional 粵Z business plate — RESOLVED. 港車北上 is the accessible route: individual HK residents, no business/tax threshold, ~$2-3k/yr cost, 30-day max stay / 180 days/yr, Guangdong-only. 粵Z 中港牌 needs 15万 RMB tax + 數十萬至上百萬 HKD 二手牌價. → 港車北上 is the answer.",
+        "Q5: Zeekr model choice — 7X (SUV, HK$280k entry) vs 009 (MPV) vs X (small SUV). (PARTIAL: 009 = 7-seat luxury EV MPV, \"移動生活方式革命\", fits family+driver+接待 use case. ⚠️ 7X had a charging-station fire incident 2026-08-09 Ningbo — safety flag to monitor.)",
+        "Q6 (NEW): What is the actual bodyguard salary ceiling in HK's current seller's market? (HKSSC confirms 資深保鏢薪酬可觀, high demand post-abduction, but no public numbers — need to research specific salary ranges for G4/飛虎隊-background close protection officers.)"
       ],
       "completedResearch": [
         "✅ Zhongshan property prices (2026-07): avg 8,428元/㎡, avg total 106万 RMB. District spread: 东区 11,427 / 石岐区 9,088 / 火炬开发区 8,986 / 坦洲镇 8,499 / 三乡镇 8,300. Source: creprice.cn",
         "✅ Zeekr HK pricing: 7X entry ~HK$280,000 (2025-06 launch, agent 錦龍汽車). 009 (MPV) + X (small SUV) also sold in HK. 7X specs: 605-780km CLTC, 422-646hp, 800V fast charge.",
         "✅ Private driver salary HK: company driver HK$20-30k; full-time private driver HK$24-26k; 中港牌 driver listings $20-25k (undervalued per market). Median driver wage HK$25-35k.",
         "✅ 中港牌 routes: 港車北上 (individual, via 港珠澳大橋, no tax threshold) vs 粵Z business plate (needs 15万 RMB Guangdong tax for 1st indicator, 50万 for 2nd, 100万 for 3rd). Individual route = accessible; business route = expensive.",
-        "✅ Asset protection (Mainland marriage, no prenup): Mainland 婚姻法第18条 = 婚前财产 is individual property, NOT divided on divorce. HK = 公平原则, judge discretion, no strict pre/post split. → Registering in Mainland protects pre-marital assets by default."
+        "✅ Asset protection (Mainland marriage, no prenup): Mainland 婚姻法第18条 = 婚前财产 is individual property, NOT divided on divorce. HK = 公平原则, judge discretion, no strict pre/post split. → Registering in Mainland protects pre-marital assets by default.",
+        "✅ 港車北上 full application details (2026): individual HK residents (18+, HKID + 回鄉證), 8-seat max non-commercial private car, ≤6m length. 2 drivers max (need HK licence + 內地駕駛證 via 免試換領). Cost: 驗車 $500-800, 交強險 $1,000-2,000/yr, bridge toll ¥150/單程. 30-day max stay, 180 days/yr, Guangdong-only. 抽籤 every 2 weeks. Source: flyday.hk, hzmbqfs.gov.hk",
+        "✅ HK dividend/passive income landscape (2026-07): time deposit rates fell 5%→~3%; dividend stocks still 5-7%. Key yields: Link REIT 6.52%, China Mobile 6.44%, VTech 7.88%, CITIC Telecom 7.14%, AEON Credit 6.67%, CCB 5.01%, BOC ~6.5%. Model portfolios: $1M HKD → $48k-$59k/yr (4.83%-5.9%). Source: finkit.hk",
+        "✅ Bodyguard demand signal (2026-08): 29-yr-old heiress released after $28M ransom → \"seller's market for bodyguards\" in HK. HKSSC confirms 資深保鏢薪酬可觀, high demand for G4/飛虎隊-background personnel. Source: stheadline.com, hksscltd.com"
       ],
       "nextSteps": [
-        "Research income-stream strategy for $40k+/mo: bodyguard salary ceiling, business revenue models (KinKin/TechWealth), investment yield targets.",
+        "Research income-stream strategy for $40k+/mo: bodyguard salary ceiling (specific numbers), business revenue models (KinKin/TechWealth), investment yield targets.",
         "Quantify the full \"financial freedom\" monthly budget: fixed costs ($7.3k) + dad retirement + house loan + driver + car + GF lifestyle.",
-        "Research 港車北上 application specifics (eligibility, cost, timeline) vs 粵Z plate cost.",
-        "Research Zeekr 009 vs 7X for the \"driver + family\" use case."
+        "Research specific bodyguard salary ranges in HK (G4/飛虎隊 background, close protection officer) — the seller's market may push salaries above the $40k stepping-stone assumption.",
+        "Monitor Zeekr 7X fire incident (2026-08-09 Ningbo) — safety concern for the 7X model choice.",
+        "Research Zeekr 009 HK pricing specifically (vs 7X) for the \"driver + family\" use case."
       ],
       "keyInsights": [
         "Mainland marriage registration is a FREE asset-protection mechanism (no prenup needed) — pre-marital assets stay individual under 婚姻法第18条. This is a major strategic advantage vs HK registration.",
-        "中港牌 driver is a scarce, premium skill — good ones cost HK$28-35k/mo, not the $20-25k \"孤寒\" listings. Budget accordingly.",
-        "Passive income to match GF's $40k requires ~$9.6-12M HKD principal at 4-5% yield — this is the real \"financial freedom\" number, not the salary.",
-        "Zhongshan avg price 8,428元/㎡ means 670k RMB loan ≈ 80㎡ unit (or smaller in premium 东区). Property is affordable relative to HK."
+        "港車北上 (NOT 中港牌) is the real \"cross-border driving\" goal — individual, cheap (~$2-3k/yr), no tax threshold. This DOWNGRADES the driver cost: a regular driver + 港車北上 covers the Zhongshan commute, no premium 中港牌 driver needed.",
+        "Passive income to match GF's $40k requires ~$8-9.6M HKD principal at 5-6% yield (HK dividend stocks/REITs deliver 5-7%). This is the real \"financial freedom\" number, not the salary.",
+        "Zhongshan avg price 8,428元/㎡ means 670k RMB loan ≈ 80㎡ unit (or smaller in premium 东区). Property is affordable relative to HK.",
+        "Bodyguard is a SELLER'S MARKET in HK right now (post-abduction demand surge) — this strengthens the close-protection career bet and may push salaries above the $40k stepping-stone assumption.",
+        "Zeekr 009 (7-seat luxury EV MPV) is the \"driver + family + 接待\" answer, but the 7X fire incident is a safety flag to watch."
       ]
     },
     "journal": [
@@ -1104,9 +1113,22 @@
           "Changed in state.md: added 2 hypotheses (H1 asset protection, H2 driver cost), 5 open questions, 5 completed research items, 4 key insights, next steps.",
           "Key insight: Mainland marriage registration is free asset protection; passive income target ~$9.6-12M principal."
         ]
+      },
+      {
+        "date": "2026-08-26 — Cycle 2: Income streams + 港車北上 + Zeekr + bodyguard demand",
+        "items": [
+          "Searched: HK bodyguard salary/demand, HK dividend stocks/REITs yields, 港車北上 application details, Zeekr 009 vs 7X.",
+          "Found:",
+          "Bodyguard demand surging: 29-yr-old heiress released after $28M ransom → \"seller's market for bodyguards\" (stheadline). HKSSC confirms 資深保鏢薪酬可觀, high demand for G4/飛虎隊 background.",
+          "HK dividend yields (finkit.hk, 2026-07): Link REIT 6.52%, China Mobile 6.44%, VTech 7.88%, CITIC Telecom 7.14%, AEON Credit 6.67%. Time deposits fell 5%→3%. $1M → $48-59k/yr.",
+          "港車北上 full details (flyday.hk): individual route, 8-seat max, 2 drivers, 驗車 $500-800 + 交強險 $1-2k/yr + ¥150/單程 toll. 30-day stay / 180 days/yr, Guangdong-only. 抽籤 every 2 weeks. NO 中港牌 needed.",
+          "Zeekr 009 = 7-seat luxury EV MPV (\"移動生活方式革命\"). ⚠️ 7X fire incident 2026-08-09 Ningbo (charging station).",
+          "Changed in state.md: added H3 (港車北上 downgrades driver cost), H4 (passive income at 5-6% needs ~$8M), Q6 (bodyguard salary ceiling), resolved Q4, refined Q1/Q5. Added 4 completed research items, 2 new key insights.",
+          "Key insight: 港車北上 (not 中港牌) is the real cross-border goal — cheap, individual, no tax threshold. Bodyguard is a seller's market right now."
+        ]
       }
     ],
-    "lastUpdated": "2026-08-25"
+    "lastUpdated": "2026-08-26"
   },
   "competitors": [
     {
@@ -1183,16 +1205,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-26T01:50:15.748047+08:00",
+    "generatedAt": "2026-08-26T02:21:16.154441+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 27.1,
-          "code": 3,
-          "precip": 0.0,
-          "wind": 10.1,
-          "time": "2026-08-26T01:45"
+          "temp": 27.0,
+          "code": 53,
+          "precip": 0.2,
+          "wind": 9.8,
+          "time": "2026-08-26T02:15"
         },
         "daily": [
           {
@@ -1221,11 +1243,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.6,
+          "temp": 26.5,
           "code": 51,
           "precip": 0.1,
-          "wind": 3.1,
-          "time": "2026-08-26T01:45"
+          "wind": 2.6,
+          "time": "2026-08-26T02:15"
         },
         "daily": [
           {
@@ -1261,12 +1283,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-26T01:50:16.045456+08:00",
+      "time": "2026-08-26T02:21:16.453537+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-26T01:50:16.045456+08:00",
+      "time": "2026-08-26T02:21:16.453537+08:00",
       "type": "info",
       "text": "⏰ Cron: 27/31 jobs healthy"
     },

@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-08-26T01:50:16.124712+08:00",
+  "generatedAt": "2026-08-26T02:21:16.532244+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 620786.88,
-      "changePct": 0.58
+      "priceHkd": 621367.04,
+      "changePct": 0.36
     },
     "ETH": {
-      "priceHkd": 19354.84,
-      "changePct": 0.15
+      "priceHkd": 19380.32,
+      "changePct": -0.29
     },
     "SOL": {
-      "priceHkd": 769.1,
-      "changePct": 3.08
+      "priceHkd": 772.08,
+      "changePct": 2.38
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5512.38,
+      "priceHkd": 5512.23,
       "changePct": 0.18
     },
     "SPX": {
-      "priceHkd": 60107.4,
-      "changePct": 0.18
+      "priceHkd": 60111.08,
+      "changePct": 0.19
     },
     "SPCX": {
-      "priceHkd": 1086.0,
-      "changePct": 2.61
+      "priceHkd": 1084.43,
+      "changePct": 2.46
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1171.1,
-      "priceUsdOz": 4646.1
+      "priceHkdPerGram": 1172.11,
+      "priceUsdOz": 4650.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.41,
-      "priceUsdOz": 69.07
+      "priceHkdPerGram": 17.39,
+      "priceUsdOz": 68.98
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 645.0,
-      "changePct": -3.22
+      "priceHkd": 643.98,
+      "changePct": -3.38
     },
     "Natural Gas": {
-      "priceHkd": 22.14,
-      "changePct": 1.51
+      "priceHkd": 22.13,
+      "changePct": 1.47
     }
   },
   "news": [
+    {
+      "title": "Dolly Parton, country star, actor and philanthropist, dies aged 80 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFViVWpSZnJmV1lubURHZG51NlNpNFZZQmcyZXNIdVRrenNEalBDSmlPSVZ6RlM0VjJEMUdYUDFSMHFUaGV1LXJJRlJqOVZYVHJBSVpFenVPOW9LanktOTNGVU5FQlFicldlLXJmOGpHb0dtT1RiLUxCbVVJYlFVVHE0eFQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T02:06:00+08:00"
+    },
+    {
+      "title": "CIA Director John Ratcliffe Makes Surprise Trip to Moscow - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQVNtcDAtZ0ZDQVVBRXk3UzdpaEM3dzloOFUtSGxaajVpYkdGa1JfYUk5ejhZZlh3MlJtdVp4QS1qcFFQb0t5V0NzaVNKOWtPTEN1UEh6QU5ETkNOT2Q0amcxeWREZ2lCM01NcmVWZTJaRjNZdFBxX2hOZWlYUHBIWEZSeExlUzdldEtCbVk1c2tRWUtrbUJv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T01:06:00+08:00"
+    },
     {
       "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-26T00:56:20+08:00"
+    },
+    {
+      "title": "Two unvaccinated people die of measles in Pennsylvania outbreak, health officials say - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHJraFpvQXUwNDh2ZVJoQThSUnlud2RNWXBNdUZVbExpU09CajIwVWJaQlNsX1VpSm5kYTVla2ZmdEZfbERGYTA5U2FVVzlnaFZPVVFqOVYxNm5IV1paeDJTekFxVUtYSlJjS29TNThwZmNCN1pRQXUwM0lHMFJYbDk0STh2c3RTcEIyRVN2eVAwaUNMWWVDWFBSaWlXdUotNDlj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T00:56:00+08:00"
     },
     {
       "title": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say - Reuters",
@@ -71,16 +89,16 @@
       "time": "2026-08-26T00:43:08+08:00"
     },
     {
+      "title": "Canada Fires Back in Trade War Against Trump With Up to 50% Tariffs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakZzdURoeWVCRFVRUVotX3NidXdfX1h3YUU1WVF2RUlIRy02dzRsQ1V5ZTRTUW5tekR5Q1Y5LXVKNWRZMmVoLWxYTzNEUGRjeFlZY2s2NFR4aVVrSElJLW5Wd2QzUGRoOTd6RE5tMlZfWi1Ba2Zvbkw0ZmU3elZfLURSbl82Y29sUU9zSUluY0pVM1I4VWRN?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T00:34:25+08:00"
+    },
+    {
       "title": "Partial lunar eclipse Aug. 27-28 live updates — 2 days to go - Space",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlROZExaWGNJWVQ2N2hNNXNENVZtdHdEUktIekNiOEFjazFqaEtUN3dtSURqTUc0VWZDcU9CUmVkZ0l4cS1BVTBfNko3Qkk4VjdUTml6Wk42Q19xbmczTjctRk9RbTRXV2VldEs4NEpoSzJyb29OVThaVFFsaDByNWtwQlRfOGtjTTBVdQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T00:26:00+08:00"
-    },
-    {
-      "title": "Howie Mandel ‘almost died’ in self-medicating scare: ‘Couldn’t wake me up’ - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDNtM191RUJCTklEanBQRWwwQ09uNTk0UV9BWVQ0cDg0YlgzaGgxVlN1S2NRbkJMV2w3ZldxX2Z6UWp4dWNjOU9wYTVjVGJneUlGY3VxZ1JfZ000dG9aRVlZZ1U0QUotcWJNSTE0THZrc1NkZ2FXMGRhTkkySlVHS2lSLVB4c3NqbHFfS0J1SHgydld0TUFBX25CdDJWVnVHVXlKYnhzN1k5RG8wU3FkU1pDOGVybzRIcWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T00:16:00+08:00"
     },
     {
       "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
@@ -89,16 +107,10 @@
       "time": "2026-08-26T00:08:22+08:00"
     },
     {
-      "title": "Two unvaccinated people die of measles in Pennsylvania - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa0lhd25LaHlZNUtoMDRNbXQ0WWc1U1UwWHdoTGJjNUN1TVRLdEgwU0VNd3pVcGp1N0dwMWliZm5XMEpYeTJQcGNoeXR4Ty14N1hxOFNoNTVVLWFMcnRQZ1VkMFBZQklHTm4wcFliRDNVc2VBMkowWTVfWkE0bGhhTQ?oc=5",
+      "title": "Watch Live: Lindsay Clancy trial resumes with prosecution psychologist calling her \"criminally responsible\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUm5BX1pzSlRfSEhjNlRCX0pRN28zNU9KT1lBeldGM1pHQTZKdUlKMC02SmVILVR1Z3ItVV8yMVRZbmdWRkFWZXdjR1RkZzNQTkE2WTUzSkYtVFZMU3U0Q1F5ZEhfeldQb1dMSjZwOHVMZWFPVHFFNzN4NDBCVkNHVw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T00:07:00+08:00"
-    },
-    {
-      "title": "Live updates: South Carolina GOP Senate special primary runoff - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0dnQVZYRVZBa1A4eFdoVzRrdzJvWGZvWjYwc1BCc3lUU1Vsek5fckhubm1YbFN4eUdxY24yRHFCQkMxeHN0SDk2bnhkNXpNS3V5cmhFeGV0RFFPaDlaM25SQWcwNUlfN0hZWE05cEVLMFRxZUdmem5wT0tvdlFsSnFSbHdfRUZhaXAwUXRuU2h1SW5wYU02REJlNVBUSlk2MEZCNVk0aGU5eXNFNUtONFBNN0ZzYi1VVGVGb0hZZ2VpVTZJeVl5WnBLc2dpOEVTM3pIemJHTldCSEdn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T00:00:00+08:00"
+      "time": "2026-08-26T00:04:01+08:00"
     },
     {
       "title": "European rights court orders Turkey to free imprisoned businessman",
@@ -107,16 +119,16 @@
       "time": "2026-08-25T23:58:20+08:00"
     },
     {
-      "title": "Secret Service says it’s ‘aware’ of Iranian state media threat against Barron Trump - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEhUSG9UbmpPZUdKcnJkTEhlQ1cwdDhWWlNkZGh2cWtkakdDUUJPNmFmUVowSk40QjlwU3c5S0x6MXlIcDdISjZLNldVUVJvWXR0NjZJaHBVYW9mVEdndEtJUE0ySDRXY0dadzRGb05OSFo3UEhhd3JhRk9PTHN1ajdkNE9PSWRyTU1CRWdmMkdaTE0?oc=5",
+      "title": "Wall St recovers as tech bounces back before Nvidia results, inflation data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T23:53:00+08:00"
+      "time": "2026-08-25T23:53:18+08:00"
     },
     {
-      "title": "Trump says all mines cleared from Strait of Hormuz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tNi16cVlvMnN2YWdPQWdTOVdLYTFYVmFsRE5haGxwWS01blp5eFR0R0JUbi1ZMHJkRk44bnY1RnVrM3QzczI0RjNydDNqUTc1Nnl0QXp5ZjIwdw?oc=5",
+      "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T23:31:21+08:00"
+      "time": "2026-08-25T23:45:00+08:00"
     },
     {
       "title": "Angel Reese sets two WNBA records with historic rebounding performance - Fox News",
@@ -131,46 +143,34 @@
       "time": "2026-08-25T23:18:50+08:00"
     },
     {
+      "title": "Former senior Russian official warns \"unknown sources\" could attack U.K. factories making drones for Ukraine - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzY5TnhHd3VBRWRDdkJRdUdTMzhjTllyQU9INHBwREZ6cU5wcDVQSWhLM2VyS2pkU2FFU29KcW5vaEZ1TlhHSUZ3TzFXMVZNUDEzVEk3RXlhNXEtZW1oQ1I0YWtfdVRHMHFXd21UTG5OSVNXRWtQaXR1UzV4VEVDN0gxdWFfTFU2SzJUTkJQVW5jdTF2UGxmc2pJTmVlbGs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T23:18:21+08:00"
+    },
+    {
       "title": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
       "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-25T23:04:52+08:00"
     },
     {
-      "title": "Canada Retaliates With Up to 50% Tariffs on Hundreds of U.S. Products - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNakZzdURoeWVCRFVRUVotX3NidXdfX1h3YUU1WVF2RUlIRy02dzRsQ1V5ZTRTUW5tekR5Q1Y5LXVKNWRZMmVoLWxYTzNEUGRjeFlZY2s2NFR4aVVrSElJLW5Wd2QzUGRoOTd6RE5tMlZfWi1Ba2Zvbkw0ZmU3elZfLURSbl82Y29sUU9zSUluY0pVM1I4VWRN?oc=5",
+      "title": "‘Forget about going back’: 9 years on, Rohingya crisis enters dangerous phase - NPR",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlNDNGx6UG55UUFyVjNEMzdzaU5XTDQzbmdBQlY4MUV0cUZEUE40QXl1eHhxT1NmYm5oSThfdnY2UEltX0RWRHhhYVFJa2UydmVLckpnZm5LWXFlbVpvUUxWdV9ZTnZBdm1XaEdxV2Naek5FUzkta08xODJpTk5ZRzk4VnBBbEVqRHNaWGN0eDFZMGViRWJjZzQxdUh1SjRDd0cybmpBazIwTXc4TmdveUNWOXRxdXc?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T23:00:27+08:00"
+      "time": "2026-08-25T22:59:12+08:00"
     },
     {
-      "title": "S&P 500 rises slightly as yields fall, Nasdaq boosted by chip names: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UaXpCcGd4NmpZcE1YRkNOWGdjY2xEdF9tczBRYng2MHdQbERsNGlEbmRnaWVmRlFnN2p4akpvVGU4N3lGVUhONWtFaW1XNU1feEFLUnkzS1JjYWtQTGR1ZTNXN1J1cWkwYVhHM2I4Ymx1b0lTQnZF0gF8QVVfeXFMTWd4aXlIYjR1X09DR0FHaGZEZFVsRnpsYzF6Si1faFZkWmY5bHhuZnFLRFFMODA1OWRVbktkSkVyNzU2cjluenpWS0U5ODI4eEhpWkxjdGdRc0twU3NMVjd6SEVKajJRdFpodm9FSmZtNnF6SEZHNDd2aXFybA?oc=5",
+      "title": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T22:55:57+08:00"
-    },
-    {
-      "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXI4THplUTN1UEpyNUFld2ttOTBMcjZrWTEtbTlobmRzTEphcUZYZFVfUHdHeTVZTFM3TmJRaVZFMlY2Nkd0MFNWQzBRQnRDSHZmQ2NBOHZQWV9IUi1KRTN1WXpHbENQNnFLYmNaSksyTjVRa2lJVHVBYWFoSlc0LTBlbUJhbzFKUElKY2V4dEhNUVRPMERpeXNNWFF2NG03UEk4R0RrR1dSQnlDc01raC130gG3AUFVX3lxTE5KOHVJQ0xUSzZlVlRQT0dfTFFtT2E3QnI0SmZDelFsZU9OSzFhN0p0MW5wcWsxdkV1T3BxX2VLRklhczdYNmtJQXkyUVNwejlkVUVJM191X1dNS29NRjYydDBfMzEySjhFeFltZXFkbktDUC0xbldBNFJUSVdKa0R5S1o2bTZxVnpqY1RCT1RJLVNsLXJCSmFrZVNHcktqRDIwNW5PR2ZvZFdiUnlJSnNabXo3RGNLUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T22:27:05+08:00"
+      "time": "2026-08-25T22:32:30+08:00"
     },
     {
       "title": "\"Lake America\": Trump turns Canada feud toward Lake Ontario - Axios",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTjd2MF90S0ZfTkFZRVE2d1FSdzM4X3NDS2VscF9sczUtMGxfb25sWS1HZWgyUXRGYUdhR1luM3d0a0I5RWJBZVQ3LW00WXkyUWczeUhWWWhfRFNUbjFfdmp1VWNERmwtOWtHV2Z4aF9pRnJxU25ZM1BSRUp1R2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T22:25:47+08:00"
-    },
-    {
-      "title": "‘Ali G: Who Iz I?’ Trailer: Sacha Baron Cohen’s Prankster Returns in Stunt Documentary - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGdWTlM0NjdlVXV0YlZJaFc3MEpMX3djcXlHOGVmSXNVSlh0MFBSQlhiZjloQkQ4VW1zTXZ1UWFQREtUT21UM010NHh0MFRoajNZSTZjbUlPOER2ejl5RmpCblA2OW82blVoazBhQlZRT2pZNl9ZVmJvWGxfQUZhMngyY0Y2bXBJcFJrYnJQNjNkOXVkSlYzR0l3UUtDaU83YmlRSldfOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T22:25:19+08:00"
-    },
-    {
-      "title": "NFC North, AFC South teams reveal \"Rivalries\" uniforms - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1WMWJDYlkzUmlBa3JyNS05RXBiUlExOG1Ya2UwOG85NDI4OWNnRUg3VEdRMUdlQUpxTklURHpCeDF6aS1RNzNzUng3cGVWeF9hVHZvcHZJRlQxczdVWXRGOVR6dWVvNmh6d0duaDBhS1lHVl80UUlFTkJoT3JNTDJ2ZkZEOFZzQlJFWmt3cmxBVlJrTklxYVhjbUtFY21hQ29uQThSeWVCY3FzYlpKV0xybw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T22:22:52+08:00"
+      "time": "2026-08-25T22:32:14+08:00"
     }
   ]
 }
