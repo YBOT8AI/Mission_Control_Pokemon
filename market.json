@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-25T12:47:18.632813+08:00",
+  "generatedAt": "2026-08-25T13:18:20.731965+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 628979.68,
-      "changePct": 4.17
+      "priceHkd": 631018.08,
+      "changePct": 4.41
     },
     "ETH": {
-      "priceHkd": 19525.36,
-      "changePct": 2.04
+      "priceHkd": 19600.86,
+      "changePct": 1.9
     },
     "SOL": {
-      "priceHkd": 790.82,
-      "changePct": 7.17
+      "priceHkd": 798.43,
+      "changePct": 7.9
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1166.19,
-      "priceUsdOz": 4626.6
+      "priceHkdPerGram": 1170.05,
+      "priceUsdOz": 4641.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.12,
-      "priceUsdOz": 67.9
+      "priceHkdPerGram": 17.19,
+      "priceUsdOz": 68.21
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 668.2,
-      "changePct": 0.26
+      "priceHkd": 666.87,
+      "changePct": 0.06
     },
     "Natural Gas": {
       "priceHkd": 21.95,
@@ -53,16 +53,40 @@
   },
   "news": [
     {
+      "title": "The Gurkha families fighting for their pensions",
+      "link": "https://www.bbc.co.uk/news/articles/c99d0yzvl49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-25T13:09:51+08:00"
+    },
+    {
+      "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T13:00:18+08:00"
+    },
+    {
+      "title": "Songs created by AI banned from Australia's music charts",
+      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-25T12:54:01+08:00"
+    },
+    {
+      "title": "Cal Raleigh hits 3 homers as Mariners rout red-hot Phillies - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnd5aFZlZm5ReEMxN3NOSnNLQWZUeTNUMDVJRzZkYXNXbXdiU1hScExTVWtQdWgyNE0zdGtGWnJ6YXQ2RnFpUDNaak8zdnJ6Y0NCR3AzUlNUdTYyUk5FRzdCY2R1eUZlVmk1U2RibF9mS3l3NTVlZmVkTFVxYTdiVkp0eXo0R1U5SWs1VGNGSDFYVW1sYkhVMTFOUXFXT1Q4SUVCZ1ZiWi1fU1lETzFwS3FRWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-25T12:32:02+08:00"
+    },
+    {
       "title": "Iran says it is ready for what US calls 'greatest financial offensive ever'",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-25T11:50:06+08:00"
     },
     {
-      "title": "Dae'Quan Wright Waived by Browns, TE Linked to Lane Kiffin's LSU as CFB Transfer Portal Landing Spot - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMWJBb282TzlMNXBKb0tvS2ZwLU1xZ1BfNzlvNUF1NjhFc1NTLVNzbWt0ZGxrVXlLZ2lfa1VTOEhtUVVKakxUU2NBU1I0OUtrZEczWnN3VHJRdHF2QmhKamNlX0pmZXdxTlJLb3FiY3E2MHhKUUU2dkdUMjR1aFVnRERVUG1LbzJaU1ZfTExTOVRqWk5VNVVGYURJVTJOYTFsYmkxUHNwa0FqTG9KV25rNUtvUllPeXpUUjdWNHFxWHhrUUFsWUNWM0FUaHVEZw?oc=5",
+      "title": "Supreme Court for now allows Trump to plan new mail ballot rules. California to sue again - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkg5S1otcjYwd2FMcm5rdGN0WnQ0QWRFUklRRUtyYTlmbU12dlh2M0Nkc0lxYVNvQktNS0xLSm53NW15ZkJ5X1MwaGdaQnkwTVZaQ0tmSzBmTUNuZmJ5MmFQSTdxMTl4TERRX3IxQVBhWG5MVXhaZ29mTWhpZkR0NVZUeE1HalZ0SDZISnViLTNHb1VrSC1CUHk0N0w3UnBuc0N2VjFwemZ3WGx4TFFUTTJ1YllrZVgwVHBDamZWSDExOXljRkRZ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T11:36:56+08:00"
+      "time": "2026-08-25T11:26:06+08:00"
     },
     {
       "title": "NZ religious sect leader jailed over death of Chinese follower",
@@ -95,12 +119,6 @@
       "time": "2026-08-25T10:14:17+08:00"
     },
     {
-      "title": "Worcester chief: Body of Karen Solomon found in woods near hospital, reservoir - WCVB",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZSeTktajY4RUdDNTFfdEpvdUVQX3Y4V2VFSnJkZ3ltSmZncno3anRNM0JQc2Nsa0d5THBOMWFha2pZMG9nODZkZzdHRWVYWjN1UDVEdUp3OE5SeDNWelBnN2VIWG9DaXpPUnNoN0RVdzZPOXNzNkxBeG5pSVVnVDl5MWw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T10:12:00+08:00"
-    },
-    {
       "title": "French tourist dies in Death Valley after car gets stuck in mud",
       "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -125,10 +143,10 @@
       "time": "2026-08-25T09:48:24+08:00"
     },
     {
-      "title": "Owners thrilled with 'family investment' of San Diego Padres - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkhFR2syY1lvQl82aGQtSy0zN1pPdjhuRHVySnhPNG9lX1RzOGtreEdZYUJCTjE5QVdBcno4bTBvVE1jRW00TGNkY1JlWEU5bm5zNzFUbFJVNEZ5V2RKTll2SENiZ3lGVlVuQy04YjRsdDFzdDQteFItemUxNjdrdWNZQk1MUV9pYk1HYVpZNXh5QkR3ajRHZlo4OA?oc=5",
+      "title": "Abdul El-Sayed asks Jesse Watters if he is circumcised during combative Fox News interview - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHl1UjVNMGdmVHRMZW82bHN6VlFEaXJpa2RxbTh3cEplUTA0ZDAyLWp6NldPYUltNmNFUVlNVjI3MkwwYklGTnVibzBVcW94X3YwRXMxeC1xUmhSZmp1UkdGWnREalVoSFRLVHpYZy1ueVpXdjlFckQ4WWEzVnp1VlA4MHRFRWtzdnB3em1sZDdZX3J1MEg3S21nY2U3eDByX2RYcFZhemNSaVhlVy16QWRIUnlCejA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-25T09:41:00+08:00"
+      "time": "2026-08-25T09:37:00+08:00"
     },
     {
       "title": "Burnham refuses to rule out tax rises in autumn Budget",
@@ -137,13 +155,7 @@
       "time": "2026-08-25T09:35:47+08:00"
     },
     {
-      "title": "Abdul El-Sayed asks Jesse Watters 'Are you circumcised?' while defending sex change surgery for minors - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeFpUaE9VRGtqX1JVUzFoUWlWRU5GbWpvTFR0c2oyZUVZQVg2MXZhd1puRzNDejZRdXNIUy13MHlPNVFad2FUT2JHR3VQRzI1bDB0ejJrVzRNSUJSTmY3Q3A0TnJvRnJpaGNVblduVzVQRnlyNXFDejBueGhLN1BhajJWaFVxbnFjdzhpMmtabmpjNlNjMFkzQnhGU1UwdHRaak03WTNLZnJVM3BzeDZxbHNPSkV1b09yUVdBTVhDM0hCR1dpeDdBS0xmVkUxc00ySzhXSg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T09:16:00+08:00"
-    },
-    {
-      "title": "Trump administration plans to revoke B1, B2 visas of 200,000 asylum seekers - Al Jazeera",
+      "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUlo0OEhnMEd4MmszbWZZcFotZ1llcGNqMjlSNTJtQTduS3cwUW1yWXJZa2Z1bEQ0Ym0zamhxWUozd2RtMEwzb2xxZnItbENuNDNTMVRUd0YxODMxa01CSnJuU2pSa1FLVGMzUjA2a3NRYy1sbzhaU0hkWmlYUGlueFp4X1NCU3BTcE4xUlB4Tjl3MWpoRjFDX3NrU2xRYW5BZ3BrUVU1dThTWXPSAbABQVVfeXFMTU52UXBENHFVRHdnNy15Z215NGk4ZHlYUmwtaGtwSlRJMWFXejNtc1dMMmhUdmF3emZKeUZKc2NiUENQRnFOR0lzUFlPUVJ4OWVETXF6amRBZ2JjY0kzcjRKcnZyWTZ4blJRMHlqQWZZdDJoQ29RbC1yM3hPYnVFRFFvSU14S0E3MEtndDdsdWhzRnM0dE43OXNXMzJHNXhSREJwYkFjb0U5WVhyWkdaVWU?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T09:09:26+08:00"
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVVFV01JMlVwYUZVM2ZEcjhlbVZKMkEzUHdHcnpEdTZKQm9QVnBNS2RnblN6UWcyT1NHVW95a2hCUjBzT1FrcUVwV1Z0RDNOOW5kY19rOWlEbldrRU9Bb3psZWoyS1hwc1lmaGlHZmhzNVd2QjVZaTJpRDViUHRXZUgyMXNJa0ZiTjhjcmUwZ2RPVlNuSkNtVFlHaEdqNVFuMUVBcTlpT3JGT1pXelhScnFn?oc=5",
       "source": "Google News Top",
       "time": "2026-08-25T08:44:55+08:00"
-    },
-    {
-      "title": "Iran War Updates: U.S. unveils new sanctions after Trump threatened \"economic D-Day\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEpzNDk2c1V6WnVlU0lpVnpZWlE4OC1YNl91RURET211TzluVGFCR0VYRm5qZkxMU1ZVTU9Sc2xzMXBudzhwcVppb1YxNlpDc1EySjVNV0xkSlRIS2VJU1FPMmtXdm52OHJJQ2cwUzdDX2NBLTQ1Tk5NNXk1RWtsSExqeDVRTnM0b2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-25T08:36:00+08:00"
-    },
-    {
-      "title": "More than 70,000 social and affordable homes to be built across England as part of £39bn plan",
-      "link": "https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-25T08:32:20+08:00"
     }
   ]
 }
