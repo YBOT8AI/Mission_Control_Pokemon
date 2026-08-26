@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T09:36:55.095823+08:00",
+  "generatedAt": "2026-08-26T10:07:59.820540+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618403.52,
-      "changePct": -1.02
+      "priceHkd": 618003.68,
+      "changePct": -1.2
     },
     "ETH": {
-      "priceHkd": 19266.96,
-      "changePct": -1.52
+      "priceHkd": 19259.9,
+      "changePct": -1.5
     },
     "SOL": {
-      "priceHkd": 761.19,
-      "changePct": -4.57
+      "priceHkd": 760.01,
+      "changePct": -3.42
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1169.67,
-      "priceUsdOz": 4640.4
+      "priceHkdPerGram": 1174.63,
+      "priceUsdOz": 4660.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.31,
-      "priceUsdOz": 68.68
+      "priceHkdPerGram": 17.52,
+      "priceUsdOz": 69.5
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 631.12,
-      "changePct": -5.31
+      "priceHkd": 631.43,
+      "changePct": -5.26
     },
     "Natural Gas": {
-      "priceHkd": 22.38,
-      "changePct": 2.59
+      "priceHkd": 22.41,
+      "changePct": 2.73
     }
   },
   "news": [
+    {
+      "title": "Musk's rocket firm SpaceX to build $100bn launch facility",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T09:32:07+08:00"
+    },
     {
       "title": "Musk's SpaceX to build $100bn Starbase launch facility - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zWU9HNUtmVGt6TDhqUUxxX3ZYVmpaVUhpMi1PSkVMbEluWEdqUXV1RGVJSjMtY0NUS1FRTng4ZXhTeTJSRkJKSEZIRThtbWc5bEo2THdfVzlpQQ?oc=5",
@@ -69,12 +75,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaFRsRlhaakhtVFltbThwM2VXN3BlWlV3QnhISmVVMVI4MTFobjhrRmNEdUZ2Z25zc3Y4TjVxT2diZnhlR0JIcWRIcEhHYmg0QXNGalJYaFFSSVlvckhLNEhIRXVGZXRQamJVR2Z2clQ5eDhXZHZZQndjNVpyaXUtb2pBdFVTMFJzbXc?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T08:58:33+08:00"
-    },
-    {
-      "title": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T07:34:51+08:00"
     },
     {
       "title": "Mamdani Lawyers Defend Pied-à-Terre Tax Rollout in Court - WSJ",
@@ -119,14 +119,20 @@
       "time": "2026-08-26T07:00:19+08:00"
     },
     {
+      "title": "Trump administration says it might demolish the Kennedy Center if court blocks renovations - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSmZoanNpdk81QXhuSmNUYVA4eERaTlJSelVma2ZsdFJWTzN4UV9YUzBYOW12b3JQbDlmUnVFNUV3REZCTWQ5S1ZBMTZVbEIta3lWNG5qanZWX18tU2pqMjlLR2h6N2FhQzhnZ0xtUEN4dGRlNE9POGllYzhJMjlucU9XNXJ3cW5pZkdoSjR0V25RaWw1bFh3S2ZIRzVZTTQwelgzemZhcXBmMEJXSHp1ZDB4SEU2a21nTUxEb2xXWEFodV94bklWWEV0OTlkU1VS?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T06:38:01+08:00"
+    },
+    {
       "title": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T06:32:45+08:00"
     },
     {
-      "title": "DWCS Results: Mir vs. Apodaca - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE12dDJHZ21BbFgySjV5bFdsMGtHdlZGVU1Rcm1MWUU1NktOYU5IWENGa1FwN1FYaXdfV0JxdlpuNzdiSFVkN3NxeS1QM3Y4N0MtTkJxMWQtYjd2dUJmSC1WZkpUZThobi1ZeV9XZjg1NUl2cVdt?oc=5",
+      "title": "Dana White's Contender Series 89 live updates, round-by-round coverage - MMA Junkie",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPYk1wcllwMmtDUlJPUTVWd3BLSHVfOGdMWDZhY0IxOERSNk9Zd1I2QXY5QmRfcWNrVGhoNk5NcHpmaUx4VDAwVFdmejIxUERKa0YtaXdRbmhxOTFvYnJmQW1LWlEyZTVxaWJ1MXhBV01zUGNzNUNJbXdqWlRIUTNYNHh5ZkZqOTNnWV9YWFZkV3B3TFpKUFBEX2hJMHBPOVRtUFl0bFlYWlNyaWpMM2I5RllrQ3d3RHRxbmMtWHplNFd6a3dvRlRsbUVaWWZ5TjgtV3RJc21PTjM2QVk3MHBr?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T06:00:00+08:00"
     },
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6MmloUHZid21FalBGNWpUdUl0ZmlJTkI5M28zQVJWLV92M3BfczFIQ0pGNVg5TjliUzNNS1luZF9qYXI5QWROSlE0R25RV2Rzc2RfczhpWnUxTVFYQjh1UkVudm42bWdQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T04:40:09+08:00"
-    },
-    {
-      "title": "BenQ's First Dual-Monitor Desk Lamp Will Give Your Screens A Glow Up - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT25JMVYyZGQwbzdtSDZtZlozWTZKUEc4Z0Q1VmdzOEtCbTZyekxLdGRFVG9QdS1JZDNWclh5NUlVRXVPeUNFMmlua2ZRR21GdlU5N3RYdHUyTlM3dVJ4WmYzR0VyOVk4WFZJNC1WRDRucldLWkI3TWpvMmR1NlZkZmxyMUctZzNy?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:30:25+08:00"
     }
   ]
 }
