@@ -1,68 +1,92 @@
 {
-  "generatedAt": "2026-08-26T21:00:58.221044+08:00",
+  "generatedAt": "2026-08-26T21:32:59.560459+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614232.64,
-      "changePct": -0.79
+      "priceHkd": 612680.32,
+      "changePct": -0.74
     },
     "ETH": {
-      "priceHkd": 19251.59,
-      "changePct": -0.72
+      "priceHkd": 19183.93,
+      "changePct": -0.58
     },
     "SOL": {
-      "priceHkd": 761.03,
-      "changePct": -1.54
+      "priceHkd": 754.21,
+      "changePct": -1.05
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5519.52,
-      "changePct": 0.31
+      "priceHkd": 5514.66,
+      "changePct": -0.09
     },
     "SPX": {
-      "priceHkd": 60189.87,
-      "changePct": 0.32
+      "priceHkd": 60139.54,
+      "changePct": -0.08
     },
     "SPCX": {
-      "priceHkd": 1081.53,
-      "changePct": 2.19
+      "priceHkd": 1075.73,
+      "changePct": -0.54
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1163.47,
-      "priceUsdOz": 4615.8
+      "priceHkdPerGram": 1163.54,
+      "priceUsdOz": 4616.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.26,
-      "priceUsdOz": 68.47
+      "priceHkdPerGram": 17.25,
+      "priceUsdOz": 68.43
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 629.24,
-      "changePct": -2.55
+      "priceHkd": 632.77,
+      "changePct": -2.0
     },
     "Natural Gas": {
-      "priceHkd": 22.48,
-      "changePct": 3.5
+      "priceHkd": 22.57,
+      "changePct": 3.94
     }
   },
   "news": [
+    {
+      "title": "Jersey earnings rise by 1.2% after inflation",
+      "link": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T21:07:55+08:00"
+    },
+    {
+      "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T21:02:54+08:00"
+    },
+    {
+      "title": "What to know about the Lindsay Clancy trial as closing arguments near - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVBENWEtbkJJV3dqT0hPU2t5dlFpZGE3ZGpMd1VsMWNlM0xxOXdRRVFnT0FwTmxQVG9oU056MGF5ZlMwQ0ZWal9WQWVqazkyRjZIZEhIUTNpcjdtY1NlMklVejhhNzdnMmxWUmR2Sy1EZlhxZXNVQkZpT1pwcklZZG83bEJnbE9aY2lvNW9JQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T21:02:50+08:00"
+    },
+    {
+      "title": "Experts note an 'astounding coincidence' after Dolly Parton's death - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUlBSjNsR3k0Y3lGWk00b2JHbVdKdzZSMkJBazBiX2VZREQ5NkprOVd6YjRtY3RILUNZblloMFZnc2pHVVF3TWhIdXlxZHczRnFjNURzRUhpR2pxNnhuMkpBelIwOTctc0o5cHk4cXFoREtPd210U1JacGZfM1dHUWY5UjNrcDIxNWNkZllRa0VfR3hIYWZMSUl3enJZcUc2QXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T21:00:00+08:00"
+    },
+    {
+      "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T20:53:00+08:00"
+    },
     {
       "title": "Reform proposes £30 tax rebate for HMRC phone delays",
       "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T20:39:37+08:00"
-    },
-    {
-      "title": "Prince Harry and wife Meghan arrive in the UK as they make a fresh start in Britain - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUsyQ1JrTl9WQnlqLTBQczcwUXUwSllrTEc5NnNFV0lsN3Z5LTFqc3Rnd3pUcmpBTWt3aW54d2M1SW5TQlNSRWtLdUQzUlNLejhLdVBDX3hEM0NGcWlZcnl6dUJVaUNfWkFUYkJxdzdaZlYwaHVjVVAwdWdVMjNxUzM5Y1BDSzdiRWxRUVdWa21ueUlPYUFYVFlpVzJtdUYtcG1yOQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T20:34:00+08:00"
     },
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -72,15 +96,9 @@
     },
     {
       "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T20:32:36+08:00"
-    },
-    {
-      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T20:30:33+08:00"
     },
     {
       "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
@@ -89,10 +107,10 @@
       "time": "2026-08-26T20:17:12+08:00"
     },
     {
-      "title": "Massive flash flood hits Nepal-China border, hundreds missing and many feared dead - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+      "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T20:16:00+08:00"
+      "time": "2026-08-26T20:13:00+08:00"
     },
     {
       "title": "Rockstar finally responds to ‘heartbreaking’ GTA 6 leaks - The Verge",
@@ -101,10 +119,10 @@
       "time": "2026-08-26T20:04:15+08:00"
     },
     {
-      "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
+      "title": "Prince Harry and Meghan Arrive in Britain, BBC Reports - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc2o5TGUxd2xValRKWTZvMDlMSnRJWkxoUVRoc0IzaEdnRjlXUExITllfcXJmWTl1aXN3ZE1RamZ2VEFmaldERVNONm82bC1PUFhscnphQ1pmVlMyVUd1OFVPalp5eEUtUGF2SUhvcFpjLVpsNGNJTEl1WmdUMG1tZXJzZV9YQmpmcUpV?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T19:32:54+08:00"
+      "time": "2026-08-26T19:49:04+08:00"
     },
     {
       "title": "The heart, hope and steely determination behind a musical legacy",
@@ -113,16 +131,10 @@
       "time": "2026-08-26T19:32:11+08:00"
     },
     {
-      "title": "California couple confront their surrogate in a Texas court as dispute over newborn escalates - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0FlQWpjdjRHY0ZwUlNXcEVBcm9YZWpXY0RRWlkyR1RUaVoxSFA5WkQ1OG1ueDIyS2o0NlJfcmdJUW1FUGlGN3FQWTNyeXdPUVpwTWpEVEdSZ1pvOW9jbmdhMHZPbGZMM1I0UFhSZmdLN2VlTDE5MlNfT0s3cmF0azBfQWdLN1NIQ2dEcHRvYXY5cmJBem9xVDRxZWtWZGtTdGpfS2xWQkVCLS14WG1pOTJxOGhqMmx1Ync?oc=5",
+      "title": "California couple confront their surrogate in a Texas court as dispute over newborn escalates - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVljY25RRE5Ram1YUU9rN3htSEg1b1FRWWE0STlSWF9FT3lJTUNCWVVBQnhaTEZ2eVozNlRfSy1OOEJHa0k4QjVWWDlOeVEwMXl2eXBTR2ZUQnFrblNybWt0N3d3NlhOZTJyZjFueWVncGlPalNNaG1oLUV3RmJSTmh3SmhyTEk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T19:22:51+08:00"
-    },
-    {
-      "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T19:12:00+08:00"
+      "time": "2026-08-26T19:10:47+08:00"
     },
     {
       "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet - The Verge",
@@ -149,28 +161,16 @@
       "time": "2026-08-26T19:02:22+08:00"
     },
     {
+      "title": "Eating less of common ingredient early in life may slash cancer risk decades later - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2ZYNlZZQWZZLTk2WHJ5d0cwSEZxZDd0cE9Ca3lsMmp5YXFmaUdXWEJYUjBsVE5ZVUlGRnlxUmt4Q0tyVklQTkl3YXBLQ3VnaVZRNXQ5bDNaTXEwQVRCZC1oU09OVWc0TnBnWUl2MW1Tb1pnTDEwc19KRGZ1a0lBX2V2YXp5ei1EemlaWEZpQ0VPcWxZYU9VWWpSa2RvcHllU2xZV0E0dkFUR1HSAbABQVVfeXFMTl9STkNPbkFuQnFIcEhmZTE1QzdRWHRnMlF0MlpfTWFtUk5EQzBvTDNKLWlvYkpOS1pzSmphalJ3d19QclAxYkdqMWNGNW5vTldaU2xiM19pQUZWZWJXejBrVzRvWmxMWW5MY2VpeXFPVE51c3hGNzY3ZFZlT3BMaThocENRR1hlMGdtcVBRdGR6dllPVkZxOFB2TjBlU0JNTzFSN043TmVhcEN0elRraTY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T19:00:30+08:00"
+    },
+    {
       "title": "What will the energy cap changes mean for my bills?",
       "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T18:52:02+08:00"
-    },
-    {
-      "title": "Lindsey Graham's sister wins Republican primary to contest Senate seat in November - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lR2ZpWUhNQ0RkWC1YRVBIN215RVdtUi1SdThMMGFmMF83dTA0RXM4WDZ4OE03eWtPTEhDWmxMck93TzFWekVVbUwxNEI1ZFVFdVZXUXQ1S3NLZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T18:46:46+08:00"
-    },
-    {
-      "title": "'Ironing board' seats to be replaced on Thameslink",
-      "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-26T18:30:53+08:00"
-    },
-    {
-      "title": "Radiation link in flight attendant's breast cancer, French court finds",
-      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T18:29:36+08:00"
     }
   ]
 }
