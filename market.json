@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-08-27T01:42:35.943388+08:00",
+  "generatedAt": "2026-08-27T02:13:44.095888+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615620.32,
-      "changePct": -0.74
+      "priceHkd": 615565.44,
+      "changePct": -0.93
     },
     "ETH": {
-      "priceHkd": 19314.86,
-      "changePct": -0.12
+      "priceHkd": 19343.79,
+      "changePct": -0.24
     },
     "SOL": {
-      "priceHkd": 761.66,
-      "changePct": -0.8
+      "priceHkd": 760.4,
+      "changePct": -1.36
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5516.77,
-      "changePct": -0.05
+      "priceHkd": 5516.46,
+      "changePct": -0.06
     },
     "SPX": {
-      "priceHkd": 60161.18,
-      "changePct": -0.05
+      "priceHkd": 60152.01,
+      "changePct": -0.06
     },
     "SPCX": {
-      "priceHkd": 1080.9,
-      "changePct": -0.06
+      "priceHkd": 1081.33,
+      "changePct": -0.02
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1159.43,
-      "priceUsdOz": 4599.8
+      "priceHkdPerGram": 1160.39,
+      "priceUsdOz": 4603.6
     },
     "Silver": {
-      "priceHkdPerGram": 17.19,
-      "priceUsdOz": 68.2
+      "priceHkdPerGram": 17.22,
+      "priceUsdOz": 68.33
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 647.66,
-      "changePct": 0.3
+      "priceHkd": 646.17,
+      "changePct": 0.07
     },
     "Natural Gas": {
-      "priceHkd": 22.84,
-      "changePct": 5.16
+      "priceHkd": 22.71,
+      "changePct": 4.58
     }
   },
   "news": [
+    {
+      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:55:29+08:00"
+    },
+    {
+      "title": "Tim Curry, actor known for \"The Rocky Horror Picture Show\" and \"It,\" dies at age 80 - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWbmxKdFhjcWpfRzJwWC1yZzI2VGRvcE9jbUx5OXh5b1NpYk5aT3I0MUtGczRxU3dvaFg5dGJpX18wZjh4ZWFFdmluekJwNFA1NG5iYUExbG51YWN1bFA3OHNTdWpGZDd3VkNZMlVTNXg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:50:06+08:00"
+    },
+    {
+      "title": "Meta's $18bn settlement a landmark victory for US states",
+      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-27T01:44:39+08:00"
+    },
     {
       "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
@@ -59,10 +77,10 @@
       "time": "2026-08-27T01:32:54+08:00"
     },
     {
-      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGJwME5jMU9SNWI3eUlYMm1qc0tQdFFydEhIN01La05ac1ZWV01iNnFON0Y2cW5QUUd5SkFPLWJrWGdtRkg0WlItSG1DYlExVjEyMU5vc0ExQS1fOFc1SHJOdTVKWHV2MlVxWlM4eDVqbmtuSDI0aUNmOHFxV0ZHNW0tVldxblNSVW9ZUmhEWlIwQnYwaC0tdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T01:27:43+08:00"
+      "time": "2026-08-27T01:31:00+08:00"
     },
     {
       "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
@@ -89,16 +107,16 @@
       "time": "2026-08-27T00:56:34+08:00"
     },
     {
-      "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
+      "title": "Dolly Parton’s Greatest Burst of Songwriting - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHV2anFOMmlkUDU5VXBWdEh2ZjRiTXRRUDJjclBIU1A4ZWJmVGxjcDhIR29xWHRhclZCNkJudmhEVFVZZkNrZ1pQeWtHR3g4NjlUTHYwNVJ4cFF3RkNFeml3QjEtRjI3ekxOUFpFS0R3V2lQaFpfTVo5Qnk4NFVBdjlLc05CREJKOVRET0wxT3hveGQ1UTFZVg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T00:54:01+08:00"
+      "time": "2026-08-27T00:49:25+08:00"
     },
     {
-      "title": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earnings - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSWVqeUE4QUV1d0RGQ3ROYVVGUEJobzVCcU95RGcwd3Q5bXh0b3h6YmVWM2dJQVlCZENPTW04ZlRvV1BTcDBqZFUyYUo5Q0RRc0s3YWU3dGpRZmhNUHJzdk5pQkZHX0w2ZWEyTFp0VGxGVnZxY1cxQzNvRlNXVG1pbVJmajhKVWpQZG5xT282cTU2WVRZdDJsa0I0MnVoWmpTSUNkdFNBenlMRDV0NXhCRjRROWRsbEtvZTRqcFpCV2dIWDVwOERndjVNY1VZUENtamNtUEZKaw?oc=5",
+      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhhMEdlSGN0LXpUaWFENWt1ZzJieUx4Wmtudm5kb3pZUHVHT2cxcG9aYnFzNmxZY2NYYmZJbTlneko0ZjJ3T3A3QXRhRFFvYXBmamdvSUI3ZUtiLU5XNnZHTkl5MWVPVEswUG53UnRqczNkQlhMeS1Zb01mdlpOVWV1NWRjOHY3T1d5aVBpVFZ3R0s1YW9UNFY1WFNvM21GNlA1THdoVQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T00:16:00+08:00"
+      "time": "2026-08-27T00:39:42+08:00"
     },
     {
       "title": "Apple announces September iPhone launch event - The Verge",
@@ -107,22 +125,16 @@
       "time": "2026-08-27T00:03:49+08:00"
     },
     {
-      "title": "Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YMjd2NzBVd0lBS3Nsd0RmOWJldzVWbGMwdjc2d1RJSjhjZ21JZGRoX2RtRDFraGo5a3lyVWpGWmNiMkMtUjdGa1FrcDZ3WkVWeW9Pa3BkaTBfZW9uaHlyQjZ3UjJaLUZFUEo5ZFRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T23:49:06+08:00"
-    },
-    {
-      "title": "Red Bull misses out as FIA reveals fresh F1 ADUO results - The Race",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZSemQ1bFdJaVY4THhFLWc0Mlo4cEpNTHFkZFNGa2dWNkVicWxnNDBQRjcyVUpmbTVnRkR2M0ROQ1lPaGdwWFZIRVVvZVM4Z3lMTGJNVTJBdmxReTlkU3RYeUtSMVo4WUhhWW50X0Z5aUtfaVl0ZWhvaXBEUlAxb1hWZlBNam8tY2pJeTFBWGNZakN0bGFr?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T23:47:37+08:00"
-    },
-    {
       "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
       "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-26T23:42:45+08:00"
+    },
+    {
+      "title": "FIA reveals latest engine ranking for ADUO as Red Bull remains F1 benchmark - Motorsport.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTFoZGZ4Vy1FQjYxNVdkMjZNSHMwQVA3akRhMnA5WnlRV1VfYVdVT1huUnlKSElLSzV1N0ltTDdhVWpvZUNOdnpPWHdNN3JtcnVmQ19FTzYxVE84YlhxeThNUUQ4RHhsNUxJQnM3MzRyVExQRnhyVW9McF85WXhwUDQzdXdUMnJnY0FoVGlwekl6bUZoVHk4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:23:50+08:00"
     },
     {
       "title": "Hurricane center still tracking 1 Atlantic system, but drops development chances - Orlando Sentinel",
@@ -141,18 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtR3JMSWNhWTZiLWw1UjdZQVlzZHk4Vk9hVE1GSXhJVjNHWVpHRWpJWFl5NkYtRmVjQ3R2YWhlM0hFVEhoTGlMenpVbTl4MlUzbGM2MU5TZHdnQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T23:01:08+08:00"
-    },
-    {
-      "title": "Jack O'Connell on Tabloid Drama and Netflix's Rupert Murdoch Movie - Variety",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblVoYVZDbnluMU9wNnRuWTdfd2taU1FFNS1fTUExeW9BVW5uV0NYVjBzYzFjcVZWaG5QNDR2eDFycGRMZ29XWkFCQS1OMDZaeUNrSGFRZWtSVC1qQzNBcmxxeTB6VWFBUXZPM1phZ3dvM2haak9qeVRmUGhTTGZCRWRfSERlTGFURmpaUzRRTldBWEIxVFRrS1ViVnR3b0w2RC1qVGlrZlhnTGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T23:00:00+08:00"
-    },
-    {
-      "title": "The epic La Tomatina food fight drew foreigners to paint a small Spanish town red - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUdMZWJhU3lIeUk5R2NwaElYVzZ6V0ZOVmRxVW9LSFRuM19JYTd3ZTl2cXRCbEFKMWgzRzlINHd0U0FDUlhxRkFnZ2Z4NVdLUEh3aHhDdzRGMTdWNlZhN0pMU0lzRURwWXFPWVdCUTdXd3dsRUZRRGhkaGFKTnRBa3JNRF94Q21fLXJPSkNlQkdURlA3MkUxYWtB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:48:00+08:00"
     },
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
