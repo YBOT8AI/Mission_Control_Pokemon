@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T07:32:53.341649+08:00",
+  "generatedAt": "2026-08-26T08:03:55.598533+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616843.36,
-      "changePct": -0.27
+      "priceHkd": 615251.84,
+      "changePct": -0.59
     },
     "ETH": {
-      "priceHkd": 19210.74,
-      "changePct": -1.31
+      "priceHkd": 19130.78,
+      "changePct": -1.63
     },
     "SOL": {
-      "priceHkd": 760.48,
-      "changePct": -1.29
+      "priceHkd": 756.32,
+      "changePct": -2.3
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1174.81,
-      "priceUsdOz": 4660.8
+      "priceHkdPerGram": 1173.8,
+      "priceUsdOz": 4656.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.38,
-      "priceUsdOz": 68.95
+      "priceHkdPerGram": 17.37,
+      "priceUsdOz": 68.91
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 634.88,
-      "changePct": -4.74
+      "priceHkd": 635.59,
+      "changePct": -4.63
     },
     "Natural Gas": {
-      "priceHkd": 22.33,
-      "changePct": 2.37
+      "priceHkd": 22.37,
+      "changePct": 2.55
     }
   },
   "news": [
+    {
+      "title": "CIA Director John Ratcliffe on secret trip in Russia - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnd5N1Bjd1VhMVRidmJudVNJNXJHSFZrb1RtejBKY04yRU9jN1ZqSnRfVGVpbzhYdXZzVU50M211TkxyMGJoMHJOaklmTXI3ZGhwaXVvdmROTE9ka2U1RWI2RDN4aW5abVZIXy1yM19vQVZ6dElCdlhYY1JIWURSNTd3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T07:45:24+08:00"
+    },
+    {
+      "title": "Dolly Parton, country music icon, dies at 80 - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHM0bEtXZ3pRVDhvNGJYWHl5emltcmFkUVhva1ptbmU1Rld6WXd0alBEYTFweXdTRWhJT2Y5SEw2RmlFZzFEOFFUZmZFMVNJeXp2bWNNOEZ3RU1ZYnZQMG03d0ZVemFLenBaaGdvdkJlQTBRd1JDV2RCdVdSMWRCdldjSkdlVmJJSnVXYUVENA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T07:34:45+08:00"
+    },
     {
       "title": "AI gold rush draws crypto firms away from Bitcoin",
       "link": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T07:11:02+08:00"
+    },
+    {
+      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T07:09:50+08:00"
     },
     {
       "title": "Firms scramble for battery power in Spain and Portugal",
@@ -89,34 +107,40 @@
       "time": "2026-08-26T07:00:19+08:00"
     },
     {
-      "title": "Chris Hansen Not Backing Down Over 'Primetime' Feud With A24 - TMZ",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS053T0tyclZoWWplR0FnUGdFM0ZaN3lnM01DQjNEazI4N2Z3bGZNQXhrTmQyZlBDMEZhR28xaU9YcVpvSW1UV2lFZUFtNHp3VnNjcFNscFNial9XanhTNVkzTnNxSzZnU2t3aW85ZTh4b2tnOWpXWlNfZ3VfanRlU1ZpbnQ2d2ZsMkczdU5KY2Etalk?oc=5",
+      "title": "Trump administration says it might demolish the Kennedy Center if court blocks renovations - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSmZoanNpdk81QXhuSmNUYVA4eERaTlJSelVma2ZsdFJWTzN4UV9YUzBYOW12b3JQbDlmUnVFNUV3REZCTWQ5S1ZBMTZVbEIta3lWNG5qanZWX18tU2pqMjlLR2h6N2FhQzhnZ0xtUEN4dGRlNE9POGllYzhJMjlucU9XNXJ3cW5pZkdoSjR0V25RaWw1bFh3S2ZIRzVZTTQwelgzemZhcXBmMEJXSHp1ZDB4SEU2a21nTUxEb2xXWEFodV94bklWWEV0OTlkU1VS?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T06:50:40+08:00"
+      "time": "2026-08-26T06:38:01+08:00"
     },
     {
       "title": "Falcon 9 rocket launch creates unusual jellyfish cloud over East Coast - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVjNZSl94UEFPZ2tOSHBYOU5tR1RqTjM4bmRBR2pXeHdFWk9hRWFJZ09oenpQb2FuUENDN3VxNXlwZnhjOXY1UE10SlJ1YWU3b0plTG5aZWtzcDl3Si01T0pneWctU1BMTzlTMTNJTmhDUnJWZ1RLc2o5UzdER0xybnNEXzNYdTRCR3QxT2JzWk5vcng1bDAycnJfVEFlVElKLUhuN1daWjlBVHZRaTRJcXRob1M4dVB5ejFSdGFR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T06:28:43+08:00"
+      "time": "2026-08-26T06:32:45+08:00"
     },
     {
-      "title": "Clinton-appointed judge triggers appeal after blocking key voter citizenship law - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzltWnlHT0pHOXdKNldxdFJDaTFEU3hvd1BuMjVYZnJXYi1ub2J2VlMzTjQ2UlQ3TG1wVU1sOVpQaXEzbWFuc3hFdE5PZlhPbkh2UDB0emQtblFubEFOU1FMbFRkTDNSV0JQZEk1cTJZOGJoWU9BQS1ZNHBNcWtFaE1seGJONXhvQkR6WlVMaENmM3F1Um5QQzkzQnY2M2ozSnYyUG10RzFRdm5zQmo2bWN4b0VhLVI5OEN4cnBRdkg3ZHl6bFlYSVpGVdIB0AFBVV95cUxOVmN1Z0NDWnJVWElBcUxid2t5akJHVEVqSG44bFh3SDI5LTFjbDJOR3NlWXdVTUhlY3NIWjFDVUlrcnhGMk01Y1YwMWdkUUlTR0lwRkFjdGFBTnl0Z2loazJRTFZBWDdVd0F6VTU4M2RmcFlSaEExNi1ya2E5bzdkeExSZE9adWxPNVJWZjRXRDZZMEpBNy1qdXBrTnRmamhnXzY4ZWRMMkJtZUZvNkNwZW5xRFBOV3o4R2NvdlZjakhLWlRxQUZfQXhlRlFIUENT?oc=5",
+      "title": "Orlando Bloom Quits 'Reset' Movie As Production Starts, Cast and Crew Livid - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jdDNPRFJTb0hwd3RLY1ZqaXY1aTFpY0hoS01TMHRDUHBLVnlDVWpiSGJyc3NHSUsxbWl0NGVOZlltVi1FMG90X1lUSUJtOXkzV2tXTjhDTVpySFU4YWY2c09OUXFjZUtkajlvX3lsRHI?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T05:56:38+08:00"
+      "time": "2026-08-26T06:13:21+08:00"
     },
     {
-      "title": "Dolly Parton, country music icon, dies at 80 - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcHM0bEtXZ3pRVDhvNGJYWHl5emltcmFkUVhva1ptbmU1Rld6WXd0alBEYTFweXdTRWhJT2Y5SEw2RmlFZzFEOFFUZmZFMVNJeXp2bWNNOEZ3RU1ZYnZQMG03d0ZVemFLenBaaGdvdkJlQTBRd1JDV2RCdVdSMWRCdldjSkdlVmJJSnVXYUVENA?oc=5",
+      "title": "Trump administration violated court order on mail-voting rules, judge says - Axios",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T05:41:11+08:00"
+      "time": "2026-08-26T05:56:08+08:00"
     },
     {
       "title": "After 8-year-old died of brain-eating amoeba, here's who is most at risk - USA Today",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQWx1alZncnljdXhqN0FrWW9tM1F5bkZBMDE3NElMZW43X1lZdzlWZFAxMGUzYS1SWEZVdzhvSEVZMkhOVVY0bC1nU1o0STVySjNLS0VFVjV3dTNUel9HOXZfR190bWRVWmw4WlYzbTlqOV9GMWpKYklxWmxjVVNGWmpLSHVWSWhxazdCNmoyYklYNnlSMG51OExNWm9PQlpIWWVaeEN3WUtzZ1FjRktJ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T05:37:00+08:00"
+    },
+    {
+      "title": "Federal judge blocks enforcement of Ohio proof-of-citizenship requirement for voter registration - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTJVOEZGZnNfMXFKdFZETlNFbFVCNGZFcEtXOV9KYjdMMnFLaTZtei1FYmNZb2l5WE9BcENXamFuRDJza3pRUkd0RHJmQllfNnJNRlg5Q2YtTTc3LWVNaDFMdHEzX1VYRUw2S1dLY0ExakU5OUItNU1JYTFHdUJRT2xzWGx6a0pMY2NPRURBRkIta1BaN3lHNVY3RndQTjlBSWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T05:32:00+08:00"
     },
     {
       "title": "Two unvaccinated people die of measles in Pennsylvania outbreak, health officials say - NBC News",
@@ -131,10 +155,10 @@
       "time": "2026-08-26T05:02:11+08:00"
     },
     {
-      "title": "Kennedy Center finances deteriorated sharply after Trump name change - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQXNjU1FkWDdVY0Q4SEw1c0N3UkkyWlhhb3RHVDZfR3NLUk8wd1NPSlk5ZlhZb2RvZVA0NTRXUi1zbFhXcnJmZkM4cVdoeTRJZUpfYWp3R3BOclp1M1c1SzMyaG8tb0xBc2libDJJM253RHhmenNiTXZpT01Eb0VUTXduMWZYa0ZlQVBWZDM1emVOWFBWUFktLU1OMVdpckdIZnUxUTltTXc3TVgydGdzNQ?oc=5",
+      "title": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUNLNkh5SzRuNndiSHdxelZlR2k0aXBRNmNjVTRnZS1NS0hETkx1bXNITmNJcmFnRTczWUdtTXZkNlJseGQ1Z1NydGNiSk9ya0tSZll4U0xLSnU2SkRXT3BFS2pDVnh5cU02V3B5bTNrQ1dBaUI5VkdxX3ViNlRSbWJZVm12X2ZBMkpOZlJZS3N6ZHB4RllHa1F6dFExQVFBdURJcmo1WDFsa2ljdDBfT201RQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T04:54:25+08:00"
+      "time": "2026-08-26T04:55:54+08:00"
     },
     {
       "title": "Trump scoffs at ‘affordability’ issues. The White House knows it’s a big deal. - Politico",
@@ -143,34 +167,10 @@
       "time": "2026-08-26T04:51:00+08:00"
     },
     {
-      "title": "What We Know About the Trial of Lindsay Clancy for Her Children’s Deaths - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTNkxRNkJ3ekVRdmt5WFgxdTRtV3NtMDE4c0I4V3RpZWR5eGpmamZvV0FiWFdfQUxUUnVkOGtGWGlBSXBNRFJsYnNPZmJCSDhIdVBoMkQwZGp0QnJEenpzZmxTemtxcFNDVEk1RVoyLTBqLVF5VEs4eWs1THk5dw?oc=5",
+      "title": "New US sanctions signal Trump desperation on Iran, experts say - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcmw2X00tTmczcE5TWV8wWWJ3XzhyTTN4bms0ajdMbHZhQ3ZaSm9USmJQcnlJejVwVzlzNFBKbmJSYmdaYnF0SWp5d1dSSjl4dHN5SlZWUFdsWThyZ0xVU2ZUemlwNkZnZ3NSLWxtbEs4bWw5Q1NKdWNPTHZCYWlIYnFFVGd0Qy1NUDN5RFNxTTNSeS13dUJMb3AzaFRFd0I5Y1NuSdIBqgFBVV95cUxQM3pLMnZfc3ZERTF3akZlbjd0UHo3X1NFOUMyZ0Q2cm5pQ05ZVDZ5ZVUwX3dHUEtSclg1VzEzNFRzcWdUeGJXVklRSUlYbk03QWl6QWVDYjFjRlNLRWYtQ2hqMVA1SlpJNEdXM1B1bjJzTkhQc3hFa1FhOHVhM0VvTHNjSktvcEFUUWtIdzJCcWxIM1V5WkZGWnNIazA5bEVreWdqNmxhend6Zw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T04:46:33+08:00"
-    },
-    {
-      "title": "Trump administration violated court order on mail-voting rules, judge says - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FWmIwMWxMM25kOEd1d2pVLUtZSEdGVFllRzJ5SEpDcVFqSkFkUEdjSzgwSElrNkVfZ08yTjB4bGNaUFRQakFlaGtWRDZ1bzltdXI2UHY2X0Z3aXlZaS1NbzdUbjRPT0ZOZC1hUjVSRDdNYVk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:42:20+08:00"
-    },
-    {
-      "title": "49ers owner Jed York responded to undercover ad on prostitution website, police say - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlRYdWI5VktDaG5QaFB2LV9Ib2EyVldBWklxV0pfdzFQRWhvcGZtam9rWmtpM3FvQm43bUdTX1M4cElpMVRxc1U2SjRYTW8weDBxdGFCdXBmS2hueHZYeXNvbDVqRE54MDhyaC1hOHNSaHZjaG5NT0NyNXhBODBPREcwUEJXU2ZPOGp1Sk9VRGtYTlJLbUk1bzJRUHhObDBvc2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:33:32+08:00"
-    },
-    {
-      "title": "Here’s How Much Nvidia Stock Is Expected to Move After Earnings - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRUVrUnBqVHJPeXJmX1FJcmRUZ19XWmJkZU5RcUJLbUxIc1pLOTdiME5Kb1NXTTEyNFdPVjhrZlNnTXh0b21zcmMtSGxzMmhFNW5EaHdRVFVqT21vdU90ZDlaSVUtb29EY25hQVJXV3NiN2lTOVVDZ2hjZ2U0Qjk0YTVwWHp2b25MRmlqS0g4QVNpVVdMUVFMOHFQU0RDZTdqSlpRTEZqdnp5RHdTQlhVcDFEd2gzN3NCXy1DdVBERTVtQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:06:00+08:00"
-    },
-    {
-      "title": "Memory and Storage Configurations and Pricing for the New Mac Minis (M6/M5 Pro) and Mac Studios (M5 Max/M5 Ultra) - Daring Fireball",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcTNRYm9rREZkZWZUVTFPaHBSTUhJQVpQR1ItU0p6d3BBZ29tMzhUcG92WlkxWExnNHF6V0tCTXZSZnBEVmtJUXZESUpLWVR1OXR3WXlacmRwcXZKQUtTTFhuNWIzYkRYWlE5QUxzNko4R0NuMGRjbmFLS0lSUXBaS281WVFzNndoeUQ3V1RQblhGNnBrdnRhdG9lMA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T04:01:10+08:00"
+      "time": "2026-08-26T04:39:13+08:00"
     }
   ]
 }
