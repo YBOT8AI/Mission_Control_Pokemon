@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T06:23:15.346587+08:00",
+  "generatedAt": "2026-08-27T06:54:21.917087+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618662.24,
-      "changePct": 0.11
+      "priceHkd": 616004.48,
+      "changePct": -0.4
     },
     "ETH": {
-      "priceHkd": 19695.18,
-      "changePct": 2.64
+      "priceHkd": 19530.85,
+      "changePct": 1.54
     },
     "SOL": {
-      "priceHkd": 786.27,
-      "changePct": 2.78
+      "priceHkd": 782.43,
+      "changePct": 2.57
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1162.28,
-      "priceUsdOz": 4611.1
+      "priceHkdPerGram": 1161.7,
+      "priceUsdOz": 4608.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.35,
-      "priceUsdOz": 68.83
+      "priceHkdPerGram": 17.36,
+      "priceUsdOz": 68.85
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 641.47,
-      "changePct": -0.66
+      "priceHkd": 641.94,
+      "changePct": -0.58
     },
     "Natural Gas": {
-      "priceHkd": 22.75,
-      "changePct": 4.77
+      "priceHkd": 22.79,
+      "changePct": 4.95
     }
   },
   "news": [
@@ -56,7 +56,13 @@
       "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T06:16:00+08:00"
+      "time": "2026-08-27T06:34:00+08:00"
+    },
+    {
+      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T06:15:47+08:00"
     },
     {
       "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
@@ -71,10 +77,22 @@
       "time": "2026-08-27T06:02:18+08:00"
     },
     {
+      "title": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T05:53:00+08:00"
+    },
+    {
       "title": "Nvidia revenue doubles on continued AI demand",
       "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T05:49:26+08:00"
+    },
+    {
+      "title": "Nvidia forecasts fiscal '28 revenue growth of 70%, soaring past estimates: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T05:46:00+08:00"
     },
     {
       "title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
@@ -83,22 +101,10 @@
       "time": "2026-08-27T05:45:17+08:00"
     },
     {
-      "title": "Tim Curry, actor known for \"The Rocky Horror Picture Show\" and \"It,\" dies at age 80 - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWbmxKdFhjcWpfRzJwWC1yZzI2VGRvcE9jbUx5OXh5b1NpYk5aT3I0MUtGczRxU3dvaFg5dGJpX18wZjh4ZWFFdmluekJwNFA1NG5iYUExbG51YWN1bFA3OHNTdWpGZDd3VkNZMlVTNXg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T05:40:20+08:00"
-    },
-    {
       "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T05:27:23+08:00"
-    },
-    {
-      "title": "Live updates: Dolly Parton dead at 80. Taylor Swift, Miley Cyrus pay tribute - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1hPNWh2cjdFaHhjSjVaTG90NWZONm9FZ0NzYWJXb0ZXWlNUc0NvaktuUDFWVVJsZEEwWVdKcjI4S3o0TWlwa0d6dGZ3OV9MXzRtN29RVHh4cEhXZlYtbDh0VDg2ZFhzWEdmQS1lbDFxUXhobGRyeHY1b3ZTVzVEVDRHX3lKR0VfTkRWMjZwbDVXOXY0dHVBSUJvSjZYY0dXbTJKb01fOEs4bVJLMGVJaE1oTmxPVGY4VHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T04:51:00+08:00"
     },
     {
       "title": "NFL ending Pro Bowl game. Player honors will remain, but alternates no longer acknowledged - The Athletic - The New York Times",
@@ -125,16 +131,10 @@
       "time": "2026-08-27T04:47:00+08:00"
     },
     {
-      "title": "NFL, players agree to focus discipline on 5 health, safety fouls - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVqSnZjR2E3dUtCSktVakxvV2dFZk8xZzhtWU1TYUdTMkItbC1fc3FHa0J3ZVR6bE91RkpPRTlDX3lYRnR1elRqWmp1LTdrS3J4a1ZxYUZnMjRnQkxUWlNTU3RzSUFUdU1adG5YT3JuN0ZzTTlxSl9UVTZZcFBldFZVUHJ4NU1xaHlqNmZycnpHRGFxN2YwRmstV2ZMczBDZXU0?oc=5",
+      "title": "Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YMjd2NzBVd0lBS3Nsd0RmOWJldzVWbGMwdjc2d1RJSjhjZ21JZGRoX2RtRDFraGo5a3lyVWpGWmNiMkMtUjdGa1FrcDZ3WkVWeW9Pa3BkaTBfZW9uaHlyQjZ3UjJaLUZFUEo5ZFRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T04:36:00+08:00"
-    },
-    {
-      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - NVIDIA Newsroom",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjZPeVV6eC01Z2tWOHlyVEhmMG9uZDgyaXdvVTV3MVVMWGdKVVhJdlNiRHBvejd0UnlSNFJfTFA4dXAxUk9fVi1RQ2h2VU1kd2FkSUoydEJheDVMNWRnYUdMa2RFcG8zcTROTl9ZX1lJQ0tRU1VZR2pkQjFRdEtkM0tpUUlOcXhsYTFGcGY5RHFQYWZyNkh6LXVCSmN0Y1J3WWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T04:25:18+08:00"
+      "time": "2026-08-27T04:36:04+08:00"
     },
     {
       "title": "Amid deadly Pennsylvania outbreak, Kennedy blames Biden for decline in measles vax rates - Politico",
@@ -155,22 +155,22 @@
       "time": "2026-08-27T03:40:00+08:00"
     },
     {
-      "title": "Cyberleek posts first major 'GTA 6' spoilers in Lucia prologue leak - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2hZZHBiZURtWkxQajNGRHhPSFFtRlAyU0xiSUwxQW8tRWZrMnMxMllfVmYwZ2phM3RlWTdvWkwxdmtSRC10U3FfUEJuU0gtYkQzZWNkVjU2VDAtaE40VUc2QS1wVzU4akxiQ1hMT2JLY2tyRUtKbjNyYUtSYmkzZmtqd2ROZw?oc=5",
+      "title": "Canada's tariffs target certain U.S. states. See which regions are most vulnerable. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0dNVUZ0YWszc0J4UTZUQi1EWkh3RjNPSFZqaDRLaEliYVBSMGtlWEJvM2tWSUlLbFNqRkthV3A0OG05NWxpaVotWGxlVnpST1dZSnppWkdVWnRXQVFsTlhrbmpRaURUcENqMnpmNVJ3SURVWlV0dThXUHRuVFRjZFdnU2RJT3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T03:34:59+08:00"
+      "time": "2026-08-27T03:26:47+08:00"
+    },
+    {
+      "title": "Judge Handling 9/11 Case Sets June 2028 Trial Date - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmM4S3djNFRyOHFibFB1ZlJuc1NKTWtGTXAzRUp5OUF5dEpnYllBVTExbDRsSThGNk05NkZnajBfMHJIeXVsc2lnNTRhdjRheHlQaUplanBnOEtYM0x2UHV6ZDV0VWNncmNBZ2doWlZzMU5JQ00tQnpfWi0tVW1XVXZrOA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T03:20:50+08:00"
     },
     {
       "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
       "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T03:19:46+08:00"
-    },
-    {
-      "title": "Federal Agents Enter Hayden Panettiere’s L.A. Home With Search Warrant as Questions Surround Her Death - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZUFHYkFvWnV6UEF1cjBRU3Z6Y2MybkdvYzYwSUF6RTZhZ0laNHNJcVhVWThwY0tfdTVpREwxYkxOX25JalZzc05KeVhmLWtSM1lUVmY4UFZnbzNTNlctdGJwYnkzWnh3M3R4YmZ1SUEzU1hRN0dkcEc4MVd0ZXdGX21Pck1jeV9ka2R6aUNLenlqVzl6XzZTTkNlRXJQOUY2NDBDQXZ6NEt5dFVm?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T03:17:46+08:00"
     }
   ]
 }
