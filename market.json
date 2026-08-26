@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T04:49:02.565163+08:00",
+  "generatedAt": "2026-08-27T05:21:08.530650+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614616.8,
-      "changePct": 0.17
+      "priceHkd": 617862.56,
+      "changePct": 0.52
     },
     "ETH": {
-      "priceHkd": 19359.23,
-      "changePct": 1.24
+      "priceHkd": 19552.72,
+      "changePct": 2.55
     },
     "SOL": {
-      "priceHkd": 757.66,
-      "changePct": -0.15
+      "priceHkd": 766.28,
+      "changePct": 1.23
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1157.74,
-      "priceUsdOz": 4593.1
+      "priceHkdPerGram": 1158.2,
+      "priceUsdOz": 4594.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.18,
-      "priceUsdOz": 68.15
+      "priceHkdPerGram": 17.2,
+      "priceUsdOz": 68.24
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 641.08,
-      "changePct": -0.72
+      "priceHkd": 642.17,
+      "changePct": -0.55
     },
     "Natural Gas": {
-      "priceHkd": 22.72,
-      "changePct": 4.62
+      "priceHkd": 22.78,
+      "changePct": 4.87
     }
   },
   "news": [
     {
-      "title": "Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
+      "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T04:39:44+08:00"
+      "time": "2026-08-27T05:05:00+08:00"
+    },
+    {
+      "title": "NFL, players agree to focus discipline on 5 health, safety fouls - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONjVqSnZjR2E3dUtCSktVakxvV2dFZk8xZzhtWU1TYUdTMkItbC1fc3FHa0J3ZVR6bE91RkpPRTlDX3lYRnR1elRqWmp1LTdrS3J4a1ZxYUZnMjRnQkxUWlNTU3RzSUFUdU1adG5YT3JuN0ZzTTlxSl9UVTZZcFBldFZVUHJ4NU1xaHlqNmZycnpHRGFxN2YwRmstV2ZMczBDZXU0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T04:36:00+08:00"
     },
     {
       "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
@@ -65,8 +71,14 @@
       "time": "2026-08-27T04:27:43+08:00"
     },
     {
-      "title": "Nvidia Earnings Live: Investors Brace for AI Chip Giant's Q2 Results - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0pfSDcyZUtLRG5pdTFIeGhRMzVEWWhhaVlrMmtRY1Q3djNheXpfWU5UWkRJVWlfZ0hxby1MV0NENHgtc2d1Y3BzRkV0TnVSaVdxMnM0ejJzT0hkRDM1NnZ4dTlDb2x5b3dFV2tPbDlVQVh2dmIteXZubkFpZVcyTzlzdmc?oc=5",
+      "title": "NVIDIA Announces Financial Results for Second Quarter Fiscal 2027 - NVIDIA Newsroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjZPeVV6eC01Z2tWOHlyVEhmMG9uZDgyaXdvVTV3MVVMWGdKVVhJdlNiRHBvejd0UnlSNFJfTFA4dXAxUk9fVi1RQ2h2VU1kd2FkSUoydEJheDVMNWRnYUdMa2RFcG8zcTROTl9ZX1lJQ0tRU1VZR2pkQjFRdEtkM0tpUUlOcXhsYTFGcGY5RHFQYWZyNkh6LXVCSmN0Y1J3WWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T04:25:18+08:00"
+    },
+    {
+      "title": "Amid deadly Pennsylvania outbreak, Kennedy blames Biden for decline in measles vax rates - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU8zNmdxSmNpQkthaTlKM3RXbDJseDhseW9NanhYUE5xQ1ZIVU84R2xvckVoU2hVZHNRcXgwWlFXdDNnOEVLRThDYm1QMlNpd01vV19xYk9adUFuVWV2WDJLWWFESHM3MUREZFJ4eUxGVUMzNGtPQ3FWSUJIWDU2UXhaaW9hdE05elo2d2tySUhDN0hCV2c?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T04:13:00+08:00"
     },
@@ -75,12 +87,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T03:19:46+08:00"
-    },
-    {
-      "title": "Blake Lively Lawyer Reacts To Star Getting Just $400K In Baldoni Case Legal Fees - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMm1IaFJiYmZPakRxZWcxYlRQX3FqdXZ3angteXV3aVZRZ0JvY2F3dktQdmItYzFUU01fdVc2TWxCRjMwUzVuajU2cG90TUhiemRFS0liWWI2QUNYYmJVX1RBMWlNdXhjMGptd1VmcGtUU2daYTUzRmpCcE1abDkyUnhEMEZER1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T03:13:00+08:00"
     },
     {
       "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘It,’ dies at 80 - NBC News",
@@ -107,10 +113,16 @@
       "time": "2026-08-27T03:00:13+08:00"
     },
     {
-      "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ?oc=5",
+      "title": "States renew fight against Trump's mail-in voting rule - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcVhfMS00VnpNa3EyQTEtSUtOUmRMLS1OeGEzVTJjMXh6anp1OHU0clhMUGplODZIVmRJU05JMDIycXp0UzVidmswUV9TZjVidnV4R1lHMy13Z2JKbXVjY3JxZkwydFNycGtPRkR2SENvTHhSLUgwRDZuRFl0MGMzVHpmUVNKYmF3TWJn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T02:39:00+08:00"
+      "time": "2026-08-27T02:52:49+08:00"
+    },
+    {
+      "title": "Maryland court blocks Democrats’ redistricting amendment from November ballot - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcDMwdVV1YXV6SV81Wk02M0NyV2w0TzR6UnZXazJZdlNQWEZNU29KMG8zNEx1Q1NZdkNPNU80TVJXVGkwbUdhTGg0Z3VRengzb0hyenU2RXI1VzBtYWhtYjVkWkVmYjJ0YW5FWmhfX1Y2U1l1U3F1VFp1MC1JYW16bDJZSHRRVEpFdnp5NlFGelJORGlFNHZ0YmR2NHV3RHFKU1FCcFFuaDlWdm9QdU00SVdYLVAzLVliY1JsMjBxT2tmZ0FIbFRz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T02:42:46+08:00"
     },
     {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
@@ -137,34 +149,22 @@
       "time": "2026-08-27T02:18:40+08:00"
     },
     {
-      "title": "Man convicted in murder-for-hire killing of Microsoft manager on Florida road - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEVHSmlxanZ4UldLVzdzU045NjNwSGRfQ1duRHFYS3hPLUNwSmNaWjJYZVlKVGRHeHVKM2NfM0FrMDNwTm0yY2tfR0w1cGZMbnlhOVJ0dEhzVHdsbGowc19iZVR4THR1NzZvZzgtd2d5eDE3akF1em1pVlg5ckhCSVlFQW5UMXZXcTVmd3VicEluNEkwVG4ycnFBQ0ZjNG1OaEZGbEQzMFFtTnRDWmtoRVZ3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T02:14:53+08:00"
-    },
-    {
       "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T01:44:39+08:00"
     },
     {
-      "title": "Apple Maps has ads now - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rLVlpbl9UbllCYWpQRkQxc1dTcENnRW44cUNGd2RCN0Vrb2J0WnFLRFJReTBoektTVnRnXy1HZmZNVFFUdHpyalc2czlNT0tDbThRVkp0QmpDM1ZIWnViYldjVlZKTDFQTEE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T01:34:32+08:00"
-    },
-    {
-      "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now - NPR",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zV0dlRU9hWVdzR21ONTA4bE4wN0tTaW81ZUd0aGFpWlE2WmloWWNHN1Z1MmxfLW1fcmxrZjZVemhnNTBzV21LSVQ1WV9GOS1ybnhpT0N5ZlN6bFJkVTlwb2pvOEYwRVVnXzBYR3c2VXlhQ2EwVmZQZVBBRGNoZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T01:15:17+08:00"
-    },
-    {
       "title": "What to know about the Lindsay Clancy trial as closing arguments near - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVBENWEtbkJJV3dqT0hPU2t5dlFpZGE3ZGpMd1VsMWNlM0xxOXdRRVFnT0FwTmxQVG9oU056MGF5ZlMwQ0ZWal9WQWVqazkyRjZIZEhIUTNpcjdtY1NlMklVejhhNzdnMmxWUmR2Sy1EZlhxZXNVQkZpT1pwcklZZG83bEJnbE9aY2lvNW9JQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T01:00:01+08:00"
+    },
+    {
+      "title": "Google’s new AI transcription edits out your ‘ums’ and ‘ahs’ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vLXhKVjRXQnEtLXZyWGZGbkU1OEF3RU55dUJlYjVGbVZMQkJJblVrX2hINVNudjhXNHQ4dzNNS1o2T0d3S2xGMmFKMDJpejhmQ3ZubldHSXBPTUNQYkRtUEJLeVpYTkNzcmRrTS0zV2d3eVowNG8zTVNjb0hxMFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:00:00+08:00"
     },
     {
       "title": "'Ironing board' seats to be replaced on Thameslink",
