@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-08-27T03:46:54.536572+08:00",
+  "generatedAt": "2026-08-27T04:17:58.527523+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614836.32,
-      "changePct": -0.45
+      "priceHkd": 614961.76,
+      "changePct": -0.52
     },
     "ETH": {
-      "priceHkd": 19363.94,
-      "changePct": 0.53
+      "priceHkd": 19358.14,
+      "changePct": 0.44
     },
     "SOL": {
-      "priceHkd": 756.87,
-      "changePct": -1.11
+      "priceHkd": 759.62,
+      "changePct": -0.88
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5526.71,
-      "changePct": 0.13
+      "priceHkd": 5520.93,
+      "changePct": 0.03
     },
     "SPX": {
-      "priceHkd": 60264.59,
-      "changePct": 0.12
+      "priceHkd": 60177.49,
+      "changePct": -0.02
     },
     "SPCX": {
-      "priceHkd": 1076.59,
-      "changePct": -0.46
+      "priceHkd": 1094.7,
+      "changePct": 1.22
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1158.78,
-      "priceUsdOz": 4597.2
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 17.23,
-      "priceUsdOz": 68.37
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 643.04,
-      "changePct": -0.41
+      "priceHkd": 642.41,
+      "changePct": -0.51
     },
     "Natural Gas": {
-      "priceHkd": 22.71,
-      "changePct": 4.58
+      "priceHkd": 22.74,
+      "changePct": 4.73
     }
   },
   "news": [
@@ -56,7 +56,13 @@
       "title": "Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T03:41:19+08:00"
+      "time": "2026-08-27T04:06:23+08:00"
+    },
+    {
+      "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
+      "link": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T03:19:46+08:00"
     },
     {
       "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
@@ -71,10 +77,46 @@
       "time": "2026-08-27T03:10:08+08:00"
     },
     {
+      "title": "New Studies Link Menopause Hormone Therapy to Lower Alzheimer’s Risk - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTIxVEVJbEFaMFN6N0tQaFFQRThlQ2UzR1dGUXRKZlZyekN0dmdZalRWU00zMFNsd2FPNkJWWmotYkhRaXQwbGg5QklVOWJiU1o4Nm9ESWZpbUVlQThscWVoVEFUUmo5a2RJOUtEQURwUWhnT0ZfVFVrMVc4aEVhS2MwOGJidE5ROFl5Y2pIUjlCTDA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T03:04:33+08:00"
+    },
+    {
+      "title": "Meta agrees to pay $18 billion to settle US lawsuits over children's social media addiction - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQklxUlA2VWk3Nml5YlJkaFU2djhKRHF4eVNuemxfWFFHc2dxbVVyTEhZeGxOS2tjYmRqbC05Tmc4RGhkcTltcDN1cnpHQWxGUjU3emREMkZuTDFuckRyNEJxbDNDT2pvOEtmNUhvd3o2TW00Z1R2bklRU015ZThnSW1LTkR5UU41R0tqRUlKb3ZSOHdWVVVad2lCZW1yZmN3TXhGLXFzaTU3cWt4WEdXZHprR0pFNHNWMkE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T03:04:19+08:00"
+    },
+    {
+      "title": "Movie Review: What's up, flop? The toon-human hybrid 'Coyote vs. Acme' should've stayed on shelf - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjBpT2hRNUNvUnNaQWNtLU9CLXZ6aGp6ZkY5SW15Rkd5R1RvMjBoQVVDdjVMNE9xVjZJUVRocXAxVFVEV2RnQURpcDNZN3FqYzZWeGFvMEVsVmZGZVQxdWtyR3BYWks2N2U1bTFrcURSSWstYUVMclJDeFVlMV81M1ZMN2VIVUJGV1FOTkw3WVU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T03:02:00+08:00"
+    },
+    {
+      "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T03:00:13+08:00"
+    },
+    {
       "title": "Nvidia earnings live updates: Q2 results, memory prices and AI outlook - CNBC",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T02:44:00+08:00"
+    },
+    {
+      "title": "Judge channels Dolly Parton in blocking Texas drag show ban - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0dlV2U3YnV1bGhnV011NXJtVGxRMTZJZDI2VnNlRDVVZ3lyWU1YTDBPSzk5Qm96WkhzSGNFZmo1US0ydWNhWGNRMlNkb2hBMkNHbHZvZmZDRzZxajNnYTJVMDZ0TjdJaVNtZTduald6WmxtSHhYMlJ0bXZVUWhXTHNqV2xJUklJZVBwWEpmUy1JYksyZVU1OWxOZ3pKY1Zuc2pZcXB5TkRSdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T02:41:45+08:00"
+    },
+    {
+      "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T02:39:00+08:00"
     },
     {
       "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
@@ -83,16 +125,28 @@
       "time": "2026-08-27T02:22:41+08:00"
     },
     {
-      "title": "Automakers thought Canada was getting a trade deal. Then tariffs doubled. - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNGxKTWY4NXdob1VndXB5N2ZlYUxGZ1VhVU9VNWM1M29rSHlrN0ZsX2c3QXVpalk0UlJQb1FqRElrU2dJcXFEcnpnS0NPYTdlSmdidHMwdXNqc25oMXhyUF81UzZ0OGlhamRVRDJrUmtXMFpCNEVzM2tnSnJUcmtSWFEwNWs0ODJpWEVUX0tGVUhzNlJfbFQ4alNFbm9oeTlySWVRUVJMLUJlZEp6MmJTbEJFYTgzTDh3Z3AxUEdCN2FGZUZIWG1qMlIzU0psSE5l?oc=5",
+      "title": "US-Canada animosity could impede an end to a trade war neither country wants - AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcDFBLTNoRzBfUklOeE5RZDVndmoxRDN1aTFDT0JTX2JxZEVURnZJVHVpcUpYcUFubDdmTDhKamdRbnM2TW9xQ3pTOHh6MUVGelpfc1hwN05ERjNaMko3X3RQTVhnWmNZRVZ3R0doaS1NWGEyQWZGNEhQZV9iM1RuVFpOZjdEZmRRZVZkS25JWDFyYXpzTTNfLWhvcDB0dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T01:57:06+08:00"
+      "time": "2026-08-27T02:21:00+08:00"
     },
     {
-      "title": "Before Hegseth fired him, top general was advised to drop Kid Rock probe - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRU1RbzNpMzFhWFNmaXQ4ZmhkYkpKNWxyMjRzcWhTUVFLTklPMTZpbFB0cmhybFJQTzZIWUJHSlJFZUU2UEpUWEJ4V0hMYjY5NkYwOWtDQnRULXFQOFpicjBJNUlIcHVQTE9wbGRFMkV0SHpVOGE2V1ZHMDBlQ0FmbnFKVGhkY3BSejVBRnREdTFaZ2tsSldvUDZjNmtvcW90M1ZlSnE0UWRDbjlsT1RZU1B6MzF4aFFrMTlYNUZTZjA2ODZzT2l3QzBaSGdzVHBqQnJF?oc=5",
+      "title": "FDA Approves Drug for Pancreatic Cancer in Milestone for Treatment of Deadly Disease - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZHFjR1VnNGUzMW01QXQyZ3ZZVkExbzZWd3BEbmQ1OEpvTUk0anptWk5tQkpndWhrcEdFVWcyX3ctZnB0YnNNc0pxanVXUlV3bVlzenhUOEJfQ0M5b3N5MzlVZXlGTTcyNEJtNXBkMmdub3BlZmhhWDNrekxkOTFxU2VFVk83UllpdzYtcVFEZ1ZfVTNlTjVDNU1DMTlqTlNRbWtGRkZqeENXa2xIT0puYmdieUNkaXlldjV3UDVKOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T01:44:55+08:00"
+      "time": "2026-08-27T02:21:00+08:00"
+    },
+    {
+      "title": "Man convicted in murder-for-hire killing of Microsoft manager on Florida road - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEVHSmlxanZ4UldLVzdzU045NjNwSGRfQ1duRHFYS3hPLUNwSmNaWjJYZVlKVGRHeHVKM2NfM0FrMDNwTm0yY2tfR0w1cGZMbnlhOVJ0dEhzVHdsbGowc19iZVR4THR1NzZvZzgtd2d5eDE3akF1em1pVlg5ckhCSVlFQW5UMXZXcTVmd3VicEluNEkwVG4ycnFBQ0ZjNG1OaEZGbEQzMFFtTnRDWmtoRVZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T02:14:53+08:00"
+    },
+    {
+      "title": "Judge awards Blake Lively $400,000 in legal fees in Justin Baldoni case - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzRUcUNNTFlqeTNfN1VGT0FwTjNTVkIwU0VhYnhXN0p3RG9kT3l1WFN4c0U0c21VeEVGLUVzQU5NZlpBdGFXNVVkRmctN2JjSzFqY3BqaG5kMnpjejUyVUg4YjNXaUs4QkxPMGNRclRuMERoRmZRQUtuU2RZTDVuczgxYldobFBOQnlF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:45:00+08:00"
     },
     {
       "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
@@ -107,70 +161,16 @@
       "time": "2026-08-27T01:34:32+08:00"
     },
     {
-      "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGJwME5jMU9SNWI3eUlYMm1qc0tQdFFydEhIN01La05ac1ZWV01iNnFON0Y2cW5QUUd5SkFPLWJrWGdtRkg0WlItSG1DYlExVjEyMU5vc0ExQS1fOFc1SHJOdTVKWHV2MlVxWlM4eDVqbmtuSDI0aUNmOHFxV0ZHNW0tVldxblNSVW9ZUmhEWlIwQnYwaC0tdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T01:31:00+08:00"
-    },
-    {
-      "title": "NASA Is Launching a $4 Billion Space Telescope on Sunday. Here’s Why You Should Care - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbGxudUstbmtQR1VHTFVyanhqcTBmLXcxanlmODNFYnZJaEdQUElfTkl6WGVTV1ZzdHlHdTRMTUkyVTUxVmxIX3hySFlJRWxoSlJwSW9kUHVURGVMcHRpdnozT0I4b1NnaXcyVUV5WEhrSHMxZVl3ejdEbXhOY1dfdGFMd3ZkR2REdHVmWVBxQUJLRXo1WkFSdmhDQ050eG5aOTJkLU1rSGItYmlJZ1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T01:30:51+08:00"
-    },
-    {
       "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now - NPR",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zV0dlRU9hWVdzR21ONTA4bE4wN0tTaW81ZUd0aGFpWlE2WmloWWNHN1Z1MmxfLW1fcmxrZjZVemhnNTBzV21LSVQ1WV9GOS1ybnhpT0N5ZlN6bFJkVTlwb2pvOEYwRVVnXzBYR3c2VXlhQ2EwVmZQZVBBRGNoZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T01:15:17+08:00"
     },
     {
-      "title": "Google launches Gemini 3.5 Transcribe, which powers Gboard Rambler & is coming to Chrome - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84YnFlLVZMcWFLeVhtdThNVVpkdS0zc0hTemVJcXZJSHNJOGtzV2stRjd1aDRJalhyazQ2NkpkZ1pZdWhPa0pTdnM0bFBMbHRyRkdIMldBUGFabm1WdGhGU3h3cFZxa3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T01:00:00+08:00"
-    },
-    {
       "title": "'Ironing board' seats to be replaced on Thameslink",
       "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T00:56:34+08:00"
-    },
-    {
-      "title": "RFK Jr. responds to Shapiro over measles-related deaths - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDlRLVBpdWFNNF9TeGlLQ2I5b0JEalctZFNuN0Jfd3RjQThfSDhZcWZyaDUzQVlHMk1KaWNsUXN4NG5MelpXeXJxeXEyeXQxU0JQb05qRHBwUXhOZkV2WGlGUHdNdXIxTWNVQzZKcHdEWFplWl9jQjFkZGZYa2ZybjA3NNIBiAFBVV95cUxQV0NmVlhnNkZPMExtRnY2SkM2RFNUTFB2dG44SkFYa3pIVnY0bzJDX0VaUnpkWnRrVnFfNXl5Nl9PM29xejFjTVU1Mm5uN0FDSlU1cHZsWjBZV1gzY1RwQ0JiWlVTTzJvVXdHR3daNzVKbXNFRGtKMWlyR0VUX2RJeWNjMHd1amtO?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:54:00+08:00"
-    },
-    {
-      "title": "Apple is holding its iPhone launch event on September 9 - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOelpOeVdQVGZxY28wZmZVR3lBemdQbEo5Q0NsWUZxckhKdWlpcmN5Ri1velF0eE9faG1uZVQzTU9Fa3VvZWlZSmdsdXZoakVjLUY1SVpRNWNhbUpvT1dNUEZBYmpKWmE4S0x3LWdwVW5RU2tzSDhzMV9lSjNJNnprb0FTOFlESmdBeEpqRUNGQ01MNW5E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:53:07+08:00"
-    },
-    {
-      "title": "Blake Lively Awarded $400,000 in Attorneys’ Fees in Justin Baldoni Case - Variety",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVNFUFBmSUxobVg0YnA1bkpPZVd2d3ZvZzFsN0hoVGdFclpuZ2dUWTRPRU9jUGFyUHI3dW1hMWR1SnJVYXNYSm1mUDdYMm53dng2SW83YThqal90OGhzWmVrQnhqQURZUTJHZFV3b0lRRUNUV1ExendmU09yRGwwallyU1FlT1B4U2drM0VUUmpRMFJTajNWQTJKc0M?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:48:00+08:00"
-    },
-    {
-      "title": "SEC reportedly settles on punishments for programs and head coaches who sign NFL players - FootballScoop.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU0U4NEF2RUlLTV80UmllR0Z2aWRmWFQyenhOSVgxYmpock9vdlZzWmsyek9PRkhzWE1CQ0JtdkVrb2w1bkxfbkFVcXRQUGY0UVdFdUtScEJNTk1lcTZJWW10ZVVKOUptNjJJY1V6UFJLZEpJTHpaN1BoWVctX0d2STEycGRvdEJsWnp1eWotNU1SczdCcS1rU0VpZ1FmZjgyRUdmSTNyano3c1JIOGtrczNPUXJXT0E1bVg1Ykh0dWFJM196U2FVU3BsV3dQQ1R5QUVtZFNR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:07:45+08:00"
-    },
-    {
-      "title": "NYC homes hidden behind LLCs complicate pied-à-terre tax rollout - Gothamist",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLXk5TjVqbGRnaGxOV0JScDFKSzBRWkUzRUVxb29pczRaSFVEMndFV2ZRZmF5Q2lUOUdLOU9OZkZhMXl2Tl9MR3M4U3J0VnVkbXNPQnJvUDRKY2V2eHZ1R1JvSUFXOHdlcm9fZE1QUFNEMlNUdlpXODZ5RG95bEk3blVqNzBzU3BtQWdtMWVibGFCTkU2MDRBQUhfcXE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:03:00+08:00"
-    },
-    {
-      "title": "LOOK: Jim Brown's statue vandalized as Browns fans protest Deshaun Watson being named the starting quarterback - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOEN3NkJVNHMtNVE1cG5vTXlwSFBRaXVmbHVwSmZ2andvbXVYeklXTlBrUnpYQVpDLVVPeTUzNlB6eFhpcUtFN2lLMnV0LVc0RzJaeWxyamRWbnl2ejZHcjZuRmFULXhMWUpWMzRCdmVId2loXzA2WGU0SXdiLS1JUTV4YWRNV0VpdFVrWlNTcHhCb1ZWd3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:01:24+08:00"
     }
   ]
 }
