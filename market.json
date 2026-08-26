@@ -1,62 +1,86 @@
 {
-  "generatedAt": "2026-08-27T00:08:27.652725+08:00",
+  "generatedAt": "2026-08-27T00:40:28.634698+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612147.2,
-      "changePct": -1.69
+      "priceHkd": 611700.32,
+      "changePct": -1.51
     },
     "ETH": {
-      "priceHkd": 19220.94,
-      "changePct": -1.15
+      "priceHkd": 19186.68,
+      "changePct": -1.13
     },
     "SOL": {
-      "priceHkd": 752.88,
-      "changePct": -2.24
+      "priceHkd": 750.76,
+      "changePct": -2.62
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5515.83,
-      "changePct": -0.07
+      "priceHkd": 5507.33,
+      "changePct": -0.22
     },
     "SPX": {
-      "priceHkd": 60152.4,
-      "changePct": -0.06
+      "priceHkd": 60051.74,
+      "changePct": -0.23
     },
     "SPCX": {
-      "priceHkd": 1070.32,
-      "changePct": -1.04
+      "priceHkd": 1069.77,
+      "changePct": -1.09
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1159.71,
-      "priceUsdOz": 4600.9
+      "priceHkdPerGram": 1156.51,
+      "priceUsdOz": 4588.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.17,
-      "priceUsdOz": 68.14
+      "priceHkdPerGram": 17.15,
+      "priceUsdOz": 68.03
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 649.15,
-      "changePct": 0.53
+      "priceHkd": 651.27,
+      "changePct": 0.86
     },
     "Natural Gas": {
-      "priceHkd": 22.84,
-      "changePct": 5.16
+      "priceHkd": 22.78,
+      "changePct": 4.91
     }
   },
   "news": [
+    {
+      "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T00:02:54+08:00"
+    },
+    {
+      "title": "Apple announces iPhone 18 Pro and foldable iPhone Ultra event: ‘Surprise and shine’ - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZm9DZHFBLWlkSmprdGpmYVZFa1NtWlhnTS1YcVZrWi1pWk01SVNsYnhlNjBQNVVlSVlJLTZuVFdzdFRlaWdDMmk4OUFZZ1VYX2VnUG45SDB4WkJKRWVQSk9xaGVwMHdKTmVOc01kYW1pYWJISWZKZzAzay1UeUVjYnVEX0p4V3puSWxSNmdQQk4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T00:02:00+08:00"
+    },
     {
       "title": "Prince Harry and Meghan are back in the U.K. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1F2akl0SEJFcGYxZHJHWVNTUjQxcU11OGNiVTZ1NDhoRVZIUTBFU3g5RTgtVExVSTFIa0VYQU5wQkViZ2Y1Z3dlbE5qc0RTcW5HYkZYdXpJRGc4ZGJ0aF82aWY1R0tOVTRocWNhVHNGTXVkYno0Q1RzZkpTRlZVVGRlTVVYRFgwb1Nn?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T23:57:09+08:00"
+    },
+    {
+      "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:55:23+08:00"
+    },
+    {
+      "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
+      "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T23:42:45+08:00"
     },
     {
       "title": "Tim Curry, ‘Rocky Horror Picture Show’ Star, Dies at 80 - Variety",
@@ -65,22 +89,28 @@
       "time": "2026-08-26T23:40:00+08:00"
     },
     {
-      "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+      "title": "At least 75 killed and hundreds missing after flash floods in Nepal and China - NPR",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wSzdOdmhIZ2RSTEtQSEpDMnVQbU5iQ1gxUkVMNUdJUS1KbDl4ZDc2Z21aaHNpUXFwWWxvcUdQTXMtbFR3YXFKbUtIS2sxNWRaUmV0NlJ3NkxYY3BvQUoweVM0WmlDV3NRNmo1LW9B?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T23:39:00+08:00"
+      "time": "2026-08-26T23:29:48+08:00"
     },
     {
-      "title": "Hurricane center still tracking 1 Atlantic system, but drops development chances - Orlando Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWVsbElZQnlPSjVJakUwMmlYWUZCMGZjSEIxd3FQNGdLR3EwRVFBZHd0UVBKUktlQTE3UHBOQURjckR6SkFfTzBmX1JJNEFmSnVPUkNuRWZ5TFlXUW9zYzNTU29iRElock5rMFJEczNuZnpoUDlmd3JYTnVZMFhQdlBJcGZ3VEstMVd0aTVBdEpJd25vdzBrblJfdW5pTTVBOUNFRA?oc=5",
+      "title": "Stock Market Today: Meta Stock Slips; Investors Await Nvidia Earnings — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0pfSDcyZUtLRG5pdTFIeGhRMzVEWWhhaVlrMmtRY1Q3djNheXpfWU5UWkRJVWlfZ0hxby1MV0NENHgtc2d1Y3BzRkV0TnVSaVdxMnM0ejJzT0hkRDM1NnZ4dTlDb2x5b3dFV2tPbDlVQVh2dmIteXZubkFpZVcyTzlzdmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T23:12:48+08:00"
+      "time": "2026-08-26T23:28:00+08:00"
     },
     {
-      "title": "Fed, NASA and DOJ among victims of China hacker group: Court documents - CNBC",
+      "title": "Fed, NASA and DOJ among victims of Chinese state-sponsored hacker group: Court documents - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNG1sMXJ5ZGh6eXd0clE3YTJhUEN3ZndWclV2UGtvTWVSREdUZmwyd0VJTlN4YWNLa1lEeGc4Wjc1ZTdrNlBqQmNhV0sxSE82NXBzSjZyWFdJNlhOUGF3MU5QMzdsWFdVTFhFZDdVODJ5aUZ1OTZEYjVacUxhaGvSAYQBQVVfeXFMTVNhY0FuV1NqcDczTzRuVHhfLS1qaWdzak1CMGRCSGlmc2NxR1BVNVY4MGhXZ3VOZVVEcXk3Q09oX2lyYm4wMkt0cWxsMXQ2YWhVU3FuQjlTQ1BJQWJwd1ZtVTdmc19iVmxpVVV4Qnh5bzU4dUZCcjFVeVZzOXhiWTMwQjl3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T23:11:14+08:00"
+    },
+    {
+      "title": "Democratic states file new lawsuit seeking to block Trump’s order limiting mail voting in midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlCX2VYelNHWGIxbzJvNUw1MDVnWk50WjhYRzhqRjBLRzZ3WmJuanNIdks4LVVUYmNGZUo5UmdGTFVTTkRHTmlrN01pcV9BOS1UcENDalVXT1hfYlRfQWNzZlF5dkZzUEpvaTN0cUFCLXBaajNpRU9QalNQeWdaT2tRWVFPWERxczJ2Ul9IM3RNeENNR05jeDFYUk9MbjgtbU5sZFpXampLVGRlWmZn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:02:00+08:00"
     },
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -89,28 +119,10 @@
       "time": "2026-08-26T22:42:03+08:00"
     },
     {
-      "title": "Pakistan PIMS hospital fire: Witnesses say rescue was delayed as Islamabad blaze killed 14 babies - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WQVBvdWdDbWdxeDFrVE91R2FMLV9lNWk4UERQcWlNZVZvWk5xZkl1NF9fbmgzdnZoa0pIWmZZM2FRVzNpTS1yanlDS2FJVTllemZ0d0pza2dUUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:42:03+08:00"
-    },
-    {
       "title": "Reform proposes £30 tax rebate for HMRC phone delays",
       "link": "https://www.bbc.co.uk/news/articles/c804rd7leppo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T22:41:02+08:00"
-    },
-    {
-      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhhMEdlSGN0LXpUaWFENWt1ZzJieUx4Wmtudm5kb3pZUHVHT2cxcG9aYnFzNmxZY2NYYmZJbTlneko0ZjJ3T3A3QXRhRFFvYXBmamdvSUI3ZUtiLU5XNnZHTkl5MWVPVEswUG53UnRqczNkQlhMeS1Zb01mdlpOVWV1NWRjOHY3T1d5aVBpVFZ3R0s1YW9UNFY1WFNvM21GNlA1THdoVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:33:40+08:00"
-    },
-    {
-      "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:32:54+08:00"
     },
     {
       "title": "Xbox announces disc-to-digital feature that digitizes your physical games - The Verge",
@@ -123,12 +135,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T22:29:00+08:00"
-    },
-    {
-      "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcHZ4b0Z3a0UwYkFxV2loZlZSUVQ4TUtKTjhLc1NxcDBJVDVRNXZ0WnJqNVRwY1o0UmRYY2lyaXJFaE1LVDVEQTJweFg1NjNkS1RYaEo5TmpjeUV6MGM2aXRGVXZKZUUzWWRnYXNrSEdkc3ExUTBXQXk4WGFja2ctOXN0d0U2c19fWFJ5SEMzZG4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:24:00+08:00"
     },
     {
       "title": "Meta agrees to pay up to $18bn to settle social media case",
@@ -155,22 +161,16 @@
       "time": "2026-08-26T21:49:55+08:00"
     },
     {
-      "title": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1lzT2Zvdk95amd1cnVkdTRzVU5iVEdTd3FRMlFyUTh3X0RsMm9MUlZaUmc0a0tia192c2hvX3JEM25CUWJwc1ZRM0JvR3RBdGZESG5nTTdMUzBKdFRjUmdrRWVQMDQ3VlFlSVVnbUZVampPODhVSVR5cEs3elJFQW9UU2xzaXB0WjlQaHJacERiM3A2TTJjVnJ0akdsXzhx?oc=5",
+      "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHFUS1o5eHRvQUdSa1hMNW9VY3RwUjB0R3ZVUEoyeHVNeDlVSEF6UzdlaUR1ZF9OT1JVOTJEUmJkcTd0YjJBQVBscXhpNG8xYUYtQmk0YXV1ckgyNmZXTG1OOWlTLUZHYjJXcmNLVmFfM1lIaXpBYWFoY1BVUnZxOU5oXzJLdFg4dEtvcWpYNVRNOEJFREFHM2NraWtvY19uLTBQcXhUUW5rTDhmYkE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T21:39:00+08:00"
+      "time": "2026-08-26T21:29:57+08:00"
     },
     {
-      "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
+      "title": "Iran War Updates: Trump says U.S. \"achieving a very big victory,\" war \"will continue for as long as necessary\" - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T21:28:00+08:00"
-    },
-    {
-      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TWjRYRDczeHJMLWZEczhIdzZYQmJPcFEyU0RqUlNIVDJHbUZSM3paVDhIQmlXX296U0pJaWt4YWpNaXZDMl85SlFyWjNrU3JOV0U0aFhSQXN0NGdfcDhMYnFwS0hUc3ZRcVQtVkFSYUU1eXJicm96TkJhMFk5d9IBgwFBVV95cUxQQXN1dFVRNHdaY2s1WVdFXzBiUFl0VjN6Z3BMR1RJVXFWQVRtNm9uQlBwNl9KNUxTVEUyalRTM242OHFNaDNzVkNFdWNmb2RQenNLQ3lNcmJYWlBiTlp5SWRuUzNoNmdqbWhqSWJqMnZteEo0b0hBR1hVZjg1UGN6VzRQQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T21:12:37+08:00"
     }
   ]
 }
