@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-26T23:37:15.092411+08:00",
+  "generatedAt": "2026-08-27T00:08:27.652725+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611237.76,
-      "changePct": -1.79
+      "priceHkd": 612147.2,
+      "changePct": -1.69
     },
     "ETH": {
-      "priceHkd": 19166.06,
-      "changePct": -1.26
+      "priceHkd": 19220.94,
+      "changePct": -1.15
     },
     "SOL": {
-      "priceHkd": 751.78,
-      "changePct": -2.48
+      "priceHkd": 752.88,
+      "changePct": -2.24
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5515.91,
+      "priceHkd": 5515.83,
       "changePct": -0.07
     },
     "SPX": {
-      "priceHkd": 60143.23,
-      "changePct": -0.08
+      "priceHkd": 60152.4,
+      "changePct": -0.06
     },
     "SPCX": {
-      "priceHkd": 1066.0,
-      "changePct": -1.44
+      "priceHkd": 1070.32,
+      "changePct": -1.04
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1159.51,
-      "priceUsdOz": 4600.1
+      "priceHkdPerGram": 1159.71,
+      "priceUsdOz": 4600.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.18,
+      "priceHkdPerGram": 17.17,
       "priceUsdOz": 68.14
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 645.55,
-      "changePct": -0.02
+      "priceHkd": 649.15,
+      "changePct": 0.53
     },
     "Natural Gas": {
       "priceHkd": 22.84,
@@ -53,21 +53,45 @@
   },
   "news": [
     {
-      "title": "Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dRVTg3ZWtFRUJ5eDBpeFU5dHJfbVd5MXI4cUJ2aTR1NUFCOXZRMVY4TThva1Z0VkxRckttUlhjZ2wtaFJoTzd0bkFtazVBMmpYaHBDMmVieXdqaDhVTGUzR2FmMl9VNFJIbU1qTlM5X3d5VXlPTkNxdnNMalBpaG1FdUNiRkwyWGptenNOR2Y2UWhucExmcXJFNzdwZw?oc=5",
+      "title": "Prince Harry and Meghan are back in the U.K. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1F2akl0SEJFcGYxZHJHWVNTUjQxcU11OGNiVTZ1NDhoRVZIUTBFU3g5RTgtVExVSTFIa0VYQU5wQkViZ2Y1Z3dlbE5qc0RTcW5HYkZYdXpJRGc4ZGJ0aF82aWY1R0tOVTRocWNhVHNGTXVkYno0Q1RzZkpTRlZVVGRlTVVYRFgwb1Nn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T23:15:16+08:00"
+      "time": "2026-08-26T23:57:09+08:00"
+    },
+    {
+      "title": "Tim Curry, ‘Rocky Horror Picture Show’ Star, Dies at 80 - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ0NuMzdtNkkyMUtBU1RvOUtULThTUTdjcEpYZXViLS0wMGladWs5VDJlRHpOZEFScGU0eW92d0diekJodjhpSUpQRXBXUWYwS0dqc1JqT2ZKeFFzT0ZIN0p2TmZQZ2lfNW9uMFBkVkI5Vk5zWXV1bDQ1T3hDdDIwZG5uMkxYOTQ3UzJLQjJRWE43dkVZRlFwdHhxVDFiZ3I5YnI5dXV1NFU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:40:00+08:00"
     },
     {
       "title": "Hundreds missing and many feared dead after massive flash flood hits Nepal-China border - CNN",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T23:11:00+08:00"
+      "time": "2026-08-26T23:39:00+08:00"
+    },
+    {
+      "title": "Hurricane center still tracking 1 Atlantic system, but drops development chances - Orlando Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZWVsbElZQnlPSjVJakUwMmlYWUZCMGZjSEIxd3FQNGdLR3EwRVFBZHd0UVBKUktlQTE3UHBOQURjckR6SkFfTzBmX1JJNEFmSnVPUkNuRWZ5TFlXUW9zYzNTU29iRElock5rMFJEczNuZnpoUDlmd3JYTnVZMFhQdlBJcGZ3VEstMVd0aTVBdEpJd25vdzBrblJfdW5pTTVBOUNFRA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:12:48+08:00"
+    },
+    {
+      "title": "Fed, NASA and DOJ among victims of China hacker group: Court documents - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5YNG1sMXJ5ZGh6eXd0clE3YTJhUEN3ZndWclV2UGtvTWVSREdUZmwyd0VJTlN4YWNLa1lEeGc4Wjc1ZTdrNlBqQmNhV0sxSE82NXBzSjZyWFdJNlhOUGF3MU5QMzdsWFdVTFhFZDdVODJ5aUZ1OTZEYjVacUxhaGvSAYQBQVVfeXFMTVNhY0FuV1NqcDczTzRuVHhfLS1qaWdzak1CMGRCSGlmc2NxR1BVNVY4MGhXZ3VOZVVEcXk3Q09oX2lyYm4wMkt0cWxsMXQ2YWhVU3FuQjlTQ1BJQWJwd1ZtVTdmc19iVmxpVVV4Qnh5bzU4dUZCcjFVeVZzOXhiWTMwQjl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:11:14+08:00"
     },
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
       "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-08-26T22:42:03+08:00"
+    },
+    {
+      "title": "Pakistan PIMS hospital fire: Witnesses say rescue was delayed as Islamabad blaze killed 14 babies - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WQVBvdWdDbWdxeDFrVE91R2FMLV9lNWk4UERQcWlNZVZvWk5xZkl1NF9fbmgzdnZoa0pIWmZZM2FRVzNpTS1yanlDS2FJVTllemZ0d0pza2dUUQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-08-26T22:42:03+08:00"
     },
     {
@@ -77,16 +101,28 @@
       "time": "2026-08-26T22:41:02+08:00"
     },
     {
+      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhhMEdlSGN0LXpUaWFENWt1ZzJieUx4Wmtudm5kb3pZUHVHT2cxcG9aYnFzNmxZY2NYYmZJbTlneko0ZjJ3T3A3QXRhRFFvYXBmamdvSUI3ZUtiLU5XNnZHTkl5MWVPVEswUG53UnRqczNkQlhMeS1Zb01mdlpOVWV1NWRjOHY3T1d5aVBpVFZ3R0s1YW9UNFY1WFNvM21GNlA1THdoVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T22:33:40+08:00"
+    },
+    {
       "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T22:32:54+08:00"
     },
     {
-      "title": "Xbox's disc-to-digital program goes live for Insiders on Monday — Here's how it works - Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUVhiZGxkX1k4VGJlVTdRNE1LWFlpUDJyNG0zZGI1a0ZUYXRFMFFuV2xmRnR0MDBzOUdhVzNuM0dndHJfc2o1MjBSczZsY2Y0aWVBd1FmWjNOSzRGMTZWNDBIMW5kRlVmY25teXJoNEdxWFV3OHJZSmVBZHJEQU8yRUg2VHdkdkl3MW5vZjZMSHdhbGc5bzJkTklUcmJISGdEWEdIRjZoVXFBeC1Kel9YR2hvNVZZU0RVdTJ3R1lkQlRSdw?oc=5",
+      "title": "Xbox announces disc-to-digital feature that digitizes your physical games - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbDc3R2k3alNJd2RTNm9RdHpfUmRzMURBeWxXVG93M1RtQlF2UHA5QzFnRTY5bmZMMmhiRDdPdjBJb0kyQ2VoYVhKbEZDR2hlUWJnMGtNUGlJcGgydk1laGdaT1VscEIzemNTR2E1Uy1Ub0pkTzctMUtFSC1GQkk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T22:32:44+08:00"
+      "time": "2026-08-26T22:30:00+08:00"
+    },
+    {
+      "title": "Key inflation gauge remains elevated during Iran conflict and ongoing US trade fights - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGxWNU1peGt5RWVFVmx6M2xLMVp5OUlfcmlzWFp0WXFoZnRCcE1jSklyNjV1bzZxTmxucmxuSi0yaVRBYXNsdWVVOUFhRkpsVjhQOGpYQ3JEYV9NN2M3c1YwbGN0RVZEQUl2QmZGTFphRGtoTUN4d2tCSlE1QmpITTJTTjZtdG5wdW9wTFhHNEp6QmtYRmhMeEx3TjA3OGVjZmZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T22:29:00+08:00"
     },
     {
       "title": "Trump mulls renaming Lake Ontario as ‘Lake America.’ Canadians balk at the idea - AP News",
@@ -95,22 +131,10 @@
       "time": "2026-08-26T22:24:00+08:00"
     },
     {
-      "title": "Rupert Grint To Join Broadway’s ‘Harry Potter And the Cursed Child’ In Ron Weasley Reprise - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObmtXZE5MXy1XWEVndG5CU0s2dVgxYkVJcFRSU05tZ1BLOTJoNnhrQXZybVVtWDg5WV84RVpib2ZNbGxFbnF5Q3FIdmVqQ0JwbE1iVUZvRnJZcHZaWEd4aFluQzNrcy1YM3p4U184NUUycGIxbmJrOXpYdmlSNGlGTmZJVGZxNzJJbjAzMGl1V2lucWFqVUh6dG03QW4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:18:00+08:00"
-    },
-    {
       "title": "Meta agrees to pay up to $18bn to settle social media case",
       "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T22:10:17+08:00"
-    },
-    {
-      "title": "U.S. State Department Pauses Immigrant Visa Applications - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdU9IZ283QnVDZ2x2STVPdXRBUk9HRjVzUUdHZ0xVUGZKUXVUelczVTZxa1lyWGNpZXU3bmxadk5JbTkwNktIbFU3NWp1Vk9NTlVoUTNsSUNyLVk0c2s3cVZfTGhHNHR0aXZjWVJDem4yTmJlallQZGh2N3VOdkFyTUcwYWlvTGYtbG8zTXJqcTZFU0FEbUVlTmI2R2JzN1M4NUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:04:00+08:00"
     },
     {
       "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
@@ -119,10 +143,22 @@
       "time": "2026-08-26T21:55:22+08:00"
     },
     {
+      "title": "Rockstar Games Responds to Grand Theft Auto VI Gameplay Leaks Ahead of Extended Look Trailer - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmNLRTMwT1BzTUtDRnJwNFc4TkZuZW5oRUtTUm9CQzZ5X21VSHBjYjVWRmpCRHFNQ21CVTBkcVhORjFUNzdmSmRVaTdUODJQNzhzXzhzUmpLbUJQdlVGNjR3X1NpUkxGbS1xT0hiTnBiTURPVDN4WU45UkpoN2UxU1VzZGM0RC1YNTN0dnMtYnlXbEtFMmhWUlNaNDBHOHRfRHFPOEprbEJtSW5LUFdFU0Fld2RXYnJUU0FFdWk4YVE2VGpWOXJhTVFyMA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T21:50:30+08:00"
+    },
+    {
       "title": "Guinea's president dismisses 173 soldiers, including coup ally, for desertion",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0j3nyl4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-26T21:49:55+08:00"
+    },
+    {
+      "title": "Apple upgrading recent Mac mini orders to M6, M5 Pro models for free - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc1lzT2Zvdk95amd1cnVkdTRzVU5iVEdTd3FRMlFyUTh3X0RsMm9MUlZaUmc0a0tia192c2hvX3JEM25CUWJwc1ZRM0JvR3RBdGZESG5nTTdMUzBKdFRjUmdrRWVQMDQ3VlFlSVVnbUZVampPODhVSVR5cEs3elJFQW9UU2xzaXB0WjlQaHJacERiM3A2TTJjVnJ0akdsXzhx?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T21:39:00+08:00"
     },
     {
       "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
@@ -131,46 +167,10 @@
       "time": "2026-08-26T21:28:00+08:00"
     },
     {
-      "title": "Jersey earnings rise by 1.2% after inflation",
-      "link": "https://www.bbc.co.uk/news/articles/c70ljwz9ddxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-26T21:07:55+08:00"
-    },
-    {
-      "title": "2027 PGA Tour schedule highlighted by new opener, Cadillac Championship move, two trips to Pebble Beach - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEWmNBQkpuU2VhX0RJdmRjYko4TjNJeEpHeVVqX3pqbzF4XzdnVzUwazNNaFRHSXAzRWRSYWxRTkxQYy1fa00zTTZ0OFFqcFZMSFN1SE5Vczh6ajZHZHZHRzFXTFA5ZFlXT0pj?oc=5",
+      "title": "Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TWjRYRDczeHJMLWZEczhIdzZYQmJPcFEyU0RqUlNIVDJHbUZSM3paVDhIQmlXX296U0pJaWt4YWpNaXZDMl85SlFyWjNrU3JOV0U0aFhSQXN0NGdfcDhMYnFwS0hUc3ZRcVQtVkFSYUU1eXJicm96TkJhMFk5d9IBgwFBVV95cUxQQXN1dFVRNHdaY2s1WVdFXzBiUFl0VjN6Z3BMR1RJVXFWQVRtNm9uQlBwNl9KNUxTVEUyalRTM242OHFNaDNzVkNFdWNmb2RQenNLQ3lNcmJYWlBiTlp5SWRuUzNoNmdqbWhqSWJqMnZteEo0b0hBR1hVZjg1UGN6VzRQQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T21:00:00+08:00"
-    },
-    {
-      "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUGJwME5jMU9SNWI3eUlYMm1qc0tQdFFydEhIN01La05ac1ZWV01iNnFON0Y2cW5QUUd5SkFPLWJrWGdtRkg0WlItSG1DYlExVjEyMU5vc0ExQS1fOFc1SHJOdTVKWHV2MlVxWlM4eDVqbmtuSDI0aUNmOHFxV0ZHNW0tVldxblNSVW9ZUmhEWlIwQnYwaC0tdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T20:36:00+08:00"
-    },
-    {
-      "title": "Before Hegseth fired him, top general was advised to drop Kid Rock probe - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRU1RbzNpMzFhWFNmaXQ4ZmhkYkpKNWxyMjRzcWhTUVFLTklPMTZpbFB0cmhybFJQTzZIWUJHSlJFZUU2UEpUWEJ4V0hMYjY5NkYwOWtDQnRULXFQOFpicjBJNUlIcHVQTE9wbGRFMkV0SHpVOGE2V1ZHMDBlQ0FmbnFKVGhkY3BSejVBRnREdTFaZ2tsSldvUDZjNmtvcW90M1ZlSnE0UWRDbjlsT1RZU1B6MzF4aFFrMTlYNUZTZjA2ODZzT2l3QzBaSGdzVHBqQnJF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T20:32:41+08:00"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T20:32:36+08:00"
-    },
-    {
-      "title": "Prince Harry and Meghan arrive back in UK, six years after leaving royal life behind - CNN",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yUnZqLURtYUR3b1BZZW5uM1hBRUlZSEJqWWE4UXBwMEZnbHVTTEc3TVFzOXU0VFZBcW5Dc1EyZ0I2VEVCTnNqSVB2NXpobUhRRmpOMXNGUDVRN2I4ampKNEpvSWdBOUNYLVd2cy02S29taXFkS0o0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T20:23:48+08:00"
-    },
-    {
-      "title": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
-      "link": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T20:17:12+08:00"
+      "time": "2026-08-26T21:12:37+08:00"
     }
   ]
 }
