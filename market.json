@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T19:26:39.207710+08:00",
+  "generatedAt": "2026-08-26T19:57:48.050311+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616678.72,
-      "changePct": -0.77
+      "priceHkd": 615385.12,
+      "changePct": -0.8
     },
     "ETH": {
-      "priceHkd": 19332.66,
-      "changePct": -0.48
+      "priceHkd": 19321.84,
+      "changePct": -0.58
     },
     "SOL": {
-      "priceHkd": 763.93,
-      "changePct": -1.54
+      "priceHkd": 760.87,
+      "changePct": -1.67
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1164.3,
-      "priceUsdOz": 4619.1
+      "priceHkdPerGram": 1165.21,
+      "priceUsdOz": 4622.7
     },
     "Silver": {
-      "priceHkdPerGram": 17.28,
-      "priceUsdOz": 68.54
+      "priceHkdPerGram": 17.32,
+      "priceUsdOz": 68.71
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 628.3,
-      "changePct": -2.7
+      "priceHkd": 630.18,
+      "changePct": -2.4
     },
     "Natural Gas": {
-      "priceHkd": 22.67,
-      "changePct": 4.4
+      "priceHkd": 22.68,
+      "changePct": 4.44
     }
   },
   "news": [
+    {
+      "title": "Bill Gates was an AI optimist. Now he’s scared of what could go wrong. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T19:34:38+08:00"
+    },
+    {
+      "title": "The heart, hope and steely determination behind a musical legacy",
+      "link": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T19:32:11+08:00"
+    },
+    {
+      "title": "California couple confront their surrogate in a Texas court as dispute over newborn escalates - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVljY25RRE5Ram1YUU9rN3htSEg1b1FRWWE0STlSWF9FT3lJTUNCWVVBQnhaTEZ2eVozNlRfSy1OOEJHa0k4QjVWWDlOeVEwMXl2eXBTR2ZUQnFrblNybWt0N3d3NlhOZTJyZjFueWVncGlPalNNaG1oLUV3RmJSTmh3SmhyTEk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T19:10:47+08:00"
+    },
     {
       "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
       "link": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
@@ -59,16 +77,10 @@
       "time": "2026-08-26T19:03:50+08:00"
     },
     {
-      "title": "Seventeen dead and hundreds unaccounted for as flash flood hits Nepal-Tibet border",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-26T18:56:50+08:00"
-    },
-    {
-      "title": "Bill Gates was an AI optimist. Now he’s scared of what could go wrong. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T18:56:20+08:00"
+      "time": "2026-08-26T19:02:22+08:00"
     },
     {
       "title": "What will the energy cap changes mean for my bills?",
@@ -77,10 +89,16 @@
       "time": "2026-08-26T18:52:02+08:00"
     },
     {
-      "title": "Massive flash flood hits Nepal-China border, hundreds missing and many feared dead - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+      "title": "‘Major casualties’ feared after flash floods along Nepal-Tibet border - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejhZMW5oaGJZZ3BjbXp1VVduelVRbExxTW5lQkR2S1NTbzJJMTdnUFc5RzZmZ0dyeU1fTm1Jc251Y3QzSlFuTC0zYW9zMFJqVFhXaTZwcnFHTzZaTXBPb0ttTXlKeXI0UWZBTnI4Qk5tSWxtLXlDLWlTcjJidWV5c2FYdEsySnVXZG5xYTh1Y00xOVpFN2tDUlJuV01FdElBcDMyOUl0c3o2NkRSeFktSDFOVQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T18:51:00+08:00"
+      "time": "2026-08-26T18:45:00+08:00"
+    },
+    {
+      "title": "At least 14 babies die in Pakistan hospital fire",
+      "link": "https://www.bbc.co.uk/news/articles/crk3dxj6zneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T18:42:00+08:00"
     },
     {
       "title": "'Ironing board' seats to be replaced on Thameslink",
@@ -89,28 +107,34 @@
       "time": "2026-08-26T18:30:53+08:00"
     },
     {
-      "title": "Why we should all get used to high household energy bills",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T18:29:36+08:00"
+    },
+    {
+      "title": "Fire in a hospital nursery kills 14 newborns in Pakistan’s capital - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMm5hSC1PNnBiNHV4QTJxemNPSE5YdVdTSTlRWVJhZnU2dU9kbTlZQmkwbHFPbGYyRGxQTEV5WHR1R2R2SDNNQ21ya0Z4bldkQ2dMMDBJT2c3Z3loaU1GV1l2SUV1MXFnMjNBeWFPSHBUaEl3UXBDNnJMVWlDSWIyMkYzenZHNEhQa2FjQXk3YU5FVVJWbnNmQ3ZaWk83VXYyRFRrV3dCOHhFZTllWi12OEVtSE9aQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T18:16:00+08:00"
+    },
+    {
+      "title": "CFB Player Rank: The top 100 players ahead of the 2026 season - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmhoa0I2OVJMVkVWOU0ySnZ0S0cyajdoUWFMZFBQZ0pFTnpQSW9SNFpvN3BMZkNnaDM4WmtkbXVpb2Ruc3pYTE94Sy11VG9JLXhyV0R4clBZTjZvekpydzU4LW1qRl84T3d2OXhoNlJoTVV6eDNmQTgwNTlxWnFtbWR4R016MC01RjNIbkxrRmpmRENoVXpYYVdKREUwdEJGbEVQcUlyQ1RDaEZKZ3o2dEpTcWlONGZFR2ZXaUdKV3c5by1ycW5z?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T18:15:00+08:00"
+    },
+    {
+      "title": "Why high energy bills look like they are here to stay",
       "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T18:10:33+08:00"
-    },
-    {
-      "title": "Nvidia earnings could reveal its fastest-growing business isn’t chips: Chart of the Day - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2NXVzJYZ210S2NuS29YdTBndnNxMXRrenhkYmdxZzR4ZXB1dFBldnFfZFZRV2JCN1dPY0JmaUhpd2xERndlam5BMmp3bWhQMEhQSGFGQzJoZTFFREVGRG4yaFZ1bDVWbU90Mm5NNVR2WmxZYjNBbzg3TUliOEVGQnVtamY5d0dmdTJibGliLUsyXzRTYmdLRUdtc1NfZGZodmt3SlNJVi1vRS14dkVxdzU4azBoblZDS0NkOS0wSmw0SHp0aXptaWFzMEJMZHlENTlvb1ZpSWJBdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T18:00:00+08:00"
     },
     {
       "title": "Ikea’s Xbox collection includes a giant thumbstick stool - The Verge",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUFYay1IS2pHVG1NRzc3Q2FuQ3BtYWtObi1pRV80S24tdkFwZUtaTno2OEJkaDN1Y2xQX3RUMGJtUmhBYlhmVEpLMmtqRW54VXRhSFFRSHF4anZlNDZKUzk5czMxSlBHYUNSb19yT3UxRlVTQW5RWEdCT3BOY05KMGEtZGI2ajhNUEd3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T18:00:00+08:00"
-    },
-    {
-      "title": "Partial lunar eclipse Aug. 27-28 live updates — 1 day to go - Space",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcXE5MEdRaXNjRExTQV9VaXRoZnRhb3JIYXE0WW0wa1VXaVR3RjhXbHNnWDZKSXVsdFF2RllPU3N3VWRyZExVTEsyZmJVQ1ozSzI0cngxMXV4bGxJdGVHS0hrY0RlSFZjd1FtWEpqOXplSGkyOUx5WllfOTFpSUtha3JEZTdFS0c1anpVNXlxb3c2c1FrWlRrOUJOYzJVbjkzcndoUE9hYlNGdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T17:48:51+08:00"
     },
     {
       "title": "Energy prices to rise to three-year high",
@@ -137,40 +161,16 @@
       "time": "2026-08-26T16:47:18+08:00"
     },
     {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures hold steady ahead of inflation data, Nvidia earnings - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYlhyaGhsNURhcWk5dVd6RkhyYl90SlkyajU5X05KdjE1YlpROUxDTlNOZ1BKUWdqWmxRc3JSdjlCZFhHZGRrVkU4RkdTOEFKQmd6NHNTVm9RVElJZG9Nanl4Z0lhcXRNcnZvRG5ZTVFhVTg3anhSQzl2M0t0OHZkU3ZXZ2R3VVJyOVN1bjlxX2xIWTNCRkpxSW9OcVZRWUo2cUxyYXRJM0h5SF82dDE0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T16:18:34+08:00"
+    },
+    {
       "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-26T16:17:45+08:00"
-    },
-    {
-      "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T16:07:00+08:00"
-    },
-    {
-      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T16:01:56+08:00"
-    },
-    {
-      "title": "14 Newborns Die in Hospital Fire in Pakistan’s Capital - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUhOa3VORm9ONXE5QmMyeDQzLVBUVVhJaHFoUkF2ZzhuS3dOZDN1UjQ1SHlPemxUcC04dXU2aXNmY3BRM0xmWXV3U1o0NzQyVnBPVlpSTm1wYUFxRG8zVUMwQ25BMVVCVzlGMHpnZjN0VHo2S0JNdm1ya19qYy1VNldNZVdxUnBtRmw0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T15:30:29+08:00"
-    },
-    {
-      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
-      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-26T15:26:03+08:00"
-    },
-    {
-      "title": "SpaceX Is Building A $100 Billion 'Starbase' Launch Site In Louisiana - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQUJVd3h4dUVKU0ZSTk5pdnUxOHNxMnk2X3hnQm1DUVkwZWlfVXk2WHFWRTQ5Wjd5R2oxVHpfLUlnMHEtYlUycVZqYkVFUkNIZnpqYkJSclA2V2pqQ2Q5Z0JnbXB3NWljZEwyczk1SlUteVdhN1V5NDBYOTNqdFFDd09SbFk0TTVydHU5WFQ4cS1vaThjV1p0NW82SnlUWDlyTHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T15:05:00+08:00"
     }
   ]
 }
