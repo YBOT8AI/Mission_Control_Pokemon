@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T07:25:24.586565+08:00",
+  "generatedAt": "2026-08-27T07:57:25.247539+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617141.28,
-      "changePct": 0.02
+      "priceHkd": 619783.36,
+      "changePct": 0.72
     },
     "ETH": {
-      "priceHkd": 19555.39,
-      "changePct": 1.81
+      "priceHkd": 19638.73,
+      "changePct": 2.69
     },
     "SOL": {
-      "priceHkd": 788.08,
-      "changePct": 3.71
+      "priceHkd": 799.13,
+      "changePct": 5.6
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1165.16,
-      "priceUsdOz": 4622.5
+      "priceHkdPerGram": 1165.41,
+      "priceUsdOz": 4623.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.42,
-      "priceUsdOz": 69.12
+      "priceHkdPerGram": 17.41,
+      "priceUsdOz": 69.07
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 641.7,
-      "changePct": -0.62
+      "priceHkd": 641.63,
+      "changePct": -0.63
     },
     "Natural Gas": {
-      "priceHkd": 22.76,
-      "changePct": 4.8
+      "priceHkd": 22.8,
+      "changePct": 4.98
     }
   },
   "news": [
@@ -56,7 +56,19 @@
       "title": "Flash flood on Nepal-Tibet border kills more than 150, with hundreds of tourists missing - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qX3ZFX29jdVdvdDcyVnlUUnRBUnVWMmlTYjA4QVFUTE1DelhPN01XOWxzZ3dlUGRWQ19FYkg0X3FodjBQb3VyWW4xb0R2V0QtNGV3RTN3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T07:14:05+08:00"
+      "time": "2026-08-27T07:40:40+08:00"
+    },
+    {
+      "title": "Big Ten, SEC, Big 12 approve ban on pro players returning to college to play; ACC considering move - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVDk3NVZtX2loMXBsdEI5WUdja2dlQTRqdDF3UWFJTHVpekpqaUZHc0ZtdllsakZWX2lnQXVka3NCS1duYnJUblN5ZTUyU08xV3A1eGRUeGNoWDZiT183NU1GdWtnb2RvNzljb2o2YnVFWXBrYWRyMXhsbFZnZUY4VHZqTWtHWTJhWGMtSk00ODRvcmRCUWt6cUV1ZXpVOHByUVgyYzVXdHdKX05FMVZiRzM5OGNKYzhyQXhnWEdNRHp5b2RZbDhqRm1rVDZIaEpyODZLTHU3ZE5RcktrYTNmdmRSWHJKVkppTUtyc0ZmZWdrZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T07:32:54+08:00"
+    },
+    {
+      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T07:27:43+08:00"
     },
     {
       "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
@@ -83,6 +95,12 @@
       "time": "2026-08-27T07:06:41+08:00"
     },
     {
+      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+      "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-27T07:04:24+08:00"
+    },
+    {
       "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
       "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -107,10 +125,16 @@
       "time": "2026-08-27T06:48:43+08:00"
     },
     {
-      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "title": "Judge Sides With Texas Over Minnesota on Extradition of ICE Agent - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1ptQXRoTkdLRXp6dkhrODBfSWc1aml5LVU4WDVmVndoTHJVZ2lDLWhuWUZHWWVfbU5HalU4THlzWGg1TDc4bmppTU9WSHZySEJrNHhQVTRoWEZGSjY3MFZ4SWlEOGdleHplV3JNS25nOUNOdlYxYmN1bFlwRzJEd2s1OWdDdk9RYnludVNweG9KZUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T06:15:47+08:00"
+      "time": "2026-08-27T06:29:49+08:00"
+    },
+    {
+      "title": "Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YMjd2NzBVd0lBS3Nsd0RmOWJldzVWbGMwdjc2d1RJSjhjZ21JZGRoX2RtRDFraGo5a3lyVWpGWmNiMkMtUjdGa1FrcDZ3WkVWeW9Pa3BkaTBfZW9uaHlyQjZ3UjJaLUZFUEo5ZFRR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T06:23:46+08:00"
     },
     {
       "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
@@ -123,12 +147,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T06:02:18+08:00"
-    },
-    {
-      "title": "FDA approves landmark pancreatic cancer drug that’s shown to improve survival - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZjQ2VTNEZIc0ltY0R3cmxCcURlRGFEOTc2aVBURlRrVk1fVmVLeDdqeHd0UFVzLXVyZHZsWWhwNXk0ZjRqZWhDSXF6ZVFKbS12WGNieG5lWWhHWnNlLUhWTmNSOGZYX0Uydl84VUZtSUJXckhXZEg3VEpBcmRESXlzUDVEQUwzMjdFUmVxQnRfTkFpTWJWbl9JUU55LVkzREhZN0VVOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T05:53:00+08:00"
     },
     {
       "title": "Nvidia revenue doubles on continued AI demand",
@@ -149,28 +167,10 @@
       "time": "2026-08-27T05:45:17+08:00"
     },
     {
-      "title": "NFL eliminating Pro Bowl Games, but will still name Pro Bowlers - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDM4ZnZaeVFfMUtYUnlXcDBlNGhTTFRHczlxTERPM1VUeUlRVEEzbjhUbGUzeWZvRzdWTEFjRW43dHMtZExvazhHcV9BZXYwNm8walRTQzZnOTQtbkdJRTRwbWRHNm9yTkdQMzhYMjZKOXZiSVM0N3JCcnJMNVhkdXFqWnlocXVoM3J1Y3pnbWltczlsTUU4?oc=5",
+      "title": "NFL owners unanimously approve the sale of the Seahawks to Vinod Khosla and his family - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMkYwbjByckh5THh5SWNKMTBadW5hTUR3cHQ0em11U2pCdmlXTk5vajR2SmV2dmFTcXdsSUtEN0t2YlN2aV91NS1hNGFHUnhyQzAycVhoWGJQYVNGLTJBaVNHRl9tNnd4d3ZrUGY2YWxJNmZENUZrU2dxSnMxOFpEaVFSaDRVa3RxbkxqNg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T05:34:00+08:00"
-    },
-    {
-      "title": "Meta to pay up to $18bn to settle claims its platforms harm children",
-      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-27T05:27:23+08:00"
-    },
-    {
-      "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVVSbWExeHlUam9QVzg2SEtXNXEwcG4yYU9qTnBPVWxqZG44ckxpaFhETGRFRWpvY0RZM0MtRDZPR2s3dzZkWndfYW5CR1dSVmZxUVdkOWoxYWxVbkpXaE1vSEk3ZGFQYkltUVZBRjlqT2pPQS00VWNha2ZiUHdOX3RrRmZhTkpGZHNIRXhhdVRNbWRGb2t1RmgxTG9IWlJKQ3ZnUUJXRkJaLXPSAbABQVVfeXFMT3YwUFMxRXpwRnZZSnBfQ2I1UGdnRlBaaHpUV3kxLUVMbzRzZFV2N0k4Q2w2N2tmUEVqWHZiWjdncmdMMk9MUFFnWXJRbzZoVUNValF0S1NmRnR5ODFuMEdTVUlTUnhPZEpObS12cE1hbWtSeC1sZnVpY1VkcGtrREZ0S3ZzTU5LWS0ySGdMYXJUbnRydEtHZHlvVWRzRjJuWENBTmdxX2xOLXliRGVaQ1I?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T04:49:30+08:00"
-    },
-    {
-      "title": "Iran warns of military ship ban in Hormuz under potential deal with Oman, and other Middle East news - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUxNU1FHTmNSNmlkQ3pyV05DRnlpWGl0U2I2Nm10Z3BkWTNEWVh4LTZsamNUWHBvOThOa1h6ZkZxSEdyTy1jclJMQUE0RHVuZUU2ZWZWUmQ2TnRlQ0t2VmduUlNsemdVNHFVd1g0Zl90SHhiYzdaeFVBT18yZFJ0eF9MMXRjcWFVWXVINXhhOFI1c19LdExYSFpiLVg0bW9qUl9XZHEwQmRNaHRq?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T04:47:00+08:00"
+      "time": "2026-08-27T05:45:00+08:00"
     }
   ]
 }
