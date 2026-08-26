@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-26T17:53:27.805075+08:00",
+  "generatedAt": "2026-08-26T18:24:27.524277+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614757.92,
-      "changePct": -1.02
+      "priceHkd": 615526.24,
+      "changePct": -0.97
     },
     "ETH": {
-      "priceHkd": 19190.83,
-      "changePct": -1.0
+      "priceHkd": 19206.43,
+      "changePct": -1.05
     },
     "SOL": {
-      "priceHkd": 753.74,
-      "changePct": -3.64
+      "priceHkd": 756.01,
+      "changePct": -3.04
     }
   },
   "stocks": {
@@ -33,36 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1165.58,
-      "priceUsdOz": 4624.2
+      "priceHkdPerGram": 1164.7,
+      "priceUsdOz": 4620.7
     },
     "Silver": {
-      "priceHkdPerGram": 17.34,
-      "priceUsdOz": 68.78
+      "priceHkdPerGram": 17.32,
+      "priceUsdOz": 68.71
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 626.34,
-      "changePct": -3.0
+      "priceHkd": 628.53,
+      "changePct": -2.66
     },
     "Natural Gas": {
-      "priceHkd": 22.48,
-      "changePct": 3.5
+      "priceHkd": 22.55,
+      "changePct": 3.83
     }
   },
   "news": [
     {
-      "title": "Energy prices to rise to three-year high",
-      "link": "https://www.bbc.co.uk/news/videos/cly7nm72ne0o?at_medium=RSS&at_campaign=rss",
+      "title": "Why we should all get used to high household energy bills",
+      "link": "https://www.bbc.co.uk/news/articles/c046peqrg9xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-08-26T17:45:46+08:00"
+      "time": "2026-08-26T18:10:33+08:00"
     },
     {
       "title": "What will the energy cap changes mean for my bills?",
       "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-08-26T17:40:38+08:00"
+      "time": "2026-08-26T18:07:31+08:00"
+    },
+    {
+      "title": "Bill Gates was an AI optimist. Now he’s scared of what could go wrong. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYmZxQlViRG5wSXMxTXM3bXVGWUNaeXdXUFpkbDUwZVlxLXE2LWxiX3pOS2tjVkNYdkpuM1NvOFpHOHhXcWJzQWY3Y0FvRTBoN0d1NC1Bd2JqTEpiR0pwazNQOE5wSjdCUVFnb29LczJSN2ZkWEFrazNyamVkREFyM2d0VlE5Y3lONXljQTFldEQwcGlMelQzcnBKeGs2bWduTnY5QmxpNms2eUJJVzQwYVJzM2U?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T18:04:38+08:00"
+    },
+    {
+      "title": "At least 17 killed as flash flood sweeps part of Nepal-Tibet border",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zyerv2lmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T17:47:08+08:00"
+    },
+    {
+      "title": "Energy prices to rise to three-year high",
+      "link": "https://www.bbc.co.uk/news/videos/cly7nm72ne0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-26T17:45:46+08:00"
     },
     {
       "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
@@ -71,22 +89,40 @@
       "time": "2026-08-26T17:31:51+08:00"
     },
     {
+      "title": "‘Dead in the water’: Why Bessent should fear the bond market - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWUyMkJUVjBDUzNFbE4xT0Q5aVRLaHdHbDZydzZMcjh2MUtYSEVOcHQyU1VKdkppNnQ5SzFqT0ZSaUdXZVppc1BtbVBod1pZWFNYRmdwU21FajYxZGo5Umt5UEhVSEU0UWxWSnpPMmNqaVVuMDFmdXZxSlFBT0ZVTHdxMUdYV3RmS1lr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T17:01:00+08:00"
+    },
+    {
       "title": "'Ironing board' seats to be replaced on Thameslink",
       "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-26T16:47:49+08:00"
     },
     {
-      "title": "Canada's retaliation tests the limit of American power under Trump - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04MnZCREtJWDliTW9ubEVja2oyN2dFMGZsNzZJN3hscUNORVZZZlo1R2J6ZjVOOGg4b3FVZzB5OVk2QlF1TDRISk1CNWlIaUZSUi1LTl9rcHBDdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T16:47:18+08:00"
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T16:17:45+08:00"
     },
     {
-      "title": "Live Updates: Iran and Oman edge toward temporary Strait of Hormuz reopening plan, but Tehran insists U.S. lift blockade - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
+      "title": "Graham, and Trump, Triumph: Six Takeaways From South Carolina’s Senate Runoff - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0RHVlc5QzdOanU1V1BZZ0ZGNzJaMUJTODFRdVNnQWkyeDhhWmtDR0VlaG5ieENBU28tUWNPNHFYTE0zV2dKVHRfNEdyWEJ0U0NZMnpyb1NCcnFWLUNhQnFBWTE1WXgyQXhOWkp6RHI1ekZzWHFYOE81YkYtdzZrbUc1V3ItOXktMDg1am8zRVJRNkZMZGtFT3J3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T16:13:18+08:00"
+      "time": "2026-08-26T16:07:00+08:00"
+    },
+    {
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T16:01:56+08:00"
+    },
+    {
+      "title": "Indian jewellery ad pulled after backlash over actor's outfit",
+      "link": "https://www.bbc.co.uk/news/articles/cy9z4dwx172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T15:26:03+08:00"
     },
     {
       "title": "Partial lunar eclipse Aug. 27-28 live updates — 1 day to go - Space",
@@ -95,10 +131,16 @@
       "time": "2026-08-26T15:17:09+08:00"
     },
     {
-      "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tcjdaVENYV0p6T1RiWFZsMVYzUHNGdmhJN19PMmhZdFRxVWtJQjJCUGh3SWVVZWRlQnBYSXdtNV83dVR6RjJoQlRSY3FmWms4dmNuR1YyQ1dWZ0llT1pJaHFYa1FKUXFxZ1pZ0gFwQVVfeXFMTmc4dkpMekV6eXBnNUw4N2FyVzRrakd5aTZ6bjlybnBtZXJMQkJDLTdsemJ1a25PMGJOSWdrMlpUekwxQzQyMUlBMWtseDVSMEUwTDNCQUI1X1lJUEx2M2ZxalU3XzlhRmVzOHRhSnE2TQ?oc=5",
+      "title": "Iran and Oman prepare Hormuz deal as U.S. holds back on secondary sanctions - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jOUFCMjg1c0xRdGhQS1BBdzczQTF5Y2oyaThSN0JLblRpZFRwOW9SQU43bmxaY3FsZE85bGRJbDBBNUVDSzEtdEFVV1RoR1pCMWlGMmc5STN1SHBCbHBMbXk3b3hYdHRNbnFZQ21n0gFzQVVfeXFMTVM2NDQ2amJfcHlFN0tDTGFNODhiMldlYVRzdnFOMklqajVfekp1eVNxOUoxWFN5ZGxXczJZc0tGb1VhRkpzYWFRQXdkUEhLZjZkbERPYkZyZkswd01wQUg0aXBHRzVEcjVTX2FoYzJyaXNOMA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T14:20:52+08:00"
+      "time": "2026-08-26T14:46:58+08:00"
+    },
+    {
+      "title": "India's sugar squeeze threatens its biggest season for sweets",
+      "link": "https://www.bbc.co.uk/news/articles/cm2r9y9eleno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-26T14:30:24+08:00"
     },
     {
       "title": "More than 50 kidnapped as violent gang attack in Haiti leaves 47 dead - NPR",
@@ -125,52 +167,10 @@
       "time": "2026-08-26T13:04:56+08:00"
     },
     {
-      "title": "In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3lDWEpxNEVsVHlVMVlnQXBzWXdCTmpuVmxmWTJJeTdSV2RWWTQ3ek5mRUhfZzJ1S3FpaU95WlN0ZTV0R3ZVMHFiSVBSdDZSYk95Tkc0YzRRemhBTnE3V3hUUnhZQVh6UG1aeExHLVJYWkozM2o3WXN6eFh6eXo5UlBNQXc0X042Q08tUGJMVTQ?oc=5",
+      "title": "Republican with same name as incumbent Dan Sullivan advances from Alaska US Senate primary - AP News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDZFaTdpSWZyeEE4enZ6dXBXand2VjZua1ZvMUFKdl9HMVhTR1pFbjFlOVU5SGhvN1F3Ni1HWDV2VEk0LVJFUlI4YVNudTh5X2dtV2wtTDFZNWs1aGx2eTNpNzFWQTRGbUVuNkt4SmpSc1ZDQkdiTWhzTHF1cmI1X3JKUlhQZ3NOQnZtMFBub010V0loMWgtUmNuUDFzajhXMDZjeDhzWkdUX1VNTGpHcG53?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T13:02:47+08:00"
-    },
-    {
-      "title": "Horoscope for Wednesday, August 26, 2026 - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeUhMelpxQ2ZGRjJOT3RaSGZVNXdydUdTaXZjLTg4dnQ1alU2SlN5emxiMkR2MVAzb1hhZklnWUxiSHhkWEhnREFnZmlQajMwRnVqWUx4SllMZFdybVNyblBzRUdEeWVmaUpmLVR5VG00dFBnVGtNUnhsNDlnRTk3TmIzeEpNMUVLS0dZc0xHY214VkNZOW9B?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T13:01:00+08:00"
-    },
-    {
-      "title": "Live updates: Sen. Darline Graham of South Carolina, with Trump’s backing, wins GOP nomination to run for a full term - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNV0dnQVZYRVZBa1A4eFdoVzRrdzJvWGZvWjYwc1BCc3lUU1Vsek5fckhubm1YbFN4eUdxY24yRHFCQkMxeHN0SDk2bnhkNXpNS3V5cmhFeGV0RFFPaDlaM25SQWcwNUlfN0hZWE05cEVLMFRxZUdmem5wT0tvdlFsSnFSbHdfRUZhaXAwUXRuU2h1SW5wYU02REJlNVBUSlk2MEZCNVk0aGU5eXNFNUtONFBNN0ZzYi1VVGVGb0hZZ2VpVTZJeVl5WnBLc2dpOEVTM3pIemJHTldCSEdn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T12:17:00+08:00"
-    },
-    {
-      "title": "At least 14 infants killed in Islamabad hospital fire - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRHbkV2OTZHSElFUUE3bmgtdGUwOGo0NUpaRk9RWURTaXFhcDlua0ItVEhrZFY0aWFNRS1ZTkx2SEt5WGh3TzNtZmpHYVNMRk9TZWg2MFBfY0N3M2F3YmM4TFg2TEZuaE9fUTRCSktOWVdBUjZEalpvbExrVDd3RXF5SVNyT2l5a2xueU1EUE1kbkg2RE1pdnJ0MGJtclNkbHVsT0cydy1lb1VMMkhoNUtNbzFYR3k4YnAw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T11:43:00+08:00"
-    },
-    {
-      "title": "Why Tesla has been caught up in a massive car recall in China",
-      "link": "https://www.bbc.co.uk/news/articles/c9w4jx2rvgro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-26T11:33:59+08:00"
-    },
-    {
-      "title": "'Heroes' Cast Reunites To \"Celebrate The Life\" Of Hayden Panettiere: \"Was Deeply Emotional\" - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS3FycHVhR3BwSXFzSFNuM2RtcmJ1WU1oSmZvaWozS2V6cTRUNS10Rk94WnJucE5zWDEzb19CTTE5MmpHSUl3MWxzcExLdHQwWnB1UGtmZXZzUFZhSTI2b2J5LVdLSlBUbjI0Y0xtTkhPQktfT0hXbVFRU1B6bkdRM3ptOUtVd016NElabi11UDJDYzJ6QTVvNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T11:30:00+08:00"
-    },
-    {
-      "title": "South Korea's Lee calls for greater police accountability after Jeju missing-person cases - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzJwNFZmZFFlcHBkeVVmM3ZzcU9qNnFXWEFmSF9aNzlKeUhOMVBwQXhUdmZGWU0xLXdMNU5SQWhPbmYwSUdqTENxeVNKM3JIRGRHUldqcU5MV2dIYzdJem1xanBISHNMZUpGeURma3hJYWU3Vlp5TWY0Wm9kZnNSUl9ObjNVTHNwY3hfSUdJN3JhZFdZTUZUbWhkdWNxdHhudjI3OXFJcjhzc0NQUkIxb1o4ZWRFZzVHUlY2N3VzekpIRVFBQU1vUXI3LXFpQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T11:16:00+08:00"
-    },
-    {
-      "title": "Trump-backed Mazzei defeats Drummond in Oklahoma governor GOP runoff - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNWtIdGNCX1h0Uk8wNlJSRjlJTFZUcDBMS1NXRC1jYlRXWmVVR1UzMDNUSWpSSWlqbVc2VDlLd0hEY1B3a3lTcDFEaWFSWjE0dzJvQ0pvM3RRMzRITWoxUEd4LW5DWDYtZEtyQXhSNFJyd0ZRYjZqSl9HQTc4dVdOc3VrcG_SAYoBQVVfeXFMTjRBeThZd0h0RTZVY0Z6MjRFV1JtNFUtMUt3UGRmRmtWbGhJd01XRzlZY05wY3Y2QmtJSmlCLThfV29SNzg1bzZxRjVpaFJsTU94MDQ1UzJFbzdaY1NteVA3TW1NUDNfRUc4NTFDa3AtczhFMEp4X0pJcmNmZjN1WTMzS3lod0ZlQ3VR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T10:53:00+08:00"
+      "time": "2026-08-26T12:47:00+08:00"
     }
   ]
 }
