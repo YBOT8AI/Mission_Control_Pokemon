@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-08-27T01:11:29.648570+08:00",
+  "generatedAt": "2026-08-27T01:42:35.943388+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612108.0,
-      "changePct": -1.11
+      "priceHkd": 615620.32,
+      "changePct": -0.74
     },
     "ETH": {
-      "priceHkd": 19181.19,
-      "changePct": -0.58
+      "priceHkd": 19314.86,
+      "changePct": -0.12
     },
     "SOL": {
-      "priceHkd": 753.66,
-      "changePct": -1.53
+      "priceHkd": 761.66,
+      "changePct": -0.8
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5513.48,
-      "changePct": -0.11
+      "priceHkd": 5516.77,
+      "changePct": -0.05
     },
     "SPX": {
-      "priceHkd": 60119.94,
-      "changePct": -0.12
+      "priceHkd": 60161.18,
+      "changePct": -0.05
     },
     "SPCX": {
-      "priceHkd": 1077.61,
-      "changePct": -0.36
+      "priceHkd": 1080.9,
+      "changePct": -0.06
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1158.2,
-      "priceUsdOz": 4594.9
+      "priceHkdPerGram": 1159.43,
+      "priceUsdOz": 4599.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.18,
-      "priceUsdOz": 68.16
+      "priceHkdPerGram": 17.19,
+      "priceUsdOz": 68.2
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 648.92,
-      "changePct": 0.5
+      "priceHkd": 647.66,
+      "changePct": 0.3
     },
     "Natural Gas": {
-      "priceHkd": 22.87,
-      "changePct": 5.31
+      "priceHkd": 22.84,
+      "changePct": 5.16
     }
   },
   "news": [
+    {
+      "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:32:54+08:00"
+    },
+    {
+      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:27:43+08:00"
+    },
     {
       "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
       "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T01:08:04+08:00"
+    },
+    {
+      "title": "Federal judge removes major legal obstacle to Trump mail voting order, with more challenges likely - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlCX2VYelNHWGIxbzJvNUw1MDVnWk50WjhYRzhqRjBLRzZ3WmJuanNIdks4LVVUYmNGZUo5UmdGTFVTTkRHTmlrN01pcV9BOS1UcENDalVXT1hfYlRfQWNzZlF5dkZzUEpvaTN0cUFCLXBaajNpRU9QalNQeWdaT2tRWVFPWERxczJ2Ul9IM3RNeENNR05jeDFYUk9MbjgtbU5sZFpXampLVGRlWmZn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T01:07:00+08:00"
     },
     {
       "title": "Flash flood on Nepal-Tibet border kills more than 100, with hundreds of tourists missing - BBC",
@@ -65,28 +83,16 @@
       "time": "2026-08-27T00:57:19+08:00"
     },
     {
-      "title": "With launch of Roman telescope, NASA hopes to unlock mystery of dark energy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaHFNT01fRlVLRHpWbVhCaGNmMWxxTS1ZOVlHLTRRQ0pkSGxxTGpEZVVHcE5qcnMtdkR1Q1N5bU1UdVVBd1RMa3Y3Z0VGNFdmV2dST3VaS3dYMi0ydmwyWmlpRE9HRVphRDJPUnB1RS0ySnlMUHdJWVhPLTQwVXVnT1dkYkRaMjMyN1pLZmxGZndpeF9oakdyci1ldHhheXlHZ09WaEp4SE40YXpHTmQ0VmZSUnR5clk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:56:35+08:00"
-    },
-    {
       "title": "'Ironing board' seats to be replaced on Thameslink",
       "link": "https://www.bbc.co.uk/news/articles/c0e31qdqrlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T00:56:34+08:00"
     },
     {
-      "title": "Meta agrees to settle social media addiction claims with states for up to $18 billion - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZzhhMEdlSGN0LXpUaWFENWt1ZzJieUx4Wmtudm5kb3pZUHVHT2cxcG9aYnFzNmxZY2NYYmZJbTlneko0ZjJ3T3A3QXRhRFFvYXBmamdvSUI3ZUtiLU5XNnZHTkl5MWVPVEswUG53UnRqczNkQlhMeS1Zb01mdlpOVWV1NWRjOHY3T1d5aVBpVFZ3R0s1YW9UNFY1WFNvM21GNlA1THdoVQ?oc=5",
+      "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T00:39:42+08:00"
-    },
-    {
-      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TU9hWXlSREZPbGFlbDluU3ZaVEo4RDJVa0RjODdPM1dOSVlMQmpyRUt2OG9zNDlCNkhuQzFEU0pyTzNfZ3RsQjdmMldJX2sxTUZPVDhXZVo0NmdGdFNzV1N6a21BSFZqMzlGd29oUFlYaHc5OVRVQ1dMMDlpZ9IBgwFBVV95cUxNOTF4Rzdyc1JVV1FyWUx4Qkx4S21wSWNSUUhfcUNLTnFwalZwZmY3cUFtR3lJSVZxNFIzRjdUa3dHVmtjMUl3a0c1YTdaVjE4Q1ZXSkJ1a3gwSEg4ZjM2UDQ3dU90Ylo3M2ZwUFprTnYwckowc3R0VGVGSk94VHBLYnlLNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T00:24:37+08:00"
+      "time": "2026-08-27T00:54:01+08:00"
     },
     {
       "title": "Stock Market Today: Dow off 140 points, S&P 500 and Nasdaq lower as bond yields rise; PCE inflation data ticks higher in July and investors await Nvidia earnings - MarketWatch",
@@ -95,16 +101,22 @@
       "time": "2026-08-27T00:16:00+08:00"
     },
     {
-      "title": "Prince Harry and Meghan are back in the U.K. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa1F2akl0SEJFcGYxZHJHWVNTUjQxcU11OGNiVTZ1NDhoRVZIUTBFU3g5RTgtVExVSTFIa0VYQU5wQkViZ2Y1Z3dlbE5qc0RTcW5HYkZYdXpJRGc4ZGJ0aF82aWY1R0tOVTRocWNhVHNGTXVkYno0Q1RzZkpTRlZVVGRlTVVYRFgwb1Nn?oc=5",
+      "title": "Apple announces September iPhone launch event - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hbWF3dFdkNTRGS0pyY3A0T09jQ0FKeXlwQTNmcnJ2RTFUdHppVU9oTEVyeExjX1g4anRCR3BzRS1uTm9CbHRuRzcwZ1lJaV9LenhKMGhLcGZBVDl5WHBlNzZ2ZXVjbWhKdjQ3cjFYeVJKdWMydjRsUzdfUlQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T23:57:09+08:00"
+      "time": "2026-08-27T00:03:49+08:00"
     },
     {
       "title": "Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80 - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YMjd2NzBVd0lBS3Nsd0RmOWJldzVWbGMwdjc2d1RJSjhjZ21JZGRoX2RtRDFraGo5a3lyVWpGWmNiMkMtUjdGa1FrcDZ3WkVWeW9Pa3BkaTBfZW9uaHlyQjZ3UjJaLUZFUEo5ZFRR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T23:49:06+08:00"
+    },
+    {
+      "title": "Red Bull misses out as FIA reveals fresh F1 ADUO results - The Race",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXZSemQ1bFdJaVY4THhFLWc0Mlo4cEpNTHFkZFNGa2dWNkVicWxnNDBQRjcyVUpmbTVnRkR2M0ROQ1lPaGdwWFZIRVVvZVM4Z3lMTGJNVTJBdmxReTlkU3RYeUtSMVo4WUhhWW50X0Z5aUtfaVl0ZWhvaXBEUlAxb1hWZlBNam8tY2pJeTFBWGNZakN0bGFr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:47:37+08:00"
     },
     {
       "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
@@ -125,10 +137,22 @@
       "time": "2026-08-26T23:11:14+08:00"
     },
     {
-      "title": "Democratic states file new lawsuit seeking to block Trump’s order limiting mail voting in midterms - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlCX2VYelNHWGIxbzJvNUw1MDVnWk50WjhYRzhqRjBLRzZ3WmJuanNIdks4LVVUYmNGZUo5UmdGTFVTTkRHTmlrN01pcV9BOS1UcENDalVXT1hfYlRfQWNzZlF5dkZzUEpvaTN0cUFCLXBaajNpRU9QalNQeWdaT2tRWVFPWERxczJ2Ul9IM3RNeENNR05jeDFYUk9MbjgtbU5sZFpXampLVGRlWmZn?oc=5",
+      "title": "Xbox boss 'thinking about affordability' of next-gen console - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtR3JMSWNhWTZiLWw1UjdZQVlzZHk4Vk9hVE1GSXhJVjNHWVpHRWpJWFl5NkYtRmVjQ3R2YWhlM0hFVEhoTGlMenpVbTl4MlUzbGM2MU5TZHdnQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-26T23:02:00+08:00"
+      "time": "2026-08-26T23:01:08+08:00"
+    },
+    {
+      "title": "Jack O'Connell on Tabloid Drama and Netflix's Rupert Murdoch Movie - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblVoYVZDbnluMU9wNnRuWTdfd2taU1FFNS1fTUExeW9BVW5uV0NYVjBzYzFjcVZWaG5QNDR2eDFycGRMZ29XWkFCQS1OMDZaeUNrSGFRZWtSVC1qQzNBcmxxeTB6VWFBUXZPM1phZ3dvM2haak9qeVRmUGhTTGZCRWRfSERlTGFURmpaUzRRTldBWEIxVFRrS1ViVnR3b0w2RC1qVGlrZlhnTGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T23:00:00+08:00"
+    },
+    {
+      "title": "The epic La Tomatina food fight drew foreigners to paint a small Spanish town red - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQUdMZWJhU3lIeUk5R2NwaElYVzZ6V0ZOVmRxVW9LSFRuM19JYTd3ZTl2cXRCbEFKMWgzRzlINHd0U0FDUlhxRkFnZ2Z4NVdLUEh3aHhDdzRGMTdWNlZhN0pMU0lzRURwWXFPWVdCUTdXd3dsRUZRRGhkaGFKTnRBa3JNRF94Q21fLXJPSkNlQkdURlA3MkUxYWtB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-26T22:48:00+08:00"
     },
     {
       "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa1hNME5VeTdZNThET1UzdVdZRWpZMnBDWlBPVE9zczBfWlVsWG93TE5aVktFRXV6M1hLVk9LS1pib192NUJydDIzQWV2UzduYzRUN3hfTFUyb3JINFZFcjZwY3BmTWxFRmE2SlVwQUJhT3hUZ0lHSmF2Um9fTFA3OGlhejF2aWEtQXNULXlYWjRkM0lxM01ZNElWZThzdk8zTnM2OW5YaXlvVnc?oc=5",
       "source": "Google News Top",
       "time": "2026-08-26T22:40:35+08:00"
-    },
-    {
-      "title": "What to know about the Lindsay Clancy trial as closing arguments near - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOVBENWEtbkJJV3dqT0hPU2t5dlFpZGE3ZGpMd1VsMWNlM0xxOXdRRVFnT0FwTmxQVG9oU056MGF5ZlMwQ0ZWal9WQWVqazkyRjZIZEhIUTNpcjdtY1NlMklVejhhNzdnMmxWUmR2Sy1EZlhxZXNVQkZpT1pwcklZZG83bEJnbE9aY2lvNW9JQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:32:51+08:00"
-    },
-    {
-      "title": "Xbox announces disc-to-digital feature that digitizes your physical games - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9lbDc3R2k3alNJd2RTNm9RdHpfUmRzMURBeWxXVG93M1RtQlF2UHA5QzFnRTY5bmZMMmhiRDdPdjBJb0kyQ2VoYVhKbEZDR2hlUWJnMGtNUGlJcGgydk1laGdaT1VscEIzemNTR2E1Uy1Ub0pkTzctMUtFSC1GQkk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:30:00+08:00"
-    },
-    {
-      "title": "Iran, Oman agree on temporary Hormuz route: What we know - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWTFrTGFKUWsycWlaTDVOb1pjUUJCSXJVblBLN1pzYUtJVlQzSktVZzJHdHVUQU1CWjYzQllDdHVrc2xVcTlPSVp4VGYxUThRdzRXT0xYMFFQYzRjVm12LTdobXRzR0tFNDQ3aXZhYzVpekRiRFZMMlZqMUJfb2xkSFFYYmcxcTRJWnY2Q29hNmxhLXhjdm83NER2TdIBoAFBVV95cUxPdlVzYWJtNU1rVzQyNUYzRlQ3amdSV1ZocVdVSjU4UUo5a1drTTl1d3Q2d24wYjRsZVNFcmVrazRGR2stNzIyajBYYTQ1ajhKLTN3QXI1Z0hnUkZpRWQxc0JmQm40WkRld0wwRE5sQnlCeXZjVGZGdTU2bUt5cnZ1M3pod19nRGw3VzB0bDhMb0NfWWNHNE9ERmxRQXFNTGhF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-26T22:10:21+08:00"
-    },
-    {
-      "title": "Meta agrees to pay up to $18bn to settle social media case",
-      "link": "https://www.bbc.co.uk/news/articles/cd68q3wynnqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-26T22:10:17+08:00"
     }
   ]
 }
