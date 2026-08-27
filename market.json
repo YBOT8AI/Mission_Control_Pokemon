@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T15:50:56.584020+08:00",
+  "generatedAt": "2026-08-27T16:22:02.946962+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618160.48,
-      "changePct": -0.17
+      "priceHkd": 623287.84,
+      "changePct": 0.65
     },
     "ETH": {
-      "priceHkd": 19535.08,
-      "changePct": 1.08
+      "priceHkd": 19730.61,
+      "changePct": 2.21
     },
     "SOL": {
-      "priceHkd": 795.52,
-      "changePct": 4.6
+      "priceHkd": 806.97,
+      "changePct": 5.97
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1159.08,
-      "priceUsdOz": 4598.4
+      "priceHkdPerGram": 1160.11,
+      "priceUsdOz": 4602.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.26,
-      "priceUsdOz": 68.46
+      "priceHkdPerGram": 17.29,
+      "priceUsdOz": 68.59
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 636.45,
-      "changePct": -1.28
+      "priceHkd": 637.24,
+      "changePct": -1.16
     },
     "Natural Gas": {
-      "priceHkd": 22.82,
-      "changePct": 2.43
+      "priceHkd": 22.78,
+      "changePct": 2.22
     }
   },
   "news": [
+    {
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2xXeUFsbWVkUVFlRk1ycklJek41ekRHMFhyWjc4UjRxNlpYdFhjbXd0RVRxQ2JjS29CNGUwR0dJQUQtQmJsZkp2RVBUZ3R6UGxLTUYzQXFFSnlob08xeC04dlBJQno5R2lSeWVZN0pNeWtPWHVuY1I5ODRLOU5Xd3FLMELSAYoBQVVfeXFMT3JQOVF1NzFkWUt2Sm52Nk81ZlZoaEVtaVJubXQ3TmI5Y2FoOG5rSGg4ZEpiRllpeXhMYnhJMlJNTjBwNjJQa1FkMm14LUJjR1lsTnEzY2lBbXdOMVdpdzFURnZBVmVNOUw2RFhZbk43SFZPV1FXYkdrdW9hZWgzeE5FYUlsbGtzV21R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T15:27:42+08:00"
+    },
     {
       "title": "Two dead and 10 hurt after car rams into crowd in northern France",
       "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T15:07:34+08:00"
+    },
+    {
+      "title": "Key moments from Lindsay Clancy's five-week trial over children's killings",
+      "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T14:41:10+08:00"
     },
     {
       "title": "(1) Nepal flash flood live updates: more than 1,000 people missing after glacial collapse at Tibet border - The Guardian",
@@ -65,28 +77,22 @@
       "time": "2026-08-27T13:41:20+08:00"
     },
     {
-      "title": "After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
+      "title": "Fed governor Lisa Cook: \"No legitimate basis for removal\" on Trump mortgage claims - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zeDNlazlaRUxQTUJfSDFKMkNsQ2NGeTRVbEUtTjNkQlVGdGZuSHBlR3VkU3B3OGNXQnhuTVNXcHQzSFhzYkppRjBkaERoVUZhVVFadk5RaFM0NTdENDU5cFp3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T12:09:00+08:00"
+      "time": "2026-08-27T13:40:07+08:00"
     },
     {
-      "title": "FDA approves pancreatic cancer drug that extends patients’ lives - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS1KNUpKdXR1VXFBdWlnZ3JHTlNtaTdlQkRXNGdzRThoVzBMMXVJZDFCdkNHSDJHTC1XNExPLXRaaGRqREx5MnprSUlpUHRPZmJqNHlaamk1T005OU84UVhlVWlsR1RJUXY1QjhNRzQzTlVZZ0lFaUtSQi12Sjh3MVV6LUpWNEhTTm1Bczc3NXZpdDhMQXlfRnVSTDZJM2s3bUhENllRTmFHSnc?oc=5",
+      "title": "Six consequences of six months of war in Iran - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUEV1S2tFLUNEVG9hdmJ3dEF5YlBmWk8xT0wwWXN3MzZGOVYzX0xITXRLbGNuTUtscXl1Sy10NHlaelVXUHMzZVNYMm42TUVmNVN6UW1pLXV3MDF4YXpaLV82VE5QdXI3R19HemNya2U5LTg1RGFTZXdvdjZ6blJwUWllYVEyaE02cmoyVmdSU3o3SzNZ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T11:11:13+08:00"
+      "time": "2026-08-27T13:06:00+08:00"
     },
     {
       "title": "Harry Styles Pays Tribute to Dolly Parton at MSG: Concert Review - Variety",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3NxaDMtb0VlN19sTDNXaWhYSWhLSVk4OVNXZDhnMUM3MFRfZ2RsaW9oN1VMb0lHdW1iblN3c2xzeG1GWFVNaVhBRU1MZUZrU2VOUlQtX3YybXdVaDg1Rk9XRGhhaXFSM0dVWlk5QnJ6eU4wbHlYRW4wb2daSDdMOEtrX1Z3WTdLNVNYLWNYbWl1RkY2R1g2RUMzYWx1cDJ5ZjBnb3VR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T11:08:00+08:00"
-    },
-    {
-      "title": "Khalid Sheikh Mohammed: Trial date set for alleged 9/11 mastermind - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwR25jQ3lyY3l3UmotdWh5ZGlwMDFCWFFBYmhsTzI0OGFVRGwwUUhVVFhrZG9pRV8tSDJIcldRd1ltT0RkbU1mVmpMNXpwMVRrT2l0azJqajhEUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T10:50:26+08:00"
     },
     {
       "title": "Official leading Trump’s Gaza ceasefire effort criticizes Israel for its attacks - AP News",
@@ -107,10 +113,10 @@
       "time": "2026-08-27T09:50:50+08:00"
     },
     {
-      "title": "Strait of Hormuz deal inches closer as oil prices dip; US commits to Tehran sanctions - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeThsSEx2WXBOSzdaQWhTTVR2cEVLcUNYVklsbnd5RDg3UzBQd0RWVVNQTVZlVjJ1SksxdGRXdXlfT1FzR1VCdFZQWVNrMVVlSTlhN0lPWHltaEdtSnNhd3J0TzRtUXNwLUlvZ2ZxV3d5dkQtcTNRSVJQWUl0OHVVcHF3VEdWV2JXbE1NT3RIeWs3c1JIVDUw?oc=5",
+      "title": "Kinley Rasmus' Box Score Stats, Highlights for Southeast vs. Great Lakes in LLWS Elimination Bracket - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaU5NRE9SSHFQRjBSR2hSZlVEeHBpa09NUEo4X1BGbkp2a1EwZjBZUVhyVmVfODJSS2lLLTRjdzBVM0IwNTVBdnZLR24yODVUdGl1TjRXZVVGd0pTTEwxQmVRcFc1S3ZBR2MxUWZQaHBSYWx1Z0lKNWlETzd5OW5UanJZMXR0cExSRHE0V3pKaUQwR1V5OWthMy15YkpjS0cycDlUTFp0bHJJZHpqamdhNDVkcnNZYXpPWG1RODlZRjdSeENpN0lzS0hZMHpwQVhK?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T09:27:30+08:00"
+      "time": "2026-08-27T09:49:55+08:00"
     },
     {
       "title": "Secret Service officials placed on leave in inquiry over ‘potential misconduct’ - NBC News",
@@ -123,12 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzZrQ1JjY003NUZRM1pfZnJQNDNsREpxUGpjcmFNMUg5dThDRFRNb0RGTWZ4QnRvNExlM3RoMkp1eWpIYkV0a0R4UlY4MzdtTWpzY0dwZm5OeUlScGN0X1d0cTYxSXA3NDUyVFBDYURZWGxRV0pQMmtURkZfLW1HQ2o4d2gyZmo5SkJBQ1dTZFFKOU10SXRIbnlLOEt3N1hRb2hMZlNZb0hUMWdENXdKb1BEQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T08:57:00+08:00"
-    },
-    {
-      "title": "CIA Director John Ratcliffe warned Russia not to attack NATO during secretive trip - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUkzMHpwU19pTVNicHZoSm9aY1ZGbndBRXdSemxyVF9LdEVTME1KZVJPOUpnM1I5MC11eE9QUnpjVGJlTkFMdTZ1czhRSzBPZDAxZ2pWNzVxWld4NTAxRWpLbEllcWJQR2RabGpYVUxQZXpNMkt5Nmpxek1IejB5WDZXMUQ1TUFRaVdiSkp0bjBESGlSRlpaNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T08:39:00+08:00"
     },
     {
       "title": "Susan Sarandon leads tributes to Rocky Horror Picture Show co-star Tim Curry - BBC",
@@ -149,10 +149,10 @@
       "time": "2026-08-27T07:27:00+08:00"
     },
     {
-      "title": "In Spain's Revered Food Fight, There's Only One Rule - Newser",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGltRGpfWEJ5X0NMTllOdXRxUmhEWUdDbHY3UFQ5UUVPd0RINnJ5Q2FwLTh0dzZHZl9KclpBZS1mNVNmaGNfUUVsTHItYmI5SG1jS2d4eUNwY2t5aTlJR1haeHhQZXIyZWpwRGxINURmVE5KUlJnYWlobXJwMmU3cTM4TmlDNHhTd2hjems0TDJIUQ?oc=5",
+      "title": "Judge Allows Option of Manslaughter Verdict in Lindsay Clancy Case - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0lpYUdnbXBrZ3lOZEZlOF9MeElnMjR6WWZUYm5rTFRiZVpnNTVvZ084M3ZHYUVTM2lfMEVkd3BHNzFwS04wZWRNcHhVX3dHMnhKTngwUFFROGo0MlpJUDMzX284SUlzYjhkaEoyc1ZHcFUycHFJRTJLZVhlNTFiS2FUdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T07:25:00+08:00"
+      "time": "2026-08-27T07:25:21+08:00"
     },
     {
       "title": "She worked ‘up until the day she died’: Dolly Parton docuseries, biopic among planned projects - Los Angeles Times",
