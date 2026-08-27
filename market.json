@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T05:39:09.478398+08:00",
+  "generatedAt": "2026-08-28T06:10:15.191902+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 627725.28,
-      "changePct": 1.66
+      "priceHkd": 629348.16,
+      "changePct": 1.86
     },
     "ETH": {
-      "priceHkd": 19612.07,
-      "changePct": 0.21
+      "priceHkd": 19686.0,
+      "changePct": 0.32
     },
     "SOL": {
-      "priceHkd": 848.99,
-      "changePct": 10.81
+      "priceHkd": 859.81,
+      "changePct": 11.45
     }
   },
   "stocks": {
@@ -33,25 +33,49 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1160.14,
-      "priceUsdOz": 4602.6
+      "priceHkdPerGram": 1160.77,
+      "priceUsdOz": 4605.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.49,
-      "priceUsdOz": 69.39
+      "priceHkdPerGram": 17.5,
+      "priceUsdOz": 69.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 654.95,
-      "changePct": 1.59
+      "priceHkd": 655.89,
+      "changePct": 1.74
     },
     "Natural Gas": {
-      "priceHkd": 22.78,
-      "changePct": 2.22
+      "priceHkd": 22.77,
+      "changePct": 2.18
     }
   },
   "news": [
+    {
+      "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T05:59:50+08:00"
+    },
+    {
+      "title": "'Cowboy builders' targeted in new government clampdown",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T05:44:02+08:00"
+    },
+    {
+      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84 - NPR",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUb0tfdFZiaURQaGFZQUpqY29rOWptaFRwZUk4UU8yX0VoMVBObUNxU0NWeFhEU2dybF9sMzBWMkY3UE1BTEJsNXN0LUlkWnJwVV8zYUdZY1I4U0Nacy02SkVpZHdBZ1N6UERkcTNadw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T05:29:27+08:00"
+    },
+    {
+      "title": "New telescope could rewrite what we know about the universe - WRAL",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1BmRmo3RlVJOG40WU9PdG9VZklaWnBTblFwMlBHbkJWSmtUMG9CUTZqNW1UQllkVUhHd3hYbkRybWVaemNtRFdBV21MSFlVSlBmWUF1ZkloNC0zbjBqUk5vNWZWSDFMVjkwTFFQRFphU3FvT0lQV19Sc2hQX3BRbFEtWlo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T05:27:29+08:00"
+    },
     {
       "title": "Trump signs order to rename Lake Ontario as Lake America",
       "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
@@ -59,27 +83,21 @@
       "time": "2026-08-28T05:07:05+08:00"
     },
     {
-      "title": "Texas releases ICE agent charged in Minneapolis shooting - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3Y2b2J6MS1KZ2FnMUU0STFLeHBkeDBoUFFlUlhCTFVNS0hMNTJLbjBXZ2U3ckFMc0g3bHM3cnBZT1UyV1lnYnpOUzRJNmtkYl93THJsMlhmZWd5UmxlOHQ4Q0VuVXpBQVdoMWlpY2g1ZDRjZE1BeDZxOHJ1RF9neUNEXy10ZEEwNDdlVkY2NldHR3ZlUUJ2S3dPLUJTTE15bXg2Z01HdHAzcVRYNGVzd2IyYk4?oc=5",
+      "title": "Trump signs order to rename Lake Ontario as Lake America - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSOUxpMzlxYUxvejZqaGJHX2xMVkQ1UVE1WTNHMFh4Nl8zWW9fdEVPLUdtY3Zsc3k3VUdNUTRIY2FndU1IUlp0S2RlaDhfdW9SLXJ3TEhhMmF6UQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T04:46:22+08:00"
+      "time": "2026-08-28T05:07:05+08:00"
     },
     {
-      "title": "Ratko Mladic, former general convicted of Bosnia genocide, dies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlJLX2s2Zk05UlYzNlRsMzZ4Zml1QnBteXJmZFpBLUx1blNxYWNHZGN5RjFQdEw5M2tPdTJiZlg4R25IRWxJWVBSOHpnSGx2a0xWeVZlVEJid1Nqb2NkdUlpRUo1aVZrS0t4dG53M3FfeG5feU84WlVsVjhicFdCMkhua1h0VWlHcV9wcUxzTnZ5YUc5Z2ZHZmRZUXQwdGdpMVVteC1sMkFFeW4zWlBNYzFjYnFUbEJTYTZ0eg?oc=5",
+      "title": "Hope Florida reemerges as midterm issue with leaked grand jury report - Politico",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYzRSUENydkFKUlNFRWNrdk1NRTNYR2FobEpnWnZMbWlfNWZGU2U1RXpEVklLS0pPVmF3aC1lMV8yOWFqU3JCOWZTamlOSllUanEwWG15Z3ZDV1hKWlR3Q25hSXdtVnNIellIT2FkTGxENFoyNFZjbUtWNUlHRnprT0lmYnZOazlRbVVXYXZ0TjdFQ2Vzb1ZvWTRFRGFEZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T04:39:44+08:00"
+      "time": "2026-08-28T04:45:00+08:00"
     },
     {
       "title": "Jury deliberating in trial of Lindsay Clancy, US woman accused of killing her children",
       "link": "https://www.bbc.co.uk/news/articles/c33keeyyv70o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-28T04:39:16+08:00"
-    },
-    {
-      "title": "Lindsay Clancy trial in hands of jury after closing arguments conclude - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RC1ZUnBkVjlpTWFRUE9BMzhwSnJnQUlLRWQxbGE4Y0pNbmRJaDJKLU8zclo5clN2cVhwWkRua3V4ZVdseGNnVjR4czJyQ1RqY3laYm5Wc2I3QQ?oc=5",
-      "source": "Google News Top",
       "time": "2026-08-28T04:39:16+08:00"
     },
     {
@@ -101,28 +119,28 @@
       "time": "2026-08-28T04:03:34+08:00"
     },
     {
+      "title": "Texas releases ICE agent charged in Minneapolis shooting - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3Y2b2J6MS1KZ2FnMUU0STFLeHBkeDBoUFFlUlhCTFVNS0hMNTJLbjBXZ2U3ckFMc0g3bHM3cnBZT1UyV1lnYnpOUzRJNmtkYl93THJsMlhmZWd5UmxlOHQ4Q0VuVXpBQVdoMWlpY2g1ZDRjZE1BeDZxOHJ1RF9neUNEXy10ZEEwNDdlVkY2NldHR3ZlUUJ2S3dPLUJTTE15bXg2Z01HdHAzcVRYNGVzd2IyYk4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T03:59:00+08:00"
+    },
+    {
       "title": "‘It’s death by scurvy’: Tristan and Andrew Tate seek bail as they fight extradition to United Kingdom - NBC News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjc4V3FpMjNaZ195aTRPNnpTSDRWZ2lpWndWMGlNVjVrM3lWTGpuWnRQcnZvRml6dC1fbk1fdTA3ZG5sQWZGRjZvVzZEai10aUtlNWxKWGFhcGdxQXdyaUl6SllsMENhcGx4NXgtN1l4LWt4Q2haQ2o4OHBidXVOY016ckEyVmc5ZHJnS2Vjek9mZGVmOTMwTjR1MEtpeU0?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T03:54:21+08:00"
     },
     {
-      "title": "Trump signs order renaming Lake Ontario as ‘Lake America’ in the United States - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0gxNnZkbVNqbFIwejlNc1h0V19Cb3pzWF9NcXM0d1RRRFduNU1xWU9BVEpscUMtcEZoSWgzVUxFR3E3WnFub3NYRkNZOFJzY3J0S3JfMkszWDNYUkdOd243SlQzZnVfbEdDbnhQRGdya0RWRUJrbm1nekVUU016NTVLNXI0LUJvb0xmODdHc2hPbDlmLUtZR2xIQWlZY3o3YVVqOXJR?oc=5",
+      "title": "Jake Reiner’s 1st interview about his parents' killings, his brother's arrest, and moving forward - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU0pyLUxEdG9TT0xaUkswVV9HSV80MFlkQWdERFJtV1VfSTB4aV9wdkJaMGNWNUdHZjYtdllGRVVsa3NxaVFGc3ZSQnNFVnEtWVdQSnNGdGFUb1prOVluSElGZEthM0QxTFJYc1RkalhsMVpzNVNzQlRGd0tQWi1wekMwZzBkemIwU0RNZXBSZkM2dTlvaTJhb2RmcVFES0w0MXNCMkhROTFRUUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T03:50:00+08:00"
+      "time": "2026-08-28T03:26:10+08:00"
     },
     {
       "title": "College football's top recruiting games of 2026: Lane Kiffin's return to Ole Miss headlines must-see matchups - 247Sports",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRG1wSTVyRTdmRi16dUxKc3IwUzRvSjk5SnVac3ZkT2hnazE4aVdrMXh0NnVVQl8tWmZCbE52LWxSaWlXMFVCNWFSUkJvRzBZWWdZM21oM25YUWlPXzhyR21ZdFYxMTQ0NllUTWhjUHhGcENJeTFJRjBNcTZtMlZwUmxIdjJDOE56NUJxSU1wOFBjV1YxUm81VnQ0MUZmWGxVNkRzQUhiMHJPZGhvQXJ3Wm9R?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T03:21:55+08:00"
-    },
-    {
-      "title": "Alerts from Trump’s helicopter went unheard at Reagan National - Politico",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNa0Ruc05lb0RqX1B2RnNtY0JGQjNnejNOc29TUzk3Mk9GdlNLNkFjX0x3NS1uYVU4Uk95bldWdFZFelNyZnV3MkhlMzlKVGdzQ2V1UFIyM3lBYllob1FxUTF2NjZoTldqTm9KNzVuSmdSNmtiOVpHMVgzVEdVYkY3Y09zMnBjRnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T03:16:00+08:00"
     },
     {
       "title": "‘GTA 6’ Drops 27 Minutes of New In-Game Footage on Netflix Amid Ongoing Rockstar Games Leaks - Variety",
@@ -143,34 +161,16 @@
       "time": "2026-08-28T03:13:07+08:00"
     },
     {
-      "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T03:09:35+08:00"
-    },
-    {
       "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjJCallHZWxCYmRTeHlaRDBoSC1GaDE3Ym53M25LX1lhTUROUHNzclh2ZTlyUm9HVFNwWVBnZDZrTEZfWFRqTkJQRWROSlhKbGJUSzNPM1o3SG9UbFBzaUwwWm1YNWN0dkNFYzhQV2VKOVdTWWN3ODRfenIyRHpKMFlNMFdoVUhYMi1KVE9mZkxCcmQ2SnpsTDAydmx0NWs5QTg5RFRfWmLSAa4BQVVfeXFMT1p2ejEzMkVDblNMdDJibE8wVGhoQjJLUzdhSE9MZ3haZ0JwOV9zOGt5cXlYRlpkRDlBbDlZNnhCbmFOejRoUkp0QXdYQnRESTZ0YlJJZ3diSlU2Q1VGbER6blFyNW43aXdqUEI2TTR2MnNKaGNTRVVUNVR3Z1NhUE1wUTVVQ2QyWU45Yk41akdkMm9rN0lubzBjR0ZmeXc5TGZ2SjBPZVpIUTlDVE9R?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T03:00:26+08:00"
     },
     {
-      "title": "Google tells Android app developers to cool it on memory use, or else - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01S3pHUnRQWGlrbjR0ZFVrVmM1bnBYY2IwUlFYNUlkSHFyZGVOZWJOTzdIZmN1WVRxdkJjOEt2VEw3endxTjhxNjVXcE5FaVpNYUduVXZlM2xPYWFiR1p0NV9FdWJIem84bXoyZEZ1RG9qbHF1WHhfNGhwVFE?oc=5",
+      "title": "Iran War Updates: Tehran engages in renewed diplomatic push, touts proposal to reopen Strait of Hormuz - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzJMQjNVM25NNWFDSVZ5MjlBRThTT1o3Q3k4QWZRemJLa2VEajBVR0l4OW0xVUNURWZraGVRcGlFWm5iZDZUektjWnlwQjdVdV94YU94Z2hlVklPbW1uc0dkYVdNQlhmeldmWG9OWjJrSHB6UkVFeEVjTXlvRkxTLXNn?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T02:33:11+08:00"
-    },
-    {
-      "title": "New telescope could rewrite what we know about the universe - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1BmRmo3RlVJOG40WU9PdG9VZklaWnBTblFwMlBHbkJWSmtUMG9CUTZqNW1UQllkVUhHd3hYbkRybWVaemNtRFdBV21MSFlVSlBmWUF1ZkloNC0zbjBqUk5vNWZWSDFMVjkwTFFQRFphU3FvT0lQV19Sc2hQX3BRbFEtWlo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T02:27:27+08:00"
-    },
-    {
-      "title": "Peter Cullen, voice of 'Transformers,' 'Winnie the Pooh' characters, dies at 85 - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY3RTMUZIVlZDMkpQaENmMmtqUmRKcERQV2ZjZ0pwbEYxWGRGU2RhMFN6aUZUdHE0MjVWY1ptaFdybGdvTWZTY1ZaWTV3RTRRcUFudnVDclNfaVVDS1ZVcW5QZEh5RmF2OVNaUkcwUWJ4a19JRGpnSzJNeHgxUmNzcmlYWkdMVThjT1NCNktHTHpRcnNaUURSWXByM3VUd0U3dXg1RGRoeC1iYkpYc1ZR0gG0AUFVX3lxTE1QaV9jU0NXTnp1ZVZaa2VyZnAxcHpxSEZ6aUI2UkVJNnRWTVhOZDE4SVl0YkppTUpJZWxYUGMyYmRYS1VBSmZXUWdNMWo1aFZ0YXJRS2M3VVRNYkdkZER0cUpod1h2X2Etak9ZU2g3d05QZWEzRFYtMnNxdThLdFl2bjRzM0VHcmJaOHZnNXo2VU9XelY3N3RGQXlZUWFVYUNYNEV2MjRFcmVLR3dfZ0tEZ1lyaQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T02:22:49+08:00"
+      "time": "2026-08-28T02:36:00+08:00"
     }
   ]
 }
