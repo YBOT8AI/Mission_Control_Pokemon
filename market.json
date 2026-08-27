@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T18:30:11.769625+08:00",
+  "generatedAt": "2026-08-27T19:02:14.837355+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624165.92,
-      "changePct": 1.29
+      "priceHkd": 623985.6,
+      "changePct": 1.15
     },
     "ETH": {
-      "priceHkd": 19622.11,
-      "changePct": 2.0
+      "priceHkd": 19623.68,
+      "changePct": 1.39
     },
     "SOL": {
-      "priceHkd": 813.01,
-      "changePct": 7.29
+      "priceHkd": 815.99,
+      "changePct": 6.83
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1154.77,
-      "priceUsdOz": 4581.3
+      "priceHkdPerGram": 1156.76,
+      "priceUsdOz": 4589.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.24,
-      "priceUsdOz": 68.38
+      "priceHkdPerGram": 17.27,
+      "priceUsdOz": 68.5
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 645.08,
-      "changePct": 0.06
+      "priceHkd": 645.86,
+      "changePct": 0.18
     },
     "Natural Gas": {
-      "priceHkd": 22.75,
-      "changePct": 2.11
+      "priceHkd": 22.76,
+      "changePct": 2.15
     }
   },
   "news": [
+    {
+      "title": "Tanzania's VP expelled from ruling party for indiscipline as his successor named",
+      "link": "https://www.bbc.co.uk/news/articles/cp3kwgyp1vwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T18:25:32+08:00"
+    },
     {
       "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
       "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T18:20:17+08:00"
+    },
+    {
+      "title": "What caused the Nepal-Tibet flash floods?",
+      "link": "https://www.bbc.co.uk/news/videos/ckgxnrg8j19o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T18:17:45+08:00"
     },
     {
       "title": "Partial lunar eclipse Aug. 27-28 live updates — tonight is the night! - Space",
@@ -89,6 +101,12 @@
       "time": "2026-08-27T17:41:14+08:00"
     },
     {
+      "title": "Russian Sanctions Are Fueling a Canadian Car Theft Epidemic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUDdYYkJEd3puZ1kxc2NiRnlVUlB5bkJFVkpwbHNnU0RvcWFTTVdnR2kyRl9fMElGM0RvWnJGbW05RnlWbHd3REJyUWxiYklpanlGYS1ITWcyVFhLZEtqbUZxMlc2ZTM2a1BwVVVhaENpaW1jMVhuZE02bTRpcG5pa2JpdlBMVUZOVlAzbHhDUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T17:00:38+08:00"
+    },
+    {
       "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it - NPR",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0VyczQyNWJHTGhJRHhVN1lHYUd2TEpacDQ4WlItbjJZdV9pTW5xU29ULVFJZ2t1aFZLQ3F5aVBRNUE2Q0cxTjVNaXJNMXNTZkhfSkh0c1ROSDlhUzdLS3FjWnhwQzdCVm1HQlJmeTZXZi0xTUlzd0xjNWVPVEJDbDlrcThaWGx1aURmQUswdDhUWm1tWWREeQ?oc=5",
       "source": "Google News Top",
@@ -113,16 +131,34 @@
       "time": "2026-08-27T16:47:36+08:00"
     },
     {
+      "title": "Trailblazing artist Yayoi Kusama, ‘princess of polka dots,’ dies at 97 - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52LTlWb2Fmd2NzTWJHczdHUDVQRFA1Vm96RHpBOGI2RW1PYlFYSjlZQVpxNGZRSnZ1azd6QTUxQTYyUkFMQ1FHS1RzRkx4THZfekNxNFIwdTJvUDVkNExtUDh3akowRmg1dEYtOEFib2p4eGYxTUt2UlhxRDFKQ00?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T16:40:48+08:00"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Nvidia, Salesforce earnings boost tech - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV19GV21jUzBTUXUzS1l3ZW5obXFHNDU3emZTLXRyMzVaVl9aTVpXUHlaSmdXeHdNbXpDeEFObmVZblQ0UFNFQmNrcGV5Vk9NaTZJemNwTjNuMTV0S3lBVFdDY1NsejRjcjRSTDdCS1Vobzk3ZWJUTkhsejhPdFEwc1ZoWHhySDFKekVHblV0TEFOLTZSMkJYMkFVMlBtYzI1VFE3U2I0a0plcXJITFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T16:21:44+08:00"
+    },
+    {
+      "title": "Dolly Parton latest: Miley Cyrus shares emotional tribute to ‘angel’ - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONzh4RFItdkpmeWZyeEtzNUI2elZZWThhNnJFZEFlTWUxZS1FZzBRNlJKdjdVNHhtbF9rM0stcmo0UE44bFVXTklQbS1ldEcwTGJORVJWLVJVOEJEWWtFcy1ZNGpsem9wZ2d6QWVndzN5QlV3a21ndjJieXEzcFh2Z3ctaGZTSDhIZWNXYU9GYkJyMWw2SFg1TTlmNHgtcFJhMGJRdWpuc0w0TGd6RElwU0RrTUNNdHlBUUVoTmpfYV9SdWlBeFZsWjBB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T16:00:00+08:00"
+    },
+    {
       "title": "What we know about deadly Nepal-Tibet floods - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VNGxWa3FiOENMZ0VKa01JQS02Sk1YNE5hQlhqR0k5bFZBLU0tQU5qdDZRZDlXQ2w2RzY3RVdoOGZhV3g2bkJERlgxZlpQS1pmSUxIbGtIdkcyZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T15:43:04+08:00"
     },
     {
-      "title": "Nvidia projects 70% revenue growth in 2028 - Axios",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oRFVrbV9ibGpJRVVDQkVKbE83R2tzLVdUVVJIY3NPRXFvQzJsMzlXWjFTR242akpiektLVTNPdXVyak0xVGdZUE02MU1KeFo3V08wdjNRT2pEb0hOQmh5N1RtbG04bVdxU2RncGZ6THFCQQ?oc=5",
+      "title": "CIA chief John Ratcliffe reportedly made secretive Moscow trip to warn Russia against attacking NATO - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc2xXeUFsbWVkUVFlRk1ycklJek41ekRHMFhyWjc4UjRxNlpYdFhjbXd0RVRxQ2JjS29CNGUwR0dJQUQtQmJsZkp2RVBUZ3R6UGxLTUYzQXFFSnlob08xeC04dlBJQno5R2lSeWVZN0pNeWtPWHVuY1I5ODRLOU5Xd3FLMELSAYoBQVVfeXFMT3JQOVF1NzFkWUt2Sm52Nk81ZlZoaEVtaVJubXQ3TmI5Y2FoOG5rSGg4ZEpiRllpeXhMYnhJMlJNTjBwNjJQa1FkMm14LUJjR1lsTnEzY2lBbXdOMVdpdzFURnZBVmVNOUw2RFhZbk43SFZPV1FXYkdrdW9hZWgzeE5FYUlsbGtzV21R?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T15:26:19+08:00"
+      "time": "2026-08-27T15:27:42+08:00"
     },
     {
       "title": "Small plane crashes in water next to remote Alaska coastal town, killing all 4 on board - CNN",
@@ -135,42 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T15:09:52+08:00"
-    },
-    {
-      "title": "Two dead and 10 hurt after car rams into crowd in northern France",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T15:07:34+08:00"
-    },
-    {
-      "title": "Key moments from Lindsay Clancy's five-week trial over children's killings",
-      "link": "https://www.bbc.co.uk/news/articles/cg7mlmg475go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T14:41:10+08:00"
-    },
-    {
-      "title": "After six months of Iran war, US goals have shifted. The Strait of Hormuz is now a top concern - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZlZ4TnNNdXJtWWpPUjlWa2R3WW1hbGRwTHN5UTJKRnpmclFheVV1X2VUZnBCNDhjN29IcHp1S2RIWXBrQTY2TnJORnRXUjB3MkFzNHlnM3BzTXVGb0RJVkZRX2VNR3lXMW9scjVJTXZuZS1RSU9DYWItMHRsNHBHUHJDV0hfZkRfZTllX0xDeHRMTlNUalE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T12:09:00+08:00"
-    },
-    {
-      "title": "What incoming Seahawks owner Vinod Khosla said in his first press conference - Field Gulls",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3NOUVU1S3FzMWlkZk1QcnB6d1ZpMVZLNXpYOHJRSUUtRndNQk5DU01uSENLbkttYWk3SnBjNzBXdS1tZzZIVXZfUEtvN1UwWkd5V2NVcUxMNnpkQUFSN250RDBMaTR4M2dycmRVTTlXRE5JT1VpT1RTcjFVOXJocU9QSGNrNWNUZGUxMXB3SVozUm8wQXJHbW9nSUN4dzNUNU1ucUx2T0dfVV8tX3dESko5dTRuWVRqOUtEN3pCREg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T11:23:00+08:00"
-    },
-    {
-      "title": "Harry Styles Pays Tribute to Dolly Parton at MSG: Concert Review - Variety",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd3NxaDMtb0VlN19sTDNXaWhYSWhLSVk4OVNXZDhnMUM3MFRfZ2RsaW9oN1VMb0lHdW1iblN3c2xzeG1GWFVNaVhBRU1MZUZrU2VOUlQtX3YybXdVaDg1Rk9XRGhhaXFSM0dVWlk5QnJ6eU4wbHlYRW4wb2daSDdMOEtrX1Z3WTdLNVNYLWNYbWl1RkY2R1g2RUMzYWx1cDJ5ZjBnb3VR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T11:08:00+08:00"
-    },
-    {
-      "title": "At least 12 dead as wildfires sweep through northern Algeria",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T10:10:18+08:00"
     }
   ]
 }
