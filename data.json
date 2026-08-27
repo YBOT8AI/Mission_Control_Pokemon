@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T00:17:43.591211+08:00",
+  "generatedAt": "2026-08-28T00:49:44.572299+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -272,8 +272,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-27T23:53:55.967529+08:00",
-        "next_run": "2026-08-28T00:23:55.967529+08:00"
+        "last_run": "2026-08-28T00:24:58.130936+08:00",
+        "next_run": "2026-08-28T00:54:58.130936+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,8 +290,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-27T23:45:49.588429+08:00",
-        "next_run": "2026-08-28T00:46:47.309904+08:00"
+        "last_run": "2026-08-28T00:17:53.412380+08:00",
+        "next_run": "2026-08-28T01:18:49.137713+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -317,8 +317,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T00:00:46.664932+08:00",
-        "next_run": "2026-08-28T00:30:46.664932+08:00"
+        "last_run": "2026-08-28T00:30:49.071774+08:00",
+        "next_run": "2026-08-28T01:00:49.071774+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -326,8 +326,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-28T00:13:47.128062+08:00",
-        "next_run": "2026-08-28T00:23:47.128062+08:00"
+        "last_run": "2026-08-28T00:43:49.163091+08:00",
+        "next_run": "2026-08-28T00:53:49.163091+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -371,8 +371,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-28T00:04:46.859383+08:00",
-        "next_run": "2026-08-28T00:19:46.859383+08:00"
+        "last_run": "2026-08-28T00:34:48.726269+08:00",
+        "next_run": "2026-08-28T00:49:48.726269+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -562,11 +562,11 @@
     "uptime": "3 days",
     "cpu": {
       "loadAvg": [
-        1.27,
-        1.17,
-        1.19
+        1.01,
+        1.16,
+        1.16
       ],
-      "usage": "12.9%"
+      "usage": "12.4%"
     },
     "memory": {
       "totalGb": 16.0,
@@ -577,7 +577,7 @@
     },
     "topProcesses": [
       {
-        "cpu": "2.9",
+        "cpu": "2.1",
         "mem": "0.1",
         "name": "python3"
       },
@@ -587,19 +587,19 @@
         "name": "sysmond"
       },
       {
-        "cpu": "0.4",
-        "mem": "0.0",
-        "name": "notifyd"
+        "cpu": "1.2",
+        "mem": "3.1",
+        "name": "Google Chrome Helper (Renderer"
       },
       {
-        "cpu": "0.4",
+        "cpu": "0.6",
         "mem": "1.9",
         "name": "python"
       },
       {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "launchd"
+        "cpu": "0.5",
+        "mem": "2.0",
+        "name": "Google Chrome"
       }
     ]
   },
@@ -743,6 +743,14 @@
       "actor": "YBOT8AI",
       "time": "2026-08-27T06:03:48Z",
       "title": "docs: add CIES wealth-inflow cohort to market research + exe",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-27T04:06:50Z",
+      "title": "fix: run monetization migration in production + repair RUN_T",
       "detail": "1 commit(s)"
     },
     {
@@ -911,14 +919,6 @@
       "actor": "evilmoni",
       "time": "2026-08-21T01:05:22Z",
       "title": "feat: complete the Home Repairs catalogue — 9 jobs to 30\n\nCo",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-20T22:19:28Z",
-      "title": "lucky8: revenue deliberation — 2026-08-21",
       "detail": "1 commit(s)"
     },
     {
@@ -1250,7 +1250,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-28T00:17:43.210178+08:00",
+    "generatedAt": "2026-08-28T00:49:44.279950+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1258,8 +1258,8 @@
           "temp": 26.4,
           "code": 95,
           "precip": 0.2,
-          "wind": 11.2,
-          "time": "2026-08-28T00:15"
+          "wind": 10.7,
+          "time": "2026-08-28T00:45"
         },
         "daily": [
           {
@@ -1288,11 +1288,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 25.9,
+          "temp": 26.1,
           "code": 53,
           "precip": 0.2,
-          "wind": 4.2,
-          "time": "2026-08-28T00:15"
+          "wind": 5.0,
+          "time": "2026-08-28T00:45"
         },
         "daily": [
           {
@@ -1328,12 +1328,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-28T00:17:43.591124+08:00",
+      "time": "2026-08-28T00:49:44.572193+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-28T00:17:43.591124+08:00",
+      "time": "2026-08-28T00:49:44.572193+08:00",
       "type": "info",
       "text": "⏰ Cron: 27/31 jobs healthy"
     },

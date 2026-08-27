@@ -1,57 +1,81 @@
 {
-  "generatedAt": "2026-08-28T00:17:43.667230+08:00",
+  "generatedAt": "2026-08-28T00:49:44.651418+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 630829.92,
-      "changePct": 3.14
+      "priceHkd": 631284.64,
+      "changePct": 3.2
     },
     "ETH": {
-      "priceHkd": 19786.67,
-      "changePct": 3.07
+      "priceHkd": 19820.54,
+      "changePct": 3.41
     },
     "SOL": {
-      "priceHkd": 840.13,
-      "changePct": 11.87
+      "priceHkd": 852.68,
+      "changePct": 13.47
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5553.7,
-      "changePct": 0.59
+      "priceHkd": 5561.77,
+      "changePct": 0.74
     },
     "SPX": {
-      "priceHkd": 60560.08,
-      "changePct": 0.64
+      "priceHkd": 60648.12,
+      "changePct": 0.78
     },
     "SPCX": {
-      "priceHkd": 1105.83,
-      "changePct": 1.02
+      "priceHkd": 1102.07,
+      "changePct": 0.67
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1160.82,
-      "priceUsdOz": 4605.3
+      "priceHkdPerGram": 1162.53,
+      "priceUsdOz": 4612.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.48,
-      "priceUsdOz": 69.34
+      "priceHkdPerGram": 17.53,
+      "priceUsdOz": 69.54
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 648.21,
-      "changePct": 0.55
+      "priceHkd": 648.37,
+      "changePct": 0.57
     },
     "Natural Gas": {
-      "priceHkd": 22.89,
-      "changePct": 2.74
+      "priceHkd": 22.98,
+      "changePct": 3.13
     }
   },
   "news": [
+    {
+      "title": "Near total lunar eclipse will be seen from North and South America Thursday night - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE5Ld1JadTRZM0hyODdvUDJaSzl1SW05eDI3ZndGb1pVWnpJUU5iME41b0ZhZE1UVDdBVDBTcW52RHlmaHNrOWQzcTFucjdjdlNaWExFam1kLU5RMC1CUkItTE1yYVg2UHVHTF9TSXdOSTBvYnJRSVUwU3dTa045WHZ6Zkx4dHh3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:41:00+08:00"
+    },
+    {
+      "title": "Tech stocks bolster Wall Street as Nvidia quells AI growth concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQjFsZE5oMDdHNmpjOTd5V0dmUHItLXFIbzQyblhZQ3Bfa0tGcmFDM3ZHS2ZJRlJEZzhDMXk2b2syeVRZNndVNzZvSnNVSnRFalZXUXJhUm5aZGVUVHVSZVQ0VzllN09IcWtOZENfRmV5eW9fOGU3Mi1JN1VNWGJ4RE1aY0gycWJfRjRrLXpzTmdoSXlSMW9vVHVtdTNJVmdhS0tXT2FwS2dGbGM2?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:15:34+08:00"
+    },
+    {
+      "title": "Tracing the deadly path of the Nepal-Tibet flash flood",
+      "link": "https://www.bbc.co.uk/news/videos/cp80m87pez3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T00:13:39+08:00"
+    },
+    {
+      "title": "College football odds, picks, predictions for Week 0, 2026: Computer backs Virginia, New Mexico State - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOemc4NWt5N2ZxZDZiMldNa3JFZVU5U0FQS19NU2NWc2VCYThobHdhSGhkdUhfV1lwOV9uLUtWalpvNHN6LXRteUhWUWhFeTRwZGNLa3hQZk8wSWVGa2NvQWY0aU1JU2lWbXZaVU1ESnlraVNidElmWFRUaTBkZDU4RmdGd0hVUHJVeGVXTUtUazdiWGFQRHJLUjNhM24xcmQxcmRjZUtIZXk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:12:25+08:00"
+    },
     {
       "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
       "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
@@ -83,10 +107,16 @@
       "time": "2026-08-27T23:47:34+08:00"
     },
     {
-      "title": "Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T23:44:00+08:00"
+      "time": "2026-08-27T23:42:00+08:00"
+    },
+    {
+      "title": "Catastrophic floods kill over 360 in Nepal and Tibet, with more than 1,400 missing - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T23:35:00+08:00"
     },
     {
       "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97 - The New York Times",
@@ -101,16 +131,10 @@
       "time": "2026-08-27T23:33:36+08:00"
     },
     {
-      "title": "Sony's Reon Wearable Air Conditioner Saved My Sanity Through Multiple Heatwaves - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzeEk4aXp1SnFWVWVyQ2RUTnFVME0tVl9aZkpUMWViR3BGWkZ1aUpwNGJncEFWR0NqaEkzQnI2bDloakxST2VYUkNvN2RyX01FQlExMUlmS1Z5VXVwbnA3dGh0M1VxSTVqMjZNX3BtbEhra21W?oc=5",
+      "title": "Meta’s $18bn settlement: How social platforms will change for child users - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkExN3V5d2h5aDVveTlMS2xwY0prbkNnNS1ZRzRLWW1QNS1OZXN5ell3bTREVDNHbFFVUHVEUnU3UFRmeFh0dmx1SmtwTHZTaEZOX1BzNWpWRy03SExjX0JiTlFZa1NkeHR1MU50Y0ctUVFERFMzQTFPdlhwS2tVOXJCamo5YklkT192TWt3b1J2V3dRc01PVldldlRPTFNZcElfTjhRZnVqNkJQS3RYeXRxSTYyUdIBuwFBVV95cUxNMDRheWdRWFZvSGpaODU4WlRMbHZrZWhMM25Ba3lpS3lEQzZUeF96NUs0UlJJN0UwNHExcUtPbkVVWUhlOUZZeGtWVFRITUNHLUhKVEYzR0ZFTDBQS2V2ZHZhbm00QXlncjZNMTBJcW1YWVQ4RXQ2eEVDeEJnNWl6N0RhOUpZcHpBOFpVRzZocDc0ZVQ4ZUZCdUhNNVFNaHU0cVU0MFJZVTMxbHdWU1c4QkY3cThsb25VMllz?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T23:29:48+08:00"
-    },
-    {
-      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:25:00+08:00"
+      "time": "2026-08-27T23:19:48+08:00"
     },
     {
       "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
@@ -119,22 +143,16 @@
       "time": "2026-08-27T23:16:54+08:00"
     },
     {
-      "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1pWdnZod2NfMzhhUVNKUkluTS1OT2k5U2ZHLVFsMkhqMG1Vemd2LW0yYm52ekxhdzhFZnZmU3FvR3FNTEl1VDhHdzBDWXZlMFNEWEY5OFRjR3JON1FyRlVpVUhrMHBBSzZRMmd1dHh2NlRuVUZENVRndjlnWWg2ZEY2RmM2T0JEUThHbmxIRC1Sc3pndFFBUlRjQXM4QQ?oc=5",
+      "title": "Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85 - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcWlIdmVnS05ZYlA5UlVfa2NSU3RlWGZqQXVxek00T19taDM3cWhBUmFjRTBqOHNRLWtrUUROUnNwbzhTUUVBUzZ3ZVc3NW5kdnhhaGFSNDRNZkRjT2wwMDJVcXdwTGxkcmRsM2JOQ29TYkZMazVBOXlfWkR3SHI5NTY5aU9zLWpsT3FnNW1acmZpX0YwMlNzQ3pHUUhnMktjN1E?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T23:16:46+08:00"
+      "time": "2026-08-27T22:51:00+08:00"
     },
     {
       "title": "Jellyfish force partial shutdown of French nuclear plant",
       "link": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T22:49:23+08:00"
-    },
-    {
-      "title": "Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85 - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTjdWdnlrd1BWdjdSQU9Ia0FWZms3cHA3VGYzZ3MwV2FvMGFmMWxOeWVfdTkyUWpDbEVXNHNCZHVzWkhHUWE1Z0trNUt0TTNHcUsxNjFYQnN6OVdLMkUtak1maktyaG9pNjMwMkJVeHU2ZmR5b3k4VFFCeHhkR29hbHZBbElNOVZWU3Jmb0dORDBkbFNpSVBPaUdpeC00Yk9wSDlSZTRwQ2xLdGliTXBJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T22:30:54+08:00"
     },
     {
       "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
@@ -153,24 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T22:17:24+08:00"
-    },
-    {
-      "title": "Russia bombards 9 Ukrainian cities overnight, calling the strikes ‘massive’ - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQURoUEhEcFk3STd0XzZscFVBTHBnRzV2LVRsVDdpM1UzU2V2TzJwbmU4OS1xeVZuOFlSQUNaYktJV0czSjhvdTZVdlpLOUJoaVFvNllrYTByTHQ0ZFlnc3VLeFZWa3VneTFyVUZvTnhUQWpCUGFLMmlIb1RqNEFYVnFVSUNIOGxHWVRGUko5TXhYVkw0RXZuU2UyeUNzS1Ra?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T22:15:00+08:00"
-    },
-    {
-      "title": "Bad news for those hoping to see a lunar eclipse tonight - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVJJNTBQTDdiWnJ6M3QyVmp3eWpFTlVicEppYlVXRnotRmV6SThsM2dTU2dHeWNtUE1TZy16UUtpM3pNZGFTbVpXQlJ0ZWdTS29kMFBxU3llVmdGQm5KNkZpR3N2T1c3TThvdEpUZWQwcWFPTG1pWkJ6TEswajlUQV9JMmsxajgtbDFBUGFXSHN0OEc5ZG1EbWFCTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T22:03:17+08:00"
-    },
-    {
-      "title": "A Massive Iceberg Broke off Greenland. New Images Show What Led up to It - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFBTR1RiTlBMVzFwMEFFOHRzWE9lbFdDNWpwZ21lZmt1N1FmUUxBaTU4R2JBTjlEQzF1aVlRZzlxRFAtaktMWVNlSVl4cm5yak9OQzNuaGdxWDVWVHZfc2Y4NEVYQUVUTVpmTW56Tzk1eUgybEQ3YmJNTUsyRmM4bFFDcmtlZ09IZlRfSThBTnhBVExiRDNqRFE2aVlRNUxMV1oweA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:55:47+08:00"
     }
   ]
 }
