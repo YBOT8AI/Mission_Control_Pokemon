@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T10:03:34.334830+08:00",
+  "generatedAt": "2026-08-27T10:35:33.382378+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618881.76,
-      "changePct": 0.15
+      "priceHkd": 617509.76,
+      "changePct": -0.55
     },
     "ETH": {
-      "priceHkd": 19603.68,
-      "changePct": 1.78
+      "priceHkd": 19568.95,
+      "changePct": 1.12
     },
     "SOL": {
-      "priceHkd": 796.62,
-      "changePct": 4.81
+      "priceHkd": 793.56,
+      "changePct": 3.87
     }
   },
   "stocks": {
@@ -33,48 +33,60 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1170.42,
-      "priceUsdOz": 4643.4
+      "priceHkdPerGram": 1167.15,
+      "priceUsdOz": 4630.4
     },
     "Silver": {
-      "priceHkdPerGram": 17.58,
-      "priceUsdOz": 69.73
+      "priceHkdPerGram": 17.49,
+      "priceUsdOz": 69.38
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 639.82,
-      "changePct": -0.91
+      "priceHkd": 639.67,
+      "changePct": -0.93
     },
     "Natural Gas": {
       "priceHkd": 22.88,
-      "changePct": 5.38
+      "changePct": 5.34
     }
   },
   "news": [
     {
-      "title": "More than 150 dead after crushing floodwaters wipe out villages on Nepal-China border - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T09:43:00+08:00"
+      "title": "At least 12 dead as wildfires sweep through northern Algeria",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyd4x6nj4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T10:10:18+08:00"
     },
     {
-      "title": "Tim Curry, actor known for \"The Rocky Horror Picture Show\" and \"It,\" dies at age 80 - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWbmxKdFhjcWpfRzJwWC1yZzI2VGRvcE9jbUx5OXh5b1NpYk5aT3I0MUtGczRxU3dvaFg5dGJpX18wZjh4ZWFFdmluekJwNFA1NG5iYUExbG51YWN1bFA3OHNTdWpGZDd3VkNZMlVTNXg?oc=5",
+      "title": "Nepal flash flood live updates: search on for hundreds missing near Tibet border as officials warn death toll could rise higher - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzgzdDVxeTZHZHJETVFQbHRQaVNRa2VqSF9EV1drSjlnZWdzN2RieWxSYmg3clV1U0g5MTAwWlQyb1h2a1lPNThLODVGd1ZGQ0xUM01tb1FyRGk1U3dveUFvZlp4QUs3MktFRUNOZ2xxcEx4MEdpV25zMkF1R0NBRWZHUF9CMmRBeWZJZEY4c192bjJMWS0zQ3RtNWZEbXFFQWtnb09KWUNyWUQyR1JOZWh1Y01tS3ctSGpmQXdpelR0d09NR2ZrSXIyZlZmR2lwd095ckh5eWtfRnU5dTlUTE40OXRBUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T09:36:50+08:00"
+      "time": "2026-08-27T10:08:08+08:00"
     },
     {
-      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
+      "title": "FDA approves pancreatic cancer drug that extends patients’ lives - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS1KNUpKdXR1VXFBdWlnZ3JHTlNtaTdlQkRXNGdzRThoVzBMMXVJZDFCdkNHSDJHTC1XNExPLXRaaGRqREx5MnprSUlpUHRPZmJqNHlaamk1T005OU84UVhlVWlsR1RJUXY1QjhNRzQzTlVZZ0lFaUtSQi12Sjh3MVV6LUpWNEhTTm1Bczc3NXZpdDhMQXlfRnVSTDZJM2s3bUhENllRTmFHSnc?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T08:44:26+08:00"
+      "time": "2026-08-27T09:49:45+08:00"
     },
     {
       "title": "RFK Jr. says Shapiro’s office may have fabricated measles deaths - Politico",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVU8zNmdxSmNpQkthaTlKM3RXbDJseDhseW9NanhYUE5xQ1ZIVU84R2xvckVoU2hVZHNRcXgwWlFXdDNnOEVLRThDYm1QMlNpd01vV19xYk9adUFuVWV2WDJLWWFESHM3MUREZFJ4eUxGVUMzNGtPQ3FWSUJIWDU2UXhaaW9hdE05elo2d2tySUhDN0hCV2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T08:32:00+08:00"
+      "time": "2026-08-27T09:32:00+08:00"
+    },
+    {
+      "title": "CIA Director John Ratcliffe warned Russia not to attack NATO during secretive trip - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUkzMHpwU19pTVNicHZoSm9aY1ZGbndBRXdSemxyVF9LdEVTME1KZVJPOUpnM1I5MC11eE9QUnpjVGJlTkFMdTZ1czhRSzBPZDAxZ2pWNzVxWld4NTAxRWpLbEllcWJQR2RabGpYVUxQZXpNMkt5Nmpxek1IejB5WDZXMUQ1TUFRaVdiSkp0bjBESGlSRlpaNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T08:39:00+08:00"
+    },
+    {
+      "title": "Maryland court rules Democratic-backed redistricting amendment cannot go on November ballot - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUF8yaDBvRG1xWDZ2R2Fzc1FWelZmMi1rR0c4aE1zdks4MFgxR0NpdVV0dVk2TlNpMGVYUzhodDZOTDV1aWltZjlFdUw0dUczUFNoZFE5R2pzSTAyV3FYRVprbzV3dHU3bU5TZXdSWENFbS1IczY2QV9FOU1FcnNlamVoYmRjcHBHX2pWU1QyNUJDVi1sRlJDZGR6T3F1Mk1DNEtIR0tBZzhHQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T08:36:00+08:00"
     },
     {
       "title": "Judge Sides With Texas Over Minnesota on Extradition of ICE Agent - The New York Times",
@@ -83,16 +95,34 @@
       "time": "2026-08-27T08:21:38+08:00"
     },
     {
-      "title": "Nvidia earnings takeaways: Huang forecasts 70% fiscal 2028 revenue growth, far above estimates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
+      "title": "Trump takes major action to slash soaring beef prices for US consumers - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTJaaVN0Vk5NYWZpbF90ejV4eFBCaWdJdXVYM3pwTUVYUk5uSWpYazd0M1owQUNWcFBnLW9sV1ZsbC04UFZFME9PXzI4d202NjhJSzd6S2ZFWFQxUy1BTUtaNHViaWxXTnRRdjQ4UktHRi1tVGp3bTlURFBBX3VacWFFeW5xYnNTYkYxSHYxUUpuend5QU5MV1ZDa0tWRHNOZkHSAacBQVVfeXFMTWNhS2M5MWpzdUJhbU1hczhrX3ppTU40dFFZVVlpLTR2WEgwTDNXY0ZfLVBob1JwQ05tR0FVZ0dtbmwtcGlKQjhhbjJsMEtYSU81RHpWc1hRalVWb2V3ZExSLXFjMUhhZkpqOC1nbXVSelVSd1NiNHNmOGlZVU53MGJQOXktUHFmcm4ybkJFSDFpSnJ4c1BsRFJYRVNPRDBOTzVjS0xLZms?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T07:42:00+08:00"
+      "time": "2026-08-27T08:15:00+08:00"
+    },
+    {
+      "title": "At least one dead after car crashes into crowd in northern France",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrl744nyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T08:02:56+08:00"
     },
     {
       "title": "Big Ten, SEC, Big 12 approve ban on pro players returning to college to play; ACC considering move - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVDk3NVZtX2loMXBsdEI5WUdja2dlQTRqdDF3UWFJTHVpekpqaUZHc0ZtdllsakZWX2lnQXVka3NCS1duYnJUblN5ZTUyU08xV3A1eGRUeGNoWDZiT183NU1GdWtnb2RvNzljb2o2YnVFWXBrYWRyMXhsbFZnZUY4VHZqTWtHWTJhWGMtSk00ODRvcmRCUWt6cUV1ZXpVOHByUVgyYzVXdHdKX05FMVZiRzM5OGNKYzhyQXhnWEdNRHp5b2RZbDhqRm1rVDZIaEpyODZLTHU3ZE5RcktrYTNmdmRSWHJKVkppTUtyc0ZmZWdrZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T07:32:54+08:00"
+    },
+    {
+      "title": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03cHRsZk93LVRNRHBPUkVPZEVuZnFMNnB0LXluOHFRRXRCS2xBR3RmNGh0QjhoM1FmcjRkSXdURUFpVHVjZkpRckFJeWl4R3NzWU8yWDF2bFlUdU51TmV2Ml9BTUFiT3dxekpWdjdUa0ROVVVoY3NN?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T07:27:00+08:00"
+    },
+    {
+      "title": "Judge Allows Option of Manslaughter Verdict in Lindsay Clancy Case - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0lpYUdnbXBrZ3lOZEZlOF9MeElnMjR6WWZUYm5rTFRiZVpnNTVvZ084M3ZHYUVTM2lfMEVkd3BHNzFwS04wZWRNcHhVX3dHMnhKTngwUFFROGo0MlpJUDMzX284SUlzYjhkaEoyc1ZHcFUycHFJRTJLZVhlNTFiS2FUdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T07:25:21+08:00"
     },
     {
       "title": "Fed governor Lisa Cook slams Trump’s renewed threat to fire her - AP News",
@@ -141,36 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g3y6398nwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T07:06:41+08:00"
-    },
-    {
-      "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-      "link": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-27T07:04:24+08:00"
-    },
-    {
-      "title": "How Dolly Parton's business savvy helped her succeed far beyond the charts",
-      "link": "https://www.bbc.co.uk/news/articles/c0klj72p66lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-27T07:03:46+08:00"
-    },
-    {
-      "title": "The question dominating Indian politics: Is it worse when women swear?",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zn6gy7zjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T07:03:31+08:00"
-    },
-    {
-      "title": "Trump signs controversial beef import plan despite ranchers' backlash - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGR6bnBjRU9aUkFESWc5bEU1RWllcTZ6R0huR0NSaUZTNnlOVW84SEdyWTRoMzBsc2xvVUI2UUFWbkF5ZGJMeE9LTU0yUElpelBubkp3WF9iY0ZVbDFhX044VzlQYjA3c3M5YTc0QVAyZFJMX3hZMTVhVnVvT2NzMWNVTHhHYVpuRWRlc1JOdlhaWnpOVm5UOVZhMlZWeWd3WjBTZGxUV1A2SWFJc05CQ2tZU1dXaTJveHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T06:49:00+08:00"
-    },
-    {
-      "title": "Police officer in Jed York arrest video: “It’s crazy the people that do this” - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDJIa3ZXdHQxX1AzLUNOSGdWMUhNZVB6cWRDdnc0d2dwaHFFVkhNbDdQS0drN2tGT2QyVVQ2X0xhU1JER1dvcDNGQ1ViTC1lZEdpbk1HVWd1dkVral9kT3JDVzFUa3JhMVFsSXQxLVgtNElLLXhTakZOOV9MRllDRWhkTUJEWkpsek5xcF9XMkdjR1M3OEpBMWZ3QzRrX09DcVlMQjFfYlpqNHAxbUlJUUp0LWV0Zm9seGNfZEg5U3lLYmZRMXhaSU1Oejh1NVlf?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T06:48:43+08:00"
     }
   ]
 }
