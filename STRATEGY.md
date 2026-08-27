@@ -92,7 +92,10 @@ Gated HNW business networking. Members pay tiered fees → platform credits. 15%
 
 ### What's Left to Build
 - [x] Tiered membership + checkout (premium tiers) — ✅ DONE (lucky8 deliberation, 2026-08-20: fixed webhook idempotency, tier/plan confusion, provisioning downgrade)
+- [x] Monetization tables in production — ✅ DONE (2026-08-27: `RUN_THIS.sql` applied via Supabase Management API; all 7 tables + `paid_tier`/`paid_at`/`password_setup_token` now live)
 - [ ] **Deploy to Vercel + push env vars** — the real launch blocker now. Needs `vercel login` + `vercel link`, then `node scripts/sync-vercel-env.mjs --apply` (script now includes all 4 Stripe vars)
+- [ ] Rotate leaked Supabase `service_role` key (2026-08-22 finding)
+- [ ] Swap Stripe `sk_test_` → `sk_live_` + add `STRIPE_WEBHOOK_SECRET`
 - [ ] Automated monthly intelligence report (Hermes)
 - [ ] Invite first 10 members (free trial) — manual outreach
 
