@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T01:53:45.044278+08:00",
+  "generatedAt": "2026-08-28T02:25:46.763623+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -272,8 +272,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T01:27:01.124013+08:00",
-        "next_run": "2026-08-28T01:57:01.124013+08:00"
+        "last_run": "2026-08-28T01:58:02.513673+08:00",
+        "next_run": "2026-08-28T02:28:02.513673+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,8 +290,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T01:21:52.895538+08:00",
-        "next_run": "2026-08-28T02:22:51.358455+08:00"
+        "last_run": "2026-08-28T01:53:56.304695+08:00",
+        "next_run": "2026-08-28T02:54:54.827170+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -317,8 +317,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T01:30:51.630286+08:00",
-        "next_run": "2026-08-28T02:00:51.630286+08:00"
+        "last_run": "2026-08-28T02:00:53.294815+08:00",
+        "next_run": "2026-08-28T02:30:53.294815+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -326,8 +326,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-28T01:43:51.321271+08:00",
-        "next_run": "2026-08-28T01:53:51.321271+08:00"
+        "last_run": "2026-08-28T02:23:54.909533+08:00",
+        "next_run": "2026-08-28T02:33:54.909533+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -371,8 +371,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-28T01:50:51.613085+08:00",
-        "next_run": "2026-08-28T02:05:51.613085+08:00"
+        "last_run": "2026-08-28T02:20:54.998107+08:00",
+        "next_run": "2026-08-28T02:35:54.998107+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -506,8 +506,8 @@
         "name": "AI Research Buddy — nightly compounding loop",
         "schedule": "0 2 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-27T02:01:38.595846+08:00",
-        "next_run": "2026-08-28T02:00:00+08:00"
+        "last_run": "2026-08-28T02:02:12.952023+08:00",
+        "next_run": "2026-08-29T02:00:00+08:00"
       },
       {
         "id": "1dabab689e0e",
@@ -562,27 +562,27 @@
     "uptime": "3 days",
     "cpu": {
       "loadAvg": [
-        1.57,
-        1.35,
-        1.28
+        1.15,
+        1.21,
+        1.25
       ],
-      "usage": "12.5%"
+      "usage": "12.7%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 44.8
+      "usedPct": 44.7
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "2.1",
+        "cpu": "1.9",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.1",
+        "cpu": "1.7",
         "mem": "0.0",
         "name": "sysmond"
       },
@@ -592,14 +592,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.3",
-        "mem": "1.1",
-        "name": "python3"
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       },
       {
         "cpu": "0.2",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       }
     ]
   },
@@ -1063,8 +1063,8 @@
     "state": {
       "meta": {
         "created": "2026-08-24",
-        "lastUpdated": "2026-08-27",
-        "cycles": "3"
+        "lastUpdated": "2026-08-28",
+        "cycles": "4"
       },
       "hierarchy": [
         "Financial freedom — retire dad (60) in 5yrs, match GF's $40k, Zhongshan house + Zeekr + driver",
@@ -1092,7 +1092,7 @@
         "Q2: Which specific income streams can realistically compound to $40k+/mo within 5yrs (bodyguard salary + business revenue + investment yield)? (PARTIAL: bodyguard salary ceiling now quantified at $40-60k salaried / $4-8k day-rate freelance; dividend yield 5-7% achievable)",
         "Q3: Zhongshan house — is 670k RMB loan for ~80㎡ at 8,428元/㎡ (avg) or a smaller unit in 东区 (11,427元/㎡)? Which district targets?",
         "Q4: 港車北上 (individual, HZMB route) vs traditional 粵Z business plate — RESOLVED. 港車北上 is the accessible route: individual HK residents, no business/tax threshold, ~$2-3k/yr cost, 30-day max stay / 180 days/yr, Guangdong-only. 粵Z 中港牌 needs 15万 RMB tax + 數十萬至上百萬 HKD 二手牌價. → 港車北上 is the answer.",
-        "Q5: Zeekr model choice — 7X (SUV, HK$280k entry) vs 009 (MPV) vs X (small SUV). (REFINED: 009 HK pricing = $832,500 (7座) / $927,500 (6座) — 3x the 7X. 009 = 7-seat luxury EV MPV, fits family+driver+接待 use case but is a MUCH bigger financial commitment. ⚠️ 7X fire incident DOWNGRADED — official cause = prior collision + unauthorized repair + resold vehicle, NOT spontaneous battery defect.)",
+        "Q5: Zeekr model choice — 7X (SUV) vs 009 (MPV) vs X (small SUV). (REFINED 2026-08-28: 7X 一換一 actual = $269,900 base / $302,046 Plus / $320,651 Platinum — NOT $280k. 009 = $832,500 (7座) / $927,500 (6座) = 3.1x the 7X base. ⚠️ 7X fire incident DOWNGRADED — collision+unauthorized repair, not defect. ⚠️ NEW TCO flags: battery warranty 8yr HK vs LIFETIME mainland (BYD offers lifetime in HK); 錦龍 (Kam Lung) sole dealer is a known pain point — no AC showroom, no follow-up; HK 7X is STRIPPED vs mainland (no ventilated/heated/massage seats on base, no rear sunshades).)",
         "Q6: What is the actual bodyguard salary ceiling in HK's current seller's market? — RESOLVED. Salaried Security Driver/Bodyguard $40-60k/mo (Jobsdb, ZEN RUI HOLDING, 2026-08). Freelance 高級保鏢 (退役軍人/警察) 日薪 $4,000-8,000, 時薪 $450-1,000 (penfolio.quest, 2026-07). 初級 $1,500-2,500/日, 中級 $2,500-4,000/日."
       ],
       "completedResearch": [
@@ -1107,7 +1107,11 @@
         "✅ HK dividend/passive income landscape REFINED (2026-08): HKMA base rate 4%, Fed 3.5-3.75%. Time deposits now 2.2-2.4% (3-6mo), some longer 3%. High-dividend stocks still 5-7% (some 8%+). ⚠️ 恒生銀行 (0011) now inactive/delisted — remove from high-dividend list. 滙豐 (0005)/中銀香港 (2388) yields no longer 6-7% after 2026 price rebound. Source: MoneyHero, hkej.com",
         "✅ Bodyguard demand signal (2026-08): 29-yr-old heiress released after $28M ransom → \"seller's market for bodyguards\" in HK. HKSSC confirms 資深保鏢薪酬可觀, high demand for G4/飛虎隊-background personnel. Source: stheadline.com, hksscltd.com",
         "✅ Bodyguard salary ranges (2026-08): Salaried Security Driver/Bodyguard $40-60k/mo (Jobsdb, ZEN RUI HOLDING). Freelance day-rates: 初級 $1,500-2,500/日, 中級 $2,500-4,000/日, 高級 (退役軍人/警察) $4,000-8,000/日. 時薪 $450-1,000. Source: penfolio.quest, hk.jobsdb.com",
-        "✅ Zeekr 7X fire incident RESOLVED (2026-08-09 Ningbo): official 極氪 statement — vehicle had prior serious collision (2026-06-11), NOT repaired at authorized service center, original owner sold it. Fire was NOT a spontaneous battery defect. Safety flag DOWNGRADED. Source: hk01.com, sina.cn"
+        "✅ Zeekr 7X fire incident RESOLVED (2026-08-09 Ningbo): official 極氪 statement — vehicle had prior serious collision (2026-06-11), NOT repaired at authorized service center, original owner sold it. Fire was NOT a spontaneous battery defect. Safety flag DOWNGRADED. Source: hk01.com, sina.cn",
+        "✅ Zeekr 7X HK pricing + TCO (2026-08-28): 一換一 actual = 7X base $269,900 / 7X Plus $302,046 / 7X Platinum $320,651 (NOT the earlier $280k estimate). 3 versions: 7X (75kWh LFP, 495km), 7X Plus (100kWh, 640km), 7X Platinum (100kWh AWD, 640km, 3.9s). Insurance: comprehensive from ~$4,073/yr, third-party from ~$1,953/yr. 二手 RWD $240-270k, AWD Flagship $300-340k. Source: electacar.com, moneyhk101.com, car1.hk",
+        "✅ Zeekr 7X HK ownership caveats (2026-08-28): (1) 錦龍 (Kam Lung) sole HK dealer = biggest buyer obstacle (no AC showroom, photocopied spec sheets, no follow-up). (2) HK version STRIPPED vs mainland — base lacks ventilated/heated/massage seats + rear sunshades (mainland gap only ¥40k RMB vs HK $100k HKD). (3) Battery warranty 8yr HK vs LIFETIME mainland (BYD offers lifetime in HK). (4) Electric doors impractical in tight HK parking. (5) Rear thigh support insufficient for tall passengers. (6) Platinum = majority of registrations (air suspension, 21 speakers, nappa, massage, double-layer glass). Source: electacar.com owner reviews",
+        "✅ HK dividend stock landscape REFINED (2026-08-28): MoneySmart 10大高息藍籌 (2026-02 data): 中國移動 0941 6.7%, 中海油 0883 7.2%, 中國神華 1088 4.9%, 建行 0939 5.4%, 工行 1398 5.2%, 中行 3988 5.4%, 中電 0002 4.8%, 電能實業 0006 5.5%, 港鐵 0066 4.2%, 恒基地產 0012 6.1%. 置富產業信託 0778 8-9厘. ⚠️ 恒隆地產 0101 \"14厘\" was WRONG — actual ~6厘. ⚠️ H股/紅籌股收息需付10%股息稅 (本地藍籌免稅). Source: moneysmart.hk",
+        "✅ 銀色債券 2026 (第11批) opportunity (2026-08-28): 認購期 8/21–9/4, 發行 9/15, 3年期, 保證最低年息 4.25厘, 每半年派息, 每人上限 $100萬 (100手). 目標發行額 $500億. → A risk-free 4.25% floor option vs dividend stocks. Source: moneyhk101.com"
       ],
       "nextSteps": [
         "Quantify the full \"financial freedom\" monthly budget: fixed costs ($7.3k) + dad retirement + house loan + driver + car + GF lifestyle. (Zeekr 009 at $832k+ vs 7X at $280k is a major budget fork to resolve.)",
@@ -1121,7 +1125,9 @@
         "Passive income to match GF's $40k requires ~$8-9.6M HKD principal at 5-6% yield (HK dividend stocks/REITs deliver 5-7%). This is the real \"financial freedom\" number, not the salary.",
         "Zhongshan avg price 8,428元/㎡ means 670k RMB loan ≈ 80㎡ unit (or smaller in premium 东区). Property is affordable relative to HK.",
         "Bodyguard is a SELLER'S MARKET in HK right now (post-abduction demand surge) — salaried roles list at $40-60k/mo, freelance 高級保鏢 day-rates $4-8k. The $40k \"stepping-stone\" is actually a FLOOR.",
-        "Zeekr 009 (7-seat luxury EV MPV) is the \"driver + family + 接待\" answer, BUT at $832k-927k it is 3x the 7X ($280k) — a major budget decision, not a trivial upgrade. The 7X fire incident is now DOWNGRADED (collision-damaged vehicle, not a defect)."
+        "Zeekr 009 (7-seat luxury EV MPV) is the \"driver + family + 接待\" answer, BUT at $832k-927k it is 3.1x the 7X base ($269,900) — a major budget decision, not a trivial upgrade. The 7X fire incident is now DOWNGRADED (collision-damaged vehicle, not a defect).",
+        "Zeekr 7X HK ownership has real friction: 錦龍 sole-dealer service is poor, HK spec is stripped vs mainland, and battery warranty is 8yr (vs lifetime mainland / BYD lifetime in HK). For a cross-border 港車北上 use case, buying the mainland-spec 7X (or a BYD with lifetime battery) may be smarter than the HK-spec 7X.",
+        "銀色債券 2026 (4.25% guaranteed, 3yr, up to $1M) is a risk-free floor that beats current time deposits (2.2-2.4%) — a concrete near-term parking option while building the dividend portfolio."
       ]
     },
     "journal": [
@@ -1171,9 +1177,22 @@
           "Changed in state.md: added H5 (bodyguard $40k is a floor, not ceiling), resolved Q6, refined Q5 (009 = 3x 7X price), downgraded 7X fire flag, refined dividend landscape. Added 3 completed research items, 1 new key insight.",
           "Key insight: bodyguard career ceiling is far above $40k (salaried $40-60k, freelance $4-8k/day); Zeekr 009 at $832k+ is a 3x budget fork vs 7X at $280k."
         ]
+      },
+      {
+        "date": "2026-08-28 — Cycle 4: Zeekr 7X TCO + HK dividend landscape refresh + 銀色債券",
+        "items": [
+          "Searched: Zeekr 7X HK pricing/insurance/TCO, HK bodyguard salary (re-verify), HK dividend stocks 2026, 銀色債券 2026.",
+          "Found:",
+          "Zeekr 7X 一換一 actual pricing: base $269,900 / Plus $302,046 / Platinum $320,651 (corrects earlier $280k estimate). 3 versions: 7X (75kWh LFP, 495km), Plus (100kWh, 640km), Platinum (100kWh AWD, 640km, 3.9s). Insurance comprehensive ~$4,073/yr, third-party ~$1,953/yr. 二手 RWD $240-270k.",
+          "Zeekr 7X HK ownership caveats: 錦龍 (Kam Lung) sole dealer = biggest obstacle (no AC, no follow-up); HK spec STRIPPED vs mainland (no ventilated/heated/massage seats on base); battery warranty 8yr HK vs LIFETIME mainland (BYD lifetime in HK); electric doors impractical in tight HK parking.",
+          "HK dividend landscape (MoneySmart 2026-02): 中海油 7.2%, 中國移動 6.7%, 恒基地產 6.1%, 電能實業 5.5%, 建行/中行 5.4%. 置富產業信託 8-9厘. ⚠️ 恒隆地產 \"14厘\" was wrong (~6厘). ⚠️ H股/紅籌股 10% 股息稅.",
+          "銀色債券 2026 (第11批): 4.25% guaranteed, 3yr, up to $1M, 認購期 8/21–9/4, 發行 9/15.",
+          "Changed in state.md: corrected 7X pricing (Q5), added 3 completed research items (7X TCO, 7X caveats, dividend refresh + 銀債), added 2 key insights (7X HK friction, 銀債 as risk-free floor).",
+          "Key insight: 7X HK ownership has real friction (poor dealer, stripped spec, 8yr battery warranty) — for 港車北上 use case, mainland-spec 7X or BYD (lifetime battery) may be smarter. 銀色債券 4.25% is a risk-free floor beating time deposits."
+        ]
       }
     ],
-    "lastUpdated": "2026-08-27"
+    "lastUpdated": "2026-08-28"
   },
   "competitors": [
     {
@@ -1250,16 +1269,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-28T01:53:44.750689+08:00",
+    "generatedAt": "2026-08-28T02:25:46.463982+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 25.7,
-          "code": 95,
-          "precip": 0.6,
-          "wind": 7.0,
-          "time": "2026-08-28T01:45"
+          "temp": 25.5,
+          "code": 55,
+          "precip": 0.3,
+          "wind": 7.4,
+          "time": "2026-08-28T02:15"
         },
         "daily": [
           {
@@ -1288,11 +1307,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 25.6,
-          "code": 96,
-          "precip": 0.8,
-          "wind": 6.7,
-          "time": "2026-08-28T01:45"
+          "temp": 25.5,
+          "code": 53,
+          "precip": 0.2,
+          "wind": 6.9,
+          "time": "2026-08-28T02:15"
         },
         "daily": [
           {
@@ -1328,12 +1347,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-28T01:53:45.044119+08:00",
+      "time": "2026-08-28T02:25:46.763469+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-28T01:53:45.044119+08:00",
+      "time": "2026-08-28T02:25:46.763469+08:00",
       "type": "info",
       "text": "⏰ Cron: 27/31 jobs healthy"
     },
