@@ -1,62 +1,116 @@
 {
-  "generatedAt": "2026-08-27T23:45:40.091087+08:00",
+  "generatedAt": "2026-08-28T00:17:43.667230+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 631308.16,
-      "changePct": 3.17
+      "priceHkd": 630829.92,
+      "changePct": 3.14
     },
     "ETH": {
-      "priceHkd": 19814.11,
-      "changePct": 3.22
+      "priceHkd": 19786.67,
+      "changePct": 3.07
     },
     "SOL": {
-      "priceHkd": 841.0,
-      "changePct": 11.65
+      "priceHkd": 840.13,
+      "changePct": 11.87
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5545.15,
-      "changePct": 0.44
+      "priceHkd": 5553.7,
+      "changePct": 0.59
     },
     "SPX": {
-      "priceHkd": 60468.51,
-      "changePct": 0.48
+      "priceHkd": 60560.08,
+      "changePct": 0.64
     },
     "SPCX": {
-      "priceHkd": 1099.4,
-      "changePct": 0.43
+      "priceHkd": 1105.83,
+      "changePct": 1.02
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1160.04,
-      "priceUsdOz": 4602.2
+      "priceHkdPerGram": 1160.82,
+      "priceUsdOz": 4605.3
     },
     "Silver": {
-      "priceHkdPerGram": 17.42,
-      "priceUsdOz": 69.1
+      "priceHkdPerGram": 17.48,
+      "priceUsdOz": 69.34
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 646.33,
-      "changePct": 0.26
+      "priceHkd": 648.21,
+      "changePct": 0.55
     },
     "Natural Gas": {
-      "priceHkd": 22.93,
-      "changePct": 2.92
+      "priceHkd": 22.89,
+      "changePct": 2.74
     }
   },
   "news": [
+    {
+      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T00:09:07+08:00"
+    },
+    {
+      "title": "Hackers steal data from millions of airport customers",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T00:07:26+08:00"
+    },
+    {
+      "title": "Convicted Bosnian Serb war criminal Ratko Mladic dies - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXhwN1k3TFZrQnZtV1hTV2Z3SmRIbDJURFFhLW9faE1pRV9oMktWcXhRUnZqWjhGT1VUVV9MNWk4T01wTjdtZjVlZTBEV0ZaSTl2SEpuNFc5QlE5VWctbkd4a3JJVGZuNFVwNklEYm85SlQ0S214N29GNTlURXhtbGtGTGpTckJjaXY0UVdxZnBzOXlYOERkZERPOEE1OWFuYUHSAacBQVVfeXFMTlZfbnA5RFVuaWcxWHpuSVV5SUxtUWNyNzhlMThURkhJUFdpVFZ5NFhlZ0g0bGF1MkxGWElJcXI0Ql9kWXFzTkdoSjZOdnNnZFVOUlhRNkFRdUtEZzhpWndlMTdNTW44M2dCR2JoRFBPMWFXZktPdzZKR2xCUUxmWDB5ZC0wUVBTRUUzOEZvSmtVUkdrLVhHaTRNMF94NlRIZDlmZjYtQmM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:05:57+08:00"
+    },
+    {
+      "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
+      "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T00:00:12+08:00"
+    },
+    {
+      "title": "Two killed in 'violent incident' at school near Berlin",
+      "link": "https://www.bbc.co.uk/news/articles/cgqdy8g2zlgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T23:47:34+08:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T23:44:00+08:00"
+    },
+    {
+      "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaFUzSHBrbTVRZ2xncEhvRzU0U05SYTUwTFVhV1NQbVdlNFFxa2VDdnM0SnU0VzNvOEJzcWE5NnNJNXh3cFpNU1dlUDFKZGo3RzRXU0x5RTVJcnF3RWJvVS1NWXhtM3I3ZVNOSEZsWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T23:35:00+08:00"
+    },
     {
       "title": "One in eight young people still out of work or education ahead of major review",
       "link": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T23:33:36+08:00"
+    },
+    {
+      "title": "Sony's Reon Wearable Air Conditioner Saved My Sanity Through Multiple Heatwaves - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzeEk4aXp1SnFWVWVyQ2RUTnFVME0tVl9aZkpUMWViR3BGWkZ1aUpwNGJncEFWR0NqaEkzQnI2bDloakxST2VYUkNvN2RyX01FQlExMUlmS1Z5VXVwbnA3dGh0M1VxSTVqMjZNX3BtbEhra21W?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T23:29:48+08:00"
+    },
+    {
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T23:25:00+08:00"
     },
     {
       "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
@@ -65,28 +119,16 @@
       "time": "2026-08-27T23:16:54+08:00"
     },
     {
-      "title": "Uefa preparing to bring criminal claims against Gianni Infantino over World Cup sale - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWF0Z1d0VThNNWwzVWt4U2RqT1g4djcwVVdnMnJmU2lNaDdPSm92TW9DZ3BOSlhOSGxicFpHSmRtV0ZINkVFQnNDd3BIMmYwT2NFdThIWW0xM3F4RmlXQW90Q01YRmt2THd4UmxPM0xSTFIySVNDeVFiVmtXWG1uRU1rd1NOeUJ3R3JjTE8zQXdJQlVWWE5WakJvRGVsclNZRVl6WTRSbGt2RkFRcWxJejJKZjlsd3YtLXRDMEFnUFBnM2U3UWJGOFZXZndJQQ?oc=5",
+      "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1pWdnZod2NfMzhhUVNKUkluTS1OT2k5U2ZHLVFsMkhqMG1Vemd2LW0yYm52ekxhdzhFZnZmU3FvR3FNTEl1VDhHdzBDWXZlMFNEWEY5OFRjR3JON1FyRlVpVUhrMHBBSzZRMmd1dHh2NlRuVUZENVRndjlnWWg2ZEY2RmM2T0JEUThHbmxIRC1Sc3pndFFBUlRjQXM4QQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T23:15:00+08:00"
+      "time": "2026-08-27T23:16:46+08:00"
     },
     {
       "title": "Jellyfish force partial shutdown of French nuclear plant",
       "link": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T22:49:23+08:00"
-    },
-    {
-      "title": "Canada's tariffs target certain U.S. states. See which regions are most vulnerable. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0dNVUZ0YWszc0J4UTZUQi1EWkh3RjNPSFZqaDRLaEliYVBSMGtlWEJvM2tWSUlLbFNqRkthV3A0OG05NWxpaVotWGxlVnpST1dZSnppWkdVWnRXQVFsTlhrbmpRaURUcENqMnpmNVJ3SURVWlV0dThXUHRuVFRjZFdnU2RJT3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T22:47:17+08:00"
-    },
-    {
-      "title": "Hackers steal data from millions of airport customers",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-27T22:41:00+08:00"
     },
     {
       "title": "Peter Cullen, Voice of Optimus Prime in ‘Transformers,’ Dies at 85 - The Hollywood Reporter",
@@ -113,64 +155,22 @@
       "time": "2026-08-27T22:17:24+08:00"
     },
     {
-      "title": "Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmFTYjRhRjAzTnZXU3lJa1V4a3ZlVy1INVptbHZUc3V6b2NyOGJFRnRtQTFWQ2lrU2pYc0M3N01TcW9tVkh6ZmRQTU81OUd1VlBnQ0o1b3pZSlFqZmtSM1NjYzd5T2xnZE12clJPM3ZlUjdhdWxfbVB4MlQ1UWowZGhNNmxYZXNJRVdGVk1nZ3ZIMjlZdU5WWEg4ak5mYmUy?oc=5",
+      "title": "Russia bombards 9 Ukrainian cities overnight, calling the strikes ‘massive’ - AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQURoUEhEcFk3STd0XzZscFVBTHBnRzV2LVRsVDdpM1UzU2V2TzJwbmU4OS1xeVZuOFlSQUNaYktJV0czSjhvdTZVdlpLOUJoaVFvNllrYTByTHQ0ZFlnc3VLeFZWa3VneTFyVUZvTnhUQWpCUGFLMmlIb1RqNEFYVnFVSUNIOGxHWVRGUko5TXhYVkw0RXZuU2UyeUNzS1Ra?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T21:58:19+08:00"
+      "time": "2026-08-27T22:15:00+08:00"
     },
     {
-      "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
-      "link": "https://www.bbc.co.uk/news/articles/c2q05wzlx5xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T21:48:09+08:00"
-    },
-    {
-      "title": "Jennifer Mir posts apology to Alex Apodaca for vitriol after Bella Mir DWCS loss - MMA Junkie",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWFzNGVXM204S09WRDVCem1fWkRqSWo0a3FlZzRoMmNpVlMzN1A1OThwdFVlOWx6QTlQVjN0WXVDYlFZMlNaQ2xUWFVfT1BfMGhHQ3lUa1BmbFNfWVEyd1FPcC1yc09SOUJPT0ZEWHRET05CejhnNlhPc2ZabnpFeHItMTF6NUVXRlpYNUxocU9xSlFnMTNnZlAzMTZVcEk2a2Z1aHJZcUtwOHhlT2dZbGkydGpXUnpZUXRXTEQtTDBVYmVXQ011X2JOWEo3U0hFOURCeDdNU2xjSV9tNUdKc1RkaDhSckFQLXZhbmlQRUk?oc=5",
+      "title": "Bad news for those hoping to see a lunar eclipse tonight - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLVJJNTBQTDdiWnJ6M3QyVmp3eWpFTlVicEppYlVXRnotRmV6SThsM2dTU2dHeWNtUE1TZy16UUtpM3pNZGFTbVpXQlJ0ZWdTS29kMFBxU3llVmdGQm5KNkZpR3N2T1c3TThvdEpUZWQwcWFPTG1pWkJ6TEswajlUQV9JMmsxajgtbDFBUGFXSHN0OEc5ZG1EbWFCTQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T21:45:00+08:00"
+      "time": "2026-08-27T22:03:17+08:00"
     },
     {
-      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities in Bosnia, has died at 84 - NPR",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUb0tfdFZiaURQaGFZQUpqY29rOWptaFRwZUk4UU8yX0VoMVBObUNxU0NWeFhEU2dybF9sMzBWMkY3UE1BTEJsNXN0LUlkWnJwVV8zYUdZY1I4U0Nacy02SkVpZHdBZ1N6UERkcTNadw?oc=5",
+      "title": "A Massive Iceberg Broke off Greenland. New Images Show What Led up to It - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFBTR1RiTlBMVzFwMEFFOHRzWE9lbFdDNWpwZ21lZmt1N1FmUUxBaTU4R2JBTjlEQzF1aVlRZzlxRFAtaktMWVNlSVl4cm5yak9OQzNuaGdxWDVWVHZfc2Y4NEVYQUVUTVpmTW56Tzk1eUgybEQ3YmJNTUsyRmM4bFFDcmtlZ09IZlRfSThBTnhBVExiRDNqRFE2aVlRNUxMV1oweA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T21:32:43+08:00"
-    },
-    {
-      "title": "Democrats at odds in Michigan over El-Sayed’s ties to controversial streamer - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3NBYUFHcEQ2dzFZSXdpNnF2T1psR0JZZEQzWFFHYnlueVRPaFVmOTllMmpzWnZ0YVVpQkI0a3I5SGloUzZ0Mkx0ZFVaMndnRXVxd0lPeG04aFlmcXY4Z3NCY0J1d2hGMWRUOF9PaFZsR3hWNTJUR0JXZkhYYXhjdC1VMnRIU3pUTFJFLWtUcmZTMHFYbmJQd09SVVk4OUhVMjRHU2NyVzVkcC1lWENIUENSTTQyM1BaQkE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:29:17+08:00"
-    },
-    {
-      "title": "A former Mike Collins staffer posted KKK and Nazi images. Some Republicans see a pattern. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVMzTWNXeFp6aWJmdG5IVWZ3dW5YMzh2YUswWGxUcmV3NFF0ZTNPOUxQeVdHM1NEaHZhTzdpcEZWZzJQMGtOZ0p4alNRcU5ZbHdLejFJU3pEc1M1N1N5aU5sMFg1WnphbmVzb05waUhJVnNwVUJSNVoteEtZSGR5Yld5OHhoaEdaNWZYOEk3VGM2TGVGNFc3SUk2TU9qYlBpTTRleE80QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:29:17+08:00"
-    },
-    {
-      "title": "What the Meta settlement means for the UK, and other questions after the deal",
-      "link": "https://www.bbc.co.uk/news/articles/cg49q4xydq0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-27T21:24:03+08:00"
-    },
-    {
-      "title": "Lindsay Clancy trial hears closing arguments - watch live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWHJXdkMwQXhFczdXc2VYOWRKWmFsLWZWX3FUQmVyRzlnMkFwYmQtSVRuNUhVMWdQUkl1OEo2S29naE43NThlcEs1T25ZeGRSVkgzcUFR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:23:57+08:00"
-    },
-    {
-      "title": "Google Is Releasing A Special Edition Pokémon Sleep Fitbit Air In September - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjNNZGJjUVJfX040eUdQTUFaazRtV1NydTFhWGprLWkydGk4R1drUDJwQ2dlRldjT2tTSEZQMElhTExiY2sycTNvdzhiLVliSnBLdmg0VWpVUkRoNHI2dk5OT2drcWdXNWVzX21TaWRnQS1iRWR5MFJIOUUxM3JlNXZ0SQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:00:00+08:00"
-    },
-    {
-      "title": "Umar Nurmagomedov has new nickname for Merab Dvalishvili after latest comments: ‘All the time crying’ - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb1FpZnVMS0lDS1ZjaEQ2ZFJYOEc0eHlyZ1o0TUk4UVNfNGpFQ1JnUV9TblBQQnFRQW1HZjFJcGp6ZEJaSXJTcVhVa0pGaVR3cXZPdzJTRnZBUERNMlk3cGMtUDEzS3RpRGYteXNKVTRwcTdVU2tqV2ZIWm5yM1RUczFSc1pvQmFSbVpsUmNrWnc0UGoyYkREcmduTWdPWHJWLTFWVmZONmJKcWppcWZvU3hwamQ4ZjQzdUdjb01BMGNiR0pKVmF6eEhUTkpaOEZTTElURzQzSkI3Q3h4bzhYd1djOW5kNEJuMXlSUXV3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:00:00+08:00"
+      "time": "2026-08-27T21:55:47+08:00"
     }
   ]
 }
