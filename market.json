@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-08-28T01:21:43.497338+08:00",
+  "generatedAt": "2026-08-28T01:53:45.124032+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 633252.48,
-      "changePct": 3.22
+      "priceHkd": 631449.28,
+      "changePct": 2.71
     },
     "ETH": {
-      "priceHkd": 19851.74,
-      "changePct": 3.25
+      "priceHkd": 19768.4,
+      "changePct": 2.55
     },
     "SOL": {
-      "priceHkd": 858.32,
-      "changePct": 13.32
+      "priceHkd": 848.68,
+      "changePct": 11.61
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5564.24,
-      "changePct": 0.78
+      "priceHkd": 5558.04,
+      "changePct": 0.67
     },
     "SPX": {
-      "priceHkd": 60675.09,
-      "changePct": 0.83
+      "priceHkd": 60607.98,
+      "changePct": 0.72
     },
     "SPCX": {
-      "priceHkd": 1100.73,
-      "changePct": 0.55
+      "priceHkd": 1100.66,
+      "changePct": 0.54
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1162.26,
-      "priceUsdOz": 4611.0
+      "priceHkdPerGram": 1162.18,
+      "priceUsdOz": 4610.7
     },
     "Silver": {
-      "priceHkdPerGram": 17.54,
-      "priceUsdOz": 69.6
+      "priceHkdPerGram": 17.52,
+      "priceUsdOz": 69.52
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 650.09,
-      "changePct": 0.84
+      "priceHkd": 649.15,
+      "changePct": 0.69
     },
     "Natural Gas": {
-      "priceHkd": 23.07,
-      "changePct": 3.52
+      "priceHkd": 23.2,
+      "changePct": 4.12
     }
   },
   "news": [
     {
+      "title": "GTA 6 Netflix extended look: What time it releases today - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQamxKSGkxRXZhSXZMX1d3ZXFpZjJSYXZzNXIxUDV4ZUZMUG1MU1UxM2tFWGtSSlk4OGtvS3hCMDVMTmR5ZzhfMS1lVS12VXNnN2NQcWJtMEZOUU1CckNEdmdkNlNoWjNyUjBYVnltTWQtcUF0a3RJdklMclppV2dzbg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T01:44:28+08:00"
+    },
+    {
       "title": "ICE agent charged in shooting of immigrant in Minneapolis released from Texas jail - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQU3Y2b2J6MS1KZ2FnMUU0STFLeHBkeDBoUFFlUlhCTFVNS0hMNTJLbjBXZ2U3ckFMc0g3bHM3cnBZT1UyV1lnYnpOUzRJNmtkYl93THJsMlhmZWd5UmxlOHQ4Q0VuVXpBQVdoMWlpY2g1ZDRjZE1BeDZxOHJ1RF9neUNEXy10ZEEwNDdlVkY2NldHR3ZlUUJ2S3dPLUJTTE15bXg2Z01HdHAzcVRYNGVzd2IyYk4?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T01:15:42+08:00"
+      "time": "2026-08-28T01:43:32+08:00"
+    },
+    {
+      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T01:42:04+08:00"
+    },
+    {
+      "title": "Stock Market Today: S&P 500 and Nasdaq are up in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on tap - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdERDOUhSYWhxSU5maUkwVmkzN2JDbW5oN2w3UndGdUJtbGFTQ2k1MmF6NG1jZUNsZ0hTWm1DcUNJbnE0aWhmRVJtamNqZGkzaFVQODlleko0NkpYb01vSjJ6b21pR3ZFYlJnOHdadjF0ZnRGVDN4aGxGYjV2WU11bEc5UnZHSDh3bFo0RnhRcFF4WTdCeGVpdmRmRFViSU5VYXh0OUp2VDd4dE9nbHZTaWFobzVqT3d2YTA2czEzWkI4Wk5uMGtCbjlRUGswZ01vWlBNcjd6Y1Q?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T01:18:00+08:00"
     },
     {
       "title": "Two killed in 'domestic violence incident' at school near Berlin",
@@ -77,10 +95,10 @@
       "time": "2026-08-28T01:02:33+08:00"
     },
     {
-      "title": "Jury Begins Deliberations in Lindsay Clancy Murder Trial - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50LU15OGRzTGpyZjNrSndzRHdZem8yeHZwSV9PQU1rbk9rTnFwZFREdVVtTUFXTHBXMUdEU0FWa0tzZEN2dHZwdUZtUkxjdFZVNnNPWWpwOUZldm5yZnZUcHIycnNJbmVBM1Q3X1lCbjJKVE04a0NqelQ0VQ?oc=5",
+      "title": "Iran attacks another commercial ship in Strait of Hormuz as Trump sends new warship to Middle East - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekF5ZFdjTVNXdXkycmp3dy1yb0N4SW5OTklESGR5SVVfakIxM2F2QjZfRVlVZTFqVW9McTI2QVZ2c3ZyeFRVZzE3WjZQeUkzRWhFTjRVUTdqUlpMYlM1NEVsYzVnbkxZVVdrenpQXzZSODVLQkx6M096dUZyMHA1d1NUNE4zM2I3anVXRzNpZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T01:01:18+08:00"
+      "time": "2026-08-28T00:41:49+08:00"
     },
     {
       "title": "Near total lunar eclipse will be seen from North and South America Thursday night - The Guardian",
@@ -89,10 +107,22 @@
       "time": "2026-08-28T00:41:00+08:00"
     },
     {
-      "title": "Pa. officials say infant was 1 of 2 measles-related deaths in Lancaster County - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU9IMjNhTF9qWi0wdU1yTUw0WTVQb24yeHlrT3k0Ym5PdU1XU2lZWllMNzZSZ2ZDRS1YXy1jYWptZ0prQmFFWlp1Z181Nm0xQ3VyQ3NZd1lOZGJsRHE0QlB5MzBfYzl0QS1jVXVXbVVnajJlcXhoWWtSa1F1VW10bENpRWNKaWdDdWF1R094cm1aNGppTkx4c25wTFpqbFloZWRiSEtXTkdtc04zM2c?oc=5",
+      "title": "RFK Jr. spews anti-vaccine rubbish as newborn revealed to have died from measles - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1d2ZzNTRGdFRk9JQkh0T0lXT1J0YXdpaUk3THdYZXBHMTg2VFh3YTZkWFJETXVhczl5elZoaXdoa3U5cTFtMURESVR4S0xTYmtfY2RhaG5JdmZ3X0F0Rk9WNTVKM2JkbHhYdzBwcndkQ2RFR28tYUpMT29iV2VqQzZ2cnhjMjQ0MEVmUWVlaW5mdUpwcUxHS2VzWHdXaUMxZW5PQ3NRbVYzalBtNGJhV0plbVk1bEVJYW04?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T00:29:06+08:00"
+      "time": "2026-08-28T00:36:16+08:00"
+    },
+    {
+      "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaFUzSHBrbTVRZ2xncEhvRzU0U05SYTUwTFVhV1NQbVdlNFFxa2VDdnM0SnU0VzNvOEJzcWE5NnNJNXh3cFpNU1dlUDFKZGo3RzRXU0x5RTVJcnF3RWJvVS1NWXhtM3I3ZVNOSEZsWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:30:00+08:00"
+    },
+    {
+      "title": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTV5ZVUyLU9VUHBQeXUzcXo0bk1aSzBmVy1Bamd3QW55d25Eb1hSeVRJaVRpUzBodFlGTDdKSTduQUFxa0J0bHZ2RGdpQmhVakl6QjY0SW5EMnN2UkdoRE1sWnltZTk0cFhYdWhYODJqS256UHA3ZWZJRm9DV2ttSjNwOG41WFcxcHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:19:00+08:00"
     },
     {
       "title": "Tracing the deadly path of the Nepal-Tibet flash flood",
@@ -101,16 +131,16 @@
       "time": "2026-08-28T00:13:39+08:00"
     },
     {
-      "title": "Norwegians lay flowers at palace as King Harald's condition worsens",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T00:09:07+08:00"
-    },
-    {
       "title": "Hackers steal data from millions of airport customers",
       "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-28T00:07:26+08:00"
+    },
+    {
+      "title": "Tropical Storm Dolly forms in Atlantic, NHC says - WESH",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVFySGxudlU2NWltZElFU2FYTVJ0akI0Y2xMR3FhTU1aNjVtbEFsdlBqSUU4TlY0V0xJcmlZcFJYeTMtT1ZTalQ5Z3dzRFlGRG96YTRBeDJralpDUFMxd1VVV21zaE5FdGtWNDNQcDFCSHc2RGpsZl9WLWE3NVIyRA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:06:00+08:00"
     },
     {
       "title": "Convicted Bosnian Serb war criminal Ratko Mladic dies - Al Jazeera",
@@ -119,58 +149,28 @@
       "time": "2026-08-28T00:05:57+08:00"
     },
     {
+      "title": "‘He could arch both eyebrows and curl his lips in every direction all at once’: Tim Curry’s five best screen roles - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWFNeVN3U0ZzOHZDVnBIa1Z2Y3FjTVQtaDhTcjBSZWVtZkNxa3dDSnR6MHJjOTJCZjVNZlN0VHlOdS1uNWlQcUtYNkJ0OUtJVmxsTDQ4cjZGTzFiZFFMRjhCbnFMYVRrSWMxNVJLQ2RiZDczTEJOeUEyTVVjczFKRG00NEQ4RzV4UE5MR3Nma3hBeU82OXRsbzVBYjB1d1pucXA2YUtR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T00:03:00+08:00"
+    },
+    {
       "title": "Optimus Prime and Eeyore voice actor Peter Cullen dies",
       "link": "https://www.bbc.co.uk/news/articles/c15844gwe0wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T00:00:12+08:00"
     },
     {
-      "title": "Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDVqQVZLakE5SkdkdkdMSDdJX2wzUFE3S2MxN2k1cGxGYU5QY0gwVjRzYklfazhJdXBPM2tGYmZfZDhWUWxiX3cwVVBCWnV5bVdHZkhrNXpPY0NYQ3NwazJ2bEJNN1Y0WVFfc2hNVGFnVjNLMUQ5bFdCYTZsRkZOdjlsY1ZWakZURVl4VTZIMTMtY1NkYWNTRHQzckgyYkNlVElWeDc0V1NyWkk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T23:44:00+08:00"
-    },
-    {
-      "title": "Catastrophic floods kill over 360 in Nepal and Tibet, with more than 1,400 missing - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:35:00+08:00"
-    },
-    {
-      "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaFUzSHBrbTVRZ2xncEhvRzU0U05SYTUwTFVhV1NQbVdlNFFxa2VDdnM0SnU0VzNvOEJzcWE5NnNJNXh3cFpNU1dlUDFKZGo3RzRXU0x5RTVJcnF3RWJvVS1NWXhtM3I3ZVNOSEZsWQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:35:00+08:00"
+      "time": "2026-08-27T23:42:00+08:00"
     },
     {
       "title": "One in eight young people still out of work or education ahead of major review",
       "link": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T23:33:36+08:00"
-    },
-    {
-      "title": "Sony's Reon Wearable Air Conditioner Saved My Sanity Through Multiple Heatwaves - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzeEk4aXp1SnFWVWVyQ2RUTnFVME0tVl9aZkpUMWViR3BGWkZ1aUpwNGJncEFWR0NqaEkzQnI2bDloakxST2VYUkNvN2RyX01FQlExMUlmS1Z5VXVwbnA3dGh0M1VxSTVqMjZNX3BtbEhra21W?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:29:48+08:00"
-    },
-    {
-      "title": "Chuck Edwards makes last-ditch plea to avoid censure - Axios",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVVJoclBBeXRNWklLcnI2Qms5WEpCY2FSYnA5cGlBYzdQV2dXUVlBM2tha1U0a21yeDN4T1hIaHRpSDZkVkEtd1hGUzFBeXlLcXJPZVV0el80cXFzYmpaOFdpV0liTFV2ZWJkN2VmbUZUNHB1SlNacVBjeUtXenI1SUNKM1BMZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:27:09+08:00"
-    },
-    {
-      "title": "Champions League 2026-27 league phase draw: Arsenal to play Real Madrid, Manchester City face PSG and Barça – live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEdBbDl3cW1zbUljSktmWUF5MWd6TzFtaE9rOXd1Z0ROdkZ6WDNFRm5oOUF6UTNhSlBFdkhVdmZDOWE0TzhuU2R4Z2JKTFB3ZmpheFZIbFktS3ZXT3hJa0h3U05rMTRQcjE3b3VIZl9VZ3VrdXB5VVBXUTJWY0VLRGdzZGF5NzNHV3NOMl9RQVFERUpWeXU0QzlGR3M5eFBiRWhJOVlHY0NqUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:22:00+08:00"
-    },
-    {
-      "title": "Apple Event: Six New Products to Expect on September 9 - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVNDLUowbGVtMkpKQ080X3ZrSTJxYzFubmtHbFdKdFRJcGprcDNSdkJIRklKT2o2TmUzQnAxTHRPWUtmWTNodGlkWjUwOGRnQVVQMVNldWt6NU9IVS1WQWtIM3lXT3hIdU1VNXRsY2ZQdUItbmQzSGJqeGlPd0NJVGF3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T23:00:00+08:00"
     }
   ]
 }
