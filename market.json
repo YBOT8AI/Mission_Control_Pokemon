@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T17:58:16.727532+08:00",
+  "generatedAt": "2026-08-27T18:30:11.769625+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 627215.68,
-      "changePct": 2.0
+      "priceHkd": 624165.92,
+      "changePct": 1.29
     },
     "ETH": {
-      "priceHkd": 19882.79,
-      "changePct": 3.63
+      "priceHkd": 19622.11,
+      "changePct": 2.0
     },
     "SOL": {
-      "priceHkd": 818.65,
-      "changePct": 8.61
+      "priceHkd": 813.01,
+      "changePct": 7.29
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1154.72,
-      "priceUsdOz": 4581.1
+      "priceHkdPerGram": 1154.77,
+      "priceUsdOz": 4581.3
     },
     "Silver": {
-      "priceHkdPerGram": 17.23,
-      "priceUsdOz": 68.34
+      "priceHkdPerGram": 17.24,
+      "priceUsdOz": 68.38
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 643.43,
-      "changePct": -0.19
+      "priceHkd": 645.08,
+      "changePct": 0.06
     },
     "Natural Gas": {
-      "priceHkd": 22.78,
-      "changePct": 2.25
+      "priceHkd": 22.75,
+      "changePct": 2.11
     }
   },
   "news": [
+    {
+      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T18:20:17+08:00"
+    },
+    {
+      "title": "Partial lunar eclipse Aug. 27-28 live updates — tonight is the night! - Space",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU01fdkVBMVFJR2M3VUFXaTFCNndVb2V1N1J5MkRoNGNpdnZHUEZGTDhVZHNUZC0yT3c1ZFJ6bnVnMU5EczlwTnVxOV8xbWY3S1doa2RfWlZvSDBmcWd1Y3hLSlkxSjd4dGdyWVBEYzNtRUpKQmV6d0lLNDVTSnVaTFdlS0tsbGI4U19VYnp5bkhBRGRyanNJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T18:09:26+08:00"
+    },
     {
       "title": "'If you started running, they shot you' - inside Nigeria's growing kidnapping crisis",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
@@ -77,16 +89,16 @@
       "time": "2026-08-27T17:41:14+08:00"
     },
     {
-      "title": "The Social Security benefit cliff is here. Washington is struggling to wake up. - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnY3ektQMEdzOEpNQ21RX2RfN05FV1ZlemU1LWQxb01MVGNxamFhdVl0SnRoMHZZeXpWMUo5cUtOdV9ERW1paGxGbnowMTA5bl85SEVpdjFEbUpmazE2ZW9lVG5jUkVhYkxkNmtvd05ydkdhMnRtOGdrdlg4WGZZaUNoOEVfWjN3?oc=5",
+      "title": "Before an emergency hearing, the Kennedy Center's board threatens to demolish it - NPR",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0VyczQyNWJHTGhJRHhVN1lHYUd2TEpacDQ4WlItbjJZdV9pTW5xU29ULVFJZ2t1aFZLQ3F5aVBRNUE2Q0cxTjVNaXJNMXNTZkhfSkh0c1ROSDlhUzdLS3FjWnhwQzdCVm1HQlJmeTZXZi0xTUlzd0xjNWVPVEJDbDlrcThaWGx1aURmQUswdDhUWm1tWWREeQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T17:00:00+08:00"
     },
     {
-      "title": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T16:59:53+08:00"
+      "title": "The Social Security benefit cliff is here. Washington is struggling to wake up. - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdnY3ektQMEdzOEpNQ21RX2RfN05FV1ZlemU1LWQxb01MVGNxamFhdVl0SnRoMHZZeXpWMUo5cUtOdV9ERW1paGxGbnowMTA5bl85SEVpdjFEbUpmazE2ZW9lVG5jUkVhYkxkNmtvd05ydkdhMnRtOGdrdlg4WGZZaUNoOEVfWjN3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T17:00:00+08:00"
     },
     {
       "title": "'End of an era' for ice cream shop open 106 years",
@@ -99,12 +111,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9n9n5p9eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-27T16:47:36+08:00"
-    },
-    {
-      "title": "Trailblazing artist Yayoi Kusama, ‘princess of polka dots,’ dies at 97 - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52LTlWb2Fmd2NzTWJHczdHUDVQRFA1Vm96RHpBOGI2RW1PYlFYSjlZQVpxNGZRSnZ1azd6QTUxQTYyUkFMQ1FHS1RzRkx4THZfekNxNFIwdTJvUDVkNExtUDh3akowRmg1dEYtOEFib2p4eGYxTUt2UlhxRDFKQ00?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T16:40:48+08:00"
     },
     {
       "title": "What we know about deadly Nepal-Tibet floods - BBC",
@@ -149,16 +155,10 @@
       "time": "2026-08-27T12:09:00+08:00"
     },
     {
-      "title": "‘We will retaliate like an earthquake:’ How Iran could respond to Trump’s economic ‘D-Day’ - CNN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZEJWU21tTlFXMW1yNnRIbGhuUVkzbDRNV0lBd3pIVWc3aG9xa2JGb1pmemdxbTZsS2FYd2YxMmR6ODBJX3dQckoyZXRYY0k5aFRpUUlKTW5fUTFib29wYVB0b1g3OV9VdExjbUg2bmtLLU93bkN3WlB2R19tRWlsN1I0eDhBcXhHTUI3LTEtUEZXSFB1QUVXbUh3?oc=5",
+      "title": "What incoming Seahawks owner Vinod Khosla said in his first press conference - Field Gulls",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3NOUVU1S3FzMWlkZk1QcnB6d1ZpMVZLNXpYOHJRSUUtRndNQk5DU01uSENLbkttYWk3SnBjNzBXdS1tZzZIVXZfUEtvN1UwWkd5V2NVcUxMNnpkQUFSN250RDBMaTR4M2dycmRVTTlXRE5JT1VpT1RTcjFVOXJocU9QSGNrNWNUZGUxMXB3SVozUm8wQXJHbW9nSUN4dzNUNU1ucUx2T0dfVV8tX3dESko5dTRuWVRqOUtEN3pCREg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T12:01:29+08:00"
-    },
-    {
-      "title": "FDA approves pancreatic cancer drug that extends patients’ lives - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbS1KNUpKdXR1VXFBdWlnZ3JHTlNtaTdlQkRXNGdzRThoVzBMMXVJZDFCdkNHSDJHTC1XNExPLXRaaGRqREx5MnprSUlpUHRPZmJqNHlaamk1T005OU84UVhlVWlsR1RJUXY1QjhNRzQzTlVZZ0lFaUtSQi12Sjh3MVV6LUpWNEhTTm1Bczc3NXZpdDhMQXlfRnVSTDZJM2s3bUhENllRTmFHSnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T11:11:13+08:00"
+      "time": "2026-08-27T11:23:00+08:00"
     },
     {
       "title": "Harry Styles Pays Tribute to Dolly Parton at MSG: Concert Review - Variety",
