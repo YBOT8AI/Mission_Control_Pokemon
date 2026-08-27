@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-27T12:10:39.725861+08:00",
+  "generatedAt": "2026-08-27T12:42:46.905814+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617831.2,
-      "changePct": -0.32
+      "priceHkd": 617258.88,
+      "changePct": -0.29
     },
     "ETH": {
-      "priceHkd": 19535.48,
-      "changePct": 0.96
+      "priceHkd": 19494.63,
+      "changePct": 0.88
     },
     "SOL": {
-      "priceHkd": 792.62,
-      "changePct": 4.2
+      "priceHkd": 793.25,
+      "changePct": 4.11
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1166.16,
-      "priceUsdOz": 4626.5
+      "priceHkdPerGram": 1164.75,
+      "priceUsdOz": 4620.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.45,
-      "priceUsdOz": 69.22
+      "priceHkdPerGram": 17.42,
+      "priceUsdOz": 69.09
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 641.63,
-      "changePct": -0.47
+      "priceHkd": 641.47,
+      "changePct": -0.5
     },
     "Natural Gas": {
-      "priceHkd": 22.9,
-      "changePct": 2.78
+      "priceHkd": 22.91,
+      "changePct": 2.81
     }
   },
   "news": [
     {
-      "title": "Live updates: More than 160 dead after crushing floodwaters wipe out villages on Nepal-China border - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+      "title": "Nepal flash flood live updates: more than 500 missing in Tibet, reports China, amid search for hundreds of tourists - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYzgzdDVxeTZHZHJETVFQbHRQaVNRa2VqSF9EV1drSjlnZWdzN2RieWxSYmg3clV1U0g5MTAwWlQyb1h2a1lPNThLODVGd1ZGQ0xUM01tb1FyRGk1U3dveUFvZlp4QUs3MktFRUNOZ2xxcEx4MEdpV25zMkF1R0NBRWZHUF9CMmRBeWZJZEY4c192bjJMWS0zQ3RtNWZEbXFFQWtnb09KWUNyWUQyR1JOZWh1Y01tS3ctSGpmQXdpelR0d09NR2ZrSXIyZlZmR2lwd095ckh5eWtfRnU5dTlUTE40OXRBUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T11:55:00+08:00"
+      "time": "2026-08-27T12:13:00+08:00"
+    },
+    {
+      "title": "Khalid Sheikh Mohammed: Trial date set for alleged 9/11 mastermind - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwR25jQ3lyY3l3UmotdWh5ZGlwMDFCWFFBYmhsTzI0OGFVRGwwUUhVVFhrZG9pRV8tSDJIcldRd1ltT0RkbU1mVmpMNXpwMVRrT2l0azJqajhEUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T10:50:26+08:00"
     },
     {
       "title": "At least one dead after car crashes into crowd in northern France",
@@ -83,6 +89,12 @@
       "time": "2026-08-27T09:32:00+08:00"
     },
     {
+      "title": "Strait of Hormuz deal inches closer as oil prices dip; US commits to Tehran sanctions - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeThsSEx2WXBOSzdaQWhTTVR2cEVLcUNYVklsbnd5RDg3UzBQd0RWVVNQTVZlVjJ1SksxdGRXdXlfT1FzR1VCdFZQWVNrMVVlSTlhN0lPWHltaEdtSnNhd3J0TzRtUXNwLUlvZ2ZxV3d5dkQtcTNRSVJQWUl0OHVVcHF3VEdWV2JXbE1NT3RIeWs3c1JIVDUw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T09:27:30+08:00"
+    },
+    {
       "title": "Secret Service officials placed on leave in inquiry over ‘potential misconduct’ - NBC News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVB5SG1icGF4dzdvT2xKOG5BQ1pyazVWZnBPQWVKNHlNNVNsMnFnOWdBYmFvaUJPTm8ydXdUTy1QY0dyQXJuTE1QUkJwVXFsdWM4clJOQzBFbXM4SFhXSDVvRG1ybHpFcGxLUTZPMklNR1QwMXFTNm5NdXFJb2xhN1ZwNWFiem10M3IxZGpKdFk2S1N4LVJTWnBobHNQQ1JKX2dfQnVCem80RVhXU3l6NkdYYms2OS1Zd1BRQ2ZSOA?oc=5",
       "source": "Google News Top",
@@ -93,12 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzZrQ1JjY003NUZRM1pfZnJQNDNsREpxUGpjcmFNMUg5dThDRFRNb0RGTWZ4QnRvNExlM3RoMkp1eWpIYkV0a0R4UlY4MzdtTWpzY0dwZm5OeUlScGN0X1d0cTYxSXA3NDUyVFBDYURZWGxRV0pQMmtURkZfLW1HQ2o4d2gyZmo5SkJBQ1dTZFFKOU10SXRIbnlLOEt3N1hRb2hMZlNZb0hUMWdENXdKb1BEQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T08:57:00+08:00"
-    },
-    {
-      "title": "Dolly Parton died after a brief period of cancer - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelYyQ0F6d3pyRTRfUkt3ZmJ1cERNa1NyWEhuOVhTRUtGOGt4SkFMWGVPR3NYZ2pidlJtM0plbC0yOGh1QU1TVVVIN0l0Qk5qNnEzMGpuT0p0QjkzYXNCendCcDh3V09Jb28wbmNFSWpNM0o2dHQ5M3R0RkY0LU9PUkVUVm9laHlhUnR5bmMwazZtbmpmaXRaSw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T08:44:26+08:00"
     },
     {
       "title": "CIA Director John Ratcliffe warned Russia not to attack NATO during secretive trip - CBS News",
@@ -123,12 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWxqSzRmbDctaDZ2eGR4eGpRYUxoZDVobk5FOTBJdGd4Z3k5UG9qTWMxY3U0cjBIbFdfVHJYS01aYkxaVVhfZlY5THlzLTJPcGhuZnhQTEhvQ2tFRXJ4RF9oQ3Y5elctbk53T1FPbmhBeS1qMHZNck5EaVRYZ2VrWDNBWmlDSl9iT2Q4VUxB0gGTAUFVX3lxTFAwajUtMzI3ODJINGZaVU05WDVFVm4wS0FWQjZVWUVpMFZGdlFkN3VPNHI5ZU9GVHpoeXlmTHViT2FoRXNvMzJuM1ZyN0d3b2FWLXZaV0xXMGlMWUVWYWZpTzAxa0tEOHFvVmpadncyUGxlUVBMaDg4UlFaQ09vWEZIUFlGbzkybmgxcGI3VFF0QW5GZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T07:42:00+08:00"
-    },
-    {
-      "title": "Judge Allows Option of Manslaughter Verdict in Lindsay Clancy Case - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZ0lpYUdnbXBrZ3lOZEZlOF9MeElnMjR6WWZUYm5rTFRiZVpnNTVvZ084M3ZHYUVTM2lfMEVkd3BHNzFwS04wZWRNcHhVX3dHMnhKTngwUFFROGo0MlpJUDMzX284SUlzYjhkaEoyc1ZHcFUycHFJRTJLZVhlNTFiS2FUdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T07:25:21+08:00"
     },
     {
       "title": "In Spain's Revered Food Fight, There's Only One Rule - Newser",
