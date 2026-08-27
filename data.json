@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T14:16:50.367905+08:00",
+  "generatedAt": "2026-08-27T14:48:52.542936+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -272,8 +272,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-27T14:04:05.610354+08:00",
-        "next_run": "2026-08-27T14:34:05.610354+08:00"
+        "last_run": "2026-08-27T14:35:03.893238+08:00",
+        "next_run": "2026-08-27T15:05:03.893238+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,8 +290,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-27T13:45:56.099942+08:00",
-        "next_run": "2026-08-27T14:45:56.872450+08:00"
+        "last_run": "2026-08-27T14:17:00.813369+08:00",
+        "next_run": "2026-08-27T15:17:59.510628+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -326,8 +326,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-27T13:59:55.573579+08:00",
-        "next_run": "2026-08-27T14:29:55.573579+08:00"
+        "last_run": "2026-08-27T14:29:59.023913+08:00",
+        "next_run": "2026-08-27T14:59:59.023913+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -335,8 +335,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-27T14:08:56.386282+08:00",
-        "next_run": "2026-08-27T14:18:56.386282+08:00"
+        "last_run": "2026-08-27T14:38:58.814331+08:00",
+        "next_run": "2026-08-27T14:48:58.814331+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -380,8 +380,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-27T14:14:57.124847+08:00",
-        "next_run": "2026-08-27T14:29:57.124847+08:00"
+        "last_run": "2026-08-27T14:44:59.423446+08:00",
+        "next_run": "2026-08-27T14:59:59.423446+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -571,15 +571,15 @@
     "uptime": "2 days",
     "cpu": {
       "loadAvg": [
-        1.24,
-        1.24,
-        1.26
+        1.53,
+        1.31,
+        1.22
       ],
-      "usage": "12.9%"
+      "usage": "12.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 45.2
+      "usedPct": 45.3
     },
     "network": {
       "localIp": "192.168.1.103"
@@ -591,7 +591,7 @@
         "name": "python3"
       },
       {
-        "cpu": "2.1",
+        "cpu": "2.0",
         "mem": "0.0",
         "name": "sysmond"
       },
@@ -601,14 +601,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.4",
-        "mem": "1.1",
-        "name": "python3"
+        "cpu": "0.3",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       },
       {
         "cpu": "0.3",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       }
     ]
   },
@@ -997,26 +997,10 @@
       "detail": "1 commit(s)"
     },
     {
-      "repo": "evilmoni/Orbitx-NFT",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-20T04:01:39Z",
-      "title": "docs: add institutional business plan",
-      "detail": "1 commit(s)"
-    },
-    {
       "repo": "evilmoni/TechWealth-Tracker-Pro",
       "type": "PushEvent",
       "actor": "YBOT8AI",
       "time": "2026-08-19T04:02:17Z",
-      "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/Orbitx-NFT",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-19T04:02:13Z",
       "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
       "detail": "1 commit(s)"
     },
@@ -1058,6 +1042,22 @@
       "actor": "evilmoni",
       "time": "2026-08-05T17:54:40Z",
       "title": "Add modular multi-industry CRM with persistence, packages an",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "WorldPaws/WorldPawsOrg_Website",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-04T21:17:53Z",
+      "title": "docs: organize repository, add roadmap, fix serverless DB cr",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "WorldPaws/WorldPawsOrg_Website",
+      "type": "PushEvent",
+      "actor": "evilmoni",
+      "time": "2026-08-04T19:14:27Z",
+      "title": "fix: correct malformed env array in vercel.json\n\nVercel reje",
       "detail": "1 commit(s)"
     }
   ],
@@ -1253,16 +1253,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-27T14:16:49.892170+08:00",
+    "generatedAt": "2026-08-27T14:48:52.312819+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 28.9,
+          "temp": 29.5,
           "code": 51,
           "precip": 0.1,
-          "wind": 15.1,
-          "time": "2026-08-27T14:15"
+          "wind": 17.0,
+          "time": "2026-08-27T14:45"
         },
         "daily": [
           {
@@ -1291,11 +1291,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.2,
+          "temp": 29.1,
           "code": 51,
           "precip": 0.1,
-          "wind": 13.4,
-          "time": "2026-08-27T14:15"
+          "wind": 15.8,
+          "time": "2026-08-27T14:45"
         },
         "daily": [
           {
@@ -1331,12 +1331,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-27T14:16:50.367745+08:00",
+      "time": "2026-08-27T14:48:52.542786+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-27T14:16:50.367745+08:00",
+      "time": "2026-08-27T14:48:52.542786+08:00",
       "type": "info",
       "text": "⏰ Cron: 26/32 jobs healthy"
     },
