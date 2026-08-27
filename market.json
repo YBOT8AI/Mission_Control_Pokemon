@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-08-27T21:38:30.082485+08:00",
+  "generatedAt": "2026-08-27T22:10:30.770322+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 620849.6,
-      "changePct": 1.07
+      "priceHkd": 624165.92,
+      "changePct": 1.32
     },
     "ETH": {
-      "priceHkd": 19538.93,
-      "changePct": 1.57
+      "priceHkd": 19571.31,
+      "changePct": 1.47
     },
     "SOL": {
-      "priceHkd": 819.04,
-      "changePct": 8.25
+      "priceHkd": 827.67,
+      "changePct": 9.01
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5531.67,
-      "changePct": 0.19
+      "priceHkd": 5540.37,
+      "changePct": 0.35
     },
     "SPX": {
-      "priceHkd": 60323.08,
-      "changePct": 0.24
+      "priceHkd": 60417.23,
+      "changePct": 0.4
     },
     "SPCX": {
-      "priceHkd": 1094.86,
-      "changePct": 0.01
+      "priceHkd": 1090.62,
+      "changePct": -0.37
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1154.39,
-      "priceUsdOz": 4579.8
+      "priceHkdPerGram": 1153.48,
+      "priceUsdOz": 4576.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.14,
-      "priceUsdOz": 68.0
+      "priceHkdPerGram": 17.21,
+      "priceUsdOz": 68.29
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 645.78,
-      "changePct": 0.17
+      "priceHkd": 649.54,
+      "changePct": 0.75
     },
     "Natural Gas": {
-      "priceHkd": 23.01,
-      "changePct": 3.27
+      "priceHkd": 23.29,
+      "changePct": 4.54
     }
   },
   "news": [
+    {
+      "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-27T21:46:40+08:00"
+    },
     {
       "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
       "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
@@ -65,16 +71,40 @@
       "time": "2026-08-27T21:24:03+08:00"
     },
     {
-      "title": "Nepal flash floods latest: Hundreds killed in Nepal flood as fears grow of secondary disaster - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaVMxckk4ZEFnYk1CNWNNb2dNeXFhbXloT1dCa0dtQ2xCWTUwWTNqWXhyS2IxdXZyZW5mbXlMSmhfTi1FclBhcG9NTDRCc2JOOUV1aWNPWnl2NW1OTTM0X1gtcm4tSjNuNHJGdHNIMVcxM05qZFQ5emtCTTE2ZU1YR0hTVVU3dw?oc=5",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEpsTHUxaXQyZ2JxZkU4Y2JlbnVNczZhWEVudlpDX1dHNGZPcEUzLWMyVVlmMWZNRWpIdlJHWTVMWUZiUzhnZGRua1VZUkFYMkFnck5EbmM3ZWVydUprcUJjWFpKRWh4UXpnUmNoLWEwek5Cc1pwZ0lfd2tLOTAyNzlqdk9YZHBzWEppZDRNR283TU91WllxTzZYY2wtUzZldEwwOTc1NEdVVklIdFB4M0hsdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T21:18:00+08:00"
+      "time": "2026-08-27T20:58:59+08:00"
     },
     {
-      "title": "Hormuz Risk Premium Eases as Oman, Iran Discuss Shipping Corridor - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGFVaXlKNVFlWEpqTkt3bVpxejc1WWhMQ1RBTVBncklfUjFuYUZsYmEyTFRFUWExVk53clE3dVZGNmw1dmJDc3A1WWFyRUZHVmxjZzY5NV9zZHpHc0k5Ynh1N1NGcnhPQjVsZjFPWkpOanpXdlBHNjFQcy14aGd3czV4bnVDYkNTWFB0YmFiRUxHenZ5V0Z2bzNqak8tMTBtenZBZEJ3NC1zbGdFV1Nidw?oc=5",
+      "title": "Nasdaq futures jump as Nvidia earnings lift chip stocks: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81OFdpS2tFUVh1NFJWZVBOdHV1VDZINjFmVmZxUnF2TVFRVnVDV1VXYnN1OS0xTURpMTl6S1NvMllsWVlHSVpCUU4yRmJZcDYtNUVVV1p2U2ZXOEpuSHlkM3lkTGNtWjBSdlVtUUZxLW9PbUZpbHBF0gF8QVVfeXFMTVE4T2JoblkzUGJXTFEyZjFHYk5adlZyYmUzcXhMRDZUSUJMU1FUNDRsT2RPNzc2MUcxT2V5M3RoeUgxS2xGRi1oWXdsLVkxOWYyRUZiSVdjNnVLbktoYWtoUmRBWGpZTW5PUnMyYUZLamt2aHlLSmtmQmZPXw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T20:43:00+08:00"
+      "time": "2026-08-27T20:58:02+08:00"
+    },
+    {
+      "title": "One in eight young people still out of work or education ahead of major review",
+      "link": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-27T20:56:31+08:00"
+    },
+    {
+      "title": "ICE Agent Released From Texas Jail After Minnesota Loses Court Fight - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmdTQ1BfbWtnU0NJRU01aDNjLVF6Z1dkTExtcXk2ZkVSTXJidDdmTGlEdWdINDNSV1B2TERoZHV1RmVmTFRqZGdFUEdJVW90MkV4WDM4V0R3QnpodEJJUzlycl85cGIwRk1WNl9PeEc5bFAxekFkWm1wNnNvV2drdTFDd1NGVlJGZmRrSFpBeWNMZUdX?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T20:50:17+08:00"
+    },
+    {
+      "title": "Hackers steal data from millions of airport customers",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4353rry7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-27T20:48:25+08:00"
+    },
+    {
+      "title": "Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE95NHNaZVlRdkhJOUE0VGR3a1gtUmZ6cDV2QjduVUpfR25jQ1B3VlRfRGxrMW8xcWU0Y3ctcjViNG9Rd01MOWZRdXRRX3dhdzRRS21UWjhTN1pGdVZSbi1MMzI1ZXUwNnZXY1UtUEtkamF4MVRLRklwY2RR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T20:44:34+08:00"
     },
     {
       "title": "Thieves steal Bronze Age artifacts from Spanish museum in four-minute heist",
@@ -83,8 +113,14 @@
       "time": "2026-08-27T20:41:16+08:00"
     },
     {
-      "title": "Nasdaq Futures Buoyed by Nvidia Earnings, Software as Oil Falls - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHQ2RnFRV2UzQ2llWXFqS0xnRy1rbks3Vkdxd0pRTFhnY3RyMEhGMkYwMTZSLThVc0ZwS2M3Y0F0V19kSHZYbkVBakNidXhCZ2hSRlN1TjR3bFBlVkxPdGxaOVcwLTF1TFo4bHpuaGVyRnozYXpDSHIxYWEtZkRUWFpTd1BvXzRucXRmWkEwSzFlSEVSSW12aGN1aU1KMUJHbGNUTUM4Z2o1QQ?oc=5",
+      "title": "NFL finally throws in the towel on the Pro Bowl - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ3hJRWdUOGJ6QlRKSlg1RjczYVlnc19MeUJ0alh4d0JEVkFaT2hKYVgtRVY2Mks2dHYtTTZmTmxDSUpTbTVtQzBaTGExdnRvMTltaUNWaWM1aDRUaDQ0RWRGOXNnZDVOUmluRHRqMnVVMUNsNC1YSlVCRTBQRzNXdkJpamVHc25HN0NXclRMM0lQRWs5bVAtNVV1SnRJREU2bnY1c3J5V29KUi1nTl96V3pLSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T20:38:43+08:00"
+    },
+    {
+      "title": "Catastrophic floods kill over 353 in Nepal and Tibet, with more than 1,300 missing - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTRiakhGUy1IMDZwSGk4Zld5ZmdZQUNmMzZWMVZ3cHo3TkF2alg4YjIybVZaN0lFV3plMUdWc285NU1GS0dXZ085M1hzcWdwZGZ2RV90dDZGSDF5b3dNZ0h6MHZMV3JEU1dqS1Y1WlpNelU2cXhCVm53U0ZyNUJkcl9mcnRBM1Z2ZHl3WGhFRUNnUHB3eURyc2c5QzVpelN1UFRyZGY0eF9WakdnbWtJ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T20:37:00+08:00"
     },
@@ -95,34 +131,16 @@
       "time": "2026-08-27T20:28:00+08:00"
     },
     {
-      "title": "Miss Teen USA winner revealed. See who will compete for Miss Teen Universe - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlA5clRKNk1Nb2dDek01ekJ1SmNzX0VpWW1MZVVtamFMWUl5RVRhV1BfNHIzb3BGS3Rha21sS1ZqV1A0VUZHZ0d1b1owVXhnV0FXdDROUHZlZDJwanNGTkZ6Rm83TVdxVG5OWkpHTXB6VTZ5NVRJY3BsVGJGR1Nya3kyMExtdW5OY1AxdG9URHI1MGU4SEJqR0Q1NE9YUQ?oc=5",
+      "title": "Near total lunar eclipse will be seen from North and South America Thursday night - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE5Ld1JadTRZM0hyODdvUDJaSzl1SW05eDI3ZndGb1pVWnpJUU5iME41b0ZhZE1UVDdBVDBTcW52RHlmaHNrOWQzcTFucjdjdlNaWExFam1kLU5RMC1CUkItTE1yYVg2UHVHTF9TSXdOSTBvYnJRSVUwU3dTa045WHZ6Zkx4dHh3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T20:27:00+08:00"
+      "time": "2026-08-27T20:14:00+08:00"
     },
     {
       "title": "Missouri deputy AG, missing 6 days after seeking to summit Wyoming's tallest peak, is found alive - Fox News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa2wwWFhSWFJnQXlLcXhKbk1DbXV4eHM4ZGNUTUZHUGl2d1VrSlJDMVl4OTd6ZDdVQmMyZXZWdU1HeUh0N0lQYk1Ia1N5SEtybjI3MU96MWZIYWZkWHRWM2N2cUFFaGxpaU0xdHEweWpZX0RzMzZLZlZueWtBX2s0eXFhc2FjWUxQLVUyajFGSC1BNndPT1Bndl9OWTVrWUJEVm5JZjVrN0NJNjBKSFHSAbMBQVVfeXFMUG9fVDNRa0tNZjFNQWtMdVlCNGhtVFFOZDhadGxKZEoxUkFBemkxS3VUR1VmSlBXLVpPaUZhR2Z1SkNwdFF6NGVNZ2tHb2NidnRTNE9OY3ZNaVJJU0JSaUdTSUp6TGlLRzNsaEFKYmRsaS1UaW5FZXpMMmxhcGJEdHZMaXRHZUlQYUFqYm1aLVRFdl9BbFlObkNRQjNXWHl3V29FZnVQVFVsQzdwT0hqSmg5OUE?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T20:08:43+08:00"
-    },
-    {
-      "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSENjVlF6RWpVLTc1dDlRbEhsZExUVWVpOU5pVFBuZFVhSDVINGExNTBwUFJwSnFhenZRU3VfdkxLUUR4LXRXUFQ0ZDAxdS1GMGlBNERIWkx2VU1fQWY2Zml0RG9SemRieHpRbTN1Z1JFS1ppRWl5TUVSLXYzTEUyOG9vMVFtdjUyVE1hV2x2UVhrTTVucGgtWWRtWVloellEeEdnN2hn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T20:02:00+08:00"
-    },
-    {
-      "title": "Dolly Parton’s legacy includes an unfortunate reality of caregiving: Not taking care of oneself - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQmtnSEF3MjJIaE5sQjAycmNOLXEtZUU1Z011NUpZY1dfb1EzUGItUElMT1U3cERyU2NaTWV2ZXVCVVJyMkhNYUVKUDEwbFQ2aUlmV2NQM3JzelIxOF9BOWt0WU1YZ1hDSEgzVXJNZUtPdEZlcm9CTFRpN1RYVGlzOV8xT08?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T20:01:35+08:00"
-    },
-    {
-      "title": "Samsung announces 2027 Odyssey monitors with 1,100 Hz IPS and 720 Hz QD-OLED modes - VideoCardz.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMkpud2J6cW0xTEo2RXg2UFEtRTV4VUltWGc2eGRRYXpXVk96R1hCVlJ0eFl4azdOZzNsdU5aaTJoUVNhM3dmUXVNNzVDSDRYZ3hnbDJ6LUQ5Q2VOMnNScWt5d05PbzQ1QTFIUmJSbHA1Sk1ISHl0WDF3Y0V4amhqUHNCZXcwNjk3c25va3lGbVJpemkwd1dSZXBLQzNobXc1bmNpSzJjUW1KamZvQ1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T19:58:26+08:00"
     },
     {
       "title": "Apple Event Logo Hints at Two iPhone 18 Pro Features - MacRumors",
@@ -149,28 +167,10 @@
       "time": "2026-08-27T19:16:40+08:00"
     },
     {
-      "title": "Alpine confirm Colapinto contract extension for 2027 - Formula 1",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcnBFdHl6WmdTRUlBdFFnVjUwbXRUcExxNVM3MGFGVlhmbXRwbmtqOURtWGhFdUhkdHc3b3ZOQ0I0cVUtakI4b284eDBvRHZFU3FpMjYyc3laM0RSS25zYkVpRkE2MU9mNl9tSWRkNThYWkNYWlF5bnZ0bkl5ZzBuTUU3OFA0eEctZHNRMEhrT3djT1dub0s0X25WTHFFRHFuX2FibTNGUkJtZHZMTElKX0tVQk14SVY3cGx1eDMyQTNteVJ1UHBtdF9GQVBLQUJnTWdBakpnVHI3eUlMZ014Wl9FQQ?oc=5",
+      "title": "A biopic, a coffee brand and dog treats among Dolly Parton's business projects still to come - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuWXFHak9ybmlvVHF0OEROWkdEWC02Q09vR2diNkVDYWdXLXRDMXJLQnlsNkdJMFJER0FHOEVJVzVaNUVXMUJ5VDJVZlB5ZlhmRk5PTUEtd0pldw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T19:02:00+08:00"
-    },
-    {
-      "title": "Taiwan parliament rejects government military drone plan, passes own version - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUE95bnY0eU9Zcl96RjUwMlJyOEpVZTZoUXY0R1RqNlNMZjk5UEh3S2xmTUF1RFVlUmlDVG1IakpvaXIyV2hFb1BkSDNzd1k0NmxpTGo2NThwRXhYYVFxeW5jUWloTGZzMGhlbUFBQ0FQSzRwRHJVelZHQUZ4RmVjeHRES2k0YkN4SjkteWNteUJic1ZscmQySG1FLUdOaUFrYUZyTjZyaXhWVmp3NzhsUFFFV2dFMHRfMmpFLWhB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T18:54:19+08:00"
-    },
-    {
-      "title": "Our College Football Playoff, Heisman, national championship and bold predictions for 2026 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnJRT2NBWHRoeXMtUlBYcVhCY3E0MUw3NHphRzFJdHBCUTQzeWU3WEtyQzR3ZzZaWjB2eDR4RFJMeVV1Wm1talZMYTc1dGxRZlRvUFdIVFpINHJ2bFZGUlB5dXM2bkhlUDZ2MDg0LUZIUU9yR21hMWM0TWt5aFFpNnBIRlFJUzA0MlZ4OHBQVjNFX1hUTmp5Z2x3VzU4eWpwSUxQV1VPNmNzaGFOQmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T18:48:43+08:00"
-    },
-    {
-      "title": "Six months of the Iran war – as told through Trump’s social media posts - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkZkb3NSdmtJSWFULTJETENDYVZsZGtMRkFNaEFOeXQ5bDRmM3g2TEt2ZkJ4dXRiY3RCZnFsTV80dTFHWEZ5dFQxaS1DT1JYZDRoSldtcUk5SXdXUTZ1S3FtdDkxamV0QnViWkJRRHFncTdlUy05RW1MeHhBN2todTdFT1d2aktzWjlRdXFmR0hVcU1XUnF5NWVFXzdEWGlteE93bXY4WVU2RlEyZFHSAbMBQVVfeXFMT0RGMmdGMG5aTUhmWFNSaWlqU0hYZlRFdkZIaF92akxtcWZVWVhIN2tkZmtRTndfQVBoR09LUlc4cUpfY1JHQXJRZ2RpOTBxMXZuMGNWQUR2bUVKa0dsMDltUlNYZFkxcEFmMGNWQ0VVbjByTGhRenNmUC1IQl9hUzAtR0hOTVUyQ3M3N0ZpTHZvVFp5VW93OEZyMzF0NnptU0tZU3hoSDFhQ0xyX2d4dmdWa3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T18:40:31+08:00"
+      "time": "2026-08-27T19:00:10+08:00"
     }
   ]
 }
