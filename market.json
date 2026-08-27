@@ -1,68 +1,86 @@
 {
-  "generatedAt": "2026-08-27T23:13:36.596115+08:00",
+  "generatedAt": "2026-08-27T23:45:40.091087+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 629787.2,
+      "priceHkd": 631308.16,
       "changePct": 3.17
     },
     "ETH": {
-      "priceHkd": 19773.42,
-      "changePct": 3.32
+      "priceHkd": 19814.11,
+      "changePct": 3.22
     },
     "SOL": {
-      "priceHkd": 841.08,
-      "changePct": 12.24
+      "priceHkd": 841.0,
+      "changePct": 11.65
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5553.23,
-      "changePct": 0.59
+      "priceHkd": 5545.15,
+      "changePct": 0.44
     },
     "SPX": {
-      "priceHkd": 60555.22,
-      "changePct": 0.63
+      "priceHkd": 60468.51,
+      "changePct": 0.48
     },
     "SPCX": {
-      "priceHkd": 1102.07,
-      "changePct": 0.67
+      "priceHkd": 1099.4,
+      "changePct": 0.43
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1158.2,
-      "priceUsdOz": 4594.9
+      "priceHkdPerGram": 1160.04,
+      "priceUsdOz": 4602.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.35,
-      "priceUsdOz": 68.84
+      "priceHkdPerGram": 17.42,
+      "priceUsdOz": 69.1
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 643.66,
-      "changePct": -0.16
+      "priceHkd": 646.33,
+      "changePct": 0.26
     },
     "Natural Gas": {
-      "priceHkd": 23.02,
-      "changePct": 3.31
+      "priceHkd": 22.93,
+      "changePct": 2.92
     }
   },
   "news": [
     {
+      "title": "One in eight young people still out of work or education ahead of major review",
+      "link": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-27T23:33:36+08:00"
+    },
+    {
       "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
       "link": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-27T22:59:05+08:00"
+      "time": "2026-08-27T23:16:54+08:00"
+    },
+    {
+      "title": "Uefa preparing to bring criminal claims against Gianni Infantino over World Cup sale - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWF0Z1d0VThNNWwzVWt4U2RqT1g4djcwVVdnMnJmU2lNaDdPSm92TW9DZ3BOSlhOSGxicFpHSmRtV0ZINkVFQnNDd3BIMmYwT2NFdThIWW0xM3F4RmlXQW90Q01YRmt2THd4UmxPM0xSTFIySVNDeVFiVmtXWG1uRU1rd1NOeUJ3R3JjTE8zQXdJQlVWWE5WakJvRGVsclNZRVl6WTRSbGt2RkFRcWxJejJKZjlsd3YtLXRDMEFnUFBnM2U3UWJGOFZXZndJQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T23:15:00+08:00"
     },
     {
       "title": "Jellyfish force partial shutdown of French nuclear plant",
       "link": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T22:49:23+08:00"
+    },
+    {
+      "title": "Canada's tariffs target certain U.S. states. See which regions are most vulnerable. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0dNVUZ0YWszc0J4UTZUQi1EWkh3RjNPSFZqaDRLaEliYVBSMGtlWEJvM2tWSUlLbFNqRkthV3A0OG05NWxpaVotWGxlVnpST1dZSnppWkdVWnRXQVFsTlhrbmpRaURUcENqMnpmNVJ3SURVWlV0dThXUHRuVFRjZFdnU2RJT3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T22:47:17+08:00"
     },
     {
       "title": "Hackers steal data from millions of airport customers",
@@ -77,22 +95,16 @@
       "time": "2026-08-27T22:30:54+08:00"
     },
     {
-      "title": "Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb1pWdnZod2NfMzhhUVNKUkluTS1OT2k5U2ZHLVFsMkhqMG1Vemd2LW0yYm52ekxhdzhFZnZmU3FvR3FNTEl1VDhHdzBDWXZlMFNEWEY5OFRjR3JON1FyRlVpVUhrMHBBSzZRMmd1dHh2NlRuVUZENVRndjlnWWg2ZEY2RmM2T0JEUThHbmxIRC1Sc3pndFFBUlRjQXM4QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T22:26:19+08:00"
-    },
-    {
       "title": "'Silence is complicity' - top footballer hits out over Cameroon femicides",
       "link": "https://www.bbc.co.uk/news/articles/cgjq49g8wwqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-27T22:26:15+08:00"
     },
     {
-      "title": "Nepal flood death toll surges as 65 Americans listed among over 1,000 people still missing - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXQ5TENzSVNuOWZCWE1nWHAtYzd5YWNiSldxMDJTLXdhbVhtVnl5RHg0ckVDNDUyNy14N0I4R3ZpZzNST25iTmc3Q2JZNlprd1RLcHZKMGlJTVVXZHRrNWZwbVE3eGc5LUF5Yy1EZjZ2U2RFTDZyNmsyTGFDNzR2V0c5U2tMYW5wdDhRa0ItSktZcGto?oc=5",
+      "title": "Tropical Storm Dolly forms in Atlantic - WESH",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVFySGxudlU2NWltZElFU2FYTVJ0akI0Y2xMR3FhTU1aNjVtbEFsdlBqSUU4TlY0V0xJcmlZcFJYeTMtT1ZTalQ5Z3dzRFlGRG96YTRBeDJralpDUFMxd1VVV21zaE5FdGtWNDNQcDFCSHc2RGpsZl9WLWE3NVIyRA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T22:22:02+08:00"
+      "time": "2026-08-27T22:18:00+08:00"
     },
     {
       "title": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
@@ -101,16 +113,10 @@
       "time": "2026-08-27T22:17:24+08:00"
     },
     {
-      "title": "Bosnian Serb convicted war criminal Ratko Mladic dies - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXhwN1k3TFZrQnZtV1hTV2Z3SmRIbDJURFFhLW9faE1pRV9oMktWcXhRUnZqWjhGT1VUVV9MNWk4T01wTjdtZjVlZTBEV0ZaSTl2SEpuNFc5QlE5VWctbkd4a3JJVGZuNFVwNklEYm85SlQ0S214N29GNTlURXhtbGtGTGpTckJjaXY0UVdxZnBzOXlYOERkZERPOEE1OWFuYUHSAacBQVVfeXFMTlZfbnA5RFVuaWcxWHpuSVV5SUxtUWNyNzhlMThURkhJUFdpVFZ5NFhlZ0g0bGF1MkxGWElJcXI0Ql9kWXFzTkdoSjZOdnNnZFVOUlhRNkFRdUtEZzhpWndlMTdNTW44M2dCR2JoRFBPMWFXZktPdzZKR2xCUUxmWDB5ZC0wUVBTRUUzOEZvSmtVUkdrLVhHaTRNMF94NlRIZDlmZjYtQmM?oc=5",
+      "title": "Nvidia ignites chip stock rally as forecast shows AI boom is intact - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYmFTYjRhRjAzTnZXU3lJa1V4a3ZlVy1INVptbHZUc3V6b2NyOGJFRnRtQTFWQ2lrU2pYc0M3N01TcW9tVkh6ZmRQTU81OUd1VlBnQ0o1b3pZSlFqZmtSM1NjYzd5T2xnZE12clJPM3ZlUjdhdWxfbVB4MlQ1UWowZGhNNmxYZXNJRVdGVk1nZ3ZIMjlZdU5WWEg4ak5mYmUy?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T22:08:27+08:00"
-    },
-    {
-      "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaFUzSHBrbTVRZ2xncEhvRzU0U05SYTUwTFVhV1NQbVdlNFFxa2VDdnM0SnU0VzNvOEJzcWE5NnNJNXh3cFpNU1dlUDFKZGo3RzRXU0x5RTVJcnF3RWJvVS1NWXhtM3I3ZVNOSEZsWQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:53:00+08:00"
+      "time": "2026-08-27T21:58:19+08:00"
     },
     {
       "title": "The monstrous crimes of Ratko Mladic, the 'Butcher of Bosnia'",
@@ -119,10 +125,28 @@
       "time": "2026-08-27T21:48:09+08:00"
     },
     {
-      "title": "Oil prices remain low; Strait of Hormuz at center of Iran, Oman negotiations - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNekF5ZFdjTVNXdXkycmp3dy1yb0N4SW5OTklESGR5SVVfakIxM2F2QjZfRVlVZTFqVW9McTI2QVZ2c3ZyeFRVZzE3WjZQeUkzRWhFTjRVUTdqUlpMYlM1NEVsYzVnbkxZVVdrenpQXzZSODVLQkx6M096dUZyMHA1d1NUNE4zM2I3anVXRzNpZw?oc=5",
+      "title": "Jennifer Mir posts apology to Alex Apodaca for vitriol after Bella Mir DWCS loss - MMA Junkie",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPWWFzNGVXM204S09WRDVCem1fWkRqSWo0a3FlZzRoMmNpVlMzN1A1OThwdFVlOWx6QTlQVjN0WXVDYlFZMlNaQ2xUWFVfT1BfMGhHQ3lUa1BmbFNfWVEyd1FPcC1yc09SOUJPT0ZEWHRET05CejhnNlhPc2ZabnpFeHItMTF6NUVXRlpYNUxocU9xSlFnMTNnZlAzMTZVcEk2a2Z1aHJZcUtwOHhlT2dZbGkydGpXUnpZUXRXTEQtTDBVYmVXQ011X2JOWEo3U0hFOURCeDdNU2xjSV9tNUdKc1RkaDhSckFQLXZhbmlQRUk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T21:25:23+08:00"
+      "time": "2026-08-27T21:45:00+08:00"
+    },
+    {
+      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities in Bosnia, has died at 84 - NPR",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUb0tfdFZiaURQaGFZQUpqY29rOWptaFRwZUk4UU8yX0VoMVBObUNxU0NWeFhEU2dybF9sMzBWMkY3UE1BTEJsNXN0LUlkWnJwVV8zYUdZY1I4U0Nacy02SkVpZHdBZ1N6UERkcTNadw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T21:32:43+08:00"
+    },
+    {
+      "title": "Democrats at odds in Michigan over El-Sayed’s ties to controversial streamer - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd3NBYUFHcEQ2dzFZSXdpNnF2T1psR0JZZEQzWFFHYnlueVRPaFVmOTllMmpzWnZ0YVVpQkI0a3I5SGloUzZ0Mkx0ZFVaMndnRXVxd0lPeG04aFlmcXY4Z3NCY0J1d2hGMWRUOF9PaFZsR3hWNTJUR0JXZkhYYXhjdC1VMnRIU3pUTFJFLWtUcmZTMHFYbmJQd09SVVk4OUhVMjRHU2NyVzVkcC1lWENIUENSTTQyM1BaQkE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T21:29:17+08:00"
+    },
+    {
+      "title": "A former Mike Collins staffer posted KKK and Nazi images. Some Republicans see a pattern. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdVMzTWNXeFp6aWJmdG5IVWZ3dW5YMzh2YUswWGxUcmV3NFF0ZTNPOUxQeVdHM1NEaHZhTzdpcEZWZzJQMGtOZ0p4alNRcU5ZbHdLejFJU3pEc1M1N1N5aU5sMFg1WnphbmVzb05waUhJVnNwVUJSNVoteEtZSGR5Yld5OHhoaEdaNWZYOEk3VGM2TGVGNFc3SUk2TU9qYlBpTTRleE80QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-27T21:29:17+08:00"
     },
     {
       "title": "What the Meta settlement means for the UK, and other questions after the deal",
@@ -137,40 +161,16 @@
       "time": "2026-08-27T21:23:57+08:00"
     },
     {
-      "title": "Daughter of ex-MLB player breaking Little League World Series records - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaWtIZGpSZGVhb1RZbzBWOXRKOG1TdmN5Z3IxcEZyYXpHNXI2eUpMOFdtVGE1blBIUFlocWdaZWYzNThSZnRWdG5hZGxwTmZiYTRBRE56WnJFYmxrWnQwamdCczgycG5tbVFBZTZ0azJqVUU2NjdKV1FnamVrS2dTaFZBTGEyYkpOVjZyeEZFZjRwX0JZZ0ptNVVzTUR1QXRuWmZIejFTSGQ3QkxUWXVkQ1oyT2JwY1dlOGJOWQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T21:05:00+08:00"
-    },
-    {
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDV4UjNPejZUeThxY0FTTVZWY3hURjRjVU1fTTVMWlNPZ25yWU5QYjJrOXIwVUE0YXZ6cXdkNjdKMXBNMGg4REJHdENqZVRGNXhDSVA2SEFPaVlmbTdrU2VXOFBxSi0wc01QNW1QWkRSeWsySURPa21SWUdqM1AzODB0UmJFamNGNFJGdVQxXzQzUVdEc1hsaXFfTXR6U2hkT2RsNDRNaVFBdjE5Z1FrOA?oc=5",
+      "title": "Google Is Releasing A Special Edition Pokémon Sleep Fitbit Air In September - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjNNZGJjUVJfX040eUdQTUFaazRtV1NydTFhWGprLWkydGk4R1drUDJwQ2dlRldjT2tTSEZQMElhTExiY2sycTNvdzhiLVliSnBLdmg0VWpVUkRoNHI2dk5OT2drcWdXNWVzX21TaWRnQS1iRWR5MFJIOUUxM3JlNXZ0SQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-27T21:00:00+08:00"
     },
     {
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeEpsTHUxaXQyZ2JxZkU4Y2JlbnVNczZhWEVudlpDX1dHNGZPcEUzLWMyVVlmMWZNRWpIdlJHWTVMWUZiUzhnZGRua1VZUkFYMkFnck5EbmM3ZWVydUprcUJjWFpKRWh4UXpnUmNoLWEwek5Cc1pwZ0lfd2tLOTAyNzlqdk9YZHBzWEppZDRNR283TU91WllxTzZYY2wtUzZldEwwOTc1NEdVVklIdFB4M0hsdw?oc=5",
+      "title": "Umar Nurmagomedov has new nickname for Merab Dvalishvili after latest comments: ‘All the time crying’ - MMA Fighting",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQb1FpZnVMS0lDS1ZjaEQ2ZFJYOEc0eHlyZ1o0TUk4UVNfNGpFQ1JnUV9TblBQQnFRQW1HZjFJcGp6ZEJaSXJTcVhVa0pGaVR3cXZPdzJTRnZBUERNMlk3cGMtUDEzS3RpRGYteXNKVTRwcTdVU2tqV2ZIWm5yM1RUczFSc1pvQmFSbVpsUmNrWnc0UGoyYkREcmduTWdPWHJWLTFWVmZONmJKcWppcWZvU3hwamQ4ZjQzdUdjb01BMGNiR0pKVmF6eEhUTkpaOEZTTElURzQzSkI3Q3h4bzhYd1djOW5kNEJuMXlSUXV3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-27T20:58:59+08:00"
-    },
-    {
-      "title": "One in eight young people still out of work or education ahead of major review",
-      "link": "https://www.bbc.co.uk/news/articles/c93epy2yev0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-27T20:56:31+08:00"
-    },
-    {
-      "title": "ICE Agent Released From Texas Jail After Minnesota Loses Court Fight - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNmdTQ1BfbWtnU0NJRU01aDNjLVF6Z1dkTExtcXk2ZkVSTXJidDdmTGlEdWdINDNSV1B2TERoZHV1RmVmTFRqZGdFUEdJVW90MkV4WDM4V0R3QnpodEJJUzlycl85cGIwRk1WNl9PeEc5bFAxekFkWm1wNnNvV2drdTFDd1NGVlJGZmRrSFpBeWNMZUdX?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-27T20:50:17+08:00"
-    },
-    {
-      "title": "Thieves steal Bronze Age artifacts from Spanish museum in four-minute heist",
-      "link": "https://www.bbc.co.uk/news/articles/ckgw9gw34yqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-27T20:41:16+08:00"
+      "time": "2026-08-27T21:00:00+08:00"
     }
   ]
 }
