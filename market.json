@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T07:12:21.148591+08:00",
+  "generatedAt": "2026-08-28T07:43:25.804814+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 629081.6,
-      "changePct": 1.96
+      "priceHkd": 629552.0,
+      "changePct": 1.67
     },
     "ETH": {
-      "priceHkd": 19715.8,
-      "changePct": 1.0
+      "priceHkd": 19704.35,
+      "changePct": 0.36
     },
     "SOL": {
-      "priceHkd": 855.74,
-      "changePct": 9.05
+      "priceHkd": 858.72,
+      "changePct": 8.69
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1160.62,
-      "priceUsdOz": 4604.5
+      "priceHkdPerGram": 1159.79,
+      "priceUsdOz": 4601.2
     },
     "Silver": {
       "priceHkdPerGram": 17.5,
-      "priceUsdOz": 69.44
+      "priceUsdOz": 69.43
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 655.35,
-      "changePct": 1.65
+      "priceHkd": 655.42,
+      "changePct": 1.67
     },
     "Natural Gas": {
       "priceHkd": 22.76,
@@ -53,10 +53,22 @@
   },
   "news": [
     {
+      "title": "Overcooked? Why robotic pizza makers are failing",
+      "link": "https://www.bbc.co.uk/news/articles/czxq0wgkkdjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T07:16:02+08:00"
+    },
+    {
       "title": "Trump signs order to rename Lake Ontario as Lake America",
       "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-28T07:09:29+08:00"
+      "time": "2026-08-28T07:14:43+08:00"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T07:11:00+08:00"
     },
     {
       "title": "Selena Gomez pushes back against 'absurd' fraud claims",
@@ -83,6 +95,18 @@
       "time": "2026-08-28T06:54:28+08:00"
     },
     {
+      "title": "Predicting each Power 4 conference champion ahead of the 2026 college football season - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVhXX1FrVFdFTXJQb1BCZGZrT3JkenVIc2REZWZLMTVaTF9zRWdETGQxMGc0R3BXemRLNFVaSlFjVjZQNDNFcWtxMGktekI0SmIxNVY2WGM1NHdmejBOb1BqSzVDbmVWa3Rzd0FhdWxYVy1Hb29rTW1PQ0haUktrYURrS2VlNlpoTmpMQjdwQV9PcUJQcnBwZkY0eEV1ODNLeWlDUmpwUjFpUVVvczVmTXk4S21zUDBW?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T06:47:05+08:00"
+    },
+    {
+      "title": "Jury to Continue Deliberations in Lindsay Clancy Murder Trial - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50LU15OGRzTGpyZjNrSndzRHdZem8yeHZwSV9PQU1rbk9rTnFwZFREdVVtTUFXTHBXMUdEU0FWa0tzZEN2dHZwdUZtUkxjdFZVNnNPWWpwOUZldm5yZnZUcHIycnNJbmVBM1Q3X1lCbjJKVE04a0NqelQ0VQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T06:34:36+08:00"
+    },
+    {
       "title": "Tate brothers to remain in US jail pending judge's ruling - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHpTUXAzWXdHZ1FjcktWXzJEYW5ISGU3LW9DRE44ckVTdjcwdFNVLV9EeF8zMkhlVzFyTi10dC1zVFpFaGUzTGJwc1RVNFkwSGt2aGoxTkFmcGdORG9SRWxpZDJaS3BlR053T05xa3JSeXhCVTd5SDRwc0J0d3QzbUROQWJoVnhyRVVoLTVnSFZtd2FjRzU0TVhNYW5vWFlmWXB6aDJYYnEwdVphUl9KX2ZKTQ?oc=5",
       "source": "Google News Top",
@@ -101,34 +125,10 @@
       "time": "2026-08-28T06:11:00+08:00"
     },
     {
-      "title": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdERDOUhSYWhxSU5maUkwVmkzN2JDbW5oN2w3UndGdUJtbGFTQ2k1MmF6NG1jZUNsZ0hTWm1DcUNJbnE0aWhmRVJtamNqZGkzaFVQODlleko0NkpYb01vSjJ6b21pR3ZFYlJnOHdadjF0ZnRGVDN4aGxGYjV2WU11bEc5UnZHSDh3bFo0RnhRcFF4WTdCeGVpdmRmRFViSU5VYXh0OUp2VDd4dE9nbHZTaWFobzVqT3d2YTA2czEzWkI4Wk5uMGtCbjlRUGswZ01vWlBNcjd6Y1Q?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T06:02:00+08:00"
-    },
-    {
-      "title": "ICE officer’s release from Texas jail opens a new front in the escalating fight over extradition - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdjVzVk5QWVpNVzVBdThqMWhfa0tfS3QyNlZEZEphaWUyOVdTTlo2Q2pscVJtV1NvQld1STN3THM5cVpMTE4zSDhUaXJuMElxQWJlX09iS3RrQzhBUjdnc2VVcE1JR3RmNWtPM0VVRE50eUZTWndQWms2bFp4RHIyQ1FjSXM0M2pZdDN6NUd4M3l4M0c2UTFVcHB1eWpXQ1lxM1d3OEhxOHZQcmxKUm94THNGSG5La1FQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T05:53:00+08:00"
-    },
-    {
-      "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T05:46:00+08:00"
-    },
-    {
       "title": "'Cowboy builders' targeted in new government clampdown",
       "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-28T05:44:02+08:00"
-    },
-    {
-      "title": "White House Construction May Have Contributed to Close Call With Trump’s Helicopter - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUx2MnNzOTByU0tUaWpFLUZtTm56SW1mTnJVRFFQRy1qOWJpVVNYWDRJNUE4WEk5UzFMVW5ELVVtU1lyQnppZzRXN19tdzZVSTV1Q2RQVW1LLXBWNTNXeDNybXNGb3BJeTc4dFZsaVg1NU5DdFRad2dIRFViRG1sM3NoemU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T05:32:20+08:00"
     },
     {
       "title": "New telescope could rewrite what we know about the universe - WRAL",
@@ -167,10 +167,10 @@
       "time": "2026-08-28T04:39:16+08:00"
     },
     {
-      "title": "Lindsay Clancy trial in hands of jury after closing arguments conclude - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83RC1ZUnBkVjlpTWFRUE9BMzhwSnJnQUlLRWQxbGE4Y0pNbmRJaDJKLU8zclo5clN2cVhwWkRua3V4ZVdseGNnVjR4czJyQ1RqY3laYm5Wc2I3QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T04:39:16+08:00"
+      "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
+      "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T04:03:34+08:00"
     }
   ]
 }
