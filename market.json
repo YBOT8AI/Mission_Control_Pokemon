@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T16:01:27.256413+08:00",
+  "generatedAt": "2026-08-28T16:32:31.775209+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624557.92,
-      "changePct": 0.78
+      "priceHkd": 625569.28,
+      "changePct": -0.05
     },
     "ETH": {
-      "priceHkd": 19565.35,
-      "changePct": -0.07
+      "priceHkd": 19583.85,
+      "changePct": -1.67
     },
     "SOL": {
-      "priceHkd": 833.78,
-      "changePct": 4.5
+      "priceHkd": 835.35,
+      "changePct": 1.93
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1163.16,
-      "priceUsdOz": 4614.6
+      "priceHkdPerGram": 1162.31,
+      "priceUsdOz": 4611.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.86,
-      "priceUsdOz": 70.85
+      "priceHkdPerGram": 17.83,
+      "priceUsdOz": 70.73
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 650.09,
-      "changePct": -0.73
+      "priceHkd": 649.47,
+      "changePct": -0.83
     },
     "Natural Gas": {
-      "priceHkd": 22.72,
-      "changePct": -0.31
+      "priceHkd": 22.69,
+      "changePct": -0.45
     }
   },
   "news": [
+    {
+      "title": "Trump signs order to rename Lake Ontario as Lake America",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T16:26:09+08:00"
+    },
+    {
+      "title": "'High risk' of lake breaching and causing second flood, warns China",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T16:10:21+08:00"
+    },
     {
       "title": "Norway's King Harald dies aged 89",
       "link": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
@@ -107,12 +119,6 @@
       "time": "2026-08-28T13:53:05+08:00"
     },
     {
-      "title": "'High risk' of lake breaching and causing second flood, warns China",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T13:50:59+08:00"
-    },
-    {
       "title": "What do you spend too much on?",
       "link": "https://www.bbc.co.uk/news/videos/cx2znnn4574o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -165,12 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T11:23:21+08:00"
-    },
-    {
-      "title": "Jury deliberations begin in Lindsay Clancy murder trial after her attorney blames medical system - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblNRU040QnBmWTYxdG1MdV9RdHFSeE92cEljbGJlWTdfX253U2FkcXAxQ1AtYjlDMHZnWDR3RGV0U01fLTRDSk9wbF9GYXVZcnJpM1pyTWF5M0w3VVdmdk5QbTV6UEJtV0dNdFNGWi1sQTA1Y19td2tjMVhSSjRlOWxfeVotY3VOMFFKblFRa0RqVGM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T11:20:00+08:00"
     }
   ]
 }
