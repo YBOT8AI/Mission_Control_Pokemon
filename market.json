@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T13:57:06.655742+08:00",
+  "generatedAt": "2026-08-28T14:28:11.985327+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625624.16,
-      "changePct": 1.28
+      "priceHkd": 625976.96,
+      "changePct": 1.51
     },
     "ETH": {
-      "priceHkd": 19568.09,
-      "changePct": 0.12
+      "priceHkd": 19616.86,
+      "changePct": 0.68
     },
     "SOL": {
-      "priceHkd": 840.76,
-      "changePct": 5.48
+      "priceHkd": 841.39,
+      "changePct": 6.23
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1153.81,
-      "priceUsdOz": 4577.5
+      "priceHkdPerGram": 1155.73,
+      "priceUsdOz": 4585.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.38,
-      "priceUsdOz": 68.96
+      "priceHkdPerGram": 17.47,
+      "priceUsdOz": 69.29
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.29,
-      "changePct": -0.4
+      "priceHkd": 650.88,
+      "changePct": -0.61
     },
     "Natural Gas": {
-      "priceHkd": 22.86,
-      "changePct": 0.31
+      "priceHkd": 22.95,
+      "changePct": 0.69
     }
   },
   "news": [
+    {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T14:14:56+08:00"
+    },
+    {
+      "title": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXF1NHQ0LWhMdzBlazhSMUtBNFVrd1ExVGZwVFpoLUxSMnpaaXpYTGpaOEhXNEVxZjRXM2ZNVm5TNm9LdmZRaFlMbWphMW1pcnJrWHRPbGRmaHpmUVNLQXFVWVJVZ0xDMkZITnZFc1BhdTlQU3oxclc2UXdIbVV5RUVCUTZUZzNHWFl6R2JfaDVOWmJW?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T13:53:58+08:00"
+    },
     {
       "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
       "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
@@ -59,10 +71,10 @@
       "time": "2026-08-28T13:53:05+08:00"
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "title": "'High risk' of lake breaching and causing second flood, warns China",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-28T13:48:08+08:00"
+      "time": "2026-08-28T13:50:59+08:00"
     },
     {
       "title": "What do you spend too much on?",
@@ -71,10 +83,10 @@
       "time": "2026-08-28T13:23:47+08:00"
     },
     {
-      "title": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXF1NHQ0LWhMdzBlazhSMUtBNFVrd1ExVGZwVFpoLUxSMnpaaXpYTGpaOEhXNEVxZjRXM2ZNVm5TNm9LdmZRaFlMbWphMW1pcnJrWHRPbGRmaHpmUVNLQXFVWVJVZ0xDMkZITnZFc1BhdTlQU3oxclc2UXdIbVV5RUVCUTZUZzNHWFl6R2JfaDVOWmJW?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T13:13:07+08:00"
+      "title": "I used to live in a quiet area - now a data centre overlooks my garden",
+      "link": "https://www.bbc.co.uk/news/articles/c39e7lpyekno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T13:11:23+08:00"
     },
     {
       "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
@@ -101,22 +113,28 @@
       "time": "2026-08-28T12:19:32+08:00"
     },
     {
-      "title": "‘Behind every case, a person’: the man leading DRC’s Ebola fight on the human cost hidden behind the numbers - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGNEZDNqRXFjUVJSUWJwNGRqbWt5SGJzQnhRdm9ESWEzWXJGNzNNVVZ5TmV6eHpRTnNaY0NveDJFN1dwcEI0ekN2X1dNYmRET2dtQkxUc1pHNndaTlJBcU1KYmFXSFRkVEFUcXVtY1FXQ05pemI5VWl4Ti00UmFvVGVnbXZZTTI3RXJFRlo4T3J6UEJjTnk5Y3BtNUp3S1BwbHZFa215NlZLUFVDN1BHRA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T12:00:00+08:00"
-    },
-    {
       "title": "Trump administration illegally retaliated against Anthropic, judge rules",
       "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T11:41:59+08:00"
     },
     {
+      "title": "Who's rising and who's falling after the Steelers' final preseason game against the Bills? - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnBKVVRiMG9SRTRKWUVnbWhhaVhLVExYNlpTbkpkTFhDODZINU44Y2FJV0paalUycVYza2pJbVJEaW1KTjJ0S1FZbGM3T283enNScjZ0c0tmdmVSZlhHbFZTb25mRWNiWEkzTHo3S2l5SWF6amJPeGpUc3hUVS1yOGMxWkMzUjk2WUFsUkRaQ3lrRFQta09POWhuNUxqbk1TQ01LaUxMUl9yR2JBb3pmN3BPSkloT2Fhb2pWQzdnT2dqMVpHTVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T11:39:34+08:00"
+    },
+    {
       "title": "Jake Reiner says he hasn’t spoken to his brother as he opens up about grief after parents’ deaths - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0h6U19Nd2xUZW1nNGNzZzg5RXN6ano5WEtIOWlzbFpJRFB3SEt2YVMtbUtUWF9kMlozXzdxTmVHWjhmc2taYVR4SGs3VldDeHhGN2ktWWZXYXI2NHZQWjBmTHl2M1pGSnFqYnRQeV9pcDBsbHpmRlBZbnRvdUZiNm9IY0RuTTM1VnozLXJUVXZuMVh3MFZUWEx1V3dLN0NCSTVUVjAwbDFzWWNoUU54NGt3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T11:34:00+08:00"
+    },
+    {
+      "title": "Dillon Gabriel's Box Score Stats & Highlights in Browns vs. Patriots After Shedeur-Watson QB Battle - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdkVCUzJaNnpqRmpVQzlrVWRuUHNuQy1ZQlhObXM0VksxUFNOaEJIemJqQzJadS1iYmJLLW1Bc1ppeUdnWUpoSm03VmJCSFVENzFYTGNnNjYzbWNDWFcybk9OczlINVp1bEdNemtJenQ4NUtQb1VSOE9tZENkUDVCMlVuU1dTUzVwenFoWEpqMXI2SkdrUERpQVJtY3hyZkdkWkFRenFiV3NRZ0hyMFNhNGtySWlnbG1JdUxsMXh5RGJDTXpucGdRSHR5YXpQckVMR1ZZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T11:32:09+08:00"
     },
     {
       "title": "White House construction was a factor in Marine One safety incident, NTSB finds - The Washington Post",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVFySGxudlU2NWltZElFU2FYTVJ0akI0Y2xMR3FhTU1aNjVtbEFsdlBqSUU4TlY0V0xJcmlZcFJYeTMtT1ZTalQ5Z3dzRFlGRG96YTRBeDJralpDUFMxd1VVV21zaE5FdGtWNDNQcDFCSHc2RGpsZl9WLWE3NVIyRA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T10:12:00+08:00"
-    },
-    {
-      "title": "Grand jury: DeSantis admin ‘misappropriated’ tax dollars in Hope Florida scandal - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM2I5WEVuV05EaHZwVjFQQmVKQWNKcDU4ZVZYZ2NyTXhieDZ5MmVIcTNaZ0x4UmpFZDFocDFuWE1QMXhSdG9fMWpWNTJsRndLdHlPM1lRUzJUdGhIR3VLU3V4YVIwUzN6VkxpbHlFTnIxd1lxck5RSU9NV05KZk55S2Y3UEs5T1ltLWRRWDVWQ0hudEZU0gGaAUFVX3lxTE0wQmYxMVZmN0oyNEJMUy02Wnd6Mi1hVHhVTUtlMmsyckZfUUFaVXc4T2Rub0wxUlBBNHJXWFZ5NHJ2aE9MU29McnVwR2NERXNLWVVfMHFkVTBPTDg1VXBFM3k0VC1ZMk9hWUxMcjNZdVR6bWRTdUJXUEdEa2dMVlhLbkZialJKMVhVcVIydTVHTmZWWVRvblktUlE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T10:11:00+08:00"
-    },
-    {
-      "title": "Judge questions why Kennedy Center is moving so quickly to return Trump's name to building - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0U3NkF1YktKZF95cjlfZjBPSjVvbDA3LVlNbGRNSWVMeEhUeERKdi1PM1FnenVjWjFRa3VyOVUwYmFUZWlOT0ZnR3JuUGh6SGtwVXdNcUlQWXZXMmZoa25UM21nZVdmNzQ4YlhiTnpTMlZhVlVZcXc2YWw4UUxRbDA2RE1nZ0F6VGtHY3lCek5tekstazNmMXgzRTltc256UFRMd3RmV2VHZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T10:06:00+08:00"
-    },
-    {
-      "title": "Secret Service spokesman is put on leave amid investigation - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T09:57:42+08:00"
     }
   ]
 }
