@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T09:47:43.737181+08:00",
+  "generatedAt": "2026-08-28T10:18:43.743105+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 633950.24,
-      "changePct": 2.68
+      "priceHkd": 628650.4,
+      "changePct": 1.72
     },
     "ETH": {
-      "priceHkd": 19753.82,
-      "changePct": 1.01
+      "priceHkd": 19612.0,
+      "changePct": 0.01
     },
     "SOL": {
-      "priceHkd": 850.25,
-      "changePct": 7.0
+      "priceHkd": 841.94,
+      "changePct": 5.73
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1155.12,
-      "priceUsdOz": 4582.7
+      "priceHkdPerGram": 1154.64,
+      "priceUsdOz": 4580.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.35,
-      "priceUsdOz": 68.84
+      "priceHkdPerGram": 17.37,
+      "priceUsdOz": 68.91
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 651.27,
-      "changePct": 1.02
+      "priceHkd": 652.44,
+      "changePct": 1.2
     },
     "Natural Gas": {
-      "priceHkd": 22.8,
-      "changePct": 2.32
+      "priceHkd": 22.82,
+      "changePct": 2.43
     }
   },
   "news": [
+    {
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T09:51:00+08:00"
+    },
     {
       "title": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97 in Tokyo - AP News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGgyNnA1LXgyRjFpQUxqV1dOZzd4TkcyemtJT0lkeDU3djJab05kT2F5eTBYU1JGelpTbkp5TDFMVFdoOWtxLW0zNXNDUjhCZUJYQVBRTExjYXJDUklUazVWeWFTY19WbEt1YnJBQmhPNW1xWW9OeEg1WGNEU2hhQ1cxc1VuVXRiMDFpRFc3Mk5BUQ?oc=5",
@@ -63,12 +69,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUERKNVdUQ0FuTzY1UFJrY3ItTmxtZ29tR0pxUGMzNjBjMUNhZVB4X293dE0zM3hlSXlxbjZZOUJmV0dnODdwUUtvc296Z3VQNVhTMnU0TEJGWTJxSWtGRFFOLWRJZlhxRVdnZmxJa1pyekVKaEpqUWhqQUp2UjdCc2ZKRQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T08:28:00+08:00"
-    },
-    {
-      "title": "NC teen critically ill with amoeba found in warm, fresh water - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoWXg4bko3TnRFdnBQOFZTamtweGhFOU8xOGV5SDFnT2RKODFzZVNyaHplYnRhbE9Id1lKa3J2U1FKaWNfNFNkTlR5TEJjZ1ZtQkc2UFI4ZHJXQ0Y5dExnM0hfVUJCZTNFYUt3cEFsdDlBeTJMY0lDaThpZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T08:18:36+08:00"
     },
     {
       "title": "Trump signs order renaming Lake Ontario as Lake America, escalating Canada feud - The Washington Post",
@@ -83,16 +83,22 @@
       "time": "2026-08-28T08:01:00+08:00"
     },
     {
-      "title": "US judge questions the push to add Trump’s name back to the Kennedy Center - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdnExTm80X3lQa3lxSGgycE4yb1pfZS1BQVp1a1RSRTdJTVNhTnlLNUpWbVpyRXZDZDg5ajM2VlRyU25kMW9FQnNNVVpqY3FxNXhid2JhalF3V2xyN0NYbGQ4eTNqN1JTNkc4QzlmZnlLV05oLTJxdVN2ZFVhTG1EOGxlN19ZQnc0UWNJMHpuYmNHY0J6X01sVENJYTF0VUlzRWZWTjcxYkJIeHozOVkxd2FsTETSAboBQVVfeXFMT3FqYjhUQWlUOWxmUVhDZmJ4UHF4UDVTMWhHdTEzb05acmttcHNRR0U0a0VwZWx1RlRTd19CR1pOcEdFdFV0V1VDZGpVel96NjZaVGxER19wWVNWN001eXhhZFVnYXp3dXZEMk5qakhZZlNfTmdfOEItS0RhWElvTXZEYmc4RGJBUEY2RFJTZ1p4cTVpRURvMmF6X2xXb3BPZkl4c1ltT2hZenhNWmpKRXNRNjhWeHlUbm1R?oc=5",
+      "title": "White House Construction May Have Contributed to Close Call With Trump’s Helicopter - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUx2MnNzOTByU0tUaWpFLUZtTm56SW1mTnJVRFFQRy1qOWJpVVNYWDRJNUE4WEk5UzFMVW5ELVVtU1lyQnppZzRXN19tdzZVSTV1Q2RQVW1LLXBWNTNXeDNybXNGb3BJeTc4dFZsaVg1NU5DdFRad2dIRFViRG1sM3NoemU?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T07:33:41+08:00"
+      "time": "2026-08-28T07:30:10+08:00"
     },
     {
       "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T07:29:50+08:00"
+    },
+    {
+      "title": "Judge hits DOJ lawyers with barrage of questions about Kennedy Center renovation and Trump renaming - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY3M0Smg3N0liZWt3cVpkTFVNM1laRGxBcTU3T1F0SjFNMUUzUjVvX0VvVHFYYUN6Ylc1T0NwLXFYY1ctaXRnZkVFaHFSbFZTOGJVeHhJdExkQ2FGYWxILW94T202YXQtQUlBU2doSXdnN0ZGMG5rX08tb2Q2TnQ0dzgxSUZGWmVMNWE0SjJRTDFudW9xRzBWS0tkVkRrZlFtQl94c2wyaUZRam92XzFzRHNYbHJYRHkwUUFDNUdRbTltT3M2S3dHNURWaFhiQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T07:21:53+08:00"
     },
     {
       "title": "Overcooked? Why robotic pizza makers are failing",
@@ -125,10 +131,28 @@
       "time": "2026-08-28T07:04:21+08:00"
     },
     {
+      "title": "How melting glaciers contributed to the flooding disaster in the Himalayas - PBS",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS19RaEVyaW01U000d0IxUm1NcHo1M0Y2aXE0UzRHSWRDd3I5V0pyZnN2U1duMjg4b1hiTFgtLVpzYlRLejJaanIxTTZ3NkM0QjZJWmpKdm5nSWRySTdWYUhyZThFZklJZXpPTE91Nld3ZzhjNkpmVGEtWWRFcG1ZbFZqVHB2eXE0LVRmd0NCSFVJUE5DQlZuajJsR193VlFxSWZqdnM0WEluVGVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T06:55:16+08:00"
+    },
+    {
       "title": "What we know about deadly Nepal-Tibet floods",
       "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T06:54:28+08:00"
+    },
+    {
+      "title": "Golf Channel Cancels ‘Big Break x Good Good’ After PGA Tour Parts Ways With YouTube Stars - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORU9tZmwySjBrZWdfOU44SlRFbWhvOTdwTWtqWHMtaG9GdEV5aUVjcWtnV3BHZlNTVC10SFo4SFBOcTQ3OWNSNXNnWFd1RE55Wk5INjl5N1V0eEhUa3ViUlhuZEtMVGVma1d3SE9xaXRLT1JEOHZxTjVxRmp2YVlVZlAwZElFQnZNVldBazNlOUlnajN3RXBTcUMyb0hZNmVZaHp3WERTWTlFZXoxZ2hFUjduWFV5ZndPS1E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T06:50:24+08:00"
+    },
+    {
+      "title": "Predicting each Power 4 conference champion ahead of the 2026 college football season - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVhXX1FrVFdFTXJQb1BCZGZrT3JkenVIc2REZWZLMTVaTF9zRWdETGQxMGc0R3BXemRLNFVaSlFjVjZQNDNFcWtxMGktekI0SmIxNVY2WGM1NHdmejBOb1BqSzVDbmVWa3Rzd0FhdWxYVy1Hb29rTW1PQ0haUktrYURrS2VlNlpoTmpMQjdwQV9PcUJQcnBwZkY0eEV1ODNLeWlDUmpwUjFpUVVvczVmTXk4S21zUDBW?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T06:47:05+08:00"
     },
     {
       "title": "Dillon Danis out; Mike Perry gets replacement opponent on 48 hours’ notice - MMA Fighting",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUtJZW5GVXFzaTFDLVIzcEtUTXN1WnhkTnpFTEhYSkxCV0h3eGRtVGk5TFR1T2dHcDhGRGZHMWpRd1lQUmgzblBIRmIxczdOQmNOckZkOTk5U1VMQXdrcnE0RlhvaU05V2dTcm5vZmdnWmJUYy04NnEzd1R3SGZLMHVNY25jdENCWU9BbzJJMkRCb2FhNi1UX3k1RmpqZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T06:21:00+08:00"
-    },
-    {
-      "title": "White House construction contributed to radio problems that let Trump copter come close to jet - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T06:08:00+08:00"
-    },
-    {
-      "title": "Stock Market on Aug. 27, 2026: S&P 500 and Nasdaq close higher in tech-fueled rally as Nvidia's stock jumps after its earnings beat expectations; Dow rises as Salesforce shares surge and Jackson Hole symposium gets started; Marvell Technology results on - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdERDOUhSYWhxSU5maUkwVmkzN2JDbW5oN2w3UndGdUJtbGFTQ2k1MmF6NG1jZUNsZ0hTWm1DcUNJbnE0aWhmRVJtamNqZGkzaFVQODlleko0NkpYb01vSjJ6b21pR3ZFYlJnOHdadjF0ZnRGVDN4aGxGYjV2WU11bEc5UnZHSDh3bFo0RnhRcFF4WTdCeGVpdmRmRFViSU5VYXh0OUp2VDd4dE9nbHZTaWFobzVqT3d2YTA2czEzWkI4Wk5uMGtCbjlRUGswZ01vWlBNcjd6Y1Q?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T06:02:00+08:00"
-    },
-    {
-      "title": "Investors, Fed watchers want one thing from Kevin Warsh in his Jackson Hole debut: Clarity - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSlpXTFI3am13VWlxaVQ0WjJmVWVicG5TVUFUSVk2Qm1tencxcERNTmJEVG05bGtMN2FXTVVDTDFnYUNYYkpPbGRMUzQzU0pzc29JN21tVG9lNjl1QUFRSEp6ODZoV2lDcmJqQWVVR2ktTVZ6MmMzSXdZRnJGRXVqVXJkeXdjWHpSWGczd21BU2VTVWpVZi1tMlExTHNLdHh0djBBVHE1S281UWhLcFFLN3Z4SWx3c0FxZTI4Tm9CVzVTdmpBRHNGaG8ta3NDYTRJNmtRQ21CZ09GQlBwSmxURGV2VGVNSGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T05:57:04+08:00"
-    },
-    {
-      "title": "Exclusive | Nvidia Pauses Revenue-Sharing Deals With AI Cloud Companies - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYlMycHNtbklRdFFPaXNoeHlmVzF1dHJYU042Z0xMRFdXdE45V1ZFek1wOGdVUjg2WHVxc3NBdjdXQnJibnlLUTVLb0Zya1A4czhaQkMxNTlFbVBBZ0RtTTduY0VydW51RF94dTRyaXExZ25ReUU0OG9BX3lUWUZqVHlLQjNjUm1RdWlKclJScXlHWlUxRlBtNw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T05:46:00+08:00"
     }
   ]
 }

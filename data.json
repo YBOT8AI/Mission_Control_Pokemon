@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T09:47:43.658838+08:00",
+  "generatedAt": "2026-08-28T10:18:43.664609+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -272,8 +272,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T09:45:57.461665+08:00",
-        "next_run": "2026-08-28T10:15:57.461665+08:00"
+        "last_run": "2026-08-28T10:16:57.489028+08:00",
+        "next_run": "2026-08-28T10:46:57.489028+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,8 +290,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T09:16:46.978347+08:00",
-        "next_run": "2026-08-28T10:16:50.544706+08:00"
+        "last_run": "2026-08-28T09:47:49.750665+08:00",
+        "next_run": "2026-08-28T10:47:52.702949+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -317,8 +317,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T09:36:50.828197+08:00",
-        "next_run": "2026-08-28T10:06:50.828197+08:00"
+        "last_run": "2026-08-28T10:06:52.802891+08:00",
+        "next_run": "2026-08-28T10:36:52.802891+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -326,8 +326,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-28T09:46:50.818400+08:00",
-        "next_run": "2026-08-28T09:56:50.818400+08:00"
+        "last_run": "2026-08-28T10:16:52.821859+08:00",
+        "next_run": "2026-08-28T10:26:52.821859+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -371,8 +371,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-28T09:36:50.804962+08:00",
-        "next_run": "2026-08-28T09:51:50.804962+08:00"
+        "last_run": "2026-08-28T10:07:52.534067+08:00",
+        "next_run": "2026-08-28T10:22:52.534067+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -559,47 +559,47 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "412Gi",
-    "uptime": "4:43",
+    "uptime": "5:14",
     "cpu": {
       "loadAvg": [
-        1.37,
-        1.41,
-        1.38
+        1.22,
+        1.17,
+        1.17
       ],
-      "usage": "12.6%"
+      "usage": "12.2%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 38.4
+      "usedPct": 38.3
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.4",
+        "cpu": "4.0",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.0",
+        "cpu": "1.9",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.5",
+        "cpu": "0.4",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
         "cpu": "0.3",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       },
       {
         "cpu": "0.3",
         "mem": "0.1",
-        "name": "launchd"
+        "name": "opendirectoryd"
       }
     ]
   },
@@ -743,6 +743,14 @@
     }
   ],
   "githubActivity": [
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-28T01:07:05Z",
+      "title": "docs: record store catalog seed resolution in execution plan",
+      "detail": "1 commit(s)"
+    },
     {
       "repo": "evilmoni/TechWealth",
       "type": "PushEvent",
@@ -909,14 +917,6 @@
       "actor": "evilmoni",
       "time": "2026-08-21T13:46:01Z",
       "title": "security: stop shipping the admin API token to every visitor",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-21T02:22:05Z",
-      "title": "feat: give each page its own identity in search, and add rob",
       "detail": "1 commit(s)"
     },
     {
@@ -1275,16 +1275,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-28T09:47:43.432407+08:00",
+    "generatedAt": "2026-08-28T10:18:43.446677+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 30.0,
+          "temp": 30.6,
           "code": 3,
           "precip": 0.0,
-          "wind": 12.1,
-          "time": "2026-08-28T09:45"
+          "wind": 13.7,
+          "time": "2026-08-28T10:15"
         },
         "daily": [
           {
@@ -1313,11 +1313,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 29.5,
+          "temp": 30.1,
           "code": 3,
           "precip": 0.0,
-          "wind": 9.5,
-          "time": "2026-08-28T09:45"
+          "wind": 10.4,
+          "time": "2026-08-28T10:15"
         },
         "daily": [
           {
@@ -1353,12 +1353,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-28T09:47:43.658682+08:00",
+      "time": "2026-08-28T10:18:43.664457+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-28T09:47:43.658682+08:00",
+      "time": "2026-08-28T10:18:43.664457+08:00",
       "type": "info",
       "text": "⏰ Cron: 27/31 jobs healthy"
     },
