@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T10:49:45.591747+08:00",
+  "generatedAt": "2026-08-28T11:20:48.524173+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 626274.88,
-      "changePct": 1.47
+      "priceHkd": 626878.56,
+      "changePct": 1.56
     },
     "ETH": {
-      "priceHkd": 19534.61,
-      "changePct": -0.12
+      "priceHkd": 19537.36,
+      "changePct": -0.07
     },
     "SOL": {
       "priceHkd": 835.9,
-      "changePct": 5.33
+      "changePct": 5.26
     }
   },
   "stocks": {
@@ -33,36 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1155.6,
-      "priceUsdOz": 4584.6
+      "priceHkdPerGram": 1156.56,
+      "priceUsdOz": 4588.4
     },
     "Silver": {
-      "priceHkdPerGram": 17.39,
-      "priceUsdOz": 69.01
+      "priceHkdPerGram": 17.43,
+      "priceUsdOz": 69.15
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.84,
-      "changePct": 1.26
+      "priceHkd": 652.29,
+      "changePct": 1.18
     },
     "Natural Gas": {
-      "priceHkd": 22.82,
-      "changePct": 2.43
+      "priceHkd": 22.85,
+      "changePct": 2.57
     }
   },
   "news": [
     {
-      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVhPSzYwTnE2cG5lMWR6SlBYc3RJdTFSaC0tNGc2Z3pXdHNGcTg3b0pVa1NDWklER3UzelN3NllaZ0s4a3JfN1NxQ29CbmxYXzR0eEEyZ05FNjdnc0JHNnE3WHNITHpKQVI1RW9MaGszaUx6VnByYTlPOTNKQnpCNlUyREJac0FSdm9RY21kczZ5WnBKeFE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T10:04:58+08:00"
+      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T11:15:45+08:00"
     },
     {
-      "title": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXF1NHQ0LWhMdzBlazhSMUtBNFVrd1ExVGZwVFpoLUxSMnpaaXpYTGpaOEhXNEVxZjRXM2ZNVm5TNm9LdmZRaFlMbWphMW1pcnJrWHRPbGRmaHpmUVNLQXFVWVJVZ0xDMkZITnZFc1BhdTlQU3oxclc2UXdIbVV5RUVCUTZUZzNHWFl6R2JfaDVOWmJW?oc=5",
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T11:15:35+08:00"
+    },
+    {
+      "title": "Federal judge again halts Trump’s executive order limiting mail voting in midterms - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0pySjlUWnNXcFpjdFNJUHFEQlJNenpuNTd6d2h1aUpvdmhibVNCMTZra0xpUzgwQW1Ya3dDcnM5XzlzRDZrbmV6Y3dqOGdrYnM2Z3VoeVlaay1lLUxIRGNVLW9yMXNxZFpLcGZXYnFpQWpLeEJ2aVZiTWJzMGxYdlVVdkdWbnBnTWxHNjdnSkJNbV81NlBxRkcwNVFXZTRRZjJNYTZweFl3UTNsTkQw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T10:00:00+08:00"
+      "time": "2026-08-28T10:31:00+08:00"
     },
     {
       "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
@@ -71,34 +77,34 @@
       "time": "2026-08-28T09:57:42+08:00"
     },
     {
+      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T09:51:00+08:00"
+    },
+    {
+      "title": "Trump signs order renaming Lake Ontario as Lake America, escalating Canada feud - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGh0d25Cc1V3c1gzaF9DNnhId3R4RnZNNExuSGZyMDBuNURaZldUd1FzaWJBVnN0LWpRWVVHU2lHWHFyWW5iZXpFWVMxV1V4a0N3bmhFWXluNW1TUkZvYTMyQWxyUEllWEZzbl9VWmVwVFAwOHAzSzhER1lWRjNYSDJaMU56SG1jaHc4X1JfVnpZckl6TkgtblVlMDQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T09:27:17+08:00"
+    },
+    {
+      "title": "'The Whisper Man' Review: Robert De Niro in Netflix Thriller - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEFRa1l1N0VleXRrUFg2VXJaTTJqY09LbWU0MFFXT0VpN21UOEVpbF9yZ2JKOXI2NzZhQjdQQXNYQ3BnT2syNU1IcVhENkxUQ3JVLXp1OGNhU1pmOUZuNWlNWDVVdU4yaC0wenBvWEZCQ0t2MHVvV2F4dVk2TjIyWjhmcGZrQlZ0TkFNZGI3OUt4ZDBVRWQxRm11Z3R1aUpZS3N2cHA0UkFsNW9EOERsZ1lEOS1Pa3BsQ3NVRldSRlI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T09:00:45+08:00"
+    },
+    {
       "title": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97 in Tokyo - AP News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObGgyNnA1LXgyRjFpQUxqV1dOZzd4TkcyemtJT0lkeDU3djJab05kT2F5eTBYU1JGelpTbkp5TDFMVFdoOWtxLW0zNXNDUjhCZUJYQVBRTExjYXJDUklUazVWeWFTY19WbEt1YnJBQmhPNW1xWW9OeEg1WGNEU2hhQ1cxc1VuVXRiMDFpRFc3Mk5BUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T08:38:00+08:00"
     },
     {
-      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, dies as a prisoner at 84 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUERKNVdUQ0FuTzY1UFJrY3ItTmxtZ29tR0pxUGMzNjBjMUNhZVB4X293dE0zM3hlSXlxbjZZOUJmV0dnODdwUUtvc296Z3VQNVhTMnU0TEJGWTJxSWtGRFFOLWRJZlhxRVdnZmxJa1pyekVKaEpqUWhqQUp2UjdCc2ZKRQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T08:28:00+08:00"
-    },
-    {
-      "title": "Trump signs order renaming Lake Ontario as Lake America, escalating Canada feud - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGh0d25Cc1V3c1gzaF9DNnhId3R4RnZNNExuSGZyMDBuNURaZldUd1FzaWJBVnN0LWpRWVVHU2lHWHFyWW5iZXpFWVMxV1V4a0N3bmhFWXluNW1TUkZvYTMyQWxyUEllWEZzbl9VWmVwVFAwOHAzSzhER1lWRjNYSDJaMU56SG1jaHc4X1JfVnpZckl6TkgtblVlMDQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T08:04:14+08:00"
-    },
-    {
       "title": "Senator calls for criminal investigation of RFK Jr after Guardian report - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLUt6M2prVzRRNVFxQ21VWjBmVWhyMnNuRzRYS1h3SHJmQVZlaWp2aVR1UVVJa3hIMXFLT2V0c3hKRmU2NU0tQ0xwRjFqb1hneTVMNFBQYThORGlVMlhITnRrSGR5Rk5sVXZZenlCUTlLeXV4UzFzOEE1Z0laLXVrNVpOdk9idnlxY2NNR1Z4b3NTcFU?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T08:01:00+08:00"
-    },
-    {
-      "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1k5TUNkRDlBZFhGR0pKa0YxV1RmcEpvZmJYWHZndGdEU25ON08yZFotdVdFQzI1ZGV0YVd3cFBSMHFxT2F6Y0RBQktTZy1nM1dSVS1HZmFxTUhWZWtjQUpRb0lTT0NaczlFVXU3MmktLUVDbVEzLW1TVnRwZFFlZ3FFRlRtZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T07:49:25+08:00"
     },
     {
       "title": "Judge hits DOJ lawyers with barrage of questions about Kennedy Center renovation and Trump renaming - NBC News",
@@ -143,16 +149,16 @@
       "time": "2026-08-28T06:57:16+08:00"
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T06:54:28+08:00"
-    },
-    {
       "title": "Golf Channel Cancels ‘Big Break x Good Good’ After PGA Tour Parts Ways With YouTube Stars - The Hollywood Reporter",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORU9tZmwySjBrZWdfOU44SlRFbWhvOTdwTWtqWHMtaG9GdEV5aUVjcWtnV3BHZlNTVC10SFo4SFBOcTQ3OWNSNXNnWFd1RE55Wk5INjl5N1V0eEhUa3ViUlhuZEtMVGVma1d3SE9xaXRLT1JEOHZxTjVxRmp2YVlVZlAwZElFQnZNVldBazNlOUlnajN3RXBTcUMyb0hZNmVZaHp3WERTWTlFZXoxZ2hFUjduWFV5ZndPS1E?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T06:50:24+08:00"
+    },
+    {
+      "title": "Dolly Parton offered to try experimental drugs to help others if there was \"no hope\" in her cancer battle, sister says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmdULW5UeVc3NmliT21MR01uVkUyNHlaRFVhMzF1U29TdXhET3B6Y25tLVkxVEdWOXRHWWU2TVBiSUJ3Nl9jQmlQZWUzSGRUMUxtMTlweTdncDVOMGhVSGdyWWF0RXFQMF9iOVZyT29DTHQ3NFVUT25qWjNYZTFlUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T06:43:00+08:00"
     },
     {
       "title": "White House construction contributed to radio problems that let Trump copter come close to jet - AP News",
@@ -161,16 +167,10 @@
       "time": "2026-08-28T06:31:00+08:00"
     },
     {
-      "title": "Shapiro won’t say who died of measles. RFK Jr. is exploiting it. - Politico",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUtJZW5GVXFzaTFDLVIzcEtUTXN1WnhkTnpFTEhYSkxCV0h3eGRtVGk5TFR1T2dHcDhGRGZHMWpRd1lQUmgzblBIRmIxczdOQmNOckZkOTk5U1VMQXdrcnE0RlhvaU05V2dTcm5vZmdnWmJUYy04NnEzd1R3SGZLMHVNY25jdENCWU9BbzJJMkRCb2FhNi1UX3k1RmpqZw?oc=5",
+      "title": "‘It’s death by scurvy’: Tristan and Andrew Tate seek bail as they fight extradition to United Kingdom - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjc4V3FpMjNaZ195aTRPNnpTSDRWZ2lpWndWMGlNVjVrM3lWTGpuWnRQcnZvRml6dC1fbk1fdTA3ZG5sQWZGRjZvVzZEai10aUtlNWxKWGFhcGdxQXdyaUl6SllsMENhcGx4NXgtN1l4LWt4Q2haQ2o4OHBidXVOY016ckEyVmc5ZHJnS2Vjek9mZGVmOTMwTjR1MEtpeU0?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T06:21:00+08:00"
-    },
-    {
-      "title": "'Cowboy builders' targeted in new government clampdown",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T05:44:02+08:00"
+      "time": "2026-08-28T06:30:47+08:00"
     }
   ]
 }
