@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-08-29T02:57:40.616608+08:00",
+  "generatedAt": "2026-08-29T03:29:54.905957+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607129.6,
-      "changePct": -3.24
+      "priceHkd": 609505.12,
+      "changePct": -2.94
     },
     "ETH": {
-      "priceHkd": 19008.39,
-      "changePct": -3.07
+      "priceHkd": 19127.72,
+      "changePct": -2.81
     },
     "SOL": {
-      "priceHkd": 805.95,
-      "changePct": -4.69
+      "priceHkd": 810.42,
+      "changePct": -5.18
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5539.7,
-      "changePct": -0.3
+      "priceHkd": 5545.7,
+      "changePct": -0.2
     },
     "SPX": {
-      "priceHkd": 60400.69,
-      "changePct": -0.35
+      "priceHkd": 60466.78,
+      "changePct": -0.24
     },
     "SPCX": {
-      "priceHkd": 1100.58,
-      "changePct": -0.35
+      "priceHkd": 1105.2,
+      "changePct": 0.07
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1123.21,
-      "priceUsdOz": 4456.1
+      "priceHkdPerGram": 1125.0,
+      "priceUsdOz": 4463.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.75,
-      "priceUsdOz": 66.47
+      "priceHkdPerGram": 16.79,
+      "priceUsdOz": 66.62
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.05,
-      "changePct": -0.43
+      "priceHkd": 652.84,
+      "changePct": -0.31
     },
     "Natural Gas": {
       "priceHkd": 22.55,
@@ -53,10 +53,22 @@
   },
   "news": [
     {
+      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
+      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T03:20:47+08:00"
+    },
+    {
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T03:05:23+08:00"
+    },
+    {
       "title": "Nepal floods latest: Number of people missing jumps significantly to nearly 2,000 - follow live - BBC",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T02:42:54+08:00"
+      "time": "2026-08-29T03:02:59+08:00"
     },
     {
       "title": "US FDA approves Lilly's Mounjaro to reduce cardiovascular risk - Reuters",
@@ -77,16 +89,16 @@
       "time": "2026-08-29T02:27:00+08:00"
     },
     {
+      "title": "Milo Yiannopoulos in ICE custody, agency records show - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oeFRKbUNseFZZb21Vbmd3ZnRxNmljUWpDTXBBaEJYdjFIYjV5cE83Q0t2d2NiQTRPM2VWTTFaT2JPRV9JTEV1NmFPb3JCZ013ZDBmcFBRdmFvVVZXN1ZFZ1g0T2h5aVlBWm01bjVkbW16cjVLVHN1MDkwQmZUbEk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:24:00+08:00"
+    },
+    {
       "title": "Iceland’s EU referendum: What to know before the vote - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkNuSFNiNVBEemhyb1U1ejdmdkFISzFhdkhYckFDS0tRUDE3czNSVjRzYUpvMXNpeU01dWdyQ1V6SDEtNnVHUnd3T3JlZVVER3FKOXB6Qlk5TzFXd2QxbzhBMnZzaU1KaEpscmEyNGlhWWp0N2RfLUtfS2Vya0JqQUg2U2x2YjNQeDV0dTR2WjIzbnJIWlhTcmx6emhzT0Jlal9qcVBBTkRXcjZiWFNNNi1sWWVUbU1WZVRzMXlmTFNHblU?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:21:16+08:00"
-    },
-    {
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T02:13:28+08:00"
     },
     {
       "title": "'I do not know what happened to the others': Trump's third country deportations spark global debate - Politico",
@@ -99,6 +111,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:07:25+08:00"
+    },
+    {
+      "title": "Trump signs order to create space-focused military academy - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd19nalZhNG5Rd0c2SHN6ekg1Nkt1MEdkY0pWRGx4V2JJR0VtdTliTFRvTUEya0ptd2laNW1WLVlfMW9WdzY3aDFRNHp3RXlWSzZqUkMzelZxYmVoZFk4Q1RBeEJJTHl5LWRpLXhIcEJxdGhyQkZJc0h5ei1McDZlOVZ1TkE0YmowUkhIVERLbnNpMDRpVmxHclVvM2lrZm8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:00:56+08:00"
     },
     {
       "title": "Apple TV Hikes Prices as Streaming Inflation Continues - The Hollywood Reporter",
@@ -125,22 +143,16 @@
       "time": "2026-08-29T01:29:16+08:00"
     },
     {
-      "title": "Trump signs order to create space-focused military academy - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd19nalZhNG5Rd0c2SHN6ekg1Nkt1MEdkY0pWRGx4V2JJR0VtdTliTFRvTUEya0ptd2laNW1WLVlfMW9WdzY3aDFRNHp3RXlWSzZqUkMzelZxYmVoZFk4Q1RBeEJJTHl5LWRpLXhIcEJxdGhyQkZJc0h5ei1McDZlOVZ1TkE0YmowUkhIVERLbnNpMDRpVmxHclVvM2lrZm8?oc=5",
+      "title": "Agent Explains Why Jonathan Kuminga Chose Timberwolves - Hoops Rumors",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3gxbUtqd1pZcUJWX296Y1hmVXI0bW5ZaXI4LTItSUdybW4yQ0hZZVJDamk5TjZpZnpjb29jQ0NYRzh0akMzLW5PNERMcGFaUFF6X3JZdkktQTAzc25qS2dBM2Y4bjN0bWhHY21BYnhyNS1sSVJEMWlvWm1aRmxfcHREcFRBcWI3OXBVSzBqRWZjVGY1WW8w?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T01:17:28+08:00"
+      "time": "2026-08-29T01:04:00+08:00"
     },
     {
       "title": "Violence breaks out in Ceuta as migrant crisis continues",
       "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T00:30:59+08:00"
-    },
-    {
-      "title": "Panasonic Lumix L10 Review: A Stylish And Capable Compact Camera - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQ3lHMHNqY0RVbTRHdWk1RzE3MXFHSjhNYnQ3dkVqVFBoMEhiTElQZzI2bWpzWGZsQ0l2NFZ3MXZ1RUNZbXFqc3U3S0ljN3ZpWlFSUlI5ejJJXy0yM2R3aC1ycEZQcHZmSzUyYQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T00:30:00+08:00"
     },
     {
       "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything - The Verge",
@@ -155,22 +167,10 @@
       "time": "2026-08-29T00:15:11+08:00"
     },
     {
-      "title": "Social Media and the Myth of the Big Tobacco Moment - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPazdGWjNyblgxWk56WmVER2lWc1d1NUR4WFRIaGlyNHFfMnhLT2JjNkFnVlVlZGNUY3BRX3NpVWs3bmd2Z1lBQkNaTjFnMnVlRE9vQmxmZGlfQ05WT3ZHNEh3bWlXd3hCanhWTXFFUWM3WGdqUUlvMmZVT1k5SDM5M3F1X3p4ckE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T00:13:17+08:00"
-    },
-    {
       "title": "Trump promised a short Iran war. Six months later, he has few good options. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTdKOVAyMFQ3WXhRdm4wTkllTUtJSm9TTUpoS0VJR3pUT3ZFWU1WWDNFQXgxYzJxbDhOdTFFVWxNTVptSkFGci1ubkFNNnFMbHotQ2MyU1phUzRuS05uOEpkcFF2ektZN08wNWlaOGpkcl9DU1RHNldEOEktc3plR2dTR0d4ZjROb1ZER2Q1ZFdjNnktNUNHa2RCNXJBcFVaWjVCcC1Xc2FqWTVad29pVmt2OWxHNXd1eVE?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T00:00:00+08:00"
-    },
-    {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T23:58:02+08:00"
     }
   ]
 }
