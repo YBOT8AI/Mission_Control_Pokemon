@@ -1,62 +1,74 @@
 {
-  "generatedAt": "2026-08-28T21:46:37.873139+08:00",
+  "generatedAt": "2026-08-28T22:17:38.315216+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619893.12,
-      "changePct": -0.22
+      "priceHkd": 616271.04,
+      "changePct": -1.03
     },
     "ETH": {
-      "priceHkd": 19587.06,
-      "changePct": 0.34
+      "priceHkd": 19422.97,
+      "changePct": -0.55
     },
     "SOL": {
-      "priceHkd": 821.32,
-      "changePct": 0.06
+      "priceHkd": 814.73,
+      "changePct": -1.32
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5566.91,
-      "changePct": 0.19
+      "priceHkd": 5556.29,
+      "changePct": -0.01
     },
     "SPX": {
-      "priceHkd": 60705.59,
-      "changePct": 0.16
+      "priceHkd": 60582.19,
+      "changePct": -0.05
     },
     "SPCX": {
-      "priceHkd": 1109.79,
-      "changePct": 0.49
+      "priceHkd": 1119.67,
+      "changePct": 1.38
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1161.27,
-      "priceUsdOz": 4607.1
+      "priceHkdPerGram": 1148.34,
+      "priceUsdOz": 4555.8
     },
     "Silver": {
-      "priceHkdPerGram": 17.84,
-      "priceUsdOz": 70.79
+      "priceHkdPerGram": 17.39,
+      "priceUsdOz": 68.99
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 648.21,
-      "changePct": -1.02
+      "priceHkd": 646.25,
+      "changePct": -1.32
     },
     "Natural Gas": {
-      "priceHkd": 22.67,
-      "changePct": -0.55
+      "priceHkd": 22.68,
+      "changePct": -0.48
     }
   },
   "news": [
     {
+      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T21:50:34+08:00"
+    },
+    {
       "title": "Gatwick Airport facing water outage after main burst",
       "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-08-28T21:36:22+08:00"
+      "time": "2026-08-28T21:48:37+08:00"
+    },
+    {
+      "title": "Rob Reiner’s son Jake gives first interview after parents’ deaths: ‘I will never understand why this happened’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMlVnZXlkWEx0T09WUlJaRGNxQ0V4YjNnUWlzRW44U21EbUJDR3R6ckhZVkNzalhZczB2UXdZV0tJc1hYMkJ1Ukl4Q0VVeFRiQ3lVQUdwRkZhbmpkMlUwSXB2S0JCVUcyZjdZdHNyUTA4SEszSExVUlJmUEtMU0gxUnhBREJtSV9xY3dmN1NBbnBqZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T21:36:00+08:00"
     },
     {
       "title": "Measles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor - The Washington Post",
@@ -71,10 +83,28 @@
       "time": "2026-08-28T21:27:29+08:00"
     },
     {
+      "title": "S&P 500 futures are little changed as investors count down to Warsh's Jackson Hole address: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9rNFZvcEhsdFdNUWJGaHNfck9XLWRYbTZoeURzSjQ2MTdCbVVsaXBKei1IUEx3VmsyNjRPaFVYaU5udmtxUzB0QmlCbWVZcUk3QlF5OWhOdGdnb3ZzTGl0UjE3Q2p4ZlZaRk5vdGZ2R0I4SGEtT2VN0gF8QVVfeXFMTWxKRVZ3YVptQm9SMGdOMUxkQXAxY1J2NkQyTXBWTi1SNHlqRlVmTi11V2lVYTJ3UFVxU3NQTzZFTFNkb1RoNjktSy1CQmhjN2w3d3NkWk1CdG5vZkJjZGo1R1lNYjgxZ1VGUlFfSTJMY1ZJc0NIZ0NjR29JUg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T21:07:00+08:00"
+    },
+    {
       "title": "Trump’s Cabinet is fanning out to help juice the base. It’s not going as planned. - Politico",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEVyQkJGMFBjczdtQmFBbGtRVTZoM2Fpa1NpeHlZVjBjcmdkWm1ickdkNnFyeE1FMG5jTW1PQXo0M3NiZXpoS1FmQS1iSDJVSkZ1Y1k2YUpfWElCODU4bTVMel9jdzlSU3c4QmtBY1pCZFBzSFBqZmhKQ2hrbkNWOUhKeFUxNGlpQlQxbklDSTVhUjB1UzRTUzNsQXBuV0hMVllxNzZ4cHRHenAyRmhrLTNFYXpqclprZk41bHdVYTZGQVUxNFBYa3dLN3ludkNWVEE?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T21:04:00+08:00"
+    },
+    {
+      "title": "Apple TV Hikes Price of Streaming Service in U.S. Effective Immediately - Variety",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQzBkZmlNNy16R0dTR3A3TDF6RjdBVnNyVVV4Rkpaak50NkxXNWJVU00ySWtPUGpiOXgxcWM4QzV2OFhERkVic2JrcTNuN3NHQXhMa0xZM3V0WFU0UmFGcnVqY1VSXzU1bXdHTDRGenVfalVURlA5Q29KdGZYSklHR2dhVTlJZ2d3Vk9UODFvV3hUX1JodHIwc1VHRnpYS2tl?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T21:00:00+08:00"
+    },
+    {
+      "title": "Cyclospora lettuce outbreak now tied to 20 states - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T20:54:33+08:00"
     },
     {
       "title": "Trump promised a short Iran war. Six months later, he has few good options. - The Washington Post",
@@ -89,10 +119,10 @@
       "time": "2026-08-28T20:49:55+08:00"
     },
     {
-      "title": "Stock Market Today: Fed Chair Warsh to Speak at Jackson Hole; Dow Futures Steady — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcy1EbHZIa2FzZjNOekZJaDBkdWplblJYUXNsekdjcjU4NUhFNzdFbDhfQ2l5THZrbTdtV2JGUUlvNUJhNTdfenFEWlRCRkxHSnRab1VvdVFDNTRkWGdaNVc2TWJDM28tMTZRd0hjNjRtMmMwaGdRa21CSzZFWTJpeg?oc=5",
+      "title": "Ebola outbreak in eastern Congo spreads to 2 new health zones with a total of 60 areas now affected - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQek5rUENqWEJ3enhEUWZ3Y1BET1EzQjhUQl9udUx6T3FwNjBRa0VIbTdCdldXUXRGWllZYkRnWmpMdnd6bjh5RnZ5SlB1azN3eTMxVXZpODNHTXJxNXYyT0ZFOExYZHA4bktBNVExTGxGSDhvVFphYlo2LVVzLVY4VEtzcVJYd00?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T20:39:00+08:00"
+      "time": "2026-08-28T20:47:00+08:00"
     },
     {
       "title": "Lindsay Clancy murder trial jury begins deliberations in Massachusetts - CBS News",
@@ -105,6 +135,12 @@
       "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T20:15:46+08:00"
+    },
+    {
+      "title": "This officer’s wife advocated for police families dealing with suicide. Her death stunned them. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSm9yalRPS2ZoVG1LM0VhSWhKMDdqRzF0WVJGdUlHSDBxYXlUZ3c3bzlJQ3laMEN2NUMtTTF3dnQxX0ZvZWVITml6RUc3NXJwaUZ5N3BYVEFsdnVCNTlvczMzVHJVb1U4bGxxQnZvMFFNRWJsT09sc1hTMTB1eGJJRzl5aFpHWTRreFFVUUVyaVgxZERSUVNtUS15b0xabFJoS3Zzc0pkSVJ6ZHgzVGw0SmVkSDAzUl9M?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T20:13:41+08:00"
     },
     {
       "title": "SSE Airtricity to increase gas prices by 19% from October",
@@ -135,42 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFpYZGY4aXJhdWFkaUNZMTlFUzlSR0RFYnREQmVGTV9wY2dxTmRPdUZLZlRiay1wZjNreHBfR0NVTjU1Y245YmlTVDlRWDF3VWxZY2Ita0tpbjN6SEVKUjBhb0Nfck1pRVJlb09oRGlXLTJZX0x1cTNsRG9KclplUldVWVdTTVFwbnc1VmhBcW85XzJCMFEtUkZuSGEwLUNReWNvWlNKMkt0a0NST3lv?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T19:08:03+08:00"
-    },
-    {
-      "title": "In pictures: August’s full moon and partial lunar eclipse - CNN",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW9zSFVmQzd2eERfRjJzZXg2elM2X2Y5V1B6eTRqc0xCR0lwMnlEVGdkSm96czlGdm5XUnpSdG11SXNnOUlzcUJmQ0FRbUx3QUdBRXlFT3dQZ21wWGk4ZHJUWjc2eWkzeE1uSzByVkZ3MVhsTlNUS0Y4aHE1bm5ReWxVTFRMbGlTSm82OExB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T19:08:00+08:00"
-    },
-    {
-      "title": "Fantasy football 2026 rankings, draft prep: Model unveils best QB, RB, WR, TE picks, cheat sheets, tiers - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV1JVZTFYWUR5c0tWQ2pRQWVDOG1oREQ1TWstLVF6bldIdHpvWEpyS0M4ajJncGwtaEE4NXBzWHc3UXlzZ3VWY2tPRUxjWU16bVdCRkZPSmJJcjB3VHNaZlRGc0JsZUxnbXlLenNWM3F3MDVhQUFHNzlLa2hZWkpfc3dBUV9UQVJPV3AwSzR3a1dEcENxdU42bzBPZHhzdWxaeXd3ekxmY0tpSnM3X05qY3JsX2VmQzV5aVJOOWdzNU1wODh1d0ptWXFXUHk3NnZoX0RvcFBZS25zUjNJdzVV?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T19:00:01+08:00"
-    },
-    {
-      "title": "'Cowboy builders' targeted in new government clampdown",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T18:49:38+08:00"
-    },
-    {
-      "title": "Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41WWRxM1JfRy1aWk90RHIxdVROQTJLZncxS05EVk5YcTgwRjdsRGktTTFGV3I0S3lWUTVzLU9DMm9US2UzVHlIVXF6dUFWa3V5a2NHYVhyazVmQjJFZlJRLTRjaF91Q3FkcTdqalhmS2tYTlNYS0luenRqaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T18:49:36+08:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: CIA chief ‘told Russian counterpart to make peace with Kyiv’ on mysterious Moscow trip - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgxS29TMXRXWngzZElKYXpObnh1ek1SSTByQS1lMng3MGxOeHNjb2MtR3FZMmRnVm9FSWJyQk1qaXVJZXNKV3pUZVBPMlN3WVBUbmFrbk9MdUdpb2Q3Z2RNdS12dGZYWVdDTGJuaTVqWnplWWZJZGRMX0JrOVN3dGNxaTd5bkJfLTh2VmxaU0kxWGxURHdYTGRGZ3ZWLXNrR1dWNlNfdXRmdVA0anB6dk1zczlKYVlWd2Fr?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T18:46:39+08:00"
-    },
-    {
-      "title": "Who is Norway's new King Haakon VIII?",
-      "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T18:37:21+08:00"
     }
   ]
 }
