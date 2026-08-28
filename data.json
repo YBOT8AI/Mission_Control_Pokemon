@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T08:45:33.804374+08:00",
+  "generatedAt": "2026-08-28T09:16:39.827911+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -102,13 +102,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "bf22e28",
-          "message": "lucky8: revenue deliberation — 2026-08-28",
+          "sha": "155099c",
+          "message": "docs: record store catalog seed resolution in execution plan",
           "author": "evilmoni",
-          "time": "2026-08-28T06:06:18+08:00"
+          "time": "2026-08-28T09:07:03+08:00"
         },
-        "commits30d": 52,
-        "totalCommits": 145,
+        "commits30d": 54,
+        "totalCommits": 147,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -272,8 +272,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T08:43:50.029906+08:00",
-        "next_run": "2026-08-28T09:13:50.029906+08:00"
+        "last_run": "2026-08-28T09:14:54.551163+08:00",
+        "next_run": "2026-08-28T09:44:54.551163+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,8 +290,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T08:14:36.927679+08:00",
-        "next_run": "2026-08-28T09:14:42.092951+08:00"
+        "last_run": "2026-08-28T08:45:40.809209+08:00",
+        "next_run": "2026-08-28T09:45:47.009212+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -317,8 +317,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-28T08:36:41.395816+08:00",
-        "next_run": "2026-08-28T09:06:41.395816+08:00"
+        "last_run": "2026-08-28T09:06:46.274243+08:00",
+        "next_run": "2026-08-28T09:36:46.274243+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -326,8 +326,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-28T08:36:40.954309+08:00",
-        "next_run": "2026-08-28T08:46:40.954309+08:00"
+        "last_run": "2026-08-28T09:06:45.788682+08:00",
+        "next_run": "2026-08-28T09:16:45.788682+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -344,8 +344,8 @@
         "name": "Merged Morning Briefing",
         "schedule": "0 9 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-08-27T09:00:54.987682+08:00",
-        "next_run": "2026-08-28T09:00:00+08:00"
+        "last_run": "2026-08-28T09:01:00.966360+08:00",
+        "next_run": "2026-08-31T09:00:00+08:00"
       },
       {
         "id": "95f26306135b",
@@ -362,8 +362,8 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-27T18:03:41.846467+08:00",
-        "next_run": "2026-08-28T09:00:00+08:00"
+        "last_run": "2026-08-28T09:07:11.386296+08:00",
+        "next_run": "2026-08-28T12:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -371,8 +371,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-28T08:36:41.160675+08:00",
-        "next_run": "2026-08-28T08:51:41.160675+08:00"
+        "last_run": "2026-08-28T09:06:46.005992+08:00",
+        "next_run": "2026-08-28T09:21:46.005992+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -533,8 +533,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-28T03:02:03.369456+08:00",
-        "next_run": "2026-08-28T09:02:03.369456+08:00"
+        "last_run": "2026-08-28T09:02:53.197954+08:00",
+        "next_run": "2026-08-28T15:02:53.197954+08:00"
       }
     ],
     "total": 31,
@@ -559,14 +559,14 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "412Gi",
-    "uptime": "3:40",
+    "uptime": "4:12",
     "cpu": {
       "loadAvg": [
-        1.51,
+        1.46,
         1.44,
-        1.38
+        1.4
       ],
-      "usage": "13.1%"
+      "usage": "12.2%"
     },
     "memory": {
       "totalGb": 16.0,
@@ -577,29 +577,29 @@
     },
     "topProcesses": [
       {
-        "cpu": "5.2",
+        "cpu": "4.6",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "4.7",
-        "mem": "0.1",
-        "name": "systemstats"
-      },
-      {
-        "cpu": "2.8",
+        "cpu": "2.0",
         "mem": "0.0",
         "name": "sysmond"
-      },
-      {
-        "cpu": "0.7",
-        "mem": "0.1",
-        "name": "launchd"
       },
       {
         "cpu": "0.5",
         "mem": "0.0",
         "name": "notifyd"
+      },
+      {
+        "cpu": "0.4",
+        "mem": "0.1",
+        "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.3",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1275,16 +1275,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-28T08:45:33.583166+08:00",
+    "generatedAt": "2026-08-28T09:16:39.417910+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 28.4,
+          "temp": 29.2,
           "code": 3,
           "precip": 0.0,
-          "wind": 7.6,
-          "time": "2026-08-28T08:45"
+          "wind": 9.1,
+          "time": "2026-08-28T09:15"
         },
         "daily": [
           {
@@ -1313,11 +1313,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.1,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 7.7,
-          "time": "2026-08-28T08:45"
+          "temp": 28.8,
+          "code": 3,
+          "precip": 0.0,
+          "wind": 8.1,
+          "time": "2026-08-28T09:15"
         },
         "daily": [
           {
@@ -1353,19 +1353,19 @@
   },
   "activity": [
     {
-      "time": "2026-08-28T08:45:33.804269+08:00",
+      "time": "2026-08-28T09:16:39.827762+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-28T08:45:33.804269+08:00",
+      "time": "2026-08-28T09:16:39.827762+08:00",
       "type": "info",
       "text": "⏰ Cron: 27/31 jobs healthy"
     },
     {
-      "time": "2026-08-28T06:06:18+08:00",
+      "time": "2026-08-28T09:07:03+08:00",
       "type": "success",
-      "text": "💼 TechWealth: lucky8: revenue deliberation — 2026-08-28",
+      "text": "💼 TechWealth: docs: record store catalog seed resolution in execution plan",
       "project": "techwealth"
     },
     {
