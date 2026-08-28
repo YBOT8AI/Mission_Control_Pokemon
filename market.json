@@ -1,57 +1,87 @@
 {
-  "generatedAt": "2026-08-29T02:25:27.961602+08:00",
+  "generatedAt": "2026-08-29T02:57:40.616608+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608133.12,
-      "changePct": -2.92
+      "priceHkd": 607129.6,
+      "changePct": -3.24
     },
     "ETH": {
-      "priceHkd": 19067.98,
-      "changePct": -2.49
+      "priceHkd": 19008.39,
+      "changePct": -3.07
     },
     "SOL": {
-      "priceHkd": 811.83,
-      "changePct": -3.42
+      "priceHkd": 805.95,
+      "changePct": -4.69
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5541.43,
-      "changePct": -0.27
+      "priceHkd": 5539.7,
+      "changePct": -0.3
     },
     "SPX": {
-      "priceHkd": 60425.39,
-      "changePct": -0.31
+      "priceHkd": 60400.69,
+      "changePct": -0.35
     },
     "SPCX": {
-      "priceHkd": 1097.84,
-      "changePct": -0.6
+      "priceHkd": 1100.58,
+      "changePct": -0.35
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1122.93,
-      "priceUsdOz": 4455.0
+      "priceHkdPerGram": 1123.21,
+      "priceUsdOz": 4456.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.77,
-      "priceUsdOz": 66.51
+      "priceHkdPerGram": 16.75,
+      "priceUsdOz": 66.47
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 653.15,
-      "changePct": -0.26
+      "priceHkd": 652.05,
+      "changePct": -0.43
     },
     "Natural Gas": {
-      "priceHkd": 22.46,
-      "changePct": -1.44
+      "priceHkd": 22.55,
+      "changePct": -1.07
     }
   },
   "news": [
+    {
+      "title": "Nepal floods latest: Number of people missing jumps significantly to nearly 2,000 - follow live - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:42:54+08:00"
+    },
+    {
+      "title": "US FDA approves Lilly's Mounjaro to reduce cardiovascular risk - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbTQ5NEtsQlRFV3RndUxiRTJVN0hibGxMbHBRVFhEamU4RXpHTkJrbzE0Q0lwRy1iVjVpczBTTzRkSkZDNlNvMkgybWRvNWZsbDZ5VnZWNllCN2U2QmtfTWJwRU1WOTAwTk12ajI3bWlkUDZQN1NCcGJzM1BiRkhUSHVFY29xREdLakdZNldEXzNBbzNkYnozcmpicVBXVm54X3VIWk51T0tDZ1dIWHVpZE8xaWdWSllCNUlXU3pMNGRBODU5cnktR2Zn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:38:50+08:00"
+    },
+    {
+      "title": "Meet the first Miss USA winner to be a mom - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2lXRWZ1TUQ4MEczMHNQcklLdEhRbmc4Ym5wcExkVXFVVXFjVEFJTWxBenZjR2JvR1FsOVoxSURVQ3RrazB3WTZhVW12UXlwQ05sSFZiTUNuS0F6Zkx5VXJTbG81TTdrT3V2Q3hELUJiMG5BdmE5STJRYzI2Q3VlVjJCcUhybjRTNGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:29:30+08:00"
+    },
+    {
+      "title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUFJSHBlaThPY3QxNm1TZEpORnhMam5QQUZTc203emxiY0pKSWJLYWtvaFZNMUd0UGluNzJHVHNhcTZERkpOdmpQR2ZsWC10Q1IxMTFIaDVVRkQ3WjhFWFZsX254RVVJUG9QemZ6ZEtIbndJZk1iYUtuNDEzUGFmejVPZTZlQXl5SEx5WGZPSzh1WHlXalY1dldNR2l3a0RkT0t2M1RZTEdLZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:27:00+08:00"
+    },
+    {
+      "title": "Iceland’s EU referendum: What to know before the vote - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkNuSFNiNVBEemhyb1U1ejdmdkFISzFhdkhYckFDS0tRUDE3czNSVjRzYUpvMXNpeU01dWdyQ1V6SDEtNnVHUnd3T3JlZVVER3FKOXB6Qlk5TzFXd2QxbzhBMnZzaU1KaEpscmEyNGlhWWp0N2RfLUtfS2Vya0JqQUg2U2x2YjNQeDV0dTR2WjIzbnJIWlhTcmx6emhzT0Jlal9qcVBBTkRXcjZiWFNNNi1sWWVUbU1WZVRzMXlmTFNHblU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:21:16+08:00"
+    },
     {
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
@@ -59,22 +89,16 @@
       "time": "2026-08-29T02:13:28+08:00"
     },
     {
+      "title": "'I do not know what happened to the others': Trump's third country deportations spark global debate - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXVJWDJTbldCQkRyVUw5aU04TUNCLS0tNVN3RDUwUGE3UjVFOTFZbjRnQ2Zqa2dzYUJXRW1KSGlNZzNJLWZUYTdMVlBBd0htc3hlSjhFR0E4QnJvdkU1b2FHLWk3RkUxbi1JQTkyZDhidUlOWHRFR3k5SmctMGwxdVZONU5PdnhxckpJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:09:00+08:00"
+    },
+    {
       "title": "See photos of last night’s stunning partial lunar eclipse - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:07:25+08:00"
-    },
-    {
-      "title": "Nepal floods latest: Number of people missing jumps significantly to nearly 2,000 - follow live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T02:02:27+08:00"
-    },
-    {
-      "title": "Meet the first Miss USA winner to be a mom - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2lXRWZ1TUQ4MEczMHNQcklLdEhRbmc4Ym5wcExkVXFVVXFjVEFJTWxBenZjR2JvR1FsOVoxSURVQ3RrazB3WTZhVW12UXlwQ05sSFZiTUNuS0F6Zkx5VXJTbG81TTdrT3V2Q3hELUJiMG5BdmE5STJRYzI2Q3VlVjJCcUhybjRTNGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T01:47:27+08:00"
     },
     {
       "title": "Apple TV Hikes Prices as Streaming Inflation Continues - The Hollywood Reporter",
@@ -101,28 +125,22 @@
       "time": "2026-08-29T01:29:16+08:00"
     },
     {
-      "title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUFJSHBlaThPY3QxNm1TZEpORnhMam5QQUZTc203emxiY0pKSWJLYWtvaFZNMUd0UGluNzJHVHNhcTZERkpOdmpQR2ZsWC10Q1IxMTFIaDVVRkQ3WjhFWFZsX254RVVJUG9QemZ6ZEtIbndJZk1iYUtuNDEzUGFmejVPZTZlQXl5SEx5WGZPSzh1WHlXalY1dldNR2l3a0RkT0t2M1RZTEdLZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T01:20:00+08:00"
-    },
-    {
       "title": "Trump signs order to create space-focused military academy - NBC News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd19nalZhNG5Rd0c2SHN6ekg1Nkt1MEdkY0pWRGx4V2JJR0VtdTliTFRvTUEya0ptd2laNW1WLVlfMW9WdzY3aDFRNHp3RXlWSzZqUkMzelZxYmVoZFk4Q1RBeEJJTHl5LWRpLXhIcEJxdGhyQkZJc0h5ei1McDZlOVZ1TkE0YmowUkhIVERLbnNpMDRpVmxHclVvM2lrZm8?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T01:17:28+08:00"
     },
     {
-      "title": "White House construction played part in Trump helicopter incident, safety officials say - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjZfcHRuNkN6U1g4eUdraFlCdGhVUXRTQ253cWZFV01Va3c1LWpNTjVaYXRRcEswZ045b3h0UHRqMFRWWDFqWjB6clFQLS1EYVN5aS1PTkhlMzdxT2lIQTI3eHN1NlZRZnowNVpFN3B3UlR5YTI5bkR1a3VHcGZ1bzdiWUItZjJ1QXc0dmVjX0pnLU0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T00:38:00+08:00"
-    },
-    {
       "title": "Violence breaks out in Ceuta as migrant crisis continues",
       "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T00:30:59+08:00"
+    },
+    {
+      "title": "Panasonic Lumix L10 Review: A Stylish And Capable Compact Camera - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQ3lHMHNqY0RVbTRHdWk1RzE3MXFHSjhNYnQ3dkVqVFBoMEhiTElQZzI2bWpzWGZsQ0l2NFZ3MXZ1RUNZbXFqc3U3S0ljN3ZpWlFSUlI5ejJJXy0yM2R3aC1ycEZQcHZmSzUyYQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T00:30:00+08:00"
     },
     {
       "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything - The Verge",
@@ -153,24 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T23:58:02+08:00"
-    },
-    {
-      "title": "WATCH: IDF kills Hamas-linked former senior Jenin terror cell member in West Bank vehicle strike - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95SWc0U2hmNk5xTjBicWdRUlUtSHNOeVVQWHBsckx6alEwN2RGR0xCWW5EcnFrd0Q2cFJDeGtoZkxqVTFsWElKY211eUpTajZPT29mTlRNZ3otUHdLQkl0Vk9VLXhsNmlwQnNqRzB3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T23:56:27+08:00"
-    },
-    {
-      "title": "North Carolina teen critically ill from rare brain-eating amoeba found in freshwater, officials say - ABC11 News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeVVSQ2o5RWhNRXpKWFhCelVrakdJbktCakN5OTBsaDZLcTNpenMzbHlWNGd2ZUQwWG80Qm1JVDJvbXVlcmZLVkNRbDZQTEtfaDJuN1ZJemF6bUIwNEVPTzdOVHgyQlRkOGJ3UzladGpLNzIzSlZYQnJ4RlNKNTh2TDBCdnk0T0ZsYWM1UEViVnV6Q2c2V2VVVVM0RHZJZ9IBowFBVV95cUxQdDY1QXIyYzNaZ3hlQTBENXpDaHBBV3k2OTNHX1ZudU9xMS1CdGFlSUtMZnp3cDYydnMyWE5wdm9KTkdTcG1jNzFDbHNwbDhpZWhMVnlUX0JnZUxCRGptc2M1QWtNS05PWWkxMk5EakZOUXduNndjcXpJX3FyOHlBb0Ffd1BXeTZ1OFFQa3ZrYXdQRmxmUEp2MHYwcDJwM001eVM0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T23:54:04+08:00"
-    },
-    {
-      "title": "King Haakon VIII takes the throne in Norway following death of Harald V - follow live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NQllfc085ZExDZzY2RlJ6TGR3U05yUFZFSlBmQ2dfZk5jUkdydGNLMzlzMFZkRXBzXzZodnlramVrTGRQdmZXWnFYRlFlSmQ2UnNXaEt3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T23:46:18+08:00"
     }
   ]
 }
