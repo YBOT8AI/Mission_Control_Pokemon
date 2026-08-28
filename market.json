@@ -1,176 +1,176 @@
 {
-  "generatedAt": "2026-08-28T18:37:40.419425+08:00",
+  "generatedAt": "2026-08-28T21:46:37.873139+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 621931.52,
-      "changePct": -0.25
+      "priceHkd": 619893.12,
+      "changePct": -0.22
     },
     "ETH": {
-      "priceHkd": 19549.75,
-      "changePct": -0.43
+      "priceHkd": 19587.06,
+      "changePct": 0.34
     },
     "SOL": {
-      "priceHkd": 829.16,
-      "changePct": 1.93
+      "priceHkd": 821.32,
+      "changePct": 0.06
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5556.6,
-      "changePct": 0.65
+      "priceHkd": 5566.91,
+      "changePct": 0.19
     },
     "SPX": {
-      "priceHkd": 60610.96,
-      "changePct": 0.72
+      "priceHkd": 60705.59,
+      "changePct": 0.16
     },
     "SPCX": {
-      "priceHkd": 1104.42,
-      "changePct": 0.89
+      "priceHkd": 1109.79,
+      "changePct": 0.49
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1161.07,
-      "priceUsdOz": 4606.3
+      "priceHkdPerGram": 1161.27,
+      "priceUsdOz": 4607.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.8,
-      "priceUsdOz": 70.6
+      "priceHkdPerGram": 17.84,
+      "priceUsdOz": 70.79
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.44,
-      "changePct": -0.37
+      "priceHkd": 648.21,
+      "changePct": -1.02
     },
     "Natural Gas": {
-      "priceHkd": 22.74,
-      "changePct": -0.24
+      "priceHkd": 22.67,
+      "changePct": -0.55
     }
   },
   "news": [
     {
+      "title": "Gatwick Airport facing water outage after main burst",
+      "link": "https://www.bbc.co.uk/news/articles/cjdvl93e10jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T21:36:22+08:00"
+    },
+    {
+      "title": "Measles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDdtX2lUeUJSeWEyNzJlSHBmT09VYVVlS0RNOTFhTW5wMVBfRVU1MUk0aDAzUHJJSVQ4Z0xwV1FyeHBmS3JxM29heXdfY2IyeFJxX1kyU0pQZlRSSG9fWXY2UTItX0tNT1BVeWRINXo3WXZuRVo0VUdYMXZEeVJKblBPVERTZm1qelFZWDZyeXAzaFhFN1F0SnpHZlZ2cV9aakVTMXpDdTdKVjVndG9z?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T21:32:32+08:00"
+    },
+    {
+      "title": "Chinese officials say rescue operations reach 'critical stage' after deadly flash floods in Nepal - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T21:27:29+08:00"
+    },
+    {
+      "title": "Trump’s Cabinet is fanning out to help juice the base. It’s not going as planned. - Politico",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEVyQkJGMFBjczdtQmFBbGtRVTZoM2Fpa1NpeHlZVjBjcmdkWm1ickdkNnFyeE1FMG5jTW1PQXo0M3NiZXpoS1FmQS1iSDJVSkZ1Y1k2YUpfWElCODU4bTVMel9jdzlSU3c4QmtBY1pCZFBzSFBqZmhKQ2hrbkNWOUhKeFUxNGlpQlQxbklDSTVhUjB1UzRTUzNsQXBuV0hMVllxNzZ4cHRHenAyRmhrLTNFYXpqclprZk41bHdVYTZGQVUxNFBYa3dLN3ludkNWVEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T21:04:00+08:00"
+    },
+    {
+      "title": "Trump promised a short Iran war. Six months later, he has few good options. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTdKOVAyMFQ3WXhRdm4wTkllTUtJSm9TTUpoS0VJR3pUT3ZFWU1WWDNFQXgxYzJxbDhOdTFFVWxNTVptSkFGci1ubkFNNnFMbHotQ2MyU1phUzRuS05uOEpkcFF2ektZN08wNWlaOGpkcl9DU1RHNldEOEktc3plR2dTR0d4ZjROb1ZER2Q1ZFdjNnktNUNHa2RCNXJBcFVaWjVCcC1Xc2FqWTVad29pVmt2OWxHNXd1eVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T20:50:28+08:00"
+    },
+    {
+      "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
+      "link": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T20:49:55+08:00"
+    },
+    {
+      "title": "Stock Market Today: Fed Chair Warsh to Speak at Jackson Hole; Dow Futures Steady — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcy1EbHZIa2FzZjNOekZJaDBkdWplblJYUXNsekdjcjU4NUhFNzdFbDhfQ2l5THZrbTdtV2JGUUlvNUJhNTdfenFEWlRCRkxHSnRab1VvdVFDNTRkWGdaNVc2TWJDM28tMTZRd0hjNjRtMmMwaGdRa21CSzZFWTJpeg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T20:39:00+08:00"
+    },
+    {
+      "title": "Lindsay Clancy murder trial jury begins deliberations in Massachusetts - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXEwQUotNUk0dVFmOUIyMkN2YXBvdDN1NklLZjAzakJlelNFT0lPNXhGMlRPcWxvMmdTajM2SGRoNVUyeE90djN1eDAtV2Q2b0RGS0xZMWtRbFJGODZYSFY1LUdtU1E3VTUySVpvYy1HTnltTEtTSjhIak01T0Y4ak9QZ0Y0anl4UkRlYmZJdjFESy02cno3bF9yZk8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T20:19:00+08:00"
+    },
+    {
+      "title": "Dutch court sentences man to life over Rwanda genocide",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x96rw79ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T20:15:46+08:00"
+    },
+    {
       "title": "SSE Airtricity to increase gas prices by 19% from October",
       "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-08-28T18:22:03+08:00"
-    },
-    {
-      "title": "'Not far enough' - US parents and teens on Meta's new limits for young users",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zn9zj361o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T17:32:14+08:00"
-    },
-    {
-      "title": "This Indian pilgrim was about to enter Tibet for her dream tour - then her WhatsApp messages stopped",
-      "link": "https://www.bbc.co.uk/news/articles/c70d41g40njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T17:31:42+08:00"
-    },
-    {
-      "title": "A look back at the King who broke with tradition",
-      "link": "https://www.bbc.co.uk/news/videos/c93v7x5qr79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T17:04:11+08:00"
-    },
-    {
-      "title": "Nepal army rescues survivors from hydropower tunnel",
-      "link": "https://www.bbc.co.uk/news/videos/cddv0rldqqlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T16:33:14+08:00"
-    },
-    {
-      "title": "Trump signs order to rename Lake Ontario as Lake America",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T16:26:09+08:00"
-    },
-    {
-      "title": "Who's rising and who's falling after the Steelers' final preseason game against the Bills? - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnBKVVRiMG9SRTRKWUVnbWhhaVhLVExYNlpTbkpkTFhDODZINU44Y2FJV0paalUycVYza2pJbVJEaW1KTjJ0S1FZbGM3T283enNScjZ0c0tmdmVSZlhHbFZTb25mRWNiWEkzTHo3S2l5SWF6amJPeGpUc3hUVS1yOGMxWkMzUjk2WUFsUkRaQ3lrRFQta09POWhuNUxqbk1TQ01LaUxMUl9yR2JBb3pmN3BPSkloT2Fhb2pWQzdnT2dqMVpHTVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T16:25:30+08:00"
-    },
-    {
-      "title": "Pa. officials say infant was 1 of 2 measles-related deaths in Lancaster County - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWU9IMjNhTF9qWi0wdU1yTUw0WTVQb24yeHlrT3k0Ym5PdU1XU2lZWllMNzZSZ2ZDRS1YXy1jYWptZ0prQmFFWlp1Z181Nm0xQ3VyQ3NZd1lOZGJsRHE0QlB5MzBfYzl0QS1jVXVXbVVnajJlcXhoWWtSa1F1VW10bENpRWNKaWdDdWF1R094cm1aNGppTkx4c25wTFpqbFloZWRiSEtXTkdtc04zM2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T16:13:14+08:00"
-    },
-    {
-      "title": "'High risk' of lake breaching and causing second flood, warns China",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T16:10:21+08:00"
+      "time": "2026-08-28T19:44:47+08:00"
     },
     {
       "title": "What we know about deadly Nepal-Tibet floods",
       "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-28T15:45:05+08:00"
+      "time": "2026-08-28T19:42:07+08:00"
     },
     {
-      "title": "Sports Direct founder attacks Burnham's 'populist' High Street plans",
-      "link": "https://www.bbc.co.uk/news/articles/cn74mm2jz8jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T15:40:00+08:00"
-    },
-    {
-      "title": "Partial lunar eclipse Aug. 27-28 live updates — tonight is the night! - Space",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU01fdkVBMVFJR2M3VUFXaTFCNndVb2V1N1J5MkRoNGNpdnZHUEZGTDhVZHNUZC0yT3c1ZFJ6bnVnMU5EczlwTnVxOV8xbWY3S1doa2RfWlZvSDBmcWd1Y3hLSlkxSjd4dGdyWVBEYzNtRUpKQmV6d0lLNDVTSnVaTFdlS0tsbGI4U19VYnp5bkhBRGRyanNJ?oc=5",
+      "title": "Jelly Roll Gets Emotional & Explains His Politics in Final ‘Kimmel’ Appearance - TV Insider",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kVW81Q2tPMFQzQmJkS1pzbUZJSzBxeXlpV0g3bmhhenh3LTU1SWlHcExGS3l0ckE4NWUySGtKZlQ4M0dMWXF1RTV1T1dlM2dFRFpQdS1ldU12UHlRZmttdzEyUy1IRHlFQm5hemtkTGJiQ2htV191M1g2dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T15:36:30+08:00"
+      "time": "2026-08-28T19:41:47+08:00"
+    },
+    {
+      "title": "World's youngest reigning traditional monarch dies aged 34",
+      "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T19:13:24+08:00"
+    },
+    {
+      "title": "Americans remain sour on Iran war and judge questions Kennedy Center renovations: Morning Rundown - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFpYZGY4aXJhdWFkaUNZMTlFUzlSR0RFYnREQmVGTV9wY2dxTmRPdUZLZlRiay1wZjNreHBfR0NVTjU1Y245YmlTVDlRWDF3VWxZY2Ita0tpbjN6SEVKUjBhb0Nfck1pRVJlb09oRGlXLTJZX0x1cTNsRG9KclplUldVWVdTTVFwbnc1VmhBcW85XzJCMFEtUkZuSGEwLUNReWNvWlNKMkt0a0NST3lv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T19:08:03+08:00"
+    },
+    {
+      "title": "In pictures: August’s full moon and partial lunar eclipse - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMW9zSFVmQzd2eERfRjJzZXg2elM2X2Y5V1B6eTRqc0xCR0lwMnlEVGdkSm96czlGdm5XUnpSdG11SXNnOUlzcUJmQ0FRbUx3QUdBRXlFT3dQZ21wWGk4ZHJUWjc2eWkzeE1uSzByVkZ3MVhsTlNUS0Y4aHE1bm5ReWxVTFRMbGlTSm82OExB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T19:08:00+08:00"
+    },
+    {
+      "title": "Fantasy football 2026 rankings, draft prep: Model unveils best QB, RB, WR, TE picks, cheat sheets, tiers - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV1JVZTFYWUR5c0tWQ2pRQWVDOG1oREQ1TWstLVF6bldIdHpvWEpyS0M4ajJncGwtaEE4NXBzWHc3UXlzZ3VWY2tPRUxjWU16bVdCRkZPSmJJcjB3VHNaZlRGc0JsZUxnbXlLenNWM3F3MDVhQUFHNzlLa2hZWkpfc3dBUV9UQVJPV3AwSzR3a1dEcENxdU42bzBPZHhzdWxaeXd3ekxmY0tpSnM3X05qY3JsX2VmQzV5aVJOOWdzNU1wODh1d0ptWXFXUHk3NnZoX0RvcFBZS25zUjNJdzVV?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T19:00:01+08:00"
+    },
+    {
+      "title": "'Cowboy builders' targeted in new government clampdown",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T18:49:38+08:00"
     },
     {
       "title": "Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89 - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41WWRxM1JfRy1aWk90RHIxdVROQTJLZncxS05EVk5YcTgwRjdsRGktTTFGV3I0S3lWUTVzLU9DMm9US2UzVHlIVXF6dUFWa3V5a2NHYVhyazVmQjJFZlJRLTRjaF91Q3FkcTdqalhmS2tYTlNYS0luenRqaw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T14:52:54+08:00"
+      "time": "2026-08-28T18:49:36+08:00"
     },
     {
-      "title": "White House construction was a factor in Marine One safety incident, NTSB finds - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGNsRE5JM1Z4WldHVnVSdUhBNF9kZzV0WmMtWTIyZFN2V2h0WFFBTnIzX3NLUzhpMFE5UVJaZXdBV3VDNExzQ1ZxRzhZWlQxd0YwRlZ0bGxhckNwVDFQT0swNTFkSXlUaVppa2lCamZWNlV5QmRhc2ZrWlBnVHd4SzlMNTNTRVNCSXVzSEppUGt3VGY0d3hYaldISU5tM05Md1Y5bDJhQ2dGbTdKUXFZYkE2VmtIVkMyLVVXOUU5WEtoZGM?oc=5",
+      "title": "Ukraine-Russia war latest: CIA chief ‘told Russian counterpart to make peace with Kyiv’ on mysterious Moscow trip - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLXgxS29TMXRXWngzZElKYXpObnh1ek1SSTByQS1lMng3MGxOeHNjb2MtR3FZMmRnVm9FSWJyQk1qaXVJZXNKV3pUZVBPMlN3WVBUbmFrbk9MdUdpb2Q3Z2RNdS12dGZYWVdDTGJuaTVqWnplWWZJZGRMX0JrOVN3dGNxaTd5bkJfLTh2VmxaU0kxWGxURHdYTGRGZ3ZWLXNrR1dWNlNfdXRmdVA0anB6dk1zczlKYVlWd2Fr?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T14:03:56+08:00"
+      "time": "2026-08-28T18:46:39+08:00"
     },
     {
-      "title": "Death toll rises in Nepal-China border disaster as lake poses new flood threat - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1h2VHVFZU5pU194eE9xcUU4MHVQTTJoZjFyVE1zTWxSMC1DMGFLcC1ZR2oteFV4VUhpTklUNVVFZ09iakJIakt1QVlieVNEbzVDVFRCd01TMV9qVmdvMndjd2JXT0h1TlcxbWpJYWVwenNUeDBNcHRJVDJrb1Y0bnd5REJyV1VMWWdSLThYUnBHRzVMYnVn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T14:01:00+08:00"
-    },
-    {
-      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
-      "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Norway's new King Haakon VIII?",
+      "link": "https://www.bbc.co.uk/news/articles/cp841114eg6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-28T13:53:05+08:00"
-    },
-    {
-      "title": "What do you spend too much on?",
-      "link": "https://www.bbc.co.uk/news/videos/cx2znnn4574o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T13:23:47+08:00"
-    },
-    {
-      "title": "I used to live in a quiet area - now a data centre overlooks my garden",
-      "link": "https://www.bbc.co.uk/news/articles/c39e7lpyekno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T13:11:23+08:00"
-    },
-    {
-      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-      "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-28T13:11:16+08:00"
-    },
-    {
-      "title": "Trump administration illegally retaliated against Anthropic, judge rules",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T11:41:59+08:00"
+      "time": "2026-08-28T18:37:21+08:00"
     }
   ]
 }
