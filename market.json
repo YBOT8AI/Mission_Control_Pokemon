@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-29T04:01:53.299129+08:00",
+  "generatedAt": "2026-08-29T04:33:58.812239+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607866.56,
-      "changePct": -2.97
+      "priceHkd": 607027.68,
+      "changePct": -3.22
     },
     "ETH": {
-      "priceHkd": 19087.26,
-      "changePct": -2.61
+      "priceHkd": 19053.08,
+      "changePct": -2.96
     },
     "SOL": {
-      "priceHkd": 810.66,
-      "changePct": -5.19
+      "priceHkd": 811.2,
+      "changePct": -5.15
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5545.0,
+      "priceHkd": 5544.76,
       "changePct": -0.21
     },
     "SPX": {
-      "priceHkd": 60458.0,
+      "priceHkd": 60460.2,
       "changePct": -0.25
     },
     "SPCX": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1123.49,
-      "priceUsdOz": 4457.2
+      "priceHkdPerGram": 1123.51,
+      "priceUsdOz": 4457.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.76,
-      "priceUsdOz": 66.51
+      "priceHkdPerGram": 16.74,
+      "priceUsdOz": 66.41
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 653.93,
-      "changePct": -0.14
+      "priceHkd": 654.17,
+      "changePct": -0.11
     },
     "Natural Gas": {
       "priceHkd": 22.56,
@@ -52,6 +52,24 @@
     }
   },
   "news": [
+    {
+      "title": "Woman is indicted over World War II Memorial vandalism incident - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnkxeEhVMlZ3QzFmbnRUdDMwWl8yRW10cVdPaElvVUN4WWpWRnktSFBEeHhnV3JRRVZKdzFMcUEyVXhGTXR2VGNYS3h6R2lBN1FMbFk4Z2NMYnhJMC02WXhnTmlwVWhJLVp0Rno0MjBOb0phRk5ld1NjSlJhVHI4d3ppWTdVbjJaRExNNmQySXV6b2lvTTNWclRKbk1NWGZtcDZPTmlmN3Uyc2RKdmk5azIyaHQ3cFhLZ2pJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T04:24:01+08:00"
+    },
+    {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T04:23:28+08:00"
+    },
+    {
+      "title": "See photos of last night’s stunning partial lunar eclipse - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T03:58:52+08:00"
+    },
     {
       "title": "Greenland says findings on genocide allegation not final",
       "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
@@ -65,16 +83,22 @@
       "time": "2026-08-29T03:45:00+08:00"
     },
     {
+      "title": "Cyclospora lettuce outbreak now tied to 20 states - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3Qxel9WZk5oU1Q1QWxYbTJsZENYY2E3bjZVbDRpNG80aXZFWDJIQWVYeGF1bEtrSVpFdHBDT2cybVFRS3p2ZGdvMmtxMy1DUkhmdmJvZ0t0NXBXOE1XVUNhSzhPYmFSZUxXTDFOSnphNklKUTlwdFZvb0lQVXZIVFF4WXVpTkNuX2l0dnM5VTRvRmtqYU51SnpmOEY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T03:45:00+08:00"
+    },
+    {
+      "title": "Milo Yiannopoulos: Right-wing provocateur detained by ICE, records show - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00QmxERy1MaUdDMklhQU9ocVFJdHBmblVxV25qRGVWUHowREJZdGpHdDNrR1hONV84UDBLSl9LYVpXWElIa1EwR044cjQxOU10ckpsZVRnVlZ5Q001OHF0R3dqSFdqVjZKbXlOdWRMb3JGTTVsMEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T03:41:20+08:00"
+    },
+    {
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T03:40:45+08:00"
-    },
-    {
-      "title": "See photos of last night’s stunning partial lunar eclipse - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T03:37:25+08:00"
     },
     {
       "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII - NPR",
@@ -95,16 +119,16 @@
       "time": "2026-08-29T02:38:50+08:00"
     },
     {
+      "title": "North Carolina teen critically injured by rare brain-eating amoeba - FOX Weather",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdnhUSlB5REJJTEM2bzk2bG1Lal9NejUzYkxQaUk4RVgtQzJXbTlmM2tCS2stLVRiOFRwVWtDVFpINUhhS25hMUxvOHNud0tabEFWVk1IcUx5Z1ZmeWpjdlo0LUpwdndWWElETlBDZTdHTFZYSlZiOERMSU9mbWxTS1pPVkwtVUdJdE85eVU5NzRobVlDWndRbm1xU0gzQdIBowFBVV95cUxPbGo3elVXZTdkRXRxN3ZEUG9ocFZSRnliMXQ4RXJLS200ZUcxdkxwYVJYVUF4d3g1M2ZvRHR5YXRzU3lhdEpGZ0dEU05LY090N3g1Umx4b0ZBVmhFZ0dlZXdfdWROdzBEWUxZcFF1SE9NLTU5QVhwelpqMUxTTXFGTGRBZ3NhRjhSaFBfTWtfSTZPMC0tbVhTZGpoSmNTb0NyRkRj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:32:00+08:00"
+    },
+    {
       "title": "Meet the first Miss USA winner to be a mom - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY2lXRWZ1TUQ4MEczMHNQcklLdEhRbmc4Ym5wcExkVXFVVXFjVEFJTWxBenZjR2JvR1FsOVoxSURVQ3RrazB3WTZhVW12UXlwQ05sSFZiTUNuS0F6Zkx5VXJTbG81TTdrT3V2Q3hELUJiMG5BdmE5STJRYzI2Q3VlVjJCcUhybjRTNGc?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:29:30+08:00"
-    },
-    {
-      "title": "Woman is indicted on two charges over World War II Memorial vandalism - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnkxeEhVMlZ3QzFmbnRUdDMwWl8yRW10cVdPaElvVUN4WWpWRnktSFBEeHhnV3JRRVZKdzFMcUEyVXhGTXR2VGNYS3h6R2lBN1FMbFk4Z2NMYnhJMC02WXhnTmlwVWhJLVp0Rno0MjBOb0phRk5ld1NjSlJhVHI4d3ppWTdVbjJaRExNNmQySXV6b2lvTTNWclRKbk1NWGZtcDZPTmlmN3Uyc2RKdmk5azIyaHQ3cFhLZ2pJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T02:27:37+08:00"
     },
     {
       "title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - AP News",
@@ -113,22 +137,28 @@
       "time": "2026-08-29T02:27:00+08:00"
     },
     {
+      "title": "Gov. Bill Lee, BNA announce plan to name Nashville airport in honor of Dolly Parton - WSMV",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUW5DRy1Lc2k0X2ZRSVFuckNsOVFGb2dLSFI4MTFXdHhWVzYwdGp6ZHZYQkZXVDZSWTVPT3V0M21QLTJNdTQyeW9La0RPM3F3bThSdHpqdkcxTEFEdVFXbUR6WWFGYkNvRGxYXzNfYVMzT3pWVWlBY2c0bU9zNFk0dzBHM29sd0xnaXQ3bXZnRG9PVGV5RVYzWDNfQVA3QkY5bENsSzIyNVI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:18:00+08:00"
+    },
+    {
       "title": "'I do not know what happened to the others': Trump's third country deportations spark global debate - Politico",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXVJWDJTbldCQkRyVUw5aU04TUNCLS0tNVN3RDUwUGE3UjVFOTFZbjRnQ2Zqa2dzYUJXRW1KSGlNZzNJLWZUYTdMVlBBd0htc3hlSjhFR0E4QnJvdkU1b2FHLWk3RkUxbi1JQTkyZDhidUlOWHRFR3k5SmctMGwxdVZONU5PdnhxckpJ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:09:00+08:00"
     },
     {
+      "title": "Good Good's CEO went nuclear on Callaway after the brand cut ties over an ad scandal - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWUhyWm1FVndtRUxCUlJmRGc5WWUxQlVSU2Rtdnp4MWpQR0RENWV3UThBZXN2cEdCTGwyd2VMeEd5bGhUdnQ4N0NEelN0c19iQ1U0VXBNMTRpQzVZSk9iWnhMcjBRcmFpZ1JZb1NXNWtLd3h0RUNqUHVEN0t1RjJhM2FKaXhZRzlQdVJWSVE3QUlZZTVuNHRyTDllWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:07:24+08:00"
+    },
+    {
       "title": "Trump signs order to create space-focused military academy - NBC News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd19nalZhNG5Rd0c2SHN6ekg1Nkt1MEdkY0pWRGx4V2JJR0VtdTliTFRvTUEya0ptd2laNW1WLVlfMW9WdzY3aDFRNHp3RXlWSzZqUkMzelZxYmVoZFk4Q1RBeEJJTHl5LWRpLXhIcEJxdGhyQkZJc0h5ei1McDZlOVZ1TkE0YmowUkhIVERLbnNpMDRpVmxHclVvM2lrZm8?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:00:56+08:00"
-    },
-    {
-      "title": "Trump loses again in bid to erase his hush money conviction - PBS",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaklhSi03UUc1U29OX3dsSGdSRGlwc01YeHh3VEhHTFdManZvMjEta0pFSGFKbzJUa3ZmNjdkTjEzWEJ4RHVfVDNaWmQ5ZjF2dDNrNnhXc0pwb1Q1MVhoSkJwcjBONVJ3MEJ3aGg0ekFSMXFFcm9PbVJWbXNjVzJvMXg5Rktuc3hoVmVlSEtfWWE2NWVicWpIZlo3bjB5Z9IBowFBVV95cUxNSDA4Z1k4X3laMHZReGlKdVJnVXlUOHlSaDkzUkp3R2stenFrTC1lZmc0bUNIYVF6MTlMellGLW1iWEhUYTZsQlowN0xlQTg1LXg3aEc0dXloSzNqcE9XaWxlLVNlVXpEbTZyREprSE84eE9qXzA3YmhSVXYzWFJSX0FIek8wQXpUeWwwaVc2WXM5VWI1Yjhjb1VIV080WE1PbEJz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T01:55:17+08:00"
     },
     {
       "title": "Gatwick Airport faced water outage after main burst",
@@ -141,36 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd68vpjv21do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T01:36:54+08:00"
-    },
-    {
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T01:29:16+08:00"
-    },
-    {
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3BfVHVpN1BrbDM4Y1Z1RktfV2hTbC1PSjZPcWtaVTQzcWZ3NndnV2R0LVIxR1h1NzJCcVFKYlFRUnJyaFd5VUltbGRoY0dfOGFQb1lrVUtrMkx1Y3hwd0J0Vk1WTU5sWDNkeEdGcHlxNWxsaUR6c0sxbkd0Y1V4Tkp0TDliSjV2VDh0SnZvOGxHclp5LWNSTXh6NWdkTV9RRnFDUlhPQlVoaEhhUlo5Z2xB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T01:23:53+08:00"
-    },
-    {
-      "title": "Mike Perry reacts to Dillon Danis withdrawing from fight: ‘This was always their plan’ - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUlrWGhtUWY0Z0tveE1NbkxoMUUxYlZWSVhqaVJzZGkwQzluR19LU1RITHp1clZWb3c5WnRpMzVudzEwYXFuR2lRVG5BNVYxZXRwRTVfU2x3WmpUelNxRzRub0c0X1REOHgwcWY3cDUzdWdFQVozbGpEYVp3cnA5bjFJTklLYUE2S1NPZkg1eUJhVjZYQm5GeWF5WURJR1Y0b0RRcFM3TzljWTJsdzYyOWJ6VE1ZOUJtODN5UEtZYnBmZXdmT3lZYU5R?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T01:00:00+08:00"
-    },
-    {
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T00:30:59+08:00"
-    },
-    {
-      "title": "Panasonic Lumix L10 Review: A Stylish And Capable Compact Camera - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQ3lHMHNqY0RVbTRHdWk1RzE3MXFHSjhNYnQ3dkVqVFBoMEhiTElQZzI2bWpzWGZsQ0l2NFZ3MXZ1RUNZbXFqc3U3S0ljN3ZpWlFSUlI5ejJJXy0yM2R3aC1ycEZQcHZmSzUyYQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T00:30:00+08:00"
     }
   ]
 }
