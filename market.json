@@ -1,74 +1,92 @@
 {
-  "generatedAt": "2026-08-29T03:29:54.905957+08:00",
+  "generatedAt": "2026-08-29T04:01:53.299129+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609505.12,
-      "changePct": -2.94
+      "priceHkd": 607866.56,
+      "changePct": -2.97
     },
     "ETH": {
-      "priceHkd": 19127.72,
-      "changePct": -2.81
+      "priceHkd": 19087.26,
+      "changePct": -2.61
     },
     "SOL": {
-      "priceHkd": 810.42,
-      "changePct": -5.18
+      "priceHkd": 810.66,
+      "changePct": -5.19
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5545.7,
-      "changePct": -0.2
+      "priceHkd": 5545.0,
+      "changePct": -0.21
     },
     "SPX": {
-      "priceHkd": 60466.78,
-      "changePct": -0.24
+      "priceHkd": 60458.0,
+      "changePct": -0.25
     },
     "SPCX": {
-      "priceHkd": 1105.2,
-      "changePct": 0.07
+      "priceHkd": 1109.36,
+      "changePct": 0.45
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1125.0,
-      "priceUsdOz": 4463.2
+      "priceHkdPerGram": 1123.49,
+      "priceUsdOz": 4457.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.79,
-      "priceUsdOz": 66.62
+      "priceHkdPerGram": 16.76,
+      "priceUsdOz": 66.51
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.84,
-      "changePct": -0.31
+      "priceHkd": 653.93,
+      "changePct": -0.14
     },
     "Natural Gas": {
-      "priceHkd": 22.55,
-      "changePct": -1.07
+      "priceHkd": 22.56,
+      "changePct": -1.03
     }
   },
   "news": [
     {
+      "title": "Greenland says findings on genocide allegation not final",
+      "link": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T03:57:50+08:00"
+    },
+    {
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T03:45:00+08:00"
+    },
+    {
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-29T03:20:47+08:00"
+      "time": "2026-08-29T03:40:45+08:00"
+    },
+    {
+      "title": "See photos of last night’s stunning partial lunar eclipse - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T03:37:25+08:00"
+    },
+    {
+      "title": "Norway's King Harald V dies at 89 and his son becomes King Haakon VIII - NPR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmpOblljM09wZS02ODVkbWYwcGdvRjFCSEUwcEFnOXJPb2FQUWhXM0xyMU4zUmFpVFluNV9xamxST1JRTkJsMlRFd1N3UkJoYkFxc1cwekdVQUR1RC1FTGNqOGFLdHJmSGNEa3JlQ3lZc3RhOS1ST0hIa0tyVHZidWhWZFV3RGRmUG9ZNEQzUE1KQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T03:16:53+08:00"
     },
     {
       "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
       "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T03:05:23+08:00"
-    },
-    {
-      "title": "Nepal floods latest: Number of people missing jumps significantly to nearly 2,000 - follow live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T03:02:59+08:00"
     },
     {
       "title": "US FDA approves Lilly's Mounjaro to reduce cardiovascular risk - Reuters",
@@ -83,22 +101,16 @@
       "time": "2026-08-29T02:29:30+08:00"
     },
     {
+      "title": "Woman is indicted on two charges over World War II Memorial vandalism - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMnkxeEhVMlZ3QzFmbnRUdDMwWl8yRW10cVdPaElvVUN4WWpWRnktSFBEeHhnV3JRRVZKdzFMcUEyVXhGTXR2VGNYS3h6R2lBN1FMbFk4Z2NMYnhJMC02WXhnTmlwVWhJLVp0Rno0MjBOb0phRk5ld1NjSlJhVHI4d3ppWTdVbjJaRExNNmQySXV6b2lvTTNWclRKbk1NWGZtcDZPTmlmN3Uyc2RKdmk5azIyaHQ3cFhLZ2pJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T02:27:37+08:00"
+    },
+    {
       "title": "Fed Chair Warsh signals rate hikes may be needed with US inflation stubbornly elevated - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTUFJSHBlaThPY3QxNm1TZEpORnhMam5QQUZTc203emxiY0pKSWJLYWtvaFZNMUd0UGluNzJHVHNhcTZERkpOdmpQR2ZsWC10Q1IxMTFIaDVVRkQ3WjhFWFZsX254RVVJUG9QemZ6ZEtIbndJZk1iYUtuNDEzUGFmejVPZTZlQXl5SEx5WGZPSzh1WHlXalY1dldNR2l3a0RkT0t2M1RZTEdLZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:27:00+08:00"
-    },
-    {
-      "title": "Milo Yiannopoulos in ICE custody, agency records show - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oeFRKbUNseFZZb21Vbmd3ZnRxNmljUWpDTXBBaEJYdjFIYjV5cE83Q0t2d2NiQTRPM2VWTTFaT2JPRV9JTEV1NmFPb3JCZ013ZDBmcFBRdmFvVVZXN1ZFZ1g0T2h5aVlBWm01bjVkbW16cjVLVHN1MDkwQmZUbEk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T02:24:00+08:00"
-    },
-    {
-      "title": "Iceland’s EU referendum: What to know before the vote - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRkNuSFNiNVBEemhyb1U1ejdmdkFISzFhdkhYckFDS0tRUDE3czNSVjRzYUpvMXNpeU01dWdyQ1V6SDEtNnVHUnd3T3JlZVVER3FKOXB6Qlk5TzFXd2QxbzhBMnZzaU1KaEpscmEyNGlhWWp0N2RfLUtfS2Vya0JqQUg2U2x2YjNQeDV0dTR2WjIzbnJIWlhTcmx6emhzT0Jlal9qcVBBTkRXcjZiWFNNNi1sWWVUbU1WZVRzMXlmTFNHblU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T02:21:16+08:00"
     },
     {
       "title": "'I do not know what happened to the others': Trump's third country deportations spark global debate - Politico",
@@ -107,22 +119,16 @@
       "time": "2026-08-29T02:09:00+08:00"
     },
     {
-      "title": "See photos of last night’s stunning partial lunar eclipse - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T02:07:25+08:00"
-    },
-    {
       "title": "Trump signs order to create space-focused military academy - NBC News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd19nalZhNG5Rd0c2SHN6ekg1Nkt1MEdkY0pWRGx4V2JJR0VtdTliTFRvTUEya0ptd2laNW1WLVlfMW9WdzY3aDFRNHp3RXlWSzZqUkMzelZxYmVoZFk4Q1RBeEJJTHl5LWRpLXhIcEJxdGhyQkZJc0h5ei1McDZlOVZ1TkE0YmowUkhIVERLbnNpMDRpVmxHclVvM2lrZm8?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T02:00:56+08:00"
     },
     {
-      "title": "Apple TV Hikes Prices as Streaming Inflation Continues - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0JnbllOaDRXRzFqYWJfN0NkY2FrMGkzclNwdEU2R2dyVUk4MHlfU0RQNDFNMHYtNmV5RWk5S0loUnRwRVpuSkk4SFVpNzk4a1VETC1mSUFCUGFEVE9iX0J0WDFDd2d3a0FjaFlYekFwNUdodWdZV2Y3TEgxMF9FWi16RDhLV1RwblVvUTR4WHBQNjhLdWp6VzVaa055T3pTRS1OWm1aYnAtaG8?oc=5",
+      "title": "Trump loses again in bid to erase his hush money conviction - PBS",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaklhSi03UUc1U29OX3dsSGdSRGlwc01YeHh3VEhHTFdManZvMjEta0pFSGFKbzJUa3ZmNjdkTjEzWEJ4RHVfVDNaWmQ5ZjF2dDNrNnhXc0pwb1Q1MVhoSkJwcjBONVJ3MEJ3aGg0ekFSMXFFcm9PbVJWbXNjVzJvMXg5Rktuc3hoVmVlSEtfWWE2NWVicWpIZlo3bjB5Z9IBowFBVV95cUxNSDA4Z1k4X3laMHZReGlKdVJnVXlUOHlSaDkzUkp3R2stenFrTC1lZmc0bUNIYVF6MTlMellGLW1iWEhUYTZsQlowN0xlQTg1LXg3aEc0dXloSzNqcE9XaWxlLVNlVXpEbTZyREprSE84eE9qXzA3YmhSVXYzWFJSX0FIek8wQXpUeWwwaVc2WXM5VWI1Yjhjb1VIV080WE1PbEJz?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T01:45:48+08:00"
+      "time": "2026-08-29T01:55:17+08:00"
     },
     {
       "title": "Gatwick Airport faced water outage after main burst",
@@ -143,10 +149,16 @@
       "time": "2026-08-29T01:29:16+08:00"
     },
     {
-      "title": "Agent Explains Why Jonathan Kuminga Chose Timberwolves - Hoops Rumors",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3gxbUtqd1pZcUJWX296Y1hmVXI0bW5ZaXI4LTItSUdybW4yQ0hZZVJDamk5TjZpZnpjb29jQ0NYRzh0akMzLW5PNERMcGFaUFF6X3JZdkktQTAzc25qS2dBM2Y4bjN0bWhHY21BYnhyNS1sSVJEMWlvWm1aRmxfcHREcFRBcWI3OXBVSzBqRWZjVGY1WW8w?oc=5",
+      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY3BfVHVpN1BrbDM4Y1Z1RktfV2hTbC1PSjZPcWtaVTQzcWZ3NndnV2R0LVIxR1h1NzJCcVFKYlFRUnJyaFd5VUltbGRoY0dfOGFQb1lrVUtrMkx1Y3hwd0J0Vk1WTU5sWDNkeEdGcHlxNWxsaUR6c0sxbkd0Y1V4Tkp0TDliSjV2VDh0SnZvOGxHclp5LWNSTXh6NWdkTV9RRnFDUlhPQlVoaEhhUlo5Z2xB?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T01:04:00+08:00"
+      "time": "2026-08-29T01:23:53+08:00"
+    },
+    {
+      "title": "Mike Perry reacts to Dillon Danis withdrawing from fight: ‘This was always their plan’ - MMA Fighting",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYUlrWGhtUWY0Z0tveE1NbkxoMUUxYlZWSVhqaVJzZGkwQzluR19LU1RITHp1clZWb3c5WnRpMzVudzEwYXFuR2lRVG5BNVYxZXRwRTVfU2x3WmpUelNxRzRub0c0X1REOHgwcWY3cDUzdWdFQVozbGpEYVp3cnA5bjFJTklLYUE2S1NPZkg1eUJhVjZYQm5GeWF5WURJR1Y0b0RRcFM3TzljWTJsdzYyOWJ6VE1ZOUJtODN5UEtZYnBmZXdmT3lZYU5R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T01:00:00+08:00"
     },
     {
       "title": "Violence breaks out in Ceuta as migrant crisis continues",
@@ -155,22 +167,10 @@
       "time": "2026-08-29T00:30:59+08:00"
     },
     {
-      "title": "DLSS 5 leaked and modders are putting Nvidia’s AI effects on everything - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE54VUxfQjRvLWN0QXEyUmZ3Y3NEa0Rac1Ayeld3RjBBVktRdEhpaE95WV9xMHNkMnBISnNZVFBEa0VrZnc1LU1FSmhSZDBBR3FJaV9oUkxvX3FjY3VMZ0JDbi10VlhPZDFPeGFB?oc=5",
+      "title": "Panasonic Lumix L10 Review: A Stylish And Capable Compact Camera - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sQ3lHMHNqY0RVbTRHdWk1RzE3MXFHSjhNYnQ3dkVqVFBoMEhiTElQZzI2bWpzWGZsQ0l2NFZ3MXZ1RUNZbXFqc3U3S0ljN3ZpWlFSUlI5ejJJXy0yM2R3aC1ycEZQcHZmSzUyYQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T00:22:16+08:00"
-    },
-    {
-      "title": "'A lot of pressure' - SSE Airtricity to increase gas prices by 19%",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyxky1m4wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-29T00:15:11+08:00"
-    },
-    {
-      "title": "Trump promised a short Iran war. Six months later, he has few good options. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTdKOVAyMFQ3WXhRdm4wTkllTUtJSm9TTUpoS0VJR3pUT3ZFWU1WWDNFQXgxYzJxbDhOdTFFVWxNTVptSkFGci1ubkFNNnFMbHotQ2MyU1phUzRuS05uOEpkcFF2ektZN08wNWlaOGpkcl9DU1RHNldEOEktc3plR2dTR0d4ZjROb1ZER2Q1ZFdjNnktNUNHa2RCNXJBcFVaWjVCcC1Xc2FqWTVad29pVmt2OWxHNXd1eVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T00:00:00+08:00"
+      "time": "2026-08-29T00:30:00+08:00"
     }
   ]
 }
