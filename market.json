@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T14:28:11.985327+08:00",
+  "generatedAt": "2026-08-28T14:59:19.434427+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625976.96,
-      "changePct": 1.51
+      "priceHkd": 626729.6,
+      "changePct": 1.43
     },
     "ETH": {
-      "priceHkd": 19616.86,
-      "changePct": 0.68
+      "priceHkd": 19626.58,
+      "changePct": 0.47
     },
     "SOL": {
-      "priceHkd": 841.39,
-      "changePct": 6.23
+      "priceHkd": 843.51,
+      "changePct": 6.28
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1155.73,
-      "priceUsdOz": 4585.1
+      "priceHkdPerGram": 1162.28,
+      "priceUsdOz": 4611.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.47,
-      "priceUsdOz": 69.29
+      "priceHkdPerGram": 17.78,
+      "priceUsdOz": 70.53
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 650.88,
-      "changePct": -0.61
+      "priceHkd": 649.23,
+      "changePct": -0.86
     },
     "Natural Gas": {
-      "priceHkd": 22.95,
-      "changePct": 0.69
+      "priceHkd": 22.91,
+      "changePct": 0.52
     }
   },
   "news": [
+    {
+      "title": "Norway's King Harald dies aged 89",
+      "link": "https://www.bbc.co.uk/news/articles/clykn5p5172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T14:57:35+08:00"
+    },
     {
       "title": "What we know about deadly Nepal-Tibet floods",
       "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
@@ -95,10 +101,16 @@
       "time": "2026-08-28T13:11:16+08:00"
     },
     {
-      "title": "Nepal-Tibet floods: Death toll rises to 469 in Nepal amid fears of second flood - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
+      "title": "White House construction was a factor in Marine One safety incident, NTSB finds - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGNsRE5JM1Z4WldHVnVSdUhBNF9kZzV0WmMtWTIyZFN2V2h0WFFBTnIzX3NLUzhpMFE5UVJaZXdBV3VDNExzQ1ZxRzhZWlQxd0YwRlZ0bGxhckNwVDFQT0swNTFkSXlUaVppa2lCamZWNlV5QmRhc2ZrWlBnVHd4SzlMNTNTRVNCSXVzSEppUGt3VGY0d3hYaldISU5tM05Md1Y5bDJhQ2dGbTdKUXFZYkE2VmtIVkMyLVVXOUU5WEtoZGM?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T12:38:39+08:00"
+      "time": "2026-08-28T13:09:30+08:00"
+    },
+    {
+      "title": "Death toll rises in Nepal-China border disaster as lake poses new flood threat - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX1h2VHVFZU5pU194eE9xcUU4MHVQTTJoZjFyVE1zTWxSMC1DMGFLcC1ZR2oteFV4VUhpTklUNVVFZ09iakJIakt1QVlieVNEbzVDVFRCd01TMV9qVmdvMndjd2JXT0h1TlcxbWpJYWVwenNUeDBNcHRJVDJrb1Y0bnd5REJyV1VMWWdSLThYUnBHRzVMYnVn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T12:58:00+08:00"
     },
     {
       "title": "Partial lunar eclipse Aug. 27-28 live updates — tonight is the night! - Space",
@@ -111,6 +123,12 @@
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwZFpIcFU2VTNCempVRHZtNi1sN2hZWmdZd2F5dVEtX2NXaGJTM3lueGVON3o0YkdaUGVxcnZCTHJ5OGNaOTlBVnlzdUVweU1hT3NGSGk4UlIzTGZiNU5XUXdhSkR5dy1pVHlMZWFIaDNKZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T12:19:32+08:00"
+    },
+    {
+      "title": "Judge Once Again Bars Postal Service From Restricting Mail-In Vote - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU3JkenNmTnkyRHpBVWZSX2ZqRzFqUDRfZzFtVk1qZmVtelhCM0lBUEMzdXdzQWFiR0VpTVdQX2NMenBhdkc4VTZTY2c0NllydmRTX2RDM21BWUVpa0cyakdNSUs1Q1VVaUU3a0hKZkljNnBMTEN4MHgtOTFYVE9GZDNTekZhS2xHREVoaG13?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T11:53:55+08:00"
     },
     {
       "title": "Trump administration illegally retaliated against Anthropic, judge rules",
@@ -137,34 +155,16 @@
       "time": "2026-08-28T11:32:09+08:00"
     },
     {
-      "title": "White House construction was a factor in Marine One safety incident, NTSB finds - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNGNsRE5JM1Z4WldHVnVSdUhBNF9kZzV0WmMtWTIyZFN2V2h0WFFBTnIzX3NLUzhpMFE5UVJaZXdBV3VDNExzQ1ZxRzhZWlQxd0YwRlZ0bGxhckNwVDFQT0swNTFkSXlUaVppa2lCamZWNlV5QmRhc2ZrWlBnVHd4SzlMNTNTRVNCSXVzSEppUGt3VGY0d3hYaldISU5tM05Md1Y5bDJhQ2dGbTdKUXFZYkE2VmtIVkMyLVVXOUU5WEtoZGM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T11:27:20+08:00"
-    },
-    {
       "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
       "link": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-28T11:23:21+08:00"
     },
     {
-      "title": "Grading the 49ers After their 18-12 Preseason Win Over the Raiders - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXQzQ3IyNGdnajljcG43cFRNUWVzYlI0aDQ0ZG41dWRUMkMxUGtmWDA1U1A3VHdIQ0NTN1h3ZEJpY001X2EwMFBWeHFxZVloVFRWR2UwcU84cEFudWFBbkFYWS0yeGs4empZQk9HZXVzVjhDZ2xpWm9kZHFmNG4zRHJjV0prWDZZSmJmX1kwOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T10:58:21+08:00"
-    },
-    {
       "title": "U. researchers find possible water source in Mount Timpanogos rock glacier - KSL News",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEVVbTFKc3k2WDRuUjdoRDN4eVcyXzI1ZkVSaU04YlNYUEVaRGVSMk5mTUM0cGpkTzdyLTVGUzJhaU5UUGVyNVdhVFc4RlFCMGZwcjZMYXlqSDhhbHZBZzNGanRKYWUxX09JTHlrVzdKdDZrRlpQaUN0VW1qM0NuU1c2c3pQc28tRVlQdXNNVzE2cGphRkh4Yk1IWGFFRlM4eDUxV2lERGUzRXdKRDV3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T10:33:44+08:00"
-    },
-    {
-      "title": "Federal judge again halts Trump’s executive order limiting mail voting in midterms - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX0pySjlUWnNXcFpjdFNJUHFEQlJNenpuNTd6d2h1aUpvdmhibVNCMTZra0xpUzgwQW1Ya3dDcnM5XzlzRDZrbmV6Y3dqOGdrYnM2Z3VoeVlaay1lLUxIRGNVLW9yMXNxZFpLcGZXYnFpQWpLeEJ2aVZiTWJzMGxYdlVVdkdWbnBnTWxHNjdnSkJNbV81NlBxRkcwNVFXZTRRZjJNYTZweFl3UTNsTkQw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T10:31:00+08:00"
     },
     {
       "title": "Tropical Storm Dolly forms in Atlantic, NHC says - WESH",
