@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T13:26:02.435966+08:00",
+  "generatedAt": "2026-08-28T13:57:06.655742+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624087.52,
-      "changePct": 1.1
+      "priceHkd": 625624.16,
+      "changePct": 1.28
     },
     "ETH": {
-      "priceHkd": 19477.3,
-      "changePct": -0.23
+      "priceHkd": 19568.09,
+      "changePct": 0.12
     },
     "SOL": {
-      "priceHkd": 837.86,
-      "changePct": 5.58
+      "priceHkd": 840.76,
+      "changePct": 5.48
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1155.83,
-      "priceUsdOz": 4585.5
+      "priceHkdPerGram": 1153.81,
+      "priceUsdOz": 4577.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.39,
-      "priceUsdOz": 68.99
+      "priceHkdPerGram": 17.38,
+      "priceUsdOz": 68.96
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.92,
-      "changePct": -0.3
+      "priceHkd": 652.29,
+      "changePct": -0.4
     },
     "Natural Gas": {
-      "priceHkd": 22.92,
-      "changePct": 0.55
+      "priceHkd": 22.86,
+      "changePct": 0.31
     }
   },
   "news": [
+    {
+      "title": "Selena Gomez pushes back against 'frivolous' fraud claims",
+      "link": "https://www.bbc.co.uk/news/articles/cz0z4k28804o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T13:53:05+08:00"
+    },
+    {
+      "title": "What we know about deadly Nepal-Tibet floods",
+      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-28T13:48:08+08:00"
+    },
     {
       "title": "What do you spend too much on?",
       "link": "https://www.bbc.co.uk/news/videos/cx2znnn4574o?at_medium=RSS&at_campaign=rss",
@@ -63,6 +75,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXF1NHQ0LWhMdzBlazhSMUtBNFVrd1ExVGZwVFpoLUxSMnpaaXpYTGpaOEhXNEVxZjRXM2ZNVm5TNm9LdmZRaFlMbWphMW1pcnJrWHRPbGRmaHpmUVNLQXFVWVJVZ0xDMkZITnZFc1BhdTlQU3oxclc2UXdIbVV5RUVCUTZUZzNHWFl6R2JfaDVOWmJW?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T13:13:07+08:00"
+    },
+    {
+      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
+      "link": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T13:11:16+08:00"
     },
     {
       "title": "Nepal-Tibet floods: Death toll rises to 469 in Nepal amid fears of second flood - BBC",
@@ -77,6 +95,18 @@
       "time": "2026-08-28T12:37:26+08:00"
     },
     {
+      "title": "US military uses laser to down three Mexican cartel drones near border - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwZFpIcFU2VTNCempVRHZtNi1sN2hZWmdZd2F5dVEtX2NXaGJTM3lueGVON3o0YkdaUGVxcnZCTHJ5OGNaOTlBVnlzdUVweU1hT3NGSGk4UlIzTGZiNU5XUXdhSkR5dy1pVHlMZWFIaDNKZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T12:19:32+08:00"
+    },
+    {
+      "title": "‘Behind every case, a person’: the man leading DRC’s Ebola fight on the human cost hidden behind the numbers - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGNEZDNqRXFjUVJSUWJwNGRqbWt5SGJzQnhRdm9ESWEzWXJGNzNNVVZ5TmV6eHpRTnNaY0NveDJFN1dwcEI0ekN2X1dNYmRET2dtQkxUc1pHNndaTlJBcU1KYmFXSFRkVEFUcXVtY1FXQ05pemI5VWl4Ti00UmFvVGVnbXZZTTI3RXJFRlo4T3J6UEJjTnk5Y3BtNUp3S1BwbHZFa215NlZLUFVDN1BHRA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T12:00:00+08:00"
+    },
+    {
       "title": "Trump administration illegally retaliated against Anthropic, judge rules",
       "link": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -87,12 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0h6U19Nd2xUZW1nNGNzZzg5RXN6ano5WEtIOWlzbFpJRFB3SEt2YVMtbUtUWF9kMlozXzdxTmVHWjhmc2taYVR4SGs3VldDeHhGN2ktWWZXYXI2NHZQWjBmTHl2M1pGSnFqYnRQeV9pcDBsbHpmRlBZbnRvdUZiNm9IY0RuTTM1VnozLXJUVXZuMVh3MFZUWEx1V3dLN0NCSTVUVjAwbDFzWWNoUU54NGt3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T11:34:00+08:00"
-    },
-    {
-      "title": "Dillon Gabriel's Box Score Stats & Highlights in Browns vs. Patriots After Shedeur-Watson QB Battle - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdkVCUzJaNnpqRmpVQzlrVWRuUHNuQy1ZQlhObXM0VksxUFNOaEJIemJqQzJadS1iYmJLLW1Bc1ppeUdnWUpoSm03VmJCSFVENzFYTGNnNjYzbWNDWFcybk9OczlINVp1bEdNemtJenQ4NUtQb1VSOE9tZENkUDVCMlVuU1dTUzVwenFoWEpqMXI2SkdrUERpQVJtY3hyZkdkWkFRenFiV3NRZ0hyMFNhNGtySWlnbG1JdUxsMXh5RGJDTXpucGdRSHR5YXpQckVMR1ZZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T11:32:09+08:00"
     },
     {
       "title": "White House construction was a factor in Marine One safety incident, NTSB finds - The Washington Post",
@@ -107,10 +131,10 @@
       "time": "2026-08-28T11:23:21+08:00"
     },
     {
-      "title": "What we know about deadly Nepal-Tibet floods",
-      "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T11:15:35+08:00"
+      "title": "Grading the 49ers After their 18-12 Preseason Win Over the Raiders - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXQzQ3IyNGdnajljcG43cFRNUWVzYlI0aDQ0ZG41dWRUMkMxUGtmWDA1U1A3VHdIQ0NTN1h3ZEJpY001X2EwMFBWeHFxZVloVFRWR2UwcU84cEFudWFBbkFYWS0yeGs4empZQk9HZXVzVjhDZ2xpWm9kZHFmNG4zRHJjV0prWDZZSmJmX1kwOA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T10:58:21+08:00"
     },
     {
       "title": "U. researchers find possible water source in Mount Timpanogos rock glacier - KSL News",
@@ -125,16 +149,10 @@
       "time": "2026-08-28T10:31:00+08:00"
     },
     {
-      "title": "Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVhPSzYwTnE2cG5lMWR6SlBYc3RJdTFSaC0tNGc2Z3pXdHNGcTg3b0pVa1NDWklER3UzelN3NllaZ0s4a3JfN1NxQ29CbmxYXzR0eEEyZ05FNjdnc0JHNnE3WHNITHpKQVI1RW9MaGszaUx6VnByYTlPOTNKQnpCNlUyREJac0FSdm9RY21kczZ5WnBKeFE?oc=5",
+      "title": "Tropical Storm Dolly forms in Atlantic, NHC says - WESH",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMVFySGxudlU2NWltZElFU2FYTVJ0akI0Y2xMR3FhTU1aNjVtbEFsdlBqSUU4TlY0V0xJcmlZcFJYeTMtT1ZTalQ5Z3dzRFlGRG96YTRBeDJralpDUFMxd1VVV21zaE5FdGtWNDNQcDFCSHc2RGpsZl9WLWE3NVIyRA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T10:28:13+08:00"
-    },
-    {
-      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, dies as a prisoner at 84 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUERKNVdUQ0FuTzY1UFJrY3ItTmxtZ29tR0pxUGMzNjBjMUNhZVB4X293dE0zM3hlSXlxbjZZOUJmV0dnODdwUUtvc296Z3VQNVhTMnU0TEJGWTJxSWtGRFFOLWRJZlhxRVdnZmxJa1pyekVKaEpqUWhqQUp2UjdCc2ZKRQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T10:19:00+08:00"
+      "time": "2026-08-28T10:12:00+08:00"
     },
     {
       "title": "Grand jury: DeSantis admin ‘misappropriated’ tax dollars in Hope Florida scandal - The Hill",
@@ -149,28 +167,10 @@
       "time": "2026-08-28T10:06:00+08:00"
     },
     {
-      "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-28T09:43:41+08:00"
-    },
-    {
-      "title": "'Real-life consequences': Pennsylvania Gov. Shapiro, RFK Jr. spar over measles-associated deaths - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcTJ5Ukw2X0ZnT1VaWVdSaklNd2lEWGl2VmR6NncyeDBMYzhMamwwcHBsWURQYmxBT3hYdjN5Y1FjdUtrRjNxMHQ4R2hfd296amhSVTFta2FsUUJ2TjJLYkE3dW9aWTRVYnVNeHRHM01sY195NEY5MXZxUXZhUEU1UnVHM2NmWjN4eXpiYUMteTFaZGpjN3VtTjRTNjBQY19wN21MNNIBqgFBVV95cUxPRTUwYmhwOUcyV2R1b1RTV0Ytek95RkRyYnUwRjBRMDRkTUw2dXdyRnVNWHpJR0Nvd2hZVWl2V0pVRXJWQjNyY3FITXdBb0JMN0twbXRGYW43ZFR3SmZkb3JXQmw0VGNDVTB5eHFXeE1TMl9tVW85WUFiTk9MOGtVVEZCelphTUdhWDY0YVprem81ZG5BcG5DTVlsT1AxeFZYQ2h3RGxCeGU2dw?oc=5",
+      "title": "Secret Service spokesman is put on leave amid investigation - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T09:34:12+08:00"
-    },
-    {
-      "title": "The GTA VI ‘extended look’ is now streaming on YouTube - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU09hbXk5el9DazZLRzRxLWwzc0R6LTgwTTFEN0h1Mk5vSVh1WjlFc0xNclowcm9FRTRBTEpicFJZamVBYXkxZnQ3MjNzTFJIanlfM0Qxbks2MzNZWjRXUGlMQXUxOUxPMVpmOU5kNVhJUVA3aEF2SnF5NjlRQld2Z2hKWmpnX05pZEtCUGlwMUcxY2YtcDFxWE55WVRUU0U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T09:05:18+08:00"
-    },
-    {
-      "title": "Trump moves to rename Lake Ontario to \"Lake America\" - Axios",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUcnRYcTRHR1c4Vk9TZE82YkJGX2l6Wlc0R2lQWDZIVGc1Snl1SnpLYVNYUTdtc1dNaEV0dzVEa0ZQa2FscWRuQnMxLVhTaXh2eTZiTWJ5OG81UFExZ056SXRheGNqTHhvTjc2ME9BRzJVZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T09:04:00+08:00"
+      "time": "2026-08-28T09:57:42+08:00"
     }
   ]
 }
