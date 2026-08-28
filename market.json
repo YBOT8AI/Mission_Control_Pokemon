@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-28T10:18:43.743105+08:00",
+  "generatedAt": "2026-08-28T10:49:45.591747+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 628650.4,
-      "changePct": 1.72
+      "priceHkd": 626274.88,
+      "changePct": 1.47
     },
     "ETH": {
-      "priceHkd": 19612.0,
-      "changePct": 0.01
+      "priceHkd": 19534.61,
+      "changePct": -0.12
     },
     "SOL": {
-      "priceHkd": 841.94,
-      "changePct": 5.73
+      "priceHkd": 835.9,
+      "changePct": 5.33
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1154.64,
-      "priceUsdOz": 4580.8
+      "priceHkdPerGram": 1155.6,
+      "priceUsdOz": 4584.6
     },
     "Silver": {
-      "priceHkdPerGram": 17.37,
-      "priceUsdOz": 68.91
+      "priceHkdPerGram": 17.39,
+      "priceUsdOz": 69.01
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 652.44,
-      "changePct": 1.2
+      "priceHkd": 652.84,
+      "changePct": 1.26
     },
     "Natural Gas": {
       "priceHkd": 22.82,
@@ -53,10 +53,22 @@
   },
   "news": [
     {
-      "title": "Judge blocks Pentagon blacklist of Anthropic as supply chain risk - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ21NOU02QWU2LWhCbGl0c0NaRGZRRngyTTF4bmgxdFJtNFAydlNZY2dKUDJUQmJmR1pKRVRvWFVocFVJeUJaSHh1M29NMHpvQWJrWm44dmFLeEU3S0lxWTQyMF9TRXk0dkdmMWxKMllZRk0tM2YzY215T0RVZzBuSFBLbUphQlHSAYwBQVVfeXFMTTZTTExnSU1GUHF1anA1UGRMcUpjT2t2d0VKZE8xVHBjT005XzZwSHJMdWtQSGxxYjdKZ3RmZ3Byc2IwQWVnX2U0NERGX2VxUU1aTkRFdUlILXRZOE1qc25VaGloOWpTRktZM0RNZ3BERklZS29uWkhUYjZKVEdYNmo4R3V2aWhnWVJuQkw?oc=5",
+      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVhPSzYwTnE2cG5lMWR6SlBYc3RJdTFSaC0tNGc2Z3pXdHNGcTg3b0pVa1NDWklER3UzelN3NllaZ0s4a3JfN1NxQ29CbmxYXzR0eEEyZ05FNjdnc0JHNnE3WHNITHpKQVI1RW9MaGszaUx6VnByYTlPOTNKQnpCNlUyREJac0FSdm9RY21kczZ5WnBKeFE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T09:51:00+08:00"
+      "time": "2026-08-28T10:04:58+08:00"
+    },
+    {
+      "title": "Asian Stocks Set to Edge Lower Before Jackson Hole: Markets Wrap - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcXF1NHQ0LWhMdzBlazhSMUtBNFVrd1ExVGZwVFpoLUxSMnpaaXpYTGpaOEhXNEVxZjRXM2ZNVm5TNm9LdmZRaFlMbWphMW1pcnJrWHRPbGRmaHpmUVNLQXFVWVJVZ0xDMkZITnZFc1BhdTlQU3oxclc2UXdIbVV5RUVCUTZUZzNHWFl6R2JfaDVOWmJW?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T10:00:00+08:00"
+    },
+    {
+      "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-28T09:57:42+08:00"
     },
     {
       "title": "Yayoi Kusama, who splashed polka dots across the art world, dies at 97 in Tokyo - AP News",
@@ -83,16 +95,10 @@
       "time": "2026-08-28T08:01:00+08:00"
     },
     {
-      "title": "White House Construction May Have Contributed to Close Call With Trump’s Helicopter - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOUx2MnNzOTByU0tUaWpFLUZtTm56SW1mTnJVRFFQRy1qOWJpVVNYWDRJNUE4WEk5UzFMVW5ELVVtU1lyQnppZzRXN19tdzZVSTV1Q2RQVW1LLXBWNTNXeDNybXNGb3BJeTc4dFZsaVg1NU5DdFRad2dIRFViRG1sM3NoemU?oc=5",
+      "title": "Key moments from Lindsay Clancy trial: What to know as jury weighs case of mom who killed 3 kids - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOU1k5TUNkRDlBZFhGR0pKa0YxV1RmcEpvZmJYWHZndGdEU25ON08yZFotdVdFQzI1ZGV0YVd3cFBSMHFxT2F6Y0RBQktTZy1nM1dSVS1HZmFxTUhWZWtjQUpRb0lTT0NaczlFVXU3MmktLUVDbVEzLW1TVnRwZFFlZ3FFRlRtZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T07:30:10+08:00"
-    },
-    {
-      "title": "Secret Service spokesperson is put on leave amid investigation - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME8wQlV3cnc2WDloZjUtbklOZXF4QTNWcnVJVlVSamNubnZCbEdRSVVDcFZpQjdhRDJRT09PQVhNZ2ROQjJTRG05TXVXN0RIcGNLakY0d2RuVFZhRjU2cEY4cDcyUDhxNVZLNEpmakxDcEd3dDNhMGp2dnlJVXpMSjVXcE5OOVhXX05zT3JLSE8xTE5iNEdBZmo3S1hUV0ZoRTBMTDk0dUh4VWUwMTVjVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T07:29:50+08:00"
+      "time": "2026-08-28T07:49:25+08:00"
     },
     {
       "title": "Judge hits DOJ lawyers with barrage of questions about Kennedy Center renovation and Trump renaming - NBC News",
@@ -131,10 +137,10 @@
       "time": "2026-08-28T07:04:21+08:00"
     },
     {
-      "title": "How melting glaciers contributed to the flooding disaster in the Himalayas - PBS",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS19RaEVyaW01U000d0IxUm1NcHo1M0Y2aXE0UzRHSWRDd3I5V0pyZnN2U1duMjg4b1hiTFgtLVpzYlRLejJaanIxTTZ3NkM0QjZJWmpKdm5nSWRySTdWYUhyZThFZklJZXpPTE91Nld3ZzhjNkpmVGEtWWRFcG1ZbFZqVHB2eXE0LVRmd0NCSFVJUE5DQlZuajJsR193VlFxSWZqdnM0WEluVGVM?oc=5",
+      "title": "Judge grants TRO against SEC, Greg Sankey over fifth-year issue - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRzRoOWJlT0tTX2xxZ2Z3bWJvX2FDY2xRSkl4NUgyMVhoTE9LNFJjaW5Hb2haLUF5UHhvOHNPRGZvaG5KbzNWRF9WbTRVT3BaR2REaDFORGxoNlFhaVBpd3lhY3NIN3RxZ3ZvREtJaTVEYXhwS183b0lSTlNMXzgtOHZwZEJpOHZyWnRYSVRSckMwdjRiTkhXdW9TMmppcmZxdWl4Vk9NMFNFa3BXamNBRmRjclppV3R6TUt0aU05N095UQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T06:55:16+08:00"
+      "time": "2026-08-28T06:57:16+08:00"
     },
     {
       "title": "What we know about deadly Nepal-Tibet floods",
@@ -149,28 +155,22 @@
       "time": "2026-08-28T06:50:24+08:00"
     },
     {
-      "title": "Predicting each Power 4 conference champion ahead of the 2026 college football season - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbVhXX1FrVFdFTXJQb1BCZGZrT3JkenVIc2REZWZLMTVaTF9zRWdETGQxMGc0R3BXemRLNFVaSlFjVjZQNDNFcWtxMGktekI0SmIxNVY2WGM1NHdmejBOb1BqSzVDbmVWa3Rzd0FhdWxYVy1Hb29rTW1PQ0haUktrYURrS2VlNlpoTmpMQjdwQV9PcUJQcnBwZkY0eEV1ODNLeWlDUmpwUjFpUVVvczVmTXk4S21zUDBW?oc=5",
+      "title": "White House construction contributed to radio problems that let Trump copter come close to jet - AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDhuZEEwWDVTTE5jZ2FDMEZ4UmotVVdXMFVtbEtURy1TelRIRzdjT0F5Q2pPUDVXTW56R1BUMUkxUDZBaW1qYkU4dWJpVjhJbXNxNjdlOVh4RTJnRnE2ZEdWVGdPSXhmeFhWR1hWclJwQjc3bS1xWGN5VGwzTGtYek41NjFabzRYQXNzQ1hkRnY4ZkZQbXlkREtPZWJjR2Rf?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-28T06:47:05+08:00"
-    },
-    {
-      "title": "Dillon Danis out; Mike Perry gets replacement opponent on 48 hours’ notice - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNajgxUE1meUJIZk5SenlYcnpyaS1qRGRLcFhvWENfdmtOMnpONDJ4Mmdvd1JyUzhDOHdnUGtmZ2Zoc0hWaXdZbUlkajdfLWNiay1vVmNRTWZyZWJEX3l3SzJoNWlGWUVjeEtlMV96V3ZzcmtqRWNoY3JZdS1nSEFYZjR1UDZzV2gzQWlyY2xmckxfTVpYWlNVU0hlV2JFc3hIRXVENG5lc096VllVaS03aFNjT1cyd3h0VDMw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T06:46:31+08:00"
-    },
-    {
-      "title": "‘It’s death by scurvy’: Tristan and Andrew Tate seek bail as they fight extradition to United Kingdom - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbjc4V3FpMjNaZ195aTRPNnpTSDRWZ2lpWndWMGlNVjVrM3lWTGpuWnRQcnZvRml6dC1fbk1fdTA3ZG5sQWZGRjZvVzZEai10aUtlNWxKWGFhcGdxQXdyaUl6SllsMENhcGx4NXgtN1l4LWt4Q2haQ2o4OHBidXVOY016ckEyVmc5ZHJnS2Vjek9mZGVmOTMwTjR1MEtpeU0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-28T06:30:47+08:00"
+      "time": "2026-08-28T06:31:00+08:00"
     },
     {
       "title": "Shapiro won’t say who died of measles. RFK Jr. is exploiting it. - Politico",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcUtJZW5GVXFzaTFDLVIzcEtUTXN1WnhkTnpFTEhYSkxCV0h3eGRtVGk5TFR1T2dHcDhGRGZHMWpRd1lQUmgzblBIRmIxczdOQmNOckZkOTk5U1VMQXdrcnE0RlhvaU05V2dTcm5vZmdnWmJUYy04NnEzd1R3SGZLMHVNY25jdENCWU9BbzJJMkRCb2FhNi1UX3k1RmpqZw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-28T06:21:00+08:00"
+    },
+    {
+      "title": "'Cowboy builders' targeted in new government clampdown",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-28T05:44:02+08:00"
     }
   ]
 }
