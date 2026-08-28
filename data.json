@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T05:38:06.393997+08:00",
+  "generatedAt": "2026-08-29T06:10:09.267683+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -110,7 +110,7 @@
         "commits30d": 53,
         "totalCommits": 147,
         "branch": "main",
-        "uncommittedChanges": 0,
+        "uncommittedChanges": 1,
         "ahead": 0,
         "behind": 0
       },
@@ -121,11 +121,14 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 100,
+        "score": 90,
         "label": "healthy",
-        "issues": [],
+        "issues": [
+          "1 uncommitted changes"
+        ],
         "actions": [
-          "Run 6 test files via `jest`"
+          "Run 6 test files via `jest`",
+          "Commit & push uncommitted changes"
         ]
       },
       "focus": "Financial Tech"
@@ -272,8 +275,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-29T05:30:51.223815+08:00",
-        "next_run": "2026-08-29T06:00:51.223815+08:00"
+        "last_run": "2026-08-29T06:02:00.630945+08:00",
+        "next_run": "2026-08-29T06:32:00.630945+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,8 +293,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-29T05:06:17.544196+08:00",
-        "next_run": "2026-08-29T06:06:46.816936+08:00"
+        "last_run": "2026-08-29T05:38:23.496641+08:00",
+        "next_run": "2026-08-29T06:38:51.554877+08:00"
       },
       {
         "id": "86ade63f1ada",
@@ -317,8 +320,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-29T05:25:45.842485+08:00",
-        "next_run": "2026-08-29T05:55:45.842485+08:00"
+        "last_run": "2026-08-29T05:55:50.454882+08:00",
+        "next_run": "2026-08-29T06:25:50.454882+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -326,8 +329,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-29T05:35:46.763252+08:00",
-        "next_run": "2026-08-29T05:45:46.763252+08:00"
+        "last_run": "2026-08-29T06:05:51.237615+08:00",
+        "next_run": "2026-08-29T06:15:51.237615+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -371,8 +374,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-29T05:21:47.442628+08:00",
-        "next_run": "2026-08-29T05:36:47.442628+08:00"
+        "last_run": "2026-08-29T05:53:52.803711+08:00",
+        "next_run": "2026-08-29T06:08:52.803711+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -462,7 +465,7 @@
         "schedule": "0 6 * * 1-6",
         "last_status": "ok",
         "last_run": "2026-08-28T06:06:28.194642+08:00",
-        "next_run": "2026-08-29T06:00:00+08:00"
+        "next_run": "2026-08-31T06:00:00+08:00"
       },
       {
         "id": "28808f8c4aa7",
@@ -497,8 +500,8 @@
         "name": "Robotics Business Daily Brief (6am)",
         "schedule": "0 6 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-28T06:01:10.258880+08:00",
-        "next_run": "2026-08-29T06:00:00+08:00"
+        "last_run": "2026-08-29T06:01:49.511183+08:00",
+        "next_run": "2026-08-30T06:00:00+08:00"
       },
       {
         "id": "bd1138e5a2f0",
@@ -562,44 +565,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        0.88,
-        0.72,
-        0.63
+        2.69,
+        3.04,
+        2.09
       ],
-      "usage": "13.3%"
+      "usage": "15.8%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 49.8
+      "usedPct": 33.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.7",
-        "mem": "0.0",
-        "name": "sysmond"
+        "cpu": "17.2",
+        "mem": "1.2",
+        "name": "Planet VPN"
       },
       {
-        "cpu": "3.4",
+        "cpu": "5.6",
+        "mem": "0.9",
+        "name": "WindowServer"
+      },
+      {
+        "cpu": "1.5",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "0.7",
+        "cpu": "0.8",
         "mem": "0.0",
-        "name": "notifyd"
-      },
-      {
-        "cpu": "0.6",
-        "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "sysmond"
       },
       {
         "cpu": "0.4",
-        "mem": "0.1",
-        "name": "launchd"
+        "mem": "1.9",
+        "name": "python"
       }
     ]
   },
@@ -1275,7 +1278,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-29T05:38:06.171554+08:00",
+    "generatedAt": "2026-08-29T06:10:08.753808+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1283,8 +1286,8 @@
           "temp": 25.7,
           "code": 53,
           "precip": 0.2,
-          "wind": 6.8,
-          "time": "2026-08-29T05:30"
+          "wind": 5.1,
+          "time": "2026-08-29T06:00"
         },
         "daily": [
           {
@@ -1317,7 +1320,7 @@
           "code": 3,
           "precip": 0.0,
           "wind": 1.5,
-          "time": "2026-08-29T05:30"
+          "time": "2026-08-29T06:00"
         },
         "daily": [
           {
@@ -1353,12 +1356,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-29T05:38:06.393879+08:00",
+      "time": "2026-08-29T06:10:09.267496+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-29T05:38:06.393879+08:00",
+      "time": "2026-08-29T06:10:09.267496+08:00",
       "type": "info",
       "text": "⏰ Cron: 19/31 jobs healthy"
     },
