@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-29T19:44:36.015142+08:00",
+  "generatedAt": "2026-08-29T20:15:46.422059+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608783.84,
-      "changePct": -2.47
+      "priceHkd": 608258.56,
+      "changePct": -2.44
     },
     "ETH": {
-      "priceHkd": 19100.36,
-      "changePct": -2.73
+      "priceHkd": 19098.16,
+      "changePct": -2.6
     },
     "SOL": {
-      "priceHkd": 811.75,
-      "changePct": -2.26
+      "priceHkd": 811.36,
+      "changePct": -1.87
     }
   },
   "stocks": {
@@ -53,16 +53,46 @@
   },
   "news": [
     {
-      "title": "At least 27 dead and hundreds evacuated after strike on Kyiv warehouse",
-      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T19:38:27+08:00"
-    },
-    {
       "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts from computer that hit Daniel Jones' surprise year - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3QyUEhSekNuUGhTMkx4LURySlBuV3MzRDVfdElIYUFDaDBIeUhsekhOUWhSdTVpNEhJUkdKUWVwYWF3VHFTWFlJN0FreklDNUYzYXVXQ0RubkVPaGJUT3ZQejgwQ1lnVVk1Q2hjQzhIeFVzOEZtMVFYV2QxbEZmZlRyaTI2aUN4eFdidHBqYndyZWlmcWF4TmVxeU9XaTFxMXpuODl1dW9pcUdRNF9ObkNzTGwxbHk0bnNvWmd6MnFYV0paSURzR2hDLWwza2pDZF8ySlhSSFV3d01XclptQWJpMzVHc1hHbEE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T18:35:47+08:00"
+      "time": "2026-08-29T20:05:47+08:00"
+    },
+    {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T19:53:37+08:00"
+    },
+    {
+      "title": "Barber offers free back-to-school haircuts",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq38dzpe5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-29T19:47:46+08:00"
+    },
+    {
+      "title": "Nasa space telescope set to launch after surviving Trump budget cuts - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGRIb2pNc281ZXg3Tll6SGxFYlpoUlNlRzZ0NXBHMFdxdVZGX01aSzNEVjdMNU94QTBDaElRWWx6ZF94WXZQVmVRRHN3NEdQc2tMQ1VkZUZMVTc4N1JrSlE2UmMyaVM4TkE1WV9hT1c3VjBVUzVMcGVnYjkxNnlqRHl6RV9Pc2ROVE1PUkJ1aWE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T19:02:00+08:00"
+    },
+    {
+      "title": "Hollywood has an unlikely ally in its push to win over Trump - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2hvZ1JCMEZrQjUzRGFFRG8yRl9qdEIwZ1JtWkI1djhJSFVsVlBZR2lRWFgzazZVZnF2VFhaQm5MYjFmYjdPOUtkUjJWdXRzUHZCSWFoVnRtOFhOUFlnNFVlRzg1ajhVWjV1djZzOFZBSnRQQ1gzbEV5MUJzQXpBQUllU0dndmJU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T19:00:00+08:00"
+    },
+    {
+      "title": "Gunfire, blasts heard in several areas of Niger capital Niamey - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV0FlSEM1SmJpdWYxSHZiOUs0RUFjYjlKNXJSQjhZRFdzWnFDVWlselljbHBsU1E3VVExdDJoV0JBSzVJb1ctaEZHVktEaG5OZ3hlTDVwbnVSMmd5TXRuME9HaUlfQ21rYWtkTVU4N3NBUEU4MDhaUDBuZTBzTmxxOXVCMlhtOXhtWDh4NmpWYTdjZHY4MHpxWU9lRGh3cTJaMWlmMtIBqgFBVV95cUxNbnEwRG9zNWd1bGVHdHZUaGRzZG4yRm1SRlpJMW8wSWlsNzFCY0JkLWQxTTI3Y3F2V25RTE5FRlkxNXFUYXFPbEhibXVxUElYVW1UMm9NRjh0MXJCdnppYlNTdU9KOHM4bGpwT1d1d0M0aDU2aEtLRllYMXdDNG80eU1xb3hmZHhxQnBoOFlvUzVoVEtEQVNQLTZfODJ6bFZJaHVmT1E1TXVodw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T18:24:41+08:00"
+    },
+    {
+      "title": "As jurors deliberate in the Lindsay Clancy trial, here are key moments they may be considering - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeXNxYkFVQktQci1xdEI4UjBWVm5WWWluamRtSlpWWU5lUGNmWGlrYWxaMHZpU2FGdmUxTmtaYWhGWTEtcFJyQzNGdkdaYmcyZjVnOG1TV0M2SHhhZnA1Q2U5UXBPNWVERTk4ZkU1eGU3RWhuNjRhRnFWd2Q2eGx0V0ZCbEl2eVBGUWN1WTI2TTBmTm0ycURseEZvbXlhRWxTSWRR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T18:02:00+08:00"
     },
     {
       "title": "UFC Shanghai Results: Nurmagomedov vs. Song - MMA Fighting",
@@ -71,16 +101,22 @@
       "time": "2026-08-29T18:00:10+08:00"
     },
     {
+      "title": "Dozens killed in Russian strike on ammunition depot near Kyiv - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aSEJ1NHJZdk9ZNmRpVl82YkRCSWc3Tk1lbG5RWjdiX0JSV3NXenRQZU4tVUNZc3IxRDZZdkhJN2w4Uzh2QWJ3U2cwMURBbVFMRWh2aktmaFoteUh2eDNZOUU4V1lvOGttY0g2RlFyWkg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T17:54:31+08:00"
+    },
+    {
       "title": "‘Forever starts now:’ Hillsborough approves final Rays stadium deal - Tampa Bay Times",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmV2OWtTUG1ubDNxR0FPcVA3X2xLa0RtVU9qaEY3U0ptWE82dklKOGV3VmxhQWd4TDdhbHlqSVBFUV9tc2g3R243UmZlOEdBOXdGbTZsYl9naEQ1ejA5NDMwcGx6RkRUdE0tUzAzSVU1ZmhjMGpCNG9hYjNzRjVxMlF1ZWVDemo3NngxeG41VFZDUENpUURWSWRjQ0pvajVteTladmtIQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T17:53:25+08:00"
     },
     {
-      "title": "Russian strike on Kyiv-area warehouse causes detonation, killing 27 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdk5FRC00VjkxVTRuVXJFam1IaTVqcmV6R2pXX2pJME1fYXkzSFc0NWoyQXpmdGxYeno1ejV0Rk9jZGd6bDliLUdqcm9fWF8ybFhNUmFHUnAxdkEzdnNSRFowYW1MTE1qSUxKTHJLQjZrak5tdkg0NEd4MkFhTDFGbmNYWlBFSlU3Sy0zRU9kM0FEMVpva3VoTy1Xbmd6NF9JZ04zRXROcUxyOVJEc0U1Q1hn?oc=5",
+      "title": "‘No sign of survivors’ at Chinese border crossing as Nepal flooding death toll passes 600 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pR2ktbUNXSndQQlFUb01IWmhPdlU4VXIzZ0owTl9sd2pXZ0hYVEZDcTNPU0ZxWmh1NU5TOHo4ckZIamZDcFhjZlNUSUZPU2RhZzZpcDhPZFBCV2doZ2VnWE41VHY2M2dTdGpRQ0U5N185QQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T17:46:10+08:00"
+      "time": "2026-08-29T17:34:00+08:00"
     },
     {
       "title": "What's the real retirement age in America? Here are 4 guesses - USA Today",
@@ -95,12 +131,6 @@
       "time": "2026-08-29T17:02:44+08:00"
     },
     {
-      "title": "Nepal wants technical help for flood, billions of dollars as bad weather hampers rescue - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb1FVWFg4dHUzMWZmVXotWUoxNTE4MGQ1ZFhZdExvV2JlU0dwSmZMZ25FcjY5dzVKLTZETVBaQnZaLXFBS29EZ2Jfc0w0YWw1a2c1WHlHNXFoallfb1libC1LUFg3ekpySWp4M1A5OFJpVUFVWEtfempZODBNRDhtRmM2VVZJRHlhN29WakRHMFFVZGtZVGFEYy1yQ1k1Y3VGaTM1aTdkZ3Ntd0gtVDZia1pRZ3VaakNsWll0Vg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T16:59:05+08:00"
-    },
-    {
       "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
       "link": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -113,13 +143,7 @@
       "time": "2026-08-29T15:11:04+08:00"
     },
     {
-      "title": "Jury in Lindsay Clancy trial ends second day of deliberations without a verdict - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTFBTY19fMEJ5R080cDZCOTdmNnNRRGtiVmsteEROcGlqLU1oQ2poRmdNNTBDanJ5MkVKbTJacjV5VnJOTXR4MFJwcV9Td0hXaXFpM29vNGhmdlhKbHgybFlWU0k2ZVR5T1U3RmM5bU0xb3V3UFFVVEhTbkFsY0FLNE1xeFR2aVJEQm9jRHp1YnRNN25oY1lOS0l3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T14:54:00+08:00"
-    },
-    {
-      "title": "Iceland holds knife-edge referendum on EU membership talks - dw.com",
+      "title": "Iceland holds knife-edge referendum on EU membership talks - DW.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0Zld2xnTlBwbUw4alJnaHF6RHFZZTE0SEZkMFZYQ1ZPelVHVExKYmRyb2E3dG1ONkNLc2VBVU4wem5VSlQ2TVd2ei1DcUpDLXl0Q0c4a3dnN211LW9SR0x1V1dsdWU1RDlUWUJpZEhuc00xekphWFR6S3QwUzZNbEo0WnVXRHRyTGE2WHNtYXR4ejJ2d1HSAZYBQVVfeXFMTVJfTEZKdGxXdnZpVzRrXzZsMlFPbWhrNndYanhUbE0tNkpHT1RNMWptU0UtQzRWeXdQV09ZVHVqeFdPQk40dldCZWhlRzNNdXFGVVlmeVF1MVNZdXdDSmd1NWV2dGNrN2N1dXFXTElTNm9rRXp1UC1nM1ZLNTNCUlVtU29nTzdlckhZcHdMS2xrWGtlcVhR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T14:38:57+08:00"
@@ -131,22 +155,10 @@
       "time": "2026-08-29T13:01:00+08:00"
     },
     {
-      "title": "Six months into the Iran war, Iranian Americans remain divided over what comes next - CNN",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc21PY1IxdW0zZXFCb2p4bGh5T2hZdDBTTXVkVG1md2FCc2hTaXZGT0pwX3R2VnN6TW5FZVg1YlJSVW44UHNnckphUzVLTVRFZ2RUVkkxaWpmTlFpMmxfMUpleHpmR0QzWFpwYkNsSjczYXBMVFVnMFRuekNFei1pYQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T13:00:29+08:00"
-    },
-    {
       "title": "China-Nepal floods: rescuers pull 2 survivors out of rubble near border crossing - South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMWNRd3NmYkdmNER4M0NCTVJtUVZTTTBZME44ZTRJbldpdVZ3Qy1RWWMwWEgzalE0ejBrSjA5Zm1iS2tjU3RiS19saGRWeVZWSjNBQ3BRUW9VakU3UWJMdmhwb01icFg3aUh4WmVSNHJROS1NMG9rY2M4Rzk1ZWdqOEtjc2twNkloV09HLTFBckVNNUpBR2UzWGw4UndrSFpHR3dhekhvSERvUjdCcHRNTGdldFJhZGN4cWJScWtPNUpMR1NJY3p2ZW9QN3o2UE0xR0RJMTl30gHWAUFVX3lxTFBaY3lfU1J4Yk82VGU5Q0R2ZkhzSVNDME1kOUVQMlhRS0dMWEdRVEJaaHVJQnlDemE5aE50YU9ZU0hIX3owSzRZTXBva2lBSTdncEpRd2xRNXB3eURKZF82VUhvMmFCMkRXTzFKaW80eEZBU2tQOWUyRWoxMjJzempCb25RLTQzU2ZfSzhzTTFQYmdMbXdBSGUybFZwZlJEcVl1VkFzOUF5cnhIOVhuMGVNRE9CM3hreTZ2WG1SQW9YUHlpX2FHcHhteGNSMVdDODNqZkt1QlE?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T12:47:24+08:00"
-    },
-    {
-      "title": "Measles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDdtX2lUeUJSeWEyNzJlSHBmT09VYVVlS0RNOTFhTW5wMVBfRVU1MUk0aDAzUHJJSVQ4Z0xwV1FyeHBmS3JxM29heXdfY2IyeFJxX1kyU0pQZlRSSG9fWXY2UTItX0tNT1BVeWRINXo3WXZuRVo0VUdYMXZEeVJKblBPVERTZm1qelFZWDZyeXAzaFhFN1F0SnpHZlZ2cV9aakVTMXpDdTdKVjVndG9z?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T12:42:34+08:00"
     },
     {
       "title": "Shailene Woodley Found Out Her 'Amazing Spider-Man 2' Mary Jane Scenes Were Cut a Year After Filming - Variety",
@@ -159,18 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cm2r9n2mrp8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T12:30:27+08:00"
-    },
-    {
-      "title": "Judge throws out confession by alleged 9/11 mastermind Khalid Sheikh Mohammed - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ0lEUzY5SDEwb3NnelowQlR6czlfZW9wSlJFcVo3eHFsNlh3TUtKUndiZWM1cmJFb2ZxSXVKbUF2dXZZUzAwNU5LQnNURmhoZ0ppZUpwVFdtWWxVS2hNTUdfMjJ3c0E5YTk2VUpxVUtRVlBMQVl3a1Z0OUR2TUtNUjEybEYyNi1kaDlWNFdrOVVDQ0dRbXVKYUtPdGdpUGZlakg3ZkdB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T12:21:00+08:00"
-    },
-    {
-      "title": "OpenAI says it's ending its deal with Cursor because Elon Musk's companies violate contracts - Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSDJrSTF4N1dNX0paYUVuMmE4dnBQSWlxU0U4bzdJSF9FSG44VExZdktHRDA5RW1BeXE5YmFtQXBxa1ozSVh5aTUydk1xaGFtZkp0ZkQtZk1Bb0VMMDh4SnFqN0V1QmlSUEdwaWZYMWtSTDIyZ2JPOHpBakhJS1I4RlZNdGUycGhnb1JxX1RlQnNULVdha3JTaUJ0ZEdBTFNx?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T11:57:00+08:00"
     }
   ]
 }
