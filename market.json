@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-29T08:19:31.424390+08:00",
+  "generatedAt": "2026-08-29T08:51:28.414385+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610414.56,
-      "changePct": -3.17
+      "priceHkd": 609607.04,
+      "changePct": -3.32
     },
     "ETH": {
-      "priceHkd": 19159.24,
-      "changePct": -2.77
+      "priceHkd": 19150.85,
+      "changePct": -2.87
     },
     "SOL": {
-      "priceHkd": 818.57,
-      "changePct": -4.77
+      "priceHkd": 815.52,
+      "changePct": -5.03
     }
   },
   "stocks": {
@@ -53,6 +53,36 @@
   },
   "news": [
     {
+      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T08:46:02+08:00"
+    },
+    {
+      "title": "How 'Book Queen' Dolly Parton inspired millions of children with gift of reading",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T08:35:04+08:00"
+    },
+    {
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T08:32:17+08:00"
+    },
+    {
+      "title": "US and Venezuela reach 'historic' oil deal, Trump says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T08:25:07+08:00"
+    },
+    {
+      "title": "Nashville airport may be renamed to honor Dolly Parton - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRUMHlMUE1jMWYxTnRlSmpPQkFaVGtQckEtbFNfUXBzQ1ZWVUlSRXU2aTB2MnpSSU5EVnAwRC1ldWtKWkJtVVp3RUhBTS1RQWNFR2kyREUtY25oRXp3TURLMW9RQ0JtNkdJT0xxbTJ4MHFkZl9VZko3WmRmeEFzRTg1eDFmTEVxOUdXUmxIcHM1WmY1N3UxWXVDb3NQYWlCSk00?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T08:24:10+08:00"
+    },
+    {
       "title": "What tariffs will really cost Canadians and Americans",
       "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -65,22 +95,10 @@
       "time": "2026-08-29T08:06:39+08:00"
     },
     {
-      "title": "Nepal floods latest: Number of people missing jumps significantly to nearly 2,000 - follow live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLbUtMdk1URW85dDFFNUxZMExRX3lrdmFKNzd0dUoxVllfMFpBbG9kVFRTNWExQlpsTExJT1JGYmIwVzAwSm9XM0pKQm5Xa2lOdUM3VEln?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T08:03:00+08:00"
-    },
-    {
       "title": "Measles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDdtX2lUeUJSeWEyNzJlSHBmT09VYVVlS0RNOTFhTW5wMVBfRVU1MUk0aDAzUHJJSVQ4Z0xwV1FyeHBmS3JxM29heXdfY2IyeFJxX1kyU0pQZlRSSG9fWXY2UTItX0tNT1BVeWRINXo3WXZuRVo0VUdYMXZEeVJKblBPVERTZm1qelFZWDZyeXAzaFhFN1F0SnpHZlZ2cV9aakVTMXpDdTdKVjVndG9z?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T08:02:32+08:00"
-    },
-    {
-      "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T07:54:19+08:00"
     },
     {
       "title": "Canada poaches dozens of top US researchers for its universities",
@@ -89,10 +107,28 @@
       "time": "2026-08-29T07:47:38+08:00"
     },
     {
-      "title": "Fantasy football 2026 rankings, draft prep: Model releases best QB, RB, WR, TE picks, cheat sheets, tiers - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSlp1UVJhZldDM2Y5WlpXdmZuUHdweHJKMGdHdVJIODR2azc5aXZWNWxOSmRFUTdHZWpwTXgzVU1QZDJRSlFfTkZJa0d3QXFWd1VJYmpzRzNLZzM4dXlWYi15N05LenNMWkZseVkwbHpXNWlfZ19OUk8yWWhMQVR4clVwZXF0dGdHYnNCanlxeVdrUkctU2M0cnJoN2FpT2tRS1ZacTVUazZjdlJTQUVkc1ZXUnlKWVhmdG5EV015akV4dXowVHB2dFlBNUdaVXlPa3ZyREpBek43ZVl1c1d1cw?oc=5",
+      "title": "Survivors say Nepal-China flooding hit ‘like a tsunami’ as rescuers fear fresh deluge - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T07:07:45+08:00"
+      "time": "2026-08-29T07:01:00+08:00"
+    },
+    {
+      "title": "British far-right provocateur Milo Yiannopoulos detained by ICE - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxjcFc3WTRjX0tnRWJSU1hDUnNCODh1cm5oSm5IVFZEbkloOC1TMWlpamVKbjBsZ0ZCTWFSNWg5YVFRSndheTFNN2NmUGFEcnprUmRPcWMyTzBsMjRFZnlXc0NmRXJmRTA0ZkpIWFZ2YWFQQ2V4VXBEUzBzQk8wWTcwc3RkMERCcVRFNTg1bHppOGZrczRqakZhQWplajVEX1N4Z25pdHBwWTg5czhpeVNqNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T06:55:50+08:00"
+    },
+    {
+      "title": "Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T06:42:00+08:00"
+    },
+    {
+      "title": "Trump seeks vast, potentially costly U.S. stake in Venezuelan oil industry - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjd6UjZsY3dQMU9aQlhpdlJnVThVYzdPRTNOXzJjMjVTN09NdnlvV2JYdmh6YlR4aXlpSjd2VFNxMkVaQl92S19sSFRZZ3FwUi13MTRnNWltMmk0dENxOFVUNFE3U1VTMzcteURHUnBQRW53TFNKRUg5bUJaTm1ndC0yVldFQzhWaTd4UnVac1V5M21xNV9DcGpPT0xNTzBjQXBOVHVqOXZiaXk3bnk0MnJnVFR1Y1UxeS14Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T06:29:00+08:00"
     },
     {
       "title": "Trump attacks New York Times over report on 9/11 remembrance plans - The Hill",
@@ -119,16 +155,10 @@
       "time": "2026-08-29T06:05:41+08:00"
     },
     {
-      "title": "Nashville airport may be renamed to honor Dolly Parton - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRUMHlMUE1jMWYxTnRlSmpPQkFaVGtQckEtbFNfUXBzQ1ZWVUlSRXU2aTB2MnpSSU5EVnAwRC1ldWtKWkJtVVp3RUhBTS1RQWNFR2kyREUtY25oRXp3TURLMW9RQ0JtNkdJT0xxbTJ4MHFkZl9VZko3WmRmeEFzRTg1eDFmTEVxOUdXUmxIcHM1WmY1N3UxWXVDb3NQYWlCSk00?oc=5",
+      "title": "Avalanche's Makar agrees to record deal worth $20.4 annually - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlpmRG5LVDRLcHlhaHRtR2NNeDc1YVZTWWFTVjU0bHFucXNlQTB0ZGU5NGRzTnRsM3QyS0VoQ2JNaGxSQmlFaWd4SFY3YWc3ZXdKSXIweHNQaXY4OVpzSlVsVlh1bHEzd1ZnSkROYzVJM1NaWWhYVGt1MXlCTUIxZ19MSTBJYVZ6SkZxSUdnWm9ieC1nNHVmSFJqS0c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T05:57:03+08:00"
-    },
-    {
-      "title": "'Jolene' surges after Dolly Parton’s death as fans stream her biggest hits - WYFF",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVFXTExKM1RMNE9LYjRpWTdQdTl6WXpBVFpHby1HS2FsNFRpMUlmXzE5MHd4QW9jVXZjb1lHbkhqVlUycENkOGpheWlLRmoydEJJcVRUZ2dQTm8yZl9Uc0tJUWhiSTJ1XzB1WWdfN3VYa2FJczNnTGRnVEMwMjI5NDV3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T05:55:00+08:00"
+      "time": "2026-08-29T05:45:00+08:00"
     },
     {
       "title": "Berlin is being blackmailed by hackers, mayor says",
@@ -141,36 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T05:17:56+08:00"
-    },
-    {
-      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
-      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T05:17:54+08:00"
-    },
-    {
-      "title": "Lindsay Clancy jury sent home for weekend; Deliberations resume Monday - WCVB",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORjJIcjJyV093S1JjRngyV0pFNmpoWnJFMnlqZ2YzdkNFWWh2Nlp1dkZIcTh2UTFqY3VWNmdXclpjbGdwQnZZS0Zic3FiYjVfUjc3RFROYnpKVWI5TXQ1Q1BPc25uQVVlV21weGdVWk9zanQ5d0ZPdVdzWnlvcUZ4WmJtS2w?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T05:16:00+08:00"
-    },
-    {
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T05:01:39+08:00"
-    },
-    {
-      "title": "Judge Throws Out Key 9/11 Confession as Tainted by Torture - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3BuQnNEWUdFQkhsSzBTbk1fLWVISVVqZTUwSk1qUFViN0lNQW5RRVZYRENZM0xMdTFaQW1QOFpjNUptVUR4ZWtlNF90ejA5SWM5QjYzdmhIZEM5eDQyYUQwaWhNVWxMaW4tamJJSmMwdXRBaUVJSEpWYmVWbzNQTUpkMWh3T1U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T04:50:31+08:00"
-    },
-    {
-      "title": "Woman accused of defacing WWII Memorial with spray paint indicted by federal grand jury - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXV6ZEdWYTlBMlpDRjAtMllqRVZyR3hMN3VZbXNUc0M0X3NYVjVZTWtRR0tDaVdfVGh5N0V4cXJfR0VRbnF5aUo2bjJSV1BtX3hwOF9ZbXpoV2VsMVpnYzhhaWdseGR4YjRrNWs5RXozbDh5NG5TaFF3VXQ4anBMRTNheUhCZkc3THFzV0t2NEowMDVCTWVSQ01nVnRjU3NRTURCS1FzUHNOcTRQcEHSAbMBQVVfeXFMT0gtdE13M3ZZMlFCNzNROGF6LXV1bnRsYTdTN001b3JKNDRXMFpYZy1XallwZU9ERThwdTM3dm1nMmp3c21mZGJ2NEYtTUJ4OG9iMEhid0VmaXRpM1poOEpwNFVLamp4VWVCam1ReWg1dkpEaVNpNFc5UWppc1Q3a1RZSXRHc2VudXFBdnktZFMzVkQyeGl2OV9mOVNaMjZ4Wi1hd2RFVWhYUjhiYlJUbldYbzQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T04:43:31+08:00"
     }
   ]
 }
