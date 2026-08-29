@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T08:51:27.689707+08:00",
+  "generatedAt": "2026-08-29T09:23:02.754530+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -107,7 +107,7 @@
           "author": "evilmoni",
           "time": "2026-08-29T06:11:22+08:00"
         },
-        "commits30d": 54,
+        "commits30d": 53,
         "totalCommits": 148,
         "branch": "main",
         "uncommittedChanges": 0,
@@ -204,13 +204,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 60,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "No commits in 7 days"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Review roadmap & commit next milestone"
         ]
       },
       "phase": "Option B - Full Build",
@@ -272,8 +274,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-29T08:38:27.045063+08:00",
-        "next_run": "2026-08-29T09:08:27.045063+08:00"
+        "last_run": "2026-08-29T09:09:23.552758+08:00",
+        "next_run": "2026-08-29T09:39:23.552758+08:00"
       },
       {
         "id": "539a150ac028",
@@ -290,26 +292,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-29T08:19:55.379565+08:00",
-        "next_run": "2026-08-29T09:20:09.286940+08:00"
-      },
-      {
-        "id": "86ade63f1ada",
-        "enabled": true,
-        "name": "Afternoon Briefing (3 PM)",
-        "schedule": "0 15 * * 1-6",
-        "last_status": "error",
-        "last_run": "2026-08-28T15:07:32.696761+08:00",
-        "next_run": "2026-08-29T15:00:00+08:00"
-      },
-      {
-        "id": "3a29f6419e7a",
-        "enabled": true,
-        "name": "Evening Briefing (9 PM)",
-        "schedule": "0 21 * * 1-6",
-        "last_status": "error",
-        "last_run": "2026-08-28T21:47:49.209185+08:00",
-        "next_run": "2026-08-29T21:00:00+08:00"
+        "last_run": "2026-08-29T08:51:45.176913+08:00",
+        "next_run": "2026-08-29T09:52:12.925786+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -317,8 +301,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-29T08:26:06.950576+08:00",
-        "next_run": "2026-08-29T08:56:06.950576+08:00"
+        "last_run": "2026-08-29T08:56:15.574628+08:00",
+        "next_run": "2026-08-29T09:26:15.574628+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -326,8 +310,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-29T08:47:09.639109+08:00",
-        "next_run": "2026-08-29T08:57:09.639109+08:00"
+        "last_run": "2026-08-29T09:17:12.707321+08:00",
+        "next_run": "2026-08-29T09:27:12.707321+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -348,22 +332,13 @@
         "next_run": "2026-08-31T09:00:00+08:00"
       },
       {
-        "id": "95f26306135b",
-        "enabled": true,
-        "name": "TechWealth Daily Autonomous Workflow",
-        "schedule": "0 14 * * 1-6",
-        "last_status": "error",
-        "last_run": "2026-08-28T14:07:23.663789+08:00",
-        "next_run": "2026-08-29T14:00:00+08:00"
-      },
-      {
         "id": "e7c5bf794690",
         "enabled": true,
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-28T18:08:49.371256+08:00",
-        "next_run": "2026-08-29T09:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-08-29T09:01:44.674427+08:00",
+        "next_run": "2026-08-29T12:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -371,8 +346,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-29T08:50:10.835478+08:00",
-        "next_run": "2026-08-29T09:05:10.835478+08:00"
+        "last_run": "2026-08-29T09:20:13.451472+08:00",
+        "next_run": "2026-08-29T09:35:13.451472+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -420,24 +395,6 @@
         "next_run": "2026-08-31T09:00:00+08:00"
       },
       {
-        "id": "17f3539d6cab",
-        "enabled": true,
-        "name": "Dr. Demi Daily Health Check-in",
-        "schedule": "0 12 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-28T12:07:10.029007+08:00",
-        "next_run": "2026-08-29T12:00:00+08:00"
-      },
-      {
-        "id": "bcc466ef708e",
-        "enabled": true,
-        "name": "Hair Treatment Reminder",
-        "schedule": "0 19 * * 2,5",
-        "last_status": "error",
-        "last_run": "2026-08-28T21:37:47.949163+08:00",
-        "next_run": "2026-09-01T19:00:00+08:00"
-      },
-      {
         "id": "44edb0b837a4",
         "enabled": true,
         "name": "Weekly Health & Training Check",
@@ -463,15 +420,6 @@
         "last_status": "ok",
         "last_run": "2026-08-29T06:11:32.474738+08:00",
         "next_run": "2026-08-31T06:00:00+08:00"
-      },
-      {
-        "id": "28808f8c4aa7",
-        "enabled": true,
-        "name": "Nightly Task Check-In",
-        "schedule": "30 23 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-29T00:31:52.889839+08:00",
-        "next_run": "2026-08-29T23:30:00+08:00"
       },
       {
         "id": "537154b2525d",
@@ -501,15 +449,6 @@
         "next_run": "2026-08-30T06:00:00+08:00"
       },
       {
-        "id": "bd1138e5a2f0",
-        "enabled": true,
-        "name": "AI Research Buddy — nightly compounding loop",
-        "schedule": "0 2 * * *",
-        "last_status": "error",
-        "last_run": "2026-08-29T02:35:25.247302+08:00",
-        "next_run": "2026-08-30T02:00:00+08:00"
-      },
-      {
         "id": "1dabab689e0e",
         "enabled": true,
         "name": "Weekly Strategy Review",
@@ -535,10 +474,73 @@
         "last_status": "ok",
         "last_run": "2026-08-29T03:48:35.504363+08:00",
         "next_run": "2026-08-29T09:48:35.504363+08:00"
+      },
+      {
+        "id": "871bc45fb59e",
+        "enabled": true,
+        "name": "Afternoon Briefing (3 PM)",
+        "schedule": "0 15 * * 1-6",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-29T15:00:00+08:00"
+      },
+      {
+        "id": "b8004ba1be5e",
+        "enabled": true,
+        "name": "Evening Briefing (9 PM)",
+        "schedule": "0 21 * * 1-6",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-29T21:00:00+08:00"
+      },
+      {
+        "id": "b00f8468d84c",
+        "enabled": true,
+        "name": "TechWealth Daily Autonomous Workflow",
+        "schedule": "0 14 * * 1-6",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-29T14:00:00+08:00"
+      },
+      {
+        "id": "bd1dd707602f",
+        "enabled": true,
+        "name": "Dr. Demi Daily Health Check-in",
+        "schedule": "0 12 * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-29T12:00:00+08:00"
+      },
+      {
+        "id": "bce776afea97",
+        "enabled": true,
+        "name": "Hair Treatment Reminder",
+        "schedule": "0 19 * * 2,5",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-01T19:00:00+08:00"
+      },
+      {
+        "id": "f88996d159bb",
+        "enabled": true,
+        "name": "Nightly Task Check-In",
+        "schedule": "30 23 * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-29T23:30:00+08:00"
+      },
+      {
+        "id": "0db1bb42a905",
+        "enabled": true,
+        "name": "AI Research Buddy — nightly compounding loop",
+        "schedule": "0 2 * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-30T02:00:00+08:00"
       }
     ],
     "total": 31,
-    "healthy": 19
+    "healthy": 20
   },
   "agents": {
     "hermes": {
@@ -562,44 +564,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        5.25,
-        6.58,
-        6.06
+        2.58,
+        2.56,
+        3.2
       ],
-      "usage": "65.1%"
+      "usage": "16.3%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 37.3
+      "usedPct": 37.4
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "57.2",
-        "mem": "0.8",
-        "name": "Google Chrome Helper (Renderer"
-      },
-      {
-        "cpu": "46.5",
+        "cpu": "17.6",
         "mem": "1.2",
         "name": "Planet VPN"
       },
       {
-        "cpu": "20.5",
-        "mem": "1.7",
-        "name": "Google Chrome Helper (Renderer"
-      },
-      {
-        "cpu": "10.6",
-        "mem": "1.8",
-        "name": "Google Chrome"
-      },
-      {
-        "cpu": "10.6",
+        "cpu": "5.5",
         "mem": "0.9",
         "name": "WindowServer"
+      },
+      {
+        "cpu": "2.0",
+        "mem": "0.1",
+        "name": "python3"
+      },
+      {
+        "cpu": "0.8",
+        "mem": "0.0",
+        "name": "sysmond"
+      },
+      {
+        "cpu": "0.1",
+        "mem": "0.0",
+        "name": "notifyd"
       }
     ]
   },
@@ -1275,16 +1277,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-29T08:51:26.103343+08:00",
+    "generatedAt": "2026-08-29T09:23:02.383786+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 29.3,
-          "code": 2,
-          "precip": 0.0,
-          "wind": 2.8,
-          "time": "2026-08-29T08:45"
+          "temp": 29.2,
+          "code": 96,
+          "precip": 0.4,
+          "wind": 5.9,
+          "time": "2026-08-29T09:15"
         },
         "daily": [
           {
@@ -1313,11 +1315,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 29.4,
-          "code": 2,
-          "precip": 0.0,
-          "wind": 3.8,
-          "time": "2026-08-29T08:45"
+          "temp": 30.0,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 4.8,
+          "time": "2026-08-29T09:15"
         },
         "daily": [
           {
@@ -1353,14 +1355,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-29T08:51:27.689408+08:00",
+      "time": "2026-08-29T09:23:02.754380+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-29T08:51:27.689408+08:00",
+      "time": "2026-08-29T09:23:02.754380+08:00",
       "type": "info",
-      "text": "⏰ Cron: 19/31 jobs healthy"
+      "text": "⏰ Cron: 20/31 jobs healthy"
     },
     {
       "time": "2026-08-29T06:11:22+08:00",
@@ -1396,7 +1398,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 31,
-    "healthyCronJobs": 19,
+    "healthyCronJobs": 20,
     "avgProgress": 68
   }
 }

@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-29T08:51:28.414385+08:00",
+  "generatedAt": "2026-08-29T09:23:02.866757+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609607.04,
-      "changePct": -3.32
+      "priceHkd": 609168.0,
+      "changePct": -4.13
     },
     "ETH": {
-      "priceHkd": 19150.85,
-      "changePct": -2.87
+      "priceHkd": 19138.93,
+      "changePct": -3.4
     },
     "SOL": {
-      "priceHkd": 815.52,
-      "changePct": -5.03
+      "priceHkd": 814.89,
+      "changePct": -5.01
     }
   },
   "stocks": {
@@ -53,6 +53,24 @@
   },
   "news": [
     {
+      "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T09:21:43+08:00"
+    },
+    {
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T09:14:13+08:00"
+    },
+    {
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-29T08:56:19+08:00"
+    },
+    {
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -71,16 +89,10 @@
       "time": "2026-08-29T08:32:17+08:00"
     },
     {
-      "title": "US and Venezuela reach 'historic' oil deal, Trump says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T08:25:07+08:00"
-    },
-    {
-      "title": "Nashville airport may be renamed to honor Dolly Parton - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkRUMHlMUE1jMWYxTnRlSmpPQkFaVGtQckEtbFNfUXBzQ1ZWVUlSRXU2aTB2MnpSSU5EVnAwRC1ldWtKWkJtVVp3RUhBTS1RQWNFR2kyREUtY25oRXp3TURLMW9RQ0JtNkdJT0xxbTJ4MHFkZl9VZko3WmRmeEFzRTg1eDFmTEVxOUdXUmxIcHM1WmY1N3UxWXVDb3NQYWlCSk00?oc=5",
+      "title": "Live updates: More than 2,500 still missing after flooding at Nepal-China border - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T08:24:10+08:00"
+      "time": "2026-08-29T08:31:00+08:00"
     },
     {
       "title": "What tariffs will really cost Canadians and Americans",
@@ -101,40 +113,34 @@
       "time": "2026-08-29T08:02:32+08:00"
     },
     {
+      "title": "Trump secures vast, potentially costly U.S. stake in Venezuelan oil industry - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjd6UjZsY3dQMU9aQlhpdlJnVThVYzdPRTNOXzJjMjVTN09NdnlvV2JYdmh6YlR4aXlpSjd2VFNxMkVaQl92S19sSFRZZ3FwUi13MTRnNWltMmk0dENxOFVUNFE3U1VTMzcteURHUnBQRW53TFNKRUg5bUJaTm1ndC0yVldFQzhWaTd4UnVac1V5M21xNV9DcGpPT0xNTzBjQXBOVHVqOXZiaXk3bnk0MnJnVFR1Y1UxeS14Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T07:59:00+08:00"
+    },
+    {
       "title": "Canada poaches dozens of top US researchers for its universities",
       "link": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T07:47:38+08:00"
     },
     {
-      "title": "Survivors say Nepal-China flooding hit ‘like a tsunami’ as rescuers fear fresh deluge - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mWUwyT3BheHdIMldlZV85S2FtQVM2akI4TTVZX3psal95T3NuRFgwRF80VFI0OTFLUFAzNmFfWTJsV1RVLXRKUVZORXJscjV4MnRKWHJwREZwNERtTlg0ZGRPZENQWG5USlNnWTMzSUd0dw?oc=5",
+      "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T07:01:00+08:00"
+      "time": "2026-08-29T07:21:06+08:00"
     },
     {
-      "title": "British far-right provocateur Milo Yiannopoulos detained by ICE - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxjcFc3WTRjX0tnRWJSU1hDUnNCODh1cm5oSm5IVFZEbkloOC1TMWlpamVKbjBsZ0ZCTWFSNWg5YVFRSndheTFNN2NmUGFEcnprUmRPcWMyTzBsMjRFZnlXc0NmRXJmRTA0ZkpIWFZ2YWFQQ2V4VXBEUzBzQk8wWTcwc3RkMERCcVRFNTg1bHppOGZrczRqakZhQWplajVEX1N4Z25pdHBwWTg5czhpeVNqNA?oc=5",
+      "title": "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNllKNkpGTzVjd0Y4NDExQm9CRHZ4bXdOUzdQUk9ySlAtQzlkd2dxR0JCT2lUckZScjRMQ0JGQW5Fc0w3cVliRElJZHJHTTNubU52VFlPQmlwdS1FNkdlR0Nvb2tWUWdKMC1SQnp6cFNnSkZiRExnaTVJY3RKRXp6VVBOdUs3aGtRUWh2MXNrVjlVZFBqYklLaHZuMXBXQk0?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T06:55:50+08:00"
+      "time": "2026-08-29T07:10:00+08:00"
     },
     {
-      "title": "Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5",
+      "title": "Agent Explains Why Jonathan Kuminga Chose Timberwolves - Hoops Rumors",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR3gxbUtqd1pZcUJWX296Y1hmVXI0bW5ZaXI4LTItSUdybW4yQ0hZZVJDamk5TjZpZnpjb29jQ0NYRzh0akMzLW5PNERMcGFaUFF6X3JZdkktQTAzc25qS2dBM2Y4bjN0bWhHY21BYnhyNS1sSVJEMWlvWm1aRmxfcHREcFRBcWI3OXBVSzBqRWZjVGY1WW8w?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T06:42:00+08:00"
-    },
-    {
-      "title": "Trump seeks vast, potentially costly U.S. stake in Venezuelan oil industry - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjd6UjZsY3dQMU9aQlhpdlJnVThVYzdPRTNOXzJjMjVTN09NdnlvV2JYdmh6YlR4aXlpSjd2VFNxMkVaQl92S19sSFRZZ3FwUi13MTRnNWltMmk0dENxOFVUNFE3U1VTMzcteURHUnBQRW53TFNKRUg5bUJaTm1ndC0yVldFQzhWaTd4UnVac1V5M21xNV9DcGpPT0xNTzBjQXBOVHVqOXZiaXk3bnk0MnJnVFR1Y1UxeS14Zw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T06:29:00+08:00"
-    },
-    {
-      "title": "Trump attacks New York Times over report on 9/11 remembrance plans - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkFsa2VmbHVscTdDcHpnY2FTYkhJaTlTbzFXNV92c09OYjJvbmxCVTNlZzQtQTZyeGxQbV9uOGt4VGxxUmM1SzBuQXd0M2FXcm1uRXc0ZTh1UHVZMFhBRjN0TWc4OG5nQzJTQTVpZDZmeFNqSWxfRWRTeTROWktjS09qb0RFYWFsMWk1SXlOVUtqUdIBlwFBVV95cUxPT1pWTTNRZnM3bG9CUGdFdFRJaGxSNkxtbUNvUUh2R0NNX1d2YzJkdzhvWEhHc1E2VGp1UHdYSnNjd3lnUXdtazhFN0NqM2RsZEFrTGdZMGdCV2NraHAxOHgyanhXVzQycmNnQ25hTkJpMXN4dFNBMXl3ek4wN0hZd2ZjY2k0MkZyZjJCZUcwcElGejFUYllF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T06:25:00+08:00"
+      "time": "2026-08-29T07:07:45+08:00"
     },
     {
       "title": "Jerry Sandusky speaks from Pennsylvania prison ahead of court hearing: 'I am an innocent man' | EXCLUSIVE - 6abc Philadelphia",
@@ -161,16 +167,10 @@
       "time": "2026-08-29T05:45:00+08:00"
     },
     {
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "link": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-29T05:29:01+08:00"
-    },
-    {
-      "title": "See photos of last night’s stunning partial lunar eclipse - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanNoN0pWT1dzd0R2SzROcWFNU3l0YnJaRmNlSENYX3Z6V3FGZEF3TVhTTTFqU1Vnck5mc2VIeHd6X0xyQk5LQVd0bUgwUHFHTkdta1NxOGQya0Z4SllTSElRLXV3SlFfa0JhWnJfQ21zU2tmQ3JZVU9aTWJFRHBYVEI2ejNmOE1rMTlrUG16Y21rMm5VeHlLaGJ2QWRzQ2pQ?oc=5",
+      "title": "Trump’s Record of Deluded War Boasts Comes Back to Bite Him - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVHRBSWh1ZHFQdWkzRFdLTFQ5S1QtUlkzZG4xYU9zNnRiT0pIY3hPNDc4amNNUzRMekppOWZsTmZZRUdTcEE1dkhLUGRqYjFuX1VhVlFvNElpN3RmU0JYTmNXd0VrbWphTl93S2tRbzBGb3FHUGRKNkFKOWVBcFpCSlFEQlhEbXBYVW1xVWtPRG8yYUk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T05:17:56+08:00"
+      "time": "2026-08-29T05:37:00+08:00"
     }
   ]
 }
