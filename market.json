@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-29T10:58:17.050893+08:00",
+  "generatedAt": "2026-08-29T11:29:40.045033+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608956.32,
-      "changePct": -2.81
+      "priceHkd": 608964.16,
+      "changePct": -2.86
     },
     "ETH": {
-      "priceHkd": 19118.86,
-      "changePct": -2.11
+      "priceHkd": 19129.6,
+      "changePct": -2.15
     },
     "SOL": {
-      "priceHkd": 815.2,
-      "changePct": -2.38
+      "priceHkd": 815.28,
+      "changePct": -2.73
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1123.29,
-      "priceUsdOz": 4456.4
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.76,
-      "priceUsdOz": 66.5
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
@@ -53,6 +53,12 @@
   },
   "news": [
     {
+      "title": "Measles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDdtX2lUeUJSeWEyNzJlSHBmT09VYVVlS0RNOTFhTW5wMVBfRVU1MUk0aDAzUHJJSVQ4Z0xwV1FyeHBmS3JxM29heXdfY2IyeFJxX1kyU0pQZlRSSG9fWXY2UTItX0tNT1BVeWRINXo3WXZuRVo0VUdYMXZEeVJKblBPVERTZm1qelFZWDZyeXAzaFhFN1F0SnpHZlZ2cV9aakVTMXpDdTdKVjVndG9z?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T11:02:32+08:00"
+    },
+    {
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -65,22 +71,22 @@
       "time": "2026-08-29T10:22:00+08:00"
     },
     {
-      "title": "Measles’ role in child’s death ignites fight between RFK Jr. and Pennsylvania governor - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDdtX2lUeUJSeWEyNzJlSHBmT09VYVVlS0RNOTFhTW5wMVBfRVU1MUk0aDAzUHJJSVQ4Z0xwV1FyeHBmS3JxM29heXdfY2IyeFJxX1kyU0pQZlRSSG9fWXY2UTItX0tNT1BVeWRINXo3WXZuRVo0VUdYMXZEeVJKblBPVERTZm1qelFZWDZyeXAzaFhFN1F0SnpHZlZ2cV9aakVTMXpDdTdKVjVndG9z?oc=5",
+      "title": "Apple implements price hikes for its TV streaming service and 'One' subscription bundle - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTDFRQ1p0aURpdWM0UmdDY1d3MTB4c2VzRVJmYVV3XzdveG0wWTVJeGVNZEhUZXdRbmZpZ0ZoeGZBaGFGc1JUdHV6LVR2VHViTGVhTmxfZVJlc29kU3dvOUFRcGJKODY3Mk1PSWFUbzFwbEpGVWt1ZUNDN2hqNXhPYjBNVnRyYmRIWHVGV0J2Qm5jX0gtbVBncFFjc2VDd21nSy1ncDk3UDF4QjM2a0tySTd30gG3AUFVX3lxTE12MUduUkV3WE1vX3hNSWt2SEJzd0RKRW5qbHVJQTRGNE9UMldvSFZPOXR6S2JKNEtxU3I0QXBLR0RWN0Rlb0YxbGxMT2tsZ3VmSzg0SG5mWFZsMVJVWW5QNlN6WHVEbjNUUkZvTjVxUlJQajRPZmE3MktFT25lbTVJSXc1NWpVUkxaMVhUeTdMRkxkRnFsMFE4R0thSGowMHFJRHBSMG5CT01oZUxkdDJRSWIzMlM1NA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T09:32:32+08:00"
+      "time": "2026-08-29T10:09:00+08:00"
     },
     {
-      "title": "Fantasy football rankings 2026: Sleepers, breakouts, busts from computer that hit Daniel Jones' surprise year - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQS3QyUEhSekNuUGhTMkx4LURySlBuV3MzRDVfdElIYUFDaDBIeUhsekhOUWhSdTVpNEhJUkdKUWVwYWF3VHFTWFlJN0FreklDNUYzYXVXQ0RubkVPaGJUT3ZQejgwQ1lnVVk1Q2hjQzhIeFVzOEZtMVFYV2QxbEZmZlRyaTI2aUN4eFdidHBqYndyZWlmcWF4TmVxeU9XaTFxMXpuODl1dW9pcUdRNF9ObkNzTGwxbHk0bnNvWmd6MnFYV0paSURzR2hDLWwza2pDZF8ySlhSSFV3d01XclptQWJpMzVHc1hHbEE?oc=5",
+      "title": "Trump says he’ll visit Pentagon, rather than Ground Zero, for 9/11 ceremony - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeFlJa1dtcjlKMlZCRjFrbDFBc0hYS245V3p6MUtJLUtwQV9Xdkd5SGwtLXktWlFBNzI0Mm9jS2lEcU92cnFJV3FVWGxJb0FsVko0dWdwWm9PWEZYU3Jla2RQYW1laVpXZ0dlLTNOSEZnakw3RlZhNVNnTG5scDQwWm9MalRrc3dVUzRxTTdabVAzUWE1c1YybGlPVU54eWsyYUdyMXFmcEhqclhHSC1tcER2U3daQnV2?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T09:24:44+08:00"
+      "time": "2026-08-29T09:50:00+08:00"
     },
     {
-      "title": "Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNllKNkpGTzVjd0Y4NDExQm9CRHZ4bXdOUzdQUk9ySlAtQzlkd2dxR0JCT2lUckZScjRMQ0JGQW5Fc0w3cVliRElJZHJHTTNubU52VFlPQmlwdS1FNkdlR0Nvb2tWUWdKMC1SQnp6cFNnSkZiRExnaTVJY3RKRXp6VVBOdUs3aGtRUWh2MXNrVjlVZFBqYklLaHZuMXBXQk0?oc=5",
+      "title": "Trump says he has secured a vast U.S. stake in Venezuelan oil industry - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjd6UjZsY3dQMU9aQlhpdlJnVThVYzdPRTNOXzJjMjVTN09NdnlvV2JYdmh6YlR4aXlpSjd2VFNxMkVaQl92S19sSFRZZ3FwUi13MTRnNWltMmk0dENxOFVUNFE3U1VTMzcteURHUnBQRW53TFNKRUg5bUJaTm1ndC0yVldFQzhWaTd4UnVac1V5M21xNV9DcGpPT0xNTzBjQXBOVHVqOXZiaXk3bnk0MnJnVFR1Y1UxeS14Zw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T09:23:00+08:00"
+      "time": "2026-08-29T09:43:29+08:00"
     },
     {
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
@@ -95,6 +101,12 @@
       "time": "2026-08-29T08:56:19+08:00"
     },
     {
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MaTA3eTdRS1V5aHdEUl9jZTgwanpVVXJRMjJkZG1RMk5uZkEzMHBMcjFvMVZybE9mN1VLcVJGeHhiRzh2MnU4TVNmbmQ1YVlkT1pia3lRSDhLUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T08:56:19+08:00"
+    },
+    {
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -105,6 +117,12 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04NENlMDhkZEJXMFhydkhpZTl2VGo4U3ZlQS15MkRkQTUtaXJOajV6bzU5Q2tYb1ZldFQyR25lbENEVkFDQkVVckNXSWZZUl9FelMyeHVpWE56QQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T08:46:02+08:00"
+    },
+    {
+      "title": "Jelly Roll Clarifies Political Views, Regrets Not Taking “Opportunity to Speak Up” at Grammys - hollywoodreporter.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVdDeVZfY1ZhODBpVXdqbUlELVBZY1pHMU9feFY3dGIzeWxxUHRlNjlLMHZCelF3YWZZNEk1a25Gc3BqWlhJMnRGYVU2cGRwaGVqREV0NUl3bFhGNUdhV3MtUlRrNFRyUzc3eWtoTHl5aExPSWc5V0ZWOXZqYUU0Um1YckxDc2I3bTUyV2VxbUtXbHhzZkVQM3NiQkJXQ0dXaERKV2REM08zSUpLakFCNlR4MA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-29T08:43:22+08:00"
     },
     {
       "title": "Live Updates: Iran war hits 6-month mark with no end in sight - CBS News",
@@ -125,28 +143,16 @@
       "time": "2026-08-29T08:32:17+08:00"
     },
     {
-      "title": "How Lindsay Clancy sought help before she killed her three children - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXy1xSGowWWlZQTItU19DOU1zMFRwTGVROWZpb3NISXhmWjJNdjNzNHRvMU9EMFJwanBNLXNIV3ZpXy0zRVlPU1V1R3Z3UWU1VVdZbDV2N0pXcHNWVFdTeV9ibXJxTEdxV2dmV0pDRFZQVGNNTWF5bDAxLTlpVXA3OVdlbTNVT2lmS3lFUzFybGZka3hMeEYxZEY5eEFTY0dFU01TQ0ZrWXA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T08:27:00+08:00"
-    },
-    {
       "title": "What tariffs will really cost Canadians and Americans",
       "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-29T08:15:19+08:00"
     },
     {
-      "title": "The labor market was weaker early in Trump’s term, data shows - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdlBmMU5rMVF4NWFXWnQ5cjhMdzFEWDV2Y2gxQmtqY0Q3VzQzSEhQMER5dUUyTk41VGx5MUNyeG5RRGtSNUxOVFdKR21oampxY3NZSnNtRUN1djlDZWRKZzV0elFSVDBnWDhaS1dnU0FMWUlZRDNIYWVNN2loUk1FNmZVWGNxVmdSaXk2RzlVeWtCRE1oejc0UWVNbjFaRjRJTzRnTTk4OA?oc=5",
+      "title": "A former Indiana football star had fallen on hard times. A chance encounter with a fellow Hoosier gave him a new lease on life. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSnliUEF2NWR4R01yeno2dmIzWXgwT0VHYlNfMlM3bkswZF9FSVFUTTlnU3pyNnpkZXhJQXg1YUdQbVFQRXNRXzNka3ZuMkdQdktRR0tiZXhLQ1I1eXdXeE5QSF96dlJwcEJTV2EzSTk0OGluNFEzSlZZRUtiRThjUW1BR3YyZUZ5T3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-29T08:06:39+08:00"
-    },
-    {
-      "title": "Trump secures vast, potentially costly U.S. stake in Venezuelan oil industry - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjd6UjZsY3dQMU9aQlhpdlJnVThVYzdPRTNOXzJjMjVTN09NdnlvV2JYdmh6YlR4aXlpSjd2VFNxMkVaQl92S19sSFRZZ3FwUi13MTRnNWltMmk0dENxOFVUNFE3U1VTMzcteURHUnBQRW53TFNKRUg5bUJaTm1ndC0yVldFQzhWaTd4UnVac1V5M21xNV9DcGpPT0xNTzBjQXBOVHVqOXZiaXk3bnk0MnJnVFR1Y1UxeS14Zw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T07:59:00+08:00"
+      "time": "2026-08-29T08:12:14+08:00"
     },
     {
       "title": "Canada poaches dozens of top US researchers for its universities",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-29T07:21:06+08:00"
-    },
-    {
-      "title": "Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-29T06:42:00+08:00"
     }
   ]
 }
