@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T00:47:32.483798+08:00",
+  "generatedAt": "2026-08-31T01:18:35.432519+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -265,8 +265,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T00:38:52.006991+08:00",
-        "next_run": "2026-08-31T01:08:52.006991+08:00"
+        "last_run": "2026-08-31T01:09:57.110100+08:00",
+        "next_run": "2026-08-31T01:39:57.110100+08:00"
       },
       {
         "id": "539a150ac028",
@@ -283,8 +283,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T00:16:39.501167+08:00",
-        "next_run": "2026-08-31T01:16:42.377127+08:00"
+        "last_run": "2026-08-31T00:47:38.883310+08:00",
+        "next_run": "2026-08-31T01:47:47.501553+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -292,8 +292,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T00:35:41.480677+08:00",
-        "next_run": "2026-08-31T01:05:41.480677+08:00"
+        "last_run": "2026-08-31T01:05:46.333263+08:00",
+        "next_run": "2026-08-31T01:35:46.333263+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -301,8 +301,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-31T00:37:41.065324+08:00",
-        "next_run": "2026-08-31T00:47:41.065324+08:00"
+        "last_run": "2026-08-31T01:17:47.814418+08:00",
+        "next_run": "2026-08-31T01:27:47.814418+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -337,8 +337,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-31T00:37:41.292248+08:00",
-        "next_run": "2026-08-31T00:52:41.292248+08:00"
+        "last_run": "2026-08-31T01:07:46.344064+08:00",
+        "next_run": "2026-08-31T01:22:46.344064+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -539,17 +539,197 @@
         "next_run": "2026-08-31T10:00:00+08:00"
       },
       {
-        "id": "1b2f944c23c5",
+        "id": "86f0a1085a5f",
         "enabled": true,
-        "name": "Investment Market Tracker — Hourly",
+        "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T00:45:37.815330+08:00",
-        "next_run": "2026-08-31T01:00:00+08:00"
+        "last_run": "2026-08-31T01:00:55.501301+08:00",
+        "next_run": "2026-08-31T02:00:00+08:00"
+      },
+      {
+        "id": "c5da23ea2b71",
+        "enabled": true,
+        "name": "Stock + Commodity Tracker — Market Hours",
+        "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
+        "last_status": "ok",
+        "last_run": "2026-08-31T01:00:52.527092+08:00",
+        "next_run": "2026-08-31T02:00:00+08:00"
+      },
+      {
+        "id": "43608f51ca73",
+        "enabled": true,
+        "name": "Code Quality Loop — Dead Code & Cleanup Review",
+        "schedule": "0 3 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T03:00:00+08:00"
+      },
+      {
+        "id": "284fb46e7d4e",
+        "enabled": true,
+        "name": "Code Quality — Client_Tracker_Pro (Weekly)",
+        "schedule": "0 6 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T06:00:00+08:00"
+      },
+      {
+        "id": "be006450b44d",
+        "enabled": true,
+        "name": "Code Quality — Orbitx-NFT (Weekly)",
+        "schedule": "0 7 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T07:00:00+08:00"
+      },
+      {
+        "id": "b302c3e2dcdf",
+        "enabled": true,
+        "name": "Code Quality — KinKin (Weekly)",
+        "schedule": "0 8 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T08:00:00+08:00"
+      },
+      {
+        "id": "8ee20c4e5aa4",
+        "enabled": true,
+        "name": "Code Quality — TechWealth-Tracker-Pro (Weekly)",
+        "schedule": "0 9 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T09:00:00+08:00"
+      },
+      {
+        "id": "7d1d4b46e0cf",
+        "enabled": true,
+        "name": "Code Quality — TechWealth (Weekly)",
+        "schedule": "0 10 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T10:00:00+08:00"
+      },
+      {
+        "id": "8049ff61f3c7",
+        "enabled": true,
+        "name": "Code Quality — Mission_Control_Pokemon (Weekly)",
+        "schedule": "0 3 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T03:00:00+08:00"
+      },
+      {
+        "id": "ed949304c7f0",
+        "enabled": true,
+        "name": "Code Quality — Dashboard (Weekly)",
+        "schedule": "0 4 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T04:00:00+08:00"
+      },
+      {
+        "id": "48f8bf377090",
+        "enabled": true,
+        "name": "Code Quality — WorldPawsOrg (Weekly)",
+        "schedule": "0 5 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T05:00:00+08:00"
+      },
+      {
+        "id": "b929bbf0b748",
+        "enabled": true,
+        "name": "Code Quality — Hourly Batch Loop",
+        "schedule": "0 * * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-31T02:00:00+08:00"
+      },
+      {
+        "id": "9b8fe4e1139b",
+        "enabled": true,
+        "name": "Documentation Sync — Weekly PR Generator",
+        "schedule": "0 11 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T11:00:00+08:00"
+      },
+      {
+        "id": "ba8ebdf17120",
+        "enabled": true,
+        "name": "Dependabot Auto-Review + Merge — Daily",
+        "schedule": "0 2 * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-31T02:00:00+08:00"
+      },
+      {
+        "id": "cc3a01a2f5cd",
+        "enabled": true,
+        "name": "Production Log Monitor — Error Detection + Auto-Fix",
+        "schedule": "0 4 * * *",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-08-31T04:00:00+08:00"
+      },
+      {
+        "id": "3ccae42be4f5",
+        "enabled": true,
+        "name": "Error Message UX Audit — Weekly",
+        "schedule": "0 12 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T12:00:00+08:00"
+      },
+      {
+        "id": "a1449b763626",
+        "enabled": true,
+        "name": "React Doctor 100/100 — Weekly",
+        "schedule": "0 13 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T13:00:00+08:00"
+      },
+      {
+        "id": "481f133b0933",
+        "enabled": true,
+        "name": "CVE Security Scan — Weekly",
+        "schedule": "0 14 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T14:00:00+08:00"
+      },
+      {
+        "id": "c845fbd9c8dc",
+        "enabled": true,
+        "name": "README Fresh Clone Test — Weekly",
+        "schedule": "0 15 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T15:00:00+08:00"
+      },
+      {
+        "id": "9fbb19e8493b",
+        "enabled": true,
+        "name": "Project Architecture Audit — Monthly",
+        "schedule": "0 16 1-7 * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-01T16:00:00+08:00"
+      },
+      {
+        "id": "0845f25c5972",
+        "enabled": true,
+        "name": "100% Test Coverage — Weekly",
+        "schedule": "0 17 * * 0",
+        "last_status": "unknown",
+        "last_run": null,
+        "next_run": "2026-09-06T17:00:00+08:00"
       }
     ],
-    "total": 32,
-    "healthy": 26
+    "total": 52,
+    "healthy": 27
   },
   "agents": {
     "hermes": {
@@ -573,44 +753,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        1.88,
-        1.5,
-        1.46
+        1.82,
+        1.48,
+        1.37
       ],
-      "usage": "12.4%"
+      "usage": "13.5%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 51.5
+      "usedPct": 51.6
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.0",
-        "mem": "0.1",
-        "name": "python3"
-      },
-      {
-        "cpu": "1.4",
+        "cpu": "2.3",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.4",
-        "mem": "1.2",
-        "name": "Google Chrome Helper (Renderer"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "0.4",
-        "name": "Google Chrome Helper"
-      },
-      {
-        "cpu": "0.3",
+        "cpu": "2.1",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "python3"
+      },
+      {
+        "cpu": "1.9",
+        "mem": "1.9",
+        "name": "python"
+      },
+      {
+        "cpu": "0.3",
+        "mem": "0.0",
+        "name": "notifyd"
+      },
+      {
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1298,7 +1478,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-31T00:47:32.188111+08:00",
+    "generatedAt": "2026-08-31T01:18:35.128402+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1307,7 +1487,7 @@
           "code": 3,
           "precip": 0.0,
           "wind": 3.6,
-          "time": "2026-08-31T00:45"
+          "time": "2026-08-31T01:15"
         },
         "daily": [
           {
@@ -1339,8 +1519,8 @@
           "temp": 25.7,
           "code": 3,
           "precip": 0.0,
-          "wind": 4.6,
-          "time": "2026-08-31T00:45"
+          "wind": 4.1,
+          "time": "2026-08-31T01:15"
         },
         "daily": [
           {
@@ -1376,14 +1556,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-31T00:47:32.483648+08:00",
+      "time": "2026-08-31T01:18:35.432396+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-31T00:47:32.483648+08:00",
+      "time": "2026-08-31T01:18:35.432396+08:00",
       "type": "info",
-      "text": "⏰ Cron: 26/32 jobs healthy"
+      "text": "⏰ Cron: 27/52 jobs healthy"
     },
     {
       "time": "2026-08-30T18:02:02+08:00",
@@ -1418,8 +1598,8 @@
   ],
   "stats": {
     "totalProjects": 6,
-    "totalCronJobs": 32,
-    "healthyCronJobs": 26,
+    "totalCronJobs": 52,
+    "healthyCronJobs": 27,
     "avgProgress": 68
   }
 }
