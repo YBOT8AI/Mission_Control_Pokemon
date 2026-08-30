@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-30T19:37:01.450597+08:00",
+  "generatedAt": "2026-08-30T20:08:04.037164+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 613205.6,
-      "changePct": 0.68
+      "priceHkd": 613864.16,
+      "changePct": 0.9
     },
     "ETH": {
-      "priceHkd": 19286.56,
-      "changePct": 0.93
+      "priceHkd": 19321.29,
+      "changePct": 1.16
     },
     "SOL": {
-      "priceHkd": 824.14,
-      "changePct": 1.45
+      "priceHkd": 825.94,
+      "changePct": 1.76
     }
   },
   "stocks": {
@@ -53,6 +53,12 @@
   },
   "news": [
     {
+      "title": "Boat carrying some 270 people capsizes off northern Cyprus, local media report",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-30T19:55:48+08:00"
+    },
+    {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -77,16 +83,10 @@
       "time": "2026-08-30T18:49:11+08:00"
     },
     {
-      "title": "1 dead and 5 wounded in a shooting at a rave in Switzerland - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRkU3bWltcTZvOERRdl9ndmFuTEVTbm1Zd0JMeHNULUxydUVQYm5CMGx1X0I4ZlRjT0FnZkxxZndlN0Vtc0wxZjlUQzZ5bjdibm9zNWUwbWpfM0lxNmpZNXpweW9SRDhxUXU4Q3JuWnVpVmZab1BUY3BxbVJwNWx1QnZXWE83dDljTnVXNlVobmE2M0lrVFUw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T18:17:00+08:00"
-    },
-    {
       "title": "Ukraine war latest: CIA chief ‘proposed Trump-Putin-Zelensky summit’ - The Independent",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTVYQUwtY2RyV3NBVlJfRVRFVWtOV1h4dW5jYmZ2QS1ZWUJkUHFEaXYxa3hGVktFaUlNVUE3aklOOUdfLVhxZ2tUeGh1NDZyTkg5b1ZlRk40MXo2X0NPVEEyQXBJQjZlUjVDNTdMVGhJakFacDVmQjZuNDBmUGtLOEthRXBQLXQ3WDdkRS0yd2FVeW9Nd2JmSVA3QXJEUWtVUmNDQUNkbnB3aWtlYVhxMS03RkY?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-30T17:53:25+08:00"
+      "time": "2026-08-30T18:08:27+08:00"
     },
     {
       "title": "Zambian opposition leader charged with treason",
@@ -101,22 +101,28 @@
       "time": "2026-08-30T17:01:03+08:00"
     },
     {
+      "title": "College football Week 0 winners and losers: Bill Belichick, Virginia’s age and sparse crowds - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHNJQTBoSmRfR0hRaFpOaXo2ZE5odDdNRjd3R2NUUXBacmliVXozdE8wNDV5anVVb0VmOV95SjNFZkwzV3NLODBaR2xaT2xjcGRabzhVb2U1eDl0X1ZwVlhQUkdpaHRieS1GdWVWNGZVaHhOVXNMZU1WdXdta2lnTTFaT3NnRmpLSk9LSFY2c3JrUjZJZVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T17:00:37+08:00"
+    },
+    {
+      "title": "Far Right Is Poised to Win in a German State, but Fight Over Power Won’t End There - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQlROeWJsbkV2UlVYaHltYkxKV1Q4LXRWRHB3V0s2c2xtNmhDRHVKM0wyQTBfNm56ZVRXa3l2a2FTa3FpRnhlRDFSbml5MkxGT2RaR2NhWjRfX0p3ZEx1b3Q4OXRRN3k2Y2p2YWpmcWJlMGlWNEx3T01pWlJXRUlZRXZBNDI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T17:00:16+08:00"
+    },
+    {
       "title": "Norway’s new king pays tribute to his late father as the country mourns - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0tfQjJYLTdhUlUyNlAwN0NuTzIzZGQ1cGg3bmtRcDAtcWF3c2NPUGt6RTFabWVlSVZQSWdwSENhLW01Rm9rUm42aTVTZnlMRWc2aVpvMlNpaU1TTGRVdW0yYTYyaDdtR1ZFQ1pvSHdNZTlHUUZUdEdZeDBHWTl3SEdKT3ZYbXh0eGUxQXRXUGZDbTFKcm9vS3drd3pZVy0weTA2VmhzOEFMQUFwYm9MWdIBtgFBVV95cUxNczJvci1ONElkLUg2amNVUDA1blR1RGdBT3ZkTnNvdTdlQkNCanZ5RWZBb09LVHplNkxvZjlHaTVIM1h5QjdtaER0ajZURWVMLW9PWVRhUEFJaHhFZGRkWEJkcXZQb0VVUmN6QzhEZDFKdUtQN0QzeGczSjl5aV8tZE1ITGFGWEhLU09INDhOS3ZQTXpLVWViWVVoTzV2N2RDTFRoSC1yQnJKMnZKdi03bEFtRHM0dw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-30T16:57:27+08:00"
     },
     {
-      "title": "Thousands face days without power as San Antonio clears storm damage, residents seek relief - Texas Public Radio | TPR",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmZIODVsMk5xM28wdXFKVGhqYXgyYWNaZ1BCU3lURzlwbDNpZUxYamtuRlZwc2o4OS10ZEc1Ym5uSHVUdHRkLVFUNzZ3WjRLM1U0a28wOUVuMHNPUnNXbGZabnBnYlExR3pFN1pGUUdLYnNuTW1ta1NQN2VYcHhoSkRJNHhIejRDc3pjWjVkOUtHUEZXUG1FUU5EcXpvU2pINGdocFZPd2pSb2RXX3ZoY292UElnbDd0?oc=5",
+      "title": "Dolly Parton’s official obituary released - WCYB",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQTJhc29KOXVFSjIxZmF1TWV5VmNRRkVKRUZXU2lOYWhRRjN6WHpCeXJnQlF5Y1VtNkI0UjdtdF9jcXZyaWowR0VzakpHZWZRWnk0bzVIbks2ZGRSYW1xSnpVcEdpQ3pUNnRqeS11dXhKeG50RlI4R1dEazIxcW9tTnRTeThMQkV2N0NTMDhQX0dBNUdyR0ZnZ3ZVMm5SMTg2cnlTcVp4aFNESHcybzdRcVM3S2tobHc?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-30T16:55:27+08:00"
-    },
-    {
-      "title": "Mama June's Daughter Pumpkin Weighs Legal Action After School Rejects Kid Due To OnlyFans - TMZ",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ0ZjV3UzRktnY3hla2FhRWFyeVUxQV9MTi1OUDB2Z0ZVVUs5M3E3aVI5Z3FfeUtMWUFkM21NNGx4TUtFVWxieDE0QTg1c0xURHItVUgxQmNURFVPODVXb3NZTkI2ZDA2WmZHX05zckdlZU1iMm9fT25qT0JjV3Blekx3SHAtVEE0ak5EZ1hxZUFRN1U0TlI2UGZPWHFtRnlVbWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T16:00:41+08:00"
+      "time": "2026-08-30T16:24:59+08:00"
     },
     {
       "title": "Nancy Grace Roman Telescope live updates: Roman and Falcon Heavy delivered to launch pad - Space",
@@ -125,22 +131,16 @@
       "time": "2026-08-30T15:17:34+08:00"
     },
     {
-      "title": "Investors prosper and consumers pay as the Iran war exacts an uneven economic toll 6 months in - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGdBSGZSbmpzWjd2SVptS1diUkZ5MXhOUXVJZ3hHY0V4YUpfVzFSak1yZVNTR2ZOSExuczc5RzlGdWJKWVFnS2JCRzJPMmsyMG9Ra0l1ZTBOZ1FEMC03Qld3eUlRX3RkREo4eFZBdlVzUjVPZTVwdjlKN1lSd09hNTJxR0U2aG9EMi1tZ0JzeVE5ell1bzVzNTlUZFJ6TktldmZMRGtOUlk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T15:05:00+08:00"
-    },
-    {
-      "title": "College football Week 0 scores, live updates: Follow UNLV vs. Memphis as first day of action wraps up - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZFk0ZU5KQVNxZmxhbEtZbzZLVm5NQXNzMHFZNTFFRU84RmRZdDVwMVdrZDFZT3NaY25rTDRnYVRienczY2RZNkNVTUVhem5KR1FPelpaaGUtUThXR1pkdkdBWUxZY1B6eTQ1cno5bmk3cmdBd2x3dzhHWEdGbURQLVlCRzM1N05vVExUY1hkRFRna0M3UU80Z0Z5dXJjM0I4dEwtZElRVnJVYkVzT0JnOTE0WHc4OXZPclNiR2s3YkhmU0RkRjJNSHlBUjE5UWdlVWJXSGFsRy1KS3ZvU1Nibm1yMnRZekNaYkZZNGRNZFhDV2s5aENKTWd6NU9GSUFYbV83dzlUZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T13:36:00+08:00"
-    },
-    {
       "title": "Europe's central bankers fear more turbulence in testy U.S. relations - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFd1SEtUeS1UNHY5aUFHVk9FeS1NRzROLUZUQjlDVk9pOGdBcmtuNTB5ZUVmR1QyOWRkTm9HRXBmT3Q1M3ZvUEk3MDBRajJLNVhYb09tS2xNeGVhUFRVa3N1TkxmWHVVNWpyT1pGQU1xQU9lTlU2aVBtU05tUUpSVnZNZnIwT29idFNwcHhvTFMxSTJvOWdMSUt3MkhUNGhrM1JJb0ZtMFpnYjlNcFg3aFZOMy1aQWM?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-30T13:06:00+08:00"
+      "time": "2026-08-30T13:07:43+08:00"
+    },
+    {
+      "title": "Horoscope for Sunday, August 30, 2026 - Chicago Sun-Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3hnMnEyMTZmalZnVUQtcDE3TFRzRmt6ejE3SHpGeTRtTm1KLS1fd2dWZm5ZdHpLY3JQSDltdkc4VnBqVjlhbEVqTnlDM25Ka3VaN0VNLURvOFM0WVhPeW1FU3Q0QmpDUjRWN21aQUxtR0FmeVA1QmcwVUZVY0w2N3NSTTJpXzFwei1iNl94blhoN3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T13:01:00+08:00"
     },
     {
       "title": "WhatsApp chat used to send cash for crime and extremism",
