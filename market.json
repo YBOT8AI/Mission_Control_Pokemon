@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T05:58:16.631911+08:00",
+  "generatedAt": "2026-08-31T06:29:19.474313+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616592.48,
-      "changePct": 0.6
+      "priceHkd": 614138.56,
+      "changePct": 0.29
     },
     "ETH": {
-      "priceHkd": 19447.43,
-      "changePct": 1.16
+      "priceHkd": 19332.81,
+      "changePct": 0.64
     },
     "SOL": {
-      "priceHkd": 818.57,
-      "changePct": -0.64
+      "priceHkd": 812.15,
+      "changePct": -1.38
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1123.29,
-      "priceUsdOz": 4456.4
+      "priceHkdPerGram": 1124.09,
+      "priceUsdOz": 4459.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.76,
-      "priceUsdOz": 66.5
+      "priceHkdPerGram": 16.77,
+      "priceUsdOz": 66.53
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 653.86,
-      "changePct": -0.16
+      "priceHkd": 666.71,
+      "changePct": 1.97
     },
     "Natural Gas": {
-      "priceHkd": 22.64,
-      "changePct": -0.65
+      "priceHkd": 22.7,
+      "changePct": 0.24
     }
   },
   "news": [
+    {
+      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T06:14:37+08:00"
+    },
+    {
+      "title": "Scottie Scheffler passes Tiger Woods, becomes PGA Tour's all-time earnings leader after Tour Championship win - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONzhCSGZIQnVTTVloWjJOb0xFQUxUUHJ0OFFIblBLMjdZT0dKVWFNM1dTUVVPM0xaVERBLUdzYjg4T0JQTzNfRmFLVU9fS2VySEd0ZTBEcjNidXZMSktadG1vV2wxd0FpeHlFS1lxSklHSWE1dUJnb0dIby1HZEZjUV9xWmxYZ3FFNHpmZ0hQcnRfM3l2QkM0bzc3WUp1Q3h3MHFRalJvX3dvYzViYWJLZzk4aXVWUzJLZkVhaENvbHFna2ZyeklPRmltU0F0SG9FN3ZHVUtZTGl0ejUyU3dUdGZjVFpabENJYkF3U2w5RVVaZw?oc=5",
+      "source": "Google News HK",
+      "time": "2026-08-31T05:59:59+08:00"
+    },
     {
       "title": "Roman Space Telescope live launch updates: NASA, SpaceX begin post-launch press conference - Space",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5",
@@ -59,10 +71,16 @@
       "time": "2026-08-31T05:55:36+08:00"
     },
     {
-      "title": "Hikers feared missing after flash flooding hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T05:32:32+08:00"
+      "title": "Scottie Scheffler reasserts No. 1 status with second FedEx Cup - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3lHX0lENmVFQU1PNnVHSHkxZmZTbFVtbmM1bjBWTXFwVGJaWEZPdjVadDBkYUJ5WXhrN09XbTlGTVBTLVhuR3dYd2c5S0xGSkdVZDBUWjBnUTdZNTR1UlA5ZlRGVjdNdkozNmhYRldEdXZ0Vk1tZWxOVjh1clJTSVhzUEJfempJYkNrMHdxNzNZakpWT3owWlMzelVaS2ZBdzd3Vw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T05:50:00+08:00"
+    },
+    {
+      "title": "US strikes Iranian launchers on Larak island amid strait of Hormuz tensions - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTm1OakU0ZTQxTmQ0YkVOWWVoMHZJQmJSQkhiV3ZTMXJ6TWNRZzYzblpoYnh2cUFCVTUzdkNRQUhBamhWY0I2MzFZZHBxWlpObmVyd3VXZkt4Y1FCNWVfZmR0U3VuRU16ODB3S1NJcHI4SHdhM1RwbnZnRkNSejdzZTB3N3FKM3ZEZmU0cGhfUHhoZFZPQ3E0cG1pelZlVFlpc05CQTZLdGdhV2ZYOXF3X2I5MmhLa21jS2t5SVVB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T05:28:00+08:00"
     },
     {
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
@@ -71,10 +89,22 @@
       "time": "2026-08-31T05:15:42+08:00"
     },
     {
+      "title": "At least 20 missing at Grand Canyon after extreme flash flooding - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmY0a2tRaFFteENFcnRnY0JTRzNDdWdNcFNoOWZpRHIxLWVwYnNNSVhjempQaldCMTFnaHRjVndEYWhfX0VTVDc1dmdtTFpsX0E3Z0JpVUczQXlMRUVPY243TnVuSGFYX3ZSZGkyWERLeklmdDlvY1JCVkZVcDN1MlJxRG1rcHJuWkdvcVVzbzh6dXRsVlRjWjd3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T05:13:50+08:00"
+    },
+    {
       "title": "Dolly Parton laid to rest in private Nashville burial - ABC News - Breaking News, Latest News and Videos",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc043MjkzRThnMnhPZUJ2VFVWZVJDVVUtblNIdXBWSmhrMnRWLUV5cE9VUjBkbDRBQWt0bTNvM05ocnlPdkR4RmpnOXJyd05vVVVfSHFaNkhSbmNUMHlFdkxFR1AzRmVDWGV4RUxIb0xyWEQwTUg3WVk4aDMwdDNwaWtIdTFsaUoxUnQ3MENyX1lPY0d4N2tZLU1NQ000blXSAaQBQVVfeXFMT0IwVmNGaUxmOVhuV19QSThUXzliX2tiZEZ0Y3ItMTJkVEFaNzdoWHp2MmpCU0s3UDJiU3VoemZRTGY1REdQMHpQTmxqTnlhSWxNUUo5STk2ZUxuTFpwTkNmYWY0Qjk2MjFRTTE5YUxFdG5aR1B3cW5KbG9HRTc3eVo3QVV3ekU1RDBZcUh2MHJ6c0tITEctdHdNOEkwZ05jODhHNms?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T05:03:46+08:00"
+    },
+    {
+      "title": "Venezuela vowed not to ‘hand over’ its oil. Trump aims to grab a windfall. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDhpVVpJMnVaXy11d21lcU5ZcHpsNkJKOUhJX0U3d3ZfcHlyVXdmaVQta0pxUl9mMmdaa0pwSlRVWlJ6TmI2OUc5My1CQVplZkxiOTdDXzg1V3FQNkoxdzlRZGhZVzNIdGRxOHdGME05NTBjanhPenpzWkxpbEZqYnJZS0NoRk1EUW9iVUp2RDZDWV9JMy1pbmxReTNNLXhOWkpOYUctTzg4NGV2UzVGdg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T04:56:58+08:00"
     },
     {
       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
@@ -87,18 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeVM4LWRKMExxY1Q4TE1LcTZtV2tCSU1KU0VzU2JRTTd0ZnptekM4UTVjTWN0dDJ6QndxZ0loUXFxOGdGNEJZRHBqUmxYWEdIYkNoLU1xQTVmMXdqN0E3Zjh4X04zSEpOX04tNUQyTkIzenk1ZzhCOW5WaS1uZndGcGFDMDd1WVQtcDNBaGhOQ1VuVHlhT2E2cUo0UdIBoAFBVV95cUxOSVNuYXhKbXJtaTNPUkhIbkVrdzVJa1hpX19SSVllemNZbXY4TjhKSUZSZkVxalViOHljWXliajJJSWVHYk8tNlBuOEM4YnBueDd5VWZGTXNVa1g5NXpMOE5ncmVHb0NQYXE3ZWdaVGp1ZFh1d3hHS3BfUHAwY2tTNHpaZ18za1RGUTdON3hvNERSb1Bzb1ZjY1djaklXdS1r?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T04:37:44+08:00"
-    },
-    {
-      "title": "Colts WR Keenan Allen was arrested overnight for DUI. Here's what we know - IndyStar",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjZBc0lpTTBtaUhWckNnRjdQMzJjUkY5Q0g5Tk4wOW5GRFVsX25PQ0tGcTlfYXJpUGU5Q0xGMVAwZEJSUjB4R2hzTVN4cGdZczNiWHQtQURqWVVsNi1OWWx4Y0ZmWUtHZzQ0R1prdGdaSjk5T0cyNXM5MHFKd0RnZVpnTS1yV2gzY3dSWGUybzZBYmhKSjJub0ZqNTRoOWJqOXdMZ2MwSllOeGdrZV80OGZ6R2xIWmY1U214ejMxQV9DSEpMaWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T04:25:00+08:00"
-    },
-    {
-      "title": "U.S. strikes Iran to prevent Hormuz mine threat - Axios",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5pM055MFkzLXg3NGZyRF9rT1BuTl9jblUzemRXNTF3OHRyU0RMTFBweUx2MEhoNmNSZG1nODBJUlNlQ3ZBZkd6U3dLeXRrS2lBMVdSRVhYZkl5UVNYZlIzQzhkb1kxckJXVWhISA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T04:22:48+08:00"
     },
     {
       "title": "‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’ - Variety",
@@ -119,9 +137,9 @@
       "time": "2026-08-31T04:02:43+08:00"
     },
     {
-      "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus - BBC",
+      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Iakg3b1A2QVhYY3FPWTRlbzRidGZfVUJOaWdaakt4V1E5UWdPaWlUdERNRk5DQW90eV9Lc1FiSFk5Z0FVTkFJVU92bkNDTURVNlplbmZNcjF2UQ?oc=5",
-      "source": "Google News Top",
+      "source": "Google News HK",
       "time": "2026-08-31T04:02:43+08:00"
     },
     {
@@ -137,40 +155,22 @@
       "time": "2026-08-31T03:49:00+08:00"
     },
     {
-      "title": "Enormous 12TB Steam leak includes abandoned Half-Life 2: Episode 3 assets - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2lDbG83Xy1uUUNMb2tlQVNzdWgyRmQ3eTV6SUNBNXpVTENyZi1pZUdfc054ZG1JNmJzRWNNaU5KaUVUbF9mSVhIV1daeFV4ejFvNkI1TTVRcnFrWHcxNVZqLS01Q1RmdW83b24tMlNRVnhBeVZMcVBaZkxpbmp6eA?oc=5",
+      "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T03:14:08+08:00"
+      "time": "2026-08-31T03:37:20+08:00"
     },
     {
-      "title": "Trump says NBC’s Kristen ‌Welker should face ‘punishment’ from FCC - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2RVM0pVVURyOUR6NGJiMVdKcTY2d2M1bkx2RjctaGdEZVp5TTFlcnRmQXdfbVcxRDI5Z1gxcjVzWE5yZG9JZXgwN3YzLUNEZ3l4SURwRkxNWGY3TDhGZWUwemlIMWZGNFVQb29pOTRhWU0wV25NaERGV3ozcGM2Zkp3?oc=5",
+      "title": "Trump says NBC's Welker to be reported to FCC over characterization of his endorsement record - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOTRSM0lreVpORDBYVV9hYUZRdHhRVXRmaXhBVWNpRXJKdmRFdEFreUZ2TnliZm9xMTNzdVE5dFIzOGkwQ3N4TzJhX0c5LUNDdTFRS3p0MHU1Q2ZGRVM5M2xnZndlaklYTk9MaC1vb2JKOHJEWWsyM2ZOQ19OVEdGTExHY3p1Qk9yQ1lzUG5hMXRKTkM0UlV1QXdNSHh6RXhicE5qLQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T03:00:00+08:00"
+      "time": "2026-08-31T03:29:43+08:00"
     },
     {
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "link": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T02:53:53+08:00"
-    },
-    {
-      "title": "Iranian supreme leader calls for aid as US sanctions take toll - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWtuTllLTGxUVHlmRDZjQUhxNE9ucEh4QlF1Y3h6ZGRoWWlPVkVndm1OQy1fRmtzNDEzOTQ2MXJOZGFOUVNJRmsxTnZ2RjB3WXR6eW0zbnZsdDJuSDRuQkZMSDFaM3Y1UFlqU1JUcnFPRjlDay1GVFBWZzB1bTh5VzVvcw?oc=5",
+      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T02:19:04+08:00"
-    },
-    {
-      "title": "Possible measures exposure at Holiday Inn Express in Asheville - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUFFWjhCRnZyOGFIR2lOME9ialZOa1pveEc3b2pzRzdTQzM5X2k1SmhKcXhWaVctTWhGcG9YLWtWcjBESXduNUxvQUNyalpKU1NVektUWGRPVmFGVnlyUEpLOUhkV3A2aWNEbmdaUzRPQnJQM3o1Uksyd3ZnWmYzRzd0a3JXODJqc1lqbFpILWJFcFhWVThheUtLU3pxcHNn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T02:15:37+08:00"
-    },
-    {
-      "title": "Trump says US will refill Strategic Petroleum Reserve using Venezuelan oil - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeExELTZFbXpSSWtfaVM2N0VrcTR5VlR0OU1nSGw0SDlpc213OGFrbTBQNDVueWg4UlQ3aVd3QTdpQV83My04WDg3UG5zTWcyRGpKMy1ldjB3YU9WV3d6Sm0xb3NJV2I2am9BSldjOERGVS1Cbk51dlRobDZvdXUybkRYNUY1eFFpX3RiRmtEdjV5a0dvcm1jVEg0eFhqcFBZcHNjMTJaYWQ3c1hzOFJnVjExMUtVZkFaVTBfb0tvWko5eVh1?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T02:01:33+08:00"
+      "time": "2026-08-31T03:29:42+08:00"
     }
   ]
 }
