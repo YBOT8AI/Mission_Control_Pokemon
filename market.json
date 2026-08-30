@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T01:49:40.950324+08:00",
+  "generatedAt": "2026-08-31T02:20:47.213790+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619603.04,
-      "changePct": 1.28
+      "priceHkd": 618176.16,
+      "changePct": 1.02
     },
     "ETH": {
-      "priceHkd": 19650.02,
-      "changePct": 2.31
+      "priceHkd": 19600.86,
+      "changePct": 2.18
     },
     "SOL": {
-      "priceHkd": 832.14,
-      "changePct": 1.34
+      "priceHkd": 833.71,
+      "changePct": 1.39
     }
   },
   "stocks": {
@@ -53,10 +53,34 @@
   },
   "news": [
     {
+      "title": "The screenings and other habits doctors recommend as early-onset cancers rise - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ktSkZTRUViZUpyRDV3U0ZwVmRtZGJxY2k4em9hNG1MWE9leThlbS1MXzF3WXlscTlCdXBTQ3Qxb05Ra2txWXpDa2ctUXVZM0RBbXUzTF9ibl9oSkhyR2UyMmJNU1pJcEJNNkVKM2NvNnlLYjAxM0ctLVFCNFBYa0F4Y3NESmtiakRZaHBDNnhHTC1RbXJZSHhITDJELTVpQW1DbFIxVlJWcGFUNFU1NzdiN1NqUU0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T02:07:25+08:00"
+    },
+    {
+      "title": "Live updates: Rescuers search for missing workers as death toll rises from devastating China-Nepal floods - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00WWktOWh4SDl1RTdMOFhBakxGZXo3dHNodnd6VDI1SEZNVjZQTW1rbUhMRHdYUzAyZVlFaDFsR3RHR3didmNlUnNlNy1WSUxXMGJQQWQ0anpxZE1RU0Vjanh6OHAzU3lubEtjUFRnZnVzdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T01:52:00+08:00"
+    },
+    {
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T01:49:31+08:00"
+    },
+    {
       "title": "School uniform swap shop 'saves money and tackles second hand clothes stigma'",
       "link": "https://www.bbc.co.uk/news/articles/crr452d45nyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-31T01:16:18+08:00"
+    },
+    {
+      "title": "At least eight die, 17 missing after ferry capsizes off North Cyprus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T01:15:53+08:00"
     },
     {
       "title": "NFL roster cuts 2026: Look at how 53-man rosters are taking shape at the cutdown deadline - Yahoo Sports",
@@ -71,12 +95,6 @@
       "time": "2026-08-31T01:15:06+08:00"
     },
     {
-      "title": "Live updates: Rescuers search for missing workers as death toll rises from devastating China-Nepal floods - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00WWktOWh4SDl1RTdMOFhBakxGZXo3dHNodnd6VDI1SEZNVjZQTW1rbUhMRHdYUzAyZVlFaDFsR3RHR3didmNlUnNlNy1WSUxXMGJQQWQ0anpxZE1RU0Vjanh6OHAzU3lubEtjUFRnZnVzdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T01:07:00+08:00"
-    },
-    {
       "title": "Zambian opposition leader charged with treason",
       "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -89,10 +107,16 @@
       "time": "2026-08-31T00:59:48+08:00"
     },
     {
-      "title": "Dolly Parton laid to rest as niece shares emotional tribute to ‘Granny’ - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWkydllTMEk5YlJHRkRRWFB5OTZZaEdmMUFGUk9RNi1qS25tQ2tiMFdTcnozcVJCZmxIMThvRlJ5c2k0ZVh0cUF0d2xqTXpGdFNjTGVFZ1A5ZnZsYmI0T00ySzhSMHdELWhnZ0FFaHF2NktfU2txZDNWTndQRHBodEVlbG9jXzA3eGFkdkVTN0RLQnNNVjVla3BtbllJNHPSAaQBQVVfeXFMT1MtcVBXZHk0SUQySlV3WUE5RGVGQjRZTC1OMnVUTmU3WW9UUDJ1MWEyQ3VZNldXaEwxdVBrSW9hdlY2T2t6TEVST0ZkSXhKb0xScVFJMGVxdkNwaXVXQWZoMm1qbG9VcGRkLWF2azljRVRqMkRtaU1kS0dkV3FKdGg1ZFVYZjNPRk4tREZOZWd5U1FHVmk5SHFHMDhJQ0RnQzlDd0I?oc=5",
+      "title": "Trump criticizes NBC over election comment as Treasury denies some NYT, WSJ and Bloomberg reporters G20 credentials - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGFSY3lMaklDcXFDWFM4SVdlSUlXcmZQZExOQlJsYTdsVFZVeEptYVd3OUdPQ1JRS05rd1Jkbl91RjZydGtaWGdQWFlRd3I3ekx0T29STTVsTjdUUHFIRm1IUEFYbkMtVTZfWFREdlVoZ0gtZkNyU2drbkRLUUluZmsyekFwaFl0cVl2aEU2UG9UcmVZVGM40gGcAUFVX3lxTE00OG9jRHJMTnNON1UxaVYwY3V6d0lFb1FPNXkwNVFEYUU4QkJVMXpWVEZsUUdyYi1oQ0RhUGdNSGk1ckxiY3NSc3hIMzZmakpfblk0a2xCcF83OWl2S19fSmFSZHdHZnVsQmFtY1dxN0JkeUVqeklLcGFnMEpvOHRDZVM0alplb1dHYW5BSFRHOEVTcmRWS3hZVEhYZg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T00:57:45+08:00"
+      "time": "2026-08-31T00:55:14+08:00"
+    },
+    {
+      "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3ZpLUhUbE5aLXpJdHBwN1Fnc19fSnZ4YncyaXRkQlJoQzFTMjQ4aW15MVJhMHFBLWR6bkJIVXo0TjF5WUxDX0FQajlZQ1RvQnFNckFrTHJKRC1rYUhnRFRKTm5ZOFFEUEgyMXY2XzJVZWtTamQxdW8wODRCVTlhR1dJeFhtQ1Y2MjE5czV3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T00:50:53+08:00"
     },
     {
       "title": "Head teacher evacuated 900 children minutes before Nepal floods hit school",
@@ -101,16 +125,22 @@
       "time": "2026-08-31T00:48:13+08:00"
     },
     {
+      "title": "Seven killed and 23 missing in boat capsizing off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T00:48:02+08:00"
+    },
+    {
+      "title": "NASA’s Nancy Grace Roman Telescope Leaves Earth to Chart the Stars - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWm5nWEJ6b3MtWjRNUnB3ZWJtdWpqc1NhZ0swWnJfQ1Z2LWU2Z0ROYVFYQmRVWlFDRG4zdEVvRlF3SWg1UmlhU2RlWFQzMjJVM0p0ZlNGMFMyZTBPUVlrbkduU1F0aWRIUTA0d3JTakNRdDFFbktKOHJfLWx5c1RDY0xUNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T00:39:48+08:00"
+    },
+    {
       "title": "Russia says it helped to repel Niger attempted coup",
       "link": "https://www.bbc.co.uk/news/articles/c5ye8egg596o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T00:33:17+08:00"
-    },
-    {
-      "title": "The screenings and other habits doctors recommend as early-onset cancers rise - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ktSkZTRUViZUpyRDV3U0ZwVmRtZGJxY2k4em9hNG1MWE9leThlbS1MXzF3WXlscTlCdXBTQ3Qxb05Ra2txWXpDa2ctUXVZM0RBbXUzTF9ibl9oSkhyR2UyMmJNU1pJcEJNNkVKM2NvNnlLYjAxM0ctLVFCNFBYa0F4Y3NESmtiakRZaHBDNnhHTC1RbXJZSHhITDJELTVpQW1DbFIxVlJWcGFUNFU1NzdiN1NqUU0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T00:17:53+08:00"
     },
     {
       "title": "Iceland votes against restarting EU membership talks",
@@ -131,46 +161,16 @@
       "time": "2026-08-31T00:07:30+08:00"
     },
     {
-      "title": "Roman Space Telescope live launch updates: NASA, SpaceX begin post-launch press conference - Space",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5",
+      "title": "Hunt Underway After Deadly Shooting at Swiss Rave - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTmxnVGtBYkFMVDdoR0dpRUJBS3ZMZXUzZG9iMHZwWHhleEtxeHZqOUdkdzNUT0hmVlBhRkpGYkxwQ21EQ0d6LTBKTmF4SmE5R2Q3M25zSGctTVplbnZNb1puV2lpaFhZdVgtME5HbmFQTXNVTWRJRjluUDJ4TGJ4WlZhZWQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-30T23:53:53+08:00"
+      "time": "2026-08-30T23:27:19+08:00"
     },
     {
-      "title": "Apple Caught Off Guard by AI Demand for Mac Mini and Mac Studio - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNmFhNHhhSWg4aFpDV1NVR2o2WEEySEQyLVZaQmVzUHNJNFF3MkNVeTV5dVVUR0JoR3EtWTNZM25JUDNCUUlmcEVFaXA4dEVPbXVxNENvdFBUZFBMVGNEbno2SDg5aDNaaWh5WUE1aWVlTWNQWDFGbjFvSmtTQ1F3QU9ZVVdnWWpS?oc=5",
+      "title": "Watch Olivia Rodrigo Sing “Landslide” with Stevie Nicks at Daisy Chain Fields - Pitchfork",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQWRadl95cHhtWV9XU0puRXZaYUk2ZjIyRFpYWmloSXhSQzJaY283cGljWmtyTklEZmUtRnpYX1dyQk1ZeXZMSVFjdGV1QXdqLW1EXzRITG4ybGkyOHkzT3FBWHZGZmM0aUQ3NmNTZGQ0d1ZTcktickZCSXd3eTV3UFprNUtfLTF1dlpUb0ZQdzRrYTYtZ0k1Y0NvbHptS09OVnlhbDBsOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-30T23:52:05+08:00"
-    },
-    {
-      "title": "Google Maps adds 'Lake America' as Ford compares change to 'SNL' skit - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcGJBQWIwd2kwN01rQlkzUzZpMUlnZTZRZURRWUtWamxBUUQ0RGI1YnB3WFNxdWF1bFBjX21KRjJZTXRrLVhYVmJpTVNVdGd1UkY3NHNCMkc1MWFGWVpGSTM5U1RWMVVDc0tTSU10M2dyR2NMay1NTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T22:55:40+08:00"
-    },
-    {
-      "title": "'Cuba is opening up.' Reforms begin as US tightens grip | Exclusive - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnE2UVFLZWs5YjF0SmZmUTFzd3g0aXZ5LXdBbjF0NmQ1cGdJSmk0YWExQ01GZUFqR09XdnVwVGg1a2tSSGg1X1R4cy1KMnlHRXlBTW5pcFNYRlVsWGw5bE5Ddk1pZlFRaTZMelRsWk5YZDhUNV9iV3BoWldmenl0RFNlcGNQRGJVem1lVVdWZ0ZHcThSMWlpa1ZvUkQzT2lnWnow?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T22:44:00+08:00"
-    },
-    {
-      "title": "College football winners, losers in Week 0: Bill Belichick's biggest college win, NC State barely shows up - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTS1nZmZIWXpZVHJSWkNfSlNZbGJBWEdYWkZtWlQ3ZlRieGNoLWx0UkZuazMzbno1b2dkWmZNYzcxR0R2YVJzT2lSVlVJM3hNNWhVQVZDamEtQXZPYXpzSEo0UUJIb0ZkSGVjSkFDNkFFNVMwc1VzY0tnb2RUYWhyM2RkZ05qLWhxV3JCQlFRdkxGR04xTHdsM0x3TUdPSEg5S1F1bU0zLU9tWHdFbzJkXw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T22:32:00+08:00"
-    },
-    {
-      "title": "Six months into the Iran war, the Trump family is among the winners - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNOHlJX2Y2dzVfWjhITGNMU3ZHZkRrTDBnS0k1TDlpTDVhb1ZfcktXWGg5aXJ4cUV3dDc1Q3h3TDQ2YjR2TWd4cUZpQm83VTJTT1I3b3czSzB0R0RBMnF0TVY0MTZBNHFsd19PTEl1dW9kNzkzSGJMUnJnamRCaVRFREFBamRmRFAyUFVrWWh1TlVDYzM4MkhhTmdLdGVjY3ZYWDhVM0lZMmcwYW5LRW12LWFoQ05TeXBrb0FhN2FickUtTmhUWVZjbFVJamZBS2hl?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T22:31:00+08:00"
-    },
-    {
-      "title": "Report: Apple Watch Series 12 may feature always-on heart-rate tracking, new Fitness app - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdEFGdk9VWHV3YnhDVHMtNFFlVDJ3MGlsdkhnNmJzSGZyX0FQa0V5MG1CSl9NRlh6VFdaMEx0X3JnZGFkWGhSdjRTd0dwOURlU2VfTFl6UlZuMHNpQlpHbGpGSGNFQ1RZWFJ2dGw4MjNHZ3Nhb2JOMUYtS0FQeUtYTVVrTzZKUDJNY004VzhPNmZIMzUtelFIaURGaF80OW8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T22:27:00+08:00"
+      "time": "2026-08-30T23:06:10+08:00"
     }
   ]
 }
