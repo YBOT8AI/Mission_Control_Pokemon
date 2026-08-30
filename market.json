@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-30T23:45:27.422992+08:00",
+  "generatedAt": "2026-08-31T00:16:32.050299+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617768.48,
-      "changePct": 1.23
+      "priceHkd": 620042.08,
+      "changePct": 1.31
     },
     "ETH": {
-      "priceHkd": 19426.97,
-      "changePct": 1.38
+      "priceHkd": 19651.82,
+      "changePct": 2.28
     },
     "SOL": {
-      "priceHkd": 834.49,
-      "changePct": 1.41
+      "priceHkd": 837.86,
+      "changePct": 1.52
     }
   },
   "stocks": {
@@ -44,14 +44,38 @@
   "commodities": {
     "Crude Oil": {
       "priceHkd": 653.86,
-      "changePct": -0.0
+      "changePct": -0.16
     },
     "Natural Gas": {
       "priceHkd": 22.64,
-      "changePct": -0.0
+      "changePct": -0.65
     }
   },
   "news": [
+    {
+      "title": "Iceland votes against restarting EU membership talks",
+      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T00:11:44+08:00"
+    },
+    {
+      "title": "Roman Space Telescope live launch updates: NASA, SpaceX begin post-launch press conference - Space",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T23:53:53+08:00"
+    },
+    {
+      "title": "How did nine children die in a 1991 Pennsylvania measles outbreak? - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVFPY29uejFNbWpKVUlobGszcEJXa0xPOGdrRWNoWmpLNGxfLUkydXY2akVUbVh3YzJFWGRYYUVyWWFfenlCTl9RbWNKMFhfXzUtcE1WLU43U0JaR0o5cjZxRE9PSklrVFptWTZWQ1pkczlqQmhGYXYySW1OV21uSFZEY2VlWmN2YU5yZWVBalpZSW1SZFBySUN5d3JJSmlWN2RzdzhkaXluTXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T23:29:40+08:00"
+    },
+    {
+      "title": "NFL roster cuts 2026: Look at how 53-man rosters are taking shape at the cutdown deadline - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGs5Nk5idlJQV1BYQ1dKelRrUExuTWJBNXlhdUxGektWdVphRkRPcGZZN0lxSFJDUjFqQ2ctUEVzU0o4MGZJSEdWM0paTmwzVENsR2NXVDFTRW5rUDhwMHd0Q3NIdnE1VTVqWm8wUXdTZk5pX3BzR09QTUkyUkxVNGlFUUd6dUdrYllxRXgyQlpiZUN6TWktUzYtZlBoOWFNVHIyb29uU1hvc05YSnp1bGhGbmlGN3MyNTBsYjVveUhpTUxlUFlQRHliVWJjWnp4VElWcGZhSjR2Wnhl?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T23:18:26+08:00"
+    },
     {
       "title": "The screenings and other habits doctors recommend as early-onset cancers rise - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR2ktSkZTRUViZUpyRDV3U0ZwVmRtZGJxY2k4em9hNG1MWE9leThlbS1MXzF3WXlscTlCdXBTQ3Qxb05Ra2txWXpDa2ctUXVZM0RBbXUzTF9ibl9oSkhyR2UyMmJNU1pJcEJNNkVKM2NvNnlLYjAxM0ctLVFCNFBYa0F4Y3NESmtiakRZaHBDNnhHTC1RbXJZSHhITDJELTVpQW1DbFIxVlJWcGFUNFU1NzdiN1NqUU0?oc=5",
@@ -59,10 +83,16 @@
       "time": "2026-08-30T23:07:15+08:00"
     },
     {
-      "title": "Iceland votes against restarting EU membership talks",
-      "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-30T22:45:05+08:00"
+      "title": "'Cuba is opening up.' Reforms begin as US tightens grip | Exclusive - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnE2UVFLZWs5YjF0SmZmUTFzd3g0aXZ5LXdBbjF0NmQ1cGdJSmk0YWExQ01GZUFqR09XdnVwVGg1a2tSSGg1X1R4cy1KMnlHRXlBTW5pcFNYRlVsWGw5bE5Ddk1pZlFRaTZMelRsWk5YZDhUNV9iV3BoWldmenl0RFNlcGNQRGJVem1lVVdWZ0ZHcThSMWlpa1ZvUkQzT2lnWnow?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T22:44:00+08:00"
+    },
+    {
+      "title": "Dolly Parton got the final word at her emotional Opry tribute - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTXRwamZsMi02cUljTlVaUzZidWhhMnhPaHNNblp6YzFyUUU4VmpROGQxcVl0TktudXlIYmxnWUoyaGstTHBNdHdfeHdaU05xdi1maG9jajgzeEVnYm9Na1JsME96TmlKN3ZjQjJmUW45cW1Oa0MxM3BIT2t1a25NNDBHZnh6aFZXdjYyTE9XRjdBMk9Ma2J6TnpKWE54X3h1UlZUQkVaNjJtdVZkVUdDbU5YcG9mQW04WFc3Tjc4aGtnZWtP?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T22:33:00+08:00"
     },
     {
       "title": "Canada installs large Lake Ontario sign in latest jab at US",
@@ -89,34 +119,16 @@
       "time": "2026-08-30T21:46:27+08:00"
     },
     {
-      "title": "How Lindsay Clancy sought help before she killed her three children - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPXy1xSGowWWlZQTItU19DOU1zMFRwTGVROWZpb3NISXhmWjJNdjNzNHRvMU9EMFJwanBNLXNIV3ZpXy0zRVlPU1V1R3Z3UWU1VVdZbDV2N0pXcHNWVFdTeV9ibXJxTEdxV2dmV0pDRFZQVGNNTWF5bDAxLTlpVXA3OVdlbTNVT2lmS3lFUzFybGZka3hMeEYxZEY5eEFTY0dFU01TQ0ZrWXA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T21:42:00+08:00"
-    },
-    {
       "title": "Google Maps Changes Lake Ontario to Lake America Following Trump’s Executive Order - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM3ZpLUhUbE5aLXpJdHBwN1Fnc19fSnZ4YncyaXRkQlJoQzFTMjQ4aW15MVJhMHFBLWR6bkJIVXo0TjF5WUxDX0FQajlZQ1RvQnFNckFrTHJKRC1rYUhnRFRKTm5ZOFFEUEgyMXY2XzJVZWtTamQxdW8wODRCVTlhR1dJeFhtQ1Y2MjE5czV3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-30T21:14:08+08:00"
     },
     {
-      "title": "Nancy Grace Roman Telescope live updates: SpaceX Falcon Heavy deploys Roman Space Telescope after launch - Space",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T20:53:10+08:00"
-    },
-    {
       "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
       "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-30T20:44:08+08:00"
-    },
-    {
-      "title": "Bill Belichick, USC, NC State lead college football Week 0 winners, losers - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUNaZUFLbTBRR1N1cmxPTGJLcm1heW9PTlBjSGNSWVAtQlNuZmZHdDlBSUZRbGNxd203ZkZsWE9DaG0xZjBYRExEZWFNSnI3Q09HeFFoUTRZQ19oalQyYTZXVG5RangzZy1yay1RdWtaWWlXWGVPSXRwamZTXzJ5MmYzOWRlc0FBZFVBQ0xwZnduZUJyVXZLUTgxTTBVVTByTGs3bjRJYnUtS2s5SE13YVk0UmlHcUxIRnUySmVB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T20:34:00+08:00"
     },
     {
       "title": "Controversial Venezuelan executive courts investors after Trump oil deal - Financial Times",
@@ -149,28 +161,16 @@
       "time": "2026-08-30T19:28:57+08:00"
     },
     {
+      "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-30T18:40:22+08:00"
+    },
+    {
       "title": "Water cuts are coming for Arizona. Is your salad on the chopping block? - NBC News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZExpeUFIUWFCRExSd3IzTXYtamp6RnZjNnNwT3M1cXJnMmpaV1RzdmdhdjlRRVpjLWJQYmNlZENTODRUT2k3SnB1QzJkUWJKWU5kOHpHSGlPNHlWaEhHZk9MY2VpemhrcnpBS3JmbEJ5RGwtV2hrdXBYR3VuOEFGZFhfOXJuZXpKRFJOQkZWVTVYeEhxa1RvNS1WT21sSGo4RUFEMF82N1ZUTHNQc3c?oc=5",
       "source": "Google News Top",
       "time": "2026-08-30T18:30:00+08:00"
-    },
-    {
-      "title": "Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZaR2FzZ2VkX1pqS2Zucm5qbEsxbXBQRllISWQ0R1lmeVNwTTNNVzg1cE5VS2xEWTZXV3F0b2FkbWQwc0pack9YcS1fUmdFS21OSHdHdFdlcWR4WWROc1RJSUtHSTdGSkhQLVdDZ2ZSV2VOdlhlMW1nSERTUlVQNG1xd0gydktYS2tFVUpnTUt3UW1wRlVXR3B0SGV1RXJzcENfdXVCR0V5YnJoSGhhLWE0S1ljTEph?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T18:19:00+08:00"
-    },
-    {
-      "title": "Who Will Rule the 2026 U.S. Open? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWXdnXzhIOVpLcTVVQTVlLTd5dFl4MGpUQXFJOWdFMzZfNzliVGlENWFuNFo4czUzTXJvN2hxdWtKNzhKWHJwYm9jbld0aXhqcnFFRENzaGMyazloaEt5YkltNkdxRXhudnBsNTloVkQyd21uX09ua255UlhwWThiN0dKQUh1M2JYdHVfNHMxbUhpT0k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T18:00:12+08:00"
-    },
-    {
-      "title": "From Appalachia to Africa: Why Dolly Parton was beloved across the continent - NPR",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWRndmeU5KdlprZXFMQ2VJT0dEWk9XUUJSLWdUNGJ4eXlCWks2TDJzb3E2eDlqdkpmYXFlYnkzT1EyQUZINnpSTXNEY3c1YV9uUk9WeHktVFgwWEFTRFRVcVVpMGFvRFlNQzRrUjlxb2FkSl9FV1Q1VA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-30T18:00:00+08:00"
     }
   ]
 }
