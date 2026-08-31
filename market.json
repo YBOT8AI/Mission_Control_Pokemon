@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T18:24:00.449821+08:00",
+  "generatedAt": "2026-08-31T18:55:05.510743+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614695.2,
-      "changePct": 0.48
+      "priceHkd": 616004.48,
+      "changePct": 0.56
     },
     "ETH": {
-      "priceHkd": 19183.54,
-      "changePct": -0.31
+      "priceHkd": 19240.61,
+      "changePct": -0.19
     },
     "SOL": {
-      "priceHkd": 806.27,
-      "changePct": -1.83
+      "priceHkd": 812.69,
+      "changePct": -1.41
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1121.62,
-      "priceUsdOz": 4449.8
+      "priceHkdPerGram": 1122.86,
+      "priceUsdOz": 4454.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.91,
-      "priceUsdOz": 67.1
+      "priceHkdPerGram": 16.98,
+      "priceUsdOz": 67.36
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 679.18,
-      "changePct": 3.87
+      "priceHkd": 676.98,
+      "changePct": 3.54
     },
     "Natural Gas": {
-      "priceHkd": 22.67,
-      "changePct": 0.14
+      "priceHkd": 22.76,
+      "changePct": 0.52
     }
   },
   "news": [
+    {
+      "title": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk5wUFFMU0ptNzl3aFFwdjhsWEdMZlBaY2xXb0JJU1plU280b2dQRFpvWE5UcUM5RFA5Vm9CM2wwdzU2R2JBdWNGaDhEdEs2cEJ0UVFST2JzNWFxN05WSF9MUk1wTnNEWWVzdWl0UC1kT3NZTjl0OGNDTC1WUnBQei03OXNsZTdpVWVxYkFB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T18:23:42+08:00"
+    },
+    {
+      "title": "South African airline defends low-altitude aerial stunt over packed stadium",
+      "link": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T18:18:07+08:00"
+    },
     {
       "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T17:34:44+08:00"
+    },
+    {
+      "title": "One person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T17:26:48+08:00"
     },
     {
       "title": "Dolly Parton laid to rest alongside husband in Nashville",
@@ -65,10 +83,10 @@
       "time": "2026-08-31T17:24:50+08:00"
     },
     {
-      "title": "Dolly Parton laid to rest alongside husband in Nashville - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA5TmdWQnVkbWZJZ011TW8xdnlfbnhpck9EeXBkUTJHaUJkZzJ5SjRCaldQS0lJN2UxSzJidEVqX0psa0cwT3J6T1VEWFgzSFVWUTZFTTVONnc3dw?oc=5",
+      "title": "Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV292Z2dzblEzQnh6T3I3Tzl1RjlYSWFOX184blRSNHZOTk90Q2ZDUzRuaEVZekE3ZUFpa2NxRlowb1RBNUtSOS10Nk9CNndCUGZRMHBSR1BoQlpXVEo1aVdUZHM4Ym9rZ1YyeG5Nc2dVRjYxaVhsajMzUVhuUmUyT2V6UkhwQjNEcHltb0ZwVGpTd0VXSGhsdDdDZk5tel9wTUVUSHFnUFdOWWJjc2fSAbMBQVVfeXFMTVdzZV8za1RCTHhOU1VTZ0lvSVd3MHo3ZzRTV2ZuUjhDcHROMElJZV94bk9hMktUa3JRaXA3YkJEckd1Rkd4aFpTOUFmNXNMVjlfa3pUS3FIWWMzNXhpNk9QTVpSNk1lanprTUQ2S09VQnZOWnE5OFVsN3ItaUlqbGJUUUpLYmE4aTFpRWFUbTRxVDJlc1U1VlJfSkJUVW1DV2JnRDMtLVlEUVhLaFpOQkpEMEk?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T17:24:50+08:00"
+      "time": "2026-08-31T17:21:48+08:00"
     },
     {
       "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
@@ -83,8 +101,8 @@
       "time": "2026-08-31T17:00:00+08:00"
     },
     {
-      "title": "9/11 cancers skyrocket nearly 1,700% as toxic toll on survivors surpasses first responders ahead of 25th anniversary - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWs2T0lHT0dyMmE5U0p4bUU0cXdWOEpqSWJLQVUzZVhkU1p1NzNqT05PWE1id0QyUTl1SVhlZEJiR3VNaFJqT0FUOWxvY0k0Q3lKcGpZNXN0VXhtNHN2Z1dHUmVKVjZ6aVZaY3JVZnBwVEtGY1NDYUVPR2RHd1Rkb1JZRkNEVnpUZ0VhMWw1T0F0bDZhS2NXaVg3U1FIeDBm?oc=5",
+      "title": "Why too many women are prescribed antibiotics for UTIs they don't have - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSGhzbXkzME1SemJQbWFUaV9kZW1fc0djYXJsbUFiT0FPUlpPZXY5NFBiak50UnA3c3FUak5NMnpVYl9LZ3NLay1qT2VmSkNYb1FRLTBFVFo2d1RoQk5BN1dhaWhfRVJwSDZYZWpoMGlPOExtODNkc2lRWFJXaXNhUWozMUxsNHMwUjdUYUxuZlk3dzlNUVhMX01oSzg?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T17:00:00+08:00"
     },
@@ -98,12 +116,6 @@
       "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-31T16:34:25+08:00"
-    },
-    {
-      "title": "US and Iran trade strikes for first time in weeks - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5",
-      "source": "Google News Top",
       "time": "2026-08-31T16:34:25+08:00"
     },
     {
@@ -125,16 +137,16 @@
       "time": "2026-08-31T16:00:36+08:00"
     },
     {
-      "title": "Oil rises as US, Iran resume military attacks - Yahoo Finance",
+      "title": "Oil rises over 3% as US, Iran resumes military attacks - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkdIZUgzZVU5dVMySHVxT1FoQ2k0NzhUQnpZVVNxekVfUmN4bVROcnF1NWFveWlIVGdfOWxJMjZpR1Q4a1dXbEdCT25XSUkyZnJvaVUyWjNDNlowejl1ZGJBa2ZSdDE0c19lMXctV0haTk0xMW5nTjU4dzBWTHgzbWR3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T15:47:45+08:00"
     },
     {
-      "title": "One person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5",
+      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T15:34:19+08:00"
+      "time": "2026-08-31T15:30:42+08:00"
     },
     {
       "title": "Monza memories - Italian GP in pictures through the years",
@@ -149,28 +161,16 @@
       "time": "2026-08-31T14:56:40+08:00"
     },
     {
-      "title": "Shein’s dressed for its long-awaited market debut in Hong Kong. But the party may be over - CNN",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ra2htY2hXWGFTd2lKY0xBTFhUUHR6N2g3T1RfQUJqbjRFWDVJaFVwbDRpOXRVMmRmcnJuYmRBazBxUGZOR1ZhWEN1WVJKMWlCOXp1Y09ra0psTWlKV1JjRk5oUUEyZTZsQmJ4bEJDWXBpV2Q2YXk0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T14:11:24+08:00"
-    },
-    {
-      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T14:00:42+08:00"
-    },
-    {
       "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVBPRWZlQmpJSE9Kc3FkbnlZZHVCMVprdGhrUjg2d0ZYQjRwWjFkTDZlQnlPSTBxaWM0Ykp5a2w5WE5pWjU2ZnpOWURMaTRqWndHU3RjVXVfMlRBZE1taEFwVkRKNEp0ekRtZjhBUGY5eDdHMmJvTkQ5MzRFS0hEX1hPV05OSE1V0gGOAUFVX3lxTFBtZW8tX0wzVHhyUldCLUtjM19lb1VMU2k0VzdZQ1BCVWM2Umo3QzlGclJOamFYMV9mZzQzUDRXSXU0QnQzbEF6bzZGT2FuZVAtbzBjdk9QMGJQRkVndjQ4SjY2LVk1OThNeVFIYzU2ZXRFeklCYWxtd0pMQkZMbFJCMThrRjNtSlFXdEdQRGc?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T12:57:24+08:00"
     },
     {
-      "title": "Novak Djokovic out of U.S. Open to Mariano Navone on harrowing night for all-time great - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHgtYzY4cVZpRXhweS1wX3JEVU82Y0FHSVJaY2ZwYmh5OGxvWWZ6eWFyRTN5VHQ5WmdUaFFVc0xneU44VDU1YnoxWG9aTUZrbUhyQkE2MWZ1UE1iQ2hybEQ4MmdZd2hmUERZQndZbGpBMlZfbTJzVlJhYzZKSHNndlZEV3ZkcXQzMnBYNjRJM0g4NjJ3WGx0UEZB?oc=5",
+      "title": "Barclays sees two more Fed rate hikes this year after Warsh speech - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T12:45:00+08:00"
+      "time": "2026-08-31T12:29:00+08:00"
     }
   ]
 }
