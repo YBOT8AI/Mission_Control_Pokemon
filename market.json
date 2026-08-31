@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-08-31T20:59:23.665150+08:00",
+  "generatedAt": "2026-08-31T21:30:30.293675+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610218.56,
-      "changePct": -1.12
+      "priceHkd": 611512.16,
+      "changePct": -0.91
     },
     "ETH": {
-      "priceHkd": 19197.18,
-      "changePct": -0.76
+      "priceHkd": 19200.94,
+      "changePct": -0.69
     },
     "SOL": {
-      "priceHkd": 804.78,
-      "changePct": -2.96
+      "priceHkd": 805.25,
+      "changePct": -3.42
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5544.76,
-      "changePct": -0.21
+      "priceHkd": 5531.71,
+      "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60460.2,
-      "changePct": -0.25
+      "priceHkd": 60311.08,
+      "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1109.36,
-      "changePct": 0.45
+      "priceHkd": 1097.72,
+      "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1119.25,
-      "priceUsdOz": 4440.4
+      "priceHkdPerGram": 1120.57,
+      "priceUsdOz": 4445.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.86,
-      "priceUsdOz": 66.89
+      "priceHkdPerGram": 16.88,
+      "priceUsdOz": 66.96
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 676.36,
-      "changePct": 3.44
+      "priceHkd": 670.24,
+      "changePct": 2.51
     },
     "Natural Gas": {
-      "priceHkd": 22.46,
-      "changePct": -0.8
+      "priceHkd": 22.74,
+      "changePct": 0.42
     }
   },
   "news": [
+    {
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T21:11:35+08:00"
+    },
+    {
+      "title": "Column | I’m an oncologist. Every man should know this about prostate cancer. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUUzdHFyeVVZMTd3SmE5TEdnSFBURlRISTlJd2dnYlNJeVQ4RFFVcVJYOHV2TEZwbXFPa0JEMWZTdTJqVDVfemxCVjMxUzdMQl9SQ2ViX3N2amZOZ2RuODllU2RSNDBYc2hSeXg1WGxDSlFxbzg2N2NoS1NpQ204U2hsUEdYRExZTDRqWkpqV0xMRkFEQXBHYTlfUS1sUVcwVnNEdC16V3E5QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:03:10+08:00"
+    },
     {
       "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
@@ -59,10 +71,10 @@
       "time": "2026-08-31T20:55:25+08:00"
     },
     {
-      "title": "US futures fall and oil prices surge after US hits Iranian sites in the Strait of Hormuz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "title": "Nvidia to Invest $3.5 Billion in Chipmaker MediaTek - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0cxUWZ1RkliNUJxdEcwWUZsZksxNUcybS1Ha3ZEeU4zV1pCTnhYdEhmUkNvXzQxSkk4aXVYV09RZnZSLVlrMTRKeXRORmhSc0VJWUprU0ZZN1FPTnpxWEU0YlZ5OGsxT2FGNk5PWUp5djdDR1FtOHJHWV9FR1o1YmpUUmdyOUxJT1NXaHdZZHliUmROYllnU2JsRlZqV3NuMlRj?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T20:03:00+08:00"
+      "time": "2026-08-31T20:30:00+08:00"
     },
     {
       "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
@@ -83,15 +95,15 @@
       "time": "2026-08-31T19:44:00+08:00"
     },
     {
-      "title": "Man arrested after Swiss rave shooting that killed woman",
-      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T19:41:40+08:00"
-    },
-    {
       "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-08-31T19:41:05+08:00"
+    },
+    {
+      "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zbkF2VXA2LU5ya25zLU00NzdaRFVXUGQ1Y1ZSQWt4blhhbU9Fa2FDMHFOUThrcDJZbzBYYWh0ODhBTzlOQzdzM0ltR0puaTZTSFdzTXFrRk10QQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-08-31T19:41:05+08:00"
     },
     {
@@ -99,6 +111,18 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53dlNGUGJ6NGNLWklCLVI0SHgtcnpDeXhyNkFpVDBDRkRUMG9SMjJLbGRWcjE3WWE3cldKSk9vNjZVV2tpYVktUEk2ZHBhSndhWVdtT0puMjlDQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T19:17:44+08:00"
+    },
+    {
+      "title": "Foodborne Illnesses Can Lead to Long-Term Gut Issues - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDI2YUN5X015U1UtYTE0Q3FqX0lLSVJlOTl3anFwVC1MVnN5MjN1dmlnZ3d6VlRjNmxRdjRSNkZYanY3WjRxTy1iTWZqWl91NzVnMlV6ZFVOQ0JfWkVabXBnMWJMX1Jka2QwRjZNUjRXSXFCelI3RVJpWW00UkIyelVlZmc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T19:02:19+08:00"
+    },
+    {
+      "title": "Dietitian reveals simple eating strategy for better sleep — and one habit to avoid - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckhTcXVyTlBacDZENXMzY3pNcXFFRV9QcDJUeGlIbGVVeTA2WFRQdEdxdEpzaXZueTFqV1N0eXQ5WVM3ZjBvazlDalR4MEN1VFg2M3Z3RHE1NGFoNFRDQmVTWkFHYjV0cDhFTXUxVW5QVy1vMmRBRE9IclI3Zk9fLVNHMlRseGI5MzNlSFdlUjdsMkl5cmtvU2xiSVPSAaIBQVVfeXFMTW13aGFUXzc1UEFPWElfNVJ3YnNFLWZpbDRxVXBtZkdRdm9oUEdZdW42emJfcWM1dkY3Znc5cGNtcmtVYVR4am5OM3FYaDRua0dsUlBrTEtnNHp4U3dIel9rQ2p2Ylg5WWFSckRsUTEzQ3dSNmJja083cHpObHBiM1k5REF5dWdmV1NOQmlkdm1oTHV6SmNpQ3RzQmg3NU1YSzB3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T19:00:04+08:00"
     },
     {
       "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
@@ -111,12 +135,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaVFac2JKdnl1MjctU0t6N0ZIV0dmV2YzRW9tTVVDRUhVd1VHaThQUk1PdUN6dGs1MXg4Q0IwOGVVVGM0TEZoMUVWWHBCNFpCTGpnUE40S1ZlczdCdExXbmw0MmtnX0dpTnVfS25yM1JvZFZqNUdkQVdSekxTMEhYM0Z3b09icHZtUTVPeW1zZjlDX1BsRl9ldVF4MVhXTTFSU1hhNGZB?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T18:43:11+08:00"
-    },
-    {
-      "title": "Survivors of Cyprus Ferry Sinking Describe a Harrowing Escape - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pRUdFRFByUzJINUpBdEN4ZER1c0dqbkhUb1ZkN1cwMFNwWjRlb19rT0ZXZi11RUJWc0FVWGJjUEhxVzVjaGxzeG9xR3dEUDZFQlpRX1BXMEFGTW5aZ1dpU0dZaUE3MHpHekxBcGlSTElDQVNHWjhGSHRua0c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T18:36:09+08:00"
     },
     {
       "title": "Nepal tunnel traps hinder flood rescue: How many are dead or missing? - Al Jazeera",
@@ -137,40 +155,22 @@
       "time": "2026-08-31T18:14:04+08:00"
     },
     {
+      "title": "Israel signs €3 billion arms export deal with Greece - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaTJnYXdJYXhNTXJQUHpoYXlUMUlLUXZ1a3MtSEIyS3BzSEpFMzBhTGRwdlRJVlhvcFFyNzdyOXlhMldHSVRKTkpjMHFLRzBobjY2WDYtMjBBdG8xWGpmeTFZMWtmNndxYzBNcDQ4b2tkSlQ0T3BQZkVLc2ozZE5yV1dhcTRNckVodHo2eNIBjAFBVV95cUxPZWxqdUFwR25LM2gzaVd2dEg3UjVqRzUtRVdqa0ZDUlJiSnJfcTB2dDJyakJKUV9pTllNai1pNWxISDlTUlNFMVZEdzdORVVQeE9oRTYtZ3AtcnBHMExUNlllTWFkbVRZZVdhREh2QUhYQzdPM1dhM3J5bFJvNTFpd0NkZzhRdmxDYi1mWA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T18:05:45+08:00"
+    },
+    {
       "title": "Karina strengthens into a Category 4 hurricane in the Pacific far from land, forecasters say - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtydW1iTmctcmlKa2JxNV9ybHhzNF9FM1dpZ0V3RU55ZW1rSkxrSEhIZEJEaEVzUWFIYk1naEhfYURfMXBrbDduaEVEMWVHYXZfUkVLeUJwUG10ZWh5bE1Ka2FFbWZHSXBTLWpMLTVua0ZMRzNVaHF4RkljcWlNeGg3MDgwWHI5cFM3VXRfdWtUM0p4cVQ4NDhvNThtS0h0ZXExVEF2b1Q0QQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T18:05:00+08:00"
     },
     {
-      "title": "Column | I’m an oncologist. Every man should know this about prostate cancer. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUUzdHFyeVVZMTd3SmE5TEdnSFBURlRISTlJd2dnYlNJeVQ4RFFVcVJYOHV2TEZwbXFPa0JEMWZTdTJqVDVfemxCVjMxUzdMQl9SQ2ViX3N2amZOZ2RuODllU2RSNDBYc2hSeXg1WGxDSlFxbzg2N2NoS1NpQ204U2hsUEdYRExZTDRqWkpqV0xMRkFEQXBHYTlfUS1sUVcwVnNEdC16V3E5QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T18:03:10+08:00"
-    },
-    {
       "title": "Pocket’s AI made my game ideas real. Now Meta controls the results. - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXQ3eXlwZVl6R0xtZG1QeHRMZURDbzZnamQ4TWxXd19JZjRQLXRnUmVDZDI4ODVOOFYtWEhtWXZDWk8ycHF0MFdUSXlDMU5pMms3STdpcXRVLW9ia3IyY0U1MkJoT1hNMFhwN3hka1Atc29GTFRlS2JaYzR5LWQ1d2M3ZzBiUkYybF9OeGVxSVZTUHpVRFhiRkFlRG40ME1jc2RnUTYzaw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T18:00:34+08:00"
-    },
-    {
-      "title": "It's Tim Cook's last day as Apple CEO. Investors are $4 trillion richer because of him. - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1FMODVhanEzZjdJUlRMeV9MVWUxb05LZ194QVB0RHlQRy10Zm1pcGVBcm1sVXpuUTAzVXc2MnhEM3ktSFM3dlduZ3lCMHBxdkpFYk1XcjVFNjBuTk9vd1Q2U19hQnhTZzFYYUJGYlppSVlxVGRVTHM3UnJBVlRUcTU5UmRMQUlaTXVlNldCYWRwTGFwZUp0RWliUFFzaUo3SWlCS0hMTThXcDV3UWlaMmFiTGsxeXBYRDZxU19MaF82SjVSS1NXZlpSYU9uamlQbmJPcThSSUs5eVJOQWY0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T18:00:00+08:00"
-    },
-    {
-      "title": "Wall Street futures fall as Middle East flare-up and 60% Fed hike odds - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajhuUWpkZVdxSktJbndMREFNRHI0V3ZCa052VEQ3SmJRNHhCZS1nS2UzRXo0QjZyNVpCd3VBWEIwaE82S3BBdWZwT3FrMERvc054Vk5yTG5fZUkzYnlvT0xhSFpVV1c3MHNSaVQwZWEzOEdHYS1RWHBSM2c5SE9vR0cxeXItb2tJcnZYTld0NzBDQjFZX3MxYUlraDNhSDlZU0wyNjUteGhsT1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T17:49:37+08:00"
-    },
-    {
-      "title": "Dolly Parton laid to rest alongside husband in Nashville",
-      "link": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T17:24:50+08:00"
     }
   ]
 }
