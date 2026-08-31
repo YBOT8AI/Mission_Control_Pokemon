@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-01T02:12:04.739876+08:00",
+  "generatedAt": "2026-09-01T02:43:11.386146+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618027.2,
-      "changePct": 0.02
+      "priceHkd": 619908.8,
+      "changePct": -0.07
     },
     "ETH": {
-      "priceHkd": 19372.25,
-      "changePct": -1.11
+      "priceHkd": 19417.56,
+      "changePct": -1.49
     },
     "SOL": {
-      "priceHkd": 811.75,
-      "changePct": -2.43
+      "priceHkd": 820.14,
+      "changePct": -1.97
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5524.5,
+      "priceHkd": 5514.81,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60236.37,
+      "priceHkd": 60135.15,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1120.57,
+      "priceHkd": 1116.26,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.19,
-      "priceUsdOz": 4432.2
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.72,
-      "priceUsdOz": 66.35
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 671.03,
-      "changePct": 2.63
+      "priceHkd": 673.46,
+      "changePct": 3.0
     },
     "Natural Gas": {
-      "priceHkd": 22.91,
-      "changePct": 1.18
+      "priceHkd": 23.01,
+      "changePct": 1.63
     }
   },
   "news": [
+    {
+      "title": "Ex-congressman George Santos banned from betting platform for life",
+      "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T02:15:12+08:00"
+    },
+    {
+      "title": "Two bodies found after Grand Canyon flash flood - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:13:41+08:00"
+    },
+    {
+      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm5Nb2d4V2c1d19xNHFiVjExRFhqMjZxM3FJa3hnblpmdjNwRHBaMHFiSlNUUnkxM3VxcmtOeUxYTThKRTBDa0VlNklQVFVESVhKbmoyd2R5OVZxS2R0VWF0cGQ2TzY2RzhqbnNPdnNnQlpGeTZBUjBGMWpYUzFzNUxsOVJkYzNr0gGOAUFVX3lxTE1RdzlMZzJyR2VUeV9kc2ozRXppdF92a3gtWGJ2ZkZ0QjNwdmgwQzNoYnZsVGx4c1E0cWs2OHg4WHhwLVNMdURfLVE4OFpHVGJFLWUwd1MzU1hpNV9xX2w5ZlQ2aXp5UXBwTC00WTRkQ3RWYzRpOFViZFVDSDF4WmVueTYwY29TeGNmZUNiUGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T01:56:01+08:00"
+    },
     {
       "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
       "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
@@ -89,6 +107,12 @@
       "time": "2026-09-01T00:56:35+08:00"
     },
     {
+      "title": "Olivia Rodrigo’s Daisy Chain Fields: A New Feminist Music Festival Takes Shape - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUtSMEJqQU5Ja3lJVVJmUkpKVE1KdXQ4ZVRkLTRPRXUzOGxiRW5xYlNOTlZwOHZUSW1ISFU1Y0M0Sk5zek5SZWtrclY1TGQzX0JwX1hONXJreWhwSW9TOHlyRWluei15QmhWUVFxYUFfTHZOSUEyd2RmZ3ZmamVuSFBwY0Y4d2VfT0VseQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T00:51:20+08:00"
+    },
+    {
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -101,10 +125,10 @@
       "time": "2026-09-01T00:42:17+08:00"
     },
     {
-      "title": "Iran’s economy in crisis as US launches new sanctions campaign - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+      "title": "Amish family affected by measles outbreak speaks out - TribLIVE.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnQ4V2dOSXlWR3JtSzE0RExtZGlGbGRZYzZGR0RSeGRyZjNJZnJwbUhoOWZiQ1BoaEJBUENSNDlIUkZSLTlyZzJhRXgydWQ0ZFpxZUNfd1I5T2VNdWxZcVJpeEdPdVd6dGJTaE9GRGlLVTRqdXg0dlEtZjhJM2ZxUGZBaWJjbGhOMzAxcV9oRllMX0k?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T00:37:00+08:00"
+      "time": "2026-09-01T00:40:03+08:00"
     },
     {
       "title": "Here are the 54 players from Utah who made initial 53-man NFL rosters - KSL",
@@ -119,10 +143,16 @@
       "time": "2026-09-01T00:32:59+08:00"
     },
     {
-      "title": "Apple Watch will reportedly get a big redesign, but not this year - mashable.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0ySjl2OVhVdllkNXhYNm15WjVSRHVBcEE2aHdwOUVxek1DbG1QYlZDYS1KYWFlNXZURlRHNWI2Y0tMb1BPT2hlRTdlRnlfNWtFaDFUdjYyQVd3SXNEQzJ2bjIydTFQTldTRHFmaExFVjk?oc=5",
+      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4N2xwUVVOMzd4SkxPTHExSWs1RzhBaG9PVDJIdE1VMThDSFZCWXEwazdwbklwRnAyVTlaR3JtOEd4RHJfNlJjUElCaXZtdGRyX1lXbERkQkt5aFRYNk1QMGZqeV9NWG5iOEhFS1l3V3Y4Yi1lb2RVb19EQWwtQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T00:32:28+08:00"
+      "time": "2026-09-01T00:31:15+08:00"
+    },
+    {
+      "title": "Tracking Potential Tropical Cyclone Five: Maps, spaghetti models - WESH",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUxHQW5YOXNNS2RzMlRzbkpWRkN2ZWpwR1J6a2JEbzJxWVhQOVJYeUFReTlwUlpGcE0xNGkySVNpbURyMVpYcnF3ZDI5a0VUT1MtTjNmQTEzb2xhLXF0NDJ5UkhKR1llQ2NSbDVzWDJEMXYwUTRfc0k2WU1FajduTm1NX1o4Ylk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T00:30:00+08:00"
     },
     {
       "title": "Apple’s Phil Schiller Steps Down from Running App Store and Product Events - Bloomberg.com",
@@ -131,46 +161,16 @@
       "time": "2026-09-01T00:30:00+08:00"
     },
     {
-      "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump - washingtonpost.com",
+      "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmN6QW9ULVpMRnNYaXR3OXZKSXZ4Q1JwdGU0cjBzZkRkWktxcXpiMjlCOXp2dFdGWmJ2QmdkWWxHMUJMWEwwdzVfaXRza0gxbm94eGZRQjNlLUFNamNxRmZqVVRqbnJLUkZxUDlNZE52YzBzZFBsWENScHpfRWtMOHc4NGZwcFE0MVB3MlVkZW1GV3ZhNjJvdktXdEZnM0R6YkdCSm9PbDB3d0V1UWVDZGZHYlIycHFzMFhJbg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T00:22:49+08:00"
     },
     {
-      "title": "Pentagon plays down report of Hegseth regularly overruling military advice - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU29XaE45bFdHWTlla3BsY1RLWTJIUnVuWXR2bFJvY0Z6YzVJajlyVm5vZFJXdUkxMGdzYXY1UERhMTIwY1JPLWdlX08wWlFqdVdiNUxaRy1wM2ZvTTRaal96dUMxaVhrT1EwdUJ2UmtGZGhOSnZVNWZlVkdBcnVvMTJB?oc=5",
+      "title": "Retaliation on Kharg Island weighed as US-Iran hostilies reignite - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUV3N3pka3VwNzBqTDlCV19ZZ0QtMXRpOHBLLU9aRjVuMUpLa3hqOWtSdE1uNkRoZHV6QW50dkZDdjUxaUNXWUJxNkhETS1PTW1CREt0b3R0WUdWbU1ZUlhCakN1WTJJVlZCNF9hQm5xdjVaU2dyeEZ1eFRyZF9TRG9aODNGc25JNjBleV82RQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T00:21:00+08:00"
-    },
-    {
-      "title": "Lionel Messi announces retirement from Argentina national soccer team - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2hhSnlyQkRfYzRHbjhXbmppbmwwTUEzOXZmcUFSRkhHZWZhY2ZUWmhxNmF6WUNLanJnR1NyT0Y3eHlZTldqRjN4cEg2cTEyV1JTV2JXdjFpVnM2UG1hRjBNY0RvSWJZcWVxNmduaDVmUjJfUlRoWFE0S080Y0M2LTRVcjVTaHJEMjRTWWU2dFdaSDNHMUdYOW8tQXV1T3ZTVTdoUEhnclE2VS1iLWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:17:51+08:00"
-    },
-    {
-      "title": "Bessent to Druckenmiller: My bond call was right - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFBIa0IwdElPUGMyanFybG5OS2ZvR01XR2dmRnJtVi1fa2NKMm0wR25nQVlQQ0NsZnZ5YjQyODJxSEg1OEVTWTVUaWJtY19lQ29JbDN2d2ZUTTVkZXkyMGc4WkdsZlVkOXd6dlZHWVpSQkZBSTJsM3JrSkxFd3NGaXJuV0ttbnlzRFNBVnpR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T23:55:33+08:00"
-    },
-    {
-      "title": "Daisy Chain Fields: Peace, Love, Unity, Rodrigo - Pitchfork",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UYkNKMlIwcWNZTHNLU041TWhPUDZLc2RyY25adUR5TERSYnd6VkRGM2xrNHRDazFsaGtaVWVwNGZfalNRV2FRQXY1QXJUdEl4eVpiQ29tek9IX0w4a1VqVE1GQ1FXOGNhWUlvRFU0LUY2U1NaUG9mUTBMTnE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T23:53:08+08:00"
-    },
-    {
-      "title": "Trump: Communities that reject data centers will end up ‘backwards and poor’ - Politico",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93R0xQY0l1TUo4QmgyQ0d0SnhuWWdSWHJuR2xWRkVPdVZNQS10R0NHb0xDYWl1LV9ZQU9nYzE0eTQwZVN3VW5qcXRoR1JiR1hKX3ZrVi1Ba3F4a3RabHdWUGNSeU8ydExIU0p3MnRhUnJHbjZZZERj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T23:31:00+08:00"
-    },
-    {
-      "title": "John Galliano exhibition at New York Met cancelled after backlash",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T23:30:05+08:00"
+      "time": "2026-09-01T00:18:43+08:00"
     }
   ]
 }
