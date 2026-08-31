@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T15:17:37.129661+08:00",
+  "generatedAt": "2026-08-31T15:48:39.822707+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612405.92,
-      "changePct": -0.16
+      "priceHkd": 613550.56,
+      "changePct": 0.16
     },
     "ETH": {
-      "priceHkd": 19123.96,
-      "changePct": -0.77
+      "priceHkd": 19133.28,
+      "changePct": -0.62
     },
     "SOL": {
-      "priceHkd": 806.19,
-      "changePct": -2.3
+      "priceHkd": 807.13,
+      "changePct": -1.78
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1118.37,
-      "priceUsdOz": 4436.9
+      "priceHkdPerGram": 1121.25,
+      "priceUsdOz": 4448.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.84,
-      "priceUsdOz": 66.82
+      "priceHkdPerGram": 16.92,
+      "priceUsdOz": 67.12
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 668.67,
-      "changePct": 2.27
+      "priceHkd": 665.3,
+      "changePct": 1.75
     },
     "Natural Gas": {
       "priceHkd": 22.34,
@@ -52,6 +52,12 @@
     }
   },
   "news": [
+    {
+      "title": "Nepal floods latest: Officials intensifying efforts to free hundreds believed trapped in hydropower tunnels - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T15:21:49+08:00"
+    },
     {
       "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
@@ -63,18 +69,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T15:04:36+08:00"
-    },
-    {
-      "title": "Oil jumps more than 2% after US attack on Iran's Larak Island - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkdIZUgzZVU5dVMySHVxT1FoQ2k0NzhUQnpZVVNxekVfUmN4bVROcnF1NWFveWlIVGdfOWxJMjZpR1Q4a1dXbEdCT25XSUkyZnJvaVUyWjNDNlowejl1ZGJBa2ZSdDE0c19lMXctV0haTk0xMW5nTjU4dzBWTHgzbWR3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T14:06:00+08:00"
-    },
-    {
-      "title": "Andrew Bailey warns G20 of danger AI poses to financial system - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDEyUlAzNEduUnpUVGtPNElwbHREQ2ZDdi1xRkQyaGg1VWxXWjBPS2puTmR4Zm1scE5uenI3MHl5bDhlaUFnVHJIaGpDVzBsb01pUkxCTzd6cFpwQ1dKUFY3MVNxclJUNlQ2U3hEQk9CbXBzOXF6dnR5bFVGeE9rX2xsX0k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T14:03:08+08:00"
     },
     {
       "title": "Novak Djokovic out of U.S. Open to Mariano Navone on harrowing night for all-time great - The New York Times",
@@ -95,10 +89,16 @@
       "time": "2026-08-31T12:57:24+08:00"
     },
     {
-      "title": "Oner person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
+      "title": "One person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T12:34:19+08:00"
+    },
+    {
+      "title": "BLACKPINK’s Jennie Faces Serious Accusations Over “Using Kids” In Music Video - Koreaboo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVFqcTVBb3BxazBjdVlsQ0wxYjVaSzd4MzdwQjdoMjVlRXJXQ1VONWlOYTVzRVFGdWd4UEhMX0JlMGZwZnVuYkpHSFZ2RWVEQmkyanBPb2pFck1EV205R3h0bXpmUDFUSlZ6cmM2Q1Y1WGt2Uy1qczlqVy1XWmlQUGljUHN2dnozVEhIYlJVV1Z5QmxRTDE5RzN4TDVsbTBY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T12:26:21+08:00"
     },
     {
       "title": "Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike - Bloomberg.com",
@@ -107,28 +107,28 @@
       "time": "2026-08-31T12:15:00+08:00"
     },
     {
-      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T12:00:42+08:00"
-    },
-    {
       "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T11:56:15+08:00"
     },
     {
-      "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQenZsTjlMVG1FR1RMTU16SjM0Snd5VlhsSmlrZmM1S1UyYTU1THNzdHRNbXVCamkwZHBJcEh2Rl90YTl6b2pIMkRUR19zVkdXMUJxMkZydzYwZU5vZ1BSQmhFS2FQZ1VHWllUeGQzM191bUEzenhwcHVuZWpITE9qRllmRlFtTEE0SDN3Yw?oc=5",
+      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T10:47:34+08:00"
+      "time": "2026-08-31T11:30:42+08:00"
     },
     {
       "title": "Dolly Parton laid to rest next to late husband in private Nashville funeral - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFN0SnBLZ2IxVGEwLXc3YWJ2Z2kwdUJPTC10WjRFYWZwdUlYakRGSmJWblBjZ0I3SXUwelB4d0dZNzA1c0FWVERUbHJhVVB0TktoYmpzakpnYlkzc2JKMEl1QkNxQ3JHcVdEc2I0dnAtaHB5RGhmQWRzLXNkWkxDLUZMaTQzQVZVZHBMaUZxXzlVY0NBaXRvODZlWHJsUXUydnVud1FnQTR0b0hTdFU2WmZCd24?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T10:45:14+08:00"
+    },
+    {
+      "title": "A hurricane could form near Southern California this week, seriously - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWtnd2k2cldNUG9qM3ktM0g2aGtLNk9uczFibGx6a3JoZEN6T2kwVTVmWC0xek8yeWk2ZHJ0UjZtQ0J5b3E0TzBLNUx2YTV1a0RQZTQ3SDdDN3NlOENrVk9kemY1T2Y1N25OeDIycmhhS3BiMDk0bm1Jcm4xZHE0Wm5wSVVzNnFWNVNIaFY2amo3QkkwWFNuedIBngFBVV95cUxQT2VnQWM1YnRDUTM3TGtENHF0S0xya1RFTDdvTjRSNlA5QmJOeF9lSGtvTjY3OW5JeFZNSTV5OVFDb0o0NUFKbzZYLUh1MDRId0FRSXpubHhPMWRkWG5LQjZiUW9jQU93WDZ6UlZTM2Qzd1I3OUdmRDYxUzJ6el9JNXkyWk1POFY4QmJsalFiaFFTYzVEeGJJUGFIMG1Pdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T10:36:38+08:00"
     },
     {
       "title": "Venezuela’s Maduro shares first photos from US detention - Al Jazeera",
