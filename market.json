@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-08-31T22:01:29.607487+08:00",
+  "generatedAt": "2026-08-31T22:32:36.242258+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610312.64,
-      "changePct": -1.28
+      "priceHkd": 611425.92,
+      "changePct": -1.09
     },
     "ETH": {
-      "priceHkd": 19130.54,
-      "changePct": -1.43
+      "priceHkd": 19164.33,
+      "changePct": -1.31
     },
     "SOL": {
-      "priceHkd": 802.66,
-      "changePct": -4.43
+      "priceHkd": 803.91,
+      "changePct": -4.09
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5521.12,
+      "priceHkd": 5512.46,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60196.3,
+      "priceHkd": 60110.06,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1120.57,
+      "priceHkd": 1120.81,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1114.49,
-      "priceUsdOz": 4421.5
+      "priceHkdPerGram": 1115.47,
+      "priceUsdOz": 4425.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.78,
-      "priceUsdOz": 66.56
+      "priceHkdPerGram": 16.71,
+      "priceUsdOz": 66.31
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 676.04,
-      "changePct": 3.39
+      "priceHkd": 671.73,
+      "changePct": 2.73
     },
     "Natural Gas": {
-      "priceHkd": 22.77,
-      "changePct": 0.55
+      "priceHkd": 22.58,
+      "changePct": -0.28
     }
   },
   "news": [
+    {
+      "title": "G20 finance meeting live updates: Bessent, Warsh to give remarks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMElCdDlGOFVqV2JqRFRpeEktUTRfYW51aXpYaEtVY0FzMHRNMEFjVWJkYTJxSWZlNmtnbEpoWnJLMFZRamVQOVB0WUpoQmNMNmprUmNqVTJLZXl6X280b0I3RzdXUWtlN1NLY0oweWROVnF1dGhmY9IBfkFVX3lxTE15NDB3VXpqX1ZsTXNqcGhOSmdJMDN1NzFONnU3UkhQNEpQT3VMU2M4SG1WZ08xSHZXZXJ3b3ZvTWdfQ2VRMVVtdGkyNHc3cXZ1aFQtTHZXa3RSejdSeThSTjlmdE9EUXVZVnlXcV9pSjdaMG41b2o5aEZOa05OQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:51:00+08:00"
+    },
     {
       "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
@@ -65,10 +71,28 @@
       "time": "2026-08-31T21:36:16+08:00"
     },
     {
-      "title": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjVCMF9fR3B1T2JhUWpRTXVNeFhmeUtDajQwdDhjbzBLa1RYalJLdFU3OWpWbkFzVTJBSVB4RG0xZlpWSU1NQm5RQUpuUThOUXo4bEhVcUVwYjFCYXhoZE0wblBFbFNSelFuamZaUWhabmF0SDRYaDVnNU9Hd0RacV96Q2VCY0k?oc=5",
+      "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T21:22:14+08:00"
+      "time": "2026-08-31T21:35:00+08:00"
+    },
+    {
+      "title": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:21:09+08:00"
+    },
+    {
+      "title": "What Is Phantom Ranch? Inside the Grand Canyon Lodge Hit by Flash Flooding - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU5BQ1FaeFlPMi1YS3VueXhNeXdTVmt4M0hsSTJVVHRLcWdPVDR3SHJXRXFWVnE2Tk5zcjh5R0V3R2Y3cUdRZVBWbnBMLUd4WmdZZnUtcFVTbHY4Rl9USF9nVGRxRUZaUk9nVVpQbmlWeDVJY0JVcm91dWhHZ0hpZEVEQkM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:20:35+08:00"
+    },
+    {
+      "title": "Ella Langley honors Dolly Parton with emotional 'Jolene' cover during Alabama concert - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeExSTXJIbF9lRkIyV2QtUGhyZVUzMElTc1F2VWNiU092WDBMeUlra0JWSVowbkpuR0NzRTdDa25pb0dSMHlvRnFpZVUwdkRYLWRuUXpOSDFUaGh5R3I0MW51M1djYTk4elhxX2NNMFNyM0Z6RlFKSzJqaEVqdFJpQm9ZaGRNSC11M3paMk9oTmZra0J2MjNkellOSEZPODNabWpuYU5DWHgzVHVCNF9IcA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:13:28+08:00"
     },
     {
       "title": "Man arrested after Swiss rave shooting that killed woman",
@@ -83,10 +107,16 @@
       "time": "2026-08-31T21:09:07+08:00"
     },
     {
-      "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
+      "title": "Barcola joins Liverpool from PSG in £123m move - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PZ0hBaDF1VmlUNnloa3p6dE9CMEMzSXVlT1dLSVJvSm1lR005NDhLQ1BFUlJrUzhMZVBSN0FTSmdZQ09sUDFJUms3YzJqemFjcGxfU1VyOExWNzR6VE51SkV0ZGkzUTg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T20:58:18+08:00"
+      "time": "2026-08-31T21:01:22+08:00"
+    },
+    {
+      "title": "Iran’s economy in crisis as US launches new sanctions campaign - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:01:00+08:00"
     },
     {
       "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
@@ -95,28 +125,22 @@
       "time": "2026-08-31T20:55:25+08:00"
     },
     {
-      "title": "Melinda French Gates stuns festival crowd, pledges to match Olivia Rodrigo's fundraising for $20M haul - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMEVXcHdfQ1BibnNtWWUxSjRYdDNUVTdhTkNxN19BcWduNWk3aVR6MlgyYklaVHlUeWtXY0l0WGtHUHNIUy1tZ0ZhSGZJNWlVSXhWOHZuNVRtaTBYZll1UWhQXzZlRkRaRWJoN3l0WXRYcDVjeFJsWW9YWlFzQ0dmaUxhM2hYZEtVQ2VZSEpVa0tpR2hmTXVPYTBzNVJsY29GZXlObjdBaW02dU9jSUJDVHZSZEhpQk1KNF8zNWl3UTJzdXVKQjZQTdIBzgFBVV95cUxQcG43aFRmSnZYeGRWMFFNeHdsQWlVbWhDZ0NScFk5X2JzcUNsU0pqRFdIQlpvNTNTSGpQemZ6SFpvVS1tNE5MUjBscEh6SXkzRERsMHQ4S3U0X0lfVjZzYmJGYXhlMlRrWUNBelhSRTlHb3MzTTFHalZncm0wRGU1TUNwZjd3WXFYdVhvYVpuZW1CeUFFbS1MR0VVenFXRUlHS3ZhUGJsc1oyQXhsdW9WTnNfT1BRUjRTWUNZNHU3eGJjQmY3a01RZ001SUw5Zw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T20:34:14+08:00"
-    },
-    {
       "title": "Aaron Donald reveals wife's advice that helped him make decision to come out of retirement and re-join Rams - Fox News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDdpVVBwanJvcHBHRGZ0SV9PdGNSS3lHZ0ZzUHpCaUFsNDBiNXVLUER5V0gyLXhjVWdjQkNUbWkxY0V3eFRRbGdjN2NjUm83WXlXZnFKOThSbk0wQ1lLYmFKVVZIaklmTFMyLVpWaDRVcWgxbktUTmJKVk05UlhhV2xZS25LOE1QTDMxX1dMZjNUY0YwTllhLThDVVZMZlFkNGJna3ZzSXlJNUlTSXlWWXBxUW84ZnJYQ1VzWA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T20:15:46+08:00"
     },
     {
+      "title": "Fed Chairman Kevin Warsh triggered a new problem for stocks - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGVwbHF4YldTaVludmxPeGxBM0tQMXcyR1JLcVBhcTRUSVpVNXJaeFNSVzZNazFOaExHNUdWbjlDa3FpaUhadjZ2eldfOVA2YnZvU21GLXdOTXJ3eHdvQ1E2dF8ycjBsQ0V0YWttNHFOM3d0bjhqc1B2RFZPLU81ZHVKMXcyT3gtWmZXc3lXOW16cFJ4Sm11UkxSMkR5RVV0clcwN21fVS1lN2ViZkhCc2ZGbHFrMHM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T20:06:25+08:00"
+    },
+    {
       "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
       "link": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-31T19:56:50+08:00"
-    },
-    {
-      "title": "Bessent’s G20 pitch collides with anxieties over US debt and Iran war - Politico",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM2hocFFkcFV1VHB0VnI1cHhHZV9OMGtGNFZ3M3JlQWM4aUstOEFDcGxBNHBqSEE0cDlLVU5pNTFwMzlQQzdGMENyLUQ1X3dXRndvTWM4dEl2N0NFME9zVUxoM1RwOGlvLUFpV21sd0tfRjJBbUZRZ096M3FpY204WnFXLU4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T19:56:00+08:00"
     },
     {
       "title": "The jury's options in Lindsay Clancy's murder trial",
@@ -129,12 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9UVlk2VmxjcUNNOHUyY21pSlM4eTVFY0VWc0F1RjVROVJWX1Fqbm5ITjlkVTFKZVk4LUhZOHFEcmpLQ2o5aFBDR3pZcmJLdGc2UWF4ZGlfTHdNY0hSaHNCcUZwWU03N1ZSdzhRdXRrdHRYUXhVNjV2WjdzVXo?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T19:50:17+08:00"
-    },
-    {
-      "title": "At least 1 dead, over a dozen missing at Grand Canyon after extreme flash flooding - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmY0a2tRaFFteENFcnRnY0JTRzNDdWdNcFNoOWZpRHIxLWVwYnNNSVhjempQaldCMTFnaHRjVndEYWhfX0VTVDc1dmdtTFpsX0E3Z0JpVUczQXlMRUVPY243TnVuSGFYX3ZSZGkyWERLeklmdDlvY1JCVkZVcDN1MlJxRG1rcHJuWkdvcVVzbzh6dXRsVlRjWjd3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T19:44:00+08:00"
     },
     {
       "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53dlNGUGJ6NGNLWklCLVI0SHgtcnpDeXhyNkFpVDBDRkRUMG9SMjJLbGRWcjE3WWE3cldKSk9vNjZVV2tpYVktUEk2ZHBhSndhWVdtT0puMjlDQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T19:17:44+08:00"
-    },
-    {
-      "title": "Karina strengthens into a Category 4 hurricane in the Pacific far from land, forecasters say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObUtydW1iTmctcmlKa2JxNV9ybHhzNF9FM1dpZ0V3RU55ZW1rSkxrSEhIZEJEaEVzUWFIYk1naEhfYURfMXBrbDduaEVEMWVHYXZfUkVLeUJwUG10ZWh5bE1Ka2FFbWZHSXBTLWpMLTVua0ZMRzNVaHF4RkljcWlNeGg3MDgwWHI5cFM3VXRfdWtUM0p4cVQ4NDhvNThtS0h0ZXExVEF2b1Q0QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T19:13:00+08:00"
-    },
-    {
-      "title": "Dietitian reveals simple eating strategy for better sleep — and one habit to avoid - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOckhTcXVyTlBacDZENXMzY3pNcXFFRV9QcDJUeGlIbGVVeTA2WFRQdEdxdEpzaXZueTFqV1N0eXQ5WVM3ZjBvazlDalR4MEN1VFg2M3Z3RHE1NGFoNFRDQmVTWkFHYjV0cDhFTXUxVW5QVy1vMmRBRE9IclI3Zk9fLVNHMlRseGI5MzNlSFdlUjdsMkl5cmtvU2xiSVPSAaIBQVVfeXFMTW13aGFUXzc1UEFPWElfNVJ3YnNFLWZpbDRxVXBtZkdRdm9oUEdZdW42emJfcWM1dkY3Znc5cGNtcmtVYVR4am5OM3FYaDRua0dsUlBrTEtnNHp4U3dIel9rQ2p2Ylg5WWFSckRsUTEzQ3dSNmJja083cHpObHBiM1k5REF5dWdmV1NOQmlkdm1oTHV6SmNpQ3RzQmg3NU1YSzB3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T19:00:04+08:00"
-    },
-    {
-      "title": "How many N.J. school kids are skipping vaccines? See county by county rates. - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOE9RcFljN0NBdXA4OC0xZXcweE9GSkQyQ05zcHlHVEtNMlBSbVpaeU9YYkhKOTJnaHdZVXd2SWdYeUJOdmhzd0J6YzhHU2wwQkh1MnZYb085QkR5blphaGFDclI1MERhczRCeldBT2tsUmNINzZaMVhpcGdkVUNyejE5ZHJYZDlOek1xM2h3WnNOQzNJZ0h2eUtMYU1GZk13d3NoODdqaU9vOGxKdGFUbmw0X1o?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T19:00:00+08:00"
     }
   ]
 }
