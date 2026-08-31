@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T08:02:35.514526+08:00",
+  "generatedAt": "2026-08-31T08:33:33.564725+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608556.48,
-      "changePct": -0.75
+      "priceHkd": 610751.68,
+      "changePct": -0.39
     },
     "ETH": {
-      "priceHkd": 18923.49,
-      "changePct": -1.75
+      "priceHkd": 19047.91,
+      "changePct": -1.27
     },
     "SOL": {
-      "priceHkd": 794.74,
-      "changePct": -3.91
+      "priceHkd": 800.46,
+      "changePct": -3.07
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1124.72,
-      "priceUsdOz": 4462.1
+      "priceHkdPerGram": 1125.81,
+      "priceUsdOz": 4466.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.78,
-      "priceUsdOz": 66.58
+      "priceHkdPerGram": 16.84,
+      "priceUsdOz": 66.79
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 663.97,
-      "changePct": 1.55
+      "priceHkd": 661.54,
+      "changePct": 1.18
     },
     "Natural Gas": {
-      "priceHkd": 22.41,
-      "changePct": -1.0
+      "priceHkd": 22.28,
+      "changePct": -1.59
     }
   },
   "news": [
+    {
+      "title": "The US-Canada trade war in 5 charts",
+      "link": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-08-31T08:05:22+08:00"
+    },
     {
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
@@ -77,10 +83,16 @@
       "time": "2026-08-31T07:11:03+08:00"
     },
     {
-      "title": "3 states battling new measles outbreaks. What to know - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFRLRlY4QTQ5UW1IQlpYUkI5UVVyMTZSS2ttYm9BZFFJemtDMFNlNGlmV0xqdlVjQ2xoRUZQZzdRTmUyWkkwUWhUNHFBelhIbDdRRHpmb3VTTVZSVkk5MU5fbDlEZlNURmNNR3IzREs0SmdiZGhJYXZIUjVIRW1Yck9rOFNoNk9YTnROQXFCdjVHQ0dGX3JVbi1EbzBnaENRT3QxRWpkdGhrVTdKZ2NmWkRuYzZYSkc5SHZRU3VZY3VVd3dpWGc?oc=5",
+      "title": "At least 15 missing at Grand Canyon after extreme flash flooding - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmY0a2tRaFFteENFcnRnY0JTRzNDdWdNcFNoOWZpRHIxLWVwYnNNSVhjempQaldCMTFnaHRjVndEYWhfX0VTVDc1dmdtTFpsX0E3Z0JpVUczQXlMRUVPY243TnVuSGFYX3ZSZGkyWERLeklmdDlvY1JCVkZVcDN1MlJxRG1rcHJuWkdvcVVzbzh6dXRsVlRjWjd3?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T06:50:00+08:00"
+      "time": "2026-08-31T06:54:58+08:00"
+    },
+    {
+      "title": "Scottie Scheffler passes Tiger Woods at No. 1 on PGA Tour all-time money list after second FedEx Cup win - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjBxYTN4MGFEQ25aX253SG9jMUxtOWJmcFh6cTB2Yk85NlVIT0JhTGNBWDFzclBWS0REZVhyRG9VN2syMnRSWmxyT2JBOHVhQV81bnJmalpVQVppYmxUNWpSeDI2cGFaYWRhd0pGUlNKcFA5TnRVb3NkdGIwM2g2WFVZSnJsbUkyVGN2REp5LVRUcFhySFhLTEhLRQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T06:48:45+08:00"
     },
     {
       "title": "How did nine children die in a 1991 Pennsylvania measles outbreak? - Pittsburgh Post-Gazette",
@@ -95,28 +107,16 @@
       "time": "2026-08-31T06:26:58+08:00"
     },
     {
-      "title": "Tour Championship purse, payouts: Scottie Scheffler earned $10 million while winning the FedExCup at East Lake - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZlNlYVVzQ0pJMlJJZVRtd3VaOXFsMm1DNkNaY2tTUnhfczhmY1lfNi1vZHZaZk1sQjhBaFVoM3NVT21MaGpUYUVfdlllTjZLVjFGXzFRdWpUd2c4eHRwWUZGRnppLV9fYzhkSnJ0YUR3M09tOVk3NkJSQjF1QkdtZTZjVFNDa3ZhQUZ3ckE1RnJNQVE5V1lqU2VwVlVCeU1oYjM2cExTRzFxeHU2YVZSS21EeEtJdnVVZVNCOHNKb3NZYWxudmZ2NFR4MUw3NFVmVUhoRWxSZkNkd0FQcjRkN1NZTHhwajQwdFhxXzNXVTZ3V0tuUFR0TGhselZLRXFUSjg1UQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T05:58:30+08:00"
-    },
-    {
       "title": "Roman Space Telescope live launch updates: NASA, SpaceX begin post-launch press conference - Space",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T05:55:36+08:00"
     },
     {
-      "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
+      "title": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3hzbEZHU21JLU4tTkpPcUhRbXJ1eHFOYzY5WjZTSVZpQjZ3WnFQRzdvREJmUTdzbVllc2Q3SVc4a1pDWkJ5UEpwMk1naExrWTJDOFY1RDFCQ29wNXFLWTFDejlVb1NWZjZqdjRRaWF1WWJHeW5idVU5Nm1tOGlyRldR0gGHAUFVX3lxTE1nVEVvQ09qbE83QW92RFNsemxsVTNUMFBnMFVTck9rYTBybWpJaEhoYUZLTjBsUG9YVjBoS2tpVWJYMmNCX3FrSFQ4SHlqNGlSX0JIX1lYZ3JtOEF1VGNGeUhXWW8wZlQtTnN6YUhaS204eEsxc1JZN0RMeTJrMjJJV2JXVEJVVQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T05:52:00+08:00"
-    },
-    {
-      "title": "Grand Canyon flash floods leave around 15 missing as dozens are evacuated, park officials say - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1BkYW1VTWRSR18yU2xPdHZrdDl5R2ZPcGRTNEVPZjJrWUNMTzc4LVFLbmNpSjFEellpZ1FyZTZCMjVCTE5YMWp4RW4yQTlfX2JXaEZraWdfcDl3NHJFMnNWdVgxVTk5aUNmNEktaXVrN21tMlFEM0loSElTTnhqZjdvd2VuYjNxZEpSV3p5OURxZmNRLUNnSTlUa05YdXk3ZmxSNnZmdkE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T05:28:23+08:00"
+      "time": "2026-08-31T05:54:02+08:00"
     },
     {
       "title": "Google Maps changes Lake Ontario to ‘Lake America’ for US users after Trump order: 'It's official!' - Fox Business",
@@ -149,6 +149,18 @@
       "time": "2026-08-31T04:37:44+08:00"
     },
     {
+      "title": "Colts WR Keenan Allen was arrested overnight for DUI. Here's what we know - IndyStar",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOYjZBc0lpTTBtaUhWckNnRjdQMzJjUkY5Q0g5Tk4wOW5GRFVsX25PQ0tGcTlfYXJpUGU5Q0xGMVAwZEJSUjB4R2hzTVN4cGdZczNiWHQtQURqWVVsNi1OWWx4Y0ZmWUtHZzQ0R1prdGdaSjk5T0cyNXM5MHFKd0RnZVpnTS1yV2gzY3dSWGUybzZBYmhKSjJub0ZqNTRoOWJqOXdMZ2MwSllOeGdrZV80OGZ6R2xIWmY1U214ejMxQV9DSEpMaWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T04:25:00+08:00"
+    },
+    {
+      "title": "‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’ - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlJLZ0kzck5VLW8zcGZxTXRKVTRyb2cwZmlZRHVHYUhFQzhQY3pwXzdoMFdtZnVRUU55cHQxeGJTWTB1SHM5VFBocXljbVZ1djg5S0JiSzBmeVo5ZDlCcHMwZnUwd1BySEJ2UHVGYzFPdDNCZUk0ZnBuemNlTG1fQ1pvMVdXWVVkZ0JkcWpkMWR4QlJQekNtMUdXTUQxcmE2dTVwYzFtRmtCZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T04:17:00+08:00"
+    },
+    {
       "title": "Sources: Aaron Donald unretires, reaches $20M deal with Rams - ESPN",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUdSOWdXUzRSVXJWcVlNVmoyZGNaa2FQNkw4eWtZa19yYk5tU1ZWcm9DX3VjS1pCYXJJNGt2UHpQaGxLZWZILUNNcHVIT3pid0VNbGc1eUI2WW1wSGlaR0o2SEozb2ZiOGNKYkgwdFE3cEpPd1RtSFoyTWQyUTVXMERBQjhOTGRTYzB2MGI5Q2VtRi1Sd2NUbmx6Wkljdw?oc=5",
       "source": "Google News Top",
@@ -159,18 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T04:02:43+08:00"
-    },
-    {
-      "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T03:37:20+08:00"
-    },
-    {
-      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T03:29:42+08:00"
     }
   ]
 }
