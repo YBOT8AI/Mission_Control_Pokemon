@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T11:08:55.769245+08:00",
+  "generatedAt": "2026-08-31T11:40:04.665638+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607764.64,
-      "changePct": -0.7
+      "priceHkd": 609403.2,
+      "changePct": -0.57
     },
     "ETH": {
-      "priceHkd": 18891.34,
-      "changePct": -1.82
+      "priceHkd": 18974.37,
+      "changePct": -1.56
     },
     "SOL": {
-      "priceHkd": 795.76,
-      "changePct": -3.35
+      "priceHkd": 798.27,
+      "changePct": -3.22
     }
   },
   "stocks": {
@@ -33,25 +33,49 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.37,
-      "priceUsdOz": 4425.0
+      "priceHkdPerGram": 1114.64,
+      "priceUsdOz": 4422.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.7,
-      "priceUsdOz": 66.27
+      "priceHkdPerGram": 16.69,
+      "priceUsdOz": 66.22
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 667.18,
-      "changePct": 2.04
+      "priceHkd": 666.24,
+      "changePct": 1.89
     },
     "Natural Gas": {
-      "priceHkd": 22.46,
-      "changePct": -0.8
+      "priceHkd": 22.52,
+      "changePct": -0.52
     }
   },
   "news": [
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T11:25:36+08:00"
+    },
+    {
+      "title": "One Dead and 15 May Be Missing at the Grand Canyon After Flash Flood - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3k2b2VidEVVck12bUE1Y0NxUS0zYnVmdkxxYzNodjZyZ2pjWmJmcXZYSU41dUppRmNiOE9VWW56ZXBwNk5ULUtWMmVyYjlKZkFPUlc3VU9zcVNwNkNLSkFTSGFHVnpDR1paZ25fNm9yMDlyc0Znbml2ZGdFeEY3MGNxaVF5c2U4WFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T10:46:36+08:00"
+    },
+    {
+      "title": "Venezuela’s Maduro shares first photos from US detention - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHVNVFl1eGJCSkVncTNZU2tqVjFGN0MySjlrTXNmVkRSeUJWVkJJbUpBbVJGLWJhOUlVRGluemZBVzd2clVrVGtQU0dsSkFWa1MxUm1MTUdwM1cwM3FxVHN1WHZkWm5PVXd0VlJ2cmM4eldwWjlvMDhLV1FDVHNHVEphUlA4YkV5ZDZ5UjFSVkJtYmFpTUdGd29DUXXSAaIBQVVfeXFMTXVxdlBEQ1VlSVdSTEFicnJnYlVzbUlUWUQzWFBUVjA5TThPWExkR2dZal9XMWpkd0poRURYQ0xKWm92ZFE4bm1TTUhwQXFKTzg4WUFTeERDZXY0Q3N2WHJydEdtVWR4WVo5c0VodkRGcWl5T24xQ0ZMTjJRUnN5dW1COVpyd2FJYTVKcmFrWExtS0plZUFwU2ZCN2gzakJoNDF3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T10:35:37+08:00"
+    },
+    {
+      "title": "Aaron Donald ends his 2 1/2-year retirement and returns to the Los Angeles Rams - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWU5hOTVHTUZkODdhQXpTRWpERWhMRl9zdk1iM2JBR3JJWGVfYXp5MTA1eUZjMnB1aGV4eUp6Rm9uc0tHX09MWmxBd3BBczY3SEtMWFlZcFQ5R1lnaHNDMmlXai1jY2JLazBxY25vN2Z6T29icTJnRmZnMGI3VmxMenZPVDVHS1prZjVyUlpFcw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T10:31:00+08:00"
+    },
     {
       "title": "Iran attacks US bases in Jordan after US strikes Larak Island - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5",
@@ -69,12 +93,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2RVM0pVVURyOUR6NGJiMVdKcTY2d2M1bkx2RjctaGdEZVp5TTFlcnRmQXdfbVcxRDI5Z1gxcjVzWE5yZG9JZXgwN3YzLUNEZ3l4SURwRkxNWGY3TDhGZWUwemlIMWZGNFVQb29pOTRhWU0wV25NaERGV3ozcGM2Zkp3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T09:12:00+08:00"
-    },
-    {
-      "title": "Grand Canyon flash floods leave around 15 missing as dozens are evacuated, park officials say - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1BkYW1VTWRSR18yU2xPdHZrdDl5R2ZPcGRTNEVPZjJrWUNMTzc4LVFLbmNpSjFEellpZ1FyZTZCMjVCTE5YMWp4RW4yQTlfX2JXaEZraWdfcDl3NHJFMnNWdVgxVTk5aUNmNEktaXVrN21tMlFEM0loSElTTnhqZjdvd2VuYjNxZEpSV3p5OURxZmNRLUNnSTlUa05YdXk3ZmxSNnZmdkE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T08:49:57+08:00"
     },
     {
       "title": "Brutally Honest Emmy Ballot: “‘DTF St. Louis’ Should’ve Been Called ‘WTF St. Louis,’” ‘Widow’s Bay’ Is “Far and Away the Best” Comedy on TV - The Hollywood Reporter",
@@ -95,22 +113,10 @@
       "time": "2026-08-31T07:58:45+08:00"
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T07:53:03+08:00"
-    },
-    {
       "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T07:52:27+08:00"
-    },
-    {
-      "title": "Ranking the 12 most surprising NFL roster cuts: Will Levis, Jaydon Blue among top names - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa1ZZQzFlblh6cEZmN0pQYmo1WHFnUmlVVWhlZzRjU29mYUNzSHFhSVZuWk4tWDJQN2tPbTctMUdsRHJpRXdHamVZNUpidnVJQlg4X2EyQnRIS3p0TWVSYVkxZnNyWHFoMFl1dUplRF82R185bVludHdlcmJWT3pRQnFJaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T07:46:23+08:00"
     },
     {
       "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News",
@@ -137,40 +143,34 @@
       "time": "2026-08-31T07:07:59+08:00"
     },
     {
+      "title": "2026 NFL roster cuts: Biggest moves, more for all 32 teams - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmQ0aG1TaVVidHpVMkJPMG8xcmZYeERmWXJzZVE4cGI2cEdTbkFDOXJiT0NVbC1mNTgzRlBfMTNIVDZ4QmFHczlMSDZta1RUTlc3dEdFRXdhb2tnZk5xeV8zV2IxRXRkZ0JpUFJUeVdqZHphNnhKTURWU0pmaUh5UHczdWpNV3BBRVBFZGJZWkl2dU9TOUJNOUJ3VHlYN1QtS01R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T07:04:57+08:00"
+    },
+    {
+      "title": "Eva Mendes Shares Rare Comment About Her Ryan Gosling Tribute Tattoo - E! News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenU3TkdnSFpqX3JNQWpwOEhZbXR0b2tTQWdmcEY0YzlIc05odktTYU9vMF9La25NdkJicVRqSk56cE5hUkJPTVpVZUNudml2RlNTWi1ySjJMUUJRdFlmazJMR2lIU0Joc25LYTlDVGlSXzRFdGhhTktZNHpfYm9fTGZRd3ZOWUYyam8wUEh0dURoaU9KMWJMYQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T07:03:00+08:00"
+    },
+    {
+      "title": "2 dead, 8 injured after gunfire erupts at unauthorized Trenton block party - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFRJMzEwbmNISzlfVlprSDdqX0xSUFhQZjVoMzA3WExLS01hVTRRTFFheGV2cHFsVnpoeTlXQjJ1aU1Zbm5rRDVVODdFdktfTEdJWENyUF9HcUtwX0MwMjhBNHpOZF9rbDBIdFBxVTVLM2cyZFpONDRYRHFUWVN5UFQtUElfLW81bTdEN2x2SDlkTnRud0w40gGcAUFVX3lxTE1qTGlrdUNtLXk2eDhiYjhIRDJoS0dENTNVYm8xUGZURHUwbklzV0EydUcyWWk5NHZpLVJWODhkT1pnR3pjZkZGZW5uT0FkWUo0Q3I0RHJKeXd5c3RfYU5hajJTZlJjbUVRNGEtMkVTc1NQX2g2ckdLNGZyUFpGR2VFSi1mc24yNFlwb2VmQVkwNjRyZ0FZQ19uQ3dMVw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T06:56:44+08:00"
+    },
+    {
       "title": "Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQelZaR2FzZ2VkX1pqS2Zucm5qbEsxbXBQRllISWQ0R1lmeVNwTTNNVzg1cE5VS2xEWTZXV3F0b2FkbWQwc0pack9YcS1fUmdFS21OSHdHdFdlcWR4WWROc1RJSUtHSTdGSkhQLVdDZ2ZSV2VOdlhlMW1nSERTUlVQNG1xd0gydktYS2tFVUpnTUt3UW1wRlVXR3B0SGV1RXJzcENfdXVCR0V5YnJoSGhhLWE0S1ljTEph?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T06:37:00+08:00"
     },
     {
-      "title": "Aaron Donald ends his 2 1/2-year retirement and returns to the Los Angeles Rams - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWU5hOTVHTUZkODdhQXpTRWpERWhMRl9zdk1iM2JBR3JJWGVfYXp5MTA1eUZjMnB1aGV4eUp6Rm9uc0tHX09MWmxBd3BBczY3SEtMWFlZcFQ5R1lnaHNDMmlXai1jY2JLazBxY25vN2Z6T29icTJnRmZnMGI3VmxMenZPVDVHS1prZjVyUlpFcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T06:08:32+08:00"
-    },
-    {
       "title": "GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers - TechPowerUp",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2F1MmlZQ1JMVUxqRlB5ZlBLNk0tOHgwdEJtY2tVN09xNHVhTWFia2E2d05ndFV6UXA2NDZfcG53UlBVVHBSV0lmYjRWRDhFcDZfYjBNMXVJaTA5bUtmY3plTjhWMEs2ZEViM2NMdmtSRC1kSzZkVGFvZnYyVXpMSjZyTjRPUlhfZ0dOdUpjeWszUENBZ0l0WjNqTndobWZVREpwNFZIYmrSAa4BQVVfeXFMTlNhRUdlNGllTE1zRnluQTNxMHRkTVhzUGY3NmtHdUplNjBCNWZtVHpDMEJ4WUtmeWlOYXo1a2k5ZkpPZlBpUXlIYy1WS19QU1ZRYTRzcm4wSERVZE1KVFVUbXl3eHVIQzE0NXB3X1o0REFpMmxHa2tQalVzcC1KYWwxTmtXMUk1Q25JdWFCQ0xmdWNrY2U2bXJ0T09XcUxNcWNhNXZIS2p4aDE5X3hn?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T06:02:27+08:00"
-    },
-    {
-      "title": "Roman Space Telescope live launch updates: NASA, SpaceX begin post-launch press conference - Space",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUTlIaENLTEg1dS02ZkN6ajZyS2JyR0IwbUxXNXVnd24zTnk1NVBYdTNmZ09laFJpZGdjejZpOU50QV9JSGlKdkRJNnJuVlhqXzdpclVQUVRtWTIydkpITnMtN0ZUbG1HNlg3ajNSXzBJazQ1UjdvNWJkY3o3UXpTVjRlb0VERUJ3VVAwaEY0bWlpdWlWcXBWWFlVWFQ1cWgxTGppUTVqeGx2bXoyWmJGUDBRRE5FREFv?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T05:55:36+08:00"
-    },
-    {
-      "title": "NCDPH: Hotel guests possibly exposed to measles during stay - WYFF",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sa0c1cHdaS055WGxOZUtYYzVZYXlrUUFCeHRnWTAzUXo0OE81YkRnOEdmbGd2UGEwSzZHMXlLZ29VMW1Eei00NXV4Q3NWeWZoNjAzZTg4NnlKd1owdXM3VlpGVFNzWG42SVExdlpmNHBJQzZyTVF4Sg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T05:11:17+08:00"
-    },
-    {
-      "title": "Dolly Parton’s niece shares emotional tribute after singer’s private funeral - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDN3bkRWVTVLcGs2V0liNEk3Yld5UTRmZ1oxQnY3VEstUi0tN0c4N3ZyUWpnNVg3RXBMc2VQRHQ0RnVfTG1DcU5sU0E2dXR0YXVqa2FEdFEwV0I5dENNVkp1cEpYa0F4dTZrODljMjZ1bTBlNjhhVnJndEVPMUhiQUprbVV3LUFYcE1mTVI4bm1QZF9nRHkzcnNZY2lMenduODd5aVo5aU9wZU1Oc0ViT1BR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T05:05:55+08:00"
     }
   ]
 }
