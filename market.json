@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T19:26:13.274823+08:00",
+  "generatedAt": "2026-08-31T19:57:16.328486+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615722.24,
-      "changePct": 0.47
+      "priceHkd": 613817.12,
+      "changePct": 0.21
     },
     "ETH": {
-      "priceHkd": 19237.24,
-      "changePct": -0.22
+      "priceHkd": 19164.49,
+      "changePct": -0.54
     },
     "SOL": {
-      "priceHkd": 815.75,
-      "changePct": -1.01
+      "priceHkd": 810.34,
+      "changePct": -1.56
     }
   },
   "stocks": {
@@ -33,36 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1124.52,
-      "priceUsdOz": 4461.3
+      "priceHkdPerGram": 1123.24,
+      "priceUsdOz": 4456.2
     },
     "Silver": {
-      "priceHkdPerGram": 17.02,
-      "priceUsdOz": 67.51
+      "priceHkdPerGram": 16.99,
+      "priceUsdOz": 67.41
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 677.45,
-      "changePct": 3.61
+      "priceHkd": 678.47,
+      "changePct": 3.76
     },
     "Natural Gas": {
-      "priceHkd": 22.76,
-      "changePct": 0.52
+      "priceHkd": 22.88,
+      "changePct": 1.07
     }
   },
   "news": [
+    {
+      "title": "The jury's options in Lindsay Clancy's murder trial",
+      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T19:53:21+08:00"
+    },
+    {
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T19:41:40+08:00"
+    },
+    {
+      "title": "Search continues for 18 passengers after ferry capsized in northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T19:41:05+08:00"
+    },
     {
       "title": "Passengers stranded as strike disrupts flights at Kenya's main airport",
       "link": "https://www.bbc.co.uk/news/articles/c783x05nnlko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T18:54:01+08:00"
-    },
-    {
-      "title": "Bank of England chief warns new AI models threaten global financial stability - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTRMZGtDQUtqY2t3NzFpS18yMk9NQ05FdjUyenBKNi1famRNZ3YzOFh5ajczamhSQWNoVDE4TnQ1ZGNXcGJIVmUyM1ExcHVYVldPN2FEb2JHUDFJMWtXbVlOTzhLZW1WdHljclhfRnNpUVdyM3J0Rkg4WnN2eDY2TWdrNDl6amPSAYwBQVVfeXFMUFpNdktJV2lxOU94WXlEWTVXRk1Ib0FJOFZaRnZEWE9NdzNpNHcydTRTMFR6VGFoWklfUnlaVHRwODdNbi1kVTh4cXl2NEZCdS1CanpyLVUtU0tudTltV3pDdk42al9OYmZ2U1dRTWtOemlHQzdEbzk4eGZuQXZKSUluSTE1Z2xTcjVPM1k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T18:18:59+08:00"
     },
     {
       "title": "South African airline defends low-altitude aerial stunt over packed stadium",
@@ -71,10 +83,16 @@
       "time": "2026-08-31T18:18:07+08:00"
     },
     {
-      "title": "Russia Torments Kyiv With New Tactic of Nonstop Waves of Drones - The New York Times",
+      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG0tY2JEZTR3TFNBcFZtX1A4R0ppanFQcnNOaEFBb090VXF0R3gwRnkzSFBMeTYyT3IxaWdqNkJFeXRadDFqTERaQnBTMEVrMzJJeVZ5alN3aXBsYlhqMTlZcmlJTFpaSWZMRDdfTEJPUkFIY0FZTHkwWVBpaFEyZDdESFhseTN6MnRFX1Ataw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T18:14:04+08:00"
+    },
+    {
+      "title": "It's Tim Cook's last day as Apple CEO. Investors are $4 trillion richer because of him. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY1FMODVhanEzZjdJUlRMeV9MVWUxb05LZ194QVB0RHlQRy10Zm1pcGVBcm1sVXpuUTAzVXc2MnhEM3ktSFM3dlduZ3lCMHBxdkpFYk1XcjVFNjBuTk9vd1Q2U19hQnhTZzFYYUJGYlppSVlxVGRVTHM3UnJBVlRUcTU5UmRMQUlaTXVlNldCYWRwTGFwZUp0RWliUFFzaUo3SWlCS0hMTThXcDV3UWlaMmFiTGsxeXBYRDZxU19MaF82SjVSS1NXZlpSYU9uamlQbmJPcThSSUs5eVJOQWY0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T18:00:00+08:00"
     },
     {
       "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC",
@@ -113,16 +131,22 @@
       "time": "2026-08-31T17:18:21+08:00"
     },
     {
-      "title": "Food-Borne Illnesses Can Lead to Long Term Gut Issues - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRDI2YUN5X015U1UtYTE0Q3FqX0lLSVJlOTl3anFwVC1MVnN5MjN1dmlnZ3d6VlRjNmxRdjRSNkZYanY3WjRxTy1iTWZqWl91NzVnMlV6ZFVOQ0JfWkVabXBnMWJMX1Jka2QwRjZNUjRXSXFCelI3RVJpWW00UkIyelVlZmc?oc=5",
+      "title": "Malaria, Likely Spread by Mosquito on Plane, Kills 2 Airport Workers in Germany - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMk5wUFFMU0ptNzl3aFFwdjhsWEdMZlBaY2xXb0JJU1plU280b2dQRFpvWE5UcUM5RFA5Vm9CM2wwdzU2R2JBdWNGaDhEdEs2cEJ0UVFST2JzNWFxN05WSF9MUk1wTnNEWWVzdWl0UC1kT3NZTjl0OGNDTC1WUnBQei03OXNsZTdpVWVxYkFB?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T17:02:18+08:00"
+      "time": "2026-08-31T17:07:00+08:00"
     },
     {
-      "title": "How Tim Cook made Apple one of the world’s most valuable companies - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93WnVuSjMyU3VnSTFNNUZDeWVXSW5JOTY2WERQQnA1V1k0Z014TV9YWTA2bFJESlkzUjhWQ25CYnJWdDJtT01qd3lPZjV6Umo1QzRQSi1JZ2YwZVdSRWFpblljUzJIXzlq?oc=5",
+      "title": "My dog has better tick protection than I do - but that could change soon - BBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVNOGF1aGxmYkRDZ3NiTEljbGxnWlhWTnIyTHVqeDRkaXF2S2xNZHVkUnUxQzF3SFRscjdVM1lEM09DOTB3TjA4bEg3eVc4VVhEdU1ZdmtfN2FGVDZyemI3clc2TUt5dE15Tl9iYzV0TU93RlBsMkR4c1BVMEpQeXRWejlKdDJ6em9vdjNTOFRZRGY1VmVSZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T17:00:29+08:00"
+      "time": "2026-08-31T17:02:00+08:00"
+    },
+    {
+      "title": "Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYjVCMF9fR3B1T2JhUWpRTXVNeFhmeUtDajQwdDhjbzBLa1RYalJLdFU3OWpWbkFzVTJBSVB4RG0xZlpWSU1NQm5RQUpuUThOUXo4bEhVcUVwYjFCYXhoZE0wblBFbFNSelFuamZaUWhabmF0SDRYaDVnNU9Hd0RacV96Q2VCY0k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T17:00:39+08:00"
     },
     {
       "title": "The U.S. Venezuela oil deal won’t lower your gas prices. Here’s what you need to know - NPR",
@@ -131,8 +155,8 @@
       "time": "2026-08-31T17:00:00+08:00"
     },
     {
-      "title": "9/11 cancers skyrocket nearly 1,700% as toxic toll on survivors surpasses first responders ahead of 25th anniversary - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWs2T0lHT0dyMmE5U0p4bUU0cXdWOEpqSWJLQVUzZVhkU1p1NzNqT05PWE1id0QyUTl1SVhlZEJiR3VNaFJqT0FUOWxvY0k0Q3lKcGpZNXN0VXhtNHN2Z1dHUmVKVjZ6aVZaY3JVZnBwVEtGY1NDYUVPR2RHd1Rkb1JZRkNEVnpUZ0VhMWw1T0F0bDZhS2NXaVg3U1FIeDBm?oc=5",
+      "title": "8 winners and losers from Patriots roster cuts - Pats Pulpit",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX0VlX09aOGZ3RjlXRVczRXFDR09CLWQ5WFZTWVNhTVJmWnZEOFIwYU1QTzg5bU9VZTYxQmFuWmVaQUtLc1V3ZDd2SVlsU21TX3hrdEllRzJVc0VPd3VSWFJ4clFFOVdnZlRnTHpwUDlYeFk5R1VkbGR3UHZmb0xpYWZNRmFFUFdfY0xyYmJrTnNXYThVLWY1b2oxX192U2Q4cDZFeXBVbUZEckt4WkVF?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T17:00:00+08:00"
     },
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZFB6WUJIVGZ0azVIR3N5NUJzNlFsQlJiaGJSNFJjaWQxVzllZFZtWDE1ZGdqcEk0X3JXYTBpQndYZGVZOTRTSjV5U1NDSzFTbkUza05EZ0l5dml5dXMzTzhtY2VLNEJmNUNuRXplSnpXTGcyZnNqRE4yM2d0QnhxcFJMSHBpZlpJX2Ew?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T16:45:00+08:00"
-    },
-    {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T16:34:25+08:00"
-    },
-    {
-      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T16:17:25+08:00"
-    },
-    {
-      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T16:13:40+08:00"
-    },
-    {
-      "title": "Aaliyah: Family War Erupts With Singer’s Uncle Blaming Her Cousin For Fatal Plane Crash - TMZ",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdUZOMGdDaGk0MHNhdXZNVjRadHV3V1IzNkxodmcteHpEUHRCU0F4NVBLZGp1SXFadExtbmVobUdIbEM4RjRIRnZWbG1sejF5c1o5VnpVYXdXeDBLcmVXSEJ2YUNQbGlkSFdsc2lsckl2Z1BsYWxaSHFpcF9EcDJvSW9xdHhQclcxUVUyU2ItMnk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T16:00:36+08:00"
     }
   ]
 }
