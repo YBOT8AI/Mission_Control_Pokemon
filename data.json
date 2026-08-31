@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T17:52:57.514870+08:00",
+  "generatedAt": "2026-08-31T18:24:00.367316+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -16,16 +16,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "3fa17c1",
-          "message": "chore: remove debug console.log from NFT mint handler",
+          "sha": "2de4476",
+          "message": "chore: remove unused Next.js boilerplate SVGs from frontend/public",
           "author": "ybot",
-          "time": "2026-08-31T11:03:43+08:00"
+          "time": "2026-08-31T18:10:05+08:00"
         },
-        "commits30d": 4,
-        "totalCommits": 11,
+        "commits30d": 5,
+        "totalCommits": 12,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 2,
+        "ahead": 3,
         "behind": 0
       },
       "tests": {
@@ -39,7 +39,7 @@
         "label": "attention",
         "issues": [
           "Test script configured (hardhat) but 0 test files",
-          "2 commits not pushed"
+          "3 commits not pushed"
         ],
         "actions": [
           "Write first hardhat test file",
@@ -102,16 +102,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "0771f5e",
-          "message": "docs: publish Weekly Deal Flow Digest #1 (2026-08-31) — live market intel",
+          "sha": "100932f",
+          "message": "chore: remove unused toUsd/fromUsd/round() from lib/currency.ts",
           "author": "evilmoni",
-          "time": "2026-08-31T14:03:51+08:00"
+          "time": "2026-08-31T18:10:05+08:00"
         },
-        "commits30d": 57,
-        "totalCommits": 155,
+        "commits30d": 58,
+        "totalCommits": 156,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -121,11 +121,14 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 100,
+        "score": 90,
         "label": "healthy",
-        "issues": [],
+        "issues": [
+          "1 commits not pushed"
+        ],
         "actions": [
-          "Run 6 test files via `jest`"
+          "Run 6 test files via `jest`",
+          "Push commits to remote"
         ]
       },
       "focus": "Financial Tech"
@@ -142,16 +145,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "143d16a",
-          "message": "chore: remove unused revenueByMonth() from lib/db/sales.ts",
+          "sha": "e10ecdf",
+          "message": "chore: remove unused hasVisitedToday() from lib/db/visits.ts",
           "author": "ybot",
-          "time": "2026-08-31T13:23:15+08:00"
+          "time": "2026-08-31T18:10:05+08:00"
         },
-        "commits30d": 6,
-        "totalCommits": 12,
+        "commits30d": 7,
+        "totalCommits": 13,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -161,13 +164,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Push commits to remote"
         ]
       }
     },
@@ -263,8 +268,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:44:15.480385+08:00",
-        "next_run": "2026-08-31T18:14:15.480385+08:00"
+        "last_run": "2026-08-31T18:15:19.451247+08:00",
+        "next_run": "2026-08-31T18:45:19.451247+08:00"
       },
       {
         "id": "539a150ac028",
@@ -281,8 +286,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:21:59.992769+08:00",
-        "next_run": "2026-08-31T18:22:05.337789+08:00"
+        "last_run": "2026-08-31T17:53:04.362005+08:00",
+        "next_run": "2026-08-31T18:53:10.138248+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -290,8 +295,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:38:04.273321+08:00",
-        "next_run": "2026-08-31T18:08:04.273321+08:00"
+        "last_run": "2026-08-31T18:08:08.376672+08:00",
+        "next_run": "2026-08-31T18:38:08.376672+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -299,8 +304,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:43:04.708676+08:00",
-        "next_run": "2026-08-31T17:53:04.708676+08:00"
+        "last_run": "2026-08-31T18:23:10.464687+08:00",
+        "next_run": "2026-08-31T18:33:10.464687+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -326,8 +331,8 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:01:38.936950+08:00",
-        "next_run": "2026-08-31T18:00:00+08:00"
+        "last_run": "2026-08-31T18:01:31.092566+08:00",
+        "next_run": "2026-09-01T09:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -335,8 +340,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:41:04.508814+08:00",
-        "next_run": "2026-08-31T17:56:04.508814+08:00"
+        "last_run": "2026-08-31T18:11:08.409006+08:00",
+        "next_run": "2026-08-31T18:26:08.409006+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -533,8 +538,8 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T14:02:03.965498+08:00",
-        "next_run": "2026-08-31T18:00:00+08:00"
+        "last_run": "2026-08-31T18:01:31.812261+08:00",
+        "next_run": "2026-09-01T10:00:00+08:00"
       },
       {
         "id": "86f0a1085a5f",
@@ -542,8 +547,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:01:09.045257+08:00",
-        "next_run": "2026-08-31T18:00:00+08:00"
+        "last_run": "2026-08-31T18:00:17.879887+08:00",
+        "next_run": "2026-08-31T19:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -641,8 +646,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T17:01:32.553847+08:00",
-        "next_run": "2026-08-31T18:00:00+08:00"
+        "last_run": "2026-08-31T18:10:22.577798+08:00",
+        "next_run": "2026-08-31T19:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -769,44 +774,44 @@
     "uptime": "2 days",
     "cpu": {
       "loadAvg": [
-        1.34,
-        1.41,
-        1.41
+        1.24,
+        1.35,
+        1.38
       ],
-      "usage": "12.4%"
+      "usage": "12.9%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 37.6
+      "usedPct": 37.9
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.3",
+        "cpu": "2.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.5",
+        "cpu": "2.2",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.3",
+        "cpu": "0.4",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
         "cpu": "0.2",
         "mem": "0.1",
-        "name": "launchd"
+        "name": "opendirectoryd"
       },
       {
-        "cpu": "0.1",
+        "cpu": "0.2",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       }
     ]
   },
@@ -1494,16 +1499,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-31T17:52:57.102718+08:00",
+    "generatedAt": "2026-08-31T18:23:59.996795+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 27.0,
+          "temp": 26.7,
           "code": 51,
           "precip": 0.1,
-          "wind": 5.3,
-          "time": "2026-08-31T17:45"
+          "wind": 5.9,
+          "time": "2026-08-31T18:15"
         },
         "daily": [
           {
@@ -1532,11 +1537,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.4,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 1.5,
-          "time": "2026-08-31T17:45"
+          "temp": 26.2,
+          "code": 95,
+          "precip": 0.7,
+          "wind": 2.6,
+          "time": "2026-08-31T18:15"
         },
         "daily": [
           {
@@ -1572,38 +1577,38 @@
   },
   "activity": [
     {
-      "time": "2026-08-31T17:52:57.514764+08:00",
+      "time": "2026-08-31T18:24:00.367223+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-31T17:52:57.514764+08:00",
+      "time": "2026-08-31T18:24:00.367223+08:00",
       "type": "info",
       "text": "⏰ Cron: 32/54 jobs healthy"
     },
     {
-      "time": "2026-08-31T14:03:51+08:00",
+      "time": "2026-08-31T18:10:05+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: publish Weekly Deal Flow Digest #1 (2026-08-31) — live market intel",
+      "text": "🌌 OrbitX NFT: chore: remove unused Next.js boilerplate SVGs from frontend/public",
+      "project": "orbitx"
+    },
+    {
+      "time": "2026-08-31T18:10:05+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: chore: remove unused toUsd/fromUsd/round() from lib/currency.ts",
       "project": "techwealth"
+    },
+    {
+      "time": "2026-08-31T18:10:05+08:00",
+      "type": "success",
+      "text": "📊 TechWealth Tracker Pro: chore: remove unused hasVisitedToday() from lib/db/visits.ts",
+      "project": "techwealthTracker"
     },
     {
       "time": "2026-08-31T13:23:15+08:00",
       "type": "success",
       "text": "🚀 KINKIN: chore: remove unused OAUTH_PROVIDERS const from lib/auth/oauth.ts",
       "project": "kinkin"
-    },
-    {
-      "time": "2026-08-31T13:23:15+08:00",
-      "type": "success",
-      "text": "📊 TechWealth Tracker Pro: chore: remove unused revenueByMonth() from lib/db/sales.ts",
-      "project": "techwealthTracker"
-    },
-    {
-      "time": "2026-08-31T11:03:43+08:00",
-      "type": "success",
-      "text": "🌌 OrbitX NFT: chore: remove debug console.log from NFT mint handler",
-      "project": "orbitx"
     },
     {
       "time": "2026-08-31T03:02:22+08:00",
