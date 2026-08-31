@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T07:31:26.978125+08:00",
+  "generatedAt": "2026-08-31T08:02:35.514526+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609450.24,
-      "changePct": -0.67
+      "priceHkd": 608556.48,
+      "changePct": -0.75
     },
     "ETH": {
-      "priceHkd": 19044.93,
-      "changePct": -1.05
+      "priceHkd": 18923.49,
+      "changePct": -1.75
     },
     "SOL": {
-      "priceHkd": 800.78,
-      "changePct": -3.31
+      "priceHkd": 794.74,
+      "changePct": -3.91
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1122.38,
-      "priceUsdOz": 4452.8
+      "priceHkdPerGram": 1124.72,
+      "priceUsdOz": 4462.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.76,
-      "priceUsdOz": 66.49
+      "priceHkdPerGram": 16.78,
+      "priceUsdOz": 66.58
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 664.75,
-      "changePct": 1.67
+      "priceHkd": 663.97,
+      "changePct": 1.55
     },
     "Natural Gas": {
-      "priceHkd": 22.46,
-      "changePct": -0.8
+      "priceHkd": 22.41,
+      "changePct": -1.0
     }
   },
   "news": [
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T07:53:03+08:00"
+    },
+    {
+      "title": "15 hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T07:52:27+08:00"
+    },
     {
       "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
       "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
@@ -77,10 +89,16 @@
       "time": "2026-08-31T06:35:56+08:00"
     },
     {
-      "title": "Hikers feared missing after 'terrifying' flash flooding hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T06:14:37+08:00"
+      "title": "Venezuela vowed not to ‘hand over’ its oil. Trump aims to grab a windfall. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDhpVVpJMnVaXy11d21lcU5ZcHpsNkJKOUhJX0U3d3ZfcHlyVXdmaVQta0pxUl9mMmdaa0pwSlRVWlJ6TmI2OUc5My1CQVplZkxiOTdDXzg1V3FQNkoxdzlRZGhZVzNIdGRxOHdGME05NTBjanhPenpzWkxpbEZqYnJZS0NoRk1EUW9iVUp2RDZDWV9JMy1pbmxReTNNLXhOWkpOYUctTzg4NGV2UzVGdg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T06:26:58+08:00"
+    },
+    {
+      "title": "Tour Championship purse, payouts: Scottie Scheffler earned $10 million while winning the FedExCup at East Lake - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZlNlYVVzQ0pJMlJJZVRtd3VaOXFsMm1DNkNaY2tTUnhfczhmY1lfNi1vZHZaZk1sQjhBaFVoM3NVT21MaGpUYUVfdlllTjZLVjFGXzFRdWpUd2c4eHRwWUZGRnppLV9fYzhkSnJ0YUR3M09tOVk3NkJSQjF1QkdtZTZjVFNDa3ZhQUZ3ckE1RnJNQVE5V1lqU2VwVlVCeU1oYjM2cExTRzFxeHU2YVZSS21EeEtJdnVVZVNCOHNKb3NZYWxudmZ2NFR4MUw3NFVmVUhoRWxSZkNkd0FQcjRkN1NZTHhwajQwdFhxXzNXVTZ3V0tuUFR0TGhselZLRXFUSjg1UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T05:58:30+08:00"
     },
     {
       "title": "Roman Space Telescope live launch updates: NASA, SpaceX begin post-launch press conference - Space",
@@ -95,40 +113,28 @@
       "time": "2026-08-31T05:52:00+08:00"
     },
     {
-      "title": "Freedom Fuel gas stations sold stolen fuel, lawsuit claims - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3h2RWdqeHZJeHZ5UHJEQWpaYWNOVDVCaElUMTlEQ1VpdkNFdURWUVBtUkxTdXZvNWdYQldreVB6a3JvNExvV0lQdWJ1b0c3ZUhuWU90Yk9kWVJ0OVROOGl6R3FKLUdjd0tmdER5dGFTemZRR2FLM3Y3LS00bnZReTF4a3dDN3BndlFKYUlaVdIBlAFBVV95cUxNdnhTZ2NNNlh3MHp6YURYY3loY09FaXNyRHVfYmpkTXFXTlNDSFBlWS1Wb0hWV1FTZ2hrWG9PTENSUVF0TnpLLVNQVTBFZi0zNEJfYmlOTzk2azNEYTBhS1JXWDEyR1BDY1dITnF2T21JeG54eXUwejl4SjYyNEFvMUFVZXBZdUFicHJ0LTFKcHB5T1l3?oc=5",
+      "title": "Grand Canyon flash floods leave around 15 missing as dozens are evacuated, park officials say - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1BkYW1VTWRSR18yU2xPdHZrdDl5R2ZPcGRTNEVPZjJrWUNMTzc4LVFLbmNpSjFEellpZ1FyZTZCMjVCTE5YMWp4RW4yQTlfX2JXaEZraWdfcDl3NHJFMnNWdVgxVTk5aUNmNEktaXVrN21tMlFEM0loSElTTnhqZjdvd2VuYjNxZEpSV3p5OURxZmNRLUNnSTlUa05YdXk3ZmxSNnZmdkE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T05:20:00+08:00"
+      "time": "2026-08-31T05:28:23+08:00"
     },
     {
-      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T05:15:42+08:00"
+      "title": "Google Maps changes Lake Ontario to ‘Lake America’ for US users after Trump order: 'It's official!' - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSno3T3hCcG5OME9TTTdkTjBZRDdIMW1xakJRT3lBV2xyQmlwLXhJMnl2a2w4S2tfNVpKTndKTnlWUVJsRExRT2t3ZXZPZlVZRWV1NzVwQzFGdGVmQWpzaFNmN1YwOFN6OExOc2VDRTVXUloyYUc2cW5wc2o0VV9kZENjRDQwQ0YyaE4yUUEwNktNTnJKdG1ZU0hNdnpzQkpGR09ncGVvckt1NjRBbjlhMF9pMUtRd09n0gG-AUFVX3lxTE9aYTBXTzFOVUhXeUFfRVJzeFlHUVZ4Q1c5WmNFblRZc0U0NHc0UmZJVW81d005WHpwelgyRmw2TDg5bW1jQ21vY09xaEViNWJObnVmVHBWeFI1UkRYYU9jaVNhaURQT3k4MXFfdEtUUVV1WHdlSnFFQWVZaEdCeFhrSHdISTdxWDREYnRnNGVhbFROamd5SXN4UnQ4NE0ta0pER2dVems1QU1hdW9SUlRTY0tCMjF2YWFDcGhOT0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T05:12:00+08:00"
     },
     {
-      "title": "At least 20 missing at Grand Canyon after extreme flash flooding - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmY0a2tRaFFteENFcnRnY0JTRzNDdWdNcFNoOWZpRHIxLWVwYnNNSVhjempQaldCMTFnaHRjVndEYWhfX0VTVDc1dmdtTFpsX0E3Z0JpVUczQXlMRUVPY243TnVuSGFYX3ZSZGkyWERLeklmdDlvY1JCVkZVcDN1MlJxRG1rcHJuWkdvcVVzbzh6dXRsVlRjWjd3?oc=5",
+      "title": "NCDPH: Hotel guests possibly exposed to measles during stay - WYFF",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sa0c1cHdaS055WGxOZUtYYzVZYXlrUUFCeHRnWTAzUXo0OE81YkRnOEdmbGd2UGEwSzZHMXlLZ29VMW1Eei00NXV4Q3NWeWZoNjAzZTg4NnlKd1owdXM3VlpGVFNzWG42SVExdlpmNHBJQzZyTVF4Sg?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T05:13:50+08:00"
+      "time": "2026-08-31T05:11:00+08:00"
     },
     {
       "title": "Dolly Parton’s niece shares emotional tribute after singer’s private funeral - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRDN3bkRWVTVLcGs2V0liNEk3Yld5UTRmZ1oxQnY3VEstUi0tN0c4N3ZyUWpnNVg3RXBMc2VQRHQ0RnVfTG1DcU5sU0E2dXR0YXVqa2FEdFEwV0I5dENNVkp1cEpYa0F4dTZrODljMjZ1bTBlNjhhVnJndEVPMUhiQUprbVV3LUFYcE1mTVI4bm1QZF9nRHkzcnNZY2lMenduODd5aVo5aU9wZU1Oc0ViT1BR?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T05:05:55+08:00"
-    },
-    {
-      "title": "Google Maps will show 'Lake America' in US, not 'Lake Ontario' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3RKRnR5NHhzZERZZmNwYkVzSTZFVGdPZ0tlbjdGTUtxcjhMMWI1bGFTWVAtdy1Xd0tZdWpjOEoxN29BdnRsZE5UWl9oRXQzQ2QwNWFHaTRpaEJmdlFWOU9OR2lwZUNDdEpUQmZDaF9TZUhwR19CQk5RX05TdFdaT0I4VDlZeUlvQ0ZNelRxcWVRLVMtdjRkdzdCc0tfZFBI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T05:00:24+08:00"
-    },
-    {
-      "title": "Venezuela vowed not to ‘hand over’ its oil. Trump aims to grab a windfall. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDhpVVpJMnVaXy11d21lcU5ZcHpsNkJKOUhJX0U3d3ZfcHlyVXdmaVQta0pxUl9mMmdaa0pwSlRVWlJ6TmI2OUc5My1CQVplZkxiOTdDXzg1V3FQNkoxdzlRZGhZVzNIdGRxOHdGME05NTBjanhPenpzWkxpbEZqYnJZS0NoRk1EUW9iVUp2RDZDWV9JMy1pbmxReTNNLXhOWkpOYUctTzg4NGV2UzVGdg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T04:56:58+08:00"
     },
     {
       "title": "Nepal flood relief vehicles trapped as heavy rain turns roads to mud",
@@ -143,12 +149,6 @@
       "time": "2026-08-31T04:37:44+08:00"
     },
     {
-      "title": "‘Days of Thunder’ Star Randy Quaid Says Anne Hathaway Is ‘Woke’ and a ‘Horrible Choice’ for the Sequel: ‘You Need the Original Girl’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSlJLZ0kzck5VLW8zcGZxTXRKVTRyb2cwZmlZRHVHYUhFQzhQY3pwXzdoMFdtZnVRUU55cHQxeGJTWTB1SHM5VFBocXljbVZ1djg5S0JiSzBmeVo5ZDlCcHMwZnUwd1BySEJ2UHVGYzFPdDNCZUk0ZnBuemNlTG1fQ1pvMVdXWVVkZ0JkcWpkMWR4QlJQekNtMUdXTUQxcmE2dTVwYzFtRmtCZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T04:17:00+08:00"
-    },
-    {
       "title": "Sources: Aaron Donald unretires, reaches $20M deal with Rams - ESPN",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNUdSOWdXUzRSVXJWcVlNVmoyZGNaa2FQNkw4eWtZa19yYk5tU1ZWcm9DX3VjS1pCYXJJNGt2UHpQaGxLZWZILUNNcHVIT3pid0VNbGc1eUI2WW1wSGlaR0o2SEozb2ZiOGNKYkgwdFE3cEpPd1RtSFoyTWQyUTVXMERBQjhOTGRTYzB2MGI5Q2VtRi1Sd2NUbmx6Wkljdw?oc=5",
       "source": "Google News Top",
@@ -161,16 +161,16 @@
       "time": "2026-08-31T04:02:43+08:00"
     },
     {
-      "title": "Eight killed and others missing after ferry capsizes off northern Cyprus - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Iakg3b1A2QVhYY3FPWTRlbzRidGZfVUJOaWdaakt4V1E5UWdPaWlUdERNRk5DQW90eV9Lc1FiSFk5Z0FVTkFJVU92bkNDTURVNlplbmZNcjF2UQ?oc=5",
+      "title": "At least eight die, 18 missing after ferry capsizes off North Cyprus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T04:02:43+08:00"
+      "time": "2026-08-31T03:37:20+08:00"
     },
     {
-      "title": "Potential measles exposure reported at Asheville hotel, NCDHHS says - WLOS",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb3ZhT1BKNmJENUE3U2twYm4wNHQ5aVRaUDVzOUZXVmswVHZ2clpCb2xNUlBzQXJBWk1OLWJmb01ZU3cyMTNhRUZuMmFDUjFRWXUwcnlENzRHZU10U2xYY1Faa2ktNWJRMUtuNHFpS05WU1FWTE9uREFKUy1Ecno3aXd5LWUtYUV5dlphc3IwVl9rZE05Y3dzM2w5dG40ajNhdjhuSnZ1aEdQSWg3d0MtZDJ3d0Y4RHBZTEl4QmFUc0ltazVnZm1WcWd5Z01NaU5obWtlc3ZhU0JldE5nWVJRYi14SEhmcmRuNFE?oc=5",
+      "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMFJkRU1kZEhWRnpBRzF2OUJISEtjcG5qYTdtUzdVMHZRcVVPVWxBTDdBcUphN2ZnZDZnTDFDUVAwa0tLS3h5LVJVRTA2NUVvQjZvdmU5c0xKN3BnWVQ4bjJpWFE5Yi1hTHhSdWdGdXlucU56dlZmYTFmRmNmSVR3bDk4LWYxbXo3YkNPdU40YWxBNmhUY2ZpN2tTUVdxdzRNb255UVNtR3Q4Q1VkdE9iaWZINmRlaGY0R2ZEdTRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T03:40:15+08:00"
+      "time": "2026-08-31T03:29:42+08:00"
     }
   ]
 }
