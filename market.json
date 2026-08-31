@@ -1,62 +1,86 @@
 {
-  "generatedAt": "2026-09-01T00:06:44.590320+08:00",
+  "generatedAt": "2026-09-01T00:37:49.100405+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615879.04,
-      "changePct": -0.5
+      "priceHkd": 616192.64,
+      "changePct": -0.7
     },
     "ETH": {
-      "priceHkd": 19349.75,
-      "changePct": -0.71
+      "priceHkd": 19326.85,
+      "changePct": -2.23
     },
     "SOL": {
-      "priceHkd": 806.74,
-      "changePct": -3.47
+      "priceHkd": 803.91,
+      "changePct": -3.97
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5513.79,
+      "priceHkd": 5518.03,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60120.88,
+      "priceHkd": 60163.77,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1120.26,
+      "priceHkd": 1123.86,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.46,
-      "priceUsdOz": 4433.3
+      "priceHkdPerGram": 1118.07,
+      "priceUsdOz": 4435.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.75,
-      "priceUsdOz": 66.46
+      "priceHkdPerGram": 16.76,
+      "priceUsdOz": 66.49
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 670.71,
-      "changePct": 2.58
+      "priceHkd": 671.18,
+      "changePct": 2.65
     },
     "Natural Gas": {
-      "priceHkd": 22.9,
-      "changePct": 1.14
+      "priceHkd": 23.07,
+      "changePct": 1.87
     }
   },
   "news": [
     {
-      "title": "Messi announces departure from Argentina national team - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5",
+      "title": "G20 meeting live updates: Bessent, Warsh kick off summit with growth-focused remarks - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMElCdDlGOFVqV2JqRFRpeEktUTRfYW51aXpYaEtVY0FzMHRNMEFjVWJkYTJxSWZlNmtnbEpoWnJLMFZRamVQOVB0WUpoQmNMNmprUmNqVTJLZXl6X280b0I3RzdXUWtlN1NLY0oweWROVnF1dGhmY9IBfkFVX3lxTE15NDB3VXpqX1ZsTXNqcGhOSmdJMDN1NzFONnU3UkhQNEpQT3VMU2M4SG1WZ08xSHZXZXJ3b3ZvTWdfQ2VRMVVtdGkyNHc3cXZ1aFQtTHZXa3RSejdSeThSTjlmdE9EUXVZVnlXcV9pSjdaMG41b2o5aEZOa05OQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T23:41:43+08:00"
+      "time": "2026-09-01T00:18:00+08:00"
+    },
+    {
+      "title": "John Galliano Bows Out of Met Museum Show After Criticism Mounts - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTFOUWMwMm5EOXBmS1EzYmZ0UkVWMTBzLWVKYkZ5UEswbnJYZl81Z0lTRnNUUUFVYzNzVTdpc19QLVFTdjR0c29qQU5wNE9Uak43T2U2eVR0YmRMdDNWRjJqc0c2SXdULWc4dDd3M2tLdVZkTms3MjV6WXBOWXdWYkRLaw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T00:13:38+08:00"
+    },
+    {
+      "title": "Argentina’s Lionel Messi retires from international football: ‘This hurts me a lot’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnNicEVKd2VZRnFvUW83cE1ZYy0yb0dGZllxbEg0QTlVVjBpTnpEVE9sRW9lMVAwRXhDU3NlQ1NseHlQcHdxSjlvTDVrYWFJUTlsNzk4NmhBdlBjRjgybWp6V1dvZFd6c1ktR05BRnpFbXQySm9OLXBJallFQUVuc2VSaHJUbWZnZk50RTZkM0JFX3FvV3YtUzkzcGlqTnRsd003bmZLWXQtSjQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:51:00+08:00"
+    },
+    {
+      "title": "Nonstop Russian Drones Make for Dangerous New Phase of War in Kyiv - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVG0tY2JEZTR3TFNBcFZtX1A4R0ppanFQcnNOaEFBb090VXF0R3gwRnkzSFBMeTYyT3IxaWdqNkJFeXRadDFqTERaQnBTMEVrMzJJeVZ5alN3aXBsYlhqMTlZcmlJTFpaSWZMRDdfTEJPUkFIY0FZTHkwWVBpaFEyZDdESFhseTN6MnRFX1Ataw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:42:20+08:00"
+    },
+    {
+      "title": "Wall St dips as rising oil prices, hawkish Fed bets pressure stocks - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSjdMVkl6Zld1cG16aFA3UUtRd2ozVHRERm1Sb1p0WGtVN2xsUEJVbnlaUWt6M2NiWERmaUo1d080c0hWeHFwVGY4UlpZMGJENG91NXJ4bzhMbXNjRVJRQlo1d0ppNlNPcjUtd2F1d2xheXhBaW5OYU43SDdkYk13R0Y0SGNzblZOOTFJcTM2SmJJV3VRbVNyWGZ1bVdzaGJSQ2lBMXZPOWdWb01VNmR1UGYxZGE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:40:51+08:00"
     },
     {
       "title": "John Galliano exhibition at New York Met cancelled after backlash",
@@ -65,10 +89,22 @@
       "time": "2026-08-31T23:30:05+08:00"
     },
     {
+      "title": "Stock Market Today: Dow Skids, Oil Stocks Pop As Trump Says This On Iran; PG&E Plunges (Live Coverage) - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVU52cWprRHhYZUQ1alRRWHpXd2FBcWVPUGJtRHR0UFVFUHg5SGtpbUdPUXFRaWY2eEx3YUdUc2xwZm1rRVVYbTlIRWJvUTB0LThrSUxON0hndTZHTnM1OFB0R3JuQVFjNmpCcEtEVVRIZ0VWX1NEZ204RkROdG92TUtYcDFnZERkU1hreTRER2tiUnp2dzgzOGFfZ1JVSkZhWE4tTGpXOTRSUXNJd1Q5X0pMbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:27:00+08:00"
+    },
+    {
       "title": "Messi retires from Argentina duty with 'nothing left to give'",
       "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T23:18:39+08:00"
+    },
+    {
+      "title": "GPS Glitched Across The US by as Much as 33 Feet. Scientists Have Never Seen This Before. - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEl2ZXpLbjVYaGljY0cxZVVOTnVSdGRrbFFRcUdRNURUOENOTWVZajFHc2MycEoyRWRoeUlQT3Vha2N4OEl5MkpNelY2TU9tMGdUY3VGSG5TY19sbmN1a1p0NGMzX2hkdUczME02cjYwd0wwQ0tPeEZtUVUwSC1Xd2JJd0ZndHdFZFFSTGVXcHB6Tkpudi01b1N5TmMtaTd6YWxJV0JYblJ4Z056TXBybUk3cHpzczQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:02:13+08:00"
     },
     {
       "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
@@ -77,22 +113,10 @@
       "time": "2026-08-31T23:00:11+08:00"
     },
     {
-      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U0tGeWJWd0VQWlBhQ2ZFSmhZUzNNQktMSG1nLXF0NjdDUXU0eU9fSEhvX1N0cW9SbXBzZ2EwOGhoelFGQlo3TmY0ejEyU2Y4VlJJS2t3RFplZw?oc=5",
+      "title": "Honor Robot Phone Hands-On: A Gimbal Phone Experiment With Promising Results - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuNy1RblZva29VaXZCdzI2Y0ZROEUzLU5tQXU3SzNqRlVzWHNQNXJQemRYRS1obVZ2dEsybmczM2liZkFoN20zVGpIOTl1NnpIMjU5RVR6YnZBcncxNk5RdDNHUUs4Smhub3Ztaw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T23:00:11+08:00"
-    },
-    {
-      "title": "Kalshi bans ex-congressman George Santos for life after suspicious trades - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDUElwekpMNllfZzJjUTBCbENWamlWNVNmdFd1SFpncUJWZFhsQnd5eDYxT05TcVUxSENvcmx4SjNLMWo5c2F4UG1CRVN4ZTRJQ3Z1NXJ3QmlvWTNRT2x2a3d3ZzJDeUhwdkozT3hEOEM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T22:53:00+08:00"
-    },
-    {
-      "title": "Lindsay Clancy trial deliberations stretch into third day, defense attorney ‘nervous’ awaiting verdict - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T22:50:56+08:00"
+      "time": "2026-08-31T23:00:00+08:00"
     },
     {
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
@@ -101,31 +125,13 @@
       "time": "2026-08-31T22:50:36+08:00"
     },
     {
-      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T22:48:40+08:00"
-    },
-    {
-      "title": "Randy Quaid Slams Tom Cruise Over Anne Hathaway ‘Days of Thunder 2’ Role: “Anne Isn’t Sexy” - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGdrRXVwb2dxT2tIZGQ3aGEzbG0yc1U2R1pNTmZ2czZtcC1LYzNKRHNEdEFJbkdyWjktT2VNQ1M3c2w3RW93aWo4N2taLVV2Vjh2cnhLRVZrM3RxUkpTVHVuWUZQZ1pWdVNPZmNlZ2JYWi11T2JKQXF4NHFZclp1aWUxcEpwUWNTTmR0Tko0VWo4cXhpSTBYSWw4bWZJdm13OEZuMWs4WVNyaWlXRVZJSUhSYTN0TW15QjFXTnowd2E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T22:39:24+08:00"
-    },
-    {
-      "title": "Dolly Parton Laid to Rest in Private Family Funeral in Nashville - Billboard",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGdRMmlMVmFEVUpvS3B5NTAyVTA1WjRrSVhKZ19LTmdNd2JLSmdDNEdrRnl1bkVaVDRhR21XMUQ4MGN3Mi1mZUhIRUFOWDZ4WXpkd1RoSU1ud2JySWtOdklDZFVRaXFrUUU2b2dXalh5UElZUG14dnUyUS02RE1tVFNWcTZWQk11dWJBOE5sclhfMTNLY2JmendnUGhHVEZyTXNLOW5VSUhoaW8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T22:24:48+08:00"
-    },
-    {
-      "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900 - AP News",
+      "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900 - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T22:16:00+08:00"
     },
     {
-      "title": "Howard Stern Cuts SiriusXM Show to Once a Week, Inks HBO Max Deal for Streaming - The Hollywood Reporter",
+      "title": "Howard Stern Cuts SiriusXM Show to Once a Week, Inks HBO Max Deal for Streaming - hollywoodreporter.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlNPNXY4WXZ6T1lCOUg3UmNjS0ZocGQ3ZWFTSTlSZlhSUzl6UEhEWEduMzRJMkJNdGdmOVBlUkZsOS1NRnpnWWZzYzlxWUVScDQ5UWFzQlFJT1BZQzAwakF4MlowNEJCMjlOR0JVX3ZMRlk0SE9seUFpaWNPaUh3MDBCMEJYME43T0xreEpaZmpySHd3UnNHMDZ3bkRZX1BPeHNRMHpxS0Q3REZTRWtDc0M3cw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T22:13:43+08:00"
@@ -135,12 +141,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHhHX0tPdFZEMlE0LUZLa1pwZUhtb21Jamh6WldlQ19nZkxWRE5YWTFKNU9iWG1Ba09LNGtZb04xMlI2Y05rSEwyYmFtRHEzNUdkUDZTZkRfWE9BTVhJRmtYdnV4Nk1JZl9Tck80WTRoSkdxWEVTTUNsRE84N1RaRzdWbzVORjNxZlRiTU1HRDFtZFpGM201b0xnMFhFX0p2aUIxZmV1bw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T22:06:00+08:00"
-    },
-    {
-      "title": "G20 finance meeting live updates: Bessent, Warsh to give remarks - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZMElCdDlGOFVqV2JqRFRpeEktUTRfYW51aXpYaEtVY0FzMHRNMEFjVWJkYTJxSWZlNmtnbEpoWnJLMFZRamVQOVB0WUpoQmNMNmprUmNqVTJLZXl6X280b0I3RzdXUWtlN1NLY0oweWROVnF1dGhmY9IBfkFVX3lxTE15NDB3VXpqX1ZsTXNqcGhOSmdJMDN1NzFONnU3UkhQNEpQT3VMU2M4SG1WZ08xSHZXZXJ3b3ZvTWdfQ2VRMVVtdGkyNHc3cXZ1aFQtTHZXa3RSejdSeThSTjlmdE9EUXVZVnlXcV9pSjdaMG41b2o5aEZOa05OQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:51:00+08:00"
     },
     {
       "title": "Live Updates: U.S. strikes Iran for first time in weeks as 6-month war reignites over Strait of Hormuz - CBS News",
@@ -155,16 +155,16 @@
       "time": "2026-08-31T21:47:30+08:00"
     },
     {
-      "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "title": "When will you get your Social Security check in September? See payment schedule. - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOcU5ud05wb2VhSWlhQVhidThLR3d3UVVCckI1ZlpGenJFM2ZzY2h6b2I2bTU3OUdBNHVBeVA5MVJhcDBWUWhpcXFqVTBacEgzN0xsb29HVzBWZV90bFVTVlVOckVkNHJrZ09jeDRIbTNqbFo0OHdPdjRPalVhblZEbXROdDB3Q2gwY3NpazdDdnl4RjVLRE0xSE9Jc1QwTlJnNVlYSDN6Yng5eDNOX1NvZ3lqVU1NVTdGVEs2aHpoWmdCUWs3MnZJWU1BTWdGUEZJR2FaTjBoaC1RRFpRbTVhWWxkRHlJbDA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T21:35:00+08:00"
+      "time": "2026-08-31T21:44:39+08:00"
     },
     {
-      "title": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5",
+      "title": "Ella Langley honors Dolly Parton with emotional 'Jolene' cover during Alabama concert - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeExSTXJIbF9lRkIyV2QtUGhyZVUzMElTc1F2VWNiU092WDBMeUlra0JWSVowbkpuR0NzRTdDa25pb0dSMHlvRnFpZVUwdkRYLWRuUXpOSDFUaGh5R3I0MW51M1djYTk4elhxX2NNMFNyM0Z6RlFKSzJqaEVqdFJpQm9ZaGRNSC11M3paMk9oTmZra0J2MjNkellOSEZPODNabWpuYU5DWHgzVHVCNF9IcA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T21:21:09+08:00"
+      "time": "2026-08-31T21:13:28+08:00"
     },
     {
       "title": "Man arrested after Swiss rave shooting that killed woman",
