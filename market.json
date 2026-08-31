@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T11:40:04.665638+08:00",
+  "generatedAt": "2026-08-31T12:11:01.920977+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609403.2,
-      "changePct": -0.57
+      "priceHkd": 608744.64,
+      "changePct": -0.65
     },
     "ETH": {
-      "priceHkd": 18974.37,
-      "changePct": -1.56
+      "priceHkd": 18941.83,
+      "changePct": -1.66
     },
     "SOL": {
-      "priceHkd": 798.27,
-      "changePct": -3.22
+      "priceHkd": 796.39,
+      "changePct": -3.24
     }
   },
   "stocks": {
@@ -33,29 +33,41 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1114.64,
-      "priceUsdOz": 4422.1
+      "priceHkdPerGram": 1113.99,
+      "priceUsdOz": 4419.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.69,
-      "priceUsdOz": 66.22
+      "priceHkdPerGram": 16.7,
+      "priceUsdOz": 66.25
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 666.24,
-      "changePct": 1.89
+      "priceHkd": 667.11,
+      "changePct": 2.03
     },
     "Natural Gas": {
-      "priceHkd": 22.52,
-      "changePct": -0.52
+      "priceHkd": 22.55,
+      "changePct": -0.42
     }
   },
   "news": [
     {
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
+      "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T11:56:15+08:00"
+    },
+    {
       "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-08-31T11:25:36+08:00"
+    },
+    {
+      "title": "US strikes Iranian launchers on Larak Island in first known attack in weeks - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR1VYOXlxY0JNeElMalZOaEw0VDcycU9GeDBFLUdEQ2x4NjRuSjQzd0drUUtfVDRIR2hzenZjY2lRU2ZvbzVUeWVzYUQxc2QwcS1pWW5HX2EzUQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-08-31T11:25:36+08:00"
     },
     {
@@ -77,12 +89,6 @@
       "time": "2026-08-31T10:31:00+08:00"
     },
     {
-      "title": "Iran attacks US bases in Jordan after US strikes Larak Island - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTBBc2EzTGU1VklFeXVRdXFpRG9pdmFuRHFRcnBmS1o4RE56RVFJTExZVVFySV9wSEhEZV9kNXAyb2VmajRDWTZiaEhyZWRLMjFwbGRVVU1VYlI0S3c5WU5mZGhfUmF4UmRLN1Qzdkc1US1UUGQ0S01Jb0hJeV9jMnBtLXAxWXRiZTdnbXBMcVVXMkJjT3RtdTBB0gGfAUFVX3lxTE5TWTRMMk9tZmNrUWl1MTdYUE9Ick5xeEtsMWFkRnNWbEh4eGcxMTBubTJzeUJBa3RacFFsZ2cxN3Y0OWJ4dDh1NlNwczRSaWFoODlTOFl4dnlKOXE1dG96cHlGRHMzVTlSZUJxWlhPSEJCQ3FlYXBjaHJOZW42enVhckhfV2Rkc2NScXVkV0hDNzBsbzlHTWpCeFdOOS1RZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T10:26:15+08:00"
-    },
-    {
       "title": "Google Maps switches to \"Lake America\" as Canada compares change to \"SNL\" skit - Axios",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcGJBQWIwd2kwN01rQlkzUzZpMUlnZTZRZURRWUtWamxBUUQ0RGI1YnB3WFNxdWF1bFBjX21KRjJZTXRrLVhYVmJpTVNVdGd1UkY3NHNCMkc1MWFGWVpGSTM5U1RWMVVDc0tTSU10M2dyR2NMay1NTA?oc=5",
       "source": "Google News Top",
@@ -93,6 +99,12 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc2RVM0pVVURyOUR6NGJiMVdKcTY2d2M1bkx2RjctaGdEZVp5TTFlcnRmQXdfbVcxRDI5Z1gxcjVzWE5yZG9JZXgwN3YzLUNEZ3l4SURwRkxNWGY3TDhGZWUwemlIMWZGNFVQb29pOTRhWU0wV25NaERGV3ozcGM2Zkp3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T09:12:00+08:00"
+    },
+    {
+      "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T09:02:45+08:00"
     },
     {
       "title": "Brutally Honest Emmy Ballot: “‘DTF St. Louis’ Should’ve Been Called ‘WTF St. Louis,’” ‘Widow’s Bay’ Is “Far and Away the Best” Comedy on TV - The Hollywood Reporter",
@@ -119,6 +131,12 @@
       "time": "2026-08-31T07:52:27+08:00"
     },
     {
+      "title": "Eva Mendes says her tattoo — seemingly inspired by partner Ryan Gosling — is the ‘only one I’ve ever wanted’ - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVQ0em56ZnBwV0RXMnlPdk5CUWptYUw0Y0JkVkFJaVAycDUyTVZqQmJaQXlkcTlaQ08wUHRXUGh4cnhHQXlBRWhWZmdZbXBqdHpJTHAyTmF4SWFFRjNFa2l1TXNqdnpvQXJtNHdwM25IcFlkZGJJSjdsWU9sUGZKeEdFMldhdXBNTjVvRnhKY3VDVEFtRGxvSG1aWXVqbmJkSWpCRjZvamxYQmRoT1RQcHBTUTBhM0I1eFRSSlFMcTZDR3lnb0Nkd2p3UV9Oc1diM3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T07:36:00+08:00"
+    },
+    {
       "title": "US plans to sanction another bank in effort to clamp down on Iran transactions, Bessent tells AP - AP News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdldWT1BUeFUxSlNnaU9rZTl5eDlWd0dSejRvTUg4YkhEZzNIWjVGc0x3VFVENkltZ2dKb3JleFc0YTRQX0M1NGVJcUhXd0l3endPSHFIZl90N0tHSW80S21ZVUhrOG1Yb1RrMTlBX2UydVFCMEV1MjQ1UDI5Z3RkTDQ1TjY3Z1BseXQyZ3Q5eVBENDYwQ2s5Rm9HMkhIQQ?oc=5",
       "source": "Google News Top",
@@ -141,24 +159,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlp4TDFMZW56NUZBeXVKc2t6UHFaX2xtekUxdGNnTU96YVJzczdybzFZNkpsUU9UQ3RUVFVfcmtGcGZXZ1cyTXRpRUE1NjlROFRkRFB4Q0hpLXgweFMtc1dIZl96Rk9Gb0N3bmpHWXVINm1qbW44SzJqQmVCalhCbjBsV081NTRvNFZTbi1GWVk5ZXdSblRyRmpfRldDTnJ2SnY4TFpSY0FEOUpkY3dqSTRyZTF2Yms?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T07:07:59+08:00"
-    },
-    {
-      "title": "2026 NFL roster cuts: Biggest moves, more for all 32 teams - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmQ0aG1TaVVidHpVMkJPMG8xcmZYeERmWXJzZVE4cGI2cEdTbkFDOXJiT0NVbC1mNTgzRlBfMTNIVDZ4QmFHczlMSDZta1RUTlc3dEdFRXdhb2tnZk5xeV8zV2IxRXRkZ0JpUFJUeVdqZHphNnhKTURWU0pmaUh5UHczdWpNV3BBRVBFZGJZWkl2dU9TOUJNOUJ3VHlYN1QtS01R?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T07:04:57+08:00"
-    },
-    {
-      "title": "Eva Mendes Shares Rare Comment About Her Ryan Gosling Tribute Tattoo - E! News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQenU3TkdnSFpqX3JNQWpwOEhZbXR0b2tTQWdmcEY0YzlIc05odktTYU9vMF9La25NdkJicVRqSk56cE5hUkJPTVpVZUNudml2RlNTWi1ySjJMUUJRdFlmazJMR2lIU0Joc25LYTlDVGlSXzRFdGhhTktZNHpfYm9fTGZRd3ZOWUYyam8wUEh0dURoaU9KMWJMYQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T07:03:00+08:00"
-    },
-    {
-      "title": "2 dead, 8 injured after gunfire erupts at unauthorized Trenton block party - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFRJMzEwbmNISzlfVlprSDdqX0xSUFhQZjVoMzA3WExLS01hVTRRTFFheGV2cHFsVnpoeTlXQjJ1aU1Zbm5rRDVVODdFdktfTEdJWENyUF9HcUtwX0MwMjhBNHpOZF9rbDBIdFBxVTVLM2cyZFpONDRYRHFUWVN5UFQtUElfLW81bTdEN2x2SDlkTnRud0w40gGcAUFVX3lxTE1qTGlrdUNtLXk2eDhiYjhIRDJoS0dENTNVYm8xUGZURHUwbklzV0EydUcyWWk5NHZpLVJWODhkT1pnR3pjZkZGZW5uT0FkWUo0Q3I0RHJKeXd5c3RfYU5hajJTZlJjbUVRNGEtMkVTc1NQX2g2ckdLNGZyUFpGR2VFSi1mc24yNFlwb2VmQVkwNjRyZ0FZQ19uQ3dMVw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T06:56:44+08:00"
     },
     {
       "title": "Icelandic voters reject a proposal to restart negotiations to join the European Union - AP News",
