@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-08-31T23:34:44.167492+08:00",
+  "generatedAt": "2026-09-01T00:06:44.590320+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615604.64,
-      "changePct": -0.37
+      "priceHkd": 615879.04,
+      "changePct": -0.5
     },
     "ETH": {
-      "priceHkd": 19372.88,
-      "changePct": -0.31
+      "priceHkd": 19349.75,
+      "changePct": -0.71
     },
     "SOL": {
-      "priceHkd": 809.48,
-      "changePct": -3.06
+      "priceHkd": 806.74,
+      "changePct": -3.47
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5518.39,
+      "priceHkd": 5513.79,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60166.82,
+      "priceHkd": 60120.88,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1122.37,
+      "priceHkd": 1120.26,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.11,
-      "priceUsdOz": 4431.9
+      "priceHkdPerGram": 1117.46,
+      "priceUsdOz": 4433.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.42
+      "priceHkdPerGram": 16.75,
+      "priceUsdOz": 66.46
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 669.85,
-      "changePct": 2.45
+      "priceHkd": 670.71,
+      "changePct": 2.58
     },
     "Natural Gas": {
-      "priceHkd": 22.88,
-      "changePct": 1.04
+      "priceHkd": 22.9,
+      "changePct": 1.14
     }
   },
   "news": [
+    {
+      "title": "Messi announces departure from Argentina national team - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZUtqdnNIb08tN3Y4NTBJT2l5RTRXaEpDSmVacEVXSExtVjFJcnliTmVDQXc5SkRINWNaaGdmbFppTzgxMV9UaW1GTTRIaGxMcTRqd0VsOXFVWjhhMlRYcWpYX08tNjN6Qi1QWDVyRVA3clBTaUhYRmRmajJ5UDlLS2tDcFpvYXd0R0Mwc2s0Yk5zVGJ6Z0lIVk80ejFVZWNE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:41:43+08:00"
+    },
     {
       "title": "John Galliano exhibition at New York Met cancelled after backlash",
       "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
@@ -59,16 +65,10 @@
       "time": "2026-08-31T23:30:05+08:00"
     },
     {
-      "title": "Messi retires from international football",
+      "title": "Messi retires from Argentina duty with 'nothing left to give'",
       "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T23:18:39+08:00"
-    },
-    {
-      "title": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZkp2bTNxVi1OU1hGQ0lKb2RHZ3ZIX0I5ZmttZXJBYVk3UjJ2eC1BWXVUbGJlWVpXX2phbjR0dGgwSGxTY3NnbldqVzVNSV9XRFV3Q2c5azhkZnF4bnE40gFkQVVfeXFMT002cDN3RVN0clhGUU1Xd2Z5RnMwNkUxNFRaQXRKdHVZUDNRUUZrOEcySTdaZUdMS3FUaW01Z1Q1QXQwc0FDWE12MjVadGdjNV9BdTdjdUIzVVI2bWpoUWhiUDhCRw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T23:03:39+08:00"
     },
     {
       "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
@@ -77,16 +77,52 @@
       "time": "2026-08-31T23:00:11+08:00"
     },
     {
+      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U0tGeWJWd0VQWlBhQ2ZFSmhZUzNNQktMSG1nLXF0NjdDUXU0eU9fSEhvX1N0cW9SbXBzZ2EwOGhoelFGQlo3TmY0ejEyU2Y4VlJJS2t3RFplZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:00:11+08:00"
+    },
+    {
+      "title": "Kalshi bans ex-congressman George Santos for life after suspicious trades - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDUElwekpMNllfZzJjUTBCbENWamlWNVNmdFd1SFpncUJWZFhsQnd5eDYxT05TcVUxSENvcmx4SjNLMWo5c2F4UG1CRVN4ZTRJQ3Z1NXJ3QmlvWTNRT2x2a3d3ZzJDeUhwdkozT3hEOEM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T22:53:00+08:00"
+    },
+    {
+      "title": "Lindsay Clancy trial deliberations stretch into third day, defense attorney ‘nervous’ awaiting verdict - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T22:50:56+08:00"
+    },
+    {
       "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T22:50:36+08:00"
     },
     {
+      "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNGg1el9MUWRYTnBSbW42NnllVGxRSmwxLUloa1ppa01jamtTRXhiMEo0cUd0dk5iMDVPZEpMdDFBbGMtd2FzSVJFRjRIM3BSVVU1RFhEaTB1TDhHQzVNb2VnLTZWXzhQMmthTG5VRzk1STBaRVlsNENZOHNnWTJ4TURjR2hPUDNlS1VtSDd4NlB0UUxBLXprTnRJM25XOXNLVWt4amprQ3YyeWM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T22:48:40+08:00"
+    },
+    {
+      "title": "Randy Quaid Slams Tom Cruise Over Anne Hathaway ‘Days of Thunder 2’ Role: “Anne Isn’t Sexy” - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTGdrRXVwb2dxT2tIZGQ3aGEzbG0yc1U2R1pNTmZ2czZtcC1LYzNKRHNEdEFJbkdyWjktT2VNQ1M3c2w3RW93aWo4N2taLVV2Vjh2cnhLRVZrM3RxUkpTVHVuWUZQZ1pWdVNPZmNlZ2JYWi11T2JKQXF4NHFZclp1aWUxcEpwUWNTTmR0Tko0VWo4cXhpSTBYSWw4bWZJdm13OEZuMWs4WVNyaWlXRVZJSUhSYTN0TW15QjFXTnowd2E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T22:39:24+08:00"
+    },
+    {
       "title": "Dolly Parton Laid to Rest in Private Family Funeral in Nashville - Billboard",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGdRMmlMVmFEVUpvS3B5NTAyVTA1WjRrSVhKZ19LTmdNd2JLSmdDNEdrRnl1bkVaVDRhR21XMUQ4MGN3Mi1mZUhIRUFOWDZ4WXpkd1RoSU1ud2JySWtOdklDZFVRaXFrUUU2b2dXalh5UElZUG14dnUyUS02RE1tVFNWcTZWQk11dWJBOE5sclhfMTNLY2JmendnUGhHVEZyTXNLOW5VSUhoaW8?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T22:24:48+08:00"
+    },
+    {
+      "title": "Hundreds of workers feared stuck in hydropower tunnels as Nepal flood deaths cross 900 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T22:16:00+08:00"
     },
     {
       "title": "Howard Stern Cuts SiriusXM Show to Once a Week, Inks HBO Max Deal for Streaming - The Hollywood Reporter",
@@ -107,6 +143,12 @@
       "time": "2026-08-31T21:51:00+08:00"
     },
     {
+      "title": "Live Updates: U.S. strikes Iran for first time in weeks as 6-month war reignites over Strait of Hormuz - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:50:00+08:00"
+    },
+    {
       "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -119,58 +161,16 @@
       "time": "2026-08-31T21:35:00+08:00"
     },
     {
-      "title": "Trump teases retaliation on Kharg Island after Iran strikes US bases in Jordan - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUV3N3pka3VwNzBqTDlCV19ZZ0QtMXRpOHBLLU9aRjVuMUpLa3hqOWtSdE1uNkRoZHV6QW50dkZDdjUxaUNXWUJxNkhETS1PTW1CREt0b3R0WUdWbU1ZUlhCakN1WTJJVlZCNF9hQm5xdjVaU2dyeEZ1eFRyZF9TRG9aODNGc25JNjBleV82RQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:31:43+08:00"
-    },
-    {
       "title": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T21:21:09+08:00"
     },
     {
-      "title": "The Remote Grand Canyon Lodge Hit by Flash Floods Has a Storied Past - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU5BQ1FaeFlPMi1YS3VueXhNeXdTVmt4M0hsSTJVVHRLcWdPVDR3SHJXRXFWVnE2Tk5zcjh5R0V3R2Y3cUdRZVBWbnBMLUd4WmdZZnUtcFVTbHY4Rl9USF9nVGRxRUZaUk9nVVpQbmlWeDVJY0JVcm91dWhHZ0hpZEVEQkM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:20:35+08:00"
-    },
-    {
       "title": "Man arrested after Swiss rave shooting that killed woman",
       "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T21:11:35+08:00"
-    },
-    {
-      "title": "John Galliano Withdraws From Met Museum Show After Backlash - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeTFOUWMwMm5EOXBmS1EzYmZ0UkVWMTBzLWVKYkZ5UEswbnJYZl81Z0lTRnNUUUFVYzNzVTdpc19QLVFTdjR0c29qQU5wNE9Uak43T2U2eVR0YmRMdDNWRjJqc0c2SXdULWc4dDd3M2tLdVZkTms3MjV6WXBOWXdWYkRLaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:09:07+08:00"
-    },
-    {
-      "title": "Iran’s economy in crisis as US launches new sanctions campaign - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:01:00+08:00"
-    },
-    {
-      "title": "Instagram cracks down on AI accounts pretending to be human - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckRRZGNrOGRzM2dIUTYxd3otaDN6dEhIMF9HeWNVQ1M3T3JQU0I3QTdNMXVjUzd0aFRQNGNKMlpaVlE1RFU2MEloZmlMeGtVRDNQLW1KOTk0NjhRU0pkVGVUQ1JqV21rNFZLV1JSRGhPSUQ1WGJGNE1JY0E2YUszWlc5WQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:00:00+08:00"
-    },
-    {
-      "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T20:55:25+08:00"
-    },
-    {
-      "title": "The 13 NFL players who were cut but could make an impact on a new team - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1hrWkdOUWhmZlFXYWNPMU9CRHBYcDNVXzA4R0JEZVFUc0lUQk00MnFJYkZkRkt3Q000b05BYUZ3MjludDg3VXBKbDFESG9MRGhqd2c0Vkg2bkVzTC1Jc1ZlLUFHMFFTcWNSX1dyOER4WjZpemlnWm5mbTMyRFh1Q2VtTlE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T20:46:17+08:00"
     }
   ]
 }
