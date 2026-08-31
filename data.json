@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T15:48:39.742835+08:00",
+  "generatedAt": "2026-08-31T16:19:42.975226+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -65,7 +65,7 @@
           "author": "evilmoni",
           "time": "2026-08-31T13:23:15+08:00"
         },
-        "commits30d": 72,
+        "commits30d": 67,
         "totalCommits": 130,
         "branch": "main",
         "uncommittedChanges": 0,
@@ -263,8 +263,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:39:54.898338+08:00",
-        "next_run": "2026-08-31T16:09:54.898338+08:00"
+        "last_run": "2026-08-31T16:10:58.786191+08:00",
+        "next_run": "2026-08-31T16:40:58.786191+08:00"
       },
       {
         "id": "539a150ac028",
@@ -281,8 +281,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:17:44.504457+08:00",
-        "next_run": "2026-08-31T16:17:47.605925+08:00"
+        "last_run": "2026-08-31T15:48:46.534237+08:00",
+        "next_run": "2026-08-31T16:48:51.693750+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -290,8 +290,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:37:47.186967+08:00",
-        "next_run": "2026-08-31T16:07:47.186967+08:00"
+        "last_run": "2026-08-31T16:07:50.979139+08:00",
+        "next_run": "2026-08-31T16:37:50.979139+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -299,8 +299,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:42:47.302665+08:00",
-        "next_run": "2026-08-31T15:52:47.302665+08:00"
+        "last_run": "2026-08-31T16:12:50.882786+08:00",
+        "next_run": "2026-08-31T16:22:50.882786+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -335,8 +335,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:40:47.469067+08:00",
-        "next_run": "2026-08-31T15:55:47.469067+08:00"
+        "last_run": "2026-08-31T16:10:50.919598+08:00",
+        "next_run": "2026-08-31T16:25:50.919598+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -425,8 +425,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-08-31T10:07:04.906511+08:00",
-        "next_run": "2026-08-31T16:07:04.906511+08:00"
+        "last_run": "2026-08-31T16:07:54.758065+08:00",
+        "next_run": "2026-08-31T22:07:54.758065+08:00"
       },
       {
         "id": "871bc45fb59e",
@@ -542,8 +542,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:00:55.370579+08:00",
-        "next_run": "2026-08-31T16:00:00+08:00"
+        "last_run": "2026-08-31T16:01:03.801791+08:00",
+        "next_run": "2026-08-31T17:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -641,8 +641,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:01:40.426510+08:00",
-        "next_run": "2026-08-31T16:00:00+08:00"
+        "last_run": "2026-08-31T16:01:49.772327+08:00",
+        "next_run": "2026-08-31T17:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -775,32 +775,37 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "410Gi",
-    "uptime": "1 day",
+    "uptime": "2 days",
     "cpu": {
       "loadAvg": [
-        1.29,
-        1.29,
-        1.27
+        1.43,
+        1.18,
+        1.14
       ],
-      "usage": "13.2%"
+      "usage": "12.8%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 36.3
+      "usedPct": 36.4
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "2.5",
+        "cpu": "4.0",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.4",
+        "cpu": "1.5",
         "mem": "0.0",
         "name": "sysmond"
+      },
+      {
+        "cpu": "0.3",
+        "mem": "0.0",
+        "name": "notifyd"
       },
       {
         "cpu": "0.3",
@@ -808,14 +813,9 @@
         "name": "launchd"
       },
       {
-        "cpu": "0.3",
-        "mem": "1.2",
-        "name": "Google Chrome Helper (Renderer"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "0.0",
-        "name": "notifyd"
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       }
     ]
   },
@@ -971,6 +971,14 @@
     }
   ],
   "githubActivity": [
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-31T05:23:31Z",
+      "title": "chore: remove unused OAUTH_PROVIDERS const from lib/auth/oau",
+      "detail": "1 commit(s)"
+    },
     {
       "repo": "evilmoni/TechWealth-Tracker-Pro",
       "type": "PushEvent",
@@ -1268,14 +1276,6 @@
       "detail": "1 commit(s)"
     },
     {
-      "repo": "evilmoni/KinKin",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-16T18:48:02Z",
-      "title": "docs: record ESLint toolchain fix (Task 26) + CI workflow PA",
-      "detail": "1 commit(s)"
-    },
-    {
       "repo": "evilmoni/TechWealth-Tracker-Pro",
       "type": "PushEvent",
       "actor": "evilmoni",
@@ -1503,16 +1503,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-31T15:48:39.403181+08:00",
+    "generatedAt": "2026-08-31T16:19:42.579148+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 26.7,
+          "temp": 26.9,
           "code": 51,
           "precip": 0.1,
-          "wind": 6.2,
-          "time": "2026-08-31T15:45"
+          "wind": 5.8,
+          "time": "2026-08-31T16:15"
         },
         "daily": [
           {
@@ -1542,10 +1542,10 @@
         "label": "Shenzhen",
         "current": {
           "temp": 26.3,
-          "code": 95,
-          "precip": 0.8,
-          "wind": 2.8,
-          "time": "2026-08-31T15:45"
+          "code": 53,
+          "precip": 0.2,
+          "wind": 2.4,
+          "time": "2026-08-31T16:15"
         },
         "daily": [
           {
@@ -1581,12 +1581,12 @@
   },
   "activity": [
     {
-      "time": "2026-08-31T15:48:39.742735+08:00",
+      "time": "2026-08-31T16:19:42.975090+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-31T15:48:39.742735+08:00",
+      "time": "2026-08-31T16:19:42.975090+08:00",
       "type": "info",
       "text": "⏰ Cron: 32/55 jobs healthy"
     },
