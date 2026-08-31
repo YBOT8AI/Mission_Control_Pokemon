@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-09-01T03:14:12.091573+08:00",
+  "generatedAt": "2026-09-01T03:45:18.390184+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 620606.56,
-      "changePct": 0.2
+      "priceHkd": 619093.44,
+      "changePct": 0.23
     },
     "ETH": {
-      "priceHkd": 19490.48,
-      "changePct": -1.01
+      "priceHkd": 19435.6,
+      "changePct": -0.82
     },
     "SOL": {
-      "priceHkd": 818.97,
-      "changePct": -2.15
+      "priceHkd": 813.09,
+      "changePct": -1.84
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5521.71,
+      "priceHkd": 5527.08,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60199.83,
+      "priceHkd": 60260.98,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1115.59,
+      "priceHkd": 1117.98,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.82,
-      "priceUsdOz": 4434.7
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.72,
-      "priceUsdOz": 66.35
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 671.26,
-      "changePct": 2.66
+      "priceHkd": 672.75,
+      "changePct": 2.89
     },
     "Natural Gas": {
-      "priceHkd": 22.98,
-      "changePct": 1.49
+      "priceHkd": 22.93,
+      "changePct": 1.28
     }
   },
   "news": [
+    {
+      "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T03:11:00+08:00"
+    },
+    {
+      "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T03:10:00+08:00"
+    },
     {
       "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T02:58:16+08:00"
+    },
+    {
+      "title": "Exclusive | FTC to File Lawsuit Alleging Amazon Deceived Advertisers - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTdfSlBMRDYwWko4RjVDVEZCdWNDM3Zvdi11MWlTSlVxZjcwZDViYWJxMUUzSXR5QmQ2a0p2dHJTY3dpMlVaWmlGUThOS0EwNmlXaU9IWS1zb2lLdjlTUUVQb0RHNGZOWnptVm5OZFNneTFjNWY0c0xHekR3OXJFY2VLb0F2ZV9ubUtHZHBkTXR0LWJO?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:58:00+08:00"
     },
     {
       "title": "Lionel Messi announces retirement from Argentina national soccer team - NBC News",
@@ -65,10 +83,10 @@
       "time": "2026-09-01T02:45:27+08:00"
     },
     {
-      "title": "Judge orders forced feeding of alleged National Guard shooter - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09LRmxWSkVjQVdlUW5oLXVBMVRQdE5Qd0wyMkQ4aGFYU0lsQTBHNUdMLUd0cHdvRXRpYkhNcGZDWHZiMDYwVkhTbk9heWtRVjloX0oxVVN3Q3A2dkphXzFGZnJNdl9XVXBPSS1qdTVndm1za1ZUcmZLLUtmeTI1bTUwdXhDNHBUNVBFSFVRLW9oYnRBXzBsb1owZ0Y2c3I5VTJkdDVmUlRWY0p1SFhGWXlyYnVRM1VYeGJv?oc=5",
+      "title": "PG&E Stock Plummets. It May Not Be Shielded From Wildfire Liabilities. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEdOTFgySzh3dWNyY21SVnVJaWpLYm90aUNjUTBDYjNTU1lJUmwwa251OVlYZkluek9DNTBuVFpxNHM1aU8xbGxMZV9xYmNqTnEtSU5aRHBYQmtnTzFCZkk1aDFzdXN4YTRhZEJkVXBSYmg5UWU3NjVCMDNtV1NmV3ZxSTdDeHlrLVVv?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T02:34:55+08:00"
+      "time": "2026-09-01T02:42:00+08:00"
     },
     {
       "title": "Iceland to seek new security partnerships after voters reject EU accession talks - Reuters",
@@ -77,16 +95,28 @@
       "time": "2026-09-01T02:20:40+08:00"
     },
     {
+      "title": "Apple Seemingly Made a Mistake When Announcing the New Mac Studio - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUzVyVDVjY3dJc1Z3MGRyY3VMaVFvMlc2QlE1QUZWSk5Lbl82XzA5al9QZ2NjbzhxeU1YaEt3SUNnQTNOTGxwLTJUYUVxYjEzVms0WTZKMVJBMDhEb2xQcGcyOTBEUmMzd3h6Tzh5RTZFc21LOGo5b3N4dDhrY2M?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:19:11+08:00"
+    },
+    {
+      "title": "Dolly Parton laid to rest in private Nashville funeral - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaYnZodDg3bV9JUzFBRndhZXIxZWlHSE1aVHBkZDQ0Sl9PdFVuWWJjbjVIX2dLOUdPVWlJYTdta3MwX0JGcmFVaFYwMjFMNjF2Mi10SXpFSVd1MVNXVldqZFl4ckVWRTRaclhYWUlxMUhVNDhy?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:18:00+08:00"
+    },
+    {
       "title": "Ex-congressman George Santos banned from betting platform for life",
       "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T02:15:12+08:00"
     },
     {
-      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm5Nb2d4V2c1d19xNHFiVjExRFhqMjZxM3FJa3hnblpmdjNwRHBaMHFiSlNUUnkxM3VxcmtOeUxYTThKRTBDa0VlNklQVFVESVhKbmoyd2R5OVZxS2R0VWF0cGQ2TzY2RzhqbnNPdnNnQlpGeTZBUjBGMWpYUzFzNUxsOVJkYzNr0gGOAUFVX3lxTE1RdzlMZzJyR2VUeV9kc2ozRXppdF92a3gtWGJ2ZkZ0QjNwdmgwQzNoYnZsVGx4c1E0cWs2OHg4WHhwLVNMdURfLVE4OFpHVGJFLWUwd1MzU1hpNV9xX2w5ZlQ2aXp5UXBwTC00WTRkQ3RWYzRpOFViZFVDSDF4WmVueTYwY29TeGNmZUNiUGc?oc=5",
+      "title": "D4vd legal team abruptly withdraws, singer taps public defender for murder trial - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV21pLU1sTTBMM3REOU8xc3FiR0tqVWMxOWgtODk4aGJRdlVQbmlDZFRNSG9PMGJKRGU5TW1INFpZX3pTLTliUXA0WUpHZjdWejItYWk1LTJJam93WGtWYUlzclUyZXdOZWJ2LS10V2hUOU5Oa19TNHQyY2EzMWJtX1NnYjdFYzBDRC1TWV9jMndBdWdDMUxFMFV6SzlLRGNtQjJ3RHBJVjVHc29ibS00ZWh3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T01:56:01+08:00"
+      "time": "2026-09-01T01:55:00+08:00"
     },
     {
       "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
@@ -95,20 +125,20 @@
       "time": "2026-09-01T01:54:23+08:00"
     },
     {
-      "title": "Microsoft Outlook Hit by Exchange Online Service Outage - CNET",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUl2YW1tRkRvY3hKNW5SUDNONERVYmVuQXUwR2JSS0dSVk1IcGdnU19zU1RmeHhqUUJ5ODJacE1RLTEzSEpUSFRmaV9oUFZ3WUtMSFZZTnJTSDljVF9Uanc0bVd0QnAzRU1ockVGY2RoX1YwUDIyc19kZE1HaHR2NldTc0U3LUk?oc=5",
+      "title": "Metropolitan Museum of Art cancels planned Met Gala exhibit on fashion designer John Galliano - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm9KMC1CRlVnRXVocFZDc2t4X3JBblRTTmRJWkhOdElDd3VmeWJQRzBpZFFTdUFBV2R6amVvSFFjT3MwMUdoZFNzaXJjTm4wN29XX3IzZDhnc2hHeHRrWFpzZzR4TEtpVk5CYzlDUGRldXVyZzNFeHM3U0xrcUxyQWhKRGtuS1J4MnVBOFBscmFzX3BW?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T01:54:22+08:00"
+      "time": "2026-09-01T01:52:00+08:00"
     },
     {
-      "title": "D4vd legal team abruptly withdraws, singer taps public defender for murder trial - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV21pLU1sTTBMM3REOU8xc3FiR0tqVWMxOWgtODk4aGJRdlVQbmlDZFRNSG9PMGJKRGU5TW1INFpZX3pTLTliUXA0WUpHZjdWejItYWk1LTJJam93WGtWYUlzclUyZXdOZWJ2LS10V2hUOU5Oa19TNHQyY2EzMWJtX1NnYjdFYzBDRC1TWV9jMndBdWdDMUxFMFV6SzlLRGNtQjJ3RHBJVjVHc29ibS00ZWh3?oc=5",
+      "title": "Lindsay Clancy trial deliberations stretch into third day, defense attorney ‘nervous’ awaiting verdict - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T01:36:01+08:00"
+      "time": "2026-09-01T01:49:57+08:00"
     },
     {
-      "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
+      "title": "Novak Djokovic Pukes And Crumbles At The U.S. Open - defector.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03blRQclZzMmtQU0ZJTnFJcGJabzdMUWZwaldXeVFjbThiRHhsV0o4YTJKaEdfNExvVHRwVjdxX0tTa0VBdFlUTFY4Sk45NHI3Z0JLQk1TTWpSWG5pd1ZTQUVnWU5WZkZiUFhVQ0t3ZzAtZlA1VThublBB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T01:33:00+08:00"
     },
@@ -125,52 +155,22 @@
       "time": "2026-09-01T01:20:45+08:00"
     },
     {
-      "title": "Olivia Rodrigo’s Daisy Chain Fields: A New Feminist Music Festival Takes Shape - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNUtSMEJqQU5Ja3lJVVJmUkpKVE1KdXQ4ZVRkLTRPRXUzOGxiRW5xYlNOTlZwOHZUSW1ISFU1Y0M0Sk5zek5SZWtrclY1TGQzX0JwX1hONXJreWhwSW9TOHlyRWluei15QmhWUVFxYUFfTHZOSUEyd2RmZ3ZmamVuSFBwY0Y4d2VfT0VseQ?oc=5",
+      "title": "Trump says data centre critics ‘want to end up backwards and poor’ - ft.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYV9zQTRxalNBQXctWUtrcFpNdjVmbkNjLXZBdGI2M005V0FBc1NoRHl3VlRNQlVpSy15NDMteWZWN0RBZlBYQkYzSEI2cnVYOGVpUGdtQnRuN2RfaE51YVFTanVBX1cyZzlUUFlJOFFfZ3dtM0ZUdHlnWGhyTHBNX2dwNDA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T00:51:20+08:00"
+      "time": "2026-09-01T01:19:13+08:00"
+    },
+    {
+      "title": "Column | I’m an oncologist. Every man should know this about prostate cancer. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUUzdHFyeVVZMTd3SmE5TEdnSFBURlRISTlJd2dnYlNJeVQ4RFFVcVJYOHV2TEZwbXFPa0JEMWZTdTJqVDVfemxCVjMxUzdMQl9SQ2ViX3N2amZOZ2RuODllU2RSNDBYc2hSeXg1WGxDSlFxbzg2N2NoS1NpQ204U2hsUEdYRExZTDRqWkpqV0xMRkFEQXBHYTlfUS1sUVcwVnNEdC16V3E5QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T01:00:00+08:00"
     },
     {
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-01T00:49:11+08:00"
-    },
-    {
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:49:11+08:00"
-    },
-    {
-      "title": "'I haven't lost my hope' - the search for missing loved ones",
-      "link": "https://www.bbc.co.uk/news/videos/c4g79v842xjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T00:42:17+08:00"
-    },
-    {
-      "title": "Amish family affected by measles outbreak speaks out - TribLIVE.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnQ4V2dOSXlWR3JtSzE0RExtZGlGbGRZYzZGR0RSeGRyZjNJZnJwbUhoOWZiQ1BoaEJBUENSNDlIUkZSLTlyZzJhRXgydWQ0ZFpxZUNfd1I5T2VNdWxZcVJpeEdPdVd6dGJTaE9GRGlLVTRqdXg0dlEtZjhJM2ZxUGZBaWJjbGhOMzAxcV9oRllMX0k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:40:03+08:00"
-    },
-    {
-      "title": "Iran’s economy in crisis as US launches new sanctions campaign - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:37:00+08:00"
-    },
-    {
-      "title": "Here are the 54 players from Utah who made initial 53-man NFL rosters - KSL",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjlrLTc5WE11NFdrbFpKMWJWWkpZOEpBOWxlUGt6ZlNLWnFueW9IVTZyTGtrOTNEUExEbGRPYXNGMHJHdDEwYnhCcTBMQ2thamNNV3Y4R1VSZENLdTNLMVBmaVRQczEyMnBzY1lTMlkydTF1Q21BLXBSb3o4N0ZpZURmQVktbWgzcDVWTkdlS29ra252cGFhMW8yT3U4SlUwRXBBZGVzdnF5QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:34:17+08:00"
-    },
-    {
-      "title": "Company offering reward for safe return of truckload of beer",
-      "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T00:32:59+08:00"
     }
   ]
 }
