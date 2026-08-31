@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-09-01T04:16:17.509128+08:00",
+  "generatedAt": "2026-09-01T04:47:25.857473+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618858.24,
-      "changePct": 0.1
+      "priceHkd": 618458.4,
+      "changePct": 0.39
     },
     "ETH": {
-      "priceHkd": 19432.85,
-      "changePct": -1.04
+      "priceHkd": 19397.41,
+      "changePct": -0.67
     },
     "SOL": {
-      "priceHkd": 813.24,
-      "changePct": -2.02
+      "priceHkd": 813.48,
+      "changePct": -1.01
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5527.51,
+      "priceHkd": 5526.34,
       "changePct": NaN
     },
     "SPX": {
@@ -33,36 +33,66 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1121.93,
-      "priceUsdOz": 4451.0
+      "priceHkdPerGram": 1121.25,
+      "priceUsdOz": 4448.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.81,
-      "priceUsdOz": 66.69
+      "priceHkdPerGram": 16.8,
+      "priceUsdOz": 66.64
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 673.61,
-      "changePct": 3.02
+      "priceHkd": 676.83,
+      "changePct": 3.51
     },
     "Natural Gas": {
-      "priceHkd": 22.95,
-      "changePct": 1.35
+      "priceHkd": 22.94,
+      "changePct": 1.32
     }
   },
   "news": [
     {
+      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T04:43:25+08:00"
+    },
+    {
       "title": "Oil prices rise and stocks fall after US hits Iranian sites in the Strait of Hormuz - AP News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkxlME9kNGFRUWlyc1k0NW93dnBPbHRkWWtveTVWc19ybnNSV2J2SHZ1MUhZa2VrQWVRaWNWWUQ0ZnE5UmRHcjYtYXl1ZVp4OF9DU0VRdmFEVXJ4MUFnUWkzQkRsNThWbVVXcUVvUDBRYXpoeXpBcnZaX0tXTjd3V3QxNzRBMTAwY3dRSmticTlFQUtITmdqQmpRS1JyUDVS?oc=5",
       "source": "Google News Top",
+      "time": "2026-09-01T04:31:00+08:00"
+    },
+    {
+      "title": "US health officials exclude measles-related deaths in Pennsylvania from counts - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUowQnc5cXpUWmpoRnpaX0Z6dVJyR1dWSkhRTlBLX3psaEZzX185czlxTWZnc2Q5azdXM2lVVS11dW4yNjlpaWxfS3hVVzQwcjZUenZhb193N3IzakF5VE9NVUtkR0JUbDlNYlpVZ2ptWDJrbTFWSWpVOUxKYmFmazFIVUY2WU9QeUhsUQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-01T04:06:00+08:00"
+    },
+    {
+      "title": "Supreme Court allows Trump to move forward with White House ballroom construction - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbU5sR0RfV1QtM3kyTWR4X3dwSXh0Y2EyRE9IVE1JSWdjSVJWaUJxM25MaktlRExhRlpKRkhQYnFxeXNLYUdXSmVzUEtJR3QtUDVDZjVlbURzS0NaWnlaYm1sS3dvTnFIa1gtb2ltUjdQdmpGMHY4c3VRalNmOGhmdld2c3VITVQ2SGNtNFRjZ3ViTHc1ZjlGSldvQlNjbS1qOUpPWjFLTmstU2ZmczRaTnR6bXdpeHlwV3F4UzBWdkk0WVhjRWkw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T04:05:00+08:00"
     },
     {
       "title": "More storms possible at Grand Canyon where a flash flood killed at least 2 people, others missing - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T03:30:00+08:00"
+    },
+    {
+      "title": "Iran’s economy in crisis as US launches new sanctions campaign - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T03:25:00+08:00"
+    },
+    {
+      "title": "Across Latin America, 'aura battles' burst onto the scene",
+      "link": "https://www.bbc.co.uk/news/videos/c158z7g23zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T03:11:57+08:00"
     },
     {
       "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
@@ -77,10 +107,10 @@
       "time": "2026-09-01T02:58:00+08:00"
     },
     {
-      "title": "Microsoft tests fix for latest hours-long Outlook outage - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1JHZWZVT1VPV09rM3d1N2loTjYwRFp0NnJJdWlpQkNmY0dzRERIVlpBeGxPMnNwcXVWTGFHTlZOZjc4Y0EtUk5KbGZ4M281WnhWUHN4cENjRkF3a0wwTVRROHZrN0cxejJ0T2JmWENqOGtHNF9YMld2R3RxOUhuU0dqR2JHMzIySUdRU3dld3puSkZmNkE?oc=5",
+      "title": "Popular artificial sweetener linked to potentially dangerous heart risk - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX1A1MG55NFBJR2t4WnBBa05yMmlrNGw5TVJHOHV0OWd5cnA5RlpuVlhQbnh1RTBwaDFTRWdUOXhjSG05RnY5RnY5WU9GR0N4SXJBamNNNVg3NVZ1bnlUQTcyakF0N2NONkhtaUpveF9hNnRsZ3E1X1I2OU1HSk9nc1lwQXJjOURtUGJJLWZTOFotaUo3RDJSQmlEN1JUNWVp0gGmAUFVX3lxTE03dXZzZGdTcGtFdDdlM0VldmtWM180UEFjclQ2RURIMldhSzVOcDlyNzc2V0NTS2J0WG9fZUF4TUVhRUNVTWFXYU41c1hsVkc4eE4xRG9tUU92X1RuY0VWSjZJbU5POUdOS3VSWHJxdDdQcXlwdEVmUHk3QnJMWlpmLUFpSEVBWUFCR2cwTmVNam5vWV8wQlVNYlBnWEd0ZExJWkRWa0E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T02:56:41+08:00"
+      "time": "2026-09-01T02:56:09+08:00"
     },
     {
       "title": "Lionel Messi announces retirement from Argentina national soccer team - NBC News",
@@ -89,7 +119,13 @@
       "time": "2026-09-01T02:45:27+08:00"
     },
     {
-      "title": "Judge orders forced feeding of alleged National Guard shooter - The Washington Post",
+      "title": "Kushner states regret over World Cup sell-off plan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c780w17lw02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-01T02:38:55+08:00"
+    },
+    {
+      "title": "Judge orders forced feeding of alleged National Guard shooter - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09LRmxWSkVjQVdlUW5oLXVBMVRQdE5Qd0wyMkQ4aGFYU0lsQTBHNUdMLUd0cHdvRXRpYkhNcGZDWHZiMDYwVkhTbk9heWtRVjloX0oxVVN3Q3A2dkphXzFGZnJNdl9XVXBPSS1qdTVndm1za1ZUcmZLLUtmeTI1bTUwdXhDNHBUNVBFSFVRLW9oYnRBXzBsb1owZ0Y2c3I5VTJkdDVmUlRWY0p1SFhGWXlyYnVRM1VYeGJv?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T02:34:55+08:00"
@@ -113,64 +149,28 @@
       "time": "2026-09-01T02:15:12+08:00"
     },
     {
-      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up - CNBC",
+      "title": "Trump weighing limited strikes against Iran to curb Hormuz attacks - Axios",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzZXpaNzhySlI5eHVJWUx1Vi11N0s4bkZDdjJBWkVwdlNOV0dJWlVhTmlpZWFRQ2gyclAzSThsMGxieWIzUUplVmQ2RXBTM2tqR3dwd1lZWUhpTk9wWTM3NGJHMlNQOEpTeHhFeDc1elhPTW1iNENUcEZn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:07:25+08:00"
+    },
+    {
+      "title": "Will Trump's Venezuela oil deal lower U.S. gas prices? Here's what experts say. - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Db2h6UTZUUDdHSV9WTDJ6VmJkWHp2WGNLX0NoTzVCV21oY0VVdldSYjBtdEZ1bkhqdXBxbFdiSm1iZ3lEWjM2VWVXNDFxcURydWdwWkpKQnVpdDl3a2JPWjN5NjBSeGgyQ0NPSTFXaXZwbEU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T01:57:00+08:00"
+    },
+    {
+      "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWm5Nb2d4V2c1d19xNHFiVjExRFhqMjZxM3FJa3hnblpmdjNwRHBaMHFiSlNUUnkxM3VxcmtOeUxYTThKRTBDa0VlNklQVFVESVhKbmoyd2R5OVZxS2R0VWF0cGQ2TzY2RzhqbnNPdnNnQlpGeTZBUjBGMWpYUzFzNUxsOVJkYzNr?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T01:56:01+08:00"
     },
     {
-      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
-      "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T01:54:23+08:00"
-    },
-    {
-      "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm9KMC1CRlVnRXVocFZDc2t4X3JBblRTTmRJWkhOdElDd3VmeWJQRzBpZFFTdUFBV2R6amVvSFFjT3MwMUdoZFNzaXJjTm4wN29XX3IzZDhnc2hHeHRrWFpzZzR4TEtpVk5CYzlDUGRldXVyZzNFeHM3U0xrcUxyQWhKRGtuS1J4MnVBOFBscmFzX3BW?oc=5",
+      "title": "D4vd legal team abruptly withdraws, singer taps public defender for murder trial - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV21pLU1sTTBMM3REOU8xc3FiR0tqVWMxOWgtODk4aGJRdlVQbmlDZFRNSG9PMGJKRGU5TW1INFpZX3pTLTliUXA0WUpHZjdWejItYWk1LTJJam93WGtWYUlzclUyZXdOZWJ2LS10V2hUOU5Oa19TNHQyY2EzMWJtX1NnYjdFYzBDRC1TWV9jMndBdWdDMUxFMFV6SzlLRGNtQjJ3RHBJVjVHc29ibS00ZWh3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T01:52:00+08:00"
-    },
-    {
-      "title": "Lindsay Clancy trial deliberations stretch into third day, defense attorney ‘nervous’ awaiting verdict - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDhVV0VuWGZQTHZCY1E3TVduZGtRLVFvRGpJM3E2b21hZ1BOdVBORkJCeFFSWVQ5S2hydDlIUms3bDNPVHVybzF6QVlXS2Q4M3MtSTRkdmNHTzE2MHRVME9ZU3oya0t1aU12Zi1KbkR4ZHFIcjhLLXh0TS1Zek56eUJ2alRRNzlzM25UZUZLWVpfQ0ZLVW9udTRkMC1GRnNqTGg0Nl9lSkV0cHFHXzAxU00za3c5ZGl6?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T01:49:57+08:00"
-    },
-    {
-      "title": "NFL news roundup: Giants bringing back WR Braxton Berrios on practice squad - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1daWVBQVmpvQW1Vb0FMYVFpQkI5MXZVTmQyZlBWWFpXUVNTX2RCODRFcUhublVRMndzV2pMR0FaazBfa2JsTXFuYnFCUm1QOVB6dTI1ZTV5OWRVazRxUUFBaVZIV01vOEx1RkN4Z0FJZ0pua3RMUk04R09Zb29KM1FuVUZBRElEUlE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T01:33:13+08:00"
-    },
-    {
-      "title": "Novak Djokovic Pukes And Crumbles At The U.S. Open - Defector",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03blRQclZzMmtQU0ZJTnFJcGJabzdMUWZwaldXeVFjbThiRHhsV0o4YTJKaEdfNExvVHRwVjdxX0tTa0VBdFlUTFY4Sk45NHI3Z0JLQk1TTWpSWG5pd1ZTQUVnWU5WZkZiUFhVQ0t3ZzAtZlA1VThublBB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T01:33:00+08:00"
-    },
-    {
-      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T01:30:47+08:00"
-    },
-    {
-      "title": "Column | I’m an oncologist. Every man should know this about prostate cancer. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUUzdHFyeVVZMTd3SmE5TEdnSFBURlRISTlJd2dnYlNJeVQ4RFFVcVJYOHV2TEZwbXFPa0JEMWZTdTJqVDVfemxCVjMxUzdMQl9SQ2ViX3N2amZOZ2RuODllU2RSNDBYc2hSeXg1WGxDSlFxbzg2N2NoS1NpQ204U2hsUEdYRExZTDRqWkpqV0xMRkFEQXBHYTlfUS1sUVcwVnNEdC16V3E5QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T01:00:00+08:00"
-    },
-    {
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-01T00:49:11+08:00"
-    },
-    {
-      "title": "A $480,000-a-Year Pill Reflects a New Normal for Cancer Drugs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ0RnU0xxUi04VnoyUThTcnRlVURaX3FXcjNEM3ZGN3F6RzI0OS1UbXg1SllQVGJBeUNmRGxMaklNbXZOX2FQZk5RRHNZeVkwalRPM0tRQjhjQ1dIMTk1eDFuYU94NHVfMnlFOGhSa2llbnlISUpTV2plbUkxZDJ0eERQeEs?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:43:57+08:00"
+      "time": "2026-09-01T01:55:00+08:00"
     }
   ]
 }
