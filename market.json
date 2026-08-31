@@ -1,68 +1,92 @@
 {
-  "generatedAt": "2026-08-31T23:03:37.422819+08:00",
+  "generatedAt": "2026-08-31T23:34:44.167492+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616043.68,
-      "changePct": -0.17
+      "priceHkd": 615604.64,
+      "changePct": -0.37
     },
     "ETH": {
-      "priceHkd": 19347.16,
-      "changePct": -0.3
+      "priceHkd": 19372.88,
+      "changePct": -0.31
     },
     "SOL": {
-      "priceHkd": 811.68,
-      "changePct": -2.85
+      "priceHkd": 809.48,
+      "changePct": -3.06
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5519.12,
+      "priceHkd": 5518.39,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60176.55,
+      "priceHkd": 60166.82,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1119.08,
+      "priceHkd": 1122.37,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1116.76,
-      "priceUsdOz": 4430.5
+      "priceHkdPerGram": 1117.11,
+      "priceUsdOz": 4431.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.72,
-      "priceUsdOz": 66.33
+      "priceHkdPerGram": 16.74,
+      "priceUsdOz": 66.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 668.91,
-      "changePct": 2.3
+      "priceHkd": 669.85,
+      "changePct": 2.45
     },
     "Natural Gas": {
-      "priceHkd": 22.85,
-      "changePct": 0.9
+      "priceHkd": 22.88,
+      "changePct": 1.04
     }
   },
   "news": [
     {
-      "title": "'She slipped out of my hand' - couple's children missing after ferry capsizes",
+      "title": "John Galliano exhibition at New York Met cancelled after backlash",
+      "link": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T23:30:05+08:00"
+    },
+    {
+      "title": "Messi retires from international football",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T23:18:39+08:00"
+    },
+    {
+      "title": "Kalshi permanently bans former GOP Rep. George Santos over illegal trading - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TZkp2bTNxVi1OU1hGQ0lKb2RHZ3ZIX0I5ZmttZXJBYVk3UjJ2eC1BWXVUbGJlWVpXX2phbjR0dGgwSGxTY3NnbldqVzVNSV9XRFV3Q2c5azhkZnF4bnE40gFkQVVfeXFMT002cDN3RVN0clhGUU1Xd2Z5RnMwNkUxNFRaQXRKdHVZUDNRUUZrOEcySTdaZUdMS3FUaW01Z1Q1QXQwc0FDWE12MjVadGdjNV9BdTdjdUIzVVI2bWpoUWhiUDhCRw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T23:03:39+08:00"
+    },
+    {
+      "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
+      "link": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T23:00:11+08:00"
+    },
+    {
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T22:50:36+08:00"
     },
     {
-      "title": "Column | I’m an oncologist. Every man should know this about prostate cancer. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUUzdHFyeVVZMTd3SmE5TEdnSFBURlRISTlJd2dnYlNJeVQ4RFFVcVJYOHV2TEZwbXFPa0JEMWZTdTJqVDVfemxCVjMxUzdMQl9SQ2ViX3N2amZOZ2RuODllU2RSNDBYc2hSeXg1WGxDSlFxbzg2N2NoS1NpQ204U2hsUEdYRExZTDRqWkpqV0xMRkFEQXBHYTlfUS1sUVcwVnNEdC16V3E5QQ?oc=5",
+      "title": "Dolly Parton Laid to Rest in Private Family Funeral in Nashville - Billboard",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSGdRMmlMVmFEVUpvS3B5NTAyVTA1WjRrSVhKZ19LTmdNd2JLSmdDNEdrRnl1bkVaVDRhR21XMUQ4MGN3Mi1mZUhIRUFOWDZ4WXpkd1RoSU1ud2JySWtOdklDZFVRaXFrUUU2b2dXalh5UElZUG14dnUyUS02RE1tVFNWcTZWQk11dWJBOE5sclhfMTNLY2JmendnUGhHVEZyTXNLOW5VSUhoaW8?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T22:33:10+08:00"
+      "time": "2026-08-31T22:24:48+08:00"
     },
     {
       "title": "Howard Stern Cuts SiriusXM Show to Once a Week, Inks HBO Max Deal for Streaming - The Hollywood Reporter",
@@ -83,18 +107,6 @@
       "time": "2026-08-31T21:51:00+08:00"
     },
     {
-      "title": "Live Updates: U.S. strikes Iran for first time in weeks as 6-month war reignites over Strait of Hormuz - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3VPTi0xVlBhMThyb19kVkpfWmJ5Q054dGxfeEFUMFFlN1NGZ2pwYU82ei03S28yNHJSc1lsampHMnFJYXpQbjJSR1hGNWpNT3pUTC05V1dhT1BfTTVQVkd1eF9BSU45bU1udS01QXRhdHdaY0pfUS1NZ0tac2JoeTlvSW9nVkNHdjRrbUZpN1o?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:50:00+08:00"
-    },
-    {
-      "title": "Ex-Congressman George Santos Receives Kalshi’s First-Ever Lifetime Ban - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMktYQnlJWkZqcmNUOXBzMkE0dXpCYzFhRGpoNmxkRU92TWJwSHlYU3F0NVR4MkNkVWN0Y25LT3dPcEYybjlTdWxGcHZuQThXWmtCY1o3TExGQ1pvakJhY1NWanh4OWUzVWU3U3ZJZ3FZOWwyLUNVTEk3RmRtN01BWW5hS19reV9qYWg3LTVPUDNQQlIwcmxlZG0tVUFSeXVmNnN6aHI1QTNPR0U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:49:00+08:00"
-    },
-    {
       "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -107,16 +119,22 @@
       "time": "2026-08-31T21:35:00+08:00"
     },
     {
-      "title": "What Is Phantom Ranch? Inside the Grand Canyon Lodge Hit by Flash Flooding - The New York Times",
+      "title": "Trump teases retaliation on Kharg Island after Iran strikes US bases in Jordan - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUV3N3pka3VwNzBqTDlCV19ZZ0QtMXRpOHBLLU9aRjVuMUpLa3hqOWtSdE1uNkRoZHV6QW50dkZDdjUxaUNXWUJxNkhETS1PTW1CREt0b3R0WUdWbU1ZUlhCakN1WTJJVlZCNF9hQm5xdjVaU2dyeEZ1eFRyZF9TRG9aODNGc25JNjBleV82RQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:31:43+08:00"
+    },
+    {
+      "title": "Experts, lawyers puzzled over US-Venezuela oil deal, call for contract transparency - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS1RaRjJaenRoMjVSVG16Nmx3Ym0wV3IxVy16WXVFT1NqdVRncm9SQmpMNnhENDRORmRxdkZ2bk51R210NVVvUjNkUGljaUNzYmZPemtSOUVVUmJNVjM1VFJGOEV2bDF1N1owR3hZb3ZBU1NMekNyU182dmxzTEU4aC11NVFTOHBpNk03MVkwOVRsSnBhMGNNazY0UjdzaU9Od0UxUmR2akdBaVdlQXJXcmxpWWQycnExd1dIUExfMVlER3Y1WENTVGZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:21:09+08:00"
+    },
+    {
+      "title": "The Remote Grand Canyon Lodge Hit by Flash Floods Has a Storied Past - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbU5BQ1FaeFlPMi1YS3VueXhNeXdTVmt4M0hsSTJVVHRLcWdPVDR3SHJXRXFWVnE2Tk5zcjh5R0V3R2Y3cUdRZVBWbnBMLUd4WmdZZnUtcFVTbHY4Rl9USF9nVGRxRUZaUk9nVVpQbmlWeDVJY0JVcm91dWhHZ0hpZEVEQkM?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T21:20:35+08:00"
-    },
-    {
-      "title": "Ella Langley honors Dolly Parton with emotional 'Jolene' cover during Alabama concert - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeExSTXJIbF9lRkIyV2QtUGhyZVUzMElTc1F2VWNiU092WDBMeUlra0JWSVowbkpuR0NzRTdDa25pb0dSMHlvRnFpZVUwdkRYLWRuUXpOSDFUaGh5R3I0MW51M1djYTk4elhxX2NNMFNyM0Z6RlFKSzJqaEVqdFJpQm9ZaGRNSC11M3paMk9oTmZra0J2MjNkellOSEZPODNabWpuYU5DWHgzVHVCNF9IcA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T21:13:28+08:00"
     },
     {
       "title": "Man arrested after Swiss rave shooting that killed woman",
@@ -137,40 +155,22 @@
       "time": "2026-08-31T21:01:00+08:00"
     },
     {
+      "title": "Instagram cracks down on AI accounts pretending to be human - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOckRRZGNrOGRzM2dIUTYxd3otaDN6dEhIMF9HeWNVQ1M3T3JQU0I3QTdNMXVjUzd0aFRQNGNKMlpaVlE1RFU2MEloZmlMeGtVRDNQLW1KOTk0NjhRU0pkVGVUQ1JqV21rNFZLV1JSRGhPSUQ1WGJGNE1JY0E2YUszWlc5WQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T21:00:00+08:00"
+    },
+    {
       "title": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T20:55:25+08:00"
     },
     {
-      "title": "Physicists finally put Feynman's path integral to the test - Phys.org",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00ZFhCRExMTE83aW8wSFpNOVlINlZoR2FiOEY1MDRieVI1bWJyQnhvbkhWR3o1ZURMMVJBTzEzOWNaVGx5ZjZ1enpfMmhidHg4cW5DRVhGMGxJUUJic3ZHVzZaQmNSMnF5WGc?oc=5",
+      "title": "The 13 NFL players who were cut but could make an impact on a new team - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV1hrWkdOUWhmZlFXYWNPMU9CRHBYcDNVXzA4R0JEZVFUc0lUQk00MnFJYkZkRkt3Q000b05BYUZ3MjludDg3VXBKbDFESG9MRGhqd2c0Vkg2bkVzTC1Jc1ZlLUFHMFFTcWNSX1dyOER4WjZpemlnWm5mbTMyRFh1Q2VtTlE?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T20:00:02+08:00"
-    },
-    {
-      "title": "Capitol Agenda: Johnson faces pressure to cut out early - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS0dCZVRFUUNuZFhXVEU1WU41NGRaakRvcUtSUjNRTUVjWW9iNUdXZGtzMy1HOVdualhKZk5KOEhqUzFPVGpPak5KRFRJRWdQem50ZGtqMkg5d3JvZU94eVFNVFJxWnphZ0htUnpZZm5vWHE1SXpGaHo2OVhZTk40dHozOWJEX1ZDeTBPMy1ORVlQNzdsVkdRZjFlX2VJOVhqbkhJd0NkeGVGUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T20:00:00+08:00"
-    },
-    {
-      "title": "Scientists discover massive 'thermal anomaly' beneath the surface of Mars - Space",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWEFRdHVDTm5zeTQzZ2xST2h6cFA5R2k3U1pSR1VVMEl3SkpNQXhfdGVyalkySTRfNy1KYUM1VC1kNG1pX0xYcjRoUlZwTzlUQjh5bjdfZkVySHBsVVQxaEtXY29TOUVweVpMLTlTTFFMQ2xkeE5PREZpbl9uWWpmNWVBYjlydy1QeXVSX2h2NlZVRVhkc3c3WVFNRWlNWFpIbmVDN0lWcVBQMkpa?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T20:00:00+08:00"
-    },
-    {
-      "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
-      "link": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-08-31T19:56:50+08:00"
-    },
-    {
-      "title": "The jury's options in Lindsay Clancy's murder trial",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T19:53:21+08:00"
+      "time": "2026-08-31T20:46:17+08:00"
     }
   ]
 }
