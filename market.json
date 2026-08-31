@@ -1,68 +1,86 @@
 {
-  "generatedAt": "2026-09-01T02:43:11.386146+08:00",
+  "generatedAt": "2026-09-01T03:14:12.091573+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619908.8,
-      "changePct": -0.07
+      "priceHkd": 620606.56,
+      "changePct": 0.2
     },
     "ETH": {
-      "priceHkd": 19417.56,
-      "changePct": -1.49
+      "priceHkd": 19490.48,
+      "changePct": -1.01
     },
     "SOL": {
-      "priceHkd": 820.14,
-      "changePct": -1.97
+      "priceHkd": 818.97,
+      "changePct": -2.15
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5514.81,
+      "priceHkd": 5521.71,
       "changePct": NaN
     },
     "SPX": {
-      "priceHkd": 60135.15,
+      "priceHkd": 60199.83,
       "changePct": NaN
     },
     "SPCX": {
-      "priceHkd": 1116.26,
+      "priceHkd": 1115.59,
       "changePct": NaN
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1117.82,
+      "priceUsdOz": 4434.7
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.72,
+      "priceUsdOz": 66.35
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 673.46,
-      "changePct": 3.0
+      "priceHkd": 671.26,
+      "changePct": 2.66
     },
     "Natural Gas": {
-      "priceHkd": 23.01,
-      "changePct": 1.63
+      "priceHkd": 22.98,
+      "changePct": 1.49
     }
   },
   "news": [
+    {
+      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T02:58:16+08:00"
+    },
+    {
+      "title": "Lionel Messi announces retirement from Argentina national soccer team - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT2hhSnlyQkRfYzRHbjhXbmppbmwwTUEzOXZmcUFSRkhHZWZhY2ZUWmhxNmF6WUNLanJnR1NyT0Y3eHlZTldqRjN4cEg2cTEyV1JTV2JXdjFpVnM2UG1hRjBNY0RvSWJZcWVxNmduaDVmUjJfUlRoWFE0S080Y0M2LTRVcjVTaHJEMjRTWWU2dFdaSDNHMUdYOW8tQXV1T3ZTVTdoUEhnclE2VS1iLWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:45:27+08:00"
+    },
+    {
+      "title": "Judge orders forced feeding of alleged National Guard shooter - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxON09LRmxWSkVjQVdlUW5oLXVBMVRQdE5Qd0wyMkQ4aGFYU0lsQTBHNUdMLUd0cHdvRXRpYkhNcGZDWHZiMDYwVkhTbk9heWtRVjloX0oxVVN3Q3A2dkphXzFGZnJNdl9XVXBPSS1qdTVndm1za1ZUcmZLLUtmeTI1bTUwdXhDNHBUNVBFSFVRLW9oYnRBXzBsb1owZ0Y2c3I5VTJkdDVmUlRWY0p1SFhGWXlyYnVRM1VYeGJv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:34:55+08:00"
+    },
+    {
+      "title": "Iceland to seek new security partnerships after voters reject EU accession talks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWE53YkdvdnV0c3pzMXpqclZDdTlaQTVoenpoNDhETzNydlNjdjJiUFpHSlV1bFRqeFFNRG5fRHhyTjZIdFJiYjJLRU9YVnBDZTI0TDZsdXVDSHVLTTB1RXpLbTNfcmQ2dzB3cHR6TWJTeER0Y1hPb296a3lNdmxzbmZWOUo0VU55cXpTYllOTzdSZUswdmtiMDlyTFh0OW12M2ZZdFdSdzk3aDUtTWJ4RG5DQ0JacGdoT3o0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T02:20:40+08:00"
+    },
     {
       "title": "Ex-congressman George Santos banned from betting platform for life",
       "link": "https://www.bbc.co.uk/news/articles/cpwlxy49225o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T02:15:12+08:00"
-    },
-    {
-      "title": "Two bodies found after Grand Canyon flash flood - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T02:13:41+08:00"
     },
     {
       "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up - CNBC",
@@ -75,6 +93,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T01:54:23+08:00"
+    },
+    {
+      "title": "Microsoft Outlook Hit by Exchange Online Service Outage - CNET",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUl2YW1tRkRvY3hKNW5SUDNONERVYmVuQXUwR2JSS0dSVk1IcGdnU19zU1RmeHhqUUJ5ODJacE1RLTEzSEpUSFRmaV9oUFZ3WUtMSFZZTnJTSDljVF9Uanc0bVd0QnAzRU1ockVGY2RoX1YwUDIyc19kZE1HaHR2NldTc0U3LUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T01:54:22+08:00"
     },
     {
       "title": "D4vd legal team abruptly withdraws, singer taps public defender for murder trial - NBC News",
@@ -95,16 +119,10 @@
       "time": "2026-09-01T01:30:47+08:00"
     },
     {
-      "title": "Two dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
-      "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T01:13:39+08:00"
-    },
-    {
-      "title": "India's Modi tells Russia's Putin that the war in Ukraine must end for humanity's sake - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX1JRSVpMMVp5U0JZRXJRaXk3TTBZSjZqcXNTSTN4QjFBT1RTNGwyZ0hWa216TW94TjNkdE1XZ2lMWnVNMDhsSzczaHRpeWItSDNKREdvdTRSTlBDR3NrUFI5VUJKUnd0N2RyOVdHWmwwM3lFQXNiQnBLUHJTNFFBaGZRNEZ6a2M3Ymh2OEk2VFYzalRISUJCSTM0Y0c4QjNDR2tmU291UzdQWm91V0NpUFZzU0FGYnNZS3hKUEhB?oc=5",
+      "title": "Trump reportedly plans to announce new drug pricing deals with nearly a dozen drugmakers - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuT1lnX3ByMXlKZEM1QnphTV9pNGpWM25WS1Q0WWdFeHMyM2xsX3FQWWxhSlFqSFlERzZDUFFGWkFqa3Z2ZWVGWlFpc1FoNVZwSUN5UndoT1lDYzZqMVBPNWFvYWpBNFViZU9PMDJB0gFzQVVfeXFMUFJpNEJ6MU5DSWN1ckpWQkRSdWlDMnlGeG5pVFdJTGoxS3lZeVV6cGRxVk5haXdTdmU1NFN6M2FqQ2lNdW1KR3dEN0pCMWY0SjFhbk5KUFppZnZMX0p6QUd6Z3pRTXc1cC1EckU5VDBQMzNuUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T00:56:35+08:00"
+      "time": "2026-09-01T01:20:45+08:00"
     },
     {
       "title": "Olivia Rodrigo’s Daisy Chain Fields: A New Feminist Music Festival Takes Shape - The New York Times",
@@ -116,6 +134,12 @@
       "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
       "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
+      "time": "2026-09-01T00:49:11+08:00"
+    },
+    {
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93UkFFTExla3dMSVo2YWwxUXl0ZllhV0dIbW0wWTdSMXktMHV1X2l4SnlZMmRFMXdSY2hqbm0tVGNNTmsxME5ncHp2aVdHRmhvd3Y0cUo2cnkwQQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-01T00:49:11+08:00"
     },
     {
@@ -131,6 +155,12 @@
       "time": "2026-09-01T00:40:03+08:00"
     },
     {
+      "title": "Iran’s economy in crisis as US launches new sanctions campaign - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUXBZc1p2Yk1MYWRkNVlnbU5PTUlPWHFxSVptMEp5V3dBVk4wWm9VMmY4R2M3c1NuMzB4eko2SW11cmtrNF9VRkduWExoQ2x4VnVIZEhWeXQwXzNYQWwzanU0UWVWY0FDS0g0TVBPbkpvVTVpM0RlaW1YWHZHRUFMWUhBMjB1WjF0UmRxSTlIUy1CeEpHOU1NSDJVbDl2TEYzMWNVXy1uTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T00:37:00+08:00"
+    },
+    {
       "title": "Here are the 54 players from Utah who made initial 53-man NFL rosters - KSL",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdjlrLTc5WE11NFdrbFpKMWJWWkpZOEpBOWxlUGt6ZlNLWnFueW9IVTZyTGtrOTNEUExEbGRPYXNGMHJHdDEwYnhCcTBMQ2thamNNV3Y4R1VSZENLdTNLMVBmaVRQczEyMnBzY1lTMlkydTF1Q21BLXBSb3o4N0ZpZURmQVktbWgzcDVWTkdlS29ra252cGFhMW8yT3U4SlUwRXBBZGVzdnF5QQ?oc=5",
       "source": "Google News Top",
@@ -141,36 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c780wzj86pno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T00:32:59+08:00"
-    },
-    {
-      "title": "G20 Finance Officials Gather in U.S. as Iran War Grips Global Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4N2xwUVVOMzd4SkxPTHExSWs1RzhBaG9PVDJIdE1VMThDSFZCWXEwazdwbklwRnAyVTlaR3JtOEd4RHJfNlJjUElCaXZtdGRyX1lXbERkQkt5aFRYNk1QMGZqeV9NWG5iOEhFS1l3V3Y4Yi1lb2RVb19EQWwtQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:31:15+08:00"
-    },
-    {
-      "title": "Tracking Potential Tropical Cyclone Five: Maps, spaghetti models - WESH",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUxHQW5YOXNNS2RzMlRzbkpWRkN2ZWpwR1J6a2JEbzJxWVhQOVJYeUFReTlwUlpGcE0xNGkySVNpbURyMVpYcnF3ZDI5a0VUT1MtTjNmQTEzb2xhLXF0NDJ5UkhKR1llQ2NSbDVzWDJEMXYwUTRfc0k2WU1FajduTm1NX1o4Ylk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:30:00+08:00"
-    },
-    {
-      "title": "Apple’s Phil Schiller Steps Down from Running App Store and Product Events - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbk1lWUlRRVJUWWVlNmdicE4zQklCbDN3WWpyalJZLVEyVmFVaVF3TkN6VUJFOVFTTkFRNmcxZExXN1NhZE13b21MajRQeVlOQ1pFM2NQQktkT0VYaXNPQzNZeDNYWGRRTmhRdWI3N193RTZEMXFKZndRbVdjSnlrTXh2WWxuUmoxa0p4WFJmSGdHMFBwckxteDFCWW51elFpX2VjdlN3bTRXZlJNTXVqa1FqanE5QThNSFdsZUlOU1ZDTFk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:30:00+08:00"
-    },
-    {
-      "title": "Iceland opposes E.U. membership talks as local concerns outweigh fears of Trump - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRmN6QW9ULVpMRnNYaXR3OXZKSXZ4Q1JwdGU0cjBzZkRkWktxcXpiMjlCOXp2dFdGWmJ2QmdkWWxHMUJMWEwwdzVfaXRza0gxbm94eGZRQjNlLUFNamNxRmZqVVRqbnJLUkZxUDlNZE52YzBzZFBsWENScHpfRWtMOHc4NGZwcFE0MVB3MlVkZW1GV3ZhNjJvdktXdEZnM0R6YkdCSm9PbDB3d0V1UWVDZGZHYlIycHFzMFhJbg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:22:49+08:00"
-    },
-    {
-      "title": "Retaliation on Kharg Island weighed as US-Iran hostilies reignite - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWUV3N3pka3VwNzBqTDlCV19ZZ0QtMXRpOHBLLU9aRjVuMUpLa3hqOWtSdE1uNkRoZHV6QW50dkZDdjUxaUNXWUJxNkhETS1PTW1CREt0b3R0WUdWbU1ZUlhCakN1WTJJVlZCNF9hQm5xdjVaU2dyeEZ1eFRyZF9TRG9aODNGc25JNjBleV82RQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T00:18:43+08:00"
     }
   ]
 }
