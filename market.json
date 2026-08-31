@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T13:13:19.463791+08:00",
+  "generatedAt": "2026-08-31T13:44:22.016625+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608658.4,
-      "changePct": -0.65
+      "priceHkd": 610979.04,
+      "changePct": -0.24
     },
     "ETH": {
-      "priceHkd": 18968.33,
-      "changePct": -1.52
+      "priceHkd": 19077.15,
+      "changePct": -0.91
     },
     "SOL": {
-      "priceHkd": 796.15,
-      "changePct": -3.35
+      "priceHkd": 803.21,
+      "changePct": -2.42
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.25,
-      "priceUsdOz": 4424.5
+      "priceHkdPerGram": 1119.05,
+      "priceUsdOz": 4439.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.77,
-      "priceUsdOz": 66.55
+      "priceHkdPerGram": 16.83,
+      "priceUsdOz": 66.75
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 669.46,
-      "changePct": 2.39
+      "priceHkd": 673.93,
+      "changePct": 3.07
     },
     "Natural Gas": {
-      "priceHkd": 22.5,
-      "changePct": -0.62
+      "priceHkd": 22.52,
+      "changePct": -0.52
     }
   },
   "news": [
@@ -57,12 +57,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T12:54:32+08:00"
-    },
-    {
-      "title": "How did nine children die in a 1991 Pennsylvania measles outbreak? - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVFPY29uejFNbWpKVUlobGszcEJXa0xPOGdrRWNoWmpLNGxfLUkydXY2akVUbVh3YzJFWGRYYUVyWWFfenlCTl9RbWNKMFhfXzUtcE1WLU43U0JaR0o5cjZxRE9PSklrVFptWTZWQ1pkczlqQmhGYXYySW1OV21uSFZEY2VlWmN2YU5yZWVBalpZSW1SZFBySUN5d3JJSmlWN2RzdzhkaXluTXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T12:37:42+08:00"
     },
     {
       "title": "Novak Djokovic upset by Mariano Navone in US Open 1st round - ESPN",
@@ -119,6 +113,12 @@
       "time": "2026-08-31T10:12:07+08:00"
     },
     {
+      "title": "Scottie Scheffler moves past a Tiger Woods money standard that stood for nearly 26 years - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0hwOFZFYTBMQkR3MEF6OFNtYTlPRHppNHBvaV9ZTFh5dXdpcXJUMFJYQ1I0WEt3MjFoYk1fT2JucDdCZUhJSjhBRnBFamtfLWpOYWdZNm1LcGJWb0RqTWdacDdiaWh1Q2VTZWpuUkN0VnAzZWRndTVrV1c4SlBNZWJTY0VfS0JVUkpYSW1rRVZMd3VldW5tdDZVajVEVU5YeHRKUNIBqgFBVV95cUxPM2ZRNk9hUkJJMVl4aHVqNG1lZFM3YmwtRmRad2swRWpmTlRsbjZJbE1jX1dieHhEOGNOSjBiaHV0NUtjMkg4ZV9CQXlpSjc4dUkxOWlzTmhJdzNEamUxUmZkQXJHUzJiWVRRMkdPc2FDZlowelRoNDJVMlJEWHNIclRLMkFYMEN6cm8xaVNSN0IzNEFMVHVoNW1sR3NneHlCcWgtTzh6Wjc3dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T09:58:26+08:00"
+    },
+    {
       "title": "Google Maps switches to \"Lake America\" as Canada compares change to \"SNL\" skit - Axios",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcGJBQWIwd2kwN01rQlkzUzZpMUlnZTZRZURRWUtWamxBUUQ0RGI1YnB3WFNxdWF1bFBjX21KRjJZTXRrLVhYVmJpTVNVdGd1UkY3NHNCMkc1MWFGWVpGSTM5U1RWMVVDc0tTSU10M2dyR2NMay1NTA?oc=5",
       "source": "Google News Top",
@@ -131,6 +131,12 @@
       "time": "2026-08-31T09:30:00+08:00"
     },
     {
+      "title": "FULL INTERVIEW | Lancaster County coroner disputes measles connection in infant death - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTd0czE1ZXZMYnBrTDd4U3VCTUtMSUs4WFRRSjlRd05uSDF1VUdjN3dFWktOclV2RlFDaE1fTVlwYUhzcXdmbnJmdW1TWEFMX3lGa01idEl3VlZkckxFdUM5MGFGWmY4YklMZ1NEZkpVOHJHeWpwM3JmcXdxNzBicU5KVjJZUWFNZlR3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T09:06:00+08:00"
+    },
+    {
       "title": "Brutally Honest Emmy Ballot: “‘DTF St. Louis’ Should’ve Been Called ‘WTF St. Louis,’” ‘Widow’s Bay’ Is “Far and Away the Best” Comedy on TV - The Hollywood Reporter",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhzQXZPeHJwUEhtZHVjY0JLTlZPSDVlOVE4R08xazhRcFk5Z3VkaEFtbVRoZWtuckIyQ2tZTlN6azM4bWJlWG5MUWMzTzNWaHRWRXJ5c0FORTJBUVVFSUE1dXFOM09naF96U0VDWkFnTVR1M19ZOHAzQXItRHZ1TUpWM3FMU3V3bWx3cUN3TEtLZE14N2VxSzZUdzlVVFRWV1hMTER3?oc=5",
       "source": "Google News Top",
@@ -141,6 +147,12 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T08:38:00+08:00"
+    },
+    {
+      "title": "Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year - AP News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY3lXTmFGUUQ0eUJwLXlHWWtSR1BwMlo0STdGREw1TFBwbkc3enR2N2sxWjI5WHI0cVRuaVllb0o5QVRORnd5Z0xLY2VaYXIxVWtoMW9vWWVwdU8tc3J2aV9GMjZVdXFLTWhMaktCZmx4WUlnbG1nZjZKdFdmNncxZUF6OXdMLVhlMUNhcGpGWFY4OS1XYWlyUnJFX3lxS3Q4Q1FXNGNoT0JQX3JqcDdyU3hPeW1ZcTJBWVNRNlRtWmZQT3FD?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T08:30:00+08:00"
     },
     {
       "title": "How the US-Canada trade war is being felt on both sides of the border",
@@ -159,18 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-08-31T07:22:24+08:00"
-    },
-    {
-      "title": "2 dead, 8 injured after gunfire erupts at unauthorized Trenton block party - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbFRJMzEwbmNISzlfVlprSDdqX0xSUFhQZjVoMzA3WExLS01hVTRRTFFheGV2cHFsVnpoeTlXQjJ1aU1Zbm5rRDVVODdFdktfTEdJWENyUF9HcUtwX0MwMjhBNHpOZF9rbDBIdFBxVTVLM2cyZFpONDRYRHFUWVN5UFQtUElfLW81bTdEN2x2SDlkTnRud0w40gGcAUFVX3lxTE1qTGlrdUNtLXk2eDhiYjhIRDJoS0dENTNVYm8xUGZURHUwbklzV0EydUcyWWk5NHZpLVJWODhkT1pnR3pjZkZGZW5uT0FkWUo0Q3I0RHJKeXd5c3RfYU5hajJTZlJjbUVRNGEtMkVTc1NQX2g2ckdLNGZyUFpGR2VFSi1mc24yNFlwb2VmQVkwNjRyZ0FZQ19uQ3dMVw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T06:56:44+08:00"
-    },
-    {
-      "title": "Scottie Scheffler passes Tiger Woods at No. 1 on PGA Tour all-time money list after second FedEx Cup win - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjBxYTN4MGFEQ25aX253SG9jMUxtOWJmcFh6cTB2Yk85NlVIT0JhTGNBWDFzclBWS0REZVhyRG9VN2syMnRSWmxyT2JBOHVhQV81bnJmalpVQVppYmxUNWpSeDI2cGFaYWRhd0pGUlNKcFA5TnRVb3NkdGIwM2g2WFVZSnJsbUkyVGN2REp5LVRUcFhySFhLTEhLRQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T06:48:45+08:00"
     }
   ]
 }

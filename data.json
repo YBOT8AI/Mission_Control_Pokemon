@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T13:13:19.364693+08:00",
+  "generatedAt": "2026-08-31T13:44:21.885930+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -60,16 +60,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "c5b986a",
-          "message": "chore: remove unused deps @supabase/auth-helpers-nextjs and pg",
+          "sha": "85c9acf",
+          "message": "chore: remove unused OAUTH_PROVIDERS const from lib/auth/oauth.ts",
           "author": "evilmoni",
-          "time": "2026-08-31T02:09:49+08:00"
+          "time": "2026-08-31T13:23:15+08:00"
         },
-        "commits30d": 71,
-        "totalCommits": 129,
+        "commits30d": 72,
+        "totalCommits": 130,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -79,15 +79,13 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 65,
+        "score": 75,
         "label": "attention",
         "issues": [
-          "No test suite",
-          "1 commits not pushed"
+          "No test suite"
         ],
         "actions": [
-          "Set up test framework & write first smoke test",
-          "Push commits to remote"
+          "Set up test framework & write first smoke test"
         ]
       },
       "url": "kinkin.vercel.app"
@@ -104,16 +102,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "aa91c0d",
-          "message": "chore: remove debug console.log from newsletter subscribe handler",
+          "sha": "30d1520",
+          "message": "chore: remove unused getTierLogo() from lib/tiers.ts",
           "author": "evilmoni",
-          "time": "2026-08-31T11:02:57+08:00"
+          "time": "2026-08-31T13:23:15+08:00"
         },
-        "commits30d": 55,
-        "totalCommits": 153,
+        "commits30d": 56,
+        "totalCommits": 154,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -123,14 +121,11 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 90,
+        "score": 100,
         "label": "healthy",
-        "issues": [
-          "1 commits not pushed"
-        ],
+        "issues": [],
         "actions": [
-          "Run 6 test files via `jest`",
-          "Push commits to remote"
+          "Run 6 test files via `jest`"
         ]
       },
       "focus": "Financial Tech"
@@ -147,16 +142,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "ad44aa7",
-          "message": "chore: remove debug console.log from invoice submit handler",
+          "sha": "143d16a",
+          "message": "chore: remove unused revenueByMonth() from lib/db/sales.ts",
           "author": "ybot",
-          "time": "2026-08-31T11:03:14+08:00"
+          "time": "2026-08-31T13:23:15+08:00"
         },
-        "commits30d": 5,
-        "totalCommits": 11,
+        "commits30d": 6,
+        "totalCommits": 12,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 2,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -166,15 +161,13 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 65,
+        "score": 75,
         "label": "attention",
         "issues": [
-          "No test suite",
-          "2 commits not pushed"
+          "No test suite"
         ],
         "actions": [
-          "Set up test framework & write first smoke test",
-          "Push commits to remote"
+          "Set up test framework & write first smoke test"
         ]
       }
     },
@@ -270,8 +263,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T13:04:37.543743+08:00",
-        "next_run": "2026-08-31T13:34:37.543743+08:00"
+        "last_run": "2026-08-31T13:35:38.586025+08:00",
+        "next_run": "2026-08-31T14:05:38.586025+08:00"
       },
       {
         "id": "539a150ac028",
@@ -288,8 +281,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T12:42:19.702264+08:00",
-        "next_run": "2026-08-31T13:42:26.160420+08:00"
+        "last_run": "2026-08-31T13:13:27.604603+08:00",
+        "next_run": "2026-08-31T14:13:29.129501+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -297,8 +290,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T13:07:26.206139+08:00",
-        "next_run": "2026-08-31T13:37:26.206139+08:00"
+        "last_run": "2026-08-31T13:37:28.760460+08:00",
+        "next_run": "2026-08-31T14:07:28.760460+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -306,8 +299,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-31T13:12:26.493587+08:00",
-        "next_run": "2026-08-31T13:22:26.493587+08:00"
+        "last_run": "2026-08-31T13:42:29.091548+08:00",
+        "next_run": "2026-08-31T13:52:29.091548+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -342,8 +335,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-31T13:10:26.236215+08:00",
-        "next_run": "2026-08-31T13:25:26.236215+08:00"
+        "last_run": "2026-08-31T13:40:28.895869+08:00",
+        "next_run": "2026-08-31T13:55:28.895869+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -648,7 +641,7 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-08-31T12:01:00.629468+08:00",
+        "last_run": "2026-08-31T13:23:44.017994+08:00",
         "next_run": "2026-08-31T14:00:00+08:00"
       },
       {
@@ -785,44 +778,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        2.81,
-        1.96,
-        1.72
+        1.65,
+        1.69,
+        1.63
       ],
-      "usage": "26.1%"
+      "usage": "14.3%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 36.8
+      "usedPct": 36.2
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "65.8",
-        "mem": "0.0",
-        "name": "grep"
-      },
-      {
-        "cpu": "2.9",
-        "mem": "0.1",
-        "name": "python3"
-      },
-      {
-        "cpu": "0.9",
+        "cpu": "2.4",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.3",
-        "mem": "0.0",
-        "name": "grep"
+        "cpu": "2.1",
+        "mem": "0.1",
+        "name": "python3"
       },
       {
         "cpu": "0.3",
         "mem": "0.0",
-        "name": "grep"
+        "name": "notifyd"
+      },
+      {
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -979,6 +972,22 @@
   ],
   "githubActivity": [
     {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-31T05:23:28Z",
+      "title": "chore: remove unused revenueByMonth() from lib/db/sales.ts",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-31T05:23:23Z",
+      "title": "chore: remove unused getTierLogo() from lib/tiers.ts",
+      "detail": "1 commit(s)"
+    },
+    {
       "repo": "evilmoni/TechWealth",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1104,14 +1113,6 @@
       "actor": "evilmoni",
       "time": "2026-08-23T17:45:08Z",
       "title": "feat: one migration file, an invite button, and the recruiti",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-23T17:34:12Z",
-      "title": "fix: thirteen admin routes were refusing signed-in admins\n\nT",
       "detail": "1 commit(s)"
     },
     {
@@ -1288,14 +1289,6 @@
       "actor": "evilmoni",
       "time": "2026-08-07T05:11:56Z",
       "title": "feat: gate the CRM, scope it per member, and add invoicing +",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth-Tracker-Pro",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-05T17:54:40Z",
-      "title": "Add modular multi-industry CRM with persistence, packages an",
       "detail": "1 commit(s)"
     }
   ],
@@ -1510,16 +1503,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-31T13:13:18.517169+08:00",
+    "generatedAt": "2026-08-31T13:44:21.417356+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 29.0,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 6.9,
-          "time": "2026-08-31T13:00"
+          "temp": 27.4,
+          "code": 95,
+          "precip": 1.6,
+          "wind": 6.0,
+          "time": "2026-08-31T13:30"
         },
         "daily": [
           {
@@ -1548,11 +1541,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.6,
+          "temp": 26.4,
           "code": 95,
-          "precip": 2.5,
-          "wind": 8.7,
-          "time": "2026-08-31T13:00"
+          "precip": 1.1,
+          "wind": 7.1,
+          "time": "2026-08-31T13:30"
         },
         "daily": [
           {
@@ -1588,14 +1581,32 @@
   },
   "activity": [
     {
-      "time": "2026-08-31T13:13:19.364547+08:00",
+      "time": "2026-08-31T13:44:21.885770+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-31T13:13:19.364547+08:00",
+      "time": "2026-08-31T13:44:21.885770+08:00",
       "type": "info",
       "text": "⏰ Cron: 32/55 jobs healthy"
+    },
+    {
+      "time": "2026-08-31T13:23:15+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: chore: remove unused OAUTH_PROVIDERS const from lib/auth/oauth.ts",
+      "project": "kinkin"
+    },
+    {
+      "time": "2026-08-31T13:23:15+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: chore: remove unused getTierLogo() from lib/tiers.ts",
+      "project": "techwealth"
+    },
+    {
+      "time": "2026-08-31T13:23:15+08:00",
+      "type": "success",
+      "text": "📊 TechWealth Tracker Pro: chore: remove unused revenueByMonth() from lib/db/sales.ts",
+      "project": "techwealthTracker"
     },
     {
       "time": "2026-08-31T11:03:43+08:00",
@@ -1604,28 +1615,10 @@
       "project": "orbitx"
     },
     {
-      "time": "2026-08-31T11:03:14+08:00",
-      "type": "success",
-      "text": "📊 TechWealth Tracker Pro: chore: remove debug console.log from invoice submit handler",
-      "project": "techwealthTracker"
-    },
-    {
-      "time": "2026-08-31T11:02:57+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: chore: remove debug console.log from newsletter subscribe handler",
-      "project": "techwealth"
-    },
-    {
       "time": "2026-08-31T03:02:22+08:00",
       "type": "success",
       "text": "🐾 WPO (World Paws Org): chore: untrack .DS_Store files (already gitignored)",
       "project": "wpo"
-    },
-    {
-      "time": "2026-08-31T02:09:49+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: remove unused deps @supabase/auth-helpers-nextjs and pg",
-      "project": "kinkin"
     }
   ],
   "stats": {
