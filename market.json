@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T14:46:33.961235+08:00",
+  "generatedAt": "2026-08-31T15:17:37.129661+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612162.88,
-      "changePct": -0.2
+      "priceHkd": 612405.92,
+      "changePct": -0.16
     },
     "ETH": {
-      "priceHkd": 19148.89,
-      "changePct": -0.68
+      "priceHkd": 19123.96,
+      "changePct": -0.77
     },
     "SOL": {
-      "priceHkd": 805.72,
-      "changePct": -2.09
+      "priceHkd": 806.19,
+      "changePct": -2.3
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1119.99,
-      "priceUsdOz": 4443.3
+      "priceHkdPerGram": 1118.37,
+      "priceUsdOz": 4436.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.86,
-      "priceUsdOz": 66.9
+      "priceHkdPerGram": 16.84,
+      "priceUsdOz": 66.82
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 671.18,
-      "changePct": 2.65
+      "priceHkd": 668.67,
+      "changePct": 2.27
     },
     "Natural Gas": {
-      "priceHkd": 22.42,
-      "changePct": -0.97
+      "priceHkd": 22.34,
+      "changePct": -1.32
     }
   },
   "news": [
     {
+      "title": "Stock futures fall after U.S. strikes Iran; Wall Street heads for winning month: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T15:07:30+08:00"
+    },
+    {
       "title": "US and Iran trade strikes for first time in weeks",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-08-31T14:45:43+08:00"
+      "time": "2026-08-31T15:04:36+08:00"
+    },
+    {
+      "title": "Oil jumps more than 2% after US attack on Iran's Larak Island - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkdIZUgzZVU5dVMySHVxT1FoQ2k0NzhUQnpZVVNxekVfUmN4bVROcnF1NWFveWlIVGdfOWxJMjZpR1Q4a1dXbEdCT25XSUkyZnJvaVUyWjNDNlowejl1ZGJBa2ZSdDE0c19lMXctV0haTk0xMW5nTjU4dzBWTHgzbWR3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T14:06:00+08:00"
+    },
+    {
+      "title": "Andrew Bailey warns G20 of danger AI poses to financial system - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbDEyUlAzNEduUnpUVGtPNElwbHREQ2ZDdi1xRkQyaGg1VWxXWjBPS2puTmR4Zm1scE5uenI3MHl5bDhlaUFnVHJIaGpDVzBsb01pUkxCTzd6cFpwQ1dKUFY3MVNxclJUNlQ2U3hEQk9CbXBzOXF6dnR5bFVGeE9rX2xsX0k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T14:03:08+08:00"
+    },
+    {
+      "title": "Novak Djokovic out of U.S. Open to Mariano Navone on harrowing night for all-time great - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHgtYzY4cVZpRXhweS1wX3JEVU82Y0FHSVJaY2ZwYmh5OGxvWWZ6eWFyRTN5VHQ5WmdUaFFVc0xneU44VDU1YnoxWG9aTUZrbUhyQkE2MWZ1UE1iQ2hybEQ4MmdZd2hmUERZQndZbGpBMlZfbTJzVlJhYzZKSHNndlZEV3ZkcXQzMnBYNjRJM0g4NjJ3WGx0UEZB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T13:51:43+08:00"
     },
     {
       "title": "Iran attacks US bases in Jordan after US strikes Larak Island - Al Jazeera",
@@ -65,22 +89,22 @@
       "time": "2026-08-31T13:13:44+08:00"
     },
     {
+      "title": "China's Xi builds diplomatic clout with multiple state visits ahead of Trump summit - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQVBPRWZlQmpJSE9Kc3FkbnlZZHVCMVprdGhrUjg2d0ZYQjRwWjFkTDZlQnlPSTBxaWM0Ykp5a2w5WE5pWjU2ZnpOWURMaTRqWndHU3RjVXVfMlRBZE1taEFwVkRKNEp0ekRtZjhBUGY5eDdHMmJvTkQ5MzRFS0hEX1hPV05OSE1V0gGOAUFVX3lxTFBtZW8tX0wzVHhyUldCLUtjM19lb1VMU2k0VzdZQ1BCVWM2Umo3QzlGclJOamFYMV9mZzQzUDRXSXU0QnQzbEF6bzZGT2FuZVAtbzBjdk9QMGJQRkVndjQ4SjY2LVk1OThNeVFIYzU2ZXRFeklCYWxtd0pMQkZMbFJCMThrRjNtSlFXdEdQRGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T12:57:24+08:00"
+    },
+    {
       "title": "Oner person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T12:34:19+08:00"
     },
     {
-      "title": "Pentagon secretly installs military influencers in civilian roles - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVzlDR3B5N2ZKclQ2U3lTV0lsaHRjdFdrWUhsM3ZOMkFqdEZ1SWd1NE5idzRLeXVPdExTYnJCWHM1V1lYekxEMnVOUjJZWWUzeExnRHdHMW54X3dlNFBhcnlsN080MXRJUHd1ZjJkVHBSdGlFZ082VGpNWWV3alhOX2ZwZzJRX1RxZ3ZiMnBjRUYwaE1MZTRwVThVdHFiV2N4eU9LbzZOWjNic3hkSEJJV0J6d05xWG02VXR2eWg0eTE?oc=5",
+      "title": "Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEV4WGNSSk5rZVpZemdOckQzOFFUTEszd1gxSnBvTFNBNzdJR1pIbGFJenVhWlJ1R2R0ZlhYZWdOdXJNYVd2Y2xzYjlJcG4zQlc0QWFBdjhXeFZBWGJnQmlNRzlrVnNTdTlGelBEaDFuSlNiNzBYSkNhQkRXbkRwWEdLYldZQnU3WDFEMFpPazV2V05pamRRQ250NGpmTXZOdGZsY1JjQ0liVWtBdW5GVEhyWQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T12:05:39+08:00"
-    },
-    {
-      "title": "Novak Djokovic upset by Mariano Navone in US Open 1st round - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdUZiNVdOd21NQ3NSYlVhYnlKM2lvMGRfeVc2TlYzQ2R6alVWWGtacUVkSDQyODJZLVRFbFg2bXVCcC1CXzNkTTg1Mmt4SGFDWFdPT2JFTzJkbzR1VEVJTnJGdGFtZWJlT05Kc0N1R3g4REVYVlZfbTdIemJuTHZna1Z0TGFET2ZkRDFtdnlSdHYwd3VBSGM1T2FDdEUtZ0xjc1FWOFljYk9ZdG92dEFfdXdEMzNfemN3ZVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T12:04:00+08:00"
+      "time": "2026-08-31T12:15:00+08:00"
     },
     {
       "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
@@ -93,24 +117,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T11:56:15+08:00"
-    },
-    {
-      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Iakg3b1A2QVhYY3FPWTRlbzRidGZfVUJOaWdaakt4V1E5UWdPaWlUdERNRk5DQW90eV9Lc1FiSFk5Z0FVTkFJVU92bkNDTURVNlplbmZNcjF2UQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T11:56:15+08:00"
-    },
-    {
-      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenZTV1NsMHJpeG9oSThNclEwSlR1SFpHZlNaN0xCMy1jRzNjcC1scTB4V1NpRDNzZnR2VDluZVoyWDRoRU5UYVZna1RvNFRKa0p4YVBCMS1lSGs4TDItQWp1T2pUcTY5NG9pNDJjYkJQMDhHT0I5LTF1UzZ4NXFOQ1Bkb0Y3YnhNclF6UzEyWTk5eHdBZ09UNXl6ZmUtRnp10gGmAUFVX3lxTFB3Nml5V1E2Q3RnT1lZbUpwN21uXzk0T0VoSjIzaVlMSkFCNmhGYXRISm5wYTh5dUlTTjZ5VWltNlhMTExMc1ExTGJ0QTh2c3JIVzhreDZOMGdSQy1MYzhiYnFMcENZRU4xOEhGSFRhQy1mVjZRVFA3X1Fia3FjNkRwbElDY1VfZ191dW80MUlSNi13MUZTQm1uRkgwQ19BaVMyRklaUGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T11:47:00+08:00"
-    },
-    {
-      "title": "The Trump-shaped problems awaiting Andy Burnham, ranked - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSnRXMklEX2hRZXM0dldoUmU4Nk1GNUNEdkpGVkhWRTB5aVdNOXBXVGRadGc1S0N3LU5jUTRDQUo5aS1DYTNPZ3VrNVFjdWktMXFweEVLWE1KWVdaZGpTWFpkQ3BOSTUzWjBVWlN3U0h0VlBIanNlTHVENUtZZHg2cGoxZ01tZ2dGMGo1WnRxOUNGSDg5?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T11:01:00+08:00"
     },
     {
       "title": "Nepal Turns to Mass Burials, as Thousands Remain Missing from Floods - The New York Times",
@@ -137,10 +143,10 @@
       "time": "2026-08-31T10:31:00+08:00"
     },
     {
-      "title": "US plans to sanction another bank to keep economic pressure on Iran - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMU1nMzFzSUMzLW51eV9nNnlmbXFzelpUb29tU1NLcnF0NzVYUE80aHZEOTd5d3BaVVE3MkwxQ04zYzhLVFpfWTBhdmdJbkctcy1fN0NtYmtsTnRXVDBKR05mb1E1NzlhVWI3T3U2RTNuNk9hWkVqODNCVVdqTzR0YWdiTVUzT1lIaFhxZm9jMWdHSHVuVm1Od0Q3WndKMExCTG9wVTY1czM5RVZ30gGyAUFVX3lxTE14U2Q2NS1CTkIydVUwTGQyaHlmWXpQbm5uZm5OUGZ0Z0Zhc0ltTS11VUUzUXItT2ZjMms3SF9vbTZpbFJZTkpwQ2xCeXZNbEhzMGxMb0dvRnE2M0g2cThsUmRWeG1qMmtKclB4eDZRWkRDbEpCdzQwaThndnVVenNicjNiaHZzVWw4MW5JaWU3cWdrR3EtMUpRbFJjZlVXMWs1by1CNlVoUGxqeW9rR0ZValE?oc=5",
+      "title": "Scottie Scheffler moves past a Tiger Woods money standard that stood for nearly 26 years - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV0hwOFZFYTBMQkR3MEF6OFNtYTlPRHppNHBvaV9ZTFh5dXdpcXJUMFJYQ1I0WEt3MjFoYk1fT2JucDdCZUhJSjhBRnBFamtfLWpOYWdZNm1LcGJWb0RqTWdacDdiaWh1Q2VTZWpuUkN0VnAzZWRndTVrV1c4SlBNZWJTY0VfS0JVUkpYSW1rRVZMd3VldW5tdDZVajVEVU5YeHRKUNIBqgFBVV95cUxPM2ZRNk9hUkJJMVl4aHVqNG1lZFM3YmwtRmRad2swRWpmTlRsbjZJbE1jX1dieHhEOGNOSjBiaHV0NUtjMkg4ZV9CQXlpSjc4dUkxOWlzTmhJdzNEamUxUmZkQXJHUzJiWVRRMkdPc2FDZlowelRoNDJVMlJEWHNIclRLMkFYMEN6cm8xaVNSN0IzNEFMVHVoNW1sR3NneHlCcWgtTzh6Wjc3dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T10:12:07+08:00"
+      "time": "2026-08-31T09:58:26+08:00"
     },
     {
       "title": "Google Maps switches to \"Lake America\" as Canada compares change to \"SNL\" skit - Axios",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sa0c1cHdaS055WGxOZUtYYzVZYXlrUUFCeHRnWTAzUXo0OE81YkRnOEdmbGd2UGEwSzZHMXlLZ29VMW1Eei00NXV4Q3NWeWZoNjAzZTg4NnlKd1owdXM3VlpGVFNzWG42SVExdlpmNHBJQzZyTVF4Sg?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T08:41:00+08:00"
-    },
-    {
-      "title": "Shares ease in Asia as oil climbs, yields stay high - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa0dYVnlvTDVQRkF4YmQxMW9FUElDRmNweFlHclBUa1R5MmZsSHk5WEtnV3B5bFVFeFJhMGMtSWxsV0FqR0Jsc1ltUENJUEs4RWR0QlVnTFBBc2hIbzJmdl9hZVpOS2dGM2Q2ZFF1MmtLallPblc1ZGtJTFhzNTQzRGNhaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T08:38:00+08:00"
     }
   ]
 }
