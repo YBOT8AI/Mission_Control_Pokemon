@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T16:19:42.975226+08:00",
+  "generatedAt": "2026-08-31T16:50:53.368937+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -65,7 +65,7 @@
           "author": "evilmoni",
           "time": "2026-08-31T13:23:15+08:00"
         },
-        "commits30d": 67,
+        "commits30d": 64,
         "totalCommits": 130,
         "branch": "main",
         "uncommittedChanges": 0,
@@ -263,8 +263,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T16:10:58.786191+08:00",
-        "next_run": "2026-08-31T16:40:58.786191+08:00"
+        "last_run": "2026-08-31T16:42:06.392923+08:00",
+        "next_run": "2026-08-31T17:12:06.392923+08:00"
       },
       {
         "id": "539a150ac028",
@@ -281,8 +281,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:48:46.534237+08:00",
-        "next_run": "2026-08-31T16:48:51.693750+08:00"
+        "last_run": "2026-08-31T16:19:50.138482+08:00",
+        "next_run": "2026-08-31T17:19:56.661231+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -290,8 +290,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-08-31T16:07:50.979139+08:00",
-        "next_run": "2026-08-31T16:37:50.979139+08:00"
+        "last_run": "2026-08-31T16:37:55.354613+08:00",
+        "next_run": "2026-08-31T17:07:55.354613+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -299,8 +299,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-08-31T16:12:50.882786+08:00",
-        "next_run": "2026-08-31T16:22:50.882786+08:00"
+        "last_run": "2026-08-31T16:42:55.784465+08:00",
+        "next_run": "2026-08-31T16:52:55.784465+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -335,8 +335,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-08-31T16:10:50.919598+08:00",
-        "next_run": "2026-08-31T16:25:50.919598+08:00"
+        "last_run": "2026-08-31T16:40:55.507166+08:00",
+        "next_run": "2026-08-31T16:55:55.507166+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -742,18 +742,9 @@
         "last_status": "unknown",
         "last_run": null,
         "next_run": "2026-08-31T23:00:00+08:00"
-      },
-      {
-        "id": "321eb8c78d5b",
-        "enabled": true,
-        "name": "10km Run Reminder — Today",
-        "schedule": "once in 4h",
-        "last_status": "unknown",
-        "last_run": null,
-        "next_run": "2026-08-31T16:41:25.121560+08:00"
       }
     ],
-    "total": 55,
+    "total": 54,
     "healthy": 32
   },
   "agents": {
@@ -778,22 +769,22 @@
     "uptime": "2 days",
     "cpu": {
       "loadAvg": [
+        1.44,
         1.43,
-        1.18,
-        1.14
+        1.39
       ],
-      "usage": "12.8%"
+      "usage": "13.4%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 36.4
+      "usedPct": 36.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "4.0",
+        "cpu": "3.3",
         "mem": "0.1",
         "name": "python3"
       },
@@ -808,14 +799,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.3",
+        "cpu": "0.2",
         "mem": "0.1",
-        "name": "launchd"
+        "name": "opendirectoryd"
       },
       {
         "cpu": "0.2",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       }
     ]
   },
@@ -972,6 +963,14 @@
   ],
   "githubActivity": [
     {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-31T06:03:53Z",
+      "title": "docs: publish Weekly Deal Flow Digest #1 (2026-08-31) — live",
+      "detail": "1 commit(s)"
+    },
+    {
       "repo": "evilmoni/KinKin",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1113,14 +1112,6 @@
       "actor": "YBOT8AI",
       "time": "2026-08-23T19:54:48Z",
       "title": "docs: monthly market research — August 2026\n\nResearched all ",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-23T17:45:08Z",
-      "title": "feat: one migration file, an invite button, and the recruiti",
       "detail": "1 commit(s)"
     },
     {
@@ -1503,16 +1494,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-08-31T16:19:42.579148+08:00",
+    "generatedAt": "2026-08-31T16:50:52.953282+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 26.9,
+          "temp": 27.1,
           "code": 51,
           "precip": 0.1,
-          "wind": 5.8,
-          "time": "2026-08-31T16:15"
+          "wind": 4.8,
+          "time": "2026-08-31T16:45"
         },
         "daily": [
           {
@@ -1541,11 +1532,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.3,
+          "temp": 26.4,
           "code": 53,
           "precip": 0.2,
-          "wind": 2.4,
-          "time": "2026-08-31T16:15"
+          "wind": 0.9,
+          "time": "2026-08-31T16:45"
         },
         "daily": [
           {
@@ -1581,14 +1572,14 @@
   },
   "activity": [
     {
-      "time": "2026-08-31T16:19:42.975090+08:00",
+      "time": "2026-08-31T16:50:53.368795+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-08-31T16:19:42.975090+08:00",
+      "time": "2026-08-31T16:50:53.368795+08:00",
       "type": "info",
-      "text": "⏰ Cron: 32/55 jobs healthy"
+      "text": "⏰ Cron: 32/54 jobs healthy"
     },
     {
       "time": "2026-08-31T14:03:51+08:00",
@@ -1623,7 +1614,7 @@
   ],
   "stats": {
     "totalProjects": 6,
-    "totalCronJobs": 55,
+    "totalCronJobs": 54,
     "healthyCronJobs": 32,
     "avgProgress": 69
   }

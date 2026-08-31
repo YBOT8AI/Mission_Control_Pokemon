@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-08-31T16:19:43.054253+08:00",
+  "generatedAt": "2026-08-31T16:50:53.449697+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612445.12,
-      "changePct": -0.04
+      "priceHkd": 614091.52,
+      "changePct": 0.35
     },
     "ETH": {
-      "priceHkd": 19123.64,
-      "changePct": -0.74
+      "priceHkd": 19152.73,
+      "changePct": -0.51
     },
     "SOL": {
-      "priceHkd": 805.09,
-      "changePct": -2.17
+      "priceHkd": 808.77,
+      "changePct": -1.34
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1119.25,
-      "priceUsdOz": 4440.4
+      "priceHkdPerGram": 1118.5,
+      "priceUsdOz": 4437.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.92,
-      "priceUsdOz": 67.14
+      "priceHkdPerGram": 16.9,
+      "priceUsdOz": 67.07
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 669.14,
-      "changePct": 2.34
+      "priceHkd": 676.04,
+      "changePct": 3.39
     },
     "Natural Gas": {
-      "priceHkd": 22.37,
-      "changePct": -1.21
+      "priceHkd": 22.43,
+      "changePct": -0.93
     }
   },
   "news": [
+    {
+      "title": "US and Iran trade strikes for first time in weeks",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T16:34:25+08:00"
+    },
     {
       "title": "One dead and several missing after 'terrifying' flash flooding hits Grand Canyon",
       "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-08-31T16:17:25+08:00"
+    },
+    {
+      "title": "Algeria president seeks death penalty for arsonists after deadly forest fires",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy41lwe0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-08-31T16:13:40+08:00"
     },
     {
       "title": "Nepal: Number of people missing after flood rises to 4,247, with more than 900 dead - BBC",
@@ -65,22 +77,10 @@
       "time": "2026-08-31T15:21:49+08:00"
     },
     {
-      "title": "US and Iran trade strikes for first time in weeks",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-08-31T15:04:36+08:00"
-    },
-    {
       "title": "Oil jumps more than 2% after US attack on Iran's Larak Island - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdkdIZUgzZVU5dVMySHVxT1FoQ2k0NzhUQnpZVVNxekVfUmN4bVROcnF1NWFveWlIVGdfOWxJMjZpR1Q4a1dXbEdCT25XSUkyZnJvaVUyWjNDNlowejl1ZGJBa2ZSdDE0c19lMXctV0haTk0xMW5nTjU4dzBWTHgzbWR3?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T14:06:00+08:00"
-    },
-    {
-      "title": "One person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T14:04:19+08:00"
     },
     {
       "title": "Novak Djokovic out of U.S. Open to Mariano Navone on harrowing night for all-time great - The New York Times",
@@ -101,16 +101,16 @@
       "time": "2026-08-31T12:57:24+08:00"
     },
     {
-      "title": "BLACKPINK’s Jennie Faces Serious Accusations Over “Using Kids” In Music Video - Koreaboo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVFqcTVBb3BxazBjdVlsQ0wxYjVaSzd4MzdwQjdoMjVlRXJXQ1VONWlOYTVzRVFGdWd4UEhMX0JlMGZwZnVuYkpHSFZ2RWVEQmkyanBPb2pFck1EV205R3h0bXpmUDFUSlZ6cmM2Q1Y1WGt2Uy1qczlqVy1XWmlQUGljUHN2dnozVEhIYlJVV1Z5QmxRTDE5RzN4TDVsbTBY?oc=5",
+      "title": "One person dead, about 15 more may be missing after Grand Canyon flash flooding - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnI2Um9rSTVQQk9GSkdQdDdOUFZMSjhsdGQwZ0RoOU9fYWhfeHp2SXYzWmxyUzRjazlQci1UUzctZ1o0bEdERFNxWU5vbkJ2bGR3QTJaOG80Y3dpaHdVMExKeVJ1T0dKZGxnWVpPQ0Z4cEJFTmpzR0dodUVWRW01d196S0Z3c0F0UGVYSDF2QXVKTy1fb0VtN0E4OXgxVnZncVV0U3VrNDZLa0pTZzFYTDR6aEFhOEpTdWNlNA?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T12:26:21+08:00"
+      "time": "2026-08-31T12:34:19+08:00"
     },
     {
-      "title": "Bond Investors Wary After Warsh Fans Wager Fed Poised to Hike - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEV4WGNSSk5rZVpZemdOckQzOFFUTEszd1gxSnBvTFNBNzdJR1pIbGFJenVhWlJ1R2R0ZlhYZWdOdXJNYVd2Y2xzYjlJcG4zQlc0QWFBdjhXeFZBWGJnQmlNRzlrVnNTdTlGelBEaDFuSlNiNzBYSkNhQkRXbkRwWEdLYldZQnU3WDFEMFpPazV2V05pamRRQ250NGpmTXZOdGZsY1JjQ0liVWtBdW5GVEhyWQ?oc=5",
+      "title": "Barclays sees two more Fed rate hikes this year after Warsh speech - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcjVHcjZWTGVra3FoZ29XVXdDS05fZlh6S3ZwZHdzb2Z1bHo1Tm12NUNBZWZxN21sTG5hYkdfVVA5VmlBMm5xOERKNXJYZDJURkI2Yk5Lb1JNZFFyNEJVZUdKSjhtdFZtbm5MdHJfN3cwN1FTUzRlUkJwUWxnWjlqLVVpdHZrQkRnaUx0Y1oyZlQ1VzY0LUhmRlI5d2RKbU9lQWVZUC0xTG81QjljYzRwdDRQRndsY3FXZWdR?oc=5",
       "source": "Google News Top",
-      "time": "2026-08-31T12:15:00+08:00"
+      "time": "2026-08-31T12:29:00+08:00"
     },
     {
       "title": "Olivia Rodrigo's Daisy Chain Fields Festival Was a Day Full of Superstars, Nonprofits, and Joy - Rolling Stone",
@@ -122,6 +122,12 @@
       "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus",
       "link": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-08-31T11:56:15+08:00"
+    },
+    {
+      "title": "Eight killed and 18 missing after ferry capsizes off northern Cyprus - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Iakg3b1A2QVhYY3FPWTRlbzRidGZfVUJOaWdaakt4V1E5UWdPaWlUdERNRk5DQW90eV9Lc1FiSFk5Z0FVTkFJVU92bkNDTURVNlplbmZNcjF2UQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-08-31T11:56:15+08:00"
     },
     {
@@ -137,16 +143,16 @@
       "time": "2026-08-31T10:45:14+08:00"
     },
     {
-      "title": "Iran’s supreme leader calls for Muslim unity against US and Israel, and other Mideast news - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T10:43:00+08:00"
-    },
-    {
       "title": "A hurricane could form near Southern California this week, seriously - KTLA",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWtnd2k2cldNUG9qM3ktM0g2aGtLNk9uczFibGx6a3JoZEN6T2kwVTVmWC0xek8yeWk2ZHJ0UjZtQ0J5b3E0TzBLNUx2YTV1a0RQZTQ3SDdDN3NlOENrVk9kemY1T2Y1N25OeDIycmhhS3BiMDk0bm1Jcm4xZHE0Wm5wSVVzNnFWNVNIaFY2amo3QkkwWFNuedIBngFBVV95cUxQT2VnQWM1YnRDUTM3TGtENHF0S0xya1RFTDdvTjRSNlA5QmJOeF9lSGtvTjY3OW5JeFZNSTV5OVFDb0o0NUFKbzZYLUh1MDRId0FRSXpubHhPMWRkWG5LQjZiUW9jQU93WDZ6UlZTM2Qzd1I3OUdmRDYxUzJ6el9JNXkyWk1POFY4QmJsalFiaFFTYzVEeGJJUGFIMG1Pdw?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T10:36:38+08:00"
+    },
+    {
+      "title": "Venezuela’s Maduro shares first photos from US detention - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHVNVFl1eGJCSkVncTNZU2tqVjFGN0MySjlrTXNmVkRSeUJWVkJJbUpBbVJGLWJhOUlVRGluemZBVzd2clVrVGtQU0dsSkFWa1MxUm1MTUdwM1cwM3FxVHN1WHZkWm5PVXd0VlJ2cmM4eldwWjlvMDhLV1FDVHNHVEphUlA4YkV5ZDZ5UjFSVkJtYmFpTUdGd29DUXXSAaIBQVVfeXFMTXVxdlBEQ1VlSVdSTEFicnJnYlVzbUlUWUQzWFBUVjA5TThPWExkR2dZal9XMWpkd0poRURYQ0xKWm92ZFE4bm1TTUhwQXFKTzg4WUFTeERDZXY0Q3N2WHJydEdtVWR4WVo5c0VodkRGcWl5T24xQ0ZMTjJRUnN5dW1COVpyd2FJYTVKcmFrWExtS0plZUFwU2ZCN2gzakJoNDF3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T10:35:37+08:00"
     },
     {
       "title": "Aaron Donald ends his 2 1/2-year retirement and returns to the Los Angeles Rams - AP News",
@@ -155,22 +161,16 @@
       "time": "2026-08-31T10:31:00+08:00"
     },
     {
+      "title": "US plans to sanction another bank to keep economic pressure on Iran - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMU1nMzFzSUMzLW51eV9nNnlmbXFzelpUb29tU1NLcnF0NzVYUE80aHZEOTd5d3BaVVE3MkwxQ04zYzhLVFpfWTBhdmdJbkctcy1fN0NtYmtsTnRXVDBKR05mb1E1NzlhVWI3T3U2RTNuNk9hWkVqODNCVVdqTzR0YWdiTVUzT1lIaFhxZm9jMWdHSHVuVm1Od0Q3WndKMExCTG9wVTY1czM5RVZ30gGyAUFVX3lxTE14U2Q2NS1CTkIydVUwTGQyaHlmWXpQbm5uZm5OUGZ0Z0Zhc0ltTS11VUUzUXItT2ZjMms3SF9vbTZpbFJZTkpwQ2xCeXZNbEhzMGxMb0dvRnE2M0g2cThsUmRWeG1qMmtKclB4eDZRWkRDbEpCdzQwaThndnVVenNicjNiaHZzVWw4MW5JaWU3cWdrR3EtMUpRbFJjZlVXMWs1by1CNlVoUGxqeW9rR0ZValE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-08-31T10:12:07+08:00"
+    },
+    {
       "title": "Google Maps switches to \"Lake America\" as Canada compares change to \"SNL\" skit - Axios",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcGJBQWIwd2kwN01rQlkzUzZpMUlnZTZRZURRWUtWamxBUUQ0RGI1YnB3WFNxdWF1bFBjX21KRjJZTXRrLVhYVmJpTVNVdGd1UkY3NHNCMkc1MWFGWVpGSTM5U1RWMVVDc0tTSU10M2dyR2NMay1NTA?oc=5",
       "source": "Google News Top",
       "time": "2026-08-31T09:35:52+08:00"
-    },
-    {
-      "title": "Venezuela’s Delcy Rodríguez defends ‘endless’ benefits of her oil deal with Trump - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkQ1clNuZE9MNzRVTzczRWc4aXFBbjNjZWpUbkR6U013ZS1YYUNLdHFVM2FDRG4ybmsxUWEzc19kZ1JzOW5Obll4X3hhQkhzZi1MYm1EV1NySkw4OWhBMVFzaGRTazlvUE4xM2c0N2lILXI4TlU1akNPbVJ6VVJ1NndsRkVaTFJVb3VmZ3hTYWltdGh0X1UyWUY0WWhmS0Z6VEhDWldYbEhUblNkZUdmMmpvX25sbjcy?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T09:30:00+08:00"
-    },
-    {
-      "title": "FULL INTERVIEW | Lancaster County coroner disputes measles connection in infant death - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQTd0czE1ZXZMYnBrTDd4U3VCTUtMSUs4WFRRSjlRd05uSDF1VUdjN3dFWktOclV2RlFDaE1fTVlwYUhzcXdmbnJmdW1TWEFMX3lGa01idEl3VlZkckxFdUM5MGFGWmY4YklMZ1NEZkpVOHJHeWpwM3JmcXdxNzBicU5KVjJZUWFNZlR3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-08-31T09:06:00+08:00"
     }
   ]
 }
