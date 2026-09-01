@@ -1,62 +1,104 @@
 {
-  "generatedAt": "2026-09-01T21:15:57.805786+08:00",
+  "generatedAt": "2026-09-01T21:47:12.412478+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609818.72,
-      "changePct": -0.36
+      "priceHkd": 609779.52,
+      "changePct": -0.18
     },
     "ETH": {
-      "priceHkd": 19133.05,
-      "changePct": -0.52
+      "priceHkd": 19120.11,
+      "changePct": -0.29
     },
     "SOL": {
-      "priceHkd": 798.27,
-      "changePct": -0.99
+      "priceHkd": 797.8,
+      "changePct": -0.72
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5526.34,
-      "changePct": -0.33
+      "priceHkd": 5490.24,
+      "changePct": -0.65
     },
     "SPX": {
-      "priceHkd": 60259.34,
-      "changePct": NaN
+      "priceHkd": 59850.48,
+      "changePct": -0.68
     },
     "SPCX": {
-      "priceHkd": 1126.53,
-      "changePct": 1.55
+      "priceHkd": 1123.08,
+      "changePct": -0.31
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1091.98,
-      "priceUsdOz": 4332.2
+      "priceHkdPerGram": 1099.42,
+      "priceUsdOz": 4361.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.24,
-      "priceUsdOz": 64.44
+      "priceHkdPerGram": 16.38,
+      "priceUsdOz": 64.97
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 691.25,
-      "changePct": 2.81
+      "priceHkd": 692.43,
+      "changePct": 2.99
     },
     "Natural Gas": {
-      "priceHkd": 22.47,
-      "changePct": -2.35
+      "priceHkd": 22.43,
+      "changePct": -2.52
     }
   },
   "news": [
+    {
+      "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4pgk7gweo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T21:46:05+08:00"
+    },
+    {
+      "title": "UK long-term borrowing costs hit highest since 1998 ahead of October Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-01T21:31:06+08:00"
+    },
+    {
+      "title": "Chiefs Star Travis Kelce Debuts In His First Tommy Hilfiger Ad - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTDlLZ1RMM3V3RXJ5ODM5T0FlcERqdEVFakhRV3BvTzJZM0lWcVk2VVFuV2ZaSjkyNUViYzhxZURWcXpCekk4d3lMOVRnaXp5SFhjTU4xWnM4MmNtd200Y1E2cFRWZnhRNjZoN2F2ZTgzNWNQalh1cGdLcVd1Yk1sS1RrY2ZxLWVnaGRxNnhmZ2dCSkJhOWY1dzVObWZJQkxtb05vczUxQjlncThrWFNsY19mM3g4dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T21:30:54+08:00"
+    },
+    {
+      "title": "What in the World",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct9905?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-01T21:30:00+08:00"
+    },
+    {
+      "title": "Stock Market Today: Dow, Nasdaq Futures Sink as Bond Selloff Intensifies — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcl9Ibkp4OTFIVzB6WGMzSUlxRi11RXUtSHY5X2l4WFRPRHVNVGZ3WFNSWDgwY3MxY1NnUDN6aUxmMW5wcURwdnNlYXVrbXlFOFZRWFZPdzlhb0NTZWloWlNvQ0FDZjJlN3BKcXhZSDJUYTQ4OFB1THRQZDk2UnlxUnlWQ05zRjQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T21:25:00+08:00"
+    },
+    {
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T21:12:47+08:00"
+    },
     {
       "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
       "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T20:58:44+08:00"
+    },
+    {
+      "title": "Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhfenVoMUN6dnRmLWZVQ2c5bkZKQTBRRG9XRjEyOHZSTVp1MVlTMTh2bkRzdGRvZXRIbUJGeFhYbjBkcDZXNVgwa2lXZExTREI2VWJ4dzc4aHhIYkRzNFFrMVMzZGFhdTZqR29IVE04cURuM2xlQ1ZOR2NnMk5Hd09Bbk84SS1vWHY2bmo4QkZLc19rTnBQeUxDcUQ2TDlOTlBkLVVqbkZlVXZYbEJZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T20:43:00+08:00"
     },
     {
       "title": "Zambia's president sworn in for second term while opponent detained",
@@ -77,10 +119,10 @@
       "time": "2026-09-01T20:16:22+08:00"
     },
     {
-      "title": "UK long-term borrowing costs hit highest since 2008 ahead of October Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-01T20:11:13+08:00"
+      "title": "JD Vance Called Michigan Senate Candidate Abdul El-Sayed ‘Evil’ in Speech - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1A4cmVYSk1rdGprODl2bHNMdVB2dkdWOHVIQW9QY3pSYXV5NFFKQUdDNUFBWjBrUkwwVEgwUnRzUFl6NXJoeE1hRU5HU0FJUWljNWg3alFYbU82T1pNQXdaM0ZvLXczZ0lEakt4MHBhR0h6TTJOMlk2S1ppV3JWeFNZUkF0SVhwWFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T20:13:00+08:00"
     },
     {
       "title": "Improvised explosive devices found near German power plant, police say - Euronews.com",
@@ -107,16 +149,10 @@
       "time": "2026-09-01T19:44:57+08:00"
     },
     {
-      "title": "Tropical Storm Edouard strengthens as it bears down on Louisiana, Texas coasts. Maps show the forecast path. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbG92RncyZXJpblp2ZmJDdXBzWWdSVldzaVFBT0xBdEx3VDltZUhvTGJWQXdlTmxiTWhjSWV4SUE4cFZ0bmtQLTJLZkFfNVJOYlA2bWdqcGtSY1dZWkFlZVdrYkJXWk9nb2pkOV83LWtZTm1vOW9lb0s3OWIxVmNvYUZ3NjNSdw?oc=5",
+      "title": "John Ternus is now the CEO of Apple - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9saEFQWWdCcnJPYzhlLTAybEtuUG11bXhrXzBxMkE2SVdBYkpwYnhNSjRfbVlLXzdJVWl5cmRueXppV01jY25FOFd2aVdEYmVtRFlQdF80TlJ4ZkJwUTlFckFlZEpHTXIyOVE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T19:37:00+08:00"
-    },
-    {
-      "title": "Whistleblower warns Postal Service's new mail ballot system has \"potentially catastrophic problems\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0t1LVplUHk3STV2VWs2SlRZUF90SWpvMUtTamJCUzVHSFFUSGJSWDh5cVFCVks0U2JpeGRldlV2eDRvU3FmbHNnNEx6ZTJmNUZWc2JzaG9tQ29BTGVDTW9WWXFjN25TV2xGX3B6VWVKSGVwN1hROEJmaXRSQXlkakwtbzd4Ym9I?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T19:16:42+08:00"
+      "time": "2026-09-01T19:06:12+08:00"
     },
     {
       "title": "Iran is again talking peace after Trump's warning of retaliation, consequences - Fox News",
@@ -125,52 +161,16 @@
       "time": "2026-09-01T19:02:33+08:00"
     },
     {
+      "title": "College football 2026: September CFP superlatives - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVUQ1SzVOdXRMc3Rrdmwxam5ROHhyY2ZmUGV5LWFwdXZsWVd0ajAxQUU1QXZoVVZMb3J2R2NaU1diem9welh0R1RwNk8wRHZrU2pXOVJ6RF93dXdpZ2ctbzZ2dFhTazlRbmpnYTdGTmQ2Sk1xeGNtNXl2YzhzMy1xQXdPY2JMMG0xeFlSbkplejNya2FaQUZ2dDZwNE1kdmM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T19:00:00+08:00"
+    },
+    {
       "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying. - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdE53SUIzUmNYMlFGQXhueEFjV2ZDVXI0RndFXzZoeUVyeDNkd0R1QWY1ZmE1c0pnTTBoSjBtcFlVbHdzUVp5VUVORFpMcWx1UGxEa1VCXzI1SVhvckdhZWFJMGJiMjRZbE5iWkk4T3FaNGRzRzZ5NkFQZld6eHFVQlNCRWRiM2V1M0pJ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T18:59:16+08:00"
-    },
-    {
-      "title": "Global Bond Sell-Off Puts Investors on Edge - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T18:55:15+08:00"
-    },
-    {
-      "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T18:46:25+08:00"
-    },
-    {
-      "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53dlNGUGJ6NGNLWklCLVI0SHgtcnpDeXhyNkFpVDBDRkRUMG9SMjJLbGRWcjE3WWE3cldKSk9vNjZVV2tpYVktUEk2ZHBhSndhWVdtT0puMjlDQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T18:46:25+08:00"
-    },
-    {
-      "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T18:30:55+08:00"
-    },
-    {
-      "title": "Apple’s new CEO, John Ternus, takes over from Tim Cook after 15 years - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1Y3Y1VCMW1EMjFEc0xhN2NMUGFfZ3E0SkpaX0lRRWo5M1NzRWdvUnVEcERXVjMyZE94SjEtOTVJeWdtWWw5eUtLcm9aUUJEaG1OM1pXNG1lWkZrWE1yZVIya01fdU1ONjF1dGFuSXhXaTluNF9WSXZwZkhoeEdLX1BpRDFZZGF3TkZPX1ZB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T18:29:00+08:00"
-    },
-    {
-      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-      "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T18:26:50+08:00"
-    },
-    {
-      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T18:24:36+08:00"
     }
   ]
 }
