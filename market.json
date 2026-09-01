@@ -1,74 +1,80 @@
 {
-  "generatedAt": "2026-09-02T01:27:42.150146+08:00",
+  "generatedAt": "2026-09-02T01:58:49.588983+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607905.76,
-      "changePct": -1.26
+      "priceHkd": 606298.56,
+      "changePct": -2.01
     },
     "ETH": {
-      "priceHkd": 19086.09,
-      "changePct": -1.27
+      "priceHkd": 18992.09,
+      "changePct": -2.13
     },
     "SOL": {
-      "priceHkd": 792.39,
-      "changePct": -1.69
+      "priceHkd": 788.08,
+      "changePct": -3.07
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5486.98,
-      "changePct": -0.71
+      "priceHkd": 5489.18,
+      "changePct": -0.67
     },
     "SPX": {
-      "priceHkd": 59829.0,
-      "changePct": -0.71
+      "priceHkd": 59847.27,
+      "changePct": -0.68
     },
     "SPCX": {
-      "priceHkd": 1120.8,
-      "changePct": -0.51
+      "priceHkd": 1122.81,
+      "changePct": -0.33
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1095.31,
-      "priceUsdOz": 4345.4
+      "priceHkdPerGram": 1094.91,
+      "priceUsdOz": 4343.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.36,
-      "priceUsdOz": 64.9
+      "priceHkdPerGram": 16.32,
+      "priceUsdOz": 64.75
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 702.7,
-      "changePct": 4.51
+      "priceHkd": 705.29,
+      "changePct": 4.9
     },
     "Natural Gas": {
-      "priceHkd": 22.78,
-      "changePct": -1.02
+      "priceHkd": 22.87,
+      "changePct": -0.61
     }
   },
   "news": [
+    {
+      "title": "Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T01:45:13+08:00"
+    },
+    {
+      "title": "U.S. military conducting fresh strikes in the Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14emhLdERqMDNXajliUVR1S29GSEZOUUhkTjBzNXR2TG91aWk0M2F4YnB5U0d1UzRMQ2RnM1pYd1Jlc3VLUDdpNlctejloOVN4aC12NndlbFBjWjdQYkg3QThxZW9PQW9ZdlZJWjk0WG51OUww?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T01:12:29+08:00"
+    },
+    {
+      "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T01:10:20+08:00"
+    },
     {
       "title": "German minister says Brandenburg power grid target of sabotage attack - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNW1ldHZCdU9GenhqU1k3d0M5b2pYdml2MXl2UVZqNWpUUkhJN01hN1lTczFrZmItQXNnalE1RFN5a3c5YTZIdjBqMy01SU9PdW4zSzd5RHZTZk0ybmVlMzVRRVVvU3dSTC0wb2tUenJERXducXNiNGRIM2lCdWF5eTZTWDBhRXZTWmljRXV5VmFfck1WVzRETGg5VDNMYnZZQWxnbjg5LTdhMVNUTlVVd2pTcVhzWklSVk13?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T01:03:47+08:00"
-    },
-    {
-      "title": "Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T01:00:53+08:00"
-    },
-    {
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjUwUGpOMFFlalYxaTlwbnhqbVdOZzh3RDAwWjVaX1FuUEZmMS1tN0tsa1h2MGxLQ19PSkJ4SE9EUE5Ga2J3UWFnTWNCbF80SmRyS3h0SHVKRDh2MlYwUjd2cGtTUHhUeXVoYzBsV0F1Y2FqdXJuQTl5dWVkaGlEa2wtLTB3ZUk2dExwZmhScUJ5MTRvWVF5eHBiRzFtbl9KUTBF0gGoAUFVX3lxTFBRTGtWUGhNNDUxdDhxRWlBSEtfVC1YelBjbGw0S2R3dWI1ekJGUHgxUHJIOXhvOTVZSFBld0p2czZWUnZLcVNkZHROQUpoSFNFYWlUN0Q4ekN5SGwxanIzU3lkWXd1YnN0S2NDZHI1Sk1GZkQtWVh6bGhlNUhlWnA1MnZoNTFxVWF0NmZaNThQd1B1MGtVeVV2cHBGdFF0ODVRSG12dGtxMA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:54:16+08:00"
     },
     {
       "title": "Germany says Russia behind Leipzig airport drone attack",
@@ -83,6 +89,12 @@
       "time": "2026-09-02T00:36:42+08:00"
     },
     {
+      "title": "Gold prices remain down as U.S. JOLTS highlight ongoing weakness in labor market - KITCO",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkllTVVrUEVZXzdDWUNNODNkVjE1TDA2TTVmLUVYUDZCX0lMY2J0ZTlZN1lVaGd0TUhqX2EzVi1VU2lVOEhvdV9tWklqWm9oMERYRFl0SGJPMGFHeDk0d3BqTjFIMTUxR21GSFF0X196emhtNWFnOFZMbXl3dHhDdXJHeGhiUWo4Y3Y3YjREZWMzZWJwa21kY1ZINjN2ZlN1bE9YdXpRcm1udE5CS2NLdXAxeFpSM09oYmc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T00:36:16+08:00"
+    },
+    {
       "title": "Trump says US position on Falklands 'one of many' under review",
       "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -95,16 +107,22 @@
       "time": "2026-09-02T00:33:29+08:00"
     },
     {
-      "title": "‘In my heart until I die’: Argentina says a tearful thank you to Lionel Messi - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDlzNjRxNjd5dm9oNzZoMEJsYlRRR3Bwa0V1ODd3WVlEcW1OUDNlT05kWFk5dHRWMklKRUdBdmR6bmF6eUFpdFh5WjRYLVFHT3FEMWFXRXhLaXV1bVhNYzA5ZVp2RnpWZ29qUzFKNUktT1hZWnk5bWRtd1FKem5Ra2pObzZzRHJsY1J0SXNjTkJkeDk2VjJCR25KMlZTc2RTYkQ5Z2pn?oc=5",
+      "title": "The Genius of Yayoi Kusama in Three Works - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkF3dEpYbDlxdmtUdXV0TEF6TWFkbzZVd29OaXlrejBzdVNUXzlyQlppcHQySklmTDJZYUpKUmxxQldrY20yTmN4aTdnZGcybnpCTC1vTVZWQVctNk5vVURhSWc0S0hRWVRtYkllbmV5Y1dXY1JCVGVGSWdCZENYWDBFbzFMdmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T00:30:00+08:00"
+      "time": "2026-09-02T00:31:52+08:00"
     },
     {
-      "title": "Stock Market Today: Nasdaq, Dow Fall as Bond Selloff Intensifies — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcl9Ibkp4OTFIVzB6WGMzSUlxRi11RXUtSHY5X2l4WFRPRHVNVGZ3WFNSWDgwY3MxY1NnUDN6aUxmMW5wcURwdnNlYXVrbXlFOFZRWFZPdzlhb0NTZWloWlNvQ0FDZjJlN3BKcXhZSDJUYTQ4OFB1THRQZDk2UnlxUnlWQ05zRjQ?oc=5",
+      "title": "Naomi Osaka pays tribute to NBA star Allen Iverson in basketball-themed US Open outfit - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOODBtWWxQN1RLM1NYOEtSYng3YV9UakJHU1hMTlhaZ3Y2YzI0RWhTS29SanpxSmh2a0pPbnF1RkFNWnRfNE9WVThSRlNyLS1ZT3BxemdRV0FFbjVqLTdLeGhObC1CZEpURkRrSXlGbkJTVkR5TXF4d01QREIyekFWWEI2a0otZGZGd2M5Z040WQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T00:25:00+08:00"
+      "time": "2026-09-02T00:28:00+08:00"
+    },
+    {
+      "title": "Apple’s new CEO, John Ternus, takes over from Tim Cook after 15 years - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPM1Y3Y1VCMW1EMjFEc0xhN2NMUGFfZ3E0SkpaX0lRRWo5M1NzRWdvUnVEcERXVjMyZE94SjEtOTVJeWdtWWw5eUtLcm9aUUJEaG1OM1pXNG1lWkZrWE1yZVIya01fdU1ONjF1dGFuSXhXaTluNF9WSXZwZkhoeEdLX1BpRDFZZGF3TkZPX1ZB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T00:15:00+08:00"
     },
     {
       "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
@@ -119,34 +137,10 @@
       "time": "2026-09-02T00:08:00+08:00"
     },
     {
-      "title": "BofA vice president Piacenti killed in Times Square stabbing - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOXlqbHNRekhVbmlvR2JmZS1TazVKVGxRVFA4a0oxNjl4SHF1cUhaQmNqM1RySGlJYS1zUl9OYnBTOFRnb0JLTVdaZTJiN0ZQTDRqcHJmVVNaN21McWhUV0lTR19HWVF3LUc0d1dXVDJBaW9qYWpUeTRPVE9ETUVYS3FZenBqRWRHR2lGN1RRQzFYeEE2a3Mxb19GNlpObDVXZE8wSEx0UVpDTFlES3QxbjBaQlhkeTQ4OGR6NXFR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:01:51+08:00"
-    },
-    {
-      "title": "Cook hands Apple to Ternus: bigger and richer, but catching up in AI race - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkVwc3NNT2k1QzV2blM0bXBjZDZoaTJ5d2FzazViTGgwVllxcVN3RVpqTlh1U1FPeXU2TDh4ajVxTk9tb2c1cTNGcTE0dzdsSmJNZnpoYmcyVDMwWTZJUVkxRkZjTllmQ2JQX3g5TlRIbEhtMHpsbjFFWVJBTlNXNHdsR1AwTkRBTkxUSTZHVjdNa1h3TkF4VmNERjdKQWRJcE9qWXNJTmY3ejRMclVVeGg4SQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:01:44+08:00"
-    },
-    {
-      "title": "Germany blames Russia for drone incursion, announces retaliatory measures - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWjd2eUo3VXJvbWF2Z2FTeFdib25oNFR1YzkweGdHaUNSei1HckNFWGV0TnpreTNvY2xveHl0ZlZMMnp5bDkwc1hWYWl4WGtFRE53NjFJZk9qSUxxREpOcDlJdUVmVnBNcEJUTjFfaVh6OVg0NEVHTXg4ci1kSklObFBVUGRiZjNVcXhsM1ExNnlFWDZ3eHpUamFjc0w?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:01:16+08:00"
-    },
-    {
       "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
       "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T23:57:18+08:00"
-    },
-    {
-      "title": "Jewish Artists Publish Open Letter Supporting Mark Ruffalo - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXBZS3k3UGZfeUF3c3dHWm5qTEZ2aTlDdVFGOUd6VlN2RU5YWjJJN0tVdHVIazFJLWlPSTlHMW5Mek5KellzV2xxNktUd1Z5VHpySEhnd0gyX2J0ZjhoaVhieVZrc3hWMmx6ZzVIMkZNUzRUbnRtazNoeGE4cHJZUS1DY2RqOVI4SVVJbnktVUx2ZmxhLVdnYy1KYw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T23:53:00+08:00"
     },
     {
       "title": "Swinney to cut number of health boards from 14 to two",
@@ -161,16 +155,22 @@
       "time": "2026-09-01T23:51:51+08:00"
     },
     {
-      "title": "US borrowing costs hit fresh highs over inflation fears - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yRnc3NXVUUlI3NGJFTDJRbmg3MFJJWFlqT1NpYUlZRnZSNGF3MGFFVDBWbVVDWlNmMUx2bm5TcWFCbGRmOGlOcnhkUFhFLVJnNXZkUUxMZnVEUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T23:51:51+08:00"
-    },
-    {
       "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
       "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-01T23:51:40+08:00"
+    },
+    {
+      "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
+      "link": "https://www.bbc.co.uk/news/articles/ckgvrm5nxexo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T23:48:38+08:00"
+    },
+    {
+      "title": "Life is too expensive for too many - PM says",
+      "link": "https://www.bbc.co.uk/news/videos/c4gv0dej5y3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-01T23:47:02+08:00"
     }
   ]
 }
