@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-01T12:34:05.247847+08:00",
+  "generatedAt": "2026-09-01T13:05:10.457731+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617815.52,
-      "changePct": 1.7
+      "priceHkd": 617384.32,
+      "changePct": 1.5
     },
     "ETH": {
-      "priceHkd": 19403.14,
-      "changePct": 2.55
+      "priceHkd": 19371.15,
+      "changePct": 2.2
     },
     "SOL": {
-      "priceHkd": 814.18,
-      "changePct": 2.68
+      "priceHkd": 813.56,
+      "changePct": 2.25
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1116.68,
-      "priceUsdOz": 4430.2
+      "priceHkdPerGram": 1117.19,
+      "priceUsdOz": 4432.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.78,
-      "priceUsdOz": 66.59
+      "priceHkdPerGram": 16.79,
+      "priceUsdOz": 66.62
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 680.2,
-      "changePct": 1.17
+      "priceHkd": 682.32,
+      "changePct": 1.48
     },
     "Natural Gas": {
-      "priceHkd": 22.92,
-      "changePct": -0.41
+      "priceHkd": 22.95,
+      "changePct": -0.27
     }
   },
   "news": [
+    {
+      "title": "Swinney says reform is at the heart of his programme for government",
+      "link": "https://www.bbc.co.uk/news/articles/c9dw5x611gpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-01T13:01:02+08:00"
+    },
     {
       "title": "Shein shares fall in long-awaited stock market debut",
       "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
@@ -59,28 +65,64 @@
       "time": "2026-09-01T12:15:15+08:00"
     },
     {
-      "title": "The CDC hasn’t added 2 deaths to its measles database. Here’s why. - The Washington Post",
+      "title": "Shein shares fall in long-awaited stock market debut - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T12:15:15+08:00"
+    },
+    {
+      "title": "At least 80 people rescued after Grand Canyon flash flooding; one is unaccounted for - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQzJwYmFWWGdRckdSNWtvUjNyR0xKNW1pcmZLRFh3d3pPWEowR0NaS0tVREJnVi12MnZsTkIxaW4tSkFKZ2puTGpPbFg4T3RUWW5jenBDQ3Rfcjdvb29hSkZhUEppMUw3RS1kVElRc1hGOFM5X09icjkwMjk3SlVMdWtKamZ3XzBOLThrZ1JtY0h0RDl0WE83WHdKRjhncWw5eHpwTg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T12:05:30+08:00"
+    },
+    {
+      "title": "The CDC hasn’t added 2 deaths to its measles database. Here’s why. - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUVZekc4UERTUzVPWHB1ZTg4Xy01cmVGLUd2cnBPLUs1RmRfNTMycTQzakNjNk9WWmxncl9zRHZvZlo1RGhpc044WGViVUNjZDNzRng1Zi1lSlVYX2EwU3FDSGJsdDhrX2FBZms4WTNvTjdjTEF0aVB2cU9JcTk0ZmlFdnlEbVlVM2dWLS1JTWhRNFBjS3AwaHZYcUkzU01tbFlUZ1RLeG54Ym9GaVFERHNTMA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T11:54:45+08:00"
     },
     {
-      "title": "Rescuers saved some 80 people in Grand Canyon floods that left 2 dead and 1 missing, officials say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONGw0ZGdSV3NYOC11dmpFaXB6dUZZVlZEbnpRRE1vU3U1cEx1SUd3MHgwV0RzaHMwa25uODR0ZHNvVFl2Yjl0SmtVNE5XVEFxM3Z1OXZ0SllScUp0aWNGTEZ4Y19aaWIyV05fR2wweWdpQVU3ZU9pTXQzVXVKd0NScDFFQk41OWlvcGxwQUd1c3ljM292NXh2bjQxWVYwRHBuRjR4eERXZVc?oc=5",
+      "title": "Congo authorities report more than 6,000 confirmed Ebola cases and nearly 3,000 deaths - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNmFVa1ZEd1M5TFMyN3Q3WV9oZ0xQUHFRenNpNklMcGtxa0t4STJPb1pUNmQ1cFFxOHRoOGZOT21ENWN6ZlhSWlNRU2I4RmNUMzJ4dGxSaXUwOVZISmk1bGY5MXZyeU5Ha0prdHo1ckNNLXhYcG9RRWx3bEZZdjlwMFpGWTdTZ2RBeE5ER0lCOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T11:49:00+08:00"
+      "time": "2026-09-01T11:45:00+08:00"
     },
     {
-      "title": "Ex-gang leader convicted of murder 30 years after Tupac Shakur’s death - The Washington Post",
+      "title": "Japan’s benchmark bond yield hits 3% for first time since 1996 - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi12RXhUckg1T1JDbE5MR085RC0tT1BhMlFMWlRkWlNMNV9EaWNVTHZfS2FSTEpGQXFOdVBRRTVqSy1qVlN4TkZtb3NISWhOYnBKS3BSVUY5b1RjODRJT0JNeGY3NnBBRzN3R2dKNThHZHpGRDdzVElJTnQzQTY1ZVZ6ZHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T11:42:47+08:00"
+    },
+    {
+      "title": "Ex-gang leader convicted of murder 30 years after Tupac Shakur’s death - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWFzQ3BOQkNZR2VuSjVpcGR2M3E1aGJQTE9STVc1eGFKQjVObFhKOFVLUE9ncm50dTRuTnUtUjk4OG5IVkdfaEd3QjdGb2VSOHd1N1ZuY2ZTeE1fbTNnYzhqaG5OMHF4RHVYYVdXNjQ3UVFESUg5a25NU1V3ai0zQzcwRlZ5Q0tld0NPMlQ1NVRvcXBTZzVPaWV4Sk9oVUIyLUh1Z1hCSVhyWl9mNk9DeEd0QWo5WlU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T11:35:14+08:00"
+      "time": "2026-09-01T11:41:00+08:00"
     },
     {
-      "title": "Shein shares slide in long-awaited stock market debut - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5",
+      "title": "John Ternus to lead Apple into the age of AI - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFJXbVlMMGdzcl9FRUhKTloxbDJ3X3N5V3MwV0JlV0lCQTV3THhBdWQzb0JSWG5neTFVY2NlVlNmM0YwX0tiMVRVdzYxdzNpeG9yWGp6alRJZmdVcmNaS2IzYkZYRjdiOWgwNVBOZHZqUC11V0Vyb3IyTlhlSkZPNUVMWFJXOWt5MXktcl9LUHbSAZYBQVVfeXFMUHNER09BS20zb0IyMUowSm1hd0tlcFB3NEZFenNSYTdiLVlyclVsTEU5R2haMnZlY25GaDg1YkZqc3EwWm51ZXFNelVPNE5sUDVWci1HUHhBb0daUzJtMl91Nkt1WWs2OGdVMG1WRDMwQVAtMnc5Qms2emd3TEpPUDQ3ZjFLMEE1UFhGSFViWkpJVFpJZHhR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T11:11:13+08:00"
+      "time": "2026-09-01T11:24:09+08:00"
+    },
+    {
+      "title": "17-year-old girl charged with murder in livestreamed California mosque shooting - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHlBZ215dTJ0VUN3Z1N4ZmQwcGRqcGlsMGNaTDVTMFlqNUVpbGRfSU5RN0hxcW45RldSX3lmY3pJVUM4aElhRGRaMG9FYmFUS3otRzdDeUc0WDVEVmFUSGpKYm15ZU50TWJ3UkpoZW1vODh5SmNEUWp1TlZwNE9IVU5lZlA4Ml9NUlVObGp0U0VZbE5SNWVhcnRJbmQ2dGxKTlNGRkNCMjdvN19LcV93WGkwWWt2YnVXbFRvWUxJQ0lRaVZz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T11:21:24+08:00"
+    },
+    {
+      "title": "Hendersonville gas station, Asheville hotel identified as measles exposure sites - WLOS",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdVlvMXlqekxjUXpSZUV1ZlMtMUZxQzUzSUVHandmR2xVNmcyaTFEeVBjMWlxa20wY1pnc1JUaWZHOHZjQkF1Y1NvY3ZobzJUSTFZVnE4RXZ6blV5a05iMTl4WER3VDFlZ1BCb2phU0ZzeVFqWmo4UzRydVBiTUtoeGRWc05LNzcxLVA0ME9pQTQtWVUxTFBSOV9lOW9NV0dRcTlyTjRyOGRpUmlISDJ4Q3ZQZzRVZHU3OEw4UE1sVGVvTG5r?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T10:40:22+08:00"
+    },
+    {
+      "title": "Andy Burnham to face Parliament as prime minister for first time - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QSGxTY0JQQUpUWHdZWnlWbmllbjNnVFdyRnlydDhMa1daOEpSSEwtVE1FaTRRUUJ3MWd5QVYxcjVLejE2YlpVMDUzaWs3T0toYzFYYWk0U0RNUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T10:36:29+08:00"
     },
     {
       "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
@@ -95,22 +137,22 @@
       "time": "2026-09-01T10:18:26+08:00"
     },
     {
+      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and Tibet - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeF9fY0FGcDNINmhyYlJPWWM3LTJESnQ3dUZLVXVBSjJtQmR1V0l0aDdvN0J5aF9uOGxldDIwZy1TYlpWVnlFTUVYaGJmeW80dVR6MUYzZU5JSHFCTWJwZXhOaTBuN3EwS3pqeklVQzd4Q2xybXRmbjNWRnZVSjl4Zm52dFB4NDgwM0pvZ0I5cHI1Z3dM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T10:18:00+08:00"
+    },
+    {
       "title": "Carlos Alcaraz returns to the US Open with a victory, Aryna Sabalenka also wins her first match - AP News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUUM3YWtaNHI0Q0JsZTg2UWRRTXUtRWY1bmF2OVRyZERZaDVQbTdLNDNfTFp3bmlKZUlWdERkQ1p4bmFHakRNbm16aDZ2Sk9iS2lVV3hNYkU5dFdLS2RHVnlvMjJuVGRuZnlCZXFFOHVNWmdtam40aTBNOUZjOU9yb1IxQjlwNXBqZVJN?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T10:03:00+08:00"
     },
     {
-      "title": "Trump Live Updates: Army Secretary Resigns and Supreme Court Allows Ballroom Construction - The New York Times",
+      "title": "Army Secretary Resigns After Clashes With Hegseth Over Firings - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8za2VlSDA4UVpVbjRMSWpkUXN1SjF0cWhPLVgxM3pIalZDY0JtVGhmUUs4bmFBQ1NKTldFbTlrMndFM2ZndWs5NHZ5LS01SzVlTFdoVWVLWVV2NkpEY204Yy1TRQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T09:49:00+08:00"
-    },
-    {
-      "title": "Supreme Court allows Trump's ballroom construction to proceed - Axios",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T09:35:41+08:00"
     },
     {
       "title": "US army secretary resigns after months of tension",
@@ -125,52 +167,10 @@
       "time": "2026-09-01T08:31:20+08:00"
     },
     {
-      "title": "Trump Calls for Passage of Federal Film and TV Tax Incentive: “Let’s Get This Done!” - hollywoodreporter.com",
+      "title": "Trump Calls for Passage of Federal Film and TV Tax Incentive: “Let’s Get This Done!” - The Hollywood Reporter",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbHBpWGtqYUY5SGhkbHkxUlNQdVYxamM3X3FhWVhRVld4OGFCTjRmeUF2a1JScVc2VWJwOHhVVGwwSXZyT0V5N3ZKYmp4RWFKWnJtZldwcVduZEVLdjRadWxzZ25wckJRWEl4SWQ0eDhzcUFjLXB5WUtRaW1renlQMVNZY28xZHdkMWJtVk5RbndSRDJOem9McHliakd4clhPM0d2RDBKdjNTVG1sT3RORXZtMXdyVTVBaEE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T08:03:26+08:00"
-    },
-    {
-      "title": "How bad will this year’s flu season be? - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMjJLMFJlOFZ5R1ZabTFaQU5TeVU1dHU3VXkxY29ZWGgwOGZOYjFQdVR1eUVmWkRLWmFHcy1iQW5DYUNZYlUxekUzcXZ0bkhYRDJpZkNYblV2TGYwN3lWVUdCeV9Pa01qU05zNVhCOU82QUV3aW8zMnEzWmljYXVscVJ4UmdUTHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T07:35:05+08:00"
-    },
-    {
-      "title": "Vikings Officially Announce 15 Practice Squad Signings - Daily Norseman",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZHdoU0YwSF9KNFhVaHB0UE1fWmVTdTVhZC1TVDJSREE4eHJOWHJHRGNQTmxiSEdudzZyQTBYQk9VSE91V0h1NC1ZRUFQNlRCd0JkMWNmYUp0V1NqdTlIX3I4aG9IZFNzY0JUNmRfVHcyU2FUREhBcXNvZDRVUlFzcTRDbnl4d3FtQjkwVzRLcThveW04TDEzWm91WFg1OGRiaE0tN2VoV1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T07:29:00+08:00"
-    },
-    {
-      "title": "The Bentley Supersports: A stripped-out engineer’s indulgence - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3RCVU1xWmFSTGVZTnB1eVgwZnRjc3F2eU1rbmZnRFk3amF2bG5yWnhrNUEtZlZoWlk3S1N3b1VmVjJpVGZhQVVtb1JVZ0laQm15N3hpQnBDRXN6ZVhNV0lQLUZUYXVuRENPLXR2dGpHTllFTV83ekpVcllneWp6UXh5emZ3S1ZZZFRhel9NcV9SVzRRMHMwZE5kdG9pZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T07:01:16+08:00"
-    },
-    {
-      "title": "DA says a teen who recorded San Diego mosque shooting livestream has been charged with murder - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSWI5VlJLNTBPQ2lmM3RBdHM2amUwSXNqOHhPQ2dWbzRiWDVJZmd2YXpwLUIxT25FVFJHTVlDY3NwOWktRkkxXzhlMWpadmRDajdOSDFtYTFDSHY5M2xQUXg2a25qbDBZdFZMSy14ZG13dVVfZUJfRGlFWlA0UzdPcHp3OU56ajhRZE5wUlNn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T06:48:00+08:00"
-    },
-    {
-      "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-      "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T06:38:24+08:00"
-    },
-    {
-      "title": "The Google TV Streamer now costs $50 more - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pWGRrekVZa09VOGdIOG9zVG5XRHVRQWpkRVUxUFRWajVHRVIxSXJ2RVhzcFBpZURqUjhyekJRQmE5TnAtaU83b0VfMUxvM1JfR2d4Z0FtMG52dmhoUlBwTVl2RHFGOVNBMTB5eDU5R1Z6SmtIVDJRTlVR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T06:32:51+08:00"
-    },
-    {
-      "title": "Amid backlash, museum cancels planned Met Gala exhibit on fashion designer John Galliano - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm9KMC1CRlVnRXVocFZDc2t4X3JBblRTTmRJWkhOdElDd3VmeWJQRzBpZFFTdUFBV2R6amVvSFFjT3MwMUdoZFNzaXJjTm4wN29XX3IzZDhnc2hHeHRrWFpzZzR4TEtpVk5CYzlDUGRldXVyZzNFeHM3U0xrcUxyQWhKRGtuS1J4MnVBOFBscmFzX3BW?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T06:28:00+08:00"
     }
   ]
 }
