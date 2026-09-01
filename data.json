@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T06:07:27.516893+08:00",
+  "generatedAt": "2026-09-02T06:38:32.451198+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -263,8 +263,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T06:01:46.518163+08:00",
-        "next_run": "2026-09-02T06:31:46.518163+08:00"
+        "last_run": "2026-09-02T06:32:51.553028+08:00",
+        "next_run": "2026-09-02T07:02:51.553028+08:00"
       },
       {
         "id": "539a150ac028",
@@ -281,8 +281,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T05:36:27.391513+08:00",
-        "next_run": "2026-09-02T06:36:35.396419+08:00"
+        "last_run": "2026-09-02T06:07:34.163649+08:00",
+        "next_run": "2026-09-02T07:07:40.258970+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -290,8 +290,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T05:43:31.927784+08:00",
-        "next_run": "2026-09-02T06:13:31.927784+08:00"
+        "last_run": "2026-09-02T06:13:37.125326+08:00",
+        "next_run": "2026-09-02T06:43:37.125326+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -299,8 +299,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-02T06:03:35.080880+08:00",
-        "next_run": "2026-09-02T06:13:35.080880+08:00"
+        "last_run": "2026-09-02T06:33:39.815808+08:00",
+        "next_run": "2026-09-02T06:43:39.815808+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -335,8 +335,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-02T05:59:34.106279+08:00",
-        "next_run": "2026-09-02T06:14:34.106279+08:00"
+        "last_run": "2026-09-02T06:29:39.258660+08:00",
+        "next_run": "2026-09-02T06:44:39.258660+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -784,25 +784,25 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "409Gi",
-    "uptime": "9:26",
+    "uptime": "9:57",
     "cpu": {
       "loadAvg": [
-        1.91,
-        1.68,
-        1.44
+        1.15,
+        1.32,
+        1.28
       ],
-      "usage": "13.2%"
+      "usage": "13.6%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 38.1
+      "usedPct": 38.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "4.6",
+        "cpu": "5.1",
         "mem": "0.1",
         "name": "python3"
       },
@@ -817,12 +817,12 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.7",
+        "cpu": "0.5",
         "mem": "0.1",
         "name": "opendirectoryd"
       },
       {
-        "cpu": "0.5",
+        "cpu": "0.4",
         "mem": "0.1",
         "name": "launchd"
       }
@@ -1524,16 +1524,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-02T06:07:27.223190+08:00",
+    "generatedAt": "2026-09-02T06:38:32.153097+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 23.9,
+          "temp": 23.8,
           "code": 3,
           "precip": 0.0,
-          "wind": 15.8,
-          "time": "2026-09-02T06:00"
+          "wind": 15.7,
+          "time": "2026-09-02T06:30"
         },
         "daily": [
           {
@@ -1565,8 +1565,8 @@
           "temp": 23.3,
           "code": 2,
           "precip": 0.0,
-          "wind": 12.3,
-          "time": "2026-09-02T06:00"
+          "wind": 12.0,
+          "time": "2026-09-02T06:30"
         },
         "daily": [
           {
@@ -1602,12 +1602,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-02T06:07:27.516797+08:00",
+      "time": "2026-09-02T06:38:32.451096+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-02T06:07:27.516797+08:00",
+      "time": "2026-09-02T06:38:32.451096+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
