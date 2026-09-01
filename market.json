@@ -1,62 +1,92 @@
 {
-  "generatedAt": "2026-09-02T03:00:59.142569+08:00",
+  "generatedAt": "2026-09-02T03:32:04.797023+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603758.4,
-      "changePct": -2.55
+      "priceHkd": 606298.56,
+      "changePct": -2.24
     },
     "ETH": {
-      "priceHkd": 18891.58,
-      "changePct": -2.77
+      "priceHkd": 18972.17,
+      "changePct": -2.61
     },
     "SOL": {
-      "priceHkd": 779.69,
-      "changePct": -4.94
+      "priceHkd": 784.94,
+      "changePct": -3.78
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5483.77,
+      "priceHkd": 5483.51,
       "changePct": -0.77
     },
     "SPX": {
-      "priceHkd": 59779.37,
-      "changePct": -0.8
+      "priceHkd": 59784.15,
+      "changePct": -0.79
     },
     "SPCX": {
-      "priceHkd": 1123.39,
-      "changePct": -0.28
+      "priceHkd": 1122.22,
+      "changePct": -0.38
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1092.26,
-      "priceUsdOz": 4333.3
+      "priceHkdPerGram": 1092.36,
+      "priceUsdOz": 4333.7
     },
     "Silver": {
       "priceHkdPerGram": 16.22,
-      "priceUsdOz": 64.34
+      "priceUsdOz": 64.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 708.19,
-      "changePct": 5.33
+      "priceHkd": 709.13,
+      "changePct": 5.47
     },
     "Natural Gas": {
-      "priceHkd": 22.99,
-      "changePct": -0.1
+      "priceHkd": 23.05,
+      "changePct": 0.17
     }
   },
   "news": [
+    {
+      "title": "US launches more strikes on Iran as state media reports explosions",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T03:24:07+08:00"
+    },
+    {
+      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T03:20:21+08:00"
+    },
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T03:13:03+08:00"
+    },
+    {
+      "title": "Two Democrats, in highly unusual move, cross the aisle to save GOP bills - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15bElqTnRXWklkSUd2bkJQX0JNdmhJeGNTbW9IczJ0Mm1kZXZMcDhkc1hOdURzTEJac1V2Z0FEQW1Ka0FPUURHZTE2X28zMXZFSnJTUFFCcURyZl8wa0lLdjZ3TEhNc00tck1lTUFqbkNQWk1vQTRlekhtUUVQV2PSAYQBQVVfeXFMTVpaVFo3ZXh2M29INDhDM0tCalFQeVl1M1ZYbm80NHVVeUFZLWZ6MG1UT3dPX2dwWmtERjI2SmhPeXR4eUduamc2eXJoNVpNclZZV1VwbFBQY0VtMWYyLVhRd3BHRFlpMUg4NFZnYTZPQWNrVGJmUmpJWUw3UkNRcnM3aUFk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T02:42:00+08:00"
+    },
     {
       "title": "Ex-gang boss guilty of orchestrating 1996 murder of rapper Tupac Shakur",
       "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T02:26:12+08:00"
+    },
+    {
+      "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr. - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTFNra1pYdWlkUlZKYXVfaDFtOWFZam4wT25adDVyQ3Z6Q2Q3U1VZUjNwWC1CZEI2NVNfN1hZSHlURXlNMllTYVFodXZmVk9NOEJoV0JpUm1Rdkk3YVlaeDZXUENRVFdKcV9UanlLZmNVbTVhQnBseTdraG5Uekx6U09jdUM1QktTNzJRbDd0ekxnWG03YWVBa0RnWXE1NlJtM2pYWGczSDljeEpUSk1fM1REajRSdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T02:21:16+08:00"
     },
     {
       "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
@@ -65,40 +95,22 @@
       "time": "2026-09-02T02:06:58+08:00"
     },
     {
-      "title": "Congress clears funding patch to avert pre-election shutdown - Politico",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR2tuVE1xeGllRTdtWTRLRmZ5c0dNdmdTdzBScGxvRzBpSDV1WTFtVVlYNmJ3Y1dGNDZNZUNob2xOZ3hkNjNZakFfdU5FMWpQdWpYdjZVN0NfVG11NHIwS3Y2dkFfU0dUWno2MC1OOGczcHQwSWt2T3lGOHkxSFp2TU9TblE5a0hqbEZDOW1qVUV4T3FL?oc=5",
+      "title": "House votes to pass short-term funding bill and prevent a shutdown before the election - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGUyOXhtSFNkc3p4eU5vNnNEd2llUlVGb0M1VFN3YXVGbG1zQTdDMFZvNmtGUmM2YW0wbndVQWZXaEs4dmk1YWVmOHBsZXhuTHNkdUdVVkR2UjNvMkpMQjRjUHJLMndjOXRYZUZSRTBUazQxUVZabzc2bGRRMnFCUHctYzRQWENmdS10NzUwb2pqZnZzUVlPTmhJeUpvUDBJYkEzNFF3QkNjczRVVEdDQ2JiTDNKcHQ5bWZz?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T02:06:00+08:00"
     },
     {
-      "title": "Sept. 2026 Android Drop: Find Hub ‘Remembered’ list, Motion Assist, & Keep in Google Messages - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBaX3dEZVo1VlVvX2Y0VVNSM3JTbEVBemRiUi1VbVJjcTRrLUw1djVaX2UxVmhZVElQSHExcmthUUxiaTczc1VIZG1QZ21uYktfYmtoQkdLNDhXYXVUYTFCTEoteDVOaEhwN05pazBfWQ?oc=5",
+      "title": "Government borrowing costs rise anew, adding to pressure on global policymakers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T02:00:00+08:00"
+      "time": "2026-09-02T01:51:55+08:00"
     },
     {
-      "title": "A Hollywood CEO Tried to Kill This Movie. Now It’s His Latest Humiliation. - Slate",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbk1nZ1NQY2VCOVAySEVXbm04eE1rSUsyTnlHSFlWblNMbXh2MFc3dDFkbGpDTUN0eHh6N2tfeW1lX0V6dGMyZU9MN2lmMldsZUlKaXZ1RWxfSldSUkJ2SVllLVBwakFIeEJiRG1aT2twbG15dUVuRGJiTEN0THYyTF9pNFZFc0lPb1loQVJ3?oc=5",
+      "title": "Miley Cyrus Announces New ‘Bass Persuades’ Album, Two Hollywood Bowl Shows; Drops Last Name - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWlppam10eWtOaEpOQlZKbl9FNUc3d05uZU12RDVJdWRFT1BwU2hWVXRCeU9WYmpjaThVakpWa2xtakZCRnhYMW45alIzc2xLQTdVNlA2Z3ZQNlU3VjBsc0FCeXpxZU1JdEVUemlTVTNuSVZ6NjRUNHppTThSOGVCVV8yenJROEVuOHc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T01:55:00+08:00"
-    },
-    {
-      "title": "US launches more strikes on Iran as state media reports explosions",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T01:54:01+08:00"
-    },
-    {
-      "title": "Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T01:45:13+08:00"
-    },
-    {
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
-      "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T01:29:07+08:00"
+      "time": "2026-09-02T01:35:00+08:00"
     },
     {
       "title": "Ex-NFL QB, CBS Sports analyst Tony Romo pleads no contest to OWI - ESPN",
@@ -107,22 +119,10 @@
       "time": "2026-09-02T01:10:00+08:00"
     },
     {
-      "title": "U.S. strikes Iran after new Hormuz Strait shipping attacks: Centcom - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNjUwUGpOMFFlalYxaTlwbnhqbVdOZzh3RDAwWjVaX1FuUEZmMS1tN0tsa1h2MGxLQ19PSkJ4SE9EUE5Ga2J3UWFnTWNCbF80SmRyS3h0SHVKRDh2MlYwUjd2cGtTUHhUeXVoYzBsV0F1Y2FqdXJuQTl5dWVkaGlEa2wtLTB3ZUk2dExwZmhScUJ5MTRvWVF5eHBiRzFtbl9KUTBF0gGoAUFVX3lxTFBRTGtWUGhNNDUxdDhxRWlBSEtfVC1YelBjbGw0S2R3dWI1ekJGUHgxUHJIOXhvOTVZSFBld0p2czZWUnZLcVNkZHROQUpoSFNFYWlUN0Q4ekN5SGwxanIzU3lkWXd1YnN0S2NDZHI1Sk1GZkQtWVh6bGhlNUhlWnA1MnZoNTFxVWF0NmZaNThQd1B1MGtVeVV2cHBGdFF0ODVRSG12dGtxMA?oc=5",
+      "title": "U.S. military conducting fresh strikes in the Strait of Hormuz - Axios",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14emhLdERqMDNXajliUVR1S29GSEZOUUhkTjBzNXR2TG91aWk0M2F4YnB5U0d1UzRMQ2RnM1pYd1Jlc3VLUDdpNlctejloOVN4aC12NndlbFBjWjdQYkg3QThxZW9PQW9ZdlZJWjk0WG51OUww?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T00:54:16+08:00"
-    },
-    {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T00:53:40+08:00"
-    },
-    {
-      "title": "‘Stop doing memes’: Carney urges US to drop theatrics - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXlfcVd5SV9JcGFmNWVaX1FMMDFrZUZ6dW5EdUp3SUlsRXQzY2xNYlFFSHpGZjRxeGFhai05bFJ2NEZjVHBPUGk1MzNScGJMVUJfb1Y5cFJTQXpqUGpOUTRuUVdjUHNUZFE5Q2dtQXVubDh5blc5QmFoMHo4NFhvbERzcVZUQXh0Z2w2aHNwZUdWVUlZbkFXNEVFYnktU25Fd1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:45:00+08:00"
+      "time": "2026-09-02T00:50:43+08:00"
     },
     {
       "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
@@ -131,7 +131,7 @@
       "time": "2026-09-02T00:36:42+08:00"
     },
     {
-      "title": "Gold prices remain down as U.S. JOLTS highlight ongoing weakness in labor market - kitco.com",
+      "title": "Gold prices remain down as U.S. JOLTS highlight ongoing weakness in labor market - KITCO",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSkllTVVrUEVZXzdDWUNNODNkVjE1TDA2TTVmLUVYUDZCX0lMY2J0ZTlZN1lVaGd0TUhqX2EzVi1VU2lVOEhvdV9tWklqWm9oMERYRFl0SGJPMGFHeDk0d3BqTjFIMTUxR21GSFF0X196emhtNWFnOFZMbXl3dHhDdXJHeGhiUWo4Y3Y3YjREZWMzZWJwa21kY1ZINjN2ZlN1bE9YdXpRcm1udE5CS2NLdXAxeFpSM09oYmc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T00:36:16+08:00"
@@ -149,28 +149,28 @@
       "time": "2026-09-02T00:33:29+08:00"
     },
     {
-      "title": "Germany accuses Russia of drone attack on Leipzig airport - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakFNUE0yV1ZxMjAyalhrejhwSzEyMXl3SGtjcENTVlRNQ2RoZ2VyeWU0bzBwMWNfcmw4WW9PMTRmYVBmNnMxT3FicWVaOU9TSTZNVmtRa3ZyYkw5RlE4OF9aMWw3bVZTS1lnT19rYkp0NnlFcHpjWmhnNGY1T0U1LThkTXlmSXBqNGFkZ0VCU25wREVPVWJ6Y2w0amFBZ9IBowFBVV95cUxQSnROWDl2dmc1eEUzd21oSnp3dThKdWo2QWJKOGZmTXpFZmZRaTF5OG05UGtXeWkwVkZMYm5KbHBvS3E3ZEMyejJlQ2FKNm1xMlBxYkgtbldVdkZoZVVnd2VhTG9jZFlrWnZSd2lrX3lBRG5qOGlhcGdnR2VnSllGbkctbzFpNUVDWDNTdHR0WTh6YnBPZThaWXZZbzRnbnVpQ0V3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:28:28+08:00"
-    },
-    {
       "title": "Naomi Osaka pays tribute to NBA star Allen Iverson in basketball-themed US Open outfit - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOODBtWWxQN1RLM1NYOEtSYng3YV9UakJHU1hMTlhaZ3Y2YzI0RWhTS29SanpxSmh2a0pPbnF1RkFNWnRfNE9WVThSRlNyLS1ZT3BxemdRV0FFbjVqLTdLeGhObC1CZEpURkRrSXlGbkJTVkR5TXF4d01QREIyekFWWEI2a0otZGZGd2M5Z040WQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T00:28:00+08:00"
     },
     {
-      "title": "Stock Market Today: Nasdaq, Dow Fall as Bond Selloff Intensifies — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcl9Ibkp4OTFIVzB6WGMzSUlxRi11RXUtSHY5X2l4WFRPRHVNVGZ3WFNSWDgwY3MxY1NnUDN6aUxmMW5wcURwdnNlYXVrbXlFOFZRWFZPdzlhb0NTZWloWlNvQ0FDZjJlN3BKcXhZSDJUYTQ4OFB1THRQZDk2UnlxUnlWQ05zRjQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T00:25:00+08:00"
-    },
-    {
       "title": "Jonathan Bailey Exits ‘Sunday in the Park With George’ After Ariana Grande Bows Out - Variety",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaUJnZVhBdWNhWGJmOEFoczVXRGN5R1JsRU85ZEdRV0JfNjlEY2xvOGJLTmRWQTNWU05nUzc2OE5nZFh4dGQ2SWQtZlIwVGxKN0JOUW00SzZpd2RHV1NOeFJpZmhGLXFObFNsdEU1RlNEelJVcm80M3p1WmdoRXplOUs0S3QwWGdyUm45anN5X0tpS3QxRnNrTW44Z1J1TlJaTVRISjhsaGUxalNVUGE0VQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T00:21:00+08:00"
+    },
+    {
+      "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/cg49590v6k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T00:11:18+08:00"
+    },
+    {
+      "title": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3FmOWxOTDFkbS1Wa0NNUXFsc0VLd050blQtdEk4UUNBUkZOOEQ3VDB1dXF0T08yODdtUnhvRldWWXdvYWJ6MmVEUFZTaHdndlhWNjM0RUFObk9jczVybTJBbm5iZnhCTXV5MWtaMVltOUJVbDk5dU5rZGFEX0Z5OE8tSU0wTTRj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T00:09:41+08:00"
     }
   ]
 }

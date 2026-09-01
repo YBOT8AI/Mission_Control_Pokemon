@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T03:00:59.063374+08:00",
+  "generatedAt": "2026-09-02T03:32:04.719934+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -58,16 +58,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "4e50f2a",
-          "message": "docs: monthly market research — September 2026",
+          "sha": "b65898d",
+          "message": "chore: remove unused unlaunchedCount() from lib/launch.ts",
           "author": "evilmoni",
-          "time": "2026-09-01T10:16:41+08:00"
+          "time": "2026-09-02T03:08:48+08:00"
         },
-        "commits30d": 67,
-        "totalCommits": 133,
+        "commits30d": 68,
+        "totalCommits": 134,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -77,13 +77,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Push commits to remote"
         ]
       },
       "url": "kinkin.vercel.app"
@@ -100,16 +102,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "2327f4d",
-          "message": "chore: update changelog for 2026-09-01",
+          "sha": "9682d78",
+          "message": "chore: remove unused imports (Calendar, Footer x2) from public pages",
           "author": "evilmoni",
-          "time": "2026-09-01T23:01:18+08:00"
+          "time": "2026-09-02T03:14:07+08:00"
         },
-        "commits30d": 65,
-        "totalCommits": 163,
+        "commits30d": 66,
+        "totalCommits": 164,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -119,11 +121,14 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 100,
+        "score": 90,
         "label": "healthy",
-        "issues": [],
+        "issues": [
+          "1 commits not pushed"
+        ],
         "actions": [
-          "Run 6 test files via `jest`"
+          "Run 6 test files via `jest`",
+          "Push commits to remote"
         ]
       },
       "focus": "Financial Tech"
@@ -134,22 +139,22 @@
       "pokemon": "Kadabra",
       "pokemonId": 64,
       "status": "deploying",
-      "progress": 90,
+      "progress": 95,
       "repo": "evilmoni/TechWealth-Tracker-Pro",
       "priority": "high",
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "c26a98d",
-          "message": "chore: remove unused listCustomerSales/listCustomerDeals from lib/db",
+          "sha": "d55fbe1",
+          "message": "chore: remove unused useI18n/Link imports from invoice & customer pages",
           "author": "ybot",
-          "time": "2026-09-01T07:16:21+08:00"
+          "time": "2026-09-02T03:12:57+08:00"
         },
-        "commits30d": 9,
-        "totalCommits": 15,
+        "commits30d": 10,
+        "totalCommits": 16,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -159,13 +164,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Push commits to remote"
         ]
       }
     },
@@ -259,8 +266,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:55:14.001486+08:00",
-        "next_run": "2026-09-02T03:25:14.001486+08:00"
+        "last_run": "2026-09-02T03:26:18.022294+08:00",
+        "next_run": "2026-09-02T03:56:18.022294+08:00"
       },
       {
         "id": "539a150ac028",
@@ -277,8 +284,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:30:00.505556+08:00",
-        "next_run": "2026-09-02T03:30:04.647694+08:00"
+        "last_run": "2026-09-02T03:01:06.563065+08:00",
+        "next_run": "2026-09-02T04:01:10.083382+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -286,8 +293,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:43:02.625749+08:00",
-        "next_run": "2026-09-02T03:13:02.625749+08:00"
+        "last_run": "2026-09-02T03:13:07.681803+08:00",
+        "next_run": "2026-09-02T03:43:07.681803+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -295,8 +302,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:53:03.641631+08:00",
-        "next_run": "2026-09-02T03:03:03.641631+08:00"
+        "last_run": "2026-09-02T03:23:08.860699+08:00",
+        "next_run": "2026-09-02T03:33:08.860699+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -304,8 +311,8 @@
         "name": "DB Maintenance",
         "schedule": "15 3 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-01T03:15:27.607701+08:00",
-        "next_run": "2026-09-02T03:15:00+08:00"
+        "last_run": "2026-09-02T03:15:14.338666+08:00",
+        "next_run": "2026-09-03T03:15:00+08:00"
       },
       {
         "id": "9451057f9c1f",
@@ -331,8 +338,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:59:04.791819+08:00",
-        "next_run": "2026-09-02T03:14:04.791819+08:00"
+        "last_run": "2026-09-02T03:29:10.111144+08:00",
+        "next_run": "2026-09-02T03:44:10.111144+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -538,7 +545,7 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:01:10.113729+08:00",
+        "last_run": "2026-09-02T03:00:23.750380+08:00",
         "next_run": "2026-09-02T04:00:00+08:00"
       },
       {
@@ -547,7 +554,7 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:02:12.181541+08:00",
+        "last_run": "2026-09-02T03:00:39.059541+08:00",
         "next_run": "2026-09-02T08:00:00+08:00"
       },
       {
@@ -637,7 +644,7 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:01:45.019415+08:00",
+        "last_run": "2026-09-02T03:14:18.337191+08:00",
         "next_run": "2026-09-02T04:00:00+08:00"
       },
       {
@@ -754,7 +761,7 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-02T02:01:13.335338+08:00",
+        "last_run": "2026-09-02T03:00:19.709966+08:00",
         "next_run": "2026-09-02T04:00:00+08:00"
       }
     ],
@@ -780,47 +787,47 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "409Gi",
-    "uptime": "6:19",
+    "uptime": "6:50",
     "cpu": {
       "loadAvg": [
-        1.26,
-        1.21,
-        1.16
+        1.06,
+        1.15,
+        1.3
       ],
       "usage": "11.8%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 36.0
+      "usedPct": 36.2
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "4.9",
+        "cpu": "4.4",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.9",
+        "cpu": "3.0",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "3.3",
-        "mem": "1.8",
-        "name": "python"
-      },
-      {
-        "cpu": "1.0",
-        "mem": "2.9",
-        "name": "Telegram"
-      },
-      {
         "cpu": "0.8",
+        "mem": "0.0",
+        "name": "notifyd"
+      },
+      {
+        "cpu": "0.7",
         "mem": "0.1",
         "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.5",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -919,16 +926,22 @@
       {
         "day": "Mon Aug 31",
         "run": "✅ 5km",
-        "pushups": "3️⃣0️⃣",
-        "notes": "30/100 push-ups"
+        "pushups": "✅ 100",
+        "notes": "Completed ✅"
+      },
+      {
+        "day": "**Tue Sep 1**",
+        "run": "✅ 5km",
+        "pushups": "✅ 100",
+        "notes": "**Completed ✅**"
       }
     ],
     "stats": {
-      "daysLogged": 15,
-      "runsCompleted": 13,
-      "pushupsCompleted": 14,
-      "totalDays": 15,
-      "currentStreak": 1
+      "daysLogged": 16,
+      "runsCompleted": 14,
+      "pushupsCompleted": 16,
+      "totalDays": 16,
+      "currentStreak": 2
     }
   },
   "subAgents": [
@@ -1514,37 +1527,37 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-02T03:00:58.818970+08:00",
+    "generatedAt": "2026-09-02T03:32:04.512671+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 24.5,
+          "temp": 24.2,
           "code": 3,
           "precip": 0.0,
           "wind": 16.5,
-          "time": "2026-09-02T03:00"
+          "time": "2026-09-02T03:30"
         },
         "daily": [
           {
             "date": "2026-09-02",
             "code": 51,
-            "max": 31.6,
-            "min": 24.1,
+            "max": 30.6,
+            "min": 23.9,
             "rainPct": 67
           },
           {
             "date": "2026-09-03",
             "code": 51,
-            "max": 30.8,
-            "min": 24.0,
+            "max": 30.5,
+            "min": 23.8,
             "rainPct": 39
           },
           {
             "date": "2026-09-04",
-            "code": 95,
-            "max": 27.0,
-            "min": 23.2,
+            "code": 80,
+            "max": 28.0,
+            "min": 23.4,
             "rainPct": 53
           }
         ]
@@ -1552,32 +1565,32 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 24.6,
+          "temp": 23.8,
           "code": 3,
           "precip": 0.0,
-          "wind": 12.6,
-          "time": "2026-09-02T03:00"
+          "wind": 13.2,
+          "time": "2026-09-02T03:30"
         },
         "daily": [
           {
             "date": "2026-09-02",
-            "code": 95,
-            "max": 30.9,
-            "min": 23.7,
+            "code": 53,
+            "max": 30.1,
+            "min": 23.3,
             "rainPct": 71
           },
           {
             "date": "2026-09-03",
             "code": 51,
             "max": 30.3,
-            "min": 23.8,
+            "min": 23.4,
             "rainPct": 47
           },
           {
             "date": "2026-09-04",
-            "code": 63,
-            "max": 26.3,
-            "min": 23.2,
+            "code": 81,
+            "max": 27.4,
+            "min": 22.7,
             "rainPct": 53
           }
         ]
@@ -1592,32 +1605,32 @@
   },
   "activity": [
     {
-      "time": "2026-09-02T03:00:59.063267+08:00",
+      "time": "2026-09-02T03:32:04.719788+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-02T03:00:59.063267+08:00",
+      "time": "2026-09-02T03:32:04.719788+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
     {
-      "time": "2026-09-01T23:01:18+08:00",
+      "time": "2026-09-02T03:14:07+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: update changelog for 2026-09-01",
+      "text": "💼 TechWealth: chore: remove unused imports (Calendar, Footer x2) from public pages",
       "project": "techwealth"
     },
     {
-      "time": "2026-09-01T10:16:41+08:00",
+      "time": "2026-09-02T03:12:57+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: docs: monthly market research — September 2026",
-      "project": "kinkin"
+      "text": "📊 TechWealth Tracker Pro: chore: remove unused useI18n/Link imports from invoice & customer pages",
+      "project": "techwealthTracker"
     },
     {
-      "time": "2026-09-01T07:16:21+08:00",
+      "time": "2026-09-02T03:08:48+08:00",
       "type": "success",
-      "text": "📊 TechWealth Tracker Pro: chore: remove unused listCustomerSales/listCustomerDeals from lib/db",
-      "project": "techwealthTracker"
+      "text": "🚀 KINKIN: chore: remove unused unlaunchedCount() from lib/launch.ts",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-31T18:10:05+08:00",
@@ -1636,6 +1649,6 @@
     "totalProjects": 6,
     "totalCronJobs": 56,
     "healthyCronJobs": 39,
-    "avgProgress": 69
+    "avgProgress": 70
   }
 }
