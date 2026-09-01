@@ -1,57 +1,81 @@
 {
-  "generatedAt": "2026-09-01T23:53:27.829921+08:00",
+  "generatedAt": "2026-09-02T00:24:29.823068+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611676.8,
-      "changePct": -0.77
+      "priceHkd": 607709.76,
+      "changePct": -1.39
     },
     "ETH": {
-      "priceHkd": 19207.14,
-      "changePct": -0.92
+      "priceHkd": 19053.47,
+      "changePct": -1.42
     },
     "SOL": {
-      "priceHkd": 801.48,
-      "changePct": -0.83
+      "priceHkd": 793.72,
+      "changePct": -1.31
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5509.3,
-      "changePct": -0.31
+      "priceHkd": 5497.64,
+      "changePct": -0.52
     },
     "SPX": {
-      "priceHkd": 60067.89,
-      "changePct": -0.32
+      "priceHkd": 59939.07,
+      "changePct": -0.53
     },
     "SPCX": {
-      "priceHkd": 1136.16,
-      "changePct": 0.86
+      "priceHkd": 1121.9,
+      "changePct": -0.41
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1102.01,
-      "priceUsdOz": 4372.0
+      "priceHkdPerGram": 1098.69,
+      "priceUsdOz": 4358.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.48,
-      "priceUsdOz": 65.37
+      "priceHkdPerGram": 16.42,
+      "priceUsdOz": 65.12
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 691.02,
-      "changePct": 2.78
+      "priceHkd": 696.98,
+      "changePct": 3.66
     },
     "Natural Gas": {
-      "priceHkd": 22.69,
-      "changePct": -1.4
+      "priceHkd": 22.7,
+      "changePct": -1.36
     }
   },
   "news": [
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T00:13:48+08:00"
+    },
+    {
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "link": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T00:13:03+08:00"
+    },
+    {
+      "title": "'I have fired 40 of my agents for being corrupt', says Nigeria's anti-corruption chief",
+      "link": "https://www.bbc.co.uk/news/articles/c9863817xzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T23:57:18+08:00"
+    },
+    {
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-01T23:54:09+08:00"
+    },
     {
       "title": "Swinney to cut number of health boards from 14 to two",
       "link": "https://www.bbc.co.uk/news/articles/c9dw5x611gpo?at_medium=RSS&at_campaign=rss",
@@ -59,10 +83,10 @@
       "time": "2026-09-01T23:52:53+08:00"
     },
     {
-      "title": "Germany says Russia behind Leipzig airport drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "title": "Vance calls Michigan Senate candidate El-Sayed 'evil' at campaign rally",
+      "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-01T23:50:46+08:00"
+      "time": "2026-09-01T23:51:40+08:00"
     },
     {
       "title": "Woman killed in Times Square stabbing, suspect shot dead by police",
@@ -83,10 +107,10 @@
       "time": "2026-09-01T23:43:38+08:00"
     },
     {
-      "title": "Residents of Ontario, N.Y., backed Trump. He ordered a change to the town’s namesake. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOHNkazVIeVNsb0o1NjZxaGRqMVlUb29tQXd3amdDSi16a25LZzY3R0tNRGpvZjU2M2J6OG45UGlTY3EyWktyR3VZWmVVSWQxTi1OS2VPTVAtcmVEZlYtdGFienNFZkdxR2VkQXhsMVZ4ZGZuMjVEM1JDbDlJdm9TWkZCTjNEMGVDbmh3STZ4QzhlR05YUVBUWjh1eG40MFl4ZHNCRTZsTEJqSkRKS21INnRucTVPOThQVHpvY0hoVGhseEEtYTBwTw?oc=5",
+      "title": "Majority of Americans oppose Trump's new Canada tariffs, renaming Lake Ontario, Reuters/Ipsos poll finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzZSUnIyajNpWUhlZTh5VFpoWk4tTTFuTEdRSXQtS18ySkZ4WUFvakh1bEt3Ul9ocllWbzFqdS0xRUFRMlZZWTQwLXI1SFdQQ2Q0ZWw5ZWxpUW1hX2NqVlRtOXJ3amhlX3VtWW82aS1QMG51LUphdVVTV21QX0FXaTRfVmwtZFRFUXA3OEJaZ1RNSktfY1VaUTN5VFd1bnBJX2ZPaUhVb1duR0lGT3lGczFRT0NrVEN0Vmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T23:36:48+08:00"
+      "time": "2026-09-01T23:36:57+08:00"
     },
     {
       "title": "Sexual assaults happening almost every day in Ceuta, prosecutors say",
@@ -107,28 +131,34 @@
       "time": "2026-09-01T23:15:57+08:00"
     },
     {
-      "title": "Lindsay Clancy jurors are deadlocked, judge sends them back for more deliberations - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkM4T19SU29UamQ2OFE3R2FkRXZzMlpVWERTYkJQbko1RHcyQVhqTFlpR0JaMzE2TERPQi1jdlROUHJvN19XZk5YU21pYjI5Q1dSTXhLTUhJYTY1VFZzNUVWUmppTi1hcHJSXzhKZGhsSlpodEtwOUZ6bEd4QjdMOU16ZUZhTjNOb0FDWnZnUlhpLVNuQ0llSkV1VVJEUWkzRkQwUzQyQ3daOTdiUzFOcWc3aWQ?oc=5",
+      "title": "How the Pentagon Is Getting Into the Venezuelan Oil Business Under Trump - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5weXFVbGRSZ2NxRWk5QVNsOURLNjFOT3lZNzBYTm5CdVVySU5BT0lMaUFqbWhJVVdJTHl0WXFrRkxxaWhXeHZkdFV2TGpONnFnWlFGU2xzVU1JbHJyS3daSk9VMGFKZnB6Wk1TdGJucHJ0YVBRZnR4YVN3ZTN1YkU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T23:14:54+08:00"
+      "time": "2026-09-01T22:50:00+08:00"
     },
     {
-      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
-      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-01T23:02:16+08:00"
-    },
-    {
-      "title": "Tropical Storm Edouard could reach hurricane strength as it approaches Texas and Louisiana - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhfenVoMUN6dnRmLWZVQ2c5bkZKQTBRRG9XRjEyOHZSTVp1MVlTMTh2bkRzdGRvZXRIbUJGeFhYbjBkcDZXNVgwa2lXZExTREI2VWJ4dzc4aHhIYkRzNFFrMVMzZGFhdTZqR29IVE04cURuM2xlQ1ZOR2NnMk5Hd09Bbk84SS1vWHY2bmo4QkZLc19rTnBQeUxDcUQ2TDlOTlBkLVVqbkZlVXZYbEJZ?oc=5",
+      "title": "Jury in Lindsay Clancy trial unable to reach unanimous verdict but will keep deliberating - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIU09jcmJGTkJTaW1SaWFVaEtmQkVrSy1CTkV1RjdMRzhjdXIxZkl3NXp2a3hPTTlFcF9ERXBzYnBhLUVWWFhadzRnQWpUVjN1SUw5MDJ3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T23:01:00+08:00"
+      "time": "2026-09-01T22:45:08+08:00"
     },
     {
-      "title": "Mark Ruffalo Defended by Hannah Einbinder, Joel Coen and More Than 170 Jewish Figures After Paramount Accuses Him of Using ‘Antisemitic Tropes’ — Read the Open Letter (EXCLUSIVE) - variety.com",
+      "title": "‘Wimp’ particle offers clue to identity of dark matter - ft.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXk0TVVFV3J1ZzZ3NlhmS1ZLUkM1VzlIcnlmZ09DOGJNbU9wNk8wdlQ2NFdxVmJhNFFfaXVRRk14bFNCODJNSFloeGFOekRudkNRVG9Yb1N4NXFsSktxYmVYeHhTQ3o5WjZUdGdGMnRNZTdhN2lwQjJwckQ2Vk5tanlVdHM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T22:33:16+08:00"
+    },
+    {
+      "title": "Mark Ruffalo Defended by Hannah Einbinder, Joel Coen and More Than 170 Jewish Figures After Paramount Accuses Him of Using ‘Antisemitic Tropes’ — Read the Open Letter (EXCLUSIVE) - Variety",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQjlRRWxXWVRlR0dZOW5senZoemRITG05ME5OZ3Fva3h6d242QkRjOWw1aGRmZFFheEFRNGtXSHNMd1RlX183WGFmNjZSTlpCd1NlcmU4ay1mYi0temEtSlJmLVMtUHROMXd5RHR5bkVTUEZTR0w3ejFwSVhjMjk3cGphSnNITEpWLXREVS0xNDFpRkl1c2lwUHA1VE95U2NRNHNwbUdn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T22:30:00+08:00"
+    },
+    {
+      "title": "Whistleblower warns Postal Service's new mail ballot system has \"potentially catastrophic problems\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0t1LVplUHk3STV2VWs2SlRZUF90SWpvMUtTamJCUzVHSFFUSGJSWDh5cVFCVks0U2JpeGRldlV2eDRvU3FmbHNnNEx6ZTJmNUZWc2JzaG9tQ29BTGVDTW9WWXFjN25TV2xGX3B6VWVKSGVwN1hROEJmaXRSQXlkakwtbzd4Ym9I?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T22:19:57+08:00"
     },
     {
       "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
@@ -137,40 +167,10 @@
       "time": "2026-09-01T22:19:47+08:00"
     },
     {
-      "title": "Microsoft Outlook Outage Appears Mostly Resolved - CNET",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQUl2YW1tRkRvY3hKNW5SUDNONERVYmVuQXUwR2JSS0dSVk1IcGdnU19zU1RmeHhqUUJ5ODJacE1RLTEzSEpUSFRmaV9oUFZ3WUtMSFZZTnJTSDljVF9Uanc0bVd0QnAzRU1ockVGY2RoX1YwUDIyc19kZE1HaHR2NldTc0U3LUk?oc=5",
+      "title": "The labor market was little changed in July, with hiring and layoffs both inching lower - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNejg2YVA2X0RITElCVXhCVU5LSW9wSVNnOEduSHFqMFBWZTluR25zUUI4eVAxSGJ2ekh4UEQwSWZPVlJKQXNONk16dk80Q0JlX1Fzd3NHTXJYNExpRHV2M0hvVHI1UDhyU3V6VUZfcnAwZG5WZDBMc2ExY0JTa1hjdlFSTkJFWFhmNERJQ1JGS05tUlptdXpnenZrMHVVakF2QkVGdnlfWWR0YUtWdGIxVXNOQmVJUEF3R0xtYzZFY1RYczZCWXlkVF9MS2ZDZXVZM3BtYTNiNVlXY3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T22:18:06+08:00"
-    },
-    {
-      "title": "Scientists Hunting Dark Matter Found Something Strange - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzUFY1ejVRTlBIUE9odU9saWtVSWJHM0Ztc0JXOENXVzR5UmRiRTZqU1JzTEZGQm5YQnQ1Q2hDQUltSlpsekpZNEYxejVmNWtITjNyYnYyTlA4amlROWRpNUVCNmR2QWRXQ0lJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T22:17:50+08:00"
-    },
-    {
-      "title": "Norway's new king takes oath as mourners pay respects to his late father",
-      "link": "https://www.bbc.co.uk/news/videos/ceq8945e71ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T22:06:58+08:00"
-    },
-    {
-      "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T22:01:45+08:00"
-    },
-    {
-      "title": "Iran is again talking peace after Trump's warning of retaliation, consequences - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUlENTlQdV9BcnM2RGVSajVRRVhCVTJRQUFIS1ltdmNjWHVBczlVa3o1ZFpNa2dMemNkdUxma2ZYYmVMYTV0VWptYUxLX2dKblp3cG9VZENaZmgyMTFXT294MjdEQ204a0NheDdMY011dDRDWndpaDQyajdrRzdYUUxWVXlURVp6Z01iWWstM2hKdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T22:01:15+08:00"
-    },
-    {
-      "title": "Here are iPhone 18 Pro’s new colors, says leaker - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSlJmekdiam93UU9LMXVRSXZqZEViVFdzRldSVnE2d1pFTENfbkJHVzVmLXFUUmxVc1NTcTFnT0RlNDdBZThrLVd2eVZaOHN3amdjMTlQWGtnOVpyTU9iMFhzelBxSjR3SEJFRnYxNldHNDFZeGJ4bUNLa05CazNJemktV04?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T21:45:00+08:00"
+      "time": "2026-09-01T22:19:22+08:00"
     }
   ]
 }
