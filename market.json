@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-01T20:44:26.899882+08:00",
+  "generatedAt": "2026-09-01T21:15:57.805786+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610391.04,
-      "changePct": 0.0
+      "priceHkd": 609818.72,
+      "changePct": -0.36
     },
     "ETH": {
-      "priceHkd": 19154.53,
-      "changePct": -0.29
+      "priceHkd": 19133.05,
+      "changePct": -0.52
     },
     "SOL": {
-      "priceHkd": 797.48,
-      "changePct": -1.04
+      "priceHkd": 798.27,
+      "changePct": -0.99
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1099.14,
-      "priceUsdOz": 4360.6
+      "priceHkdPerGram": 1091.98,
+      "priceUsdOz": 4332.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.36,
-      "priceUsdOz": 64.9
+      "priceHkdPerGram": 16.24,
+      "priceUsdOz": 64.44
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 689.29,
-      "changePct": 2.52
+      "priceHkd": 691.25,
+      "changePct": 2.81
     },
     "Natural Gas": {
-      "priceHkd": 22.53,
-      "changePct": -2.08
+      "priceHkd": 22.47,
+      "changePct": -2.35
     }
   },
   "news": [
+    {
+      "title": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-01T20:58:44+08:00"
+    },
     {
       "title": "Zambia's president sworn in for second term while opponent detained",
       "link": "https://www.bbc.co.uk/news/articles/c62m7vp5895o?at_medium=RSS&at_campaign=rss",
@@ -75,6 +81,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-01T20:11:13+08:00"
+    },
+    {
+      "title": "Improvised explosive devices found near German power plant, police say - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX1R2aW5QdmR6MkE0YVpyVXh5THN0Vm5qUWJxa3NjUXl2RHppdFNuOXo4RU9NM2RXUloxeFhLS29nUXhHYUhaUmI4NWdBMks1c2VpNlN5UWZIc1BsMDlvZ014TDhVbURtYjlrNmxxeVZBTl9ERnB6LVhlRkJmZGxrR05Fa3RXbnctdmlPQURzekw4S3VwM2ZmR2RNWlpFVWJpUXR1d01GOGsxaFpsMU53QllIODRoSlBMalpJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T20:05:57+08:00"
     },
     {
       "title": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
@@ -101,10 +113,16 @@
       "time": "2026-09-01T19:37:00+08:00"
     },
     {
-      "title": "MLB playoff tracker 2026: Clinching scenarios, bracket, schedule - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUG8yZm12cU0xNlRGbGU0Z05vMUNkT3pFNlVPQmVyOXlJY05yVnBscEhmMDVHS2RrTjlwako1TlQ3VGhjeHpVY1JuRXUtYXk4elFEb2dma3djTzRLUEhVbXEzRVZLQUhCVmRpay1LbGpSNU5PN2VRUHlXSzUteFNqUmh4SGxJbWhTYWM2Q0JkNGFfM1RHYWducGZJMmktMUNBZFh2bG1PYTRUSXZJS1dTQTZKdl8?oc=5",
+      "title": "Whistleblower warns Postal Service's new mail ballot system has \"potentially catastrophic problems\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0t1LVplUHk3STV2VWs2SlRZUF90SWpvMUtTamJCUzVHSFFUSGJSWDh5cVFCVks0U2JpeGRldlV2eDRvU3FmbHNnNEx6ZTJmNUZWc2JzaG9tQ29BTGVDTW9WWXFjN25TV2xGX3B6VWVKSGVwN1hROEJmaXRSQXlkakwtbzd4Ym9I?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-01T19:00:00+08:00"
+      "time": "2026-09-01T19:16:42+08:00"
+    },
+    {
+      "title": "Iran is again talking peace after Trump's warning of retaliation, consequences - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSUlENTlQdV9BcnM2RGVSajVRRVhCVTJRQUFIS1ltdmNjWHVBczlVa3o1ZFpNa2dMemNkdUxma2ZYYmVMYTV0VWptYUxLX2dKblp3cG9VZENaZmgyMTFXT294MjdEQ204a0NheDdMY011dDRDWndpaDQyajdrRzdYUUxWVXlURVp6Z01iWWstM2hKdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T19:02:33+08:00"
     },
     {
       "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying. - The New York Times",
@@ -125,22 +143,10 @@
       "time": "2026-09-01T18:46:25+08:00"
     },
     {
-      "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial - bbc.com",
+      "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53dlNGUGJ6NGNLWklCLVI0SHgtcnpDeXhyNkFpVDBDRkRUMG9SMjJLbGRWcjE3WWE3cldKSk9vNjZVV2tpYVktUEk2ZHBhSndhWVdtT0puMjlDQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-01T18:46:25+08:00"
-    },
-    {
-      "title": "Israeli fire kills three in Gaza City during reported raid, medics say",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T18:40:55+08:00"
-    },
-    {
-      "title": "Supreme Court allows Trump's ballroom construction to proceed - Axios",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHV2bE41bWVCVmI4M3ZseE1SOVluQ2hmZ0FESm50MXFWcHhwQkQ3bDJBT1ZvZTlNdUczX2JCZUYxRG5KZFc4cEpjX0l0R3hiVFluVkhmT3VLcjBqdmQ1UGYyTGR3VGNMeFNTbUh5TGhjdVkwRWRnRDJ6UDFrdTNYSDA4SHVDWXI1WWZfelBVbXppT00?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-01T18:39:47+08:00"
     },
     {
       "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
@@ -161,16 +167,10 @@
       "time": "2026-09-01T18:26:50+08:00"
     },
     {
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-01T18:18:47+08:00"
-    },
-    {
-      "title": "Shein valued at $26bn after long-awaited stock market debut",
-      "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-01T18:01:26+08:00"
+      "title": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-01T18:24:36+08:00"
     }
   ]
 }

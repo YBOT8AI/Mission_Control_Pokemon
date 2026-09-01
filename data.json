@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:44:26.816502+08:00",
+  "generatedAt": "2026-09-01T21:15:57.726938+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -25,7 +25,7 @@
         "totalCommits": 12,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -35,15 +35,13 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 65,
+        "score": 75,
         "label": "attention",
         "issues": [
-          "Test script configured (hardhat) but 0 test files",
-          "3 commits not pushed"
+          "Test script configured (hardhat) but 0 test files"
         ],
         "actions": [
-          "Write first hardhat test file",
-          "Push commits to remote"
+          "Write first hardhat test file"
         ]
       },
       "phase": "1 - Fine Arts"
@@ -102,16 +100,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "ef1b52b",
-          "message": "chore: remove unused actingAdminId from lib/admin-auth.ts",
+          "sha": "d7b55ea",
+          "message": "docs: correct CIES figures to official InvestHK numbers (3,166 apps / HK$95B) + ",
           "author": "evilmoni",
-          "time": "2026-09-01T07:16:21+08:00"
+          "time": "2026-09-01T20:58:52+08:00"
         },
-        "commits30d": 63,
-        "totalCommits": 161,
+        "commits30d": 64,
+        "totalCommits": 162,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -121,14 +119,11 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 90,
+        "score": 100,
         "label": "healthy",
-        "issues": [
-          "1 commits not pushed"
-        ],
+        "issues": [],
         "actions": [
-          "Run 6 test files via `jest`",
-          "Push commits to remote"
+          "Run 6 test files via `jest`"
         ]
       },
       "focus": "Financial Tech"
@@ -154,7 +149,7 @@
         "totalCommits": 15,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -164,15 +159,13 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 65,
+        "score": 75,
         "label": "attention",
         "issues": [
-          "No test suite",
-          "3 commits not pushed"
+          "No test suite"
         ],
         "actions": [
-          "Set up test framework & write first smoke test",
-          "Push commits to remote"
+          "Set up test framework & write first smoke test"
         ]
       }
     },
@@ -197,7 +190,7 @@
         "totalCommits": 41,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -207,15 +200,13 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 65,
+        "score": 75,
         "label": "attention",
         "issues": [
-          "No test suite",
-          "1 commits not pushed"
+          "No test suite"
         ],
         "actions": [
-          "Set up test framework & write first smoke test",
-          "Push commits to remote"
+          "Set up test framework & write first smoke test"
         ]
       },
       "phase": "Option B - Full Build",
@@ -268,8 +259,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-01T20:42:17.052630+08:00",
-        "next_run": "2026-09-01T21:12:17.052630+08:00"
+        "last_run": "2026-09-01T21:13:17.980502+08:00",
+        "next_run": "2026-09-01T21:43:17.980502+08:00"
       },
       {
         "id": "539a150ac028",
@@ -286,8 +277,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-01T13:05:18.333818+08:00",
-        "next_run": "2026-09-01T21:12:01.993573+08:00"
+        "last_run": "2026-09-01T20:44:55.371911+08:00",
+        "next_run": "2026-09-01T21:45:09.030352+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -295,8 +286,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-01T20:42:03.789484+08:00",
-        "next_run": "2026-09-01T21:12:03.789484+08:00"
+        "last_run": "2026-09-01T21:12:08.995099+08:00",
+        "next_run": "2026-09-01T21:42:08.995099+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -304,8 +295,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-01T20:42:02.932931+08:00",
-        "next_run": "2026-09-01T20:52:02.932931+08:00"
+        "last_run": "2026-09-01T21:12:08.609175+08:00",
+        "next_run": "2026-09-01T21:22:08.609175+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -331,7 +322,7 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-01T12:01:35.379189+08:00",
+        "last_run": "2026-09-01T20:48:30.032282+08:00",
         "next_run": "2026-09-02T09:00:00+08:00"
       },
       {
@@ -340,8 +331,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-01T20:42:06.073140+08:00",
-        "next_run": "2026-09-01T20:57:06.073140+08:00"
+        "last_run": "2026-09-01T21:13:09.279497+08:00",
+        "next_run": "2026-09-01T21:28:09.279497+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -439,7 +430,7 @@
         "name": "Afternoon Briefing (3 PM)",
         "schedule": "0 15 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-31T15:01:29.339900+08:00",
+        "last_run": "2026-09-01T20:43:54.069614+08:00",
         "next_run": "2026-09-02T15:00:00+08:00"
       },
       {
@@ -448,8 +439,8 @@
         "name": "Evening Briefing (9 PM)",
         "schedule": "0 21 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-31T21:01:13.497698+08:00",
-        "next_run": "2026-09-01T21:00:00+08:00"
+        "last_run": "2026-09-01T21:00:59.366565+08:00",
+        "next_run": "2026-09-02T21:00:00+08:00"
       },
       {
         "id": "b00f8468d84c",
@@ -457,7 +448,7 @@
         "name": "TechWealth Daily Autonomous Workflow",
         "schedule": "0 14 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-08-31T14:04:00.321280+08:00",
+        "last_run": "2026-09-01T20:59:00.806610+08:00",
         "next_run": "2026-09-02T14:00:00+08:00"
       },
       {
@@ -538,7 +529,7 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-01T10:00:09.879088+08:00",
+        "last_run": "2026-09-01T20:42:26.908415+08:00",
         "next_run": "2026-09-02T10:00:00+08:00"
       },
       {
@@ -547,8 +538,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-01T13:00:29.675939+08:00",
-        "next_run": "2026-09-01T21:00:00+08:00"
+        "last_run": "2026-09-01T21:00:19.516925+08:00",
+        "next_run": "2026-09-01T22:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -556,8 +547,8 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-01T20:42:16.413269+08:00",
-        "next_run": "2026-09-01T21:00:00+08:00"
+        "last_run": "2026-09-01T21:00:12.571017+08:00",
+        "next_run": "2026-09-01T22:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -646,8 +637,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-01T12:01:02.794784+08:00",
-        "next_run": "2026-09-01T21:00:00+08:00"
+        "last_run": "2026-09-01T21:01:05.118428+08:00",
+        "next_run": "2026-09-01T22:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -717,8 +708,8 @@
         "enabled": true,
         "name": "Project Architecture Audit — Monthly",
         "schedule": "0 16 1-7 * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-01T20:49:17.960760+08:00",
         "next_run": "2026-09-02T16:00:00+08:00"
       },
       {
@@ -753,8 +744,8 @@
         "enabled": true,
         "name": "Daily Voice Summary — 7 PM",
         "schedule": "0 19 * * *",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-01T20:43:15.329360+08:00",
         "next_run": "2026-09-02T19:00:00+08:00"
       },
       {
@@ -763,12 +754,12 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-01T07:01:00.858502+08:00",
-        "next_run": "2026-09-01T21:00:00+08:00"
+        "last_run": "2026-09-01T21:00:22.365771+08:00",
+        "next_run": "2026-09-01T22:00:00+08:00"
       }
     ],
     "total": 56,
-    "healthy": 37
+    "healthy": 39
   },
   "agents": {
     "hermes": {
@@ -788,31 +779,26 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "410Gi",
-    "uptime": "1 min",
+    "diskAvail": "409Gi",
+    "uptime": "34 mins",
     "cpu": {
       "loadAvg": [
-        16.63,
-        7.1,
-        2.82
+        1.29,
+        1.32,
+        1.55
       ],
-      "usage": "13.2%"
+      "usage": "12.8%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 32.4
+      "usedPct": 35.8
     },
     "network": {
-      "localIp": "192.168.43.125"
+      "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "21.0",
-        "mem": "0.0",
-        "name": "mdsync"
-      },
-      {
-        "cpu": "4.6",
+        "cpu": "6.1",
         "mem": "0.1",
         "name": "python3"
       },
@@ -827,9 +813,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.6",
+        "cpu": "0.7",
         "mem": "0.1",
         "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.5",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1204,7 +1195,7 @@
       "type": "PushEvent",
       "actor": "evilmoni",
       "time": "2026-08-21T21:08:22Z",
-      "title": "f1c47d1",
+      "title": "Merge branch 'main' of github.com:WorldPaws/WorldPawsOrg_Web",
       "detail": "1 commit(s)"
     },
     {
@@ -1523,16 +1514,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-01T20:44:26.482287+08:00",
+    "generatedAt": "2026-09-01T21:15:57.488673+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 25.2,
+          "temp": 25.0,
           "code": 80,
-          "precip": 0.5,
-          "wind": 14.0,
-          "time": "2026-09-01T20:30"
+          "precip": 0.4,
+          "wind": 13.4,
+          "time": "2026-09-01T21:15"
         },
         "daily": [
           {
@@ -1561,11 +1552,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 25.4,
+          "temp": 25.3,
           "code": 55,
           "precip": 0.3,
-          "wind": 12.6,
-          "time": "2026-09-01T20:30"
+          "wind": 12.5,
+          "time": "2026-09-01T21:15"
         },
         "daily": [
           {
@@ -1601,26 +1592,26 @@
   },
   "activity": [
     {
-      "time": "2026-09-01T20:44:26.816355+08:00",
+      "time": "2026-09-01T21:15:57.726838+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-01T20:44:26.816355+08:00",
+      "time": "2026-09-01T21:15:57.726838+08:00",
       "type": "info",
-      "text": "⏰ Cron: 37/56 jobs healthy"
+      "text": "⏰ Cron: 39/56 jobs healthy"
+    },
+    {
+      "time": "2026-09-01T20:58:52+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: docs: correct CIES figures to official InvestHK numbers (3,166 apps / HK$95B) + ",
+      "project": "techwealth"
     },
     {
       "time": "2026-09-01T10:16:41+08:00",
       "type": "success",
       "text": "🚀 KINKIN: docs: monthly market research — September 2026",
       "project": "kinkin"
-    },
-    {
-      "time": "2026-09-01T07:16:21+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: chore: remove unused actingAdminId from lib/admin-auth.ts",
-      "project": "techwealth"
     },
     {
       "time": "2026-09-01T07:16:21+08:00",
@@ -1644,7 +1635,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 56,
-    "healthyCronJobs": 37,
+    "healthyCronJobs": 39,
     "avgProgress": 69
   }
 }
