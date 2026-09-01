@@ -19,7 +19,6 @@ import json
 import os
 import sys
 import urllib.request
-import urllib.error
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
 
