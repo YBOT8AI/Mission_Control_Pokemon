@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-09-02T23:17:23.711323+08:00",
+  "generatedAt": "2026-09-02T23:49:21.778770+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 601845.44,
-      "changePct": -1.3
+      "priceHkd": 605647.84,
+      "changePct": -0.94
     },
     "ETH": {
-      "priceHkd": 18670.65,
-      "changePct": -2.26
+      "priceHkd": 18739.64,
+      "changePct": -2.4
     },
     "SOL": {
-      "priceHkd": 772.32,
-      "changePct": -2.85
+      "priceHkd": 778.12,
+      "changePct": -2.88
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5518.42,
-      "changePct": 0.51
+      "priceHkd": 5514.11,
+      "changePct": 0.44
     },
     "SPX": {
-      "priceHkd": 60167.92,
-      "changePct": 0.56
+      "priceHkd": 60122.3,
+      "changePct": 0.49
     },
     "SPCX": {
-      "priceHkd": 1099.95,
-      "changePct": -1.36
+      "priceHkd": 1103.48,
+      "changePct": -1.04
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1102.19,
-      "priceUsdOz": 4372.7
+      "priceHkdPerGram": 1101.43,
+      "priceUsdOz": 4369.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.4,
-      "priceUsdOz": 65.08
+      "priceHkdPerGram": 16.41,
+      "priceUsdOz": 65.11
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 710.38,
-      "changePct": 0.43
+      "priceHkd": 711.09,
+      "changePct": 0.53
     },
     "Natural Gas": {
-      "priceHkd": 23.25,
-      "changePct": 2.13
+      "priceHkd": 23.28,
+      "changePct": 2.24
     }
   },
   "news": [
+    {
+      "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T23:33:19+08:00"
+    },
+    {
+      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T23:20:19+08:00"
+    },
     {
       "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
       "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T22:40:20+08:00"
+    },
+    {
+      "title": "How are search operations progressing in Nepal, a week after deadly flash flood? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2QzUGxBckJIUUdEeU1KU1JmUzZOU3dQTzZnc0VSWFBCR0trLW1xSjlCSExjaHlHQ3I1dUdRYy1IQUh6bjNmaXpmZm5LYzlEUnB4MlZfeTl2Q0s5bUtMSWRnVmdaOTk1S2M1eHVHSTUySFVvYXdlMWI3bVFaZEJ4X0pXOHdfcm5PVlpfeWgwSnJkam81bDNOaElWWl83cHNZbTllbUduOFJZZko5MGFPekZ5aXdJN2JrMVk1RThxVlBIaDV0NXM2NHBB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T22:40:09+08:00"
     },
     {
       "title": "The struggle to shut down the illegal tobacco trade",
@@ -71,40 +89,52 @@
       "time": "2026-09-02T22:34:22+08:00"
     },
     {
+      "title": "Lindsay Clancy trial jury deliberates for a fifth day, after saying they’re deadlocked - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcDR2aHlEa1YxemttTW9SQzE4cmFFMDlJS3lVNWw0dFU0R0IyTmNJcHRjTE9HM2F2V1RrY19qamNtSUQxekNXc3BqWjZZanpHbTQ1S0hZbmdFTFhLUmNfd1hWRGpCTU10R1BEWXpOTmVsN2FOaTh4bE5fak53R25XUV9Jc3R4dURYWDduWHhybk9nQ1lDLTdYTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T22:33:00+08:00"
+    },
+    {
       "title": "Range Rover launches first fully electric model",
       "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T22:23:01+08:00"
     },
     {
-      "title": "Adam Sandler, no phones and a magical night: Travis Kelce dishes on 'insane' wedding to Taylor Swift - yahoo.com",
+      "title": "Adam Sandler, no phones and a magical night: Travis Kelce dishes on 'insane' wedding to Taylor Swift - Yahoo",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdHVEbm8wNGtEd1BEODc5NTNLNGllZlo0OXZZalljNVYtOVRIUlZ1dkRwOXBzaVg2V1ZNMFFnVXV6UjdSWlZOd2JrdThyOGVSUU1aeGR3ZjZHcFdLallGejlGdTRkTDEyZWpERjVsQW5NVl90QzBwb3pQaUJneXRhODZqaUM5UnJuN0pULXhJQm02dGFtX2ExWm4tWnlEWGxjNWlhZzlhLUNxOERQTVYzRmNubzNsWG9Ma1R6b21uY0JaVzc3UEJjU01GbHNNNEJ1eVhldnd2ZG1GcjdDUzZQVVJuLU5MWUl1UnNwVERaZ2JwN3ZtSkJnOQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T22:21:57+08:00"
     },
     {
-      "title": "Stock Market Today: Dow Up On Surprise Jobs Data; Dell Tries To Break Out (Live Coverage) - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlFUakpRTFlOZ3BldGZYREUzX0p0QUN6d2dRZ0x0LW9oOF9qaE95RWJ3cFVfQ3NNaXNLR1ZVMExMZDBTVGU5dFBkNEVmQVJhS3B4Vk95Nm1pdUlTdmV1RG85QW8zQUtwME80NnE2RTJfbGk3SjRZSUtXa2VZWHZBem5DU1ZkVXc2WlFQMzV5M0FOR01Ecl9qaHNIWlRUZDBUT3pyTnhLVEdKYUhiTXlhQjdpSkYwQQ?oc=5",
+      "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRVU4MVZQTEgzNGtFVGZsZGNJRWJyaWtNZTJBQmh5bWZjRldXQXp5SVpoQkQwVVJjWXJZVG1CSU1XTFRiNlpzWGhCR19LWGU0bnhwQVEwaTlDS2FjenVEdzFDb1QxUHBEMmFYeGp2Ukt5cXdCYWhHQlk2eDFyZlJNMGhLTzVvaEJkc0hTOGJnaDU5LUsyY1p5dThpbTBrU3hzM3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T22:16:00+08:00"
+      "time": "2026-09-02T22:19:00+08:00"
     },
     {
-      "title": "Global Bond Rates Are Rising. What Should You Do Now? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYUtBSnNvT1pxbHVVNlVacEd4dXc3bzdvam9ZUldma05SUWRJZTNHZHRDMkJlb3RaRXp6TkNid3pvTFVZWE5BZnl0RGZoaFZpSGp4OEdCaFV5Wi1UbFZkcGJ4Vms1MklzUUxMXzN1QVl5TWo1TkZlTkFNTkQzNTVwMQ?oc=5",
+      "title": "Iran says US strike killed four at wedding after biggest exchange in weeks - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T22:03:44+08:00"
+      "time": "2026-09-02T22:13:00+08:00"
     },
     {
-      "title": "Trump $1 coins in circulation, US Mint says - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUpfX1ZqZTBMbE5oeTZuQVZkZHB2OG5YRVozTHdFcUI0WFBNMEtiTTYzTzZYcVExSzJGREptNnJ3TWpYbUdsejdlWFpoSmRvRmYwanRyS09qLWx4eGx0NDdZQUFVWWVTNFBiSlVNT2dramc2RmUwTmMwQ3kxZTF1ZEJtU0dYN1hk0gGOAUFVX3lxTE5OV1BiaEdiVC1tYkVKMVRiZklObzNXS0RoUTVNTjFqTVhtWUxvdktXMFBvT0daTnZnaWtEOHdyQ3NJOHBqbGIxSkF1ckR1b3J0VXp4eFBVcnFPTU13dEk1eGQ1eXd1Vk1zeTNwVURQdkF2U2pqN0UyeXZ4c0RTbDFsMDlmb21MdG9YVXUtaEE?oc=5",
+      "title": "$1 gold Trump coins go on sale Sept. 2 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLU4xNnVGZ1Q4cENjazFPS2VwZk1WbmJFNjRVNU1tU0lickMzOVY1cGxpbUtzMnIzMUE2b3hsenF4MEVwVHJBa3BtZmY5VVRLOUdjcU8wQTBkcXZuWEdQTUstR2llZnAwc2xya2wyWUp0NG5fbndVTXk0NEc0T28zS1hnaG5ST3Rvb01jMElKOGM?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T21:51:15+08:00"
+      "time": "2026-09-02T21:59:00+08:00"
     },
     {
-      "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy - Axios",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE83TDRUZnBBNEU5R2QyU2Zzc0V0Z2tFb3YwSFlzZVB5S2huMXU0bEpOQzBmLXdpczcxRnpHdGpXT2VkbzVhZmdidEsyR0NydFktRVF4NkF1N3BoYjlFd05zVmtLQlhfNGozVVhIMXZWVUk1UQ?oc=5",
+      "title": "Monaco chief: Folarin Balogun rejected Everton over how they treated him - The Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzFoSV9ISXkyRDNuRlZGNlpjMXhTZ0NrYk04WGJuY2F4YWZwSGhhNVc5d3FnakhQNjhBMFlSSlJ4NlhZSVIwMUlwRnI0dXpwSjhNMUFRNnphejJqMVd3bzVzc2t6ZzBYbktqaE9wdEd6WndTLWp5bm04TVRLU0t1WTFXS2NyVGpmUWtwbHB1a0NqNHg1eEpEZnVrUzZ5UnlZYVctWk1Ma1QyYU1CdlRxNlM0VGgybjA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T21:22:39+08:00"
+      "time": "2026-09-02T21:45:19+08:00"
+    },
+    {
+      "title": "There's A New Space Telescope On Its Way To Help Answer The Biggest Question In The Universe - Defector",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmRIdVFGZmxWdGFoQUxpN2ZMRkJ2REJ0N3JTY1c3cjVxLXYzVzUxQkVsM0RrbldqRFFjMGRkbE43MTNhMFJHOTJsQzAxM3VvRk4wLTRoN2UzYk1UOWZlbEtCVjBndUNoSmJaRzZwQ0VjVk9xR1QxUVkxSU1XWm1VVV9vR0NSbi1YbWdsZmFmQm5xb25VeUtVVUl5SG1fYTE5QmVTX2xIZW1EaTRXRS0zYTF3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:31:00+08:00"
     },
     {
       "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
@@ -113,15 +143,15 @@
       "time": "2026-09-02T21:20:11+08:00"
     },
     {
+      "title": "Fed Chairman Warsh Lays Out His Own Data Dashboard for Reading the US Economy - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVdrZU5qSjQ5STI4RVNMcFRvNlFlMHJnQWw0YlhyWno4RWV0YkxlVlpOZm9Md29KdEN6Z2x0MlJDbVk4OUNpcjhnX2F5dEJCRnFzVC1McWp6S3oxZ0pIb2xjSjdCdGgzRzF1SGE4amVEdi1taDhrVE9uamlMT2lNRTZSd2otbmV2M1MxOFZKQmhwZDZlNjNZaEY3ZDZ3c0pRTDFXb1BLWnA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:18:51+08:00"
+    },
+    {
       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
       "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-02T21:17:43+08:00"
-    },
-    {
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTHQ1ZEo4aUdMY1hWNDkzVjNBRWd4ejY0QWk3UlppSWZwSkNEeUFuelltYW9aQzZrc1NBOUpCNVJBMHBVVXNaQTVSVmNHNU9lLWF4WDNObV9ZQQ?oc=5",
-      "source": "Google News Top",
       "time": "2026-09-02T21:17:43+08:00"
     },
     {
@@ -131,46 +161,16 @@
       "time": "2026-09-02T21:16:26+08:00"
     },
     {
-      "title": "Poll shows nearly 90% of Americans believe government corruption is widespread - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2JFMDhqNWtWU1Jfc3N6VWNmdHNSWWtMT0ZjQllMVG9HaWlqZVpGT3YtM0JUVVJGUnZUTXA2d3FkNk1IbmZxUzA0ck5jZGo0cEZ6TnhyQXBLblVybHd2c3dRNVZwSnhjMjBlUlJOUm9KLXd6ZjhvTWdWRnZCSG9kbUN3WTJRejV6aEZTdVNPMDRqd3RUcTNiWGpTRFFUb2k0bEE3a3JsXzUtcFhGSlRrZmpUT1Q2MjA4N0pHeGV0ckFRVVN4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T21:00:00+08:00"
-    },
-    {
-      "title": "Tiger Woods enters plea agreement to reckless driving charge over rollover crash in Florida - sun-sentinel.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GZ2FXRWl4bUJOdkN6OHZhZDJBMElNQ3VfUGJ5TVBXX0JsaGktMTQzMXd4VVNxNGZKbWFTazRIQkR1R1NkWWllLWRKWHV0TGRCa194Ry1YRW9mQkFUcmItczA2dGd3am4yTnhmbHBhVGFiNjAzdnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:59:22+08:00"
-    },
-    {
-      "title": "US urges NATO allies to prepare in case Russia attacks - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9jUkFnRDlSc3FfWHppRmJka0Vnd0kycXItVDl6TVd5Z0ZIVXRNTm54VGxjQXdyVzloS0xLU3RvZEt1bFdiZWcyak5KSWpxTjRpMTliQWp0ZHlLSnpzeEpEZjVuYl84cUpTZnVYWTd1V1hRMmdvTFJnX2RiZTdXanA0SWFnTHRiTU93N21MNzNhbmx5Y1d5ZnJuSy1Db1U0am0wQU1R?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:49:00+08:00"
-    },
-    {
       "title": "Former boxer to host annual school uniform giveaway",
       "link": "https://www.bbc.co.uk/news/articles/c93vkx4lzyeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T20:48:32+08:00"
     },
     {
-      "title": "U.S. Open recap Day 3: Why a player escaping disqualification raised a familiar problem - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaExYYlVOdWlVUEozZUNHamxOQUFmUmsxYTktRjBIbi1iUTYtdFV2cDVINTNQOXJuWFB4QmhVS3h4dHh3VExYMS02QTFsaDlVZVg5dFI1YmliREp3dTRIVEt4dkJSc1p3WFk3NTB6ZFV4VnZMdGsySThXLXdSZW1XUExfaFVGS3djZnRPM0JEWnJnVWRZY1E?oc=5",
+      "title": "Tiger Woods strikes plea deal in Florida rollover crash case, loses driver's license for 5 years - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYmVLb01lNVRsVGVHR01UUzJodjFrVFk4WXdQaGxCZU5USmtHbjQ0bjRySTlzMEwwN1dhN2dfNXZCU3pack9kTnpPWUZkMjEwR2hTMkJoVDFYcHg3RmNKUU1hWlhLRmx3ajZMSGJSLXczRzI0TVpqTUUzRl9aZzdia0I0cjBwRVdyekJGYldwdnl1NVdSRUpjcW1jTXc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T20:32:03+08:00"
-    },
-    {
-      "title": "Tim Cook handed $47m package for new role as executive chair of Apple - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQU04SzlqX2tsYTY5WDhZelF3WXMzZlk5ZlNXRFpQYm5qbHRLUXRMaDVkYS0xcTlKWmJERFpTNnliekVQTHgwQ2ZaMHd1UmxodWtiMDR6VEt3WjVBT1V6QnlHemdtelJibGlfU1JCbE9DRS1kMVNkUWhaVEY4Wlc4VW1aS2hSOXlScnI0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:29:00+08:00"
-    },
-    {
-      "title": "Uber to cut 10% of its global workforce - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVhwMmpVSWFVTTQ1dmJIT09EMzdwTF9SZkttTFFmcEZSajM4NWhKb2xOc2JPNGRoT3p5bUJYUkN2Q1YwMm4tVmxDQU40OUNSWXZLRFpMOGVVLVk4YUdzZVgzaTRIWWZJaHNBLW1YRXV1WDNUalo4OE5Ca1gtZFdhUk9CeEs?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:25:04+08:00"
+      "time": "2026-09-02T20:47:14+08:00"
     }
   ]
 }
