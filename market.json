@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-02T10:16:10.193142+08:00",
+  "generatedAt": "2026-09-02T10:48:26.767740+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604448.32,
+      "priceHkd": 605052.0,
       "changePct": -1.47
     },
     "ETH": {
-      "priceHkd": 18832.31,
-      "changePct": -2.22
+      "priceHkd": 18861.24,
+      "changePct": -2.18
     },
     "SOL": {
-      "priceHkd": 777.65,
-      "changePct": -3.71
+      "priceHkd": 782.12,
+      "changePct": -3.26
     }
   },
   "stocks": {
@@ -33,31 +33,25 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1083.11,
-      "priceUsdOz": 4297.0
+      "priceHkdPerGram": 1086.56,
+      "priceUsdOz": 4310.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.06,
-      "priceUsdOz": 63.73
+      "priceHkdPerGram": 16.13,
+      "priceUsdOz": 64.0
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 715.16,
-      "changePct": 6.37
+      "priceHkd": 712.73,
+      "changePct": 6.01
     },
     "Natural Gas": {
-      "priceHkd": 23.18,
-      "changePct": 0.75
+      "priceHkd": 23.17,
+      "changePct": 0.68
     }
   },
   "news": [
-    {
-      "title": "Germany blames Russia for drone attack on airport, announces countermeasures - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tyZUVSRTdYUVNqVm13MUJmUmVxOFptcnRJVTY5SjQyQkVPTzBjRGpCbGJtWFN4QmdpU1dQM3FCb2ZHZWx4N3p5N1JOTkVNdVphQlVYcjhrZjJ5M3FrZE5lelFhcmVWODNKZlZvd2piLVRmNm1OY3ZMa3RaSFdudXdTcEthaDEtbUprYnFxRGFwT3FQSWJzX2pVcDQ2TlRISGVPcWlpenhTZldFV21qWmcyQ3IwTUk4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T10:08:00+08:00"
-    },
     {
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
@@ -83,25 +77,31 @@
       "time": "2026-09-02T09:27:34+08:00"
     },
     {
+      "title": "Trump taps ‘true warrior’ Hung Cao as Navy secretary after 4 months as acting leader - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmR3N1RwZEdINTJuQ3lEanR4UmdVZjVaQjlkTDFmVGZLNzB1WVExM2t2ZTlIeFlDenBYVHpKZ2tHTEFIdjhWSzJJUDRmZ2x1M1BwdnBzS2kxbUhkdTJlUXpOYXEyRHNqTkdVLUhHUVBWc09QWGJkTGd2YVY2T0RDbm9jdE5MUS1wdl9rdEhuOXBTbDRZaFV2WUpSMjhWelY0WC1GSFZlemlFd0NWblHSAbMBQVVfeXFMTzItMFZCc29uU2kyT09EbVh4MG5ra3pfQkRXUzR3cU40X0lTVmtxbWg1eHpsdFFGVUpkNlhjTzZYMm9IQmZLZjF1Wk5YQWlibTRSR3V3TVkxVl85N1N3VDdHemtWU2stemM0UU15dW92SEE5UVN6aXhaQlM5Z3cxV2t6blJkeWJEN2ppRkNCNW5WamxzTGw2WDdhRjdpbm9zcE1WTTB3bzZsWE5oTlFpb1liVTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T09:24:20+08:00"
+    },
+    {
       "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
       "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T09:23:00+08:00"
     },
     {
-      "title": "‘Wheel of Fortune’ announcer Jim Thornton suspended as Sony investigates allegations - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcThnYi15YmpzUzJOYk9vSU1tUV9kcGM0SlhEZXJJN24tVUxYZV93ZEdWa1NMSTgzR2NmUlVjck85ZFdiczhnTUFsdnVDRVdEcF8tUHlER2c2blNXRzJSRndUeXE0TlUtLWNZYXRCTjQ3TnhBMC1oQ2NYWVJPdXEzMWViQzJ5UWtrb2IzNHJWQnlOcWJ6T0gyRXFXTUxVc2N0UkhhUmJ0anNrcGtHLUp0TUlWS1ZqcjZk0gG-AUFVX3lxTE5wazBZaTAyX1I5dGI3cTNIZm1Lbjd5TzlqNkgwRXdwSkk3Nm5ZQ0xUaFZGRmZNT25iWGVmSE9yV2NvTm9NWEdBVUQ3aW9zOHlmLVlOcnY0M25vUmI2X3ZJdEM1Tm10LVBSQUdrNlpGd21mMWZBbkVrODk0bXRMdTVpWTBvRVh6ek85ZDllMldCbVVjcGd6eVMtRlprMUh4V0t4MlN1RG8xc2ZXRGd5UklqY19sZ2VBaXBSNVppaUE?oc=5",
+      "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXRYQjlyRXozMEtCWXZrdWZNaUNtWndJUTc0NUQ4QXRNUHZyU3BfbklvZUtlZ3NfZzU1UzBUa1dwaElGZzVLYm14bnBPa216eTJYWHJPYXpDcWVsdnNOaE1kc01hQzZPZHRIdUVqNUhqZ1hPa3ozNnR6ZUhLN1VaRG1GNA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T08:32:14+08:00"
+      "time": "2026-09-02T08:49:10+08:00"
     },
     {
-      "title": "Markey defies age concerns, defeats Moulton in Massachusetts - Politico",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQk9ETVpnX1FkYzh3cGNoYWhOWWRBMHZIZnpOcVc4RnVCWGh3cUVmTkYyZ0ZGTXA3b3RLV2NUZTYwdDhnU3NFbDd5R2tESTNiTlp4VmdnWlJOUmxlR0pIQ2tsWHR0emJmOUFVUXpWWXdQdzlBVE9BMFEtbVA2bFQzYXVQbDZ3aklFZmV4TDdqdEdseDN4?oc=5",
+      "title": "Incumbent Sen. Ed Markey wins Massachusetts’ Democratic primary for US Senate - NPR",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHNzSExDa010XzNNclRmcXl2d1p6MWdmcDczZHRKYXdyQWdLUzlJZmdUMkJYU2tjTnFoOGViQ1Z6cUUzQzBiX3JHd2syNzNmVkxCbkQ4MmhNb1g3MlFGb2txSDVjUFdIN2N4WFNNcVZEWVlSQVd2b0tsUzZiMHp3RHpJdGdvNDA1aTQwMXNDa2dSM0RWU1BQVXBROG9PZDZqVkdESEtYWl9mWWR6RGVrYWNQdTBSUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T08:31:00+08:00"
+      "time": "2026-09-02T08:38:46+08:00"
     },
     {
-      "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World - The New York Times",
+      "title": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T08:25:48+08:00"
@@ -111,6 +111,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T08:13:26+08:00"
+    },
+    {
+      "title": "Germany blames Russia for drone attack on airport, announces countermeasures - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tyZUVSRTdYUVNqVm13MUJmUmVxOFptcnRJVTY5SjQyQkVPTzBjRGpCbGJtWFN4QmdpU1dQM3FCb2ZHZWx4N3p5N1JOTkVNdVphQlVYcjhrZjJ5M3FrZE5lelFhcmVWODNKZlZvd2piLVRmNm1OY3ZMa3RaSFdudXdTcEthaDEtbUprYnFxRGFwT3FQSWJzX2pVcDQ2TlRISGVPcWlpenhTZldFV21qWmcyQ3IwTUk4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T08:11:13+08:00"
+    },
+    {
+      "title": "Can JD Vance Win Over Skeptical Jewish Voters? - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjlZYVdMSUswa2s4WmRpWXgteEFCMVdCNDBQTFhrSWNSUkNlWDRuR2hsQzZvbzdXbl96TTM5eFdzRFhEZ1FwYlFSek9PWHU4aUI4cy1zdDNJdXozZEZITlB2cThCa2d0X3dIV0JIX1ZER1lobEx1X093eFd2TDJBQjZOSUR1R3d2QmZzT053?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T07:48:45+08:00"
     },
     {
       "title": "Range Rover launches first fully electric model",
@@ -137,40 +149,28 @@
       "time": "2026-09-02T07:26:38+08:00"
     },
     {
-      "title": "Arte Moreno era officially over as Angels sell to Rams owner Stan Kroenke for $4B - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHhKRkdXdmlndXYzZFVyMW5pU2tVdF9nYldUWndnc055Z25rMDJhME9fcnplZ0R5NDlCdl9udXE1VmIzZ1FlR19IcF9aU0Zzc0l5Vm9rZzV1N18wc0Z0djNuQXRuYlpTLWV5d1I5TFRmZVl3dDFHZXV6cy1JRTVKa2QtbjhHcWFSeVJmQ0RiUVBUNGRObnZUN2ZJX1hYWXV6ZUhwUUNCNGFnajFOVTc2WkY2OFg2UU9nWmln?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T07:20:05+08:00"
-    },
-    {
       "title": "Not just guilty or not - The jury's options in Lindsay Clancy's murder trial",
       "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T07:17:10+08:00"
     },
     {
-      "title": "Vulnerable Democrats vote to denounce socialism amid midterm pressure - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmJ0Tl95VWo2NmxxVUxVclVQM0sya21FZ2FYb09sUE5QSEZCZDZFSjZTQkZ0Wi14OHBxdzhXQUVzV2taQjNMQ1laZUF2eEx0UzVob0d5c2VWVFBwT0otMndBN09JSE90Q0RETHYtYnBZRjh5MEVzUk4zeGs1VUdjZG9sa9IBiAFBVV95cUxPU3c2U1Utb3d4NUZXVmMzX1k2NFJEeEdXWlJpdmI0TU81aUNaUjB0Q2ZjZVRSWFhfeGp6VXR6a1dMSGhiYThfVFYtOFNKZmtfbE9QRERlRDVfRzU0NFA0ck93djlhQWFHRXQ2Sm9uSUhEV3p6Ykg4QjZOT0hyZnY2WW0yZ21WWEhG?oc=5",
+      "title": "‘Wheel Of Fortune’ Announcer Jim Thornton Suspended, Role Recast - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5Pc1FXRHNhU2V4VW91RVNDcGs1MERJdnZYV2NLVWQ5YXBMemg4eUZLcHFBanIzeldyWlNJQUk2TmRVU215SFNwN2p0NEQtVExaeWlBLUdjZ1ZQNWhmdTNWUDlJTDMzYlA3cVI1QXVSRVh0NjZJNmV1YVZqaVI4bGNubHFqSmFZcHIzdzB5czZ4bmsz?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T07:05:00+08:00"
+      "time": "2026-09-02T06:52:00+08:00"
     },
     {
-      "title": "Hegseth is winning the battle over the Pentagon’s future - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMzRrbE9JQXBIMGVTRXNXSlRhSDJ2UF9jVEMzUGZkQTFEUFRvTkk0SEZkdEttYjFTOU42WU9FVTYyellhN25abUM1STJUTUpLRHBCemMzdnd2VTdfd2x5UlhyN3k4TFMtV2M2N2s4YTlnbERaRm9QTThrRHFtNjNoSGN2bXZxWEJVY3RJbw?oc=5",
+      "title": "Hegseth imposes his will on Army with Driscoll resignation - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTjVTT3E3Q2dpVmJObHJ3TDgzMXA1eDBrSHhCdC1CaEtVaUk5eDBXYk5zUXRqd1N5cjU5bDBqaUhIVGJfR01fMUlZSURyTk1vYW4xRlJ5cWltYVU5dm4wZjhBdS1jOG4ydW96aVdXeERXbWhUY3lPaWZ6Z05OZUJjRE9KekFOUdIBiwFBVV95cUxNa0xrMHR6NjlGWlpxcFBDd0NCRWl4OEZxZEhDLUt4azJoN1lYa2VKbm9FMDBoUjFiVU0tZ3Vob2pvY2Iyc0kwQzFBa2ZEalQ0S0xVX0d4RUEwWGtvclk1WmR6emlQMF90MTY5VlFtM3pVSXVnYXVJbXFzTWRjUkh5ZEx6dkJnSWVPai1v?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T06:54:00+08:00"
+      "time": "2026-09-02T06:38:00+08:00"
     },
     {
-      "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
-      "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T06:02:14+08:00"
-    },
-    {
-      "title": "Ariana Grande completes tour and steps back from public life",
-      "link": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T05:41:05+08:00"
+      "title": "Trump Ramps Up Pressure on Squeezed Refiners to Ease Pump Prices - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNktIZlRDT2ZGc2RLd1NFNEpXT0Rza3FtUlNZU1RuZHh6amR2djFPWTJtUXlyTGxVZXBvdmFyM1hYLVZIc2xiYWJmNUxOc2RfSTNMNnc0WTltTUZkbDhhZTZKYWRnUlliNmFwaklBRjlMb3c5TGdCbmFXVjByZl9ULXM4M2pGMk5DVlNUNWU1ZzFwMDVMNWNLdUN2VQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T06:25:26+08:00"
     }
   ]
 }
