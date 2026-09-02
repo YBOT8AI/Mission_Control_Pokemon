@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-03T06:04:24.013574+08:00",
+  "generatedAt": "2026-09-03T06:35:34.128713+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605498.88,
-      "changePct": 0.02
+      "priceHkd": 604040.64,
+      "changePct": 0.0
     },
     "ETH": {
-      "priceHkd": 18723.72,
-      "changePct": -1.12
+      "priceHkd": 18657.0,
+      "changePct": -1.1
     },
     "SOL": {
-      "priceHkd": 780.55,
-      "changePct": -0.19
+      "priceHkd": 779.53,
+      "changePct": 0.0
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1107.16,
-      "priceUsdOz": 4392.4
+      "priceHkdPerGram": 1106.4,
+      "priceUsdOz": 4389.4
     },
     "Silver": {
       "priceHkdPerGram": 16.52,
-      "priceUsdOz": 65.53
+      "priceUsdOz": 65.55
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 710.54,
-      "changePct": 0.45
+      "priceHkd": 711.64,
+      "changePct": 0.61
     },
     "Natural Gas": {
-      "priceHkd": 23.51,
-      "changePct": 3.27
+      "priceHkd": 23.53,
+      "changePct": 3.34
     }
   },
   "news": [
+    {
+      "title": "Southwest Airlines will open first-ever lounges next year - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRkx5YldRQk54b3JZVThGTmF2YmhoamNVSkFRUkhSWjRKQUw2RGJPdlFXQmRkM2ZVZW5mQzA3NDF4LVladjhsTVBTOXdXZmh2SUdQTlN2a3RPa2d4empmeDNlZ3lKaTZkQkxTYjI2R3lPYk1Ec2ZBOG5zMjZVQU9tYk1ha2pDVVBCc21DVTF1eWlaNkF2S1RUWTRiQld5U0Y0aEVjVkhva2IwZldrcmFmX3BYYzB0clNBOUY3cEFTZ0phdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T06:04:47+08:00"
+    },
+    {
+      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T06:03:00+08:00"
+    },
     {
       "title": "'We've raided this shop many times - we keep finding fake cigarettes'",
       "link": "https://www.bbc.co.uk/news/videos/c1l6p7j9652o?at_medium=RSS&at_campaign=rss",
@@ -65,40 +77,52 @@
       "time": "2026-09-03T05:34:27+08:00"
     },
     {
+      "title": "Plane carrying DHS Secretary Mullin makes emergency landing after engine failure - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX0ZKWWZLcVpQQ1dXcnhKTk5nV2xJN24tR1VyZHU1emF5NmFITFJ2Nm51clFybGFYdUZaUllMYjdlaHY5SG1LelFoRHlZaENSekZjQ09hd2R6bTdHdHZQX01QSWtvbFNTQmhFRVRVSTVCcWRTNWwtS3c0TzdleC0zRy1hX1lWZU5Ma1A2Y1lTLWtfRmFHSG9SUkVSRnByWVpwUjZ1Nml4a2YwZ2RMaGRVdjJ5NHFNdHhyQWk3MTNSWFExT2FaSVpHTzRsRGI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T05:31:06+08:00"
+    },
+    {
       "title": "South African airline behind daring stadium stunt cancels next flyby",
       "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T05:21:08+08:00"
     },
     {
-      "title": "NBA suspends Clippers owner Ballmer, fines team $30M, Kawhi Leonard $700K in cap circumvention case - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMzlMNE80ZXdIenN2SjFSaXN0X28yUVhNSFNiTFRLTVFjU25vNkxfU2loQ0x2Rk53WFViLWRkM3ZyaWVsRUVFY19say1PcEZWRU5obk5aU284dkduXzNRTFZaOWwxYnowalo4TlVLSTFpaVdDc1dIZDZ5UnNaUjJna2EyVHJ2c0RtWmNEWWJNRFBqTG5sZ0JDVE05OVd0eGs?oc=5",
+      "title": "Deadlocked Lindsay Clancy jury wraps up fifth day of deliberations without a verdict - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mdmR1R2lfVjh2OW1INGRvODFYN0NhaTNiX2RFbXIxX0RRRUxleHE1RFJVVGRNa1RkbXFpWndpaDlrVDczZDFkTzFaRE9DLThqNkhJUjMwYjloeGtBWkFyclZaZnI5X1l4YnpqSS1mUGxZZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T05:07:00+08:00"
+      "time": "2026-09-03T05:03:00+08:00"
     },
     {
-      "title": "Fall vaccine guide: What to know about covid, flu and RSV shots this year - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG9VbXdMZmJQVl9UclAzYm1YQVYwa25GMjJxSUdmamhFMDJyX0V5LVBfVy16UDBEWnNybWZmNHVFUEtONHBGd0doSGxFZFQxOGNpWXM4UklEME1pSlVxb2lrVEVMdnVNd0l0eVNoRkpGY3dlYkFwbFhVbl9uZmJWZmRjR1ZGbm02TmFvekc5Zm91MjVlUmRjYmZ2V0s1ZEFrUU9JN3RTTXduM2NtZWExNmhVcFQ?oc=5",
+      "title": "Tim Curry’s Cause of Death Revealed - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSElLdEtaam9lSlN4Q2FWdTNXZWZFNW5GWW1fSG5rWmRlQ01QS01wamhMbERTdmVVTW9Gc0ZDZ1RoaWZPYnRWM0RHb0NkOEZTS3p4RnBwb3BRbHVvWDFaNFpwMEE5LW80SmNfWENZUUVyNmJKMTR3VFJ1NTNkWW1RUnhIcUZBWWF6Q2pmLUpUbHM1dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T05:00:00+08:00"
+      "time": "2026-09-03T04:52:49+08:00"
     },
     {
-      "title": "USPS Is Building a Mail-In Ballot Screening System Despite Legal Battles Over Trump Order - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdG5zQ0N6R2VKMXRkVkk1NHV3cFROOFdSLXFQNFJMQjU1UmtYNmJKOGtBZjAwcDAwbjhGak0xTUowMkxkY21kVUx6VXhXS1VVQjdnQUZiNGYwRm9hTDRxQTNtb1Z5d0dvdE9raHR6c05yQm81TS11Y0x6ZHJaSFBYbWdwODlneFVPVjNpV3pIY0dXN3dy?oc=5",
+      "title": "Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T04:38:12+08:00"
+      "time": "2026-09-03T04:52:00+08:00"
     },
     {
-      "title": "Dolly Parton Scores The Second-Highest-Charting Album Of Her Career Days After Her Death - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQS1Db1hiQjRmRzFoSGVZN2N0ODJqRko4SkF2S2o3bFNLdi02blQ5S05lZVRkQ09vN3V3ckxSOFdfSzZiaktfXzRnZFNUOURleWN3NTZEWTFGS3Y3MlVkajVmaE50T21ZQ292dTNlWG8zZUoyMUdiYi1uR2dBV1d3UmRWeWhDY285aWRXTVFLRlg1OUk5aFhlTEtWd25NTG5NZkt1SVpJRVNtMmRJdEl0WTNnbUxPY1RXR29WZjNOSklHY3NtS080MTRMaDRWeGk4TnVyNHFsdFU4dw?oc=5",
+      "title": "USS Abraham Lincoln’s crew of 5,000 arrive at notorious Thai resort after 270 days at sea - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2g5WUtoS3BOOW9vR1U5U1NRSjdzMHhrd09mN0NDeDA5QTZ6ekY4SVMwYW1DeEFDRkdvcXVwb1FnV0ZBUG5YZ1M0MklBOG9tZHp5cTdHVDdxbWRUbGNzQXNLSG0xTDNsSzJ6N0JDMEloUGNGakI0SnFlbFZ3N3NTYkRLRHBmbWs1M3c4TEFUNkN4M1NNcEViWGxKeUdjZE1wTTk3WkladUJnR1ViOUctQ1BOdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T04:35:24+08:00"
+      "time": "2026-09-03T04:39:00+08:00"
     },
     {
-      "title": "Snowflake spikes 22% on healthy results and AI coding momentum - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzBieVAyLTI1WmdKVVFUck05SUNLWnU2dnUxVTJqdENIdHg5aGo3UmszdmFuWFB2OTYwZWxsVXpIdmZyb0FxZEh5MUtyVmYwRnUybExkYzVYV0tMLVlaRThfSVR3X2E5a0F0LW9Rb3pyLWNsRGZxd0pmS0RkZ2JiZtIBhgFBVV95cUxOZnJaWG9tTjlUZjdVSnk0VHF0N0JmQy0zVmU3ckZ1T2hGMWlVd1gwT1lXejJqU3o5c2VNdS0welh0LUVYbkllRUljNHFCYS1fMkcwRUZ0allJMDE2ZTBWd1F1dTdCWkg0YW9ESXE5VkhlY1JiRU1sMk9NSkt1WXpnVUtnRDhxdw?oc=5",
+      "title": "DNR: 700+ reports of dead deer in Washington, Waukesha Counties amid virus outbreak - WISN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGcyQ0NvMzhDS3J1WlAwSGpCU25FWnFnb2tXc1hpV3NBZGxiRm9LM0dHRk9jVkpCTldJdm5hVVRQZFdWV294OFo4SWVEWVk0RTdxUkFacG1pU2Z4VC1CbUJXM2FZRW1HNUR1OW1fS1BramR2OE1ENkItR2l3d2t2V3lBbnFjZEpiZXJXTXZ1NV9hdy10ZHJmc281WERFNTZJdXFYZlVMY2VWVmwxclB0VFRYaGp5bDRCcnc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T04:28:39+08:00"
+      "time": "2026-09-03T04:28:00+08:00"
+    },
+    {
+      "title": "Broadcom's stock drops 5% as weak guidance overshadows earnings beat - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T04:22:09+08:00"
     },
     {
       "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
@@ -107,10 +131,10 @@
       "time": "2026-09-03T04:21:04+08:00"
     },
     {
-      "title": "Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend - Broadcom",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZWpTYnJTWGFsVzU0MVRRS3YtdjdpSTRCR1NXMldoRHFZdDBPUzBkem02RXZaVklhOElHWDJVVi0ySmcwUFktbHhVVmpabWhGaXJNVDYzTloyMDg3dy02RDJZZ3pvWm44VTNvMFp3UDBCSTQ4TFMwV2ZHb3FWUmtEWTVEYk5BTTdiQ3htMkw5WmMzMXVPRmdMaXA5dFBYb0tLb2k0RWluX0dfcVNQSlpDSXhadW5zQXh1d2hocEZZRURmdUw4SC1Tdg?oc=5",
+      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WVJaVmNPV2pkQkE2QlF3Q0NOZTNDX1JNYUpITURGZm5oZERUaUNZN25wTlprcnhUSEdMT01JdFJMUUFGcXBZOWNDSENwWmU1aGNSenV1cHJRUC1jOHFPQ2RfaG9pT2NWaDFPRXE0dHo?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T04:15:47+08:00"
+      "time": "2026-09-03T04:15:00+08:00"
     },
     {
       "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
@@ -119,22 +143,16 @@
       "time": "2026-09-03T04:12:32+08:00"
     },
     {
-      "title": "Tim Curry’s cause of death revealed - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NUmNVamNqcTVUcGJLejBmVjFuX3BTN0Y3VjJQOWpjdDhseUhUVjh4eFhkMm5ya1lXWUthVG1ORmNOUUhZczVDM1ZOcFdCcElHT2twVmR2aFo0LTlQcWN1Vmlpb2NHd1BmcUFMSWVOTHZSengybzln0gF8QVVfeXFMTVZ0cm5uS1BZSHk0UkdBOWpYVEctazNiTFdldEJTazBhZ2VwaXdIbHQ1Wlo3U3hGclNZN1FDdUE1NFFzMzB3SjljMVdINWFmWHhRdWZRTW5qVGswYU1wSUhEUFg4cERWS0duN2YzLTFxaVduMHZDcjhJbVlXTQ?oc=5",
+      "title": "White House pushes companies to ditch Macron’s space summit - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM1hZX0lUZkdud01ZSWUzRGxjOWdubklJVVJGRWNfLVg1Zzh0eHVlY0tSOV9INHBDZ2JOdjN6UTBZOXdBX2x3SVJvTi11MGlvVlNtU1ZlazNWWklmd1FDV1dWeU4ycDBIYzFBMXhXNC1jQzFMcjFXTkJ5cHBOY1RzOFVSRmt1endw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T03:53:50+08:00"
+      "time": "2026-09-03T04:07:00+08:00"
     },
     {
-      "title": "Baker Mayfield Talks Run Game Blues - JoeBucsFan.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VZzhTN1Q3Zmt1Nm5Ka1h6dG01ZldtZi1vdHRZOHhQaFpiTzlaU1ZSNGF4X1hqcGNjNkZ0VnJVcGU3ZnY2RElBQTlfUDhYVU5MQnZRV2REM1lIOUtjYndkM0thY3hIM1hvWUZRaE0yVXB2SE5jeTlyTVRQdw?oc=5",
+      "title": "DOJ sues Kansas school district over transgender student policies - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWTJxNndvZzF1QVZXcGdtZU5QUlpYalZOTWxoTU5XUS1BUnZaanRLSkd5ME9SelN3azgwM29UUlVuZmY5dHNYOXd4RGZWQmZsdlhUNUtZNFJGU01qQW9wWlRscjlvZzgxN1ptb2ktekY1SU5YVWZkb21VbXAwVFVMd0ZvMGVYdUJ2WF9Ua2JUR3hxbHhhR0VPc2FoTFJjWVAwMHfSAacBQVVfeXFMTTlMckhpNVg0WW4tbE5ZSnY3dmpzRWJMTG1vVEZwRl9FR2J1TzBiMjRaZjlhT0libW5qOW9WaUFWSzNBT08ybGU2SUY0SXBUVk9kUUVPQ2swRFB4ZmpCVndHRUt2UDhYVVlQWVZQTWJzWkItRVBjRTZsSUFZb0J6aUhFR0x0bTJWSE5JNFZJcm9hb0JKRTNYMThRQW5DMHdlMkx4dUZ4cGc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T03:20:38+08:00"
-    },
-    {
-      "title": "Army Secretary Dan Driscoll Lauds Hegseth As Pentagon Refutes Reports Of Leadership Gap - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFU1aEVvMENCSXFUUWQ3bzZGYmUzWUU0UnZOQU5NY1ktY2pMWm9pdGsxREFlTlZoTU1Cbll4N2FKeWhMcXBlUm9oSUtmM3B5bVhUUWI5emxicGdHY2R4LXVYS09aLWF1VXFvYy0yNnFOcEhhZkotdU5iQ29TemhFUFhNMHliM1NpUk1ycHIyUnJzNS1xdHAxbGxJUDZMSUgyX0lsMC00eXdlMHR2NE9BUkdzMmF6bU03ODhiQ1NBYmtKS3RGSXA1OFlWcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T03:12:00+08:00"
+      "time": "2026-09-03T03:26:00+08:00"
     },
     {
       "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
@@ -143,34 +161,16 @@
       "time": "2026-09-03T03:05:31+08:00"
     },
     {
-      "title": "Acer Shows Off a Transformer-ish Concept for a Windows Gaming Handheld - CNET",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeWJmY2oyUU53SmgxVEJYbnBXZURBRklBWEZuRTd2M2k5NlJYdXhBRDhNMGVxOFRBb0J5d0dNS0FMUmdyQWl1Z0xZLXhZSjU2M28yUVlReWRiV0RfbzhVOWdpSEtod2dFbUJxWERpWVItYXg3Wmt6czlPcEU5SDNrUUk5LWRfNkZlOWJVMklIRTQ1Y21ZZWxkUWtmbE05SmkyMlFwNDQtZw?oc=5",
+      "title": "Tillis renews calls for Hegseth’s ouster - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYTB2S1NfWnZaQkFrZHREQmFXdTZCQXBneldfV0ZGTTFZYTA5andhbTNhcVR5MzJtSDI1aFZfNHYyUnJac2JrbWtCU1preFg0VkhVSjRFYnFScEE4am9ZcFdwX3VJLTh2akhjMGhxaWw0VkpNVlJpSFpCT2dUUS1zVkQ4cHFQRmNpekRUSHZCSU0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T02:22:00+08:00"
+      "time": "2026-09-03T02:54:12+08:00"
     },
     {
-      "title": "Raiders officially name Kirk Cousins their starting quarterback - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdUh6X3N6YmUwNW42UmdyM3k5cE8yZEhqYUk4MFU1YUdRWmFkZTE0NDRmbnpoTXdlSm92d3l6c2hRcU96bDJyU1BCTWpOc2FrUUMydW5SNUl4OFVIQ0w2NEpVOU8zTFZISjJpclFPUVVxWU00R3VBbDZrcmduSWhDcnJ5a3Z3N3g3MWdOdmFFZk1ycFZKaUxZLURqbWVXRmVXMG9ERnJ6clotTmxCWjhZdVJzOUVGRnpucU1ZbGlpT2k5bWc?oc=5",
+      "title": "Donald Trump says US prepared to strike again after destroying Iranian radars - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3bk9RaHF5WUxYWWFRdDJuMHBxWC1aWnhiSGxhSERSa3hJT3JScHZkMkw1TEJ4SzVJSDBHTzUyUkx4NGdzbGFXcGl1VWd3M2UxVG1OTWpUUVNMV3hTeDlF?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T02:11:15+08:00"
-    },
-    {
-      "title": "The $1 Trump coin: legal tender, depending on what you mean by legal - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HVjlDbWhtbzQyekJpSFBOcDZEby1TZzJNMk9fNVV1QVp1VjdEVnltQ0RyZER1cjBSQXJON0ktSmV0b1VKcDVzcWtwdm9ndUlFQ3RCbFFxVDczWmg5dXFWQk5fcXh3Q1VDWFFzbFprWVBIV2V2WF91NA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T02:10:00+08:00"
-    },
-    {
-      "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T02:01:52+08:00"
-    },
-    {
-      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T01:33:45+08:00"
+      "time": "2026-09-03T02:51:02+08:00"
     }
   ]
 }
