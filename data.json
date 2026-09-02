@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:53:34.019623+08:00",
+  "generatedAt": "2026-09-02T13:24:39.758420+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -263,8 +263,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:45:50.773013+08:00",
-        "next_run": "2026-09-02T13:15:50.773013+08:00"
+        "last_run": "2026-09-02T13:16:56.853466+08:00",
+        "next_run": "2026-09-02T13:46:56.853466+08:00"
       },
       {
         "id": "539a150ac028",
@@ -281,8 +281,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:22:37.762747+08:00",
-        "next_run": "2026-09-02T13:22:42.130879+08:00"
+        "last_run": "2026-09-02T12:53:40.668193+08:00",
+        "next_run": "2026-09-02T13:53:47.214790+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -290,8 +290,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:44:41.379347+08:00",
-        "next_run": "2026-09-02T13:14:41.379347+08:00"
+        "last_run": "2026-09-02T13:14:46.364521+08:00",
+        "next_run": "2026-09-02T13:44:46.364521+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -299,8 +299,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:44:40.990367+08:00",
-        "next_run": "2026-09-02T12:54:40.990367+08:00"
+        "last_run": "2026-09-02T13:14:45.996102+08:00",
+        "next_run": "2026-09-02T13:24:45.996102+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -335,8 +335,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:45:41.408552+08:00",
-        "next_run": "2026-09-02T13:00:41.408552+08:00"
+        "last_run": "2026-09-02T13:15:46.330240+08:00",
+        "next_run": "2026-09-02T13:30:46.330240+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -542,8 +542,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:00:53.307572+08:00",
-        "next_run": "2026-09-02T13:00:00+08:00"
+        "last_run": "2026-09-02T13:00:59.298420+08:00",
+        "next_run": "2026-09-02T14:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -551,8 +551,8 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:00:55.598778+08:00",
-        "next_run": "2026-09-02T13:00:00+08:00"
+        "last_run": "2026-09-02T13:01:10.882670+08:00",
+        "next_run": "2026-09-02T14:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -641,8 +641,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-02T12:01:16.681726+08:00",
-        "next_run": "2026-09-02T13:00:00+08:00"
+        "last_run": "2026-09-02T13:01:22.594432+08:00",
+        "next_run": "2026-09-02T14:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -784,30 +784,30 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "409Gi",
-    "uptime": "16:12",
+    "uptime": "16:43",
     "cpu": {
       "loadAvg": [
-        1.38,
-        1.39,
+        1.33,
+        1.32,
         1.31
       ],
-      "usage": "13.2%"
+      "usage": "14.2%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 41.3
+      "usedPct": 41.4
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "5.2",
+        "cpu": "3.8",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.4",
+        "cpu": "3.3",
         "mem": "0.0",
         "name": "sysmond"
       },
@@ -817,14 +817,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.4",
+        "cpu": "0.5",
         "mem": "0.1",
-        "name": "launchd"
+        "name": "opendirectoryd"
       },
       {
         "cpu": "0.4",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       }
     ]
   },
@@ -1009,6 +1009,14 @@
       "detail": "1 commit(s)"
     },
     {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-01T12:47:55Z",
+      "title": "chore: remove unused actingAdminId from lib/admin-auth.ts",
+      "detail": "1 commit(s)"
+    },
+    {
       "repo": "evilmoni/KinKin",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1166,14 +1174,6 @@
       "actor": "YBOT8AI",
       "time": "2026-08-24T22:02:59Z",
       "title": "lucky8: revenue deliberation — 2026-08-25",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-24T01:02:46Z",
-      "title": "docs: remove stale Client Tracker Pro references (repo merge",
       "detail": "1 commit(s)"
     },
     {
@@ -1524,16 +1524,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-02T12:53:33.746988+08:00",
+    "generatedAt": "2026-09-02T13:24:39.463359+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 29.5,
-          "code": 3,
-          "precip": 0.0,
-          "wind": 15.4,
-          "time": "2026-09-02T12:45"
+          "temp": 29.6,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 15.5,
+          "time": "2026-09-02T13:15"
         },
         "daily": [
           {
@@ -1562,11 +1562,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.8,
-          "code": 3,
-          "precip": 0.0,
+          "temp": 28.9,
+          "code": 51,
+          "precip": 0.1,
           "wind": 13.1,
-          "time": "2026-09-02T12:45"
+          "time": "2026-09-02T13:15"
         },
         "daily": [
           {
@@ -1602,12 +1602,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-02T12:53:34.019487+08:00",
+      "time": "2026-09-02T13:24:39.758273+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-02T12:53:34.019487+08:00",
+      "time": "2026-09-02T13:24:39.758273+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
