@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:07:27.894985+08:00",
+  "generatedAt": "2026-09-03T07:38:34.147974+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -263,8 +263,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-03T06:53:45.483035+08:00",
-        "next_run": "2026-09-03T07:23:45.483035+08:00"
+        "last_run": "2026-09-03T07:24:48.383135+08:00",
+        "next_run": "2026-09-03T07:54:48.383135+08:00"
       },
       {
         "id": "539a150ac028",
@@ -281,8 +281,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-03T06:35:42.725648+08:00",
-        "next_run": "2026-09-03T07:36:36.120914+08:00"
+        "last_run": "2026-09-03T07:07:34.100312+08:00",
+        "next_run": "2026-09-03T08:07:38.722655+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -290,8 +290,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-03T06:47:34.639475+08:00",
-        "next_run": "2026-09-03T07:17:34.639475+08:00"
+        "last_run": "2026-09-03T07:17:37.374323+08:00",
+        "next_run": "2026-09-03T07:47:37.374323+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -299,8 +299,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-03T06:57:35.173177+08:00",
-        "next_run": "2026-09-03T07:07:35.173177+08:00"
+        "last_run": "2026-09-03T07:37:39.052878+08:00",
+        "next_run": "2026-09-03T07:47:39.052878+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -335,8 +335,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-03T07:03:36.137746+08:00",
-        "next_run": "2026-09-03T07:18:36.137746+08:00"
+        "last_run": "2026-09-03T07:33:38.835071+08:00",
+        "next_run": "2026-09-03T07:48:38.835071+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -787,44 +787,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        1.05,
-        1.2,
-        1.22
+        1.35,
+        1.27,
+        1.25
       ],
-      "usage": "13.0%"
+      "usage": "13.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 43.6
+      "usedPct": 43.9
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "2.0",
+        "cpu": "1.9",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.9",
+        "cpu": "1.4",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.4",
+        "cpu": "0.3",
         "mem": "0.0",
         "name": "notifyd"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "4.3",
-        "name": "com.apple.WebKit.WebContent"
       },
       {
         "cpu": "0.2",
         "mem": "0.1",
         "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1008,6 +1008,14 @@
       "repo": "evilmoni/TechWealth",
       "type": "PushEvent",
       "actor": "YBOT8AI",
+      "time": "2026-09-02T06:02:14Z",
+      "title": "docs: EXECUTION_PLAN — record Lucky 8 Round 5 (CIES intermed",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
       "time": "2026-09-01T22:06:05Z",
       "title": "lucky8: revenue deliberation — 2026-09-02",
       "detail": "1 commit(s)"
@@ -1178,14 +1186,6 @@
       "actor": "YBOT8AI",
       "time": "2026-08-27T22:06:21Z",
       "title": "lucky8: revenue deliberation — 2026-08-28",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-27T04:06:50Z",
-      "title": "fix: run monetization migration in production + repair RUN_T",
       "detail": "1 commit(s)"
     },
     {
@@ -1536,16 +1536,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-03T07:07:27.554807+08:00",
+    "generatedAt": "2026-09-03T07:38:33.855890+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 23.7,
+          "temp": 24.0,
           "code": 3,
           "precip": 0.0,
-          "wind": 16.7,
-          "time": "2026-09-03T07:00"
+          "wind": 16.4,
+          "time": "2026-09-03T07:30"
         },
         "daily": [
           {
@@ -1574,11 +1574,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 23.3,
+          "temp": 23.8,
           "code": 3,
           "precip": 0.0,
-          "wind": 11.2,
-          "time": "2026-09-03T07:00"
+          "wind": 11.1,
+          "time": "2026-09-03T07:30"
         },
         "daily": [
           {
@@ -1614,12 +1614,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-03T07:07:27.894845+08:00",
+      "time": "2026-09-03T07:38:34.147844+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-03T07:07:27.894845+08:00",
+      "time": "2026-09-03T07:38:34.147844+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
