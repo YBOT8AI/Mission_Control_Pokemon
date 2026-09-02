@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-02T08:11:48.785607+08:00",
+  "generatedAt": "2026-09-02T08:42:49.827559+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606659.2,
-      "changePct": -1.67
+      "priceHkd": 605052.0,
+      "changePct": -1.95
     },
     "ETH": {
-      "priceHkd": 18960.26,
-      "changePct": -2.12
+      "priceHkd": 18883.03,
+      "changePct": -2.57
     },
     "SOL": {
-      "priceHkd": 784.16,
-      "changePct": -3.04
+      "priceHkd": 781.57,
+      "changePct": -3.49
     }
   },
   "stocks": {
@@ -33,36 +33,66 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1089.91,
-      "priceUsdOz": 4324.0
+      "priceHkdPerGram": 1090.44,
+      "priceUsdOz": 4326.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.21,
-      "priceUsdOz": 64.3
+      "priceHkdPerGram": 16.19,
+      "priceUsdOz": 64.25
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 711.56,
-      "changePct": 5.83
+      "priceHkd": 715.09,
+      "changePct": 6.35
     },
     "Natural Gas": {
-      "priceHkd": 23.18,
-      "changePct": 0.75
+      "priceHkd": 23.2,
+      "changePct": 0.82
     }
   },
   "news": [
     {
+      "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
+      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T08:36:24+08:00"
+    },
+    {
+      "title": "Live updates: Case against suspect in Charlie Kirk’s killing can proceed to trial, judge rules - cnn.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZWwydDBtZURUXzhZXzFlcVBoY2VLQkk3a21FN1lfeGFmQlFpSmVGVzBiYnZFTjRldmZyeEZ1Z0llUjlhNEVHTHh3QUQ5bVBiUWZSMjc0Y2JqSUtCcjVFVlBpbGp4eHg5QXVvLWZuQUNPbkMyNW84YTVQTWhkYVFJeW90OENWUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T08:32:00+08:00"
+    },
+    {
       "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-02T07:56:44+08:00"
+      "time": "2026-09-02T08:13:26+08:00"
+    },
+    {
+      "title": "Germany blames Russia for drone attack on airport, announces countermeasures - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS2tyZUVSRTdYUVNqVm13MUJmUmVxOFptcnRJVTY5SjQyQkVPTzBjRGpCbGJtWFN4QmdpU1dQM3FCb2ZHZWx4N3p5N1JOTkVNdVphQlVYcjhrZjJ5M3FrZE5lelFhcmVWODNKZlZvd2piLVRmNm1OY3ZMa3RaSFdudXdTcEthaDEtbUprYnFxRGFwT3FQSWJzX2pVcDQ2TlRISGVPcWlpenhTZldFV21qWmcyQ3IwTUk4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T08:11:13+08:00"
+    },
+    {
+      "title": "Range Rover launches first fully electric model",
+      "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T07:43:47+08:00"
     },
     {
       "title": "Will self-flying planes transform the skies?",
       "link": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T07:27:35+08:00"
+    },
+    {
+      "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T07:26:41+08:00"
     },
     {
       "title": "Soft launches and late sittings - six ways to get cheaper meals out",
@@ -83,22 +113,16 @@
       "time": "2026-09-02T07:08:00+08:00"
     },
     {
-      "title": "Postal Service work to comply with Trump's executive order is rushed and sloppy, a whistleblower contends - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQkd4Zk5iSDQ5MEUwOWtZRm9aNlNmSTI5OUE1QnhxSmZvNE41MnJPUUtTWVcwbXVRbDZoSF9FaS1DTUJPbG8zZ1MxOFRuVlR3Z3dSWVFzZTVuWjk5dFRrNUJfVkdicUk1RUMyM29WSTVmSTNpZWlyZFNQWVVBOGJ0cHlVeE5YTDBlLUNwdk40OXQwVGtoV3FyWE93Q0gzbXZjWkJPb21LTQ?oc=5",
+      "title": "Government borrowing costs rise anew, adding to pressure on global policymakers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSl9GcExBdk5lb3U4c1NTalROY2NUNHE4SXdlbE5yemw4WkwteWNMdTZVTFdrcHhPUVF5Q181eTlxZ2xoUkV6Q3F4a19ldHJBdGFnaG9URjY3bXNTMDE0aV9mVDU1MUtxMTRXRl9pR2p2THVmc2JiWGlSb1prUElXTWtaNzBsb3Z5U2tCNXZlTlMtM3pHU3Y0dkVNWUhHWmVWUmJxbnZmVVFlNmVlMDR3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T06:57:00+08:00"
+      "time": "2026-09-02T07:00:53+08:00"
     },
     {
-      "title": "U.S. has launched ‘large and powerful’ strikes on Iran, Trump says - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
+      "title": "‘Wheel Of Fortune’ Announcer Jim Thornton Suspended, Role Recast - deadline.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdm5Pc1FXRHNhU2V4VW91RVNDcGs1MERJdnZYV2NLVWQ5YXBMemg4eUZLcHFBanIzeldyWlNJQUk2TmRVU215SFNwN2p0NEQtVExaeWlBLUdjZ1ZQNWhmdTNWUDlJTDMzYlA3cVI1QXVSRVh0NjZJNmV1YVZqaVI4bGNubHFqSmFZcHIzdzB5czZ4bmsz?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T06:42:36+08:00"
-    },
-    {
-      "title": "‘Wheel of Fortune’ Announcer Jim Thornton Suspended, Position Will Be Recast - Variety",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlhhdFZkREJ3R1Zjdl9EWXQxaDNKQzhVQ3dqaGNPZk9RR1BvLXR5U0ZSS1NCd25Rc2JqTHlEQUMxTVhjNlZJNDkyekZJWTlTZkdjWEVFeVZMTGpnUEUzcHZwNnp6dFJhY2hNOFBESUpJNEZMM0tSRlozR2xCUXY5RkxwZHJvZU9aSWRKS1U3Q0s1c3J5LW5jdnNR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T06:33:00+08:00"
+      "time": "2026-09-02T06:52:00+08:00"
     },
     {
       "title": "House Censures Republican Accused of Sexually Harassing Two Aides - The New York Times",
@@ -107,28 +131,10 @@
       "time": "2026-09-02T06:22:45+08:00"
     },
     {
-      "title": "Global bonds extend selloff, oil prices surge on renewed US-Iran strikes - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzRjcDczTGxqaGRleWZNeUwtZnpOTjRjNWhmSEt2YkQtY1ZwaDdhZ2RxX0hCWEZZdXpPSmlWZW45ZVBHM2lsMU9XalYtNEl1cGxpWjVhVTR2cDU1ajlNMzRJb3FZaGZ4akprMWhPNmd4cmJFOFI1Q29iWlI0ZnFXNXljcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T06:22:20+08:00"
-    },
-    {
       "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
       "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T06:02:14+08:00"
-    },
-    {
-      "title": "Andy Burnham promises more devolution and public control of essential services - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYeFQtRERKWmxxTlFRTW9rc09POWN6dl9iQVo4WmlISVRZS1RnNzY2WkVwQkdSTjJuRXhmQWpZbzk0RUlnYS1uTFExVkp1cDhqZkpENDhGcjFyQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T05:48:44+08:00"
-    },
-    {
-      "title": "Rams owner Stan Kroenke agrees to buy Angels, ending Arte Moreno’s troubled tenure - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVzI3aHM4QVl1OGxCTDBGa08tTmFkaHlsekE1ZzZlRlB2VDB0WFdWSUhsVWY5TW5ZUDhjZkkxRXVZR2hlbU5panNPQS14VWNMWm1iejZuY0J0NjdjczBkZnhaai1UYWlfcUJ0M0VRa0pKYUhLdklBbWdLRVNfa3R4LU5FZGh6YjlZa2xWWG5HMHcwbW5xektzTDQ5N2phMmxMX3FvVVlBS2liVkNsY0Eyd3hnSkVEdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T05:48:00+08:00"
     },
     {
       "title": "Ariana Grande completes tour and steps back from public life",
@@ -137,40 +143,34 @@
       "time": "2026-09-02T05:41:05+08:00"
     },
     {
+      "title": "How Monsoon Season Supercharged the Deadly Grand Canyon Flooding - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlp5TTd6X1p3X0w5Y2Q1WUx1MWJjLUl6LXM2U21jaE1QREZuVVA3M0FYLVRMSkJCU2tlenpURFh2amJoOENMXzluVVJNR2NUejFCVnJPMDRCV1dwT1FYbGpxcTNfeDNPNUo2ckZQNUk1eWJtNmI1SjZidkxqbVVlQ0ljVEZhVHZWVmtvR2x3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T05:34:42+08:00"
+    },
+    {
       "title": "Germany says Russia behind Leipzig airport drone attack",
       "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T05:05:22+08:00"
     },
     {
-      "title": "Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGRZSXE1ODJsVTdJd19RYVF3TnVNSHhjd1d4cnNwT2RSMHg5bzdyWlFDWTVUR1EyZ1RSdXJvaFBGVGpwR0hVeDMzM1NLSnduSm1pZ0pTMkJPRVU2dnBCSlN1V1JZQUJlYTVERURsYUF1ZlhPcjJHSUdPZUNYTEFVazZYbXBBakhVSl85R1dKcmE?oc=5",
+      "title": "Dell Stock Gains After Earnings Come In Way Ahead of Estimates - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xWmNLMDZEeXFDOVdDdHJlaWtNUl9mTDBnNVVHSDBnWkhiM3JmZ1g0OXJacmVHN3pNNXF1TFU0Y1NHa0F6UnJDZGxNei1XNlFjMVpmUGtmODVrUUd1THNibVFhbHYyUEZzMlhjbjQ4ZFRFY3ZlcGc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T04:55:32+08:00"
+      "time": "2026-09-02T04:52:00+08:00"
     },
     {
-      "title": "Germany says Russia responsible for drone attack at Leipzig airport - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeE1lRUstV1lRTDlmeGRheDFMS0JsTHhNcFUwc2FIYWp0dWxMcWdyN3ZnMEpYRmRidU5QUUZWeV9paTE4c09QYjZSRHd2Vnc0Vnc4dV9CUzJZc1VHMjVoajRFeWU4U1FZekxab0d1MXd6UTFlLVZvWEVQTmw2S1M3ZEVQaUYya0dVTEhIaEtXQzQwN3NkbXR4UXZEY0hXY3lqNEhPYm8xOVphY21rWFE?oc=5",
+      "title": "Allen Iverson Reacts to Naomi Osaka Honoring NBA Icon With US Open Outfit in Trending Video, Photos - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOU4yblZRbFlqZXRpNC01SlFBajdkbWl1bVZXaDdpTldHaEh3b0RXSGkyM0RvWXNYQlhLc25uWThHalhNbGtvbUZmX3M0bkk3S01jQTFnTkNmNWtHMS1va3NPYXRiYVlBOGRyOVRZblpyNk9odnRzVl9FLUFaemxYUEctN2J1a3RDYVJ0TWJtQklSaW9yZUhFUzBKSDM0ZDFENVN4Nkg4TWFrNVg1VmpNdkV4SGVYcUFqc1IzWGhrS3FXcm9nMTFPU0tldUs?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T04:35:42+08:00"
-    },
-    {
-      "title": "Deadlocked Lindsay Clancy jury sent home, to resume deliberations on Wednesday - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlpXQ203Y0ozaWpxdUFZWjNtYU1vVkZsWXJaQk42Z18tMUlrZW5OS2dldlp3QXJ0a2l6LUxqZVAwLVlXMUVkX3lHa2kyRkRaaVUwYU9Ua0U4NlVWc2ZscDlhYTN5SDdYRjZid2NENmxqbVNBMVhXRkEwSjAzMVpJYUJOSWhXRzljVUhJdUdqdEE2OUpmU3dqaHR2OGxvVGh4UC1jVFBXREFOcU1oSURYX2VQUHpYX2JP?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T04:30:24+08:00"
+      "time": "2026-09-02T04:41:03+08:00"
     },
     {
       "title": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
       "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T04:24:28+08:00"
-    },
-    {
-      "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51VnZVMGZaX0JwQ0dVOHV2SXJkMDhob2Nja3RLQXBCWTlBLWN5X1VXNlZPdGpxYUF2RFJoaXI0czFnV0lSSHdhRVZqT1RMRjJ5Y25TczVvM01wVndnNktuU1JVemd5OFYxRWhsbGdzemNINnfSAXhBVV95cUxQejhobUpIOURGX2Zaakd1M3FMZmNzbHY0VEJHY2pybkFMOHZNOG53RlNyb3czSHd3WXBKWWtwYmFJc0QweEw3d0pnLVhGTGtuT1hXdVZ0MFhUUGxsQWRybzN0bG90SlV1SVZlZUw4ekdXS01CbjJWZjU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T04:07:37+08:00"
     }
   ]
 }
