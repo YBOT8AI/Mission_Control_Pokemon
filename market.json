@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-02T09:13:56.167166+08:00",
+  "generatedAt": "2026-09-02T09:45:02.875221+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605616.48,
-      "changePct": -1.78
+      "priceHkd": 603358.56,
+      "changePct": -2.02
     },
     "ETH": {
-      "priceHkd": 18896.91,
-      "changePct": -2.36
+      "priceHkd": 18814.43,
+      "changePct": -2.71
     },
     "SOL": {
-      "priceHkd": 781.8,
-      "changePct": -3.27
+      "priceHkd": 777.57,
+      "changePct": -4.08
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1088.91,
-      "priceUsdOz": 4320.0
+      "priceHkdPerGram": 1086.76,
+      "priceUsdOz": 4311.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.15,
-      "priceUsdOz": 64.06
+      "priceHkdPerGram": 16.1,
+      "priceUsdOz": 63.88
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 719.48,
-      "changePct": 7.01
+      "priceHkd": 718.46,
+      "changePct": 6.86
     },
     "Natural Gas": {
-      "priceHkd": 23.18,
-      "changePct": 0.75
+      "priceHkd": 23.13,
+      "changePct": 0.51
     }
   },
   "news": [
+    {
+      "title": "Apple Maps changes Lake Ontario to Lake America, joining Google",
+      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T09:32:24+08:00"
+    },
+    {
+      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
+      "link": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T09:27:34+08:00"
+    },
+    {
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "link": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T09:23:00+08:00"
+    },
     {
       "title": "House adopts resolution condemning socialism, with 8 Democrats joining Republicans - CBS News",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXRYQjlyRXozMEtCWXZrdWZNaUNtWndJUTc0NUQ4QXRNUHZyU3BfbklvZUtlZ3NfZzU1UzBUa1dwaElGZzVLYm14bnBPa216eTJYWHJPYXpDcWVsdnNOaE1kc01hQzZPZHRIdUVqNUhqZ1hPa3ozNnR6ZUhLN1VaRG1GNA?oc=5",
@@ -59,22 +77,10 @@
       "time": "2026-09-02T08:49:10+08:00"
     },
     {
-      "title": "Apple Maps changes Lake Ontario to Lake America after Trump order",
-      "link": "https://www.bbc.co.uk/news/articles/cddvyyz0e47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-02T08:36:24+08:00"
-    },
-    {
-      "title": "Grand Canyon flooding harms an economy that’s still recovering from a fire - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR203TXk3RVY4QllwSGwxM2lOQUJNZktBNFh4UDJWMWdNdjNhbVJ5dUdIem5JQ1FUNkJ1SWZrV2xtRnU2WE9KanRfcWxNRDJ0RW5XZHJUQXNtTUo4WDlWeWlDMEV3bTkzY1B6T2JiQl9xNG9wWUd4UG1fcjZUcFFWZDZBZFdFNlRFNjZMc3FhSUFqelo2emRhWHlIX1ZIaUhTanB0RWMzUnlqUQ?oc=5",
+      "title": "Senator Ed Markey wins Massachusetts Democratic primary - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTHI5TXFoSTN2Si1nbFpka3RJVk5Edk1YLU1BazRtUG55Zms2Z2NXalJzeHp2QUxfdUVhWDhYemhrSUphdXZhclFDbUhSQmgwUkNld29XMjhnaDZWZnI3QnpGc2lFZkRBV05EWHM2V3VTZUt6TXVGZ0VjS01aNEZrMDcxWkpiZVQ1eWk0cmFHQXg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T08:29:00+08:00"
-    },
-    {
-      "title": "Democratic Sen. Ed Markey easily fends off Massachusetts primary challenge from Rep. Seth Moulton - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUlI2alRCZzhibmZoQng2MDdialFkRnpTNVJCV3V2LXdPNWtCTnpIcVJSSFEwLWJzcnNwc1lwRHVvZVZhSmwzUVFFd19CUmw3WDQ5dUJZSjMtQTd5WjhQRzc5cFBTRTZuVTZBTVAtSnc1Z0hVN2FZcng0RGJNcGI4VlJIQUVvMDIwRUQ3SDBnZVdFX1ZiTC10V2tSSDd6dzJxcXctZnJPLWhqc2s0eVk2VXRsaXpCbUxhRkpDUHppYmJOeTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T08:27:00+08:00"
+      "time": "2026-09-02T08:34:00+08:00"
     },
     {
       "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy - Axios",
@@ -83,13 +89,25 @@
       "time": "2026-09-02T08:25:59+08:00"
     },
     {
-      "title": "Judge rules man accused in Charlie Kirk murder case will stand trial, facing possible death penalty - NPR",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOajZQZjRoVzlrNnJGVERvSkRGQk1mWWxGUDNKRFRTbnphaWFKZVNGdUVrbkc2dklGMjJYSzQwWUNkbWlPVXg2M3dyQk9KX3lOSEVNcksyTG9ldlJOYjFIRVZIU3VqMUFpWXJfNlhRaXhpYmhMVHYzc1VKMUdocGxINzlXa2NfbUlKelNoRDRwVTc?oc=5",
+      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhb3R1bTY2cGZZbXJVUDVVNGdudkJ3NEVMZGpBSmxHdV84dXZQR1VmaEdqQXhnOXlxcWthSk85S25zdWRZOVhLLUw1T2s4SWhnb09DWjd2YXJqQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T08:25:40+08:00"
+      "time": "2026-09-02T08:24:22+08:00"
     },
     {
-      "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+      "title": "Haley tells Vance to ‘choose a side’: Israel or Tucker Carlson - thehill.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHljOXczZE9ua0xhQjB4b01lRFZ1dTZuSXFoOUMxdWxQNm5VVlZITGFGdlZoLW5uUmJrVnhmMm1tbXp6YlROUDBkWDBDY3pQanlkQTA4UzdieGg3Tno4bDJmTnc3WU1YNlY3dHdvckx1QklSbmNveDBhTDczM095Q2c4SWNxdGtiRloxTS1INDZDSmF1M0FnUNIBngFBVV95cUxQLWVYMDEzM3ExcWlCQ3MyN0YxM3Zpb2xuekxOVlBFQ0tZNGhsZUtlM3RUZHVNN1gyeFdmVjRkakoyNmVoejBZbnZtMXJJV1d5XzloTDBURDEzSm80UjRnX1BlOE1ZU3BIVVZIbllxT0VGbXFQMjVsNW9MRkk0bmF4SkxyUENpbXVYcUxMSnFoUEdyOElhODdOOW1Yd1oxQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T08:20:00+08:00"
+    },
+    {
+      "title": "‘Wheel of Fortune’ Announcer Suspended Amid Investigation - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbkFfUzZKWTljRFcxSEpHZHBvQUZUdm9Ob0ZTV082MlFKNEdIa3BZeDF6V0U2ZmlwMTl2ZHpPQlg0Ql8yQnJObE5VOHNpMzBsZlVlUmdJNmM5eFNrYjFEalhxZmNjb2VpVnhqMml2N1F3UTRuQzZ6M1I5eGNSekUtTUhlNnpvVnotZVgxX21NeXpWQmt1X3hRczBPeWg1bGgwdzkteEoyVEVzZFU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T08:18:19+08:00"
+    },
+    {
+      "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T08:13:26+08:00"
@@ -101,10 +119,10 @@
       "time": "2026-09-02T08:11:13+08:00"
     },
     {
-      "title": "Can JD Vance Win Over Skeptical Jewish Voters? - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVjlZYVdMSUswa2s4WmRpWXgteEFCMVdCNDBQTFhrSWNSUkNlWDRuR2hsQzZvbzdXbl96TTM5eFdzRFhEZ1FwYlFSek9PWHU4aUI4cy1zdDNJdXozZEZITlB2cThCa2d0X3dIV0JIX1ZER1lobEx1X093eFd2TDJBQjZOSUR1R3d2QmZzT053?oc=5",
+      "title": "Whistle-Blower Says USPS Is Secretly Proceeding on Trump’s Mail Voting Plan Before Midterms - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3FmOWxOTDFkbS1Wa0NNUXFsc0VLd050blQtdEk4UUNBUkZOOEQ3VDB1dXF0T08yODdtUnhvRldWWXdvYWJ6MmVEUFZTaHdndlhWNjM0RUFObk9jczVybTJBbm5iZnhCTXV5MWtaMVltOUJVbDk5dU5rZGFEX0Z5OE8tSU0wTTRj?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T07:48:45+08:00"
+      "time": "2026-09-02T08:06:04+08:00"
     },
     {
       "title": "Range Rover launches first fully electric model",
@@ -131,34 +149,10 @@
       "time": "2026-09-02T07:17:10+08:00"
     },
     {
-      "title": "'Wheel of Fortune' announcer Jim Thornton is suspended - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3VNNGpJNGRhN1hkcFlFdEd5NlMycjYwSlY4T1IyOVMwNUJCMXJxbmFaR0stQTVmZWpCa3BqY2l4ZHJpbnpPeFZOQXZEQmVaUzg2eXJOTVZXcmhYNzNpckRZaFRDdWJtSmk4d0tteWV1X0YzeGc3bzA4ZDdzaklLSjBjcVJCQXBLMElYU0lCUkhpaXhRZjNWQ01KOHY5Y01xTWw2UThyamV3X1dmVjJDRWozZk05NnFnMzV0YlN3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T07:04:00+08:00"
-    },
-    {
-      "title": "Wall Street ends lower as higher yields, rising oil prices mark shaky start to September - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjZiWGhvamxJTzU5Ync5V2xObHhDRk1PRlZFRkZnZVNqQzM0dHhuUnBMeGJDYW9YWmgxc29fRTNUaTVRT2xLWFZUOGJMWDU4MTlhQVVXRmFOQ3VGQnlNME9tQ09nUW0yMGNUR1c2amZkSVBQbHcwWDNQY0tfZHZoREF4SzVqZ2pNYzlCQVFmSkJMNFFwMEptQi03WlZlZG82bDVNZWhnUm9KMnFDS1pqVWlHZDZ2MmE1?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T06:26:55+08:00"
-    },
-    {
       "title": "Cup noodles made with cold water? BBC tries Japan's viral snack",
       "link": "https://www.bbc.co.uk/news/videos/ce30lqln299o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T06:02:14+08:00"
-    },
-    {
-      "title": "Andy Burnham promises more devolution and public control of essential services - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYeFQtRERKWmxxTlFRTW9rc09POWN6dl9iQVo4WmlISVRZS1RnNzY2WkVwQkdSTjJuRXhmQWpZbzk0RUlnYS1uTFExVkp1cDhqZkpENDhGcjFyQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T05:48:44+08:00"
-    },
-    {
-      "title": "EXCLUSIVE: US refusals of crucial newborn vitamin spike, raising risk of dangerous bleeding - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRVkyQ2R6Tk9iOWUyM3RBVmVzX0VrUkxCa3FwNXY2TkhCcmNtWmVpR0FycjlOZkF5SlFqMExicDZJbXN4SU1nYWRIaDRpZXFBRWNZOTN4dG9teUJDODI2TnM2ekpYR29iODdYS2gyVFNEYlNEb3lEdWMyTXNPSzlSOGw5b3VWbEczbnc5ZHY2U3NDcjRFM0wwYjdlQTQySkR3STU4WnRFR1VxQnNjd1Mtak5pSERFQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T05:48:37+08:00"
     },
     {
       "title": "Ariana Grande completes tour and steps back from public life",
@@ -167,10 +161,16 @@
       "time": "2026-09-02T05:41:05+08:00"
     },
     {
-      "title": "Bank of America executive identified as victim of stabbing in Times Square - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWWF3Zng2ZHNRczVrYno5NV96NHFKRHhWUmpqVzN0SG9GdWZTaG5POWVKVHRkSV9Hd1lDVFZuSXJ1elRWRWJJME5pSVNCOEJMYVZIdjdVWUdUTmhfUnVOdkJPcE80WXBqUDRYdTJNblRURGV4UG1ualhFdmQyTjBOVUtsZWQyQzFNQlFMOUZkeUdzYXFl?oc=5",
+      "title": "Grand Canyon flooding shuts down tourist lodging, threatens economy after last year’s fire - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR203TXk3RVY4QllwSGwxM2lOQUJNZktBNFh4UDJWMWdNdjNhbVJ5dUdIem5JQ1FUNkJ1SWZrV2xtRnU2WE9KanRfcWxNRDJ0RW5XZHJUQXNtTUo4WDlWeWlDMEV3bTkzY1B6T2JiQl9xNG9wWUd4UG1fcjZUcFFWZDZBZFdFNlRFNjZMc3FhSUFqelo2emRhWHlIX1ZIaUhTanB0RWMzUnlqUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T05:25:00+08:00"
+      "time": "2026-09-02T05:40:00+08:00"
+    },
+    {
+      "title": "Germany says Russia behind Leipzig airport drone attack",
+      "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T05:05:22+08:00"
     }
   ]
 }
