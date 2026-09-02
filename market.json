@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-02T16:00:07.487017+08:00",
+  "generatedAt": "2026-09-02T16:31:09.250779+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607404.0,
-      "changePct": -1.44
+      "priceHkd": 605930.08,
+      "changePct": -0.75
     },
     "ETH": {
-      "priceHkd": 18971.31,
-      "changePct": -2.07
+      "priceHkd": 18928.82,
+      "changePct": -1.36
     },
     "SOL": {
-      "priceHkd": 782.98,
-      "changePct": -3.11
+      "priceHkd": 781.96,
+      "changePct": -2.32
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1090.07,
-      "priceUsdOz": 4324.6
+      "priceHkdPerGram": 1089.99,
+      "priceUsdOz": 4324.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.17,
-      "priceUsdOz": 64.15
+      "priceHkdPerGram": 16.18,
+      "priceUsdOz": 64.17
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 707.09,
-      "changePct": -0.03
+      "priceHkd": 708.66,
+      "changePct": 0.19
     },
     "Natural Gas": {
-      "priceHkd": 23.12,
-      "changePct": 1.55
+      "priceHkd": 23.09,
+      "changePct": 1.41
     }
   },
   "news": [
+    {
+      "title": "Bus crash on Egypt's Red Sea coast kills 16",
+      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T16:24:24+08:00"
+    },
+    {
+      "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
+      "link": "https://www.bbc.co.uk/news/articles/c93eny4dqp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T15:48:39+08:00"
+    },
     {
       "title": "Why do US troops have history with this Thai city?",
       "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
@@ -59,22 +71,10 @@
       "time": "2026-09-02T15:18:39+08:00"
     },
     {
-      "title": "Bus crash on Egypt's Red Sea coast kills 16",
-      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T15:01:13+08:00"
-    },
-    {
-      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T14:26:35+08:00"
-    },
-    {
-      "title": "Fantasy football 2026 rankings, draft prep: Best QB, WR, RB, TE picks, cheat sheets, tiers by proven model - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdkxjS1BNYmlEVi1pQWpNRkx4OXV4aGRYNExhb3pFMzdtbnpsd1R3TGZ1OUlmSUo4VzNkMnFuZXJldlhKV25BVkVJSWxVVkxHMEwtUVBCTU1zSkd6UTZzcFpyUUNGT1JmQnQtRFBKQTdXSG5NTkJQcVRRcVZ2WHhQeE1EQjU3d2EwM2hfYV9rODVWdnRfWms4T0UyR2NWN2hMUGxmMlVCUXd1MUJwbUJjUTk3d0RzODh6SFVZWDRITXdLVFVObGpkVWdKbEpRLU41QmxlY2h1dUxPaVpsdHZUU2NB?oc=5",
+      "title": "Night sky September 2026 — The best things to see this month - Space",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OaTZHUVRXVTJtZjAyamtXUWhyY2FZbkk4NXhDMWh4TElxSzY2el9jby1TdHhoWjV0dXF3bjFVRC1RaGprWEJzNEhqb3YwZlpwYnVjSlpwYVJOR09aaWJiSFEwY3lLUlhhejdfTXU4RXlZMHg4MnA4Rg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T14:00:20+08:00"
+      "time": "2026-09-02T14:57:48+08:00"
     },
     {
       "title": "South Korea jails care home head for sexually assaulting disabled residents",
@@ -83,10 +83,16 @@
       "time": "2026-09-02T13:56:44+08:00"
     },
     {
-      "title": "Concern more horses being given up over rising costs",
+      "title": "Surge in horses given up by owners as costs rise",
       "link": "https://www.bbc.co.uk/news/articles/c4g57423560o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T13:51:54+08:00"
+    },
+    {
+      "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdtMjgtdGNSejgyNXlGQmFOcllUakNWek90a1BhVVdCZnJMQzlrdmZMMU1obDRqdWkzc2RfaHhfV2kzV2FQeXJJNm1EeXNjTjRUQ21rdC1MTkJGUEc1UjFjOVhfMHlhYUtodF9ka2l5Zkx5N2dDWUR3OHZ2UG84VWNRS1djbDA1dER2ZkI1anhFa2F5dGptVXcxcWFCQXlXYVB5R09PWWN2S0JNSmJnUGt5MkZlTDhL?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T13:42:00+08:00"
     },
     {
       "title": "School uniform costs hit families, say charities",
@@ -101,6 +107,12 @@
       "time": "2026-09-02T13:14:09+08:00"
     },
     {
+      "title": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T13:12:07+08:00"
+    },
+    {
       "title": "School opens uniform shop to sell items 'at cost'",
       "link": "https://www.bbc.co.uk/news/articles/cz9zej4j2l4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -111,12 +123,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T13:03:09+08:00"
-    },
-    {
-      "title": "Edouard weakens into a tropical depression after landfall but still dumping rain into Texas - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeWhfenVoMUN6dnRmLWZVQ2c5bkZKQTBRRG9XRjEyOHZSTVp1MVlTMTh2bkRzdGRvZXRIbUJGeFhYbjBkcDZXNVgwa2lXZExTREI2VWJ4dzc4aHhIYkRzNFFrMVMzZGFhdTZqR29IVE04cURuM2xlQ1ZOR2NnMk5Hd09Bbk84SS1vWHY2bmo4QkZLc19rTnBQeUxDcUQ2TDlOTlBkLVVqbkZlVXZYbEJZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T12:45:00+08:00"
     },
     {
       "title": "Jailed HK activist Joshua Wong pleads guilty to foreign collusion",
@@ -137,22 +143,10 @@
       "time": "2026-09-02T12:23:17+08:00"
     },
     {
-      "title": "Judge sends Charlie Kirk murder case to trial with defendant facing potential death penalty - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNckxjUEVsX3F2VW1nN0JOdHRxQ1pQdVA3SjZsTy02ZEswUG4tRGdIWmtNMGpjUS13LUNKRUh6ajhzVUlLTlIzUkp3VGQyQzJHTlpWOTZacmtVR3RCbFdMaHhwcU92eElNRXNmSFRFUW9tZ3IxS0xxSmZOaHh1VG1PYzZNTWNCUjQ2LVJIMG55ZWRDS3dDQ3VNZW0tSThmNnUxdncwRFNEdTNNanc?oc=5",
+      "title": "Edouard downgraded to tropical depression as flood threat remains - Houston Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTkV3MzlzeHZTUVhCcG5aTGlLT2t3X0pPaFBuaEFzNTZqZVRSZEJuajlKWUlacm1pRTRxUWJNZUpGSGlwdkVZeVhUcG52RGVDOXNlc3o2MDV6LThCVVljVGhjazRVUVZ6X2dIQ19CNFhnd1F1TzI1VHFXdktBRU14WGlhekUyOFh0MTBBaUxxOHhQUFY1Vk9hMFdyYUg2c2xZOUswWkhILVFSYkhQcDlN?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T12:22:00+08:00"
-    },
-    {
-      "title": "U.N. Says World Will Miss Its Climate Target, Warming Must Be Reversed - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjFrV3U2SWRZZmFGZk9HZEwybFBVcFo4aVEtMTRkNVhaNUdIemhLekRnMjdvb0RGN0JTYkE5X3ZpMndWck5uNlNucDl0aFhtY2tBVWJ6aWt1RTd4eXcwelMxZjBjRFJpLUU4R2hSR2tfUEFtemlWakhfZ0lieHRiQ0JLTzNQX3dNUEJEbVJpdU8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T12:01:04+08:00"
-    },
-    {
-      "title": "Gal Gadot Tries, and Fails, to Do Everything She Can to Keep Prime Video's The Runner, Well, Running - IGN",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yQ1pSZTFmMGxUYnZKYWp5RGpBX28wejYzeUI0ZkNObGZLSFZSaG4zVzY4cGEwSTdUazZ6WEJVQk40YV9OY0ZlcW9pVDNNbmtaREFORWZYLWJKWXZPRlhzQ2ljcGlXVE0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T12:00:00+08:00"
+      "time": "2026-09-02T12:02:25+08:00"
     },
     {
       "title": "Arte Moreno Agrees To Sell Angels To Rams Owner Stan Kroenke - MLB Trade Rumors",
@@ -161,16 +155,22 @@
       "time": "2026-09-02T11:58:31+08:00"
     },
     {
+      "title": "Victim in Times Square stabbing identified as Bank of America employee Erin Piacenti - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGRZSXE1ODJsVTdJd19RYVF3TnVNSHhjd1d4cnNwT2RSMHg5bzdyWlFDWTVUR1EyZ1RSdXJvaFBGVGpwR0hVeDMzM1NLSnduSm1pZ0pTMkJPRVU2dnBCSlN1V1JZQUJlYTVERURsYUF1ZlhPcjJHSUdPZUNYTEFVazZYbXBBakhVSl85R1dKcmE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T11:35:05+08:00"
+    },
+    {
+      "title": "Man accused of killing Charlie Kirk will stand trial, face potential death penalty - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMUZ6Wmg0UHNobDZYYVFYSVJoeFFKNWRTVUUzS2hSTGVkaUhVaUZzYXFGcTVUU0JXTm1xQVJvamhzRXZoTzFMdjl0eV93N3prS3pwUGdMNWwzSm1keWFiV0JHcHU0czF0TGduT0tPbloxd3I0akFGaDhHOWEzcGZGaGtIa2FtN2hiNGxXVmFnWE50QmhTQjY5NERxdDdBcENndGJPZmx4TEo4RDJib0Q3LWNmOEtMckp1S3hsLUlyNkc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T11:29:00+08:00"
+    },
+    {
       "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkxpbUtPVm5CZ2FWdGJ3b0FjOV9ycTR2LVlRenlpaEI1MnM5bE5vQ1VYTzVXMU1NQjRKcFRRcXk4RHI0YkRYaGVsN2F4VW5rZUtQa3k2U0xWdk9UdGVVNnpPN251alZhMm42REMzcExRbXQyN2VHZ2dibll5ZDNCdFdEV2xfNkRnZ2dBQTE3WlBZd2Y1WWNkV0VPZE9CbTcyaVdET9IBqgFBVV95cUxONGIxMGZqYWNzb2gzMEw4UFJ2VWlTTm9WdGt0bFMwRlZjN01rSGl5XzRMVlZCNEZvQlA1YWtlUENFSW9WcWFwbl9OLTl1SDgwUndjdzlrSzBocllyLVFwZnk1ck5BZm1RSVY0a0dvMmRhVTdWR0VoNGY3b0p2TzR4VjdNVTFjRnlzaFhUZEo5VjhGYk9qeWsxQTc3VDVkU0pjSzVVa1dBSG04dw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T11:24:31+08:00"
-    },
-    {
-      "title": "Mass burials in Nepal as death toll from flash floods exceeds 1,000 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaENIRDN5eTk1UUZFcTN0SlVpS1V2TjRYakpqSUxKNlRZb3dIZ1BlZHlWeFRJSUJleERyMnJNc240LTNEYV8yMzRvZV80OUc3YW43czRELUFSSzRyZ2NOMmhsUFRVWFEyalBIT3daRTVLMkhsZVFKSU1kOG43TW9xWklFRlBqRDJ1eURESHkyQmlNeFVYcUViNWFBYzJvTUNrVExn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T11:22:00+08:00"
     }
   ]
 }
