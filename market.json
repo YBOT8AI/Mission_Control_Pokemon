@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-02T19:06:37.871091+08:00",
+  "generatedAt": "2026-09-02T19:37:42.771328+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 600238.24,
-      "changePct": -1.81
+      "priceHkd": 600669.44,
+      "changePct": -1.9
     },
     "ETH": {
-      "priceHkd": 18566.14,
-      "changePct": -3.51
+      "priceHkd": 18648.22,
+      "changePct": -3.31
     },
     "SOL": {
-      "priceHkd": 767.93,
-      "changePct": -4.24
+      "priceHkd": 767.77,
+      "changePct": -4.33
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1086.92,
-      "priceUsdOz": 4312.1
+      "priceHkdPerGram": 1092.11,
+      "priceUsdOz": 4332.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.12,
-      "priceUsdOz": 63.95
+      "priceHkdPerGram": 16.24,
+      "priceUsdOz": 64.41
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 707.95,
-      "changePct": 0.09
+      "priceHkd": 702.15,
+      "changePct": -0.73
     },
     "Natural Gas": {
-      "priceHkd": 23.14,
-      "changePct": 1.65
+      "priceHkd": 22.93,
+      "changePct": 0.72
     }
   },
   "news": [
+    {
+      "title": "Nepal-Tibet flood response turns to relief and recovery",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T19:36:13+08:00"
+    },
     {
       "title": "Why are UK borrowing costs rising and what does it mean for me?",
       "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
@@ -71,13 +77,7 @@
       "time": "2026-09-02T18:32:26+08:00"
     },
     {
-      "title": "Thousands still missing as Nepal-Tibet flood relief and recovery intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T18:07:02+08:00"
-    },
-    {
-      "title": "US sailors arrive at Thailand's Pattaya after record 250 days at sea",
+      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
       "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T18:04:28+08:00"
@@ -95,16 +95,10 @@
       "time": "2026-09-02T18:00:08+08:00"
     },
     {
-      "title": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnBGTFk1d1dxelY4OGtZb0dCd0xmYnFJNmx5cmhGR0tSMDlieEV5Wm5pamxwVTljZXVDNWtJYXpnLXlWQ1JSejZPYzR2NlVZUkZTZFNNSVc2RUFjTmV4cFBOWl9lTzZoWV9rRlhpS1JsM3o2T2VyNkRidVl3YlhDWmlMcjc?oc=5",
+      "title": "Stock futures fall as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T17:46:06+08:00"
-    },
-    {
-      "title": "Zelenskyy says airlines should avoid Russian airspace as Ukraine expands drone operations - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNc3BPOUNHZ0hmZG56YmxSVW1ZR3Zpd2tobnRKbDdWdEgtRGFpbDBkM1NVQzhuSHNNaHEzMEtlNDFmbkx0QVNGNlpCSnhXbW1vbEFVbHQ5dkxZcjJHeW5kYlJBWk9ocnBsTjRaVmhFT0Y1TmF4eUlfN1pyLW5XRVFjbFJrRTFCZDTSAYwBQVVfeXFMTVFpbklMenRZQmZVd2UyVldUWUlCMUxRSFJDdVFHd0lqMGxaOXNILTdJS2xPUTdNT2ZlRFJmZHlGUmMwaDNpb0xQcG15MkdRVXcwcVVzQ3E4NkotQ2hVSk9SX1RNMlE2anRZbnZOYjVzWGVWbmY2c0NGSjFmZGlzblQ5Y0tYYUJfc0RmejQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T17:38:02+08:00"
+      "time": "2026-09-02T17:59:25+08:00"
     },
     {
       "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC",
@@ -113,10 +107,22 @@
       "time": "2026-09-02T17:34:32+08:00"
     },
     {
-      "title": "10-year U.S. Treasury yield hits highest level since November 2023 as global bond sell-off continues - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kTzdvcFpPblpSZkZpcWRPSHhhU21LNEVydjZneUlLVl82dEgtc25DSHg3Uzg0QktBazF5a0RLbnhpN093VklqRWI5VERFWXhzcUk2clJaeURaakN2c2UtdUhSVFNTaDAtNW1XN1JONzVlZFdVWlI00gF8QVVfeXFMTkJLbUdLZ1lYM1l3S3pSUUZQZ2xRWDd6R2NhOVlsOXFZTGszZGhhZHJvSWRrNDd4Q2Y1dHd3Tm9paDRIdGYtUmZJNzUwSDFGRlRwRG5XNEhUUDZMS05qSlhFWjM4cEV4SklPOTAzU3NyNWM1SDE2MC0wdy1vcA?oc=5",
+      "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObThkTG5BQkNNbm9fLTgtdVFfMEtQZFpXcEdVMjY1eEVBQWphaERxb2k3RjJjVkhBVkhtWnp4LTU2Njd6ZFZRT2xMYlRRX3lFZ183WWFsTE9QMVJ6QU85ekVRY0oycTNQOC13cWVDNXRXNDROQnhNd01SVUFmT1JMZ1JaRXBuUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T17:14:56+08:00"
+      "time": "2026-09-02T17:32:29+08:00"
+    },
+    {
+      "title": "EU's Kallas calls alleged Russian drone plot 'state sponsored terrorism' as Europe mulls a response - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T16:32:00+08:00"
+    },
+    {
+      "title": "Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGFPeF8wS2ZaaWxBUW4zeG5jdHFFT3RhbTI0VUFSbzdwUm10bDBvX1J0enItRm55VDRLQm5NZzB1NlB6cG1objhoLVQ1dm5POTBfMl9oYnNEX0M5ZGl1SDFVSVNPMThCOUc2eldhcm8xalk3eFFHUktBb3pIQ1VsRVdJRlZOS1gwaE9fM1JCUFdmdXRHRjVoQkVYZ3R3ZDlKR0Zxb3FGSWxqVnlEX3dF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T16:01:37+08:00"
     },
     {
       "title": "Michael Bay Details Recent Conversation With Shia LaBeouf Amid His Ongoing Issues - TMZ",
@@ -125,16 +131,16 @@
       "time": "2026-09-02T16:00:31+08:00"
     },
     {
-      "title": "USS Abraham Lincoln arrives in Thailand after extended Iran deployment - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlB6N25UYzFFN0xUVjBvZDBaQUxrendfV2RkcFZPdElIYWNORERCVTdJb0pNSElQeHd5X0xPUkNPM2dwMkRDRXZlaDlDS25Ub19zdGVDcWNNcUIzT2NTdkVLZGsyT1JDdVAwTTByS3pxb3p1d2hrczg0T2hZOU1UellTOTdCd1RPSTJlSFZTWm5rS2wwSjgzYVBzR1RvaWdnR1JkaktfNzVuZFE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T15:59:00+08:00"
-    },
-    {
       "title": "Why US troops have a history in this raucous Thai city",
       "link": "https://www.bbc.co.uk/news/videos/c5yw03jr892o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T15:18:39+08:00"
+    },
+    {
+      "title": "US urges NATO allies to prepare in case Russia attacks - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9jUkFnRDlSc3FfWHppRmJka0Vnd0kycXItVDl6TVd5Z0ZIVXRNTm54VGxjQXdyVzloS0xLU3RvZEt1bFdiZWcyak5KSWpxTjRpMTliQWp0ZHlLSnpzeEpEZjVuYl84cUpTZnVYWTd1V1hRMmdvTFJnX2RiZTdXanA0SWFnTHRiTU93N21MNzNhbmx5Y1d5ZnJuSy1Db1U0am0wQU1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T15:10:29+08:00"
     },
     {
       "title": "Dell’s newest laptop sounds a lot like a MacBook Neo - The Verge",
@@ -149,10 +155,10 @@
       "time": "2026-09-02T14:26:35+08:00"
     },
     {
-      "title": "Missed it in theaters? Here's every movie finally arriving on streaming in September 2026 - Tom's Guide",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2dMd3hmUEVDUk1fUml6bENsMDYzdTJEUklObzFPOE1PV0l4NWRFR092TGFhTXl0dE5HTHUybXRRR0JkOEd3cTRKZHY4MHJhdVU2SXh5eDAwMVk1T2Rvd01mZ1d5ckcxekRBV19hRFVEQ1hZdXJTNlE3V1ZrTVJmd0ljd0F2Z2lFeENfbjFTT1BFMHdpTWU0TnBPSm5ZeWQ4QTA3X003bVBuWi1xVW1BU2g5dUJKQUoteVAxQV9hS3kxUTdFLW9WR2FzMmRRR3BwMGZz?oc=5",
+      "title": "Mark Ruffalo comments cause pushback against anti-Semitism ‘smear campaign’ - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV3lPRUpTWEZSZ1oyTHJRc3Z5TU9rbnlpMHFuQjJZR0pyZFlDM0ItXzlzSUx6QU1nazExQW5QTHB2T3RBRFViVmpHbnlybGRMOElmNWNXWVRiVU01VzZpQWZDTWtKZnlvYmxyMGhlcFY5Q0tDSFJFNmlnZkFwaDJSS0g4UXV3MDE3Tm93Q3l4eHdXckFSanpKOXRpekN0NVF1LVhiVmh6andtRGxmRUZSaHh30gG3AUFVX3lxTE9HTDdGNFBSTGhtLTV5VlcwUFU3U2U5MllLY0M5S1hvVVFfWjFocDJCUWpOTzBKMng4NkQwVE94aUVaMkotN3U0VFluMENneFNON1p6djFINUVGSG4xRUhseU5NVmFycXduaHhmVXBpV3lVN0ktNHdqLV9iLU1FM3BGa1ZxLVBGVTNIZUdyMFVhMXFBUjRQdGx6SEExcW9LMjh5dDJIUWZ6Q1M3T2wtZVZNSTNvY0dINA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T14:03:22+08:00"
+      "time": "2026-09-02T14:17:03+08:00"
     },
     {
       "title": "South Korea jails care home head for sexually assaulting disabled residents",
@@ -165,12 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c4g57423560o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T13:51:54+08:00"
-    },
-    {
-      "title": "Global warming will exceed limit, UN says in a report that maps path to get back below danger zone - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdtMjgtdGNSejgyNXlGQmFOcllUakNWek90a1BhVVdCZnJMQzlrdmZMMU1obDRqdWkzc2RfaHhfV2kzV2FQeXJJNm1EeXNjTjRUQ21rdC1MTkJGUEc1UjFjOVhfMHlhYUtodF9ka2l5Zkx5N2dDWUR3OHZ2UG84VWNRS1djbDA1dER2ZkI1anhFa2F5dGptVXcxcWFCQXlXYVB5R09PWWN2S0JNSmJnUGt5MkZlTDhL?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T13:42:00+08:00"
     }
   ]
 }
