@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-03T00:20:26.473771+08:00",
+  "generatedAt": "2026-09-03T00:51:31.655365+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606220.16,
-      "changePct": -0.33
+      "priceHkd": 605655.68,
+      "changePct": -0.41
     },
     "ETH": {
-      "priceHkd": 18762.92,
-      "changePct": -1.65
+      "priceHkd": 18726.47,
+      "changePct": -1.74
     },
     "SOL": {
-      "priceHkd": 780.16,
-      "changePct": -1.83
+      "priceHkd": 776.24,
+      "changePct": -2.01
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5516.46,
-      "changePct": 0.48
+      "priceHkd": 5511.99,
+      "changePct": 0.4
     },
     "SPX": {
-      "priceHkd": 60141.11,
-      "changePct": 0.52
+      "priceHkd": 60088.27,
+      "changePct": 0.43
     },
     "SPCX": {
-      "priceHkd": 1107.8,
-      "changePct": -0.65
+      "priceHkd": 1104.58,
+      "changePct": -0.94
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1101.79,
-      "priceUsdOz": 4371.1
+      "priceHkdPerGram": 1100.85,
+      "priceUsdOz": 4367.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.42,
-      "priceUsdOz": 65.14
+      "priceHkdPerGram": 16.39,
+      "priceUsdOz": 65.02
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 711.95,
-      "changePct": 0.65
+      "priceHkd": 713.83,
+      "changePct": 0.92
     },
     "Natural Gas": {
-      "priceHkd": 23.23,
-      "changePct": 2.03
+      "priceHkd": 23.35,
+      "changePct": 2.55
     }
   },
   "news": [
+    {
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T00:49:00+08:00"
+    },
+    {
+      "title": "U.S. Stocks Rise as Treasury Selloff Pauses - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdYMmM3M0MxMkYxV25aRU11U1lwVEtvcFRtUmRFc2FNVC1EZ1VQZW5zY2w4b1lkQjNfMHFoMk1GSnc4Sm9YajFoeS1MTDZwOW0yeGN0WUFlcm9BREl0a1JNdjVQc3haTDVLTVpsOXRWbWQwRThKbFZ5bUJGMXRlNTgwb1pKdy1fNjUwTFl3N0RYMVM2MlB5RmhTaFhnQUYxYzZiLWxzUzdhbTBlVDE1ZE5zd2RpWWp6?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T00:20:00+08:00"
+    },
+    {
+      "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+      "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T00:18:55+08:00"
+    },
     {
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
@@ -65,10 +83,10 @@
       "time": "2026-09-02T23:57:13+08:00"
     },
     {
-      "title": "‘He’s a good man’: George Clooney defends Mark Ruffalo in Paramount-Warner Bros merger row - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2hTZXRhX1VFVnhZYUExRlU0eG40QVZ6ekg1TVZmN01GdmZCc3VCY3NKeFJTVUI5TVpiNXNTOHg5OEhkSk5Rb2ROcE94Nmd1RVZYUkg2VTFXaWVsQ2hETTd2NDltU1U5czNfWVB2N2RQREI2ZG9IOFBESnZ0Y0I2a0RMSnVlOWlnY2RORVgwTHZmQlZpRmdaOThLUUdUVmdxVlVCZmNsQzU4SWpKemc?oc=5",
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTHQ1ZEo4aUdMY1hWNDkzVjNBRWd4ejY0QWk3UlppSWZwSkNEeUFuelltYW9aQzZrc1NBOUpCNVJBMHBVVXNaQTVSVmNHNU9lLWF4WDNObV9ZQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T23:36:00+08:00"
+      "time": "2026-09-02T23:57:13+08:00"
     },
     {
       "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
@@ -83,10 +101,10 @@
       "time": "2026-09-02T23:20:19+08:00"
     },
     {
-      "title": "US urges NATO allies to prepare in case Russia attacks - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9jUkFnRDlSc3FfWHppRmJka0Vnd0kycXItVDl6TVd5Z0ZIVXRNTm54VGxjQXdyVzloS0xLU3RvZEt1bFdiZWcyak5KSWpxTjRpMTliQWp0ZHlLSnpzeEpEZjVuYl84cUpTZnVYWTd1V1hRMmdvTFJnX2RiZTdXanA0SWFnTHRiTU93N21MNzNhbmx5Y1d5ZnJuSy1Db1U0am0wQU1R?oc=5",
+      "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T23:19:00+08:00"
+      "time": "2026-09-02T23:17:28+08:00"
     },
     {
       "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
@@ -95,16 +113,10 @@
       "time": "2026-09-02T23:16:42+08:00"
     },
     {
-      "title": "Stocks rise on Wall Street as oil prices, bond yields hold relatively steady - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
+      "title": "Using legal loopholes and executive power, Trump is remaking Washington - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenJSUm9wQ0ZJbV9nY2lzdnh1cnJ5NUNDOVhVLTJuUnJ2RmJ6azVrMTdNcWEwMVU0NXBZV0RGTzdrQVlha3RiSm0xRXZaa2UxSGYtNkdlczktQXhRN3BfZkg1bnNfZEJsVi1xYklKdHlFUjdiNFpqWWZ0QTN5RVpBcWpvSzZQZHhIQXJDcmZFU1FpV1NSakZPamJGWWpvYnZ2WGFrX2dOXzZMVm5fMnhLUkhoVDZVdDU0clE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T23:09:00+08:00"
-    },
-    {
-      "title": "USS Abraham Lincoln’s crew of 5,000 arrive at notorious Thai resort after 270 days at sea - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2g5WUtoS3BOOW9vR1U5U1NRSjdzMHhrd09mN0NDeDA5QTZ6ekY4SVMwYW1DeEFDRkdvcXVwb1FnV0ZBUG5YZ1M0MklBOG9tZHp5cTdHVDdxbWRUbGNzQXNLSG0xTDNsSzJ6N0JDMEloUGNGakI0SnFlbFZ3N3NTYkRLRHBmbWs1M3c4TEFUNkN4M1NNcEViWGxKeUdjZE1wTTk3WkladUJnR1ViOUctQ1BOdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T22:59:00+08:00"
+      "time": "2026-09-02T23:02:54+08:00"
     },
     {
       "title": "Lords call for AI 'kill switch' powers in UK",
@@ -113,34 +125,10 @@
       "time": "2026-09-02T22:41:52+08:00"
     },
     {
-      "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T22:40:20+08:00"
-    },
-    {
       "title": "The struggle to shut down the illegal tobacco trade",
       "link": "https://www.bbc.co.uk/news/videos/cgqd9ev8qlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T22:38:36+08:00"
-    },
-    {
-      "title": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T22:36:09+08:00"
-    },
-    {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T22:34:22+08:00"
-    },
-    {
-      "title": "Adam Sandler, no phones and a magical night: Travis Kelce dishes on 'insane' wedding to Taylor Swift - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdHVEbm8wNGtEd1BEODc5NTNLNGllZlo0OXZZalljNVYtOVRIUlZ1dkRwOXBzaVg2V1ZNMFFnVXV6UjdSWlZOd2JrdThyOGVSUU1aeGR3ZjZHcFdLallGejlGdTRkTDEyZWpERjVsQW5NVl90QzBwb3pQaUJneXRhODZqaUM5UnJuN0pULXhJQm02dGFtX2ExWm4tWnlEWGxjNWlhZzlhLUNxOERQTVYzRmNubzNsWG9Ma1R6b21uY0JaVzc3UEJjU01GbHNNNEJ1eVhldnd2ZG1GcjdDUzZQVVJuLU5MWUl1UnNwVERaZ2JwN3ZtSkJnOQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T22:24:37+08:00"
     },
     {
       "title": "Range Rover launches first fully electric model",
@@ -149,10 +137,16 @@
       "time": "2026-09-02T22:23:01+08:00"
     },
     {
-      "title": "Medical groups offer vaccine guidance to fill federal vacuum - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdm5nYy1fRkVhZzNDZ09tbF9GbkNrQTdSanR4ZERsbDJjTEJLYTNCMk1uUVZoWk5Yc19OYVllcG16ZGxKdWR4VkNreUwyeDV3ak51cWlkRVNaeU44Q2FIZHFrRkpmcjdCX2lNcHdydEhfMmw2OUtKaTA5Y1U3YXRTYlFtZzRjbG51Tnc?oc=5",
+      "title": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T22:00:58+08:00"
+      "time": "2026-09-02T22:22:00+08:00"
+    },
+    {
+      "title": "Top US doctors offer updated flu and COVID vaccine recommendations, aiming to ease confusion - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GU0xkdXBBcU9vbE9SSkhEMk1WUF9zb0c4eDE1RWpDdENPTHAwZzNBRnJDbE03YXFrSkxXZVVKTWJWT3NxZnFaT3NqbzRSQWdNSjlvM2owUU5qdEZuVlUxbVNmMmNndXowdHZFU0lWNHk4T29ZVndxaTc5dFY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T22:01:29+08:00"
     },
     {
       "title": "Bella Mir wants to avoid taking damage like father Frank: ‘His brain is not good today’ - MMA Fighting",
@@ -161,16 +155,22 @@
       "time": "2026-09-02T22:00:00+08:00"
     },
     {
-      "title": "The ‘Miracle House’ That Survived Nepal’s Floods - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFc0bnloMFdRcl9zUkY5S2JBZzhhQlZZZzZaU1R3bHRkUEJ1UldJZ0g4RVFKYjhzYU8zUW5yQ2tfYnotZlNCZC1GUVdqQzZES1JuNVpkNENSc2Z6bzc5eXN4cnI4ZEl3Rm5sSXNSWFlGRVBaNHhfOWJMVjNkYUR2Z2E0T1F4WGZJMldJRUZDSUVjNjNm?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T21:59:15+08:00"
-    },
-    {
       "title": "Tiger Woods pleads ‘no contest’ in DUI case - NBC News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdVFnQnF6MFZoSGdKOWs3ZldZdzNTT3haTWVvRnhEaWJDVUN5SWJBaGt1alFaUHZHSkVmQkI0YkhTVzFEN0huMmlhUDQ4LTE4cUdXQXdkay1fbXFNYlpSOHlKRDl3VVE3U1JiQmFRWFRZY1lraFNIVVcwUFVWbWdLWlAxMWhMMVhqWjlhX2hsY25WSXY4NUdkTXZIYWdwY29q?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T21:53:26+08:00"
+    },
+    {
+      "title": "After Imprisoning The Angels In The Toilet For Decades, Arte Moreno Is Cashing Out - Defector",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekJaNlZ4dFB0ZnJyRlpjWFhLMlhMdmVfbVZHeFZZWmxrdG5rNnBCczU0ZWlrZ21rYTUwNFJDdnlIdTJadllBQlYzdnJDR2xSWlpyRzRjM2QwbDg0X2Nydndna3E1MEFtUWNNWVNDVldrem5tX0U4bnpaYkJrWmViWl9aclI3MnJBTGZJTjdmZGxHcFV0SnR1d1k0XzFZS1Fnd3R0Ng?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:49:00+08:00"
+    },
+    {
+      "title": "There's A New Space Telescope On Its Way To Help Answer The Biggest Question In The Universe - Defector",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUmRIdVFGZmxWdGFoQUxpN2ZMRkJ2REJ0N3JTY1c3cjVxLXYzVzUxQkVsM0RrbldqRFFjMGRkbE43MTNhMFJHOTJsQzAxM3VvRk4wLTRoN2UzYk1UOWZlbEtCVjBndUNoSmJaRzZwQ0VjVk9xR1QxUVkxSU1XWm1VVV9vR0NSbi1YbWdsZmFmQm5xb25VeUtVVUl5SG1fYTE5QmVTX2xIZW1EaTRXRS0zYTF3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:31:00+08:00"
     }
   ]
 }
