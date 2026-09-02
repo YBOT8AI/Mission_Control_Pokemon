@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-09-03T01:22:38.597301+08:00",
+  "generatedAt": "2026-09-03T01:53:40.302120+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603766.24,
-      "changePct": -0.7
+      "priceHkd": 606345.6,
+      "changePct": -0.02
     },
     "ETH": {
-      "priceHkd": 18621.65,
-      "changePct": -2.42
+      "priceHkd": 18751.48,
+      "changePct": -1.31
     },
     "SOL": {
-      "priceHkd": 770.44,
-      "changePct": -2.75
+      "priceHkd": 777.81,
+      "changePct": -1.45
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5510.62,
-      "changePct": 0.37
+      "priceHkd": 5513.17,
+      "changePct": 0.42
     },
     "SPX": {
-      "priceHkd": 60073.22,
-      "changePct": 0.41
+      "priceHkd": 60101.05,
+      "changePct": 0.45
     },
     "SPCX": {
-      "priceHkd": 1104.08,
-      "changePct": -0.99
+      "priceHkd": 1100.11,
+      "changePct": -1.34
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1100.75,
-      "priceUsdOz": 4367.0
+      "priceHkdPerGram": 1103.53,
+      "priceUsdOz": 4378.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.38,
-      "priceUsdOz": 64.99
+      "priceHkdPerGram": 16.43,
+      "priceUsdOz": 65.17
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 714.15,
-      "changePct": 0.96
+      "priceHkd": 715.09,
+      "changePct": 1.1
     },
     "Natural Gas": {
-      "priceHkd": 23.1,
-      "changePct": 1.48
+      "priceHkd": 23.07,
+      "changePct": 1.34
     }
   },
   "news": [
+    {
+      "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T01:33:45+08:00"
+    },
     {
       "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
       "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
@@ -63,12 +69,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T00:58:59+08:00"
-    },
-    {
-      "title": "‘Crime junkie’ who followed Murdaugh, Karen Read arrested at Clancy trial - CT Insider",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS1RFNDNRRXZsb3N0SmFlbWpWQXlHY1BTR25sajYxeWVRaVJ6NU9YdlZoT0xNNzFUbFcyOVlEMVJxaFdvUkt6OXhDVkZBVVFOdm80cXQyZFhqSkZlYlNGSlNlX1NobkphLXZ1Q18tb1VUaW5kV1VBa0tHUE56R0l4eUc3WDFacGZxSmFpYUhwVXpTWmtUdmlRU09wQTE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T00:52:30+08:00"
     },
     {
       "title": "Uber to cut over 3,000 jobs in major global restructuring",
@@ -83,10 +83,10 @@
       "time": "2026-09-03T00:49:00+08:00"
     },
     {
-      "title": "U.S. Stocks Rise as Treasury Selloff Pauses - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDdYMmM3M0MxMkYxV25aRU11U1lwVEtvcFRtUmRFc2FNVC1EZ1VQZW5zY2w4b1lkQjNfMHFoMk1GSnc4Sm9YajFoeS1MTDZwOW0yeGN0WUFlcm9BREl0a1JNdjVQc3haTDVLTVpsOXRWbWQwRThKbFZ5bUJGMXRlNTgwb1pKdy1fNjUwTFl3N0RYMVM2MlB5RmhTaFhnQUYxYzZiLWxzUzdhbTBlVDE1ZE5zd2RpWWp6?oc=5",
+      "title": "US court rules Google will not have to sell ad exchange after losing antitrust case - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2pTakhHOUxKQzVCNS01ZGYyeVJBdjB2U1NwcXVYWF9rd0JrSGlQaUI4aG11ampPcXNjbTFHX0lxY21MSVk2dmtBa2p5Ynl6UEtVdGdJbmI0ZEdhQnB3M1N1OXlRbFBOWHlpd0p4SUtUdWVRUFgzSURqbndta1BNekl5ck4xZlh4cmJGX2JRSldkeGlkLWc1OHM5bm5NSTROc0didHVQUmZDZU9Ga3lnMDFCTThDLW9NeUhMOE1HNWRKdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T00:20:00+08:00"
+      "time": "2026-09-03T00:30:11+08:00"
     },
     {
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -95,7 +95,7 @@
       "time": "2026-09-03T00:12:43+08:00"
     },
     {
-      "title": "Deep in the Grand Canyon, the rain left them nowhere to go - washingtonpost.com",
+      "title": "Deep in the Grand Canyon, the rain left them nowhere to go - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRko4N25SOXdzM2ZWQ0tpY0s1dmtTa2ZUWW5LcjFmNDhOWk1TaVRlVEx6MVdLWnBqbUFyT0JuZlBTcHpDS2NQdFZZR3cyOE1GRHFHeDVxaURBbUdBQkFuajBWTHZWZ0Z3Q25GMlpqQ01JME4yanlXQkxIUEk0cFVWRk8yT0RvNGkxX0RwZk5acGNXQlBCdl9yUU53?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T00:00:00+08:00"
@@ -113,16 +113,16 @@
       "time": "2026-09-02T23:33:19+08:00"
     },
     {
+      "title": "If the Lindsay Clancy murder trial jury can't reach a verdict, what happens next? - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaEZMekRTQU0yU09WM05nbFk2dkZla1ExZlpKZllVQ3RGalVsY2NlbktYTXh2Sm5HU1NxWWk0alcta0VOUFlnc21kLUNkWFFIUFpLUHphemxvbVlrYmIzRUlfbFZrcHFNUDBlcGY1OHNfelNHeG5lZ3FSbXlEZVJ5Z0RnZlFBSmVSdS1wZlZrQmE4WWhPS3ZvSWdfOWNEdjlHSUoyNTNzV1ZmOEhwNnBJYXhoM2M?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T23:20:40+08:00"
+    },
+    {
       "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
       "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T23:20:19+08:00"
-    },
-    {
-      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull - NPR",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTFZRWTBDZ2kydEpnd3g4bWdheHJTYlF5TkFkdFBYWkM1VEE2U0tSaVhZX0RULTBuQ3JnOE9LNW0xbW8xdEF0cmVBUGx1RE91TG5ReUxoenNvMmExbGZXYWhhMmV3RkZJVHVmQzBQRVN5ZlQyMFVET1Z1aw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T23:18:09+08:00"
     },
     {
       "title": "'Nothing but mud and silt' - the village swept away by deadly floods in Nepal",
@@ -131,28 +131,16 @@
       "time": "2026-09-02T23:16:42+08:00"
     },
     {
-      "title": "‘Harry Potter’ Trailer: Harry Wears the Sorting Hat, Tries Quidditch and Puts on Invisibility Cloak in HBO’s TV Remake - variety.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVFNOZVhRaVpsZmtGZ2YyT1VYZnNicHJ2bkwwN2RyY3lEdW5iekk2cGlxNnlYT1o4ZXJXNS1qSDJmRzFwLXRYRThxM2g3d0lsTzRYMkVyTzZ4dUFSaHh1eTBQXzBRR2lMRV9DYWx5Vzk4WTEzVWlsSEs5bTl3YWZSTVVoS0dfdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T23:13:00+08:00"
-    },
-    {
-      "title": "Using legal loopholes and executive power, Trump is remaking Washington - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenJSUm9wQ0ZJbV9nY2lzdnh1cnJ5NUNDOVhVLTJuUnJ2RmJ6azVrMTdNcWEwMVU0NXBZV0RGTzdrQVlha3RiSm0xRXZaa2UxSGYtNkdlczktQXhRN3BfZkg1bnNfZEJsVi1xYklKdHlFUjdiNFpqWWZ0QTN5RVpBcWpvSzZQZHhIQXJDcmZFU1FpV1NSakZPamJGWWpvYnZ2WGFrX2dOXzZMVm5fMnhLUkhoVDZVdDU0clE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T23:02:54+08:00"
-    },
-    {
       "title": "Von der Leyen, Rutte say Russian ‘intimidation will not work’ to stop Ukraine aid - politico.eu",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUV9YSTM0MmY4b1dXMUNRTWxIZjd1S3d0S2NQUUl4cnVxeWZmaW9GTVlaanVwR1UwX1lVTlpxdkQ4ak9QQTNOVnBWQmNXVGJrX2JoajRtc3N6S2lfbGhwcmhmaWF1XzhTZFZjd0l4ZVppWWExR2pNSjBxX1BmeHJld1pISGxzOV9XWW45UDZPQVR1NktFTFRYT1BXZzhoenJlNVhaMEdYWUlVOXJhaEp6V2JHRGc1UHlKNGhKZ3VZRXRuV1BRYUtvRkRkVQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T22:44:00+08:00"
     },
     {
-      "title": "Google Avoids a Breakup of Its Ad Tech Business in Major U.S. Court Ruling - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54SXBLXzJKcERSbmdjRXIwRmF6ZTgyUkl6VmpWbjFTSGNzZlFwRW5VRE9STVJSVnFsVG5zT2JCREZRMnZUXzU5MkZvOTJudDUtRUkyOUFaY2xiVnR6SU9Sa05jN3RBQ1lhLTl4ZzFjN1Y0d3Zfd19oLXQ2R1BvSzg?oc=5",
+      "title": "Congo's Ebola outbreak shows no signs of slowing as deaths top 3,000 - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0NIYjI3R3hIQ3pkaC1lNlU3cUtEY09ac0trLXAyOUt2RWRJcC1XbmZQSlNUUDhTUTVCU2R0bmdZM3FGRVZpb2x2YmswaW9ZUFdzNU50Q09YTlc2eTl3WG1XbjVjZWNfZDlDd1EtSzdrU2ZYMFBic1R3X0kxQWtGUXlEQm1uZ05UU0p6OXhFZnNDYWpzR2NaMklDdFdodzZn0gGmAUFVX3lxTFAzLXJZT0wtWGx2Yy1JdldHUzEzUjVjY3BYNVBxTjBpQllsd1A5UExSdGREY3lsX3lRN1RxckloT2Zpb0d0NWZYMVVmUUlaTEFLQk5DVk4yYVNRTGdPdW9tc3hCNEtHSlN1dTkxNjY4bXJ4TU5FUEZPLWFLei1vaTJ4elh2TDBUUGFOaEhocUpzTkdSY3RHUlV6SWdZRTBud1hxUEZGMEE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T22:43:31+08:00"
+      "time": "2026-09-02T22:43:18+08:00"
     },
     {
       "title": "Lords call for AI 'kill switch' powers in UK",
@@ -171,6 +159,18 @@
       "link": "https://www.bbc.co.uk/news/videos/cgqd9ev8qlyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T22:38:36+08:00"
+    },
+    {
+      "title": "Trump $1 coins go on sale from U.S. Mint, priced from $1.55 to over $2 each - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kd05QNHVxR2FpWldHZjlEX0N1bzlSNllSVWItX2t1d1Bza1NCNDJuTWNsanB1RGJlaTk0VjBLUlV0U3FsLUtadDY5aFlZM1QwWGVFaE5kb2kxWG1QQXhVclMzSkduRGQ2RkF1dWVfVkI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T22:33:21+08:00"
+    },
+    {
+      "title": "Range Rover launches first fully electric model",
+      "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T22:23:01+08:00"
     }
   ]
 }
