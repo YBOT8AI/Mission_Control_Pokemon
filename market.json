@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-02T20:08:46.377985+08:00",
+  "generatedAt": "2026-09-02T20:39:50.501954+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 601210.4,
-      "changePct": -1.79
+      "priceHkd": 602456.96,
+      "changePct": -1.2
     },
     "ETH": {
-      "priceHkd": 18641.95,
-      "changePct": -3.22
+      "priceHkd": 18674.64,
+      "changePct": -2.49
     },
     "SOL": {
       "priceHkd": 768.01,
-      "changePct": -4.31
+      "changePct": -3.59
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1092.26,
-      "priceUsdOz": 4333.3
+      "priceHkdPerGram": 1091.83,
+      "priceUsdOz": 4331.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.26,
-      "priceUsdOz": 64.52
+      "priceHkdPerGram": 16.25,
+      "priceUsdOz": 64.48
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 699.33,
-      "changePct": -1.13
+      "priceHkd": 703.25,
+      "changePct": -0.58
     },
     "Natural Gas": {
-      "priceHkd": 22.88,
-      "changePct": 0.48
+      "priceHkd": 23.06,
+      "changePct": 1.27
     }
   },
   "news": [
+    {
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T20:33:15+08:00"
+    },
+    {
+      "title": "Could the man who murdered a Christian missionary and his sons walk free in India?",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T20:09:11+08:00"
+    },
     {
       "title": "Bus crash on Egypt's Red Sea coast kills 22",
       "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
@@ -77,18 +89,6 @@
       "time": "2026-09-02T19:47:11+08:00"
     },
     {
-      "title": "Stock Market Today: Global Bond Selloff Deepens, Hitting Europe Hardest — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObUtvTklVNGJKRzVNcXpfV2lTUGhLS2t3M3ZCaTRNbU96WnlrV2x0NkllZkdtemRWZlYwMllmMWE0eW4wT2VRamkwUEdzaG9BX0FETVJmd2RvbXJWWlRWWjdVU3gtM2dfdllnTTdha20yQVFSR1FTLWFFM09FbVpKaUM0YUN5alE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T19:46:00+08:00"
-    },
-    {
-      "title": "Nepal-Tibet flood response turns to relief and recovery",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T19:36:13+08:00"
-    },
-    {
       "title": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
       "link": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -99,6 +99,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T19:05:22+08:00"
+    },
+    {
+      "title": "In Egypt, Xi Challenges America’s Influence in the Middle East - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLWdRXzJuSWc5dUhWckZZR0ptOUpMSHlhT3hPZF9Gc2l1ZkRtdDZ0NnItUEYxc1JsVXd2T1FGS1NvRExNR1hWeUIwTW5RVFVvYnkyMWhuYVhmX0tVTFdiWnkxeVY3eEV5b1c1OGdKTzZrcWFsTnhYT2NKSWZaT0owcC1GMWZIU05D?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T18:43:44+08:00"
     },
     {
       "title": "Guinea-Bissau referendum approves new constitution that expands president's powers",
@@ -119,22 +125,22 @@
       "time": "2026-09-02T18:00:08+08:00"
     },
     {
-      "title": "Night sky September 2026 — The best things to see this month - Space",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5OaTZHUVRXVTJtZjAyamtXUWhyY2FZbkk4NXhDMWh4TElxSzY2el9jby1TdHhoWjV0dXF3bjFVRC1RaGprWEJzNEhqb3YwZlpwYnVjSlpwYVJOR09aaWJiSFEwY3lLUlhhejdfTXU4RXlZMHg4MnA4Rg?oc=5",
+      "title": "World shares extend losses, while the global bond sell-off intensifies - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWpnZ3RKcXY5RDdJZlprM3VNZmtNemdGTVlvc2hhR2R4SmpFRTdMdy16bVd4TFEzTFlHdDc1emVDMVQ2cnpDcVRNZ1hlWUNLMzV0UG9DZ040TGlSclIwM1NsR2pkREdVYXJVVjZWc3Z2anJTaUQxYWxDYWhUOTRuc0pndl9mNTIxWW9HSzFTdlBHM1k?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T17:58:58+08:00"
+      "time": "2026-09-02T17:56:00+08:00"
     },
     {
-      "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpYk9lSk1acVF2Q0NXZmxpZFdKQktJaFduU256M0VtVTNwTnVwWERLaFhFb1V3cXY2TXBHVGI4aXV2bFM3VDlKTlJ0WGI1UHJsekliNlBTSXJ1QQ?oc=5",
+      "title": "Pentagon chaos deepens after Dan Driscoll quits in clash with Pete Hegseth - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnBGTFk1d1dxelY4OGtZb0dCd0xmYnFJNmx5cmhGR0tSMDlieEV5Wm5pamxwVTljZXVDNWtJYXpnLXlWQ1JSejZPYzR2NlVZUkZTZFNNSVc2RUFjTmV4cFBOWl9lTzZoWV9rRlhpS1JsM3o2T2VyNkRidVl3YlhDWmlMcjc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T17:34:32+08:00"
+      "time": "2026-09-02T17:46:06+08:00"
     },
     {
-      "title": "U.S.S. Abraham Lincoln Docks in Thailand, Giving Weary Crew a Break - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObThkTG5BQkNNbm9fLTgtdVFfMEtQZFpXcEdVMjY1eEVBQWphaERxb2k3RjJjVkhBVkhtWnp4LTU2Njd6ZFZRT2xMYlRRX3lFZ183WWFsTE9QMVJ6QU85ekVRY0oycTNQOC13cWVDNXRXNDROQnhNd01SVUFmT1JMZ1JaRXBuUQ?oc=5",
+      "title": "Iran attacks US bases in Middle East after reports US strike killed four at wedding party - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByamU5TjBFcHB1R2ZhQ0UtQ2pKTHY1Y09IQ045YlRBNEtMUjV3MVJISGdMZ0dLZ0lzTkR3QTRNdGo2ZDBSVFdObXhySXBvNVYyeDBHLXptQXBxUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T17:32:29+08:00"
+      "time": "2026-09-02T17:20:33+08:00"
     },
     {
       "title": "Here's what to eat to protect your mouth's good bacteria - BBC",
@@ -143,34 +149,28 @@
       "time": "2026-09-02T17:01:26+08:00"
     },
     {
+      "title": "Bessent sees growth in bond yield surge. Voters see pain. - politico.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUGhOeUx4TFVJMXpkNzVTZTd0UkxhQnZFQlhXajk1RjJRMG8xUzlPRE9paUVOZlZkNTZaUno4RnRHT1dSRktzY2oycFNsS1h1UW5DZzZrNkxlTGZDZ1VIVldLa25kbU1EdG1VVkY0X2hSb2xxZVY5ZHg1UlRwUlpPSmVEZU54YnpDMWhURlk0dWhndw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T17:00:00+08:00"
+    },
+    {
+      "title": "Germany blames Russia for last month's attempted drone attack at Leipzig airport - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTBmbzdjaFl0WERMemtSY1pBNWc4UDlER1dRZlVXc0hNUV9yRzdTalVMRlk5djEwdnhkelpNR09LWlZHekVuNkJxMkhmUkJhbDNzT2VmNElyQ0RqUkxzZFZyaE0xRFFETlB5aXJiM1JFdEVfa0VTYTBUTjI3OGtac3FpcmVjd1U?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T16:43:05+08:00"
+    },
+    {
       "title": "Congo’s Ebola outbreak shows no signs of slowing as deaths top 3,000 - AP News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh1SmNWYWRRMVhwNms0SXo0YlJkVTRobFM4WWl2c0h4QWhEYmo5a2YtUExuOE1JYm9rNVI2dnlZT25rdDFHR0VKUEd3TUlVendUYmZHQXdBb0ZrbWxtM1hTSTg2SlpyOTlYWUR4OWpsU3hYYXdGQ0w5Nm1GMW94YjRQeUxrcnYxX3U2LURqQ1BDRXdhZFBuT2paWQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-02T16:43:01+08:00"
     },
     {
-      "title": "Ed Markey wins: Key takeaways from Massachusetts primary election results - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFJ6dGxkMTBXbVh1VDVjVnVIc0x4dGwxVmFqeXlTdEVDR0g5eG11U3VzeDFvVUJEb25PWHJtb2kyalZNbVc3cDRlRXZpNGF4Yks0bVZaZnI0WDJNcGhNSmMweGFBTFdKOWdxdnAtd1BQVHJscExMcDJVdXBaUVVFYXJsZ010aVkzZ2lQVEtYZ3JXNUY1VjQ0bUZoQzdEclNxWFlFd19iSDZuY0xUc09HRk1n0gG3AUFVX3lxTE9UNTRjdWRZZW9ueEt2eFl1cnluR25GNFBBZ19WNFRfZ1ZvaXU1UmtpWWl1bHItejJxXzM3c0pVMnlKSkYyOXN1TlotLXJJRzZJaVYwNFpQdFlQRHQwaDR0SHNxNTV2RExNcV91MzJJLV9CZWhFRXhWcnpQeEtBM2NXdkNfanJ4ZWFnbE52eWNnRFlRdEl2M1Q2eGd0RDJ6YkNyZXNCdU1KSmJtd3hFM2k2di1hcmJHWQ?oc=5",
+      "title": "Global bond rout gathers pace as inflation fears mount - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82MEVxdnp0YXFBQS1mbDBLZUFfamxOOEFULVVTXzlvUHNxTlQyZVhkUk1GTEZoRU9BVl9ZM3BWeFdPaGxkUk04X1hCX3h5TXdrNFp2RVJYemVRcDJ5NnE2MG9kRFIwTlRlaW8xTVY5d1U0akZKTDAwTUZXUdIBgAFBVV95cUxNN1ZLX3pEOENvWTVGekV1Tjh3V2ZTZGk1OU5fVDJfTmNkZ0MzOXV3OFczdE00a01Qalh3eHVTLW5fRHNoRmV5bk9pZFh1Z2FYOTVSdjVheVVjZWxRSHduY1gwVlhWWlBvaUlHMlFYVExqOVZoTmswMktCbHkzWHhZaA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T16:33:18+08:00"
-    },
-    {
-      "title": "EU's Kallas calls alleged Russian drone plot 'state sponsored terrorism' as Europe mulls a response - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVGRNWFdXclZxNGQxMGdIWFF3Q2E3UHdFM0lyU29mdnVqVGdKWFN1ZVZxVXFHNEl5dlRtbkxsa2FocHAwMFc4ME1MZndYUm9QSUVWelM4X2hLdWlRRUc2N18wd0FnelNDejNjSnl1bmZraVlDWXFvUWpHMThvZjc3ZU1KeFJVWlY3cTVFaWZ2RFJlN2UzMllBX1BVOEZBZHhqOTducWt3ZXo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T16:32:00+08:00"
-    },
-    {
-      "title": "Alienware launches 32-inch 4K Tandem WOLED monitor for $699 and 560Hz QD-OLED model - VideoCardz.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGFPeF8wS2ZaaWxBUW4zeG5jdHFFT3RhbTI0VUFSbzdwUm10bDBvX1J0enItRm55VDRLQm5NZzB1NlB6cG1objhoLVQ1dm5POTBfMl9oYnNEX0M5ZGl1SDFVSVNPMThCOUc2eldhcm8xalk3eFFHUktBb3pIQ1VsRVdJRlZOS1gwaE9fM1JCUFdmdXRHRjVoQkVYZ3R3ZDlKR0Zxb3FGSWxqVnlEX3dF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T16:01:37+08:00"
-    },
-    {
-      "title": "Nepal floods: Father borrows $13, walks for days to search for missing son - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRDV3cG5rQXNTaUV0M0JPUDFUN0hTaVFVcHhGWXQ2TmlielZtRUlqRXdrel90ZkZkOG04VUgzRWpTdXZaOXJxdEd2WU13MUZOeENIeFY1Ql9IXzBCdzZrSk1OMDI4VUJUX1o0TmpCeGU4QzhjUGxFREJYMXBpeWpGSnVNeXJ6MVNHYlVjUTFEXzFES3E5M1hFQkl0TmJFSklWUzd0eF9uMXE1YWNnbUJtLUxQbmpiZ9IBuwFBVV95cUxORmthQTFkeVBkQnJjYU9ObXJDcVZlZzdWeFJMOE00UmxUX0tyLVp5aE1vemlRV25kc1JIT0lVTjk2dGFWelRjcjRQVWlPR1Z6a295NEgtckdjNHJUQk1iekk0SGozaDB3eWhDVVl5ME1vWFZhTTBTYzFyVUpRNGZ0TXh1S054eHZGSlB0aWhmOUUyd0RkT251eXhNTGZXVXJwczhFdV9nOS1rMVBLRE5FdmR0OWU4MmREWXo0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T15:19:25+08:00"
+      "time": "2026-09-02T16:39:12+08:00"
     }
   ]
 }
