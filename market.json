@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-02T22:14:11.897567+08:00",
+  "generatedAt": "2026-09-02T22:46:13.051377+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605295.04,
-      "changePct": -1.31
+      "priceHkd": 605788.96,
+      "changePct": -1.39
     },
     "ETH": {
-      "priceHkd": 18841.32,
-      "changePct": -1.93
+      "priceHkd": 18809.34,
+      "changePct": -2.24
     },
     "SOL": {
-      "priceHkd": 779.61,
-      "changePct": -2.91
+      "priceHkd": 778.36,
+      "changePct": -3.01
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5507.17,
-      "changePct": 0.31
+      "priceHkd": 5519.75,
+      "changePct": 0.54
     },
     "SPX": {
-      "priceHkd": 60046.79,
-      "changePct": 0.36
+      "priceHkd": 60186.98,
+      "changePct": 0.6
     },
     "SPCX": {
-      "priceHkd": 1091.33,
-      "changePct": -2.13
+      "priceHkd": 1099.01,
+      "changePct": -1.44
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1106.88,
-      "priceUsdOz": 4391.3
+      "priceHkdPerGram": 1105.62,
+      "priceUsdOz": 4386.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.51,
-      "priceUsdOz": 65.5
+      "priceHkdPerGram": 16.49,
+      "priceUsdOz": 65.41
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 699.17,
-      "changePct": -1.15
+      "priceHkd": 705.36,
+      "changePct": -0.28
     },
     "Natural Gas": {
-      "priceHkd": 23.07,
-      "changePct": 1.34
+      "priceHkd": 23.09,
+      "changePct": 1.41
     }
   },
   "news": [
@@ -56,7 +56,49 @@
       "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
       "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-02T22:11:49+08:00"
+      "time": "2026-09-02T22:40:20+08:00"
+    },
+    {
+      "title": "The struggle to shut down the illegal tobacco trade",
+      "link": "https://www.bbc.co.uk/news/videos/cgqd9ev8qlyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T22:38:36+08:00"
+    },
+    {
+      "title": "Iran calls deaths at wedding celebration a 'war crime' as US denies targeting civilians - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T22:36:09+08:00"
+    },
+    {
+      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T22:34:22+08:00"
+    },
+    {
+      "title": "Range Rover launches first fully electric model",
+      "link": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T22:23:01+08:00"
+    },
+    {
+      "title": "Fall vaccine guide: What to know about covid, flu and RSV shots this year - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMG9VbXdMZmJQVl9UclAzYm1YQVYwa25GMjJxSUdmamhFMDJyX0V5LVBfVy16UDBEWnNybWZmNHVFUEtONHBGd0doSGxFZFQxOGNpWXM4UklEME1pSlVxb2lrVEVMdnVNd0l0eVNoRkpGY3dlYkFwbFhVbl9uZmJWZmRjR1ZGbm02TmFvekc5Zm91MjVlUmRjYmZ2V0s1ZEFrUU9JN3RTTXduM2NtZWExNmhVcFQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T22:09:28+08:00"
+    },
+    {
+      "title": "Nepal flood rescue hopes dim amid glimmer of finding tunnel survivors - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObnNFSE15OEdqaFZ4TkZ5TFFyWjZVMldBWmpxYWFFSDdnRVdDejlGN1VZdF9YWDVWYzZ4UDNKLW5Od2Y0X0tZOWFTbHE5QklNTm45TXozWXpoRTRyQlVJVzlWT3Y1RzBlVS01S3lDRWFOT1Q5R1ltMXBhejRHemg1UEpJdUJyYmE1b0lMd3lCWHFjR21XOFFaai1zOGd2Z2h6VHRFZlBZdzhzeWRnUURfb3o5Q2dnTU5sTC1xOA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:34:32+08:00"
+    },
+    {
+      "title": "Trump invites battleground Republicans to Rose Garden dinner - Politico",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWEc2OUFfUGp1Vm56LVJBdkl2NWswZ2FNalREaW1sa3pVTjQwdTRma2xsX2laSUJNNTIzWWZEMmNPUlNEdGlWVy13SndGSGVkWTVYcFR1TnNKZUVDeDU2U3U3OWNyTzNaV2tKblMtWmFlYmFkRVFONF84cHVzb0R1TnlfdkNRQWVLSlB0SDZ4QlpDbzRkOERIa09MODJ3Rnh0VEhpcm4yY2U1OV9JNTJr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:32:00+08:00"
     },
     {
       "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
@@ -65,22 +107,16 @@
       "time": "2026-09-02T21:20:11+08:00"
     },
     {
+      "title": "Fed Chairman Warsh Lays Out His Own Data Dashboard for Reading the US Economy - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVdrZU5qSjQ5STI4RVNMcFRvNlFlMHJnQWw0YlhyWno4RWV0YkxlVlpOZm9Md29KdEN6Z2x0MlJDbVk4OUNpcjhnX2F5dEJCRnFzVC1McWp6S3oxZ0pIb2xjSjdCdGgzRzF1SGE4amVEdi1taDhrVE9uamlMT2lNRTZSd2otbmV2M1MxOFZKQmhwZDZlNjNZaEY3ZDZ3c0pRTDFXb1BLWnA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:18:51+08:00"
+    },
+    {
       "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
       "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T21:17:43+08:00"
-    },
-    {
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTHQ1ZEo4aUdMY1hWNDkzVjNBRWd4ejY0QWk3UlppSWZwSkNEeUFuelltYW9aQzZrc1NBOUpCNVJBMHBVVXNaQTVSVmNHNU9lLWF4WDNObV9ZQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T21:17:43+08:00"
-    },
-    {
-      "title": "Tiger Woods agrees to deal in DUI case, loses driver’s license for 5 years - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2sySmI4eGRvVjZZVDFieUF5eTBia1FjTHBfQ3c4Yk95ZEtWSnFJMURtMkdHc1hDcXNpTHZGVy1reDFQNE9IVnQ1Y1JvaWlvRWZXb3p2ZF96QUJNT0RKOWMzZzU4c1VZNE5DeEN3QTRHTDZJZzRvT1A2STBnUUxGWURHdV8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T21:17:07+08:00"
     },
     {
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
@@ -89,10 +125,16 @@
       "time": "2026-09-02T21:16:26+08:00"
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T21:04:47+08:00"
+      "title": "Tiger Woods enters plea agreement to reckless driving charge over rollover crash in Florida - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GZ2FXRWl4bUJOdkN6OHZhZDJBMElNQ3VfUGJ5TVBXX0JsaGktMTQzMXd4VVNxNGZKbWFTazRIQkR1R1NkWWllLWRKWHV0TGRCa194Ry1YRW9mQkFUcmItczA2dGd3am4yTnhmbHBhVGFiNjAzdnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:59:22+08:00"
+    },
+    {
+      "title": "US urges NATO allies to prepare in case Russia attacks - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9jUkFnRDlSc3FfWHppRmJka0Vnd0kycXItVDl6TVd5Z0ZIVXRNTm54VGxjQXdyVzloS0xLU3RvZEt1bFdiZWcyak5KSWpxTjRpMTliQWp0ZHlLSnpzeEpEZjVuYl84cUpTZnVYWTd1V1hRMmdvTFJnX2RiZTdXanA0SWFnTHRiTU93N21MNzNhbmx5Y1d5ZnJuSy1Db1U0am0wQU1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:49:00+08:00"
     },
     {
       "title": "Former boxer to host annual school uniform giveaway",
@@ -107,16 +149,16 @@
       "time": "2026-09-02T20:29:00+08:00"
     },
     {
-      "title": "'Dancing With the Stars' Cast: Meet Season 35 Celebs and Pros - Variety",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmZEakEyeDdqdjRXSTJZdFFmMHhFM0dDd0VucUpRX0dyTncyM2FicWN1Y1YweTZMVVJOckVyZ09jaUlPaXJWRjdtSnJ0V3RMYXJwbUU2Qy10T013R05OMnpNbHZ5WlFUb2tJelp2VkE1bHV2NW5QcEk2OXA5OXc1M3Z0eHY?oc=5",
+      "title": "‘Dancing With the Stars’ Reveals Full Season 35 Cast, Including Julia Stiles, Harry Shum Jr. and More - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWG9oYVo1aGJXUWE3WUhIWlk1eGluaU9Ua1dJbThfcEh1NnJKdzJzZm50eEdfeHNoNW5kTTVyR1o2UTJyMF9FZTFpZWhGVUJwRDJpSFJ1aHNPc2JjcTl6Z0cwdktjMjBqbFN6ZXJ4NVlmZkFIdy03QThESFdfM09DNUlxYkNDMU5CdG1MWFE3bHYtcHdoRzZRMnIydXE0dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T20:25:00+08:00"
+      "time": "2026-09-02T20:25:47+08:00"
     },
     {
-      "title": "S&P 500 futures are little changed as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5",
+      "title": "Uber to cut 10% of its global workforce - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVVhwMmpVSWFVTTQ1dmJIT09EMzdwTF9SZkttTFFmcEZSajM4NWhKb2xOc2JPNGRoT3p5bUJYUkN2Q1YwMm4tVmxDQU40OUNSWXZLRFpMOGVVLVk4YUdzZVgzaTRIWWZJaHNBLW1YRXV1WDNUalo4OE5Ca1gtZFdhUk9CeEs?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T20:22:43+08:00"
+      "time": "2026-09-02T20:25:04+08:00"
     },
     {
       "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
@@ -129,48 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cpd0x701qd9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T20:09:11+08:00"
-    },
-    {
-      "title": "Travis Kelce reveals ‘best f–king person’ at Taylor Swift wedding as he shares new details on big night - nypost.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGN4aE51NTJlWW83SDgyMFBIV3JvM2s0ejlKTFlNSTFmZ0VfTkhuUm5tVERCY3I5cmszMTJZcVJiOGhmTlh6VWt6ekFuT19zcWppQ1UtNG52cnRzMVNobzlZalNvQk1yY1lJMVYxYlRfdnNjMUNHMkgyNld1OTZheFAtWnhVVzdUX0t3ME13MEh0aGh3VlhTRjln?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:08:00+08:00"
-    },
-    {
-      "title": "Bus crash on Egypt's Red Sea coast kills 22",
-      "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T20:07:32+08:00"
-    },
-    {
-      "title": "VAT cuts won't lower prices for customers, say NI hospitality leaders",
-      "link": "https://www.bbc.co.uk/news/articles/clyq82ldyl5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-02T20:02:29+08:00"
-    },
-    {
-      "title": "Morning Report | Joe Rogan says UFC should have stuck with Michael Chandler for Conor McGregor comeback fight - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdHJxZU1lSFBnaElNWE82LW5fZ05uUUt0NGtIT1JKdWtUTFRCb0kzZ1pRTjJsRG9wazhkalVnbHhCQU0yY3hKOVpwQl8zME1ZWkdTVDdhMUE1cGJoR0hVV1gzdnQ5bEhMOFMxQnJEYTFfa2FOYTdEMGY0c1laZ0RqbnRMeUVOTXk2ZGl3Rk84WkVpS05aUU1ZUVIwX1otdTJPLTNPRGFKNWF0Wmkyc3JwZkZuV0RXZHN1QURNX0M5djNOeVF5M29mTDFZTGdoN0V2SGVrWVJRTmMwcGwtY19R?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:00:00+08:00"
-    },
-    {
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T19:51:46+08:00"
-    },
-    {
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T19:47:11+08:00"
-    },
-    {
-      "title": "George Clooney Talks U.S. Politics, Fatherhood - Venice - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlZTY2ZleGNqOERPSzNfRk0wN3c1eVljRS1RVWJ1bzJhOWJ0dkhnU3locjlTRmRZczZKODZUQVEyYlY4dWxFTUtxS3VvQkZDWUlTWGRTY1d5a05ZSmxoRlNrV1NIUE5nenJpbVNIQlk4UEFoQmNQTlBJSGxxMHBOck5ONW5ld3Fqb3NCUzB6Vll5Y1ktbzU0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T19:40:00+08:00"
     }
   ]
 }
