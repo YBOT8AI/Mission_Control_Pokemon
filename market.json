@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-09-02T21:43:02.061720+08:00",
+  "generatedAt": "2026-09-02T22:14:11.897567+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 601484.8,
-      "changePct": -1.04
+      "priceHkd": 605295.04,
+      "changePct": -1.31
     },
     "ETH": {
-      "priceHkd": 18682.8,
-      "changePct": -2.05
+      "priceHkd": 18841.32,
+      "changePct": -1.93
     },
     "SOL": {
-      "priceHkd": 769.81,
-      "changePct": -3.2
+      "priceHkd": 779.61,
+      "changePct": -2.91
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5495.33,
-      "changePct": 0.09
+      "priceHkd": 5507.17,
+      "changePct": 0.31
     },
     "SPX": {
-      "priceHkd": 59912.5,
-      "changePct": 0.14
+      "priceHkd": 60046.79,
+      "changePct": 0.36
     },
     "SPCX": {
-      "priceHkd": 1105.3,
-      "changePct": -0.88
+      "priceHkd": 1091.33,
+      "changePct": -2.13
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1101.74,
-      "priceUsdOz": 4370.9
+      "priceHkdPerGram": 1106.88,
+      "priceUsdOz": 4391.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.48,
-      "priceUsdOz": 65.36
+      "priceHkdPerGram": 16.51,
+      "priceUsdOz": 65.5
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 701.6,
-      "changePct": -0.81
+      "priceHkd": 699.17,
+      "changePct": -1.15
     },
     "Natural Gas": {
-      "priceHkd": 23.1,
-      "changePct": 1.45
+      "priceHkd": 23.07,
+      "changePct": 1.34
     }
   },
   "news": [
     {
-      "title": "Tiger Woods changes plea, gets five-year driving ban",
+      "title": "Tiger Woods gets five-year driving ban after reckless driving plea",
       "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-02T21:31:32+08:00"
+      "time": "2026-09-02T22:11:49+08:00"
     },
     {
       "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
@@ -77,6 +77,12 @@
       "time": "2026-09-02T21:17:43+08:00"
     },
     {
+      "title": "Tiger Woods agrees to deal in DUI case, loses driver’s license for 5 years - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2sySmI4eGRvVjZZVDFieUF5eTBia1FjTHBfQ3c4Yk95ZEtWSnFJMURtMkdHc1hDcXNpTHZGVy1reDFQNE9IVnQ1Y1JvaWlvRWZXb3p2ZF96QUJNT0RKOWMzZzU4c1VZNE5DeEN3QTRHTDZJZzRvT1A2STBnUUxGWURHdV8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:17:07+08:00"
+    },
+    {
       "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
       "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -89,16 +95,22 @@
       "time": "2026-09-02T21:04:47+08:00"
     },
     {
-      "title": "US urges NATO allies to prepare in case Russia attacks - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9jUkFnRDlSc3FfWHppRmJka0Vnd0kycXItVDl6TVd5Z0ZIVXRNTm54VGxjQXdyVzloS0xLU3RvZEt1bFdiZWcyak5KSWpxTjRpMTliQWp0ZHlLSnpzeEpEZjVuYl84cUpTZnVYWTd1V1hRMmdvTFJnX2RiZTdXanA0SWFnTHRiTU93N21MNzNhbmx5Y1d5ZnJuSy1Db1U0am0wQU1R?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:49:00+08:00"
-    },
-    {
       "title": "Former boxer to host annual school uniform giveaway",
       "link": "https://www.bbc.co.uk/news/articles/c93vkx4lzyeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T20:48:32+08:00"
+    },
+    {
+      "title": "Tim Cook handed $47m package for new role as executive chair of Apple - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQU04SzlqX2tsYTY5WDhZelF3WXMzZlk5ZlNXRFpQYm5qbHRLUXRMaDVkYS0xcTlKWmJERFpTNnliekVQTHgwQ2ZaMHd1UmxodWtiMDR6VEt3WjVBT1V6QnlHemdtelJibGlfU1JCbE9DRS1kMVNkUWhaVEY4Wlc4VW1aS2hSOXlScnI0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:29:00+08:00"
+    },
+    {
+      "title": "'Dancing With the Stars' Cast: Meet Season 35 Celebs and Pros - Variety",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNmZEakEyeDdqdjRXSTJZdFFmMHhFM0dDd0VucUpRX0dyTncyM2FicWN1Y1YweTZMVVJOckVyZ09jaUlPaXJWRjdtSnJ0V3RMYXJwbUU2Qy10T013R05OMnpNbHZ5WlFUb2tJelp2VkE1bHV2NW5QcEk2OXA5OXc1M3Z0eHY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:25:00+08:00"
     },
     {
       "title": "S&P 500 futures are little changed as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC",
@@ -119,22 +131,28 @@
       "time": "2026-09-02T20:09:11+08:00"
     },
     {
+      "title": "Travis Kelce reveals ‘best f–king person’ at Taylor Swift wedding as he shares new details on big night - nypost.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGN4aE51NTJlWW83SDgyMFBIV3JvM2s0ejlKTFlNSTFmZ0VfTkhuUm5tVERCY3I5cmszMTJZcVJiOGhmTlh6VWt6ekFuT19zcWppQ1UtNG52cnRzMVNobzlZalNvQk1yY1lJMVYxYlRfdnNjMUNHMkgyNld1OTZheFAtWnhVVzdUX0t3ME13MEh0aGh3VlhTRjln?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:08:00+08:00"
+    },
+    {
       "title": "Bus crash on Egypt's Red Sea coast kills 22",
       "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T20:07:32+08:00"
     },
     {
-      "title": "Germany blames Russia for attempted airport drone attack - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTNrZFlpcmYwT0k5ZENLdUNIVldIYXNXNDdmLVREV0gzaVlhNzExUHhGbDdVQWZ4cDR6NzVzMFpMRGFFam1yZGJOVHBIXzBvOUEtWGo2LVhnd1EzTE1DTFBsckEwaTA3aVhQYkY4X1VsZWVxTWJ0WUhOQ1N3Y29UY0N1RGIwVTgzRFZWX2pMUzV0RWtwTmFyWExIbGpiaE1WQzFB0gGjAUFVX3lxTE1SM2xGcXR5VkEyajhJS1JwRU5NaTZmZURRSDdPcWo1UEtDRGRrN2llUVFYTzc0alZSOFFZSFZXa3l2VXNnZHl4NmNTRlhfVUFCanJxVmRlVUhZbnpxcDdwVl9qOFk3dDRtOTJGQktnTUpoeDBBYmR3TDI0X0ZJYWZJZzREVlVxTHFPWGpYVmdldEFkeDVLNkZGa19jRG1pQ1Ytd1U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T20:06:15+08:00"
-    },
-    {
       "title": "VAT cuts won't lower prices for customers, say NI hospitality leaders",
       "link": "https://www.bbc.co.uk/news/articles/clyq82ldyl5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T20:02:29+08:00"
+    },
+    {
+      "title": "Morning Report | Joe Rogan says UFC should have stuck with Michael Chandler for Conor McGregor comeback fight - MMA Fighting",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdHJxZU1lSFBnaElNWE82LW5fZ05uUUt0NGtIT1JKdWtUTFRCb0kzZ1pRTjJsRG9wazhkalVnbHhCQU0yY3hKOVpwQl8zME1ZWkdTVDdhMUE1cGJoR0hVV1gzdnQ5bEhMOFMxQnJEYTFfa2FOYTdEMGY0c1laZ0RqbnRMeUVOTXk2ZGl3Rk84WkVpS05aUU1ZUVIwX1otdTJPLTNPRGFKNWF0Wmkyc3JwZkZuV0RXZHN1QURNX0M5djNOeVF5M29mTDFZTGdoN0V2SGVrWVJRTmMwcGwtY19R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:00:00+08:00"
     },
     {
       "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
@@ -149,28 +167,10 @@
       "time": "2026-09-02T19:47:11+08:00"
     },
     {
-      "title": "Travis Kelce breaks down why MSG was perfect venue for ‘magical’ Taylor Swift wedding - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX1NrSDF2LWFYTDlBcDVNSFJtMHdtOFVNTUtIM0p2NnpRSDdPVWZLMnFFWHpveDFoWEpjS0tIV3F3V0s3c3l0Y043VjBRb00xMkJFWkt5aWZNb0tOWUFnSWJKNm5hclFKcGFCN1VwMGZZUHRYLWQwYmZNY1owWTQyOWN2OFdpNE1Ma1BDQS0tNGRheUpwWUxhS2VlX2tpdE5pVXRQcmhDRnZBYTM3d3NKVkNWRDN2VDhMZC1OdUFudTVTUDZHVUFVQQ?oc=5",
+      "title": "George Clooney Talks U.S. Politics, Fatherhood - Venice - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVlZTY2ZleGNqOERPSzNfRk0wN3c1eVljRS1RVWJ1bzJhOWJ0dkhnU3locjlTRmRZczZKODZUQVEyYlY4dWxFTUtxS3VvQkZDWUlTWGRTY1d5a05ZSmxoRlNrV1NIUE5nenJpbVNIQlk4UEFoQmNQTlBJSGxxMHBOck5ONW5ld3Fqb3NCUzB6Vll5Y1ktbzU0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T19:38:00+08:00"
-    },
-    {
-      "title": "Madagascar ex-Senate chief sentenced  to hard labour over deadly Gen Z protest crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/cz0z3x4n9ypo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T19:34:23+08:00"
-    },
-    {
-      "title": "Iran attacks US targets in Middle East after four reportedly killed at wedding celebration - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T19:29:19+08:00"
-    },
-    {
-      "title": "Why are UK borrowing costs rising and what does it mean for me?",
-      "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-02T19:05:22+08:00"
+      "time": "2026-09-02T19:40:00+08:00"
     }
   ]
 }
