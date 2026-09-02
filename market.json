@@ -1,62 +1,98 @@
 {
-  "generatedAt": "2026-09-02T21:11:01.311502+08:00",
+  "generatedAt": "2026-09-02T21:43:02.061720+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 601994.4,
-      "changePct": -1.34
+      "priceHkd": 601484.8,
+      "changePct": -1.04
     },
     "ETH": {
-      "priceHkd": 18678.96,
-      "changePct": -2.35
+      "priceHkd": 18682.8,
+      "changePct": -2.05
     },
     "SOL": {
-      "priceHkd": 768.71,
-      "changePct": -3.76
+      "priceHkd": 769.81,
+      "changePct": -3.2
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5490.2,
-      "changePct": -0.65
+      "priceHkd": 5495.33,
+      "changePct": 0.09
     },
     "SPX": {
-      "priceHkd": 59830.73,
-      "changePct": -0.71
+      "priceHkd": 59912.5,
+      "changePct": 0.14
     },
     "SPCX": {
-      "priceHkd": 1115.08,
-      "changePct": -1.02
+      "priceHkd": 1105.3,
+      "changePct": -0.88
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1094.83,
-      "priceUsdOz": 4343.5
+      "priceHkdPerGram": 1101.74,
+      "priceUsdOz": 4370.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.34,
-      "priceUsdOz": 64.82
+      "priceHkdPerGram": 16.48,
+      "priceUsdOz": 65.36
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 702.31,
-      "changePct": -0.71
+      "priceHkd": 701.6,
+      "changePct": -0.81
     },
     "Natural Gas": {
-      "priceHkd": 22.88,
-      "changePct": 0.52
+      "priceHkd": 23.1,
+      "changePct": 1.45
     }
   },
   "news": [
+    {
+      "title": "Tiger Woods changes plea, gets five-year driving ban",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T21:31:32+08:00"
+    },
+    {
+      "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
+      "link": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-02T21:20:11+08:00"
+    },
+    {
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
+      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T21:17:43+08:00"
+    },
+    {
+      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zTHQ1ZEo4aUdMY1hWNDkzVjNBRWd4ejY0QWk3UlppSWZwSkNEeUFuelltYW9aQzZrc1NBOUpCNVJBMHBVVXNaQTVSVmNHNU9lLWF4WDNObV9ZQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T21:17:43+08:00"
+    },
+    {
+      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
+      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-02T21:16:26+08:00"
+    },
     {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T21:04:47+08:00"
+    },
+    {
+      "title": "US urges NATO allies to prepare in case Russia attacks - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdG9jUkFnRDlSc3FfWHppRmJka0Vnd0kycXItVDl6TVd5Z0ZIVXRNTm54VGxjQXdyVzloS0xLU3RvZEt1bFdiZWcyak5KSWpxTjRpMTliQWp0ZHlLSnpzeEpEZjVuYl84cUpTZnVYWTd1V1hRMmdvTFJnX2RiZTdXanA0SWFnTHRiTU93N21MNzNhbmx5Y1d5ZnJuSy1Db1U0am0wQU1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:49:00+08:00"
     },
     {
       "title": "Former boxer to host annual school uniform giveaway",
@@ -65,16 +101,10 @@
       "time": "2026-09-02T20:48:32+08:00"
     },
     {
-      "title": "Tiger Woods to change plea after crash arrest",
-      "link": "https://www.bbc.co.uk/news/articles/c5y7xvpn5kno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T20:44:59+08:00"
-    },
-    {
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T20:33:15+08:00"
+      "title": "S&P 500 futures are little changed as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:22:43+08:00"
     },
     {
       "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
@@ -93,6 +123,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-02T20:07:32+08:00"
+    },
+    {
+      "title": "Germany blames Russia for attempted airport drone attack - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbTNrZFlpcmYwT0k5ZENLdUNIVldIYXNXNDdmLVREV0gzaVlhNzExUHhGbDdVQWZ4cDR6NzVzMFpMRGFFam1yZGJOVHBIXzBvOUEtWGo2LVhnd1EzTE1DTFBsckEwaTA3aVhQYkY4X1VsZWVxTWJ0WUhOQ1N3Y29UY0N1RGIwVTgzRFZWX2pMUzV0RWtwTmFyWExIbGpiaE1WQzFB0gGjAUFVX3lxTE1SM2xGcXR5VkEyajhJS1JwRU5NaTZmZURRSDdPcWo1UEtDRGRrN2llUVFYTzc0alZSOFFZSFZXa3l2VXNnZHl4NmNTRlhfVUFCanJxVmRlVUhZbnpxcDdwVl9qOFk3dDRtOTJGQktnTUpoeDBBYmR3TDI0X0ZJYWZJZzREVlVxTHFPWGpYVmdldEFkeDVLNkZGa19jRG1pQ1Ytd1U?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-02T20:06:15+08:00"
     },
     {
       "title": "VAT cuts won't lower prices for customers, say NI hospitality leaders",
@@ -125,52 +161,16 @@
       "time": "2026-09-02T19:34:23+08:00"
     },
     {
-      "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
+      "title": "Iran attacks US targets in Middle East after four reportedly killed at wedding celebration - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90WUgxdFM4WlA1Wm5tc0NuWFRacFpmM3FsQ2gwVE5ZSXJnaV9sNk11ZTJQcjhuOHlHSTc1T0FCQzlGTDBWbGdNWUJNR241MHVzOFpfYXV3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-02T19:21:00+08:00"
-    },
-    {
-      "title": "Spain demands answers as police blame Morocco for migrant crisis - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSjhGTlV4MEFqTEwtRjlXZEx2ekxnekh2azVXQjZxUmVSbmlsVXY1dllubWtkQW5wOHluZDk5R0VTTHNWWHoxMUd4bnZZUFY2cWdvM3RqVVFBaGJndHZxQmJCZjJTNm5mNTBGSy1TaHVNbEZtUVE5TVNIN3lNMFJNbmZuR24?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T19:07:37+08:00"
+      "time": "2026-09-02T19:29:19+08:00"
     },
     {
       "title": "Why are UK borrowing costs rising and what does it mean for me?",
       "link": "https://www.bbc.co.uk/news/articles/cwyxydr7gv9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-02T19:05:22+08:00"
-    },
-    {
-      "title": "Dancing with the Stars cast reveal: season 35's stars announced on GMA - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTU5CY0VGb0lxV3VqVVZpRDRhSkU5OWF2LVpHZW9hSVlnbG5tSTdnZ1I5VDFKczRNLXdMTTNma3BQNlJSYkdDS1htQ2UxMmdaU3FCRTl1Q2Nla0hRRTNNRk4xUkVkVEkyVW5ndDZpZ0VGUm1pSFRiZ0R1cmxoQUZzYURySEpJTWk0UE9YbjMyUjI4NkNNQzlqZUFBRQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T18:55:00+08:00"
-    },
-    {
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T18:04:28+08:00"
-    },
-    {
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-02T18:00:08+08:00"
-    },
-    {
-      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It? - WIRED",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSUxKOXFNY0xPZWJEUTZWNlhNZ3JQYVpfaXZaUmFiM0NybTJsdHpSeURlWXl0VkFIX0daY2RFVGljd055SWFjRmVmb1RwWjl2Skdvc0JIMVg4ZW5ZZHdnV1llNkFkZGZqeHNrNGUtbzJtdnRzT09Qb2JxZWJOcWdZZzkwT3N2aDFMWkZPXzlB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T18:00:00+08:00"
-    },
-    {
-      "title": "Stock futures fall as U.S. 10-year yield hits highest level in more than two years: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fYmc5aklBNDFsTzFfLUh5WkxJa2NmVFJ3ZFVhWkg0ZEVGazgzMDMxVWEyd3ZXSXo4QVB1UEl2TEtGenE1d3lGRW1NbTd0aklnOUhFN3VjSzY3a1lySUM1R1dXSzY1UkFCR3lQRkFOVllMSkhDc0U00gF8QVVfeXFMTXdGR0lqMFJJMXFuWWVRR0lqbDU0aTMwYzltbTlpWVpVeHRmV1ItZUtiT0lQeDRhNzNaSy0zRVQzQmtEa094X3lkS3hBMHloOXpXNERIdkNFclJCZWotNUEtUjBBZGwyYndVb2U3Y0c1UTJrMC16VHRJYklIMQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-02T17:59:25+08:00"
     }
   ]
 }
