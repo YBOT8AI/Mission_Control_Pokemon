@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T01:01:52.816604+08:00",
+  "generatedAt": "2026-09-04T01:33:10.568118+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -58,16 +58,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "f6380c3",
-          "message": "chore: update changelog for 2026-09-03",
+          "sha": "edfae11",
+          "message": "chore: remove unused Link/useEffect imports",
           "author": "evilmoni",
-          "time": "2026-09-03T23:01:12+08:00"
+          "time": "2026-09-04T01:22:06+08:00"
         },
-        "commits30d": 64,
-        "totalCommits": 139,
+        "commits30d": 65,
+        "totalCommits": 140,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -77,13 +77,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Push commits to remote"
         ]
       },
       "url": "kinkin.vercel.app"
@@ -100,16 +102,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "d3c1aed",
-          "message": "chore: update changelog for 2026-09-03",
+          "sha": "fa04f6d",
+          "message": "chore: remove unused Mail/Filter imports from MemberCommunication",
           "author": "evilmoni",
-          "time": "2026-09-03T23:01:12+08:00"
+          "time": "2026-09-04T01:21:22+08:00"
         },
-        "commits30d": 73,
-        "totalCommits": 171,
+        "commits30d": 74,
+        "totalCommits": 172,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -119,11 +121,14 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 100,
+        "score": 90,
         "label": "healthy",
-        "issues": [],
+        "issues": [
+          "1 commits not pushed"
+        ],
         "actions": [
-          "Run 6 test files via `jest`"
+          "Run 6 test files via `jest`",
+          "Push commits to remote"
         ]
       },
       "focus": "Financial Tech"
@@ -259,8 +264,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-04T01:01:08.477670+08:00",
-        "next_run": "2026-09-04T01:31:08.477670+08:00"
+        "last_run": "2026-09-04T01:32:12.700215+08:00",
+        "next_run": "2026-09-04T02:02:12.700215+08:00"
       },
       {
         "id": "539a150ac028",
@@ -277,8 +282,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:30:55.049601+08:00",
-        "next_run": "2026-09-04T01:30:58.143734+08:00"
+        "last_run": "2026-09-04T01:01:59.688293+08:00",
+        "next_run": "2026-09-04T02:02:03.298372+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -286,8 +291,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:52:57.578476+08:00",
-        "next_run": "2026-09-04T01:22:57.578476+08:00"
+        "last_run": "2026-09-04T01:23:02.580475+08:00",
+        "next_run": "2026-09-04T01:53:02.580475+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -295,8 +300,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:52:57.177371+08:00",
-        "next_run": "2026-09-04T01:02:57.177371+08:00"
+        "last_run": "2026-09-04T01:23:02.139784+08:00",
+        "next_run": "2026-09-04T01:33:02.139784+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -331,8 +336,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:52:57.355303+08:00",
-        "next_run": "2026-09-04T01:07:57.355303+08:00"
+        "last_run": "2026-09-04T01:23:02.547818+08:00",
+        "next_run": "2026-09-04T01:38:02.547818+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -538,7 +543,7 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:01:03.212257+08:00",
+        "last_run": "2026-09-04T01:01:16.981077+08:00",
         "next_run": "2026-09-04T02:00:00+08:00"
       },
       {
@@ -547,7 +552,7 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:02:09.762018+08:00",
+        "last_run": "2026-09-04T01:01:52.909882+08:00",
         "next_run": "2026-09-04T02:00:00+08:00"
       },
       {
@@ -637,7 +642,7 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:03:47.052986+08:00",
+        "last_run": "2026-09-04T01:22:30.294413+08:00",
         "next_run": "2026-09-04T02:00:00+08:00"
       },
       {
@@ -754,7 +759,7 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-04T00:01:11.230012+08:00",
+        "last_run": "2026-09-04T01:01:16.023487+08:00",
         "next_run": "2026-09-04T02:00:00+08:00"
       }
     ],
@@ -780,35 +785,30 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "408Gi",
-    "uptime": "4:10",
+    "uptime": "4:41",
     "cpu": {
       "loadAvg": [
-        1.0,
-        0.61,
-        0.56
+        0.6,
+        0.69,
+        0.77
       ],
-      "usage": "13.7%"
+      "usage": "14.5%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 34.4
+      "usedPct": 38.3
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "5.9",
-        "mem": "1.8",
-        "name": "python"
-      },
-      {
-        "cpu": "5.4",
+        "cpu": "6.7",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.9",
+        "cpu": "5.0",
         "mem": "0.0",
         "name": "sysmond"
       },
@@ -818,9 +818,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.8",
+        "cpu": "0.6",
         "mem": "0.1",
         "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.5",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1532,16 +1537,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-04T01:01:52.563077+08:00",
+    "generatedAt": "2026-09-04T01:33:10.328354+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 24.4,
+          "temp": 24.3,
           "code": 3,
           "precip": 0.0,
-          "wind": 13.0,
-          "time": "2026-09-04T01:00"
+          "wind": 12.5,
+          "time": "2026-09-04T01:30"
         },
         "daily": [
           {
@@ -1570,11 +1575,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 24.3,
+          "temp": 24.0,
           "code": 3,
           "precip": 0.0,
-          "wind": 10.1,
-          "time": "2026-09-04T01:00"
+          "wind": 8.9,
+          "time": "2026-09-04T01:30"
         },
         "daily": [
           {
@@ -1610,25 +1615,25 @@
   },
   "activity": [
     {
-      "time": "2026-09-04T01:01:52.816497+08:00",
+      "time": "2026-09-04T01:33:10.567977+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-04T01:01:52.816497+08:00",
+      "time": "2026-09-04T01:33:10.567977+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
     {
-      "time": "2026-09-03T23:01:12+08:00",
+      "time": "2026-09-04T01:22:06+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: chore: update changelog for 2026-09-03",
+      "text": "🚀 KINKIN: chore: remove unused Link/useEffect imports",
       "project": "kinkin"
     },
     {
-      "time": "2026-09-03T23:01:12+08:00",
+      "time": "2026-09-04T01:21:22+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: update changelog for 2026-09-03",
+      "text": "💼 TechWealth: chore: remove unused Mail/Filter imports from MemberCommunication",
       "project": "techwealth"
     },
     {

@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T01:01:52.895548+08:00",
+  "generatedAt": "2026-09-04T01:33:10.646287+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 634765.6,
-      "changePct": 4.92
+      "priceHkd": 635079.2,
+      "changePct": 5.1
     },
     "ETH": {
-      "priceHkd": 19554.53,
-      "changePct": 4.62
+      "priceHkd": 19595.92,
+      "changePct": 5.08
     },
     "SOL": {
-      "priceHkd": 819.99,
-      "changePct": 5.84
+      "priceHkd": 822.1,
+      "changePct": 6.37
     }
   },
   "stocks": {
@@ -23,35 +23,53 @@
       "changePct": 1.0
     },
     "SPX": {
-      "priceHkd": 60722.76,
-      "changePct": 1.03
+      "priceHkd": 60719.86,
+      "changePct": 1.02
     },
     "SPCX": {
-      "priceHkd": 1183.95,
-      "changePct": 7.32
+      "priceHkd": 1184.93,
+      "changePct": 7.41
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1130.77,
-      "priceUsdOz": 4486.1
+      "priceHkdPerGram": 1132.84,
+      "priceUsdOz": 4494.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.92,
-      "priceUsdOz": 67.14
+      "priceHkdPerGram": 16.97,
+      "priceUsdOz": 67.31
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 717.44,
-      "changePct": 0.55
+      "priceHkd": 721.2,
+      "changePct": 1.08
     },
     "Natural Gas": {
-      "priceHkd": 22.88,
-      "changePct": -1.29
+      "priceHkd": 23.17,
+      "changePct": -0.03
     }
   },
   "news": [
+    {
+      "title": "Live updates • PM releases Oct. 7 timeline, says he spoke to IDF chief 3 hours into attack - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa0NZWG52QmFlczdKZy1EREFPWDdxTkhHelp5cU9wQi1qbzRvX3Y5U0cwTVRKNUVWVFVxMXNVT053TXprem1HbV9VUUx6WW1Da0hGOFFjRU00LXROUGwzT1VJME9FTHZiRkxtR2ZYMnlpTHRBcU0xYmxtWjlYT2dWTTA0RzFtMTJUUF9LSU9KRXNDZG1jZVQwNWlIVFNQMlpPVkU4VkNlOGdIWEFCbnBrYW8zb3NLcVhWc3lsVVVnMXR3UDBiZ3lhVXFoWXpTR0ZLeWJFLXdFdmJyTGh3LUdSMTNnckJ1NWtfZ3Z4MVh6am51emtrWFhjcmVsM09aTzFRMjFmSDNFMmhRQlVZbXVZNWRUQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T01:26:00+08:00"
+    },
+    {
+      "title": "Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLS0JwR181dVJ6X0dObDVVeG41OHBPZmF1dmtIa0xOZ1paYWlIVk5TcHhuZE1LcUxtMEctMGdhelNYY0IyNW5xQjN6cllaLWMydmpIVW51RzVlazhEUnhHMUhCZjdVVFNIVWVqeklfZTFYYnFYemlxSFBuWk0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T01:00:13+08:00"
+    },
+    {
+      "title": "New IRS proposal threatens universities' tax-exempt status over diversity programs - Politico",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGROTXVXNWx0Z1k1Ml9IM0l0RTJNTzljRDAxVE4tRDUwcEMzZFhlNEpBVW9oMUlFQXVHSFVhcDBXeDNxUVoxeUt6S255UnU3UXk4Z3ZtSU1qNXlzYTNWYmg1U1d1ZHh4bUlrNTUyazltVS1VUGFPRlZsdkRqbGNtVU16NlhkRmMxSjJwcQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:41:00+08:00"
+    },
     {
       "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
       "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
@@ -59,22 +77,34 @@
       "time": "2026-09-04T00:32:05+08:00"
     },
     {
-      "title": "Live Updates: Iran's attacks in defiance of Trump's warning didn't impact military facilities used by U.S., official says - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
+      "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWxnVThEUFBybnJWc0RXUGh4Q2Y3aEJydFB6SVMyVGR2ZG91Zm5mWjdubWJ3eGhUb0ZKa3JYU3FZX2ppOVRrU1RFenNTNzVhd2J3RjNNVUFKUlZBOUl0MXpKRTFWN3BkVUJ2MEFxUF9FRmNUTUY0NnBuejlBZDFkLVNDRHpyYmNOZDhrVGZVWVo2OGdMVlRlY3pQdUVPMXBUbmpObEI3d19pdVFYZk15bVptVFlkZ0xtdnBFQlR5TThtYnRaOHZ2RWFQcw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:32:00+08:00"
+      "time": "2026-09-04T00:24:00+08:00"
     },
     {
-      "title": "Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLS0JwR181dVJ6X0dObDVVeG41OHBPZmF1dmtIa0xOZ1paYWlIVk5TcHhuZE1LcUxtMEctMGdhelNYY0IyNW5xQjN6cllaLWMydmpIVW51RzVlazhEUnhHMUhCZjdVVFNIVWVqeklfZTFYYnFYemlxSFBuWk0?oc=5",
+      "title": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:20:04+08:00"
+      "time": "2026-09-04T00:22:00+08:00"
     },
     {
-      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
+      "title": "Scientists Find More Than 1,000 DNA Variants Linked to Personality Traits - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xV250ZXQ1Y3VCbWR6Y3Q5eEVPbDlZTmp4RXlNLVhJQTBqVW5MNTh5X29VdUM0bkVsUlptMEJNTUpjR205WWw4ZlRBMEJ5NHU0WnVabjlUQzVsSXk3WDZKMmo2cVp2cHhfLVRsVTJ3ZEF1STZyTV9SVHJURnk?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:05:00+08:00"
+      "time": "2026-09-04T00:15:56+08:00"
+    },
+    {
+      "title": "Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026 - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOT2dZWlF3QWhIZUZfMzBZVkMwWV8xbVMxdVpBak5meE8zQ3BuUVBsOTdQSjYwSGRVQzNYTl9yVEVhejJhWTRqcGQtZkpXNUMxaFc0ZDBKNTU3eGZLRF9UalgxZ3J3bGpmU08zWGNEdEdiWXR6MU5Sd2xubzBreHh4OXdJNVdyR2JWRWhuaGFGWTBtNDNlTEN3aWhfcHJfcE9DbHFmM3VocFJxRWlHdTRqMEw5X1Q3ZFlEREFRRFRTbTE3c1NaSzgwMWY1YTN2NVRjemNNRm9Ca05qVWZMTm9BT0RkeHNKODhXajl5TFAtVzRzVElwLThDUVFPLWh6cUZiSU5HbFdKT2RIc3ZlVzVQWGFMZGVLd05NeG5DSGp3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:00:00+08:00"
+    },
+    {
+      "title": "Google rolling out Gmail Live, Docs Live, and Keep Live - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QSkhrLWpmN2h4cVUzUExsS3R6ZzRxMFhnOURjYmZpMU0tYWt2S0g0bXg2R21raHAtZm5Kbmx4SEwwSHdSaFlaZk5RVkdBTlIxRlgzTmM5SXN4LUk2QzRFZTlLT1VlQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:00:00+08:00"
     },
     {
       "title": "Trump $1 coin makes him first living president on US currency in a century",
@@ -83,16 +113,16 @@
       "time": "2026-09-03T23:35:47+08:00"
     },
     {
-      "title": "A Guide to Covid, Flu and R.S.V. Vaccines This Fall - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqd3diRGxRdjRyb25hTHFMMFIzSllmV3A0MnRrUmpiRkJlTkdSRF9oRXpiLWpVb3lsRGlITldaWEF5RmJrQ1hjSTktNTVIdEJxcm01SksyVWRqTjlvWGxzRXNNc1R0N0hQRjdvb3Uyc1Z6SUY5dWc?oc=5",
+      "title": "Kim Zolciak’s son KJ, 15, begs to be released from jail, cites good character after sexual assault allegations: court docs - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTkyeXdHc3JtOC1ENVh1OW9ScUZBbmIzOEk2NUwwVTNjYndiaWhIVGFtUW4zU0RNSGkxR0J5aUtLZ0RpS2J1RjNOVktvYkNaajc5MnZqQ3ZBUVVISXRoZi1XVTJybUtlSkJ3UDZzMHREV2dtTjZjSGJFa1pUUElRRS1la0dOZjhtY2VJM1JlTnpfbG1sVkttNlNOMnFISzFQMlhvSkJxNER3NVd3c0ZHVmloQnVvWmtwaGhpcm52LVQ5U3VpWEkyLUg3VC0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:35:00+08:00"
+      "time": "2026-09-03T23:26:00+08:00"
     },
     {
-      "title": "Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHJHU21aaHlWX0VSOGJhMjFuSmhsY3loUUl5NEVRbWpFZ0hUeXpXUjE5Y0pMU2huRU80Z3RiUFRwYkQ3WWRxNVpydWRlSll1by0yN2t0LVdXc0cyMFg5YzQ1LVg3WXhlOGg5TTBJaTZ0b2VLcHJPWGV4VFVGLTJsMW5ETDVDcGc?oc=5",
+      "title": "Judge blocks another effort by Trump to limit birthright citizenship - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1VXdabDY4aERPbW50WUlFNjRGb1hZdDhDX0JLZXZGbkJHTlNDN213VVJaUTZkaHBMeFNxaF9oVHZIZEMyMWMzM1hGbVFURzhFM0lHSGxDXzlEZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:28:00+08:00"
+      "time": "2026-09-03T23:24:53+08:00"
     },
     {
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
@@ -101,34 +131,16 @@
       "time": "2026-09-03T23:05:57+08:00"
     },
     {
-      "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpLTHduNk1tNmhIWDBPbEJvWHFoMjVBRk90Y3BsXzBWVjJCQ3VmX2U4VEZkeVpxME92V29oVFlaamFuRzdUM3Q4NWZGUzJ6QnpPTEEyUnlhdUFyWHFZRHBtc1o2aTBUbGNsbFpYdWdTMDAybzEzbl8yLVBzUFgwYUxVd1Rqc3NtNkN3ZlNiRkw3aDBq?oc=5",
+      "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:57:56+08:00"
+      "time": "2026-09-03T23:03:28+08:00"
     },
     {
       "title": "6 winners, 5 losers from Kawhi Leonard scandal after Clippers get hit with NBA ‘death penalty’ - SB Nation",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2c1ajdxRXJhem1NU1BfYi12a1JndTJzMjBIY3NhWURXSl9WR1dVdGdJX1ppSHNfeGZjcUt0OXhlR1hhWUQ3SU5raVV5c1NWQ0JvQTZDVEVFRW9VbzlodWw3aDRjWTV2bGZtZFZxWjkzREpCaGJ5M1R3M1hMZlR1VER5dFNiakpZc1FMdjZPek9jTlZEbHVpWnJKaUFIR3doTWswZGRn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T22:56:02+08:00"
-    },
-    {
-      "title": "Israel releases Lebanese prisoners as gesture of good will with Lebanon - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UzdzTmx2T3ROUUtQc3hMb2lUcEVRdmlQci04LVk1b0FxQ0htVE5zcGJNVWsybnA2TWZVRzY5alBBUllQMU9DSnYxQWxGWUlTdWp5WVhkQnktdms1TW1YenlCcm5ONnlfN3JqQTlB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:38:54+08:00"
-    },
-    {
-      "title": "Eight Questions About the Caitlin Clark Era of Team USA - The Ringer",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXRadG5zcEZwZ0lWMFpDTks5cHcyaEk1ejlZRVMyTVp3aENRZmhzbUJzSFFwWks4cHdKTW9BOUFxbmRxLWFibWxlWHp2c1Npa2hFS0VJQWhiU3NfQUp3X0ZKRnlPdHhpbHR4VnZoOGI3UEtyU0NBTk5NY1NzZlE1RGEyYzNlWWQ0MktjV1MxVUdQeHcwS3ItYTZsd0dfeklkNGRvLU43NkJ1M1BHNXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:31:13+08:00"
-    },
-    {
-      "title": "Anker is combining its Eufy, Soundcore, and brands into two ‘Anker’ groups - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tS0tzeGtnVXdHYW5EQmQ0bDZCdHg5ZmlGeW1POVR5ZWdnOXpGcUJMVmRza0hzWjNyS1dZTFVNYlhyeWR1RHFubXdWT204d0ZNaWs3WVEydHkzcUZmTHhiQXU2UXdraGJwVXhINHdPRE9TcU9OdmkxNVhR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:30:00+08:00"
     },
     {
       "title": "The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise - Barron's",
@@ -143,24 +155,6 @@
       "time": "2026-09-03T22:22:00+08:00"
     },
     {
-      "title": "Parents arrested after death of 5-year-old nonverbal daughter to be extradited to South Carolina - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdW5WQzlzUjdMOElYRmNaNUdnTUk2WTRMY2lWR1pCQ2RXQkJDVldVTFhSd1g5cnRVOVJ5czF0UHphcWhkSUhkdFJsNDBoQzNtdUpvTGVvcXo5WXl0OUU1SnE4b2NIa3NneXc4dGJab3RVQXhvcTN4eDliazlQRW1zaHVLQ213UjUzWEoxb3UySlJ3TXNFZTVTTEtnclc4MlF3U0l1U1AzMVZNY09XcTllbA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:16:06+08:00"
-    },
-    {
-      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNElzQnhhdkk2aDBzZVBkU2FCTHZodXlJM3IxSlhtLS1DMzFfVFVWRXh6dDNreTN5NHhLamdyVWl6ek9QZ2pDYWpYOFNESmVJSmRNTjVHZVdodnh4aXc2WE9DbURJYk9IQ19OQXU4QmJhcVBlVlFzSjJpRFZwY1doS29UVnF5YjJ4dHNoQlNIYklDajNKY3Q0akxWV3liZnBFNHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:04:32+08:00"
-    },
-    {
-      "title": "Live: Shooter at Minneapolis apartment building was facing eviction over threats - Star Tribune",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2twUW55cm9PVUpydTVVR0hGVTlFMEh0TmJTOGUyVW82RUZBaHp6UGxLSTdIck5DTU1GUWNyRjR0ODdUVEp3aXkxV2psWUxwNEx0ejQxdkdjZ3BwaDZNU1RYcVBSRmZpdUNiVlFHSmxzWVAxR05TdjdhUDUxWHBVRlp1WmNSZHN1bGNRcFBSVzE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:01:50+08:00"
-    },
-    {
       "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
       "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -171,6 +165,12 @@
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T21:52:18+08:00"
+    },
+    {
+      "title": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:40:00+08:00"
     }
   ]
 }
