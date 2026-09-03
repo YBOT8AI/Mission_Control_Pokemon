@@ -1,86 +1,80 @@
 {
-  "generatedAt": "2026-09-04T00:30:47.770372+08:00",
+  "generatedAt": "2026-09-04T01:01:52.895548+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 632390.08,
-      "changePct": 4.17
+      "priceHkd": 634765.6,
+      "changePct": 4.92
     },
     "ETH": {
-      "priceHkd": 19521.21,
-      "changePct": 3.86
+      "priceHkd": 19554.53,
+      "changePct": 4.62
     },
     "SOL": {
-      "priceHkd": 815.28,
-      "changePct": 4.51
+      "priceHkd": 819.99,
+      "changePct": 5.84
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5567.07,
-      "changePct": 0.95
+      "priceHkd": 5569.77,
+      "changePct": 1.0
     },
     "SPX": {
-      "priceHkd": 60693.05,
-      "changePct": 0.98
+      "priceHkd": 60722.76,
+      "changePct": 1.03
     },
     "SPCX": {
-      "priceHkd": 1165.42,
-      "changePct": 5.64
+      "priceHkd": 1183.95,
+      "changePct": 7.32
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1132.99,
-      "priceUsdOz": 4494.9
+      "priceHkdPerGram": 1130.77,
+      "priceUsdOz": 4486.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.95,
-      "priceUsdOz": 67.25
+      "priceHkdPerGram": 16.92,
+      "priceUsdOz": 67.14
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 715.4,
-      "changePct": 0.26
+      "priceHkd": 717.44,
+      "changePct": 0.55
     },
     "Natural Gas": {
-      "priceHkd": 22.7,
-      "changePct": -2.06
+      "priceHkd": 22.88,
+      "changePct": -1.29
     }
   },
   "news": [
     {
-      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:05:00+08:00"
-    },
-    {
       "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
       "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-04T00:01:39+08:00"
+      "time": "2026-09-04T00:32:05+08:00"
     },
     {
-      "title": "Live updates • Netanyahu: 5 Lebanese civilians released in exchange for slain Jewish leaders - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa0NZWG52QmFlczdKZy1EREFPWDdxTkhHelp5cU9wQi1qbzRvX3Y5U0cwTVRKNUVWVFVxMXNVT053TXprem1HbV9VUUx6WW1Da0hGOFFjRU00LXROUGwzT1VJME9FTHZiRkxtR2ZYMnlpTHRBcU0xYmxtWjlYT2dWTTA0RzFtMTJUUF9LSU9KRXNDZG1jZVQwNWlIVFNQMlpPVkU4VkNlOGdIWEFCbnBrYW8zb3NLcVhWc3lsVVVnMXR3UDBiZ3lhVXFoWXpTR0ZLeWJFLXdFdmJyTGh3LUdSMTNnckJ1NWtfZ3Z4MVh6am51emtrWFhjcmVsM09aTzFRMjFmSDNFMmhRQlVZbXVZNWRUQQ?oc=5",
+      "title": "Live Updates: Iran's attacks in defiance of Trump's warning didn't impact military facilities used by U.S., official says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:54:00+08:00"
+      "time": "2026-09-04T00:32:00+08:00"
     },
     {
-      "title": "The ‘Gen Z stare’ — and the decline of saying things out loud - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk5UTHIxaGJvRXFDbDRNZkNEQTFTU0dtRXVWV0RMaHhjWHNQMTdWSDhHSzZCMFM0UWx0YnJwSmVtUzVlRzFHUFlINzRCSTZCYmQwaXlKLUpZOVVPaEIyVmExNUV4ZERYSzY3N2ppTm8wWkljd1F6OWNHTVAwdWhYTXRQdlJkeUxkOC0zWkw1enIyQkNhT1Vn?oc=5",
+      "title": "Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLS0JwR181dVJ6X0dObDVVeG41OHBPZmF1dmtIa0xOZ1paYWlIVk5TcHhuZE1LcUxtMEctMGdhelNYY0IyNW5xQjN6cllaLWMydmpIVW51RzVlazhEUnhHMUhCZjdVVFNIVWVqeklfZTFYYnFYemlxSFBuWk0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:48:52+08:00"
+      "time": "2026-09-04T00:20:04+08:00"
     },
     {
-      "title": "Spain: Tens of thousands rally over Ceuta crisis - dw.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVld2SVJreE8za0pqajFFUFJJbk9FenVmWWMyU21Jb3ctUzhqYVVQOTNBSHhNVlhlcExsV0VYM1ZISWhyRVE2TnB3ZGRKM0I0SGJ3RVFwanExT1JCUHJqVVpvTEU2S2daVm4zb1NfYXVvT1NQeWlMWGgteTdqZDc4Tjd0TXdqdG_SAYcBQVVfeXFMTjNiakd6VDYycmNDckVUUlkySFcxQ1BqUjVndS1pQjJ1NUgyZWZfWm0tQXNGVHpycGRPWWhFVG81aDkzckx6NG1PUHFEbWJPeUxrWWFjYmJRSG96U19ZcG5peHNFNllvbXE2aTkyYm5qa3ZiaTNsM2hqbTQ3TExIeWZWVHlWT1FR?oc=5",
+      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:43:44+08:00"
+      "time": "2026-09-04T00:05:00+08:00"
     },
     {
       "title": "Trump $1 coin makes him first living president on US currency in a century",
@@ -89,10 +83,16 @@
       "time": "2026-09-03T23:35:47+08:00"
     },
     {
-      "title": "IRS unveils plan to cancel universities' tax-exempt status - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGROTXVXNWx0Z1k1Ml9IM0l0RTJNTzljRDAxVE4tRDUwcEMzZFhlNEpBVW9oMUlFQXVHSFVhcDBXeDNxUVoxeUt6S255UnU3UXk4Z3ZtSU1qNXlzYTNWYmg1U1d1ZHh4bUlrNTUyazltVS1VUGFPRlZsdkRqbGNtVU16NlhkRmMxSjJwcQ?oc=5",
+      "title": "A Guide to Covid, Flu and R.S.V. Vaccines This Fall - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqd3diRGxRdjRyb25hTHFMMFIzSllmV3A0MnRrUmpiRkJlTkdSRF9oRXpiLWpVb3lsRGlITldaWEF5RmJrQ1hjSTktNTVIdEJxcm01SksyVWRqTjlvWGxzRXNNc1R0N0hQRjdvb3Uyc1Z6SUY5dWc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:08:00+08:00"
+      "time": "2026-09-03T23:35:00+08:00"
+    },
+    {
+      "title": "Hegseth favors Sean Parnell for Army secretary, sources say, but it's unclear who's on Trump's short list - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdHJHU21aaHlWX0VSOGJhMjFuSmhsY3loUUl5NEVRbWpFZ0hUeXpXUjE5Y0pMU2huRU80Z3RiUFRwYkQ3WWRxNVpydWRlSll1by0yN2t0LVdXc0cyMFg5YzQ1LVg3WXhlOGg5TTBJaTZ0b2VLcHJPWGV4VFVGLTJsMW5ETDVDcGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:28:00+08:00"
     },
     {
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
@@ -101,28 +101,52 @@
       "time": "2026-09-03T23:05:57+08:00"
     },
     {
+      "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpLTHduNk1tNmhIWDBPbEJvWHFoMjVBRk90Y3BsXzBWVjJCQ3VmX2U4VEZkeVpxME92V29oVFlaamFuRzdUM3Q4NWZGUzJ6QnpPTEEyUnlhdUFyWHFZRHBtc1o2aTBUbGNsbFpYdWdTMDAybzEzbl8yLVBzUFgwYUxVd1Rqc3NtNkN3ZlNiRkw3aDBq?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:57:56+08:00"
+    },
+    {
+      "title": "6 winners, 5 losers from Kawhi Leonard scandal after Clippers get hit with NBA ‘death penalty’ - SB Nation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2c1ajdxRXJhem1NU1BfYi12a1JndTJzMjBIY3NhWURXSl9WR1dVdGdJX1ppSHNfeGZjcUt0OXhlR1hhWUQ3SU5raVV5c1NWQ0JvQTZDVEVFRW9VbzlodWw3aDRjWTV2bGZtZFZxWjkzREpCaGJ5M1R3M1hMZlR1VER5dFNiakpZc1FMdjZPek9jTlZEbHVpWnJKaUFIR3doTWswZGRn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:56:02+08:00"
+    },
+    {
+      "title": "Israel releases Lebanese prisoners as gesture of good will with Lebanon - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UzdzTmx2T3ROUUtQc3hMb2lUcEVRdmlQci04LVk1b0FxQ0htVE5zcGJNVWsybnA2TWZVRzY5alBBUllQMU9DSnYxQWxGWUlTdWp5WVhkQnktdms1TW1YenlCcm5ONnlfN3JqQTlB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:38:54+08:00"
+    },
+    {
+      "title": "Eight Questions About the Caitlin Clark Era of Team USA - The Ringer",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORXRadG5zcEZwZ0lWMFpDTks5cHcyaEk1ejlZRVMyTVp3aENRZmhzbUJzSFFwWks4cHdKTW9BOUFxbmRxLWFibWxlWHp2c1Npa2hFS0VJQWhiU3NfQUp3X0ZKRnlPdHhpbHR4VnZoOGI3UEtyU0NBTk5NY1NzZlE1RGEyYzNlWWQ0MktjV1MxVUdQeHcwS3ItYTZsd0dfeklkNGRvLU43NkJ1M1BHNXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:31:13+08:00"
+    },
+    {
       "title": "Anker is combining its Eufy, Soundcore, and brands into two ‘Anker’ groups - 9to5Google",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tS0tzeGtnVXdHYW5EQmQ0bDZCdHg5ZmlGeW1POVR5ZWdnOXpGcUJMVmRza0hzWjNyS1dZTFVNYlhyeWR1RHFubXdWT204d0ZNaWs3WVEydHkzcUZmTHhiQXU2UXdraGJwVXhINHdPRE9TcU9OdmkxNVhR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T22:30:00+08:00"
     },
     {
-      "title": "Dolly Parton’s cousin reveals intimate details about late country singer’s ‘small’ burial: ‘Just what she wanted’ - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmhNWjBuXzB2R2FydnI2bFRXV1lvMzE5S1RzNno2bFFNR3lZWS16WWJzejY2Vjg2SWZYMHJUZHR2TmFCZ29PUHpLY2RrZGNhRW9KQ0NyMTFIV1d5NmNJTEFKV0x6M0x6N3FST3VmSjNQU3RxcnhDOXNqNDdNSFFOLU5WOTNfSHB4eGUzWm9zUHBJSFVMOFNOUFBFNjdYZldNb3VfZ2RqOGlVeE1JaF91anJRR1RUSDdlZ2txQ2psNFVYSGVSYXgzMTJHMW8?oc=5",
+      "title": "The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXd2b0E5ajFfZl9jZnZMNExqZGZKOFZaWWFoQlctQVk1T1BJQll4bmtwa013bzByNDFLRlBnUFk5MmZqSTVodTB0R0dJTnl0QXl1YmhSbUdIN3oxQVdha0wxQkNJZ213TnJqWGsybUxsYy04QTlZbE90bk1EekVQRXBPTndZeHU3blplWG1Tbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:24:00+08:00"
+      "time": "2026-09-03T22:23:00+08:00"
     },
     {
-      "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+      "title": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:14:00+08:00"
+      "time": "2026-09-03T22:22:00+08:00"
     },
     {
-      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2FYMnA1eEs4OGhIcmw4MTdSU3FBcmtJbkJjUHN2TDNCOUxOSnhYV0tfVWUwU2M2TnFieFBkX3dCS1phdjVKUTMtMVhGeVcwMVlkVV9BNVgyX3h5dVAwY1c5dlFMWVA3ZGxjU21od2ZIcFVBVWg5MjVtb1RrbzlDLW92Rkk0aDZaUHlXQXF1TmpFMy1vSk1wbVNIeGNiNnZuSEpWa2RNZ3ZsYm9BbWdUT191RXdNQXVaQ1QtU2Z0VF9vMFZwVlpzMnJZSzE3TFo1?oc=5",
+      "title": "Parents arrested after death of 5-year-old nonverbal daughter to be extradited to South Carolina - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdW5WQzlzUjdMOElYRmNaNUdnTUk2WTRMY2lWR1pCQ2RXQkJDVldVTFhSd1g5cnRVOVJ5czF0UHphcWhkSUhkdFJsNDBoQzNtdUpvTGVvcXo5WXl0OUU1SnE4b2NIa3NneXc4dGJab3RVQXhvcTN4eDliazlQRW1zaHVLQ213UjUzWEoxb3UySlJ3TXNFZTVTTEtnclc4MlF3U0l1U1AzMVZNY09XcTllbA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:10:58+08:00"
+      "time": "2026-09-03T22:16:06+08:00"
     },
     {
       "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN",
@@ -137,12 +161,6 @@
       "time": "2026-09-03T22:01:50+08:00"
     },
     {
-      "title": "Athletic finds Russini-Vrabel ties violated newsroom standards - espn.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFUwU1RoSVp0LU1rT1F4UDk4V0xTY2lKSFdIMzIwbGZLVkpSS09SY285SHlvYzlQOTJLN1hOUXNzRkV5YXVlMFplX29JTzAzMTVrcktCU0RsZVI5cnFjLVg1VmxIVGJOd09nWjBQRDZHMFh2eWw4ZWQ4TU03dFB5ck03OHpQQW1IcHdfLUVic2dXdXZOSlc1Zk1ER09sMlBkVkViRWN6ZHZFeENPLUlEcEtB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:00:00+08:00"
-    },
-    {
       "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
       "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -153,24 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T21:52:18+08:00"
-    },
-    {
-      "title": "Theo James calls Meghan Markle’s ‘The Gentlemen’ casting rumors ‘hot air’ - newsnationnow.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWtlRDczaDdZWjZaUzU1c1BoRjVBV2ZFZ21UMXNJZV9PYVBpRGNIUVNmQmNfWW5RUExvazg1TjVDbDhxUXltUUx0VkFUNTlRNlJDRXR3T1YwZVFhcmk1SkdyNEdFeWl4RzhVbVZnOUVqTElzWWdreS1aN0o5cmZ0RGNBNnkyTFV2M004ek9WaVN0WHRNTGlmUEU3eDXSAaIBQVVfeXFMUDlNa25OMGN4MlhkYkljUl9HVGRhYXBXWXE0LVdmVS00MVI3RTV0VGttSHdxT1pKR3JOUGIzNHdLekFCVE1rMFZjLVFXY2NVZk1WcG5OUXlDUi1aNHlzVGZCZXlsM1d1V2Z5blFwZ3h6WVM4dDlqTHhqeWp0QzRqZVNlREg4RktVLTczTE9HRjRfTDY0aExCWV9ubWE3OVNWVE1R?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:48:33+08:00"
-    },
-    {
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T21:26:54+08:00"
-    },
-    {
-      "title": "Fed’s Waller says central bank’s next rate move depends on upcoming inflation report - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:21:33+08:00"
     }
   ]
 }
