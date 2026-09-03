@@ -1,57 +1,87 @@
 {
-  "generatedAt": "2026-09-03T23:59:45.968018+08:00",
+  "generatedAt": "2026-09-04T00:30:47.770372+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 636890.24,
-      "changePct": 5.18
+      "priceHkd": 632390.08,
+      "changePct": 4.17
     },
     "ETH": {
-      "priceHkd": 19680.2,
-      "changePct": 5.1
+      "priceHkd": 19521.21,
+      "changePct": 3.86
     },
     "SOL": {
-      "priceHkd": 823.59,
-      "changePct": 5.86
+      "priceHkd": 815.28,
+      "changePct": 4.51
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5572.63,
-      "changePct": 1.05
+      "priceHkd": 5567.07,
+      "changePct": 0.95
     },
     "SPX": {
-      "priceHkd": 60752.79,
-      "changePct": 1.08
+      "priceHkd": 60693.05,
+      "changePct": 0.98
     },
     "SPCX": {
-      "priceHkd": 1167.49,
-      "changePct": 5.83
+      "priceHkd": 1165.42,
+      "changePct": 5.64
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1132.36,
-      "priceUsdOz": 4492.4
+      "priceHkdPerGram": 1132.99,
+      "priceUsdOz": 4494.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.94,
-      "priceUsdOz": 67.19
+      "priceHkdPerGram": 16.95,
+      "priceUsdOz": 67.25
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 718.38,
-      "changePct": 0.68
+      "priceHkd": 715.4,
+      "changePct": 0.26
     },
     "Natural Gas": {
-      "priceHkd": 22.73,
-      "changePct": -1.93
+      "priceHkd": 22.7,
+      "changePct": -2.06
     }
   },
   "news": [
+    {
+      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:05:00+08:00"
+    },
+    {
+      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T00:01:39+08:00"
+    },
+    {
+      "title": "Live updates • Netanyahu: 5 Lebanese civilians released in exchange for slain Jewish leaders - Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa0NZWG52QmFlczdKZy1EREFPWDdxTkhHelp5cU9wQi1qbzRvX3Y5U0cwTVRKNUVWVFVxMXNVT053TXprem1HbV9VUUx6WW1Da0hGOFFjRU00LXROUGwzT1VJME9FTHZiRkxtR2ZYMnlpTHRBcU0xYmxtWjlYT2dWTTA0RzFtMTJUUF9LSU9KRXNDZG1jZVQwNWlIVFNQMlpPVkU4VkNlOGdIWEFCbnBrYW8zb3NLcVhWc3lsVVVnMXR3UDBiZ3lhVXFoWXpTR0ZLeWJFLXdFdmJyTGh3LUdSMTNnckJ1NWtfZ3Z4MVh6am51emtrWFhjcmVsM09aTzFRMjFmSDNFMmhRQlVZbXVZNWRUQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:54:00+08:00"
+    },
+    {
+      "title": "The ‘Gen Z stare’ — and the decline of saying things out loud - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk5UTHIxaGJvRXFDbDRNZkNEQTFTU0dtRXVWV0RMaHhjWHNQMTdWSDhHSzZCMFM0UWx0YnJwSmVtUzVlRzFHUFlINzRCSTZCYmQwaXlKLUpZOVVPaEIyVmExNUV4ZERYSzY3N2ppTm8wWkljd1F6OWNHTVAwdWhYTXRQdlJkeUxkOC0zWkw1enIyQkNhT1Vn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:48:52+08:00"
+    },
+    {
+      "title": "Spain: Tens of thousands rally over Ceuta crisis - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVld2SVJreE8za0pqajFFUFJJbk9FenVmWWMyU21Jb3ctUzhqYVVQOTNBSHhNVlhlcExsV0VYM1ZISWhyRVE2TnB3ZGRKM0I0SGJ3RVFwanExT1JCUHJqVVpvTEU2S2daVm4zb1NfYXVvT1NQeWlMWGgteTdqZDc4Tjd0TXdqdG_SAYcBQVVfeXFMTjNiakd6VDYycmNDckVUUlkySFcxQ1BqUjVndS1pQjJ1NUgyZWZfWm0tQXNGVHpycGRPWWhFVG81aDkzckx6NG1PUHFEbWJPeUxrWWFjYmJRSG96U19ZcG5peHNFNllvbXE2aTkyYm5qa3ZiaTNsM2hqbTQ3TExIeWZWVHlWT1FR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:43:44+08:00"
+    },
     {
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
@@ -59,13 +89,7 @@
       "time": "2026-09-03T23:35:47+08:00"
     },
     {
-      "title": "Norway seizes Russian ship over Ukraine's $4.2bn Crimea claim - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckZGanZ4Unh3cnV4Nm1fdERQTFZObUVnQ3FnSng2aDBLZkZmLXNydzJfRV9BakZtMTN1WHA3bm1kSjJ5MjNwcTFPLWk1OTB1RG5FcndGV2ZNaEVMUV9sSzZCeFk0cG1jNElGWFF5ZGxkMTVMa2oxSkZ2Tl8xTGVMY2ZHZ295WTMxV0hJRXZETzVpb0lJSE9QZW53X1ZFTE9aOUZqYTFkbVlqbUI2aTV3RlJTdU4xbHFsWUFYb2U3VVo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T23:32:18+08:00"
-    },
-    {
-      "title": "IRS unveils plan to cancel universities' tax-exempt status - Politico",
+      "title": "IRS unveils plan to cancel universities' tax-exempt status - politico.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGROTXVXNWx0Z1k1Ml9IM0l0RTJNTzljRDAxVE4tRDUwcEMzZFhlNEpBVW9oMUlFQXVHSFVhcDBXeDNxUVoxeUt6S255UnU3UXk4Z3ZtSU1qNXlzYTNWYmg1U1d1ZHh4bUlrNTUyazltVS1VUGFPRlZsdkRqbGNtVU16NlhkRmMxSjJwcQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T23:08:00+08:00"
@@ -77,16 +101,34 @@
       "time": "2026-09-03T23:05:57+08:00"
     },
     {
-      "title": "The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXd2b0E5ajFfZl9jZnZMNExqZGZKOFZaWWFoQlctQVk1T1BJQll4bmtwa013bzByNDFLRlBnUFk5MmZqSTVodTB0R0dJTnl0QXl1YmhSbUdIN3oxQVdha0wxQkNJZ213TnJqWGsybUxsYy04QTlZbE90bk1EekVQRXBPTndZeHU3blplWG1Tbw?oc=5",
+      "title": "Anker is combining its Eufy, Soundcore, and brands into two ‘Anker’ groups - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tS0tzeGtnVXdHYW5EQmQ0bDZCdHg5ZmlGeW1POVR5ZWdnOXpGcUJMVmRza0hzWjNyS1dZTFVNYlhyeWR1RHFubXdWT204d0ZNaWs3WVEydHkzcUZmTHhiQXU2UXdraGJwVXhINHdPRE9TcU9OdmkxNVhR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:23:00+08:00"
+      "time": "2026-09-03T22:30:00+08:00"
     },
     {
-      "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
+      "title": "Dolly Parton’s cousin reveals intimate details about late country singer’s ‘small’ burial: ‘Just what she wanted’ - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRmhNWjBuXzB2R2FydnI2bFRXV1lvMzE5S1RzNno2bFFNR3lZWS16WWJzejY2Vjg2SWZYMHJUZHR2TmFCZ29PUHpLY2RrZGNhRW9KQ0NyMTFIV1d5NmNJTEFKV0x6M0x6N3FST3VmSjNQU3RxcnhDOXNqNDdNSFFOLU5WOTNfSHB4eGUzWm9zUHBJSFVMOFNOUFBFNjdYZldNb3VfZ2RqOGlVeE1JaF91anJRR1RUSDdlZ2txQ2psNFVYSGVSYXgzMTJHMW8?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:03:49+08:00"
+      "time": "2026-09-03T22:24:00+08:00"
+    },
+    {
+      "title": "Iran targets Kuwait in retaliation for US bombardments, and other Mideast news - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTWlHaHJsd0IyR0szVG5zUEU0Q2F3RUEzTkJWUlZXSEhQZlF2MkMzWmU5RVhrbmFyVG15T0RiSVdsOGt5V19TZDdnSW1DdVkyUjF4bmxZdjgwZWdBbUxXbWN2aXFiUzNmcTZDNEdiU28tdmk0VGVnbmQ0UDRhREpfUno5NExnR1RJQlhscWhTS2Mwa2tMTXpzZHVHbFQ1WE1GOUJRdzB5WU51emM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:14:00+08:00"
+    },
+    {
+      "title": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc2FYMnA1eEs4OGhIcmw4MTdSU3FBcmtJbkJjUHN2TDNCOUxOSnhYV0tfVWUwU2M2TnFieFBkX3dCS1phdjVKUTMtMVhGeVcwMVlkVV9BNVgyX3h5dVAwY1c5dlFMWVA3ZGxjU21od2ZIcFVBVWg5MjVtb1RrbzlDLW92Rkk0aDZaUHlXQXF1TmpFMy1vSk1wbVNIeGNiNnZuSEpWa2RNZ3ZsYm9BbWdUT191RXdNQXVaQ1QtU2Z0VF9vMFZwVlpzMnJZSzE3TFo1?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:10:58+08:00"
+    },
+    {
+      "title": "Grand Theft Auto 6 Is Getting a Pair of Limited Edition PS5 Controllers - IGN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNElzQnhhdkk2aDBzZVBkU2FCTHZodXlJM3IxSlhtLS1DMzFfVFVWRXh6dDNreTN5NHhLamdyVWl6ek9QZ2pDYWpYOFNESmVJSmRNTjVHZVdodnh4aXc2WE9DbURJYk9IQ19OQXU4QmJhcVBlVlFzSjJpRFZwY1doS29UVnF5YjJ4dHNoQlNIYklDajNKY3Q0akxWV3liZnBFNHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:04:32+08:00"
     },
     {
       "title": "Live: Shooter at Minneapolis apartment building was facing eviction over threats - Star Tribune",
@@ -95,7 +137,7 @@
       "time": "2026-09-03T22:01:50+08:00"
     },
     {
-      "title": "Athletic finds Russini-Vrabel ties violated newsroom standards - ESPN",
+      "title": "Athletic finds Russini-Vrabel ties violated newsroom standards - espn.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFUwU1RoSVp0LU1rT1F4UDk4V0xTY2lKSFdIMzIwbGZLVkpSS09SY285SHlvYzlQOTJLN1hOUXNzRkV5YXVlMFplX29JTzAzMTVrcktCU0RsZVI5cnFjLVg1VmxIVGJOd09nWjBQRDZHMFh2eWw4ZWQ4TU03dFB5ck03OHpQQW1IcHdfLUVic2dXdXZOSlc1Zk1ER09sMlBkVkViRWN6ZHZFeENPLUlEcEtB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T22:00:00+08:00"
@@ -113,6 +155,12 @@
       "time": "2026-09-03T21:52:18+08:00"
     },
     {
+      "title": "Theo James calls Meghan Markle’s ‘The Gentlemen’ casting rumors ‘hot air’ - newsnationnow.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWtlRDczaDdZWjZaUzU1c1BoRjVBV2ZFZ21UMXNJZV9PYVBpRGNIUVNmQmNfWW5RUExvazg1TjVDbDhxUXltUUx0VkFUNTlRNlJDRXR3T1YwZVFhcmk1SkdyNEdFeWl4RzhVbVZnOUVqTElzWWdreS1aN0o5cmZ0RGNBNnkyTFV2M004ek9WaVN0WHRNTGlmUEU3eDXSAaIBQVVfeXFMUDlNa25OMGN4MlhkYkljUl9HVGRhYXBXWXE0LVdmVS00MVI3RTV0VGttSHdxT1pKR3JOUGIzNHdLekFCVE1rMFZjLVFXY2NVZk1WcG5OUXlDUi1aNHlzVGZCZXlsM1d1V2Z5blFwZ3h6WVM4dDlqTHhqeWp0QzRqZVNlREg4RktVLTczTE9HRjRfTDY0aExCWV9ubWE3OVNWVE1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:48:33+08:00"
+    },
+    {
       "title": "Households warned gas price spike could pile fresh pressure on energy bills",
       "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -123,54 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T21:21:33+08:00"
-    },
-    {
-      "title": "Stock futures rise as falling Treasury yields signal less pressure on Fed to hike rates: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:12:18+08:00"
-    },
-    {
-      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T21:07:02+08:00"
-    },
-    {
-      "title": "‘MobLand’ Renewed For Season 3 With Tom Hardy Returning Alongside Helen Mirren & Pierce Brosnan - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY212OHZKWEtmT1VzZU5vRlFSbm5SNWxucVBPSjZQd3JIQTZrZjVjNENlQmZmRjhxWllyUWNURmw5YUkxa1A2M3NCQTBPZFJJYnhxTG0yTnNiMm53X3hldnVnQjlQSHpLNFlIY2QtZ2UtNlBVWEFKX2lwSmhBbll0N2ZsUnJxdGdPVm91WkhKTi1LdGJI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:00:00+08:00"
-    },
-    {
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "link": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T20:50:14+08:00"
-    },
-    {
-      "title": "Tens of thousands flood streets to protest Spain border crisis - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXN1N3pjRDZXYlZmbmVrTnZuZ28zY3dmNmFHbHhfMlQ4X0RiaGRfVEJ1M1l5d1FTd3dDN0JFaURvX1pNZ1FlbERDU1pvcFIxTldhR1NxanN3YjFya3FZOVdTZ1c4N3pVQTlWZlhLN2hWeTJKUTI3bEZkT2FhZmVTcXdpVTMyWEV5TnpyalV4c9IBlAFBVV95cUxNajdBVDJ4X1ZRWjBIcTlQYkdINzctNjkxbzRiWk13Rk55dDctdlcyR3RJenFTbzBxcHh6cGZxZ1V2c0h1MkN4ZWl4eTdEdmtaOXBwTzJINGhMWUNRd1hqdG1hXzJEZVdDS0lZWjFhVjFFcFdHTmpTdXZsWjR0QmhsMWNhWE9HcG1Nb2VvUHBtNlRKaGNo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T20:39:42+08:00"
-    },
-    {
-      "title": "EXCLUSIVE: Dolly Parton’s Cousin Shares New Details on Her Health Battle Before Her Death - today.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVk16dExlRFpDX3B4LWZDTjBCYjZzckVnemhIbDNtNXVycWJuczk5LWpJM0M4QTlkak00dTAzQnh5WDlYRUN2UkdLd0g3a0RyMk13d2ZvUFBGWHk2QUJMNTFVdERzVmxaZTlZdExaZTRpZmJrMURlZnRKMXdOakpuMGtaWVFGdkV3ZXlJYXdyY3M1TFpRUVdQN3d3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T20:30:08+08:00"
-    },
-    {
-      "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
-      "link": "https://www.bbc.co.uk/news/articles/c07lz7rn2mjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T20:18:07+08:00"
-    },
-    {
-      "title": "How Rooney and Kate Mara Learned to Speak in Unison for Bucking Fastard - Variety",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1BJY1dfb0RZRGNndW94eUljN096T2ozaW9xcEhuX0RBU2tIQnd0MHlUcnU4R0JmOXRpbHVKTzRSamQ4dkRSdndMelY4U090Nndjc2JRZUFNNXgybmt6VmZOYzFzemF5WTgzWC1aQm81VC1DSHU5OTJma1ZlajBhUi02TVpZSmVNSzVYYUhCUjRDczhoQS11SkZQSG1Ec2U2ZENtc1hQWm9IMHRMX3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T20:01:00+08:00"
     }
   ]
 }
