@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T07:15:50.853471+08:00",
+  "generatedAt": "2026-09-04T07:46:57.800940+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 635894.56,
-      "changePct": 5.07
+      "priceHkd": 636921.6,
+      "changePct": 5.31
     },
     "ETH": {
-      "priceHkd": 19577.26,
-      "changePct": 4.66
+      "priceHkd": 19655.35,
+      "changePct": 5.13
     },
     "SOL": {
-      "priceHkd": 815.52,
-      "changePct": 4.13
+      "priceHkd": 815.05,
+      "changePct": 4.03
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1128.05,
-      "priceUsdOz": 4475.3
+      "priceHkdPerGram": 1128.51,
+      "priceUsdOz": 4477.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.9,
-      "priceUsdOz": 67.06
+      "priceHkdPerGram": 16.91,
+      "priceUsdOz": 67.09
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 719.87,
-      "changePct": 0.89
+      "priceHkd": 720.34,
+      "changePct": 0.96
     },
     "Natural Gas": {
       "priceHkd": 22.94,
@@ -53,22 +53,52 @@
   },
   "news": [
     {
-      "title": "U.S.-Iran War Updates: Vance \"extremely skeptical\" strike hit wedding party, says he wouldn't call conflict a war - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T06:51:00+08:00"
-    },
-    {
-      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - nbcnews.com",
+      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - NBC News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlZ1c3ljMHdkLUxtLXo4RG5tTkU5VFNHRFdkMGRuak5nY3hQNXVpSk9jLXptdEJWZzBaaElSWko0N1ZqZUJXTUNUbHI4UktvX2lnTnFLQjFvdjNaYk1zdEF5VXdHVGFaZUQyU3J2MUxUWVJhRzlHelVDYVNJSlU3cGxOTnQ0MmdKdW5LbUI0T2Uwd3dzdVZMczZUUHRJUHpqWmFCZG5HZ1g3ejRGTzBjX1oxTXlZczlHT3B0UEZObVpNeGdsblM4?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T06:34:30+08:00"
+      "time": "2026-09-04T07:26:45+08:00"
     },
     {
-      "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - reuters.com",
+      "title": "From cake to pizza: How to get the best birthday freebies (and why there's a catch)",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T07:25:45+08:00"
+    },
+    {
+      "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T07:00:15+08:00"
+    },
+    {
+      "title": "Iran attacks Kuwait with missiles and drones after US strikes - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3JKaGh4eWVCeWFMcUVYaEUzUUhrMG05Q3gtREsydnc2ajZoY2Z2LXkwSWFCZmlTMVZWaUVRV3FxeUJkREN5bGR0QzRFb25jMVdWMXBnMkVqODYzdzQtRTBXT0s0S0tPMUxkc3hDZWVSN3JJdTROejZ1b0NHUHB5WE1LcXVrZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T06:44:20+08:00"
+    },
+    {
+      "title": "Transplanted pig kidney works in US man's body for record 271 days",
+      "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T06:31:23+08:00"
+    },
+    {
+      "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T06:24:47+08:00"
+    },
+    {
+      "title": "US investigating if missile hit Iran wedding, Vance says",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T06:19:59+08:00"
+    },
+    {
+      "title": "ICE agent charged with lying to investigators in nonfatal Minneapolis shooting - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc3dhcS1ndjYxS0pma282SnhodmZsU2tuYm93V1N5eHZpcGU3NW5tYUExMGw5Q1ZRdk1SNDlveVZDaVpIWmhRWVc2b19zZ0dwbHFSN0d0cG93RG5CVURKdUdiNUY2MHh1SDA5MEx0eXA3M0FPMmZCTGxWcnVMcVNhRTRncVNPN3BEZkpxOFFOVGdrOEtGTktGN0Y2U2pZQ1prY0o2dlY1WXl0QTJLZlFuQm1VR1k5ZndzWFUxSEJMTGdhdTNYTmhn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T06:16:02+08:00"
     },
     {
       "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them - Ars Technica",
@@ -89,10 +119,10 @@
       "time": "2026-09-04T05:46:21+08:00"
     },
     {
-      "title": "Volkswagen Plans to Cut 50,000 Jobs Amid Dire Need to Reduce Costs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SZ3QwR2drU3lLTlN3ZTVGUjF4Vl8tQzg2Mk51OGVZckNhSmlhM2JybTc0bFJjblg2UWNydWYta05QRTh6LWJjbEZPcEZGMF96aWltUFdwazRyOGtDT2pLRHp4ai1sYVdFOHVzanBWX2NEdUlvR1Y4?oc=5",
+      "title": "Tesla's 45 Cybercabs Face a $1.3 Trillion Reality Check - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMGEwbjdDQWNqV256QWhQOHptNmtiWXdFVkRDSFJ4VVdFb0tsLUtUSlA5eU5ob0lmRDdCMHcxYXE3NXFkbVdSZlJMcHI4TEZWNDltN3RWaTUyMlhqbnE4YUpWTExvSmUxNUxfdmplaHhvN3c4bWtuNFprX2FKS2N1TU83eFdFWWszMGdrWjY4TTVLakgtOFE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T05:31:29+08:00"
+      "time": "2026-09-04T05:34:07+08:00"
     },
     {
       "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic - The New York Times",
@@ -101,22 +131,22 @@
       "time": "2026-09-04T05:12:44+08:00"
     },
     {
-      "title": "Tesla unveils new Cybercab robotaxi at exclusive Austin event. Follow along here. - Austin American-Statesman",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaGVjM2JqbXgtS19PUDFoeDV3SldnQUFaUWhyN2pHY0dxQXRJVG1pYXhJYUtOdWJma2U1ZVZDSFl5MVFYVERKbzNwTkhBUFdaME44eEt6VFJCTnhaV0h2OUY0Q256eXdaSWExNUlSUDVfT3B0SklzeDgyOXdfNkw0WmFrczVWUjVJMWMzdnhmTmREeHh1b0M5ejJWcGU5QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T05:11:15+08:00"
-    },
-    {
       "title": "Groundbreaking for Trump's arch will begin soon, Burgum says - Politico",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVWVTaUhyTHhZOEF4Znk5Rnl3TElRejhCNE5nbW1rRXlsUmpMN2s4djJlRllXR3pRRUJicFFCVjJBdC0zRjUzUzlRdTl3SktXd01DRnowYXpTMmVtNEpBUi1MREp0UmkwS2wwS2hRemJCeDYyV0xnVzNub3VnMzB4OExveTNJMlpvUlYxRA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T05:05:00+08:00"
     },
     {
-      "title": "JD Vance reacts to airstrike that killed four at Iran wedding: ‘Things happen’ - The Guardian",
+      "title": "JD Vance reacts to airstrike that killed four at Iran wedding: ‘Things happen’ - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtsaDRkWklOSkM5bFdVWFVTdTVMTE5aeVlDYk4tbk16ZG42STU3UU8zc0tRbzM1UWNQbWRoMTMtZ1hqdjNNTUoxbmhTR2RNOVgzaUppUUluNkRUb21WQTdmeDdUdGwwQ0ludExNbjg2aTVwaUpuZDZiTVZ1ZGlMTQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T05:04:00+08:00"
+    },
+    {
+      "title": "Fox News cuts ties with Maria Bartiromo, weeks after she vanished from her own shows - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmo0RVdoOGRDVExabHBJcGlxWlNQOVJ1NlRZTmVsSkdhejk2SHNPSlhYaXZ6eFQtTGNPWmljMTE0YzlWdm1VTjFaTC1RckJiTlFLb2RWUTVXVzNDYW05VS1QMVVIY1N1VWhJR21ZeDJKMTFhLUd1QTl6QmRWZ21IYWJaendDV2xkbi1mQkZEZVFMbnZudFhzQzhld0FnQ19HaVZCU1dn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T04:55:00+08:00"
     },
     {
       "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
@@ -137,40 +167,10 @@
       "time": "2026-09-04T04:44:43+08:00"
     },
     {
-      "title": "Maria Bartiromo Is Out at Fox News - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE83X0hjSXhpbGJ5ano5VEhibGg3SW4tUEJrLWItU29QSmlqSldmX3JjZmlhVE1kNWNiRnoxbXpKRl91RUdsdkYwaHhQMVJPVzlzNkxFclAwNnR3M3licUVab1JHRGIxdEx1aFhqd1RtRVh2aG1vcXBkdmVlUWFuOERIY3JLQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T04:37:34+08:00"
-    },
-    {
       "title": "Watch: Trump $1 commemorative coin goes on sale",
       "link": "https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-04T04:32:21+08:00"
-    },
-    {
-      "title": "2026 college football study guide: 100 things, coaches, players and teams to know - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUDVEOEIzLVRfOEo3OUxDMEFPa05OUURtYllWVFd0a3ZwOFNpOEhSblAwZVMwcXMzejVYMWxxQUE1UEhSOTF6Q0Z0UmpaMWl1OVlHa3VpXzhrWDlBS3RyZTAyWXJKV0NuTVg0aFhWS1k3anJSYlNFWUVLTXhKb0dvQ1EwVkNRRURzYVJjeGczZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T04:09:59+08:00"
-    },
-    {
-      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
-      "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T03:56:34+08:00"
-    },
-    {
-      "title": "John Malkovich Fights Back Tears During 13-Minute Venice Standing Ovation as ‘Wild Horse Nine’ Storms Into Oscar Race - Variety",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdDdNY0k3dGp5ZGdGT1F5bi14NC03UXZDT2FPdEkzRlNZeXF0WVUzYTNQVUwycGxkZTlZeGt2Qy1OMlRfTXRQQkdSSXA5b2FMcjRYRUVUVVZZVC1Kc2tVZVNtNXpWTnJqNzFnNWFBNl81ajJRNGZJN0hQWlNfYktrRW9KN1NTQ2MzNHBYRlJncmdxVGVlWlVtMG9TMGZGT1NTd2dlSkoza3JEUzFMN2g2Yg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T03:52:00+08:00"
-    },
-    {
-      "title": "Iran targets US bases as Israel warns sanctions could drive Tehran to ‘desperate steps’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWxnVThEUFBybnJWc0RXUGh4Q2Y3aEJydFB6SVMyVGR2ZG91Zm5mWjdubWJ3eGhUb0ZKa3JYU3FZX2ppOVRrU1RFenNTNzVhd2J3RjNNVUFKUlZBOUl0MXpKRTFWN3BkVUJ2MEFxUF9FRmNUTUY0NnBuejlBZDFkLVNDRHpyYmNOZDhrVGZVWVo2OGdMVlRlY3pQdUVPMXBUbmpObEI3d19pdVFYZk15bVptVFlkZ0xtdnBFQlR5TThtYnRaOHZ2RWFQcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T03:39:00+08:00"
     }
   ]
 }
