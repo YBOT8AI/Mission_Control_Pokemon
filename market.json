@@ -1,62 +1,98 @@
 {
-  "generatedAt": "2026-09-03T22:57:34.294258+08:00",
+  "generatedAt": "2026-09-03T23:28:34.582724+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 628901.28,
-      "changePct": 4.0
+      "priceHkd": 632194.08,
+      "changePct": 4.7
     },
     "ETH": {
-      "priceHkd": 19431.6,
-      "changePct": 3.45
+      "priceHkd": 19495.26,
+      "changePct": 4.16
     },
     "SOL": {
-      "priceHkd": 813.56,
-      "changePct": 4.65
+      "priceHkd": 818.1,
+      "changePct": 5.47
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5537.27,
-      "changePct": 0.41
+      "priceHkd": 5567.65,
+      "changePct": 0.96
     },
     "SPX": {
-      "priceHkd": 60362.98,
-      "changePct": 0.43
+      "priceHkd": 60695.87,
+      "changePct": 0.98
     },
     "SPCX": {
-      "priceHkd": 1159.3,
-      "changePct": 5.09
+      "priceHkd": 1170.75,
+      "changePct": 6.13
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1128.35,
-      "priceUsdOz": 4476.5
+      "priceHkdPerGram": 1135.92,
+      "priceUsdOz": 4506.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.81,
-      "priceUsdOz": 66.68
+      "priceHkdPerGram": 17.01,
+      "priceUsdOz": 67.5
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 722.14,
-      "changePct": 1.21
+      "priceHkd": 725.36,
+      "changePct": 1.66
     },
     "Natural Gas": {
-      "priceHkd": 23.14,
-      "changePct": -0.17
+      "priceHkd": 22.75,
+      "changePct": -1.83
     }
   },
   "news": [
     {
-      "title": "Norway seizes a Russian vessel in remote Arctic, drawing Putin’s ire - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaXVXMzB6QmVGd3lKN09Hc0ZPR0NlRmppSXZCaVc4Q2owdGRLY1JtWFRXSWtHbUlLYkE2UVlPMW5nbnB0MWIwUUhFdWNQZ0o2X2Zqc1JoNDNHOUlWUVVMY01xUDN3SEx6TlFycGU5eEczTHNNM2xnZUJPVXVhRE45UzBKd0Q4WVhhZlFmVktGNGxiNlIyd09ZSHI3YnIyRkdqWG1pX0tmMWNzQzg0N1Fxb2NpRUxrUQ?oc=5",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T23:05:57+08:00"
+    },
+    {
+      "title": "The ‘Gen Z stare’ — and the decline of saying things out loud - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk5UTHIxaGJvRXFDbDRNZkNEQTFTU0dtRXVWV0RMaHhjWHNQMTdWSDhHSzZCMFM0UWx0YnJwSmVtUzVlRzFHUFlINzRCSTZCYmQwaXlKLUpZOVVPaEIyVmExNUV4ZERYSzY3N2ppTm8wWkljd1F6OWNHTVAwdWhYTXRQdlJkeUxkOC0zWkw1enIyQkNhT1Vn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T21:58:00+08:00"
+      "time": "2026-09-03T23:02:58+08:00"
+    },
+    {
+      "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpLTHduNk1tNmhIWDBPbEJvWHFoMjVBRk90Y3BsXzBWVjJCQ3VmX2U4VEZkeVpxME92V29oVFlaamFuRzdUM3Q4NWZGUzJ6QnpPTEEyUnlhdUFyWHFZRHBtc1o2aTBUbGNsbFpYdWdTMDAybzEzbl8yLVBzUFgwYUxVd1Rqc3NtNkN3ZlNiRkw3aDBq?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:57:56+08:00"
+    },
+    {
+      "title": "Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLS0JwR181dVJ6X0dObDVVeG41OHBPZmF1dmtIa0xOZ1paYWlIVk5TcHhuZE1LcUxtMEctMGdhelNYY0IyNW5xQjN6cllaLWMydmpIVW51RzVlazhEUnhHMUhCZjdVVFNIVWVqeklfZTFYYnFYemlxSFBuWk0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:47:15+08:00"
+    },
+    {
+      "title": "Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXBPOGdZQkpuQVZWalNxR0RFaEtGRFZ3YklZVGNneXMxNmhvZTRwcVBpeHpoVVdReTk2TWpmOFY4UEhxQjlyMnQ1NzFyY0JPYndKc2RpcDQzM3gyTnlNMC01VnlSNlpjQW9VSjlUeDhTcWViRDltMC1yQjFOM3Z4eGhkcDFUazRDMmZMSlp3elkxazF4UEdCZ2FDLW51VUlSb2VEaWlqQ05CVjJYNzZ4LWhEX0dzVXJDMTFXTUpVS1R5YUlmWkZF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:36:40+08:00"
+    },
+    {
+      "title": "Live updates: Trump promises to campaign for Republicans despite sagging popularity - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjVWOEo5bm9zdTIxOVF6ZnBZQmgwN0tzcUxqem9SSERaWUZuQTRLUU9DZXdBZ1A1LVMwSzBOVy10U1BWOU9JaDFfaGFoZ3VWWW1fbXJZZmNJQXloY3hVTlFTM3lBNS1DT1ZoMXU0T0NuYkpXQVRyOUFqZVM4S3M3dW1DRHRIWTBSMVhQblhKcHBVZUNpcXFOMmlR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:21:00+08:00"
+    },
+    {
+      "title": "The Athletic’s review of Dianna Russini’s work concludes she was ‘noncompliant’ with standards - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVREdUQ0ckV4ZHB2Ym1EUFlicHY5RzdoYUdwMXpmUi16WUdIYVU2cGVoeUZ2akpMZTBZNy03Z091SDhWNzgydjlsbVB2VVRJY0xSd3dNdUVXT05XOUVmeExOblBsbXpJY3VBUWN5UXNENThvSlNnV2hQYllUd0dPRFF1YUZLUXVmLVk4eVVpWV9Lb19BSFBVd2FDbWJFRUNVbExFd3JGWHlFZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:06:49+08:00"
     },
     {
       "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
@@ -71,16 +107,16 @@
       "time": "2026-09-03T21:52:18+08:00"
     },
     {
+      "title": "Stock Market Today: Major Indexes Surge as Treasury Yields Decline; Snowflake Shares Soar; Nvidia Buys Hugging Face for $13 Billion - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0xCa2RGdFZHWkxScHduVkhkYXhFMFVsRnE1d0ZiU21kSXB0cXhxTVpoNVdTcFJ5OV8xR1ZLaDIxVzE0YjdqUDNrdmJ6NFlXRE5aV1VHZzUtTjVMNHVadWxDeFplaWtwOTNPSjJEbm9wTU16OTlEMXhDMzkzei16OFE3TkVNekZUNktCaGtwTUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:36:42+08:00"
+    },
+    {
       "title": "Households warned gas price spike could pile fresh pressure on energy bills",
       "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T21:26:54+08:00"
-    },
-    {
-      "title": "Fed’s Waller says central bank’s next rate move depends on upcoming inflation report - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:09:00+08:00"
     },
     {
       "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
@@ -89,14 +125,20 @@
       "time": "2026-09-03T21:07:02+08:00"
     },
     {
+      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamF4bUM2WnVjWHBFZHM1Qk5JNWRGMjJUOUFjb0FqaFhDVFhzNUU4VUFuel9IYVU2ckRCbDZTZjNJNXA4TkNNTXNFWlNoVldqVWZWNl9BNTVkWURqUmRab09uZkZEQ3NiOVhHRWVxTVFLYUtLTXNtVFliNkxxb29wVGNETnFTQV9EWWJvUHpJOC1PdGJpOFk40gGcAUFVX3lxTE5hT3o3NFZ0YjdEbW1UWnNPc19YbDhNYURRNzZjWE5DX3RjRE9RRF83QkZaUGZ3b2JDZWNyYVNtMnRfbmlQb1lxcG9peEx6MlV2cnJnb2c3QXFVNThYRDJGNGtLaDByRnFiY1ZIWXVZOVNvTU9lb0d1Q09NcDdSc3JxY0pfZDBXbEVna0w4SkZVZ0RuREtVV0xwOENERg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:05:59+08:00"
+    },
+    {
       "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T21:01:43+08:00"
     },
     {
-      "title": "Tyron Woodley explains why he’s not interested in running it back with Colby Covington in RAF - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbUpFZW5wVjlrMk90SU5xTzBCbDhvNmZZczdTMXl2OE1oU0gwaDNTYWlSa1VhdmdVdkp5ZjJaUl9LdjYwbS1kTHlBWElTZmZWUndWTzNHc2FvVVdTbzVMaGI5THBwUzBQdnR1ZWJQTlVGbHRoaXlTbUdSVGUyaENUS2otOFBENEE1bjRIVWp0cXlqVFFjdmcwRVlWbmFmU0M4Z2VORFdVUmJKa2lhaUJjN25nSURoMUptRkllSmRQbGU0TmotTEZTNWgwQQ?oc=5",
+      "title": "‘MobLand’ Renewed For Season 3 With Tom Hardy Returning Alongside Helen Mirren & Pierce Brosnan - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY212OHZKWEtmT1VzZU5vRlFSbm5SNWxucVBPSjZQd3JIQTZrZjVjNENlQmZmRjhxWllyUWNURmw5YUkxa1A2M3NCQTBPZFJJYnhxTG0yTnNiMm53X3hldnVnQjlQSHpLNFlIY2QtZ2UtNlBVWEFKX2lwSmhBbll0N2ZsUnJxdGdPVm91WkhKTi1LdGJI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T21:00:00+08:00"
     },
@@ -107,10 +149,10 @@
       "time": "2026-09-03T20:50:14+08:00"
     },
     {
-      "title": "Stock Market Today: Dow Rises On Fed Comments; Broadcom Falls On Earnings (Live Coverage) - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1lTSk5mc0tnZExqbWpTd1BYS1dnemo1Tzg0ZTFMdU5FVjZmTlpldDRGZnEtaXV2QXVJZ0ZNT0tqaW8xZlZUMkREbTVETC00dm8zR2podUFQREwzT250eXJFRWhHVDV1ajVYSjRaSVB3Z0JUUUdzVkVQb2ZaSnZaaFdRTkIzUUpzMnVkVGQ5OC1Ga3h1WWFxa0NRSmprS2JaQzRTSmh3Z1BMcmExRjB4ODdNd1g2VUpJ?oc=5",
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T20:46:00+08:00"
+      "time": "2026-09-03T20:30:21+08:00"
     },
     {
       "title": "EXCLUSIVE: Dolly Parton’s Cousin Shares New Details on Her Health Battle Before Her Death - TODAY.com",
@@ -125,52 +167,10 @@
       "time": "2026-09-03T20:18:07+08:00"
     },
     {
-      "title": "This New Dreame Robomower’s Side Piece Seems Great at Edging - gizmodo.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOemYwWTZ5aXFHWjdNdUgzMVJLZGRlbXUwUVFDV1N2SGM0WVU1TmZ6X0hlUFExMU9RNnI3eVFVekFuQTdZdExKX1pLR0h4YTlOZ19RM09LWlVoVGZYd18wQ2o3ZnhBcjZFUFU5WlRwYjFqVklFRE5aRTVKbTZObmF0a0xOMklnLWVPOFV4MUY4WFFKTHFf?oc=5",
+      "title": "How Rooney and Kate Mara Learned to Speak in Unison for Bucking Fastard - Variety",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ1BJY1dfb0RZRGNndW94eUljN096T2ozaW9xcEhuX0RBU2tIQnd0MHlUcnU4R0JmOXRpbHVKTzRSamQ4dkRSdndMelY4U090Nndjc2JRZUFNNXgybmt6VmZOYzFzemF5WTgzWC1aQm81VC1DSHU5OTJma1ZlajBhUi02TVpZSmVNSzVYYUhCUjRDczhoQS11SkZQSG1Ec2U2ZENtc1hQWm9IMHRMX3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T20:00:48+08:00"
-    },
-    {
-      "title": "Family of slain Bank of America vice president 'devastated' after Times Square attack - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFpEWkcwSS1CN0NaQi1BandkV2J0Wi1lYTFVbGlzZGszWW12LVFBbUVLekhEdlU3YjUtN29Gc2xQUTlxQnRqRnFtaTU3VVBDbFd0VGxfZThPTWRCNkFrUktORWRjUE5YaE10S1ZKSUpiZ0QxMi01R0tXZi1DVUk0eUpkTndxVDd3eU5XLWNZemx1OWNad3NGRjVlazRZLTJxRk1KamZ0LVRBaHZSYlNvMdIBtgFBVV95cUxOaFhEOXBEOGtNQkcyM010VE1KdEM0WXNCbEZTMk52RE1oOFg2QTRqT2VlU2R4V0s3N2tJb1hMSDZrQVFZYWRMRHdJbVlYa0VHY2I3NXBxZE53bktab3Vwbk05dEJwLUd5LUxCYThKLUJsN3gxU2p5M3JDZVNvYnJxbTVqWnBWWjhRc3VUd0h5MkRuYTEwb19ma2pqM3NHLUItQlo0NS0wbWtwNDBoQ05iaGMyV05Xdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T19:50:00+08:00"
-    },
-    {
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T19:49:50+08:00"
-    },
-    {
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "link": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T19:35:52+08:00"
-    },
-    {
-      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
-      "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T19:33:09+08:00"
-    },
-    {
-      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T19:30:38+08:00"
-    },
-    {
-      "title": "How Gloria Steinem changed the lives of generations of women",
-      "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T19:26:07+08:00"
-    },
-    {
-      "title": "Festival hopes for more visitors amid cost rises",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8z15wngyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T19:09:10+08:00"
+      "time": "2026-09-03T20:01:00+08:00"
     }
   ]
 }
