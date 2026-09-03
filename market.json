@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-09-03T21:55:20.657300+08:00",
+  "generatedAt": "2026-09-03T22:26:24.819623+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618246.72,
-      "changePct": 2.2
+      "priceHkd": 621414.08,
+      "changePct": 2.65
     },
     "ETH": {
-      "priceHkd": 19040.07,
-      "changePct": 1.03
+      "priceHkd": 19161.9,
+      "changePct": 1.75
     },
     "SOL": {
-      "priceHkd": 796.39,
-      "changePct": 2.47
+      "priceHkd": 801.56,
+      "changePct": 2.91
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5545.11,
-      "changePct": 0.55
+      "priceHkd": 5541.74,
+      "changePct": 0.49
     },
     "SPX": {
-      "priceHkd": 60463.02,
-      "changePct": 0.59
+      "priceHkd": 60406.89,
+      "changePct": 0.5
     },
     "SPCX": {
-      "priceHkd": 1166.16,
-      "changePct": 5.71
+      "priceHkd": 1171.61,
+      "changePct": 6.2
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1125.43,
-      "priceUsdOz": 4464.9
+      "priceHkdPerGram": 1128.2,
+      "priceUsdOz": 4475.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.42
+      "priceHkdPerGram": 16.79,
+      "priceUsdOz": 66.62
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 720.81,
-      "changePct": 1.02
+      "priceHkd": 722.93,
+      "changePct": 1.32
     },
     "Natural Gas": {
-      "priceHkd": 23.43,
-      "changePct": 1.08
+      "priceHkd": 23.39,
+      "changePct": 0.91
     }
   },
   "news": [
+    {
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T21:54:49+08:00"
+    },
     {
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
@@ -65,16 +71,16 @@
       "time": "2026-09-03T21:26:54+08:00"
     },
     {
+      "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:18:06+08:00"
+    },
+    {
       "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T21:07:02+08:00"
-    },
-    {
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92 - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMUxESkFTTHRlbGJqRFI2MWdmenFYTTYxckNMOEtGMklSR0lZeEdrcV83N1BsV2VTby1McVlNbWVyb3puY21lN0k1Y296MjlKVEJLeGhWLXRiQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T20:57:46+08:00"
     },
     {
       "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
@@ -83,16 +89,16 @@
       "time": "2026-09-03T20:50:14+08:00"
     },
     {
-      "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRjFrV3U2SWRZZmFGZk9HZEwybFBVcFo4aVEtMTRkNVhaNUdIemhLekRnMjdvb0RGN0JTYkE5X3ZpMndWck5uNlNucDl0aFhtY2tBVWJ6aWt1RTd4eXcwelMxZjBjRFJpLUU4R2hSR2tfUEFtemlWakhfZ0lieHRiQ0JLTzNQX3dNUEJEbVJpdU8?oc=5",
+      "title": "Stock Market Today: Dow Rises On Fed Comments; Broadcom Falls On Earnings (Live Coverage) - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQU1lTSk5mc0tnZExqbWpTd1BYS1dnemo1Tzg0ZTFMdU5FVjZmTlpldDRGZnEtaXV2QXVJZ0ZNT0tqaW8xZlZUMkREbTVETC00dm8zR2podUFQREwzT250eXJFRWhHVDV1ajVYSjRaSVB3Z0JUUUdzVkVQb2ZaSnZaaFdRTkIzUUpzMnVkVGQ5OC1Ga3h1WWFxa0NRSmprS2JaQzRTSmh3Z1BMcmExRjB4ODdNd1g2VUpJ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T20:47:00+08:00"
+      "time": "2026-09-03T20:46:00+08:00"
     },
     {
-      "title": "Nvidia Agrees to $13 Billion Deal for AI Platform Hugging Face - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1dYREIzM1Btc0JjU3k2aGlaZGhuODBxQXRYTGtEZnFlTmpmeW4xWnY5RGJfbUEzaHhBQm1tMnBROHZDTDNNdDlpSmZuY2Z3UWxuWDkxSHl3WjVNZHJBVXFEVXZlcEV5RGc0cTNrXzIweVNHSXA4UlprOWFlQzNLMEwxaXJDVjFPTHlsbkdOZFBqQVlzdlR1YVdCeXFkY3Jpa2JkanJVYjJyRTFNaFFIbW1R?oc=5",
+      "title": "Amelia Dimoldenberg Winds Down Chicken Shop Date After 12 Years - Pitchfork",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDRydkFEaXRXVTZHYVVmVVFlQUJvR1NsUDJPZWVyVXZrQ0dMNmtXOXF4U05kdWxsRi0zUzBKamdSMm85aHhNWm1fMldBYTRPQ3lvN01YYWpaanJrVkk2amdVTXN1TXpqU25aTGxVajhENXlGRW42TnFSYkQ1cnpvbENoSFNpM2s3LXpQSlQ4UXd0Q0U0MENj?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T20:28:49+08:00"
+      "time": "2026-09-03T20:36:09+08:00"
     },
     {
       "title": "Why has the Netherlands moved $10bn of its gold from the US? - Al Jazeera",
@@ -131,7 +137,7 @@
       "time": "2026-09-03T19:33:09+08:00"
     },
     {
-      "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - bbc.com",
+      "title": "USS Abraham Lincoln: US sailors unwind in Thailand by shopping and bar-hopping - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ndHN0aWh5dVc5d29TeFpMNURKajU5ck1VaEVaeGFkLTZoaVoxcHBQcXB1WFlWMmJRdGNSS215WHR0bHgxcWhHU2FrZUlJWmxuRE1Nem9ObUgtdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T19:33:09+08:00"
@@ -143,16 +149,16 @@
       "time": "2026-09-03T19:30:38+08:00"
     },
     {
-      "title": "Israel to release Lebanese prisoners as 'gesture of good will' with Lebanon - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16UzdzTmx2T3ROUUtQc3hMb2lUcEVRdmlQci04LVk1b0FxQ0htVE5zcGJNVWsybnA2TWZVRzY5alBBUllQMU9DSnYxQWxGWUlTdWp5WVhkQnktdms1TW1YenlCcm5ONnlfN3JqQTlB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T19:26:37+08:00"
-    },
-    {
       "title": "How Gloria Steinem changed the lives of generations of women",
       "link": "https://www.bbc.co.uk/news/articles/cqv5wxyp5xwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T19:26:07+08:00"
+    },
+    {
+      "title": "3 dead, including suspect, in Minneapolis apartment building shooting - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1JWcUQxTThOMV92UWYyTVV2TVZtei1jUXdPaDEtdi15bDRQWjkxYmZUM3lBaURveXVmaUxvbG5ZMFp3OEk5bVJzSFBNZ0JkZzg0TUpUSFM2WElvcTd2WFlobGt6bDR3YU9QbFRwVzJIM3owVmM2aHYzdTl3X25HaWxQaTFwcTRFU28wUVFtX3JlbU0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T19:24:00+08:00"
     },
     {
       "title": "Festival hopes for more visitors amid cost rises",
@@ -161,16 +167,10 @@
       "time": "2026-09-03T19:09:10+08:00"
     },
     {
-      "title": "Commentary: Kawhi Leonard is a Hall of Fame scam artist who deserves Clippers fans' boos - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS0plVkI3eWJYLXNBUzR1MXBFcVlralA2OG5HZ2hYb19Wa21iQnRSckRwSGU0bGJqaHhyWE0zaGFobGNERXR0M1FtR0tabjkzV2ZabW9zVk9xclBOZ21uRkxYTzMyV0ZKMnF5VVBvcXIwbEdMX0kyTmZQVkhwTVFKLW5HcXV2Zw?oc=5",
+      "title": "The Morning Risk Report: Trump’s ‘Economic D-Day’ Against Iran Faces an Uphill Battle - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOXJsdktnQjRSeDdiWHUybGZwR2owMGNJRWw3UmhYRU5WeUxGYmowd1ZPZVJURXNLZGtNRFQ0RWpXenpxV1Q3aUVPM0V2YnJWQlVWZnVsbjZlZ3lHUkZjcFVyeEk1YnQ2RjhZa2ZHVVJZSmFzdGZYRDJuSUZ2QlVmb1RJM0JNZ3p0MUhKN0pHa0dYMnladEE0Wi1HMXVOeFJvelFvV1AyZnA2blZuSXJyMS1DSTJGS1lKYXd1ZGE1bkVBQ084Z256TGlobUNSMFU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T19:00:00+08:00"
-    },
-    {
-      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
-      "link": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T18:59:14+08:00"
+      "time": "2026-09-03T19:06:02+08:00"
     }
   ]
 }

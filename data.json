@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T21:55:20.577363+08:00",
+  "generatedAt": "2026-09-03T22:26:24.741057+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -58,16 +58,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "e9d8e24",
-          "message": "fix: painting entry price was 4x the market floor",
+          "sha": "775a0ac",
+          "message": "chore: remove unused getStageIndex() from kindkin-requests",
           "author": "evilmoni",
-          "time": "2026-09-03T20:04:37+08:00"
+          "time": "2026-09-03T22:08:30+08:00"
         },
-        "commits30d": 64,
-        "totalCommits": 137,
+        "commits30d": 63,
+        "totalCommits": 138,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -77,13 +77,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Push commits to remote"
         ]
       },
       "url": "kinkin.vercel.app"
@@ -259,8 +261,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:54:35.741571+08:00",
-        "next_run": "2026-09-03T22:24:35.741571+08:00"
+        "last_run": "2026-09-03T22:25:40.565217+08:00",
+        "next_run": "2026-09-03T22:55:40.565217+08:00"
       },
       {
         "id": "539a150ac028",
@@ -277,8 +279,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:24:20.957820+08:00",
-        "next_run": "2026-09-03T22:24:25.772143+08:00"
+        "last_run": "2026-09-03T21:55:27.626736+08:00",
+        "next_run": "2026-09-03T22:55:30.983651+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -286,8 +288,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:52:25.869435+08:00",
-        "next_run": "2026-09-03T22:22:25.869435+08:00"
+        "last_run": "2026-09-03T22:22:30.940442+08:00",
+        "next_run": "2026-09-03T22:52:30.940442+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -295,8 +297,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:52:25.525434+08:00",
-        "next_run": "2026-09-03T22:02:25.525434+08:00"
+        "last_run": "2026-09-03T22:22:30.587623+08:00",
+        "next_run": "2026-09-03T22:32:30.587623+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -331,8 +333,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:52:25.807446+08:00",
-        "next_run": "2026-09-03T22:07:25.807446+08:00"
+        "last_run": "2026-09-03T22:22:30.832865+08:00",
+        "next_run": "2026-09-03T22:37:30.832865+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -538,8 +540,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:00:42.617539+08:00",
-        "next_run": "2026-09-03T22:00:00+08:00"
+        "last_run": "2026-09-03T22:00:42.593313+08:00",
+        "next_run": "2026-09-03T23:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -547,8 +549,8 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:00:25.470529+08:00",
-        "next_run": "2026-09-03T22:00:00+08:00"
+        "last_run": "2026-09-03T22:01:05.355470+08:00",
+        "next_run": "2026-09-03T23:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -637,8 +639,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:00:38.037822+08:00",
-        "next_run": "2026-09-03T22:00:00+08:00"
+        "last_run": "2026-09-03T22:09:35.239917+08:00",
+        "next_run": "2026-09-03T23:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -754,8 +756,8 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-03T21:00:31.730174+08:00",
-        "next_run": "2026-09-03T22:00:00+08:00"
+        "last_run": "2026-09-03T22:00:42.313062+08:00",
+        "next_run": "2026-09-03T23:00:00+08:00"
       }
     ],
     "total": 56,
@@ -780,37 +782,32 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "408Gi",
-    "uptime": "1:03",
+    "uptime": "1:35",
     "cpu": {
       "loadAvg": [
-        1.09,
-        1.16,
-        1.16
+        1.24,
+        1.19,
+        1.19
       ],
-      "usage": "13.7%"
+      "usage": "13.9%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 34.1
+      "usedPct": 33.7
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "5.9",
+        "cpu": "5.4",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.0",
+        "cpu": "3.8",
         "mem": "0.0",
         "name": "sysmond"
-      },
-      {
-        "cpu": "1.0",
-        "mem": "1.6",
-        "name": "python"
       },
       {
         "cpu": "0.9",
@@ -818,9 +815,14 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.7",
+        "cpu": "0.9",
         "mem": "0.1",
         "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.6",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1532,16 +1534,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-03T21:55:20.319378+08:00",
+    "generatedAt": "2026-09-03T22:26:24.499251+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 25.9,
+          "temp": 25.6,
           "code": 3,
           "precip": 0.0,
-          "wind": 11.2,
-          "time": "2026-09-03T21:45"
+          "wind": 11.8,
+          "time": "2026-09-03T22:15"
         },
         "daily": [
           {
@@ -1570,11 +1572,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 25.4,
+          "temp": 25.2,
           "code": 3,
           "precip": 0.0,
           "wind": 9.3,
-          "time": "2026-09-03T21:45"
+          "time": "2026-09-03T22:15"
         },
         "daily": [
           {
@@ -1610,19 +1612,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-03T21:55:20.577263+08:00",
+      "time": "2026-09-03T22:26:24.740932+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-03T21:55:20.577263+08:00",
+      "time": "2026-09-03T22:26:24.740932+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
     {
-      "time": "2026-09-03T20:04:37+08:00",
+      "time": "2026-09-03T22:08:30+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: fix: painting entry price was 4x the market floor",
+      "text": "🚀 KINKIN: chore: remove unused getStageIndex() from kindkin-requests",
       "project": "kinkin"
     },
     {
