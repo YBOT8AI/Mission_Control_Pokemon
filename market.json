@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-03T15:25:15.857347+08:00",
+  "generatedAt": "2026-09-03T15:57:21.659065+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611151.52,
-      "changePct": 0.44
+      "priceHkd": 608580.0,
+      "changePct": 0.18
     },
     "ETH": {
-      "priceHkd": 18896.6,
-      "changePct": -0.49
+      "priceHkd": 18797.65,
+      "changePct": -0.92
     },
     "SOL": {
-      "priceHkd": 792.0,
-      "changePct": 0.98
+      "priceHkd": 786.35,
+      "changePct": 0.38
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1116.91,
-      "priceUsdOz": 4431.1
+      "priceHkdPerGram": 1116.68,
+      "priceUsdOz": 4430.2
     },
     "Silver": {
       "priceHkdPerGram": 16.65,
-      "priceUsdOz": 66.04
+      "priceUsdOz": 66.06
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 707.48,
-      "changePct": -0.85
+      "priceHkd": 709.52,
+      "changePct": -0.56
     },
     "Natural Gas": {
-      "priceHkd": 23.43,
-      "changePct": 1.12
+      "priceHkd": 23.4,
+      "changePct": 0.98
     }
   },
   "news": [
@@ -57,6 +57,18 @@
       "link": "https://www.bbc.co.uk/news/videos/c33k7pl2pj2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T15:18:03+08:00"
+    },
+    {
+      "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T14:48:00+08:00"
+    },
+    {
+      "title": "Stock futures are little changed after major averages snap three-day losing streaks: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T14:32:29+08:00"
     },
     {
       "title": "LA Clippers fined $30m over Leonard pay scandal",
@@ -75,18 +87,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T13:47:11+08:00"
-    },
-    {
-      "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUVdRVkJTSmh6dDVnNk1rXzdHaDNSUGE1SU5xVUJkd2JPcjZubGh3Z1JsbHUwSGhPc01mSDhhVGhqbDdlZFFrRkh3VDVKS1hheHJrMW5uRmZCcUZ1eU5hVnlWZWpJUzVBZVRkTzYxRUM3bU5NdEVqWVhpMUtDdU1IX2dJZUdpN3JNLUotVg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T13:40:00+08:00"
-    },
-    {
-      "title": "Trump encouraged Army secretary to stay in job - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWgxRGlNVC1BQUNiS1ZjS3ZPUlV3ZWdGM2FrNUtKbGlCWExpUnhjWUFOUVJiclctU2lRaUJVSXJ5bGVRbDQwZ19LNkFBUDJtRFo5X0FoRS1ZYkZ1by1nUlNLZW9QVlRXbnlmbktqc0JGR1A3djNlSjNsMGxWSjRZc3BkVHJvWFREY2Y4Rm9DSEh3akhjeVlLVkRvN0lwcHJsbWpZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T13:33:23+08:00"
     },
     {
       "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
@@ -131,34 +131,34 @@
       "time": "2026-09-03T11:21:24+08:00"
     },
     {
+      "title": "Elon Musk unleashes first wave of spending on key races in the midterms - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNODFvR0Z1ektiT0FtdVMtRXNYVzhDWWgyalllNW95c0dlV2w3cXhPeWo4bTZtWEJiOUlOMl93MHNBeGkwRU1hZ2xXYk12Rk9fQVlTUUY4SGFKU21jZ2FIZnB5MzhvWUVzU1phMld0S3BrRDZxdnU2Yk1vZnpnUm9Hc2RLcE9paGUtY25UMk0tbEQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T10:57:00+08:00"
+    },
+    {
       "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlg0cGlseUFSOG9lUWpLZE9SbVlmZmdjZVpmXy1nZ3lzb04tQ1NLZS1pcHBNZlIybjJhVTdXSHJqVl9OWmk2R3JUd002Q2ZtNlhWRk5TLTVQNE9FOGZYcVpLeVFtVV9qdkhEQVpuRFVrS0VKaEtKRXAtcmg3NE0zVmRhWFJibExUMVRTeFkyTmxnNll2SGF3b0ltaHVJbzVQSXFrVGJIcjZkeEhyaWIwZnJLdHc3QU1Cd3M0TzM5NHJNUmN2NWI2SXRISjEwbUZNR3JfUjBDUTVLUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T10:38:00+08:00"
     },
     {
-      "title": "Jennifer Aniston and Boyfriend Jim Curtis Discuss His Past Partial Paralysis - E! News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSjZzYXZXRExjTTdHY2IyQXFBQllxV3ZGR0hPTi1GRU9lZ2V4NWhFZXpQZ0tLa2tnZUw3bE5TeHFFenpTMDk1NDNSTFk4dnQ0N29TcnFEYkhWOVB4UXpwaWJub2FMN0xwdVhQR3FHWGpodDR1M3R3cXdvb1BvdzA2OThzMnRnOGoxLUVpOXFJVUx3MlYyQ1MzM1dCNnZRRTFMZ2lwaDJ1RWdZc1VjUVpj?oc=5",
+      "title": "Dutch central bank shifts billions in gold from US to Britain in ‘crisis preparedness’ move - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXNZa3B5T1FJZk1zZHFrdXdYX2Njb1RzWWxHY1NvZHhKaHhTUS1VVVhKUVdJajRkUWZ4cThvSWlXN0ptX1Y2VGlham1sZGk4WnFpTmJrbnVKY1o0SlNfbTgyV0RiVV9mQ0pNTVpmTTFRWEJZNGNwSWtIM1l0YlEyMFVKdDUxTlFsbnlkTUh6R3ZZUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T09:53:00+08:00"
+      "time": "2026-09-03T09:57:00+08:00"
     },
     {
-      "title": "Judge blocks Trump’s birthright citizenship order aimed at ‘birth tourism’ - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY281ZW95TGloNk1CdDBpd0hWSHdBU01JRWtmQmU1TmUzSVA2NGk5WTM5WklRMGhKNVRsNkZtbzI1NE1CZ19SLVNtaExnZTA0WTdNeDFjdzdEdVhjaUlBNVZEdm9aRF9XT1pESTAtUlRLSHpaRDlTc2N4bDBTdlhRZ2Zn?oc=5",
+      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WVJaVmNPV2pkQkE2QlF3Q0NOZTNDX1JNYUpITURGZm5oZERUaUNZN25wTlprcnhUSEdMT01JdFJMUUFGcXBZOWNDSENwWmU1aGNSenV1cHJRUC1jOHFPQ2RfaG9pT2NWaDFPRXE0dHo?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T09:41:00+08:00"
+      "time": "2026-09-03T09:30:00+08:00"
     },
     {
-      "title": "The Clippers, Kawhi Leonard and the most damaging swing-and-a-miss in NBA history - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0hkVDlnOGVTcXotN2F0SHZ6OW5PNDVDcEpZMG9Vb1N2N0YybjFsNUc2Vk15X0hhc0EwdDFvMFpEX21td2sySmdxSVVJY0ZTMEVZVV9QSDZMcDV3SG03Z2RLcVVYbVMwUl9MV1hLYjlWT09PSEVUQktyTEtFR3BNRDF3R05hMU5Ec2tGMDhQRmIxV2JJZ0xrVzRUcHlfOXNUU2xhSTRSWlJ1bzRCcVpkSUVYMGd6bmstNllqajJOenNIYnhja01fRVN4Ulk?oc=5",
+      "title": "US Congress rejects constitutional amendment to restrict Supreme Court size - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDdVeGZ3aUNRN0c5QnZkczJiTGFiYWhRYkw5NXljcWdtLWxrSGZ6bE9Bajlwa0FjMEhBVXJBaDhVSnVnTUtxNnFGN2hCNXpxT0d5bHVLY0FmRmprMy1NTVpxbHRLLUR5LVllamk0azhnSzFkdzVzbU0wYXE0M1FNcE9kb0dVVHZ0VElmaGw5U2Y3eU1RbklTNGxtMlg1MV81d2t4ZVlQR1dOcS1jd2lNSGlkbDd4Z9IBuwFBVV95cUxQcl93X0phbGt0VmotRE96a2RvZm5KVFB6SThla09JOVBKYkVCTHlQcWtGT3RxRDFNZ3dfN2NfVF9aVnp4a0x5XzBPRmNpZktYZFdkemFUbzk0bm40aWUtRlhEUWw2dWE0TmhESG95WlRJNEwzbTJWZWx3SFJuT1MwUE1xSm95bkJzaXNaajlvdGU3RkxNcWhCek83N2xnRHE0WEhtanVLSFBKcVVFZnF0aG94TnRaWE5kanhn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T09:41:00+08:00"
-    },
-    {
-      "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUZwa2JSV1dfS2Z3Znh3OGo1eEFUdkJFd1hLVGQwQkZfREIwT3k2QU5rLVlmckM0X0Y1VEhDX0NjZGtmMnlObHhCbTdCdlNocDdHSlpad1pFRllVYURzRkhIa3hIMHAydjVxMjRxRWU1Z1lSckFEa0ZwczJNUThzZG03QlZwWXdTV293WUFGTUxSZU5hZXU2bjd3NGQ1ZDBQbDkydVhKcDh6T09lc0l3RS1oMNIBuAFBVV95cUxQX0VSbmw4XzBDU0UxbDFSUXhwUFJ6NGptc1QzcnIwZWFUZDBqQnFaZ3dSc2VvQmxlZkNIU2FNLWFWc3RiQWpEamVkNWdLdjFfcC1XTUpXeEROTGVCdnQtUlZvNldQc2c3X25LWEFYT21EUjlzUmZxWUlfZDU1cXJOMVNhaTFUYlk0MTAzX1g0ekY4cHFYN28zRXJPVVMyLUoyX0FsQlVUbDJHc2IxMWdLeUVHZnZITFFp?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T09:26:33+08:00"
+      "time": "2026-09-03T09:14:33+08:00"
     },
     {
       "title": "George Lucas Says Opening Lucas Museum ‘Almost Broke My Will’: ‘It’s Taken So Long to Get Here’ - Variety",
