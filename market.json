@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-03T13:52:04.409108+08:00",
+  "generatedAt": "2026-09-03T14:23:08.468287+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607325.6,
-      "changePct": -0.28
+      "priceHkd": 609473.76,
+      "changePct": 0.22
     },
     "ETH": {
-      "priceHkd": 18787.07,
-      "changePct": -1.04
+      "priceHkd": 18846.42,
+      "changePct": -0.53
     },
     "SOL": {
-      "priceHkd": 786.74,
-      "changePct": 0.06
+      "priceHkd": 789.8,
+      "changePct": 0.86
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1119.13,
-      "priceUsdOz": 4439.9
+      "priceHkdPerGram": 1115.5,
+      "priceUsdOz": 4425.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.64,
-      "priceUsdOz": 66.03
+      "priceHkdPerGram": 16.63,
+      "priceUsdOz": 65.98
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 704.97,
-      "changePct": -1.2
+      "priceHkd": 705.91,
+      "changePct": -1.07
     },
     "Natural Gas": {
-      "priceHkd": 23.61,
-      "changePct": 1.89
+      "priceHkd": 23.63,
+      "changePct": 1.96
     }
   },
   "news": [
+    {
+      "title": "LA Clippers fined $30m over Leonard pay scandal",
+      "link": "https://www.bbc.co.uk/sport/basketball/articles/czjze2jj8dro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T14:17:37+08:00"
+    },
+    {
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T14:01:54+08:00"
+    },
+    {
+      "title": "Lindsay Clancy jury released after second deadlock - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRnRHRnVLY2VUYlVGTW9KY3RkQ2gyZ3h5M243aV8zbi1pRmc3T3FMaFJDR2d0TlZ6c24wWmRWb25uVzBsVWs3M1JXTFNTbkpYTFREaWtnajNDalE4ZFo1V2tUQTk1Ykh2NHBNRG1NNGd4T09PbFYtSVplZEFnV2dHbWtlXzg5MVFyZ3d0TXN30gGTAUFVX3lxTE5UZkNOUHJjRzRFcEtqZlhNYzlUY3lGX3UwODdoRGUzRGFpblI0SHZpMWg4RlI0MEtGS29iajNaRl9Pb1dta1k0eC1rZU5lU3BpaWh1TFVFMHE2N05sWUNTazFSTldCTFZuZlh6cG9DWmFVak13Q0ZYT3d0QTRGc3Y5X0lXV0RrcmlmZFpoc2IySUtpVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T13:56:05+08:00"
+    },
     {
       "title": "Almost half of households do not see benefits of economic growth, report says",
       "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T13:47:11+08:00"
+    },
+    {
+      "title": "Trump encouraged Army secretary to stay in job - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRWgxRGlNVC1BQUNiS1ZjS3ZPUlV3ZWdGM2FrNUtKbGlCWExpUnhjWUFOUVJiclctU2lRaUJVSXJ5bGVRbDQwZ19LNkFBUDJtRFo5X0FoRS1ZYkZ1by1nUlNLZW9QVlRXbnlmbktqc0JGR1A3djNlSjNsMGxWSjRZc3BkVHJvWFREY2Y4Rm9DSEh3akhjeVlLVkRvN0lwcHJsbWpZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T13:33:23+08:00"
     },
     {
       "title": "Symbolic funerals held in Nepal for those feared lost as some missing tourists make contact - AP News",
@@ -65,10 +89,22 @@
       "time": "2026-09-03T13:20:00+08:00"
     },
     {
-      "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
+      "title": "US sailors go shopping before hitting the bars in Thailand after 250-day voyage",
       "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T13:17:04+08:00"
+    },
+    {
+      "title": "Cassandra Wilson, the 2-time Grammy Award-winning jazz singer, dies at 70 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUZ3eF9JbEp3ak0tRWxfSXY4WjZXUEphcWVYVUc5SzFwc1MzR01UVDRrUXBOQzRBdzJYemp4SHkybHJKVkpsanpoam5MU1UzWEJpMFhLYXN3RXhuQ3labmR1NnBESU0xMGl6ak43S2xCNTFURHhqLS1GSlFvOHBfY0N6NGFEU3Ex?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T13:15:00+08:00"
+    },
+    {
+      "title": "World’s Unusually High Dollar Exposure Risks Fueling Selloff - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWQzQzFfUmVlRlRHQkxaMnM0WC1oamw3eER3VzZVeEtGSExkTHRxOU1mQTdYWFVTYU1QRkZTcW5Xd2xBQVFJMWRUNF9ieXJUTlhyVFlwcHBlbHo5Q2ZZaHdSZnk5MTVmelNMakYyb1c4Q1ZtRWpRSjdoUWJmSmd6bWZrMEx2bGlWNGtabnRnbHRlZXBjRF9aNkRuUS1KMTZ6WW91ZHcwUGE1QlZTTkJldg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T13:13:00+08:00"
     },
     {
       "title": "'We've raided this shop many times - we keep finding fake cigarettes'",
@@ -83,27 +119,15 @@
       "time": "2026-09-03T13:00:04+08:00"
     },
     {
-      "title": "US oil giant Chevron confirms it will expand operations in Venezuela - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUY5RDVMaG9WMTE1ZHVocE9lUWVQWXNiOFBGY3dUc3hOdTVIYzRtNkwyV0VJYTRPcnNSR2hoYkh6Q2JFQ3RYS2JQSTlVeXhrcF9XVzBVeVA5OEdxSVp1RHZ1QmhWX1FXM3lYVWdVeEF0T1V5TFh0cS1scmdZd2d2RVg2aE0wd3Z5T1gxRE5BbkI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T12:12:00+08:00"
-    },
-    {
-      "title": "2 Killed and 2 Officers Shot at Minneapolis Apartment Building - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02YmdCejFOM2JFWXhicGhGOXl2NGZkeEp5cXFUUGZPbzZIVFFJTFFIR0UtWE9lR1QyVU96UEdtc3RmRnl6UkhCRzBMZzZ2bDVvTVhqYXAtRVNlR3dVWmYxem1fdWVyMkFEWEpxRWJDdjNHUm44dl9VcW9ZbkU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T12:01:00+08:00"
-    },
-    {
-      "title": "Virginia couple arrested after 5-year-old nonverbal daughter is found dead in South Carolina waters - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNGlhMmtGaURzbHRMUFFmU0s0eXpWcDk4R0VEVWlqcG1lak85aWtONkxpLW1QbllLRVVpRUhQYzZCNFlXZXVsSXJ5eVNHNDRsUDNONWEwb1pZNXlLSWJsQlBHcXB5UGVyamY3Q0IzMW9tZk5IczdYSUxQekRlb2dFbmtTZDExc1RTWjAteG11aDRGX0p5NktiNFlia05xdmVYeElTUXM4YTBPVUU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T11:40:00+08:00"
-    },
-    {
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-09-03T11:39:53+08:00"
+    },
+    {
+      "title": "Trump $1 coin makes him first living president on US currency in a century - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GR0JWWFpxbkRRaE1Ga18wN2RaNzM3UXVLRlgzZ0k3STRaZjZHSmxVbEpVekFvNnVGVkYyVVlFX3I0US1sVlBoZmZGbldvUUZkU2pvM0NsVU9GQQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-03T11:39:53+08:00"
     },
     {
@@ -113,64 +137,40 @@
       "time": "2026-09-03T11:21:24+08:00"
     },
     {
+      "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlg0cGlseUFSOG9lUWpLZE9SbVlmZmdjZVpmXy1nZ3lzb04tQ1NLZS1pcHBNZlIybjJhVTdXSHJqVl9OWmk2R3JUd002Q2ZtNlhWRk5TLTVQNE9FOGZYcVpLeVFtVV9qdkhEQVpuRFVrS0VKaEtKRXAtcmg3NE0zVmRhWFJibExUMVRTeFkyTmxnNll2SGF3b0ltaHVJbzVQSXFrVGJIcjZkeEhyaWIwZnJLdHc3QU1Cd3M0TzM5NHJNUmN2NWI2SXRISjEwbUZNR3JfUjBDUTVLUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T10:38:00+08:00"
+    },
+    {
       "title": "1Password Wades Into a Right-Wing Mess After Funding a Linux Project - Slashdot",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR3NFTW9TdHhzcngzQU5aTVdxTkFtMHFBbmRYZWNsMklDVUllVmdGY20xaDhUbzNjbUg4c1NZY3g1MHB5UmxDbkhtQzFUZS1SS1hXNERkb2M3MWY4U3FHYWhpdXNTZFlHT05JSGhNQ0E4NWc3M1hCSWRhblBEYUo2Qm8tZUJ3Tjh0TXdsVkJlZXJ6cDI2RnFIRS0zUXBQRVJoQlAwNGRRSUxYeVBvRWNLYjVVRENFbzhx?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T10:34:24+08:00"
     },
     {
-      "title": "US Open 2026 results: Aryna Sabalenka continues title defence with one of the quickest Grand Slam wins of her career - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sb1NKekJyczVhTmhMYW1GR1dKMV9la0lNSVRFdTFWMUN3OXpjeXU2SXBFNkVDQlpoY1pjVVNrOU1aRDVtdnFuOC1mV1htcDRoOURUV3pQUzg1VXpsYlVYU3VyalQ?oc=5",
+      "title": "Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T10:21:11+08:00"
+      "time": "2026-09-03T10:13:00+08:00"
     },
     {
-      "title": "Shares, bonds rally as markets await signals for Fed rates - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHUxMWV6alo1MWFYM191bnlDTlhjTlc0Y2t0UjE4TndrZW9PczcxTmg5a1M0ZWk5M2Fqb0RvVlNIQWFuNG1nb3BtbjhhM2NmbkhDVENZTF9qYU53UDBWR3ROTl9XSlFDVGNLUF9sN29rSlhZc0xfSGZKcWlFanB4b2R1bw?oc=5",
+      "title": "Judge blocks Trump’s birthright citizenship order aimed at ‘birth tourism’ - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY281ZW95TGloNk1CdDBpd0hWSHdBU01JRWtmQmU1TmUzSVA2NGk5WTM5WklRMGhKNVRsNkZtbzI1NE1CZ19SLVNtaExnZTA0WTdNeDFjdzdEdVhjaUlBNVZEdm9aRF9XT1pESTAtUlRLSHpaRDlTc2N4bDBTdlhRZ2Zn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T10:02:00+08:00"
+      "time": "2026-09-03T09:41:00+08:00"
     },
     {
-      "title": "Dutch central bank shifts billions in gold from US to Britain in ‘crisis preparedness’ move - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXNZa3B5T1FJZk1zZHFrdXdYX2Njb1RzWWxHY1NvZHhKaHhTUS1VVVhKUVdJajRkUWZ4cThvSWlXN0ptX1Y2VGlham1sZGk4WnFpTmJrbnVKY1o0SlNfbTgyV0RiVV9mQ0pNTVpmTTFRWEJZNGNwSWtIM1l0YlEyMFVKdDUxTlFsbnlkTUh6R3ZZUQ?oc=5",
+      "title": "The Clippers, Kawhi Leonard and the most damaging swing-and-a-miss in NBA history - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOS0hkVDlnOGVTcXotN2F0SHZ6OW5PNDVDcEpZMG9Vb1N2N0YybjFsNUc2Vk15X0hhc0EwdDFvMFpEX21td2sySmdxSVVJY0ZTMEVZVV9QSDZMcDV3SG03Z2RLcVVYbVMwUl9MV1hLYjlWT09PSEVUQktyTEtFR3BNRDF3R05hMU5Ec2tGMDhQRmIxV2JJZ0xrVzRUcHlfOXNUU2xhSTRSWlJ1bzRCcVpkSUVYMGd6bmstNllqajJOenNIYnhja01fRVN4Ulk?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T09:57:00+08:00"
+      "time": "2026-09-03T09:41:00+08:00"
     },
     {
-      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
-      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T08:58:50+08:00"
-    },
-    {
-      "title": "Why Nepal floods should worry India",
-      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T08:58:44+08:00"
-    },
-    {
-      "title": "Chasing a perfect sleep score? You could be making it worse",
-      "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T08:41:27+08:00"
-    },
-    {
-      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
-      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T08:14:20+08:00"
-    },
-    {
-      "title": "NBA punishes Clippers after Kawhi investigation: Top questions - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQblNGY0hWTTRQQU9zcTVqMkQyN0dCdlNqOUwya0hlQml4LXBUS2VoaU9tR21WalZUbGhSSV9vbzVWUlVxdDJrUFRmRllrTkc3WHlRMTBaejNIX3pJUHRXcXlRTU9maEs3TDJaSWliVDRFQmxTdnZzWmw5S0kzbEhTVExuZGIxT3VJWnI2ZWlESTZzZkFRdS04dGdyTW5XNG1Mczl6QjBzR2RQWnNSb3dLWTJqRC1scm94X0FtSnkwTUIwMnZ5aGljSzhlcHRKdWZnTEhON1cxOURXbW8tNW1XcmlfRG5Va3lk?oc=5",
+      "title": "Venezuela’s Maduro asserts immunity in US court, urges dismissal of charges - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeUZwa2JSV1dfS2Z3Znh3OGo1eEFUdkJFd1hLVGQwQkZfREIwT3k2QU5rLVlmckM0X0Y1VEhDX0NjZGtmMnlObHhCbTdCdlNocDdHSlpad1pFRllVYURzRkhIa3hIMHAydjVxMjRxRWU1Z1lSckFEa0ZwczJNUThzZG03QlZwWXdTV293WUFGTUxSZU5hZXU2bjd3NGQ1ZDBQbDkydVhKcDh6T09lc0l3RS1oMNIBuAFBVV95cUxQX0VSbmw4XzBDU0UxbDFSUXhwUFJ6NGptc1QzcnIwZWFUZDBqQnFaZ3dSc2VvQmxlZkNIU2FNLWFWc3RiQWpEamVkNWdLdjFfcC1XTUpXeEROTGVCdnQtUlZvNldQc2c3X25LWEFYT21EUjlzUmZxWUlfZDU1cXJOMVNhaTFUYlk0MTAzX1g0ekY4cHFYN28zRXJPVVMyLUoyX0FsQlVUbDJHc2IxMWdLeUVHZnZITFFp?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T08:09:00+08:00"
-    },
-    {
-      "title": "Will the Lindsay Clancy trial end in a mistrial? Here are the jury's options",
-      "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T07:56:29+08:00"
+      "time": "2026-09-03T09:26:33+08:00"
     }
   ]
 }
