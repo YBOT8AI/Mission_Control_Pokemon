@@ -1,62 +1,86 @@
 {
-  "generatedAt": "2026-09-04T03:07:13.926174+08:00",
+  "generatedAt": "2026-09-04T03:38:19.424600+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 637964.32,
-      "changePct": 5.23
+      "priceHkd": 638223.04,
+      "changePct": 5.56
     },
     "ETH": {
-      "priceHkd": 19778.91,
-      "changePct": 5.39
+      "priceHkd": 19682.16,
+      "changePct": 5.33
     },
     "SOL": {
-      "priceHkd": 827.43,
-      "changePct": 6.13
+      "priceHkd": 825.4,
+      "changePct": 6.23
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5575.46,
-      "changePct": 1.1
+      "priceHkd": 5574.16,
+      "changePct": 1.08
     },
     "SPX": {
-      "priceHkd": 60780.15,
-      "changePct": 1.12
+      "priceHkd": 60771.99,
+      "changePct": 1.11
     },
     "SPCX": {
-      "priceHkd": 1188.47,
-      "changePct": 7.73
+      "priceHkd": 1187.45,
+      "changePct": 7.64
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1128.38,
-      "priceUsdOz": 4476.6
+      "priceHkdPerGram": 1128.2,
+      "priceUsdOz": 4475.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.9,
-      "priceUsdOz": 67.04
+      "priceHkdPerGram": 16.91,
+      "priceUsdOz": 67.09
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 718.07,
-      "changePct": 0.64
+      "priceHkd": 717.6,
+      "changePct": 0.57
     },
     "Natural Gas": {
-      "priceHkd": 22.9,
-      "changePct": -1.18
+      "priceHkd": 22.84,
+      "changePct": -1.45
     }
   },
   "news": [
     {
-      "title": "Maria Bartiromo Is Out at Fox News - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3BoYUhsbFJrZEJ4eU9QRE1qaXd6b21VMzlJZHdGa1pSa0VGbGo4d2VkdzhJZmYzYmtzSW9kVnRVTktUbVlLQVA2OXk1TnVWdU8yRHZnWG1TajhHeTVHb2dtcjNELXVYVlZVR0JiNFQ0YTZfbzduZHRsSjRwbUV3cGJFTGhIeEpwR0NDOGlkTzJXOVNkZGc?oc=5",
+      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T02:32:41+08:00"
+      "time": "2026-09-04T02:42:50+08:00"
+    },
+    {
+      "title": "Data centres are booming in Australia - but at what cost?",
+      "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T02:32:03+08:00"
+    },
+    {
+      "title": "Rate Rise in Play as Fed Officials Await Inflation Data - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0xMWWJMdUtQMXdlQVVXcF85dWpCX1BSTDNPNG5yVXhYUVowc2xCamNwc245WW91b0NRa1c5OXRoRkxhb08xWFRlanpBd3dJZGNMSjZ2WlJKVGt4T21reE4tckRqbkNLNTV6SGcwdmdjTEVBOVJNYXQ1R0JVS0p5V0JYYUk1YnMwcnZ1SFdyUFRyNjQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:19:18+08:00"
+    },
+    {
+      "title": "Maria Bartiromo Is Out at Fox News - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE83X0hjSXhpbGJ5ano5VEhibGg3SW4tUEJrLWItU29QSmlqSldmX3JjZmlhVE1kNWNiRnoxbXpKRl91RUdsdkYwaHhQMVJPVzlzNkxFclAwNnR3M3licUVab1JHRGIxdEx1aFhqd1RtRVh2aG1vcXBkdmVlUWFuOERIY3JLQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:18:07+08:00"
+    },
+    {
+      "title": "SEC sues LSU, Lane Kiffin in federal court over NFL transfer issue - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX0hld1pZSUtRRVBxQ0FCcXlHNERtUEVlNDdEM21uWklVRWJDdTZORGNYUHZGRDRkbEdXRGY2M28zMy1UYWFKVzBkU3QwS3BaR29DWmY1cDhGa1BhNU1RaWNkMGJ6eTEzUGNaS3puX1RGQWFjbnJRRTczaDkxT2VKRHlLY0NNVXBRWHlYbEplU2lWNnozWkx0RXowc1ZZdHd5UVAyZ0Y0aC1UU0c0UHY2dmx3ZVJJeU9GMWR2UzBZSXQzaGQ4bnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:09:38+08:00"
     },
     {
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
@@ -65,22 +89,16 @@
       "time": "2026-09-04T02:04:34+08:00"
     },
     {
-      "title": "Stock Market Today: Dow, S&P 500, Nasdaq rise sharply as software stocks and Big Tech rally; Treasury yields retreat after Fed governor Waller's remarks - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMUdabU83WGZ0SlI5MFIyLXpfd094QWVxdktrYWJJa3lsX2RJY2ZIYVp2bHhZMkMxVjdzMFM5emxUbDNHaVhCdHZOMmNiVmtTRndQam5mbXdfaVhWaDBjYzB2anNhZ3dPT2RQOXR1TklIY1lYc2lJQXMxY0lMMGxLb29CaHIzMEJIT1dLMzA5SXZTVUU0N3ltbUxLVGFkbzhmalRoZHlNMjNXUGZUOXF1Z0F4V3R2R3NLQjVnVWMzZ3E?oc=5",
+      "title": "Lindsay Clancy murder trial jury resumes deliberations as mistrial potential grows: \"End of the road here\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEctRmUzeV9DWVNITWxmaWQ4X0d3aGk4ak9ZU3ZvdnBnb3pOOHJZMjhRWkJSZC03QXc4bWpVNWJLNzl0Z1paRUVydno5VzNNa240Zk1qX29UaHJOYlFncGROOEk5Sk4zM2ZqZktVLVpVVWJHbU4yYWlnajdhZU52VVFSX1UzeWNaaVF6blAzU19NMy1nb1c0NjhheVJXQ3dMLXJrSXlwLXM?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T01:46:00+08:00"
+      "time": "2026-09-04T02:04:29+08:00"
     },
     {
-      "title": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
+      "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T01:33:00+08:00"
-    },
-    {
-      "title": "Wild Horse Nine review: Malkovich and Rockwell head to Easter Island for McDonagh’s acid bromance - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd25raGdIVzV5T196dU9mbEt2R1g0VmhScTdqa1N6bk1fWUJqcDlaZGhTczQ2Vm5oYmc2b3dSZF9VNU5NV09fdjZ6QVlNcEN0bHNRTk1GcGhBdnBFanB4Um5rSlRXaE5RemZwTUZOdW1RSXRYQ1QtY2o4bEtGd1p1dk1VMGQ4M3IwNDAweWhUWFR2dk84Q1I0ZUluLXdPYnRXNVVxOFB0elFkOWRTb19Cag?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T01:31:00+08:00"
+      "time": "2026-09-04T01:28:13+08:00"
     },
     {
       "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
@@ -89,40 +107,34 @@
       "time": "2026-09-04T01:26:00+08:00"
     },
     {
+      "title": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T01:16:00+08:00"
+    },
+    {
       "title": "Microsoft to impose time limits on Xbox cloud gaming subscribers as costs continue to climb - CNBC",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KNXpZOERfQmJsdnNOeGhfdC1HMy1pVGVkNG1KSEdPeVRTTHA0VGVBdXg5X0hoU2hCa2p2YUc3QlVsZU03NGJVQ0xzQWtJOTZUbFZudE9CZnJsVEh5VkhuZlZaMHJtQ0xNck50NnZvM0R3ODdCdnFlZVVOWklHa1HSAYQBQVVfeXFMUHJIMjJJaGo5c25zcDg1VDVFZVBteTh0UGp2a2xnR0hLYkdkQUZxZXZNZFdzRFVNM1VDeG5nRFkxQnJ3eWtnLUFvWktIVXRjclhZQnRSSldNQXA4c1VjLThDdVd4R0RSY1B0ZUU0OWtfRWZMTzctTHpjcDFqcG5Ra0ZwRGwx?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T01:00:01+08:00"
     },
     {
-      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ILXF1MXFOQjRTdnUzcHdzbVh4ZHJHVHduYnBzd2ZmMGNtNVVDX29TOUJWMU8zZmUwYlB3SmU3X2phSGFrSjNBci1lRFJ6dWFNUy1qUi1EM2laSHd3czVaU1VfUzZyZXRiQTdmMVJ3QdIBdEFVX3lxTE9XcW0wVE5Icnk1QzJjSnU4MzFKdElfdzZ5VzlDN3Bfa2p2cnBwZ0VScVd6d3pRWjRTeENwZHB3Q2NHWmw2SWFpc1Z1dVJyUzJ0UFE4MmpLRUxPRU9fLWY4dFhiT1pHVVdGSkx5VlpGS1dJaVZk?oc=5",
+      "title": "ICE agent federally charged with lying over shooting of a Venezuelan immigrant - cnn.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeHp4UnRzSzJpcEk1bTJacVhXT2VzMjdIbXpkQzYzajlMRmRyVXpCV1Z3NmtTX3FhTUFEelFLNHNrVXE4UDVQMjI2YmxEWVBBeDV3RDNwTklSQms0QU1DS3VaXzJia0V4X1oyVjhIZnktRnAzUzhJSUNzakxtbWRwdFYyOVd2bjJONW40cg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:51:13+08:00"
+      "time": "2026-09-04T00:56:35+08:00"
     },
     {
-      "title": "SEC files lawsuit against LSU, Lane Kiffin in wake of push to bring back former NFL players - On3",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeFZtYm56WWQtbThTTWFQZHBfTXViTWtrVWRxZHFwclA2Sm4xYk1XWVJHYk9ScEotRWhQcDUycWNvX3RFekVKUkhsSzVpeGd0NEpwSDN1Q25vLTIzQUZXZEp6ZFhMQ0xEa2lOUUVQTWs0VlVLWGJacXEzZ2NNRGlHTXVnLWREZkNMNldubkVDb3I0QjRORzd4NlllN3V5bWxUWC1YUFFkVV9SMTRNUjh0T1ZwQmU5NWc?oc=5",
+      "title": "Federal judge considers whether to extend ban against US Postal Service mail voting changes - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNci1PNmVNOTJNZ0ZmeUxKYmtpVUF0dEYwRzRxYld3YUFvOTZXRngwdlpIY3EyWEJXTmY0Z3hXM0Z5LVFCUFg3bXZRZGUtT0NYZ1Q2U3d0eExoX0d1WFp0dzJLX215RTVtd2ZQSHFCUjBpdGlSZGo1SVUxYkdnR1ZfalRob3dPSmYzaTAyRzhXdTJMRXpJMUVlbVVvZU84YXV2M0cw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:50:43+08:00"
+      "time": "2026-09-04T00:40:00+08:00"
     },
     {
-      "title": "New IRS proposal threatens universities' tax-exempt status over diversity programs - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGROTXVXNWx0Z1k1Ml9IM0l0RTJNTzljRDAxVE4tRDUwcEMzZFhlNEpBVW9oMUlFQXVHSFVhcDBXeDNxUVoxeUt6S255UnU3UXk4Z3ZtSU1qNXlzYTNWYmg1U1d1ZHh4bUlrNTUyazltVS1VUGFPRlZsdkRqbGNtVU16NlhkRmMxSjJwcQ?oc=5",
+      "title": "Mortgage rates jump to highest level in over a year - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzJqNDNVaTN1YldZdG8xMFlqS0NQLTh2ZktMT0hKbExmSUxIVkZtSjUxOTdzV3FTQ0hEREI4MjQycnBTbEF0U0FpS1JVWlZlc0Rodjl1T2xIQXNUZGpqUHhqMUYzQWRpZTdQZ2RNcVRXTkR3Mkx5YVpkZUFCT082MUJmUGx6QdIBiwFBVV95cUxQQ2Rub0hZSlNIMHB5UUlNWkJiM0Jyc3dKQUpvanVxLTQ1XzRkUHY2LTZlMzZDYjEtVHhFb3VpVGpXdWY2ZVVUTTJENFlLNGUzd0dGS1ZNS0N5Q1ZkS0dCODRjM0xHVWhVYms4WVRaY2FMOGZEZEhpb0t5NVJVT1VXbGxOcDg5dTVPWUpr?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:41:00+08:00"
-    },
-    {
-      "title": "US House passes bill penalizing universities that participate in boycott of Israel - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMy1UcTRTYVdyVHVyZklSZDVQMDRlTXE2am9GVmp1MWZjOE9DbnhNVHRLRHYxbE82VFJFbGRBUW1lXzVJYWdib1YySGtqWXN5RldBNXFRd0x6eTVuU3lmOXNDc3NIMnVCTDQzUDhET3pKcDZjMm9LRm5MV2ltcUVlQmhtZU1KMi1rVVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:36:00+08:00"
-    },
-    {
-      "title": "Gloria Steinem, lodestar of the modern women’s movement, dies at 92 - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHlkVmJpMlo1Y05EWmV2dFdiNzJ3MnMybE5VOFdiWG1UdHI3MW5CcGU1cm9BQmN3cmxBYU0zemx4R29xT2V3ZWxHTFc4X01oblVZVFhyTmFuc1BmYlBfcGtlVGsxZEZZbVVILUFMMWdNc3pPVU55Z25GM1hqRjdPRGpHYTNxX29UTTVMY3VkS0RCWEs3dmloVFZZSktKWFo1MHl3MXZrZE9NcWNH?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:35:43+08:00"
+      "time": "2026-09-04T00:35:00+08:00"
     },
     {
       "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
@@ -137,40 +149,28 @@
       "time": "2026-09-04T00:26:21+08:00"
     },
     {
+      "title": "As a measles outbreak escalates in Pennsylvania's Amish Country, exposures rattle people at risk - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRHM3Mk0tQU8xRURad3UwdE5GZXhvOWlXSjBLOFM2WVZOTVctLUQxdGhTdkFaVGN5VzlmOWlzT3o3WEFOeU5uYTQ0WUtRejJzbXA3OWtrNExpb0NOMzNvcEZVbjJ4b2M4eXhWZ0k5d2xLVm11V0NyYUo0UEVTX0p1WVJQOUF6NktMLUpTMGUydjFzQXRIbGZJVVlGbDI0RGNfWnlPclVLaGZBSjFHRW9VbUt0YV9pZ9IBuwFBVV95cUxPR1piY0xOajBfWGYwYnM3Yi15RUFMN2ZvNVRjQkxqYm1Za2cxblZnOVNpOUNjU0tIQWdOMDc4ZDd1SnBDRjJqUzU1TWZlcWItNjl0RlJXd3QwWVhJRHV2TGZvaFJOLWdwWTIxaHdud2hKNG5IYzBmMy11WnhnX193N3JxbmZ5VFpuQmRacUNHdWt1eWNaWkZuMHBoa25feFdpamVSTVZRcE8zbk9IWnB5bU9ERW9GaG11R1BV?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:01:13+08:00"
+    },
+    {
+      "title": "Trump administration aims to strip schools’ tax exemption if they consider race - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXBPOGdZQkpuQVZWalNxR0RFaEtGRFZ3YklZVGNneXMxNmhvZTRwcVBpeHpoVVdReTk2TWpmOFY4UEhxQjlyMnQ1NzFyY0JPYndKc2RpcDQzM3gyTnlNMC01VnlSNlpjQW9VSjlUeDhTcWViRDltMC1yQjFOM3Z4eGhkcDFUazRDMmZMSlp3elkxazF4UEdCZ2FDLW51VUlSb2VEaWlqQ05CVjJYNzZ4LWhEX0dzVXJDMTFXTUpVS1R5YUlmWkZF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:00:38+08:00"
+    },
+    {
+      "title": "Lenovo IdeaPad Vibe is a MacBook Neo competitor starting at $699 - 9to5google.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMHFlTlBLdUp6ZjJFakRNdlFWYnJNR1ZrVmRMSFFpQmc3WmZBWVpDS0g3dXJqb3kyYmpBMU14ZjhySjR4QnhfOHNjN09icENscnJJRWMyczZQejZWZ0wyTlJ2ZjJ1SC01NjgtTVVQQVlWLVFlR2ZEUllTWnVGajdJSkh1THVxXzV3c3hqd0QxWFZJVXhVYjN1Mzg1ZHpsdGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T00:00:00+08:00"
+    },
+    {
       "title": "Nvidia’s new RTX Spark laptops launch in October with two different configs - The Verge",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkt6STB3aDh4YV9iQUtnVVVLRjBBWm9lSnJRbXAxaDVreFBMSnJkTWloT1BzaXpoTGt0X2JpX1JUM3ozLVRUT0E3RFkxVWxtUDQ3S09hbGV4b29vdk1Pb1NLVmw1NDF6R25xaFN3dF9CQlp2cnlocGdsQVVYeXAxWjU5TV9SMGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T00:00:00+08:00"
-    },
-    {
-      "title": "Google rolling out Gmail Live, Docs Live, and Keep Live - 9to5google.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QSkhrLWpmN2h4cVUzUExsS3R6ZzRxMFhnOURjYmZpMU0tYWt2S0g0bXg2R21raHAtZm5Kbmx4SEwwSHdSaFlaZk5RVkdBTlIxRlgzTmM5SXN4LUk2QzRFZTlLT1VlQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:00:00+08:00"
-    },
-    {
-      "title": "Live updates • Netanyahu: 5 Lebanese civilians released in exchange for slain Jewish leaders - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa0NZWG52QmFlczdKZy1EREFPWDdxTkhHelp5cU9wQi1qbzRvX3Y5U0cwTVRKNUVWVFVxMXNVT053TXprem1HbV9VUUx6WW1Da0hGOFFjRU00LXROUGwzT1VJME9FTHZiRkxtR2ZYMnlpTHRBcU0xYmxtWjlYT2dWTTA0RzFtMTJUUF9LSU9KRXNDZG1jZVQwNWlIVFNQMlpPVkU4VkNlOGdIWEFCbnBrYW8zb3NLcVhWc3lsVVVnMXR3UDBiZ3lhVXFoWXpTR0ZLeWJFLXdFdmJyTGh3LUdSMTNnckJ1NWtfZ3Z4MVh6am51emtrWFhjcmVsM09aTzFRMjFmSDNFMmhRQlVZbXVZNWRUQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T23:54:00+08:00"
-    },
-    {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T23:35:47+08:00"
-    },
-    {
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T23:05:57+08:00"
-    },
-    {
-      "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T23:03:28+08:00"
     }
   ]
 }
