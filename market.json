@@ -1,74 +1,86 @@
 {
-  "generatedAt": "2026-09-04T01:33:10.646287+08:00",
+  "generatedAt": "2026-09-04T02:05:03.718901+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 635079.2,
-      "changePct": 5.1
+      "priceHkd": 635769.12,
+      "changePct": 4.88
     },
     "ETH": {
-      "priceHkd": 19595.92,
-      "changePct": 5.08
+      "priceHkd": 19613.48,
+      "changePct": 4.58
     },
     "SOL": {
-      "priceHkd": 822.1,
-      "changePct": 6.37
+      "priceHkd": 823.2,
+      "changePct": 5.77
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5569.77,
-      "changePct": 1.0
+      "priceHkd": 5576.36,
+      "changePct": 1.12
     },
     "SPX": {
-      "priceHkd": 60719.86,
-      "changePct": 1.02
+      "priceHkd": 60789.87,
+      "changePct": 1.14
     },
     "SPCX": {
-      "priceHkd": 1184.93,
-      "changePct": 7.41
+      "priceHkd": 1188.15,
+      "changePct": 7.7
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1132.84,
-      "priceUsdOz": 4494.3
+      "priceHkdPerGram": 1131.61,
+      "priceUsdOz": 4489.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.97,
-      "priceUsdOz": 67.31
+      "priceHkdPerGram": 16.96,
+      "priceUsdOz": 67.27
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 721.2,
-      "changePct": 1.08
+      "priceHkd": 717.75,
+      "changePct": 0.59
     },
     "Natural Gas": {
-      "priceHkd": 23.17,
-      "changePct": -0.03
+      "priceHkd": 22.85,
+      "changePct": -1.39
     }
   },
   "news": [
     {
-      "title": "Live updates • PM releases Oct. 7 timeline, says he spoke to IDF chief 3 hours into attack - Haaretz",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOa0NZWG52QmFlczdKZy1EREFPWDdxTkhHelp5cU9wQi1qbzRvX3Y5U0cwTVRKNUVWVFVxMXNVT053TXprem1HbV9VUUx6WW1Da0hGOFFjRU00LXROUGwzT1VJME9FTHZiRkxtR2ZYMnlpTHRBcU0xYmxtWjlYT2dWTTA0RzFtMTJUUF9LSU9KRXNDZG1jZVQwNWlIVFNQMlpPVkU4VkNlOGdIWEFCbnBrYW8zb3NLcVhWc3lsVVVnMXR3UDBiZ3lhVXFoWXpTR0ZLeWJFLXdFdmJyTGh3LUdSMTNnckJ1NWtfZ3Z4MVh6am51emtrWFhjcmVsM09aTzFRMjFmSDNFMmhRQlVZbXVZNWRUQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T01:26:00+08:00"
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T02:04:34+08:00"
     },
     {
-      "title": "Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLS0JwR181dVJ6X0dObDVVeG41OHBPZmF1dmtIa0xOZ1paYWlIVk5TcHhuZE1LcUxtMEctMGdhelNYY0IyNW5xQjN6cllaLWMydmpIVW51RzVlazhEUnhHMUhCZjdVVFNIVWVqeklfZTFYYnFYemlxSFBuWk0?oc=5",
+      "title": "Stock Market Today: Treasury Yields Retreat, Stocks Climb on Fed Official’s Rate Comments - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVkh6R2NHVE1RTVR2dmduNEtRMWJBZEYyRFU1RDVEb3VocmFWRzE2bUw2SW1xekZpcXotTUFNM1I4Qklmc2VJT3o1TGtWYUdNbTVkcllZdDRnME9ZUEFGQnA0aWFYLVVjVmhsSHh0SjhyYmxSbnpWWUZCT3FrQ0kyQlBkekhFb2s?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T01:00:13+08:00"
+      "time": "2026-09-04T01:41:00+08:00"
     },
     {
-      "title": "New IRS proposal threatens universities' tax-exempt status over diversity programs - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGROTXVXNWx0Z1k1Ml9IM0l0RTJNTzljRDAxVE4tRDUwcEMzZFhlNEpBVW9oMUlFQXVHSFVhcDBXeDNxUVoxeUt6S255UnU3UXk4Z3ZtSU1qNXlzYTNWYmg1U1d1ZHh4bUlrNTUyazltVS1VUGFPRlZsdkRqbGNtVU16NlhkRmMxSjJwcQ?oc=5",
+      "title": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:41:00+08:00"
+      "time": "2026-09-04T01:33:00+08:00"
+    },
+    {
+      "title": "Maria Bartiromo Out at Fox News, Fox Business - Variety",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDF3VGFZNGRoYjJVTzNNTEh0QW9IcWxRZm5hbks4aEYyZExQc3lHWWRNREVkYWozVzFyZXBEQzZRajhsUXZSSk5QS3lDMUlFUlE2X1JXRDZtS280ckJkbENUTzQyT2lvUE13NFlUbm4ydGtRYnNwZ3M3ZHFEUXY5N092RDlqVlBlOXM4dTRJaw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T01:05:00+08:00"
+    },
+    {
+      "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUmZ5a0RvZjdIc2xXczRPdWdsWVhwX2V2cXRac0FCcm9CS0F0bE1PRDA3NDlxUEpOTUh4NXhXUjR4VTNPd1RmTG9Sc3ZwUmxBUGFYTjBQeDhqWkJCUGRrN0tTTjk2LTNUQW9DcGo4UF8wbmFvd0JsTllWUU95bTR5V1YzU1I5WUV1cXhERlE1TQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T01:00:00+08:00"
     },
     {
       "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
@@ -83,10 +95,10 @@
       "time": "2026-09-04T00:24:00+08:00"
     },
     {
-      "title": "AP Source: ICE officer charged with lying to investigators in the shooting of Venezuelan man - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
+      "title": "Average rate on a 30-year mortgage climbs to highest level in 13 months - abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeFp0dldsckJXbDlGVW5FX1RqMFBibG01WkdoTVRpZU5XdUNHUnhtdjR4RUJuN3RUVkdMR3VCNFNkTXNxbUQxaXF4c3FZUE0tdW5FOVA1UlNuVy1jSzJSOUxpU192VWJKMWpEUk5wSzBTVEl4UWVBTzdOSWtHdkJXeFBVUDNNYzJ0dXZaSzIyTzM2Tkk2eHdZQzBJNVR0aUhQ0gGmAUFVX3lxTE9rRVFQaFYtQTM5VUZkWmtGMHE5TGRfSk1odU5UOUVDenVkSGNCbF9ncTg0YW9DTUdJQ2kyNHpDaGw5TE1zSDUwMnlqZFA0c3pvbzhlTEtjVVFEd2l4WVB5bEpGQWRaeVpPRExheVF1MHMwVjEtRHJ1MmdneXBiM0JVcHRUd0txX0dxTHlzeEhsVkg2T09YR2dhdUs3a1VOX01ULS1FOFE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:22:00+08:00"
+      "time": "2026-09-04T00:17:09+08:00"
     },
     {
       "title": "Scientists Find More Than 1,000 DNA Variants Linked to Personality Traits - The New York Times",
@@ -95,16 +107,16 @@
       "time": "2026-09-04T00:15:56+08:00"
     },
     {
-      "title": "Mortgage rates hit highest level in over a year: Mortgage and refinance interest rates today, Thursday, September 3, 2026 - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOT2dZWlF3QWhIZUZfMzBZVkMwWV8xbVMxdVpBak5meE8zQ3BuUVBsOTdQSjYwSGRVQzNYTl9yVEVhejJhWTRqcGQtZkpXNUMxaFc0ZDBKNTU3eGZLRF9UalgxZ3J3bGpmU08zWGNEdEdiWXR6MU5Sd2xubzBreHh4OXdJNVdyR2JWRWhuaGFGWTBtNDNlTEN3aWhfcHJfcE9DbHFmM3VocFJxRWlHdTRqMEw5X1Q3ZFlEREFRRFRTbTE3c1NaSzgwMWY1YTN2NVRjemNNRm9Ca05qVWZMTm9BT0RkeHNKODhXajl5TFAtVzRzVElwLThDUVFPLWh6cUZiSU5HbFdKT2RIc3ZlVzVQWGFMZGVLd05NeG5DSGp3?oc=5",
+      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:00:00+08:00"
+      "time": "2026-09-04T00:05:00+08:00"
     },
     {
-      "title": "Google rolling out Gmail Live, Docs Live, and Keep Live - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9QSkhrLWpmN2h4cVUzUExsS3R6ZzRxMFhnOURjYmZpMU0tYWt2S0g0bXg2R21raHAtZm5Kbmx4SEwwSHdSaFlaZk5RVkdBTlIxRlgzTmM5SXN4LUk2QzRFZTlLT1VlQQ?oc=5",
+      "title": "Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXBPOGdZQkpuQVZWalNxR0RFaEtGRFZ3YklZVGNneXMxNmhvZTRwcVBpeHpoVVdReTk2TWpmOFY4UEhxQjlyMnQ1NzFyY0JPYndKc2RpcDQzM3gyTnlNMC01VnlSNlpjQW9VSjlUeDhTcWViRDltMC1yQjFOM3Z4eGhkcDFUazRDMmZMSlp3elkxazF4UEdCZ2FDLW51VUlSb2VEaWlqQ05CVjJYNzZ4LWhEX0dzVXJDMTFXTUpVS1R5YUlmWkZF?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T00:00:00+08:00"
+      "time": "2026-09-04T00:00:38+08:00"
     },
     {
       "title": "Trump $1 coin makes him first living president on US currency in a century",
@@ -113,10 +125,10 @@
       "time": "2026-09-03T23:35:47+08:00"
     },
     {
-      "title": "Kim Zolciak’s son KJ, 15, begs to be released from jail, cites good character after sexual assault allegations: court docs - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQTkyeXdHc3JtOC1ENVh1OW9ScUZBbmIzOEk2NUwwVTNjYndiaWhIVGFtUW4zU0RNSGkxR0J5aUtLZ0RpS2J1RjNOVktvYkNaajc5MnZqQ3ZBUVVISXRoZi1XVTJybUtlSkJ3UDZzMHREV2dtTjZjSGJFa1pUUElRRS1la0dOZjhtY2VJM1JlTnpfbG1sVkttNlNOMnFISzFQMlhvSkJxNER3NVd3c0ZHVmloQnVvWmtwaGhpcm52LVQ5U3VpWEkyLUg3VC0?oc=5",
+      "title": "A Guide to Covid, Flu and R.S.V. Vaccines This Fall - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqd3diRGxRdjRyb25hTHFMMFIzSllmV3A0MnRrUmpiRkJlTkdSRF9oRXpiLWpVb3lsRGlITldaWEF5RmJrQ1hjSTktNTVIdEJxcm01SksyVWRqTjlvWGxzRXNNc1R0N0hQRjdvb3Uyc1Z6SUY5dWc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:26:00+08:00"
+      "time": "2026-09-03T23:35:00+08:00"
     },
     {
       "title": "Judge blocks another effort by Trump to limit birthright citizenship - BBC",
@@ -131,46 +143,34 @@
       "time": "2026-09-03T23:05:57+08:00"
     },
     {
+      "title": "Lindsay Clancy jury deliberates a 6th day, one deadlock report away from a possible mistrial - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PTWVpZFJTR242X3JuVlZXMlMydUVyLThheUpNbk5mX0l1YTFDSUp1OHAwb2c4OFF6TVFmazdCTE96ZEdFX01zczBnajFZUUNtckNJM3ZwLXFoa1J2RUw5Nmg4b1ppQ0VQejIxbFJ6c0dKNHZoTFRB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:05:15+08:00"
+    },
+    {
       "title": "Nvidia to buy Hugging Face for $13 billion in big bet on open AI models - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T23:03:28+08:00"
     },
     {
+      "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpLTHduNk1tNmhIWDBPbEJvWHFoMjVBRk90Y3BsXzBWVjJCQ3VmX2U4VEZkeVpxME92V29oVFlaamFuRzdUM3Q4NWZGUzJ6QnpPTEEyUnlhdUFyWHFZRHBtc1o2aTBUbGNsbFpYdWdTMDAybzEzbl8yLVBzUFgwYUxVd1Rqc3NtNkN3ZlNiRkw3aDBq?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T22:57:56+08:00"
+    },
+    {
       "title": "6 winners, 5 losers from Kawhi Leonard scandal after Clippers get hit with NBA ‘death penalty’ - SB Nation",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR2c1ajdxRXJhem1NU1BfYi12a1JndTJzMjBIY3NhWURXSl9WR1dVdGdJX1ppSHNfeGZjcUt0OXhlR1hhWUQ3SU5raVV5c1NWQ0JvQTZDVEVFRW9VbzlodWw3aDRjWTV2bGZtZFZxWjkzREpCaGJ5M1R3M1hMZlR1VER5dFNiakpZc1FMdjZPek9jTlZEbHVpWnJKaUFIR3doTWswZGRn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:56:02+08:00"
+      "time": "2026-09-03T22:56:51+08:00"
     },
     {
-      "title": "The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXd2b0E5ajFfZl9jZnZMNExqZGZKOFZaWWFoQlctQVk1T1BJQll4bmtwa013bzByNDFLRlBnUFk5MmZqSTVodTB0R0dJTnl0QXl1YmhSbUdIN3oxQVdha0wxQkNJZ213TnJqWGsybUxsYy04QTlZbE90bk1EekVQRXBPTndZeHU3blplWG1Tbw?oc=5",
+      "title": "Kroy Biermann Jr. Uses Athletic Scholarships to Convince Judge to Set Bond Over Alleged Sexual Assault - TMZ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2ZnRlBWdEthQjBSYWVPei1jcDVjMkVfQlU1a215RFI5NzQtSmYxYjZNOFI3dlJpN1VJOVQ4cVlHZ3QtVjE4Y2VhYmJVMDlGMnpfdHJhbDBOQmVITjVwUXU0WnJyajNYbEJtaGZ3bllhZ3RaSThtenJYY1dSUGR0S2NDVUlldmxZaEtjSA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:23:00+08:00"
-    },
-    {
-      "title": "Gloria Steinem, a potent voice of US feminism and co-founder of Ms. Magazine, dies at 92 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:22:00+08:00"
-    },
-    {
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "link": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T21:54:49+08:00"
-    },
-    {
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-03T21:52:18+08:00"
-    },
-    {
-      "title": "GTA 6 Limited Edition PS5 Controllers Revealed, Out 19th November - Push Square",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObkZjWHRPdUhiSmxEN0trVkdnUHVmS3htVHpxZVlleHVHUWVxQU1KZmcxWEZlUHRCZVo3OVRxcDhEdFR5ODhaNWp0RllzTlhMWU9YazlLaXlldEtCMkVvVGs2LUpOanpreTZQbGhDMkN5UDhUWDFQb2tUeXU4RW5OcENOSm5PZGRlcUFXVC1TYWRuSlMyQ1BnZ0J3X2FjbDdNdXItdHNGRQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:40:00+08:00"
+      "time": "2026-09-03T22:50:43+08:00"
     }
   ]
 }
