@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T04:40:26.787348+08:00",
+  "generatedAt": "2026-09-04T05:11:33.215204+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 639061.92,
-      "changePct": 5.29
+      "priceHkd": 637925.12,
+      "changePct": 5.27
     },
     "ETH": {
-      "priceHkd": 19641.87,
-      "changePct": 4.68
+      "priceHkd": 19626.5,
+      "changePct": 4.67
     },
     "SOL": {
-      "priceHkd": 824.22,
-      "changePct": 5.36
+      "priceHkd": 822.65,
+      "changePct": 5.37
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1127.37,
-      "priceUsdOz": 4472.6
+      "priceHkdPerGram": 1127.77,
+      "priceUsdOz": 4474.2
     },
     "Silver": {
       "priceHkdPerGram": 16.91,
-      "priceUsdOz": 67.07
+      "priceUsdOz": 67.1
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 718.85,
-      "changePct": 0.75
+      "priceHkd": 718.69,
+      "changePct": 0.73
     },
     "Natural Gas": {
-      "priceHkd": 22.85,
-      "changePct": -1.39
+      "priceHkd": 22.93,
+      "changePct": -1.05
     }
   },
   "news": [
+    {
+      "title": "Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VnljRFBtaVhWUWVYNHhFQzJMLUJjN3h2cTd1Sm1SaUZtck9lNEdRMmIzRTFBNjZLZkZXam9GdU1taHhFNFEwR3hXUG00Z2ZmTE1Sdi1HVUZWZFhYTmFkZ0pNcEp4UjJ3cnEtem5uUnk1dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T04:54:00+08:00"
+    },
+    {
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T04:49:05+08:00"
+    },
     {
       "title": "Watch: Trump $1 commemorative coin goes on sale",
       "link": "https://www.bbc.co.uk/news/videos/cx2z0jn7450o?at_medium=RSS&at_campaign=rss",
@@ -65,25 +77,49 @@
       "time": "2026-09-04T04:18:03+08:00"
     },
     {
-      "title": "Vance pushes back on reports that US strikes hit wedding in Iran but says ‘sometimes things happen’ – live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTkJmWWtiTWpna0luS283aXdWLXdwTWYwTllJckpBZVN6d2Q3Ql9KZVpPU2EzS2tpR2hnM096YjdhdTVrMFFNT1QxbGtDUE1mZHE0ckQtVjl4REFCcGRPS1k1WEUzVmhtQUhCazM2dEV0dEVVa2tkTExqR1JhdUI1anZ5RjNrUGlPLXhwUGJXN0VKbnZuNFlSYUE5RVBmdTZZX0Z1V3RmWWJfN19zZ212czBmXzFYUlNOVXZURFlJOEV2Y05hU0xKR1FEdGo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T03:27:52+08:00"
+      "title": "Nepal tunnel rescuers hunt for survivors with rafts and drone",
+      "link": "https://www.bbc.co.uk/news/videos/ckg0eerml02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T03:56:34+08:00"
     },
     {
-      "title": "ICE officer charged with lying to investigators in the shooting of Venezuelan man, AP source says - AP News",
+      "title": "Norway Seizes Russian Research Ship in the High Arctic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXBvTUFyZWt5R3ZDZlJYTTNRYTJCWjdJMmhGWmVIakZWb0lMQVh4bEpVWkw2UG9Yc1dFYWhnTVlyQ2pHcjFmVHRVU0ZPa0YyS1F1bXc0TERWWmQtbERVNnVOVzdpVzBKLW1GRU5WVzNtUzBaV2pCdWxsampxVHROYU1GS21yWmZrSlBHR3BjR1JlQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T03:52:36+08:00"
+    },
+    {
+      "title": "Psilocybin May Prevent Nerve Damage Caused by Chemotherapy, Study Finds - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDJaa21mSHdCdEF1dWxQalVlVV9nWUx0ZXp3XzhxWGZLQnZnNEdnaW5KbTFRNnVWcjYzVHRCeWJWNHQxOW9qTkpXbW9iRjZwdXFjVzlRcGFEdTFucDBUdy1wT05DSUxmX1pSUWluX1pmcnFzc3NjWDNBaWExQV9Mc3RVaw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T03:40:02+08:00"
+    },
+    {
+      "title": "ICE officer charged with lying to investigators in the shooting of Venezuelan man, AP source says - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T03:06:00+08:00"
     },
     {
-      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - CNBC",
+      "title": "Iran buries victims of reported US wedding attack, fires on Kuwait - KSL News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdDJMRDVaNTdlMURjNlVuZVBJQVR1UFlsYU1haTFrbVpRVzdkNlZhb2g4YjhneUp5cTRURFZscGJkRm5Hamx0bWw5YTdUUDNWNjJBWlBIa1ZwV3hCWko0endraWhMand6UU5NMnhxZnhOdFJqcHF0cnZUVUtDS2FFekE5Q3J2Vm1GYnRGeDN2eHBELTl1cTNrSWY4dFVKYlcxNlhjZA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:57:21+08:00"
+    },
+    {
+      "title": "VW Approves Plan to Cut 50,000 More Jobs in Broad Overhaul - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalIwMm9WTGZoR2NlTHZreWVoUzhETlR4Z29aRlp6UTh0UlFSVmVLUldXdUllUjJuLUZ3Y2dkNDJyTGpDNEEwVTlmNU04R29mUFF5bV9CRndwVmtrbUxRS1J6dEY1cExyNk43dk1idF8yczNpb21tdTFza1VlUnN6dVQwWUFxYnVQVUNYLVJhLTh1d2Nhdm1heDlPWUxTaVVBUmkzY2ZzNzNXWVVfeDg2M2pvSFY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:50:31+08:00"
+    },
+    {
+      "title": "Dow jumps 600 points, heads for best day in a month as yields fall: Live updates - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T02:42:50+08:00"
     },
     {
-      "title": "Data centres are booming in Australia - but at what cost?",
+      "title": "AI data centres are booming in Australia - but at what cost?",
       "link": "https://www.bbc.co.uk/news/articles/cgl3we7wdr3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T02:32:03+08:00"
@@ -101,10 +137,22 @@
       "time": "2026-09-04T02:09:38+08:00"
     },
     {
+      "title": "\"Welcome to the AGI era,\" OpenAI says as GPT-6 Astra debuts - Axios",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNSGRHUzhDZzF6VXdmOVlpWmxBQVNPOWF2Rk5OZThqM0MwQnRJeVp3QkUxdGZuaC1xNldPT0RmNFp5Mlo1amFPZzZrZk5rLVN2RXlGS2xoY1QyQXZYQW90TWZUS1FDcF9mYnVBYm9NQXZUZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:08:52+08:00"
+    },
+    {
       "title": "Report: Kennedy intervened to prevent 2 deaths from being included in CDC measles tally - MS NOW",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWG11ZFo0QU0yLW1kRm85SUUxb1JCWUJGdmU4ZU8ta3dNTGlOVkRVWmxvSmc5Zlo0bld2YjU0M2dVQTgtX2plZWppQ2VHZllyS0pDSmFiTzc2V3o2Y04yMFpGMnRVd2ZzNTFGbVlncG55Mm53V1UzUEFBX183eVh3UF9ValZvY0pENWpSbmtwOVhfbUpGREM3QW1JUmdqNjhJ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T02:07:49+08:00"
+    },
+    {
+      "title": "Fox News star Maria Bartiromo is out at the network - NPR",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OcTE4Z1FlcWF0UUNYTjdIOVBxSjRBcGlZLTlGR01Qb0RJNlRWOS14WnhhcVoyRWxCZ3g3U3ptcm9BZmIxdDI0YWNpdnpiU24tcElqMkNBc3dxUGpGQnpQWjdSNFI1TzVreklOMlIwa3ZTMzNUVWZSdA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T02:05:57+08:00"
     },
     {
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
@@ -113,64 +161,16 @@
       "time": "2026-09-04T02:04:34+08:00"
     },
     {
-      "title": "Lindsay Clancy murder trial jury resumes deliberations as mistrial potential grows: \"End of the road here\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUEctRmUzeV9DWVNITWxmaWQ4X0d3aGk4ak9ZU3ZvdnBnb3pOOHJZMjhRWkJSZC03QXc4bWpVNWJLNzl0Z1paRUVydno5VzNNa240Zk1qX29UaHJOYlFncGROOEk5Sk4zM2ZqZktVLVpVVWJHbU4yYWlnajdhZU52VVFSX1UzeWNaaVF6blAzU19NMy1nb1c0NjhheVJXQ3dMLXJrSXlwLXM?oc=5",
+      "title": "2 spacecraft will soon reach Mercury after 8 years in space. Here's what BepiColombo can do - Space",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDAzQkViT2l6c3RmX0MzRjdIMW0xUzRQazBJemNHRnVUOV93Y3JqdjJISkx3MzhZT3JGaUlsb2I3cDVlei16YTBVTGFUbG5FMWRRVk9fckh6dFVEY1JFMWVIUlMzVEMydVZpLTFtbTR6bThYYzZOR20zSUNYWWdSRDlmRW02Ql83djlKdTMyRzlRLVg5RDBEM2lXbmhOMjBpTm5Zb25yM0xBNFpHalcxR2VtczVaOTIzQjdtYmczRkdUbkoxY01hVw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T02:04:29+08:00"
-    },
-    {
-      "title": "A trio of hurricanes are swirling in the Pacific Ocean - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQU52bFhnLVhneDBRcFRfNXhubnF4N3ZDNE5XdmZwUmdhMTdmUmJmWkNyR2p3bTVZaXZ2Tk9VR1VES3dmYlhZeWF6VUNULUdBMzNKX2FlQVJ0VTRrVkxqbzU3SzVEVmt3TlFadUJTUlp5alF4UklYZm83UXBhNmpISU1lOHllLXg1VGtScjdDcm5sVG5nWkg2ag?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T02:03:25+08:00"
+      "time": "2026-09-04T02:00:00+08:00"
     },
     {
       "title": "Syria begins destroying al-Assad-era chemical weapons materials - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNTlTUGQybF9iYW9zTUh1cVI1RlU1eHJ2Q0Y0ZzFQZVJpX25yM3l4UHhHVi03bl9qa2FqeHgzdzdvaDlIQ0V5SGQ5R3lsbTlCMFF0czVabHVGU2JkdmlGaDVRVXJma0JkekNPWFZKTVhfdUpldFlSSElHRDlwSlh1dkFxRTduNXF3SVdtWjFQdlZmZWxGZ3owamMtaEZtNEttOGhTLWRn0gGrAUFVX3lxTFBYVEFlMXdaa3lLTXJsSmMxck14aW82S0lXNFU3cWRCa05MSTA0TE5NblVMSGdhcy1KMG1NU1RBOVVJandUa0VOUUdLbUVEc0lXekhfVmpVRTlRcy05bkQ1MFNEclNzT1VpdXNOelhDWWZ0M0hPci1Vck9yYmVkNHIyQ19nWmwzbkVta2hfbm1VeTJUa1dINUx3SVdNdkd5dkZ5YXlBcjlhaG1OYw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T01:48:45+08:00"
-    },
-    {
-      "title": "Fox News Media abruptly ousts longtime anchor Maria Bartiromo - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1poSlkySjBCT052bDVmdTE2Zm02TW5ma0ZkRnYwWnFLMGdMSGVaeENjc0VRa296M2dXZlJpSURfalhWa0d1Zzk3ak1JdEswSkRYNjFKVmoxWTBDMDQ1aC1oREJKRWVMNXN3dFB0NzA5ZU04SDZhci1DVjhNMS1ScG52akF6YjQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T01:46:00+08:00"
-    },
-    {
-      "title": "Oscar contender Wild Horse Nine is a fierce attack on the CIA - and may divide US viewers - BBC",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTlBVM2F0bS0tQ1hPSEZxSlM5c0RDU2ZhZVVTelBtd2o2MHo2NEVkLXEtWlNVekg4RFNoXzN4ZC1oNjNLdXAzOUVmaG8yTXA2UlBwRGVDdkp1Umx6SkJiWFBlTmdUTWxPRUFBM24zc1F0bzFzemR1YmUzNnpkZktUaml1WldtZnRpVHAwRVJNeV9WSnhYN2ZRYVdlTzBMRUEzdDYzcDU1MTVQbUVlMS1Fd1Btc0tqR0Vnd1NXb2lLN2VRQkVqbng4TjBsU24?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T01:31:20+08:00"
-    },
-    {
-      "title": "Investigation continues into deadly mass shooting at Minneapolis apartment building - MPR News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHFrb3UtZ1ZTaElydllwZ2FZQlhNTTBIb3RHY0VPdHV0bnhLQ2g4djBlUmhabW1lT2NTa0d3Z1R0Z0hYMnBvYnVtcDZlbHN6QnVRYnBkQ3I3R2l2cTZWR0FuTHVCT1VJZU93RkJpT0hhRkZNNnYzNjFxaW53YkNObHhTa2lKdHZkZzdONjNMZFpNSzNUU3hHanB3cXhVTll0ZWxlQVY5WGFXZk9jaDRoZ3M2RzFqd3RySUlwSzdUQTZ0bkNiem5oSEZmMlo3QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T01:22:00+08:00"
-    },
-    {
-      "title": "Gloria Steinem, lodestar of the modern women’s movement, dies at 92 - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHlkVmJpMlo1Y05EWmV2dFdiNzJ3MnMybE5VOFdiWG1UdHI3MW5CcGU1cm9BQmN3cmxBYU0zemx4R29xT2V3ZWxHTFc4X01oblVZVFhyTmFuc1BmYlBfcGtlVGsxZEZZbVVILUFMMWdNc3pPVU55Z25GM1hqRjdPRGpHYTNxX29UTTVMY3VkS0RCWEs3dmloVFZZSktKWFo1MHl3MXZrZE9NcWNH?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T01:20:00+08:00"
-    },
-    {
-      "title": "Kawhi investigation fallout: How the Clippers' roster is affected - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTZ3V3lLSFVxbElmakNPdzNINGNXd1kwNGFuV2JTcDhLYVpmYV9ieUlNX2d0ek5lREp3WmtfN3pwbzVFS0xlNk1oSGhscXBiVU13UVN1QVZYdDJnUHdpS2NlamRrLWNVWnQzTmpiazdQOW12ZzZ6aGdJVWZJZVJ4SThKVW0xdmlMNnF1QXc2UE1WWmZFSzN6cHRMekZJWUQ1bTlR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:54:00+08:00"
-    },
-    {
-      "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ILXF1MXFOQjRTdnUzcHdzbVh4ZHJHVHduYnBzd2ZmMGNtNVVDX29TOUJWMU8zZmUwYlB3SmU3X2phSGFrSjNBci1lRFJ6dWFNUy1qUi1EM2laSHd3czVaU1VfUzZyZXRiQTdmMVJ3QdIBdEFVX3lxTE9XcW0wVE5Icnk1QzJjSnU4MzFKdElfdzZ5VzlDN3Bfa2p2cnBwZ0VScVd6d3pRWjRTeENwZHB3Q2NHWmw2SWFpc1Z1dVJyUzJ0UFE4MmpLRUxPRU9fLWY4dFhiT1pHVVdGSkx5VlpGS1dJaVZk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:51:13+08:00"
-    },
-    {
-      "title": "Pentagon Rescinds Mandatory Testosterone Screening Guidance—For Now - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb3JPZGdJdDJNU00yMk52aVdjQndPdFMtQjdnLTNZT3pfSjRMZHhMRUxFMUdwZjVXRXJPZDJvTW9vUGhlSXZLTjgyWDB4aGFOdGppMEoyTUotVGZGeG9sN0RrSS1EdGRPVF9RQjY3VVZMM214NDNlalhBdUg1R0hxaXBDVS02QktaaVNpM0V0UWlPVGM5YlYxeUVhWnViY0c2ZEVENnRlejBSZ3FNcEtOSkh2MGNOb08z?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T00:39:49+08:00"
     }
   ]
 }
