@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-03T12:49:58.534550+08:00",
+  "generatedAt": "2026-09-03T13:21:00.611079+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608360.48,
-      "changePct": 0.07
+      "priceHkd": 607647.04,
+      "changePct": -0.15
     },
     "ETH": {
-      "priceHkd": 18806.51,
-      "changePct": -0.66
+      "priceHkd": 18796.71,
+      "changePct": -0.82
     },
     "SOL": {
-      "priceHkd": 785.72,
-      "changePct": 0.16
+      "priceHkd": 786.9,
+      "changePct": 0.22
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1118.52,
-      "priceUsdOz": 4437.5
+      "priceHkdPerGram": 1116.46,
+      "priceUsdOz": 4429.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.72,
-      "priceUsdOz": 66.32
+      "priceHkdPerGram": 16.64,
+      "priceUsdOz": 66.0
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 711.32,
-      "changePct": -0.31
+      "priceHkd": 709.83,
+      "changePct": -0.52
     },
     "Natural Gas": {
-      "priceHkd": 23.6,
-      "changePct": 1.83
+      "priceHkd": 23.61,
+      "changePct": 1.86
     }
   },
   "news": [
+    {
+      "title": "Shopping to bar-hopping: USS Abraham Lincoln sailors unwind in Thailand after 250-day voyage",
+      "link": "https://www.bbc.co.uk/news/articles/cj9x2k8n3y1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T13:17:04+08:00"
+    },
+    {
+      "title": "'We've raided this shop many times - we keep finding fake cigarettes'",
+      "link": "https://www.bbc.co.uk/news/videos/c1l6p7j9652o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-03T13:07:36+08:00"
+    },
+    {
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "link": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T13:00:04+08:00"
+    },
     {
       "title": "Trump $1 coin makes him first living president on US currency in a century",
       "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T11:39:53+08:00"
+    },
+    {
+      "title": "Live Updates: Trump says U.S. prepared to strike Iran \"anytime we want\" after carrying out \"very heavy attack\" - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaGpwVVBCeVNvZE5lV3RCSFl0M2E1cnZlZS0wMjVSRFlrS1E5ZXFWSml2MGdKZEFMaHlSRFc1Ylc1WkRPTy1IaEpRZzFrbFpBZFJJbmw4RnVYaDJxWDFUQ3hlVk9JMUJ5Zk1HXzQ1Z2RxbVpWN2dTa3lFTzdwN3V3QjFTb20tSEdkOTRnQS10eUEwaFBQWlcxSmQwbUZxRmhCOEptYXhaTWJyNGpnV0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T11:32:00+08:00"
     },
     {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
@@ -65,22 +89,10 @@
       "time": "2026-09-03T11:21:24+08:00"
     },
     {
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMYV9ZN2R2OTZjZzlXU19jcGJHRF9qNjRHZHp1ZElzdG5OWVZtWVJxVEhLeHpxbjBTSGJKZnJFWlFwV3N1LUE5WVl1Nmh4NVgyUWFwd0FScGJmdw?oc=5",
+      "title": "Tehran targets U.S. allies in Gulf after U.S. launched ‘large and powerful’ strikes on Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRWxnU3Z6ai1MZ2Y0Zktlanl3Q2dKQ1FpQUthWDVfeTJ0NjFQWUZLYWlxcnAzUUlVY0tHQkpEY2RMMjhRWmZpZDZVM3pqeE5DTlZKY05BS2pWWWlyT2JUYkRpTEhlS3IyMmtZNHB2LVMtZnVyaEIyZEdWSGFfRHJwdnpSM3Joc1ZjZDRxMlN0clI0bVNVbnN2V3RKYUw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T11:21:24+08:00"
-    },
-    {
-      "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlg0cGlseUFSOG9lUWpLZE9SbVlmZmdjZVpmXy1nZ3lzb04tQ1NLZS1pcHBNZlIybjJhVTdXSHJqVl9OWmk2R3JUd002Q2ZtNlhWRk5TLTVQNE9FOGZYcVpLeVFtVV9qdkhEQVpuRFVrS0VKaEtKRXAtcmg3NE0zVmRhWFJibExUMVRTeFkyTmxnNll2SGF3b0ltaHVJbzVQSXFrVGJIcjZkeEhyaWIwZnJLdHc3QU1Cd3M0TzM5NHJNUmN2NWI2SXRISjEwbUZNR3JfUjBDUTVLUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T10:38:00+08:00"
-    },
-    {
-      "title": "Iran fires on its Gulf neighbors, retaliating for US strikes after a wedding was hit - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTQ5RWEwemszN1g0ZGdybDJrd0d4MW9sTk43M05welQ3WGZmeWgycERkU0NFck5vMDc4eXBjbmdQSzc0OTNodV9tMXhpTFg1WF9SR2JXOXp3aEVGVjBHSUlwVFR5QWpVdnJodmNfV1FmdEZBeDlhUHNJZVZPeHliVlBQU3hZTXJhNGgzNGZoNURLUWtqOW53OUF2TTJpSEpsNGVBTDVyOUI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T10:07:00+08:00"
+      "time": "2026-09-03T10:13:00+08:00"
     },
     {
       "title": "NBA docks Clippers 5 first-round picks, levies $30 million fine after Kawhi Leonard probe - The New York Times",
@@ -89,28 +101,46 @@
       "time": "2026-09-03T09:58:07+08:00"
     },
     {
-      "title": "‘It’s a fever dream right now’: sailors of USS Abraham Lincoln voice joy after arriving in Thailand - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2g5WUtoS3BOOW9vR1U5U1NRSjdzMHhrd09mN0NDeDA5QTZ6ekY4SVMwYW1DeEFDRkdvcXVwb1FnV0ZBUG5YZ1M0MklBOG9tZHp5cTdHVDdxbWRUbGNzQXNLSG0xTDNsSzJ6N0JDMEloUGNGakI0SnFlbFZ3N3NTYkRLRHBmbWs1M3c4TEFUNkN4M1NNcEViWGxKeUdjZE1wTTk3WkladUJnR1ViOUctQ1BOdw?oc=5",
+      "title": "Judge blocks Trump’s birthright citizenship order aimed at ‘birth tourism’ - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY281ZW95TGloNk1CdDBpd0hWSHdBU01JRWtmQmU1TmUzSVA2NGk5WTM5WklRMGhKNVRsNkZtbzI1NE1CZ19SLVNtaExnZTA0WTdNeDFjdzdEdVhjaUlBNVZEdm9aRF9XT1pESTAtUlRLSHpaRDlTc2N4bDBTdlhRZ2Zn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T09:30:00+08:00"
+      "time": "2026-09-03T09:41:00+08:00"
     },
     {
-      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims - theguardian.com",
+      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WVJaVmNPV2pkQkE2QlF3Q0NOZTNDX1JNYUpITURGZm5oZERUaUNZN25wTlprcnhUSEdMT01JdFJMUUFGcXBZOWNDSENwWmU1aGNSenV1cHJRUC1jOHFPQ2RfaG9pT2NWaDFPRXE0dHo?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T09:30:00+08:00"
     },
     {
-      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS19jZzNyanZTMzZtcmtULXFoZ3o1S3YzTzNMcnRXVUt5Vlh1UUJ0LW5td1lQRkZTQlFld1VCbU5VS0FSTXdDV3JucGdUdnRFaWJneEVKLV9yMUZydmNOS3hDVFBjbHQ4VTM3TFhiNF84NVFOQTVJX1FKNGdMMFpGVFFqRzRvbjM2YnFvYmk5bjZ3RTc1RnlFNG4zaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T09:29:00+08:00"
+      "title": "'The crowd shouted that we'd stolen someone's genitals' - deadly rumours spread on social media",
+      "link": "https://www.bbc.co.uk/news/articles/ckg8lw7n2ddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T08:58:50+08:00"
     },
     {
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjNIdlpwb3dnZVZTQ3BsNzR1WTh0dTA5dXB4TFVfVWd3VlFZWGMzWlZSLURhdERDTExHbkppVGxtWHpvQlhQaC02M21IQXpETVI5d3VpZGJvMTAzcHhDTFJkM1JLYzNIcG5mdFQ2REFMS25RcVcyaHNuYk43Rm9SbEViVGp5OXpZeGZqVC1rb3lDQ1NFV0pPX3BzaXhRYjdhRnNvdU5TVkdtNzJvOERvd2xfbFc3OWh1Unc?oc=5",
+      "title": "Why Nepal floods should worry India",
+      "link": "https://www.bbc.co.uk/news/articles/cn8e940gz10o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T08:58:44+08:00"
+    },
+    {
+      "title": "Chasing a perfect sleep score? You could be making it worse",
+      "link": "https://www.bbc.co.uk/news/articles/c99drr70m2eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T08:41:27+08:00"
+    },
+    {
+      "title": "Sharpeville massacre survivors start legal fight for justice in South Africa",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvll11ll5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T08:14:20+08:00"
+    },
+    {
+      "title": "World’s Unusually High Dollar Exposure Risks Fueling Selloff - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWQzQzFfUmVlRlRHQkxaMnM0WC1oamw3eER3VzZVeEtGSExkTHRxOU1mQTdYWFVTYU1QRkZTcW5Xd2xBQVFJMWRUNF9ieXJUTlhyVFlwcHBlbHo5Q2ZZaHdSZnk5MTVmelNMakYyb1c4Q1ZtRWpRSjdoUWJmSmd6bWZrMEx2bGlWNGtabnRnbHRlZXBjRF9aNkRuUS1KMTZ6WW91ZHcwUGE1QlZTTkJldg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T08:09:00+08:00"
+      "time": "2026-09-03T08:00:00+08:00"
     },
     {
       "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
@@ -131,46 +161,16 @@
       "time": "2026-09-03T07:36:49+08:00"
     },
     {
+      "title": "Broadcom Third-Quarter Profit Soars on Growing Custom Chip Demand - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRVZZdENPOUlETmdDb3VpR2tlRVJpX2tUUkx4aktLZlpXcEhlYTMtbHNlOEVyeDU1bFFxMWUzemtZVzZCQTBaUVpYTGl5Tko1QnBCallrMGI5LUxLSG9KUHcxOXJvUmhVMUZMRVBqMmVNWmw2T2kwX2UtdmVYZnJ3ZU9HZkNodDlwakVNV3p6YnBQam1pN2lJYXFPQ2lhZjBPZTZ1Q1VRWERtYjlIOGVj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T07:34:11+08:00"
+    },
+    {
       "title": "US launches $1 coin featuring Trump’s face: What to know - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0hITVBrLVM3WWRKeFBKb3pFbFBYby1ZNlgxdW9rSmVxaHZkTUZJWGg2MTJOQ1NsOG4yYVdaQzRpRnltM01zdmhrSV93RE5zanhhOVVjdmtZa0kwYS1uek1BOTNhc1hlWXdSbHRZVDBBMm92SGFZTWlCSnJVbUo3WlMtWlVDaVltS2dmRmFydGpSMEczN1FvLVJjLUpnZnJrQ1HSAacBQVVfeXFMT1NUaVZxX0I2dnJBTEFRaGk3WDNjTm1rbzVXR2NoTElfSE01VXNKUjZSLU1wWFV2b2tJLTY1ZXZXODNRLXVjcEtlYksyR0NZNm1DR2xJWVZrT29GcU9Lc3FOVDE5QzNFWmlSQ1hTOHdIaF8tMU1lVEZZTFg1RlFDYnRBYkpMaUo3RkRpWUx0VXVMaEFxSmdRSC02VXVubUkzcFVTcFRIQUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T07:34:10+08:00"
-    },
-    {
-      "title": "George Lucas presents a galaxy of art that goes far, far past 'Star Wars' in new Los Angeles museum - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQckpoeGRLd1p6eXd2M1p6QlFJSUdMWUt5SUFEUUVjcXc4eGllY1dhR1JidHd6Si1OWEhtSC1WZUs1VmFqZmVBSHAxQ25OR1dnSEFEQ2xJVVRzSEpmQS11c3RESHZtenVRLTc1U1RnZlV1VmNSME5vTTZ5RFZ6UGhwN1ZCTVE4SHhSVVU3QjB0bnREZm1ZU004UTh6WXp2N0U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T07:30:00+08:00"
-    },
-    {
-      "title": "Almost half of households do not see benefits of economic growth, report says",
-      "link": "https://www.bbc.co.uk/news/articles/crerw510gdzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T07:26:58+08:00"
-    },
-    {
-      "title": "'I don't even like them': How much should you give to office gift collections?",
-      "link": "https://www.bbc.co.uk/news/articles/c2el0v48v0xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T07:25:50+08:00"
-    },
-    {
-      "title": "How Victoria Beckham turned her fashion firm around and made it profitable",
-      "link": "https://www.bbc.co.uk/articles/cj647xd596xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T07:24:06+08:00"
-    },
-    {
-      "title": "Federal judge blocks Trump’s latest order limiting birthright citizenship - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2Raay03bDMyNkpXbFJBTmttMVlWT3FDQ2w0N1ZVa2YzOHlQSDhyU05PdDN5amh4Um9ibU05QXJnSE5WVFNqOFRKSjdhckNwdTRnZDJJN3VOUHhpSWxYTGxNY3lBaHhycjBUbFZpeW9Td3hjRkJraTVhU0xDbzVPamU0SjVrQzRIVTAzUDdTTDlfbDAxOWdXT3ozeXk2QWstRnA3QVRRVmZTZWp3UTg5anFOYjBpdWI1NWRmT3lfNEQteHU2?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T07:17:00+08:00"
-    },
-    {
-      "title": "Why wait? Business grads buying firms to install themselves as CEO",
-      "link": "https://www.bbc.co.uk/news/articles/czxqpqrzq01o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T07:13:44+08:00"
     }
   ]
 }
