@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-03T23:28:34.582724+08:00",
+  "generatedAt": "2026-09-03T23:59:45.968018+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 632194.08,
-      "changePct": 4.7
+      "priceHkd": 636890.24,
+      "changePct": 5.18
     },
     "ETH": {
-      "priceHkd": 19495.26,
-      "changePct": 4.16
+      "priceHkd": 19680.2,
+      "changePct": 5.1
     },
     "SOL": {
-      "priceHkd": 818.1,
-      "changePct": 5.47
+      "priceHkd": 823.59,
+      "changePct": 5.86
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5567.65,
-      "changePct": 0.96
+      "priceHkd": 5572.63,
+      "changePct": 1.05
     },
     "SPX": {
-      "priceHkd": 60695.87,
-      "changePct": 0.98
+      "priceHkd": 60752.79,
+      "changePct": 1.08
     },
     "SPCX": {
-      "priceHkd": 1170.75,
-      "changePct": 6.13
+      "priceHkd": 1167.49,
+      "changePct": 5.83
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1135.92,
-      "priceUsdOz": 4506.5
+      "priceHkdPerGram": 1132.36,
+      "priceUsdOz": 4492.4
     },
     "Silver": {
-      "priceHkdPerGram": 17.01,
-      "priceUsdOz": 67.5
+      "priceHkdPerGram": 16.94,
+      "priceUsdOz": 67.19
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 725.36,
-      "changePct": 1.66
+      "priceHkd": 718.38,
+      "changePct": 0.68
     },
     "Natural Gas": {
-      "priceHkd": 22.75,
-      "changePct": -1.83
+      "priceHkd": 22.73,
+      "changePct": -1.93
     }
   },
   "news": [
+    {
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-03T23:35:47+08:00"
+    },
+    {
+      "title": "Norway seizes Russian ship over Ukraine's $4.2bn Crimea claim - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckZGanZ4Unh3cnV4Nm1fdERQTFZObUVnQ3FnSng2aDBLZkZmLXNydzJfRV9BakZtMTN1WHA3bm1kSjJ5MjNwcTFPLWk1OTB1RG5FcndGV2ZNaEVMUV9sSzZCeFk0cG1jNElGWFF5ZGxkMTVMa2oxSkZ2Tl8xTGVMY2ZHZ295WTMxV0hJRXZETzVpb0lJSE9QZW53X1ZFTE9aOUZqYTFkbVlqbUI2aTV3RlJTdU4xbHFsWUFYb2U3VVo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:32:18+08:00"
+    },
+    {
+      "title": "IRS unveils plan to cancel universities' tax-exempt status - Politico",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaGROTXVXNWx0Z1k1Ml9IM0l0RTJNTzljRDAxVE4tRDUwcEMzZFhlNEpBVW9oMUlFQXVHSFVhcDBXeDNxUVoxeUt6S255UnU3UXk4Z3ZtSU1qNXlzYTNWYmg1U1d1ZHh4bUlrNTUyazltVS1VUGFPRlZsdkRqbGNtVU16NlhkRmMxSjJwcQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T23:08:00+08:00"
+    },
     {
       "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
       "link": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
@@ -59,40 +77,28 @@
       "time": "2026-09-03T23:05:57+08:00"
     },
     {
-      "title": "The ‘Gen Z stare’ — and the decline of saying things out loud - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk5UTHIxaGJvRXFDbDRNZkNEQTFTU0dtRXVWV0RMaHhjWHNQMTdWSDhHSzZCMFM0UWx0YnJwSmVtUzVlRzFHUFlINzRCSTZCYmQwaXlKLUpZOVVPaEIyVmExNUV4ZERYSzY3N2ppTm8wWkljd1F6OWNHTVAwdWhYTXRQdlJkeUxkOC0zWkw1enIyQkNhT1Vn?oc=5",
+      "title": "The Death of the Safe Haven: How to Fix Your Bond Strategy as Yields Rise - barrons.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdXd2b0E5ajFfZl9jZnZMNExqZGZKOFZaWWFoQlctQVk1T1BJQll4bmtwa013bzByNDFLRlBnUFk5MmZqSTVodTB0R0dJTnl0QXl1YmhSbUdIN3oxQVdha0wxQkNJZ213TnJqWGsybUxsYy04QTlZbE90bk1EekVQRXBPTndZeHU3blplWG1Tbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T23:02:58+08:00"
+      "time": "2026-09-03T22:23:00+08:00"
     },
     {
-      "title": "A pair of spacecraft draw closer to Mercury after nearly decade-long voyage - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlpLTHduNk1tNmhIWDBPbEJvWHFoMjVBRk90Y3BsXzBWVjJCQ3VmX2U4VEZkeVpxME92V29oVFlaamFuRzdUM3Q4NWZGUzJ6QnpPTEEyUnlhdUFyWHFZRHBtc1o2aTBUbGNsbFpYdWdTMDAybzEzbl8yLVBzUFgwYUxVd1Rqc3NtNkN3ZlNiRkw3aDBq?oc=5",
+      "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:57:56+08:00"
+      "time": "2026-09-03T22:03:49+08:00"
     },
     {
-      "title": "Lindsay Clancy Trial Live Updates: Deadlocked Jury Tries Again to Reach a Verdict - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBLS0JwR181dVJ6X0dObDVVeG41OHBPZmF1dmtIa0xOZ1paYWlIVk5TcHhuZE1LcUxtMEctMGdhelNYY0IyNW5xQjN6cllaLWMydmpIVW51RzVlazhEUnhHMUhCZjdVVFNIVWVqeklfZTFYYnFYemlxSFBuWk0?oc=5",
+      "title": "Live: Shooter at Minneapolis apartment building was facing eviction over threats - Star Tribune",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV2twUW55cm9PVUpydTVVR0hGVTlFMEh0TmJTOGUyVW82RUZBaHp6UGxLSTdIck5DTU1GUWNyRjR0ODdUVEp3aXkxV2psWUxwNEx0ejQxdkdjZ3BwaDZNU1RYcVBSRmZpdUNiVlFHSmxzWVAxR05TdjdhUDUxWHBVRlp1WmNSZHN1bGNRcFBSVzE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:47:15+08:00"
+      "time": "2026-09-03T22:01:50+08:00"
     },
     {
-      "title": "Trump administration aims to strip schools’ tax exemption if they consider race - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQXBPOGdZQkpuQVZWalNxR0RFaEtGRFZ3YklZVGNneXMxNmhvZTRwcVBpeHpoVVdReTk2TWpmOFY4UEhxQjlyMnQ1NzFyY0JPYndKc2RpcDQzM3gyTnlNMC01VnlSNlpjQW9VSjlUeDhTcWViRDltMC1yQjFOM3Z4eGhkcDFUazRDMmZMSlp3elkxazF4UEdCZ2FDLW51VUlSb2VEaWlqQ05CVjJYNzZ4LWhEX0dzVXJDMTFXTUpVS1R5YUlmWkZF?oc=5",
+      "title": "Athletic finds Russini-Vrabel ties violated newsroom standards - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWFUwU1RoSVp0LU1rT1F4UDk4V0xTY2lKSFdIMzIwbGZLVkpSS09SY285SHlvYzlQOTJLN1hOUXNzRkV5YXVlMFplX29JTzAzMTVrcktCU0RsZVI5cnFjLVg1VmxIVGJOd09nWjBQRDZHMFh2eWw4ZWQ4TU03dFB5ck03OHpQQW1IcHdfLUVic2dXdXZOSlc1Zk1ER09sMlBkVkViRWN6ZHZFeENPLUlEcEtB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T22:36:40+08:00"
-    },
-    {
-      "title": "Live updates: Trump promises to campaign for Republicans despite sagging popularity - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTjVWOEo5bm9zdTIxOVF6ZnBZQmgwN0tzcUxqem9SSERaWUZuQTRLUU9DZXdBZ1A1LVMwSzBOVy10U1BWOU9JaDFfaGFoZ3VWWW1fbXJZZmNJQXloY3hVTlFTM3lBNS1DT1ZoMXU0T0NuYkpXQVRyOUFqZVM4S3M3dW1DRHRIWTBSMVhQblhKcHBVZUNpcXFOMmlR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:21:00+08:00"
-    },
-    {
-      "title": "The Athletic’s review of Dianna Russini’s work concludes she was ‘noncompliant’ with standards - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOVREdUQ0ckV4ZHB2Ym1EUFlicHY5RzdoYUdwMXpmUi16WUdIYVU2cGVoeUZ2akpMZTBZNy03Z091SDhWNzgydjlsbVB2VVRJY0xSd3dNdUVXT05XOUVmeExOblBsbXpJY3VBUWN5UXNENThvSlNnV2hQYllUd0dPRFF1YUZLUXVmLVk4eVVpWV9Lb19BSFBVd2FDbWJFRUNVbExFd3JGWHlFZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T22:06:49+08:00"
+      "time": "2026-09-03T22:00:00+08:00"
     },
     {
       "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
@@ -107,34 +113,28 @@
       "time": "2026-09-03T21:52:18+08:00"
     },
     {
-      "title": "Stock Market Today: Major Indexes Surge as Treasury Yields Decline; Snowflake Shares Soar; Nvidia Buys Hugging Face for $13 Billion - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0xCa2RGdFZHWkxScHduVkhkYXhFMFVsRnE1d0ZiU21kSXB0cXhxTVpoNVdTcFJ5OV8xR1ZLaDIxVzE0YjdqUDNrdmJ6NFlXRE5aV1VHZzUtTjVMNHVadWxDeFplaWtwOTNPSjJEbm9wTU16OTlEMXhDMzkzei16OFE3TkVNekZUNktCaGtwTUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:36:42+08:00"
-    },
-    {
       "title": "Households warned gas price spike could pile fresh pressure on energy bills",
       "link": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T21:26:54+08:00"
     },
     {
+      "title": "Fed’s Waller says central bank’s next rate move depends on upcoming inflation report - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVGNqanQzNkZWQXM4U1Q5SlhOR1pxckVDSXd5TDI2OWxndXlocno2WEpMalYtWjFROWJEU1duNmRmQk9qbUdBVEpjck5mSEJuRmt6Rlh1d3JwME5IVFJRczd2aVRpZUJuZWJXQ2FaeTl1UTJzQ0NUVHYyS2JOaE9nQzM5bklqdmlxU0d5RnpFZXJwckhPbnRJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:21:33+08:00"
+    },
+    {
+      "title": "Stock futures rise as falling Treasury yields signal less pressure on Fed to hike rates: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tZmdtNmZXU09LTVJCOFJZbG1uYmJwd0c2ZFM2S3UwQXo4WjVzNmJ6TXBXWlFPTmdHQ1hPVnVuc01vbktmdjAySlcwZ19YbURRSHhtTFJjR3N3T1BaVElvNXNHT0MwT2VNS1dzTXBiNWM5Y0I4d2pF0gF8QVVfeXFMUFZoRkZnVzM4WFBfMWM3Y0ZWbDZHYUVJNlkzanZFM2hoZWl4Wl9FYkJwaHE5a1U2SmFoWUZyMTVHS1BuZDd5c2x0a29rRnZGLW9JRW9rNWN4UXlhS0ItZ2VYWE5lRG1kWDZxZXdlZDlHSk1GZFVaakkxV2txZQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T21:12:18+08:00"
+    },
+    {
       "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-03T21:07:02+08:00"
-    },
-    {
-      "title": "Leon Black sues House Oversight over Epstein probe subpoenas, won't appear Thursday - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamF4bUM2WnVjWHBFZHM1Qk5JNWRGMjJUOUFjb0FqaFhDVFhzNUU4VUFuel9IYVU2ckRCbDZTZjNJNXA4TkNNTXNFWlNoVldqVWZWNl9BNTVkWURqUmRab09uZkZEQ3NiOVhHRWVxTVFLYUtLTXNtVFliNkxxb29wVGNETnFTQV9EWWJvUHpJOC1PdGJpOFk40gGcAUFVX3lxTE5hT3o3NFZ0YjdEbW1UWnNPc19YbDhNYURRNzZjWE5DX3RjRE9RRF83QkZaUGZ3b2JDZWNyYVNtMnRfbmlQb1lxcG9peEx6MlV2cnJnb2c3QXFVNThYRDJGNGtLaDByRnFiY1ZIWXVZOVNvTU9lb0d1Q09NcDdSc3JxY0pfZDBXbEVna0w4SkZVZ0RuREtVV0xwOENERg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:05:59+08:00"
-    },
-    {
-      "title": "Nvidia Buys Hugging Face in $12.9 Billion Deal - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yMlJhVkx6YWNlSEdlelNIVXNzaG9oUWVVdWlJcFQ3NHVzVXJvOC1RWmJqN1NKQXlSbmVTU2l3WHdrdTBSbEhvaHh6NVVIa3h6b1BENWJYZnRpZnNMU0RRQl9fQ1NKSk9MLVdEcFZQcjZDRzZ2QWVBeTNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T21:01:43+08:00"
     },
     {
       "title": "‘MobLand’ Renewed For Season 3 With Tom Hardy Returning Alongside Helen Mirren & Pierce Brosnan - Deadline",
@@ -149,13 +149,13 @@
       "time": "2026-09-03T20:50:14+08:00"
     },
     {
-      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON2J1REZ3U04tQUUxbFk2SjB5b1lHLU5kXzhaZi1GUmdaa0c3SVJuTldqZ3ppWEc1STBsMzBKMlVLQ2oycUF5SVh0WXh4X1ZMbDRRaDZRYlB3TFVmNV9CUDkzbjFtT2Jka2UycVF6N0pfQzMwU21mdDNxUFA3RlRxTU1nUFJVUU1IQnFrS1FabER0N3ZBX2ZJRXNKbGU4U19CZUdBeEpuX1VsZUhWdVBFOXZUUE1Ubl9SejIwQnhjS0ppZ9IBxwFBVV95cUxPRHlvbVBOcHFJVm40TGtsUWFBbmZUWjBIXzdGMHAwU2VXSmlHS1FhVnJlYmxFX1hHNEFsNUg4VmFFZUp1SzAydzllc3BBaEVrMFdzQ0hlV2oxVDJBd2dpNldpLWUybjJsX3hRdGdmdWtWUGEwOEI2MGFBYlBiRjZYSUEzeHhHcnpNQ002QjdYUGNueWZrcHJTU0RBNUlEYVRtTHV6WFZTN2hTeUl2MHJyOFJ5ejZqSkU4VEtrWG5xVjNhWWExZGZR?oc=5",
+      "title": "Tens of thousands flood streets to protest Spain border crisis - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXN1N3pjRDZXYlZmbmVrTnZuZ28zY3dmNmFHbHhfMlQ4X0RiaGRfVEJ1M1l5d1FTd3dDN0JFaURvX1pNZ1FlbERDU1pvcFIxTldhR1NxanN3YjFya3FZOVdTZ1c4N3pVQTlWZlhLN2hWeTJKUTI3bEZkT2FhZmVTcXdpVTMyWEV5TnpyalV4c9IBlAFBVV95cUxNajdBVDJ4X1ZRWjBIcTlQYkdINzctNjkxbzRiWk13Rk55dDctdlcyR3RJenFTbzBxcHh6cGZxZ1V2c0h1MkN4ZWl4eTdEdmtaOXBwTzJINGhMWUNRd1hqdG1hXzJEZVdDS0lZWjFhVjFFcFdHTmpTdXZsWjR0QmhsMWNhWE9HcG1Nb2VvUHBtNlRKaGNo?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T20:30:21+08:00"
+      "time": "2026-09-03T20:39:42+08:00"
     },
     {
-      "title": "EXCLUSIVE: Dolly Parton’s Cousin Shares New Details on Her Health Battle Before Her Death - TODAY.com",
+      "title": "EXCLUSIVE: Dolly Parton’s Cousin Shares New Details on Her Health Battle Before Her Death - today.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVk16dExlRFpDX3B4LWZDTjBCYjZzckVnemhIbDNtNXVycWJuczk5LWpJM0M4QTlkak00dTAzQnh5WDlYRUN2UkdLd0g3a0RyMk13d2ZvUFBGWHk2QUJMNTFVdERzVmxaZTlZdExaZTRpZmJrMURlZnRKMXdOakpuMGtaWVFGdkV3ZXlJYXdyY3M1TFpRUVdQN3d3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T20:30:08+08:00"
