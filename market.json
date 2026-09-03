@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-03T11:16:54.773422+08:00",
+  "generatedAt": "2026-09-03T11:47:53.919996+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609928.48,
-      "changePct": 0.42
+      "priceHkd": 608548.64,
+      "changePct": 0.09
     },
     "ETH": {
-      "priceHkd": 18866.02,
-      "changePct": -0.29
+      "priceHkd": 18809.1,
+      "changePct": -0.65
     },
     "SOL": {
-      "priceHkd": 792.47,
-      "changePct": 0.65
+      "priceHkd": 786.35,
+      "changePct": -0.02
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1116.96,
-      "priceUsdOz": 4431.3
+      "priceHkdPerGram": 1115.93,
+      "priceUsdOz": 4427.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.68,
-      "priceUsdOz": 66.19
+      "priceHkdPerGram": 16.65,
+      "priceUsdOz": 66.06
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 714.22,
-      "changePct": 0.98
+      "priceHkd": 713.6,
+      "changePct": 0.89
     },
     "Natural Gas": {
       "priceHkd": 23.59,
@@ -53,34 +53,28 @@
   },
   "news": [
     {
-      "title": "Follow the Roman Space Telescope's journey with NASA's online tracker - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iczVrV0ltMGxXcVZkRWhhYVNPUUJiOWdLV3lUUXMtR3V2U2NDUGJGbWVUTHpYdkdhWVZYZXFwMHMyVWJkWkxrcXBOVGRYRWRoMUJ5U1NyM1Ezc2pPaHo5ZGR1cVF6VkNLQVRUZVoyQk5naFk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T11:00:00+08:00"
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-03T11:39:53+08:00"
     },
     {
       "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
       "link": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-03T10:46:10+08:00"
+      "time": "2026-09-03T11:21:24+08:00"
     },
     {
-      "title": "'GTA 6' on PS5 vs Xbox: Key differences to consider - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcVFkcU9hNmlFVEhpbGlGbFExUzlGMURZZTg0b2Jnb1RYYzdBeE5jZGxKS2YxQmxqUXFtczBXajJnWTdCdUtudmZzaTdFTloybVYwV2diY2V3cVJFTnZPMTloUS1SbHhHN2ZJaEduTHJJajBWRTVndmJMN3pMVDZJTE1lTG9lM0xIaEpLNG8zM1R1TDJrS29aMk0yRFlBUQ?oc=5",
+      "title": "Broadcom stock wavers as chipmaker's strong results 'not enough to keep investors happy' - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFRtbHRZR1ZpbEFOOHlsSU9HUmNmVEZheTY5cTliQ2lPRUw5NjBocHh2SWRwVjNOczZVZVRjOE1Kb0NVZ2FEdGx3REFpV3NaXzVQUzBhZUlhQTNvMnJsbnZMSnFxamlnb01oaDhKWXVSbzVBS2gwckgtbDUteWFtSlVPSU12SnBxTF94MV94VmFaZm1lUWdrTmhtRnE4Sk9GcG5CdHZLNG5VZm9KMlhERF9oal9KY1JHMVZENktvU2RBNXM?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T10:18:52+08:00"
+      "time": "2026-09-03T10:38:00+08:00"
     },
     {
-      "title": "Trump $1 coin makes him first living president on US currency in a century",
-      "link": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-03T09:56:05+08:00"
-    },
-    {
-      "title": "Suspect and two victims dead at apartment shooting in downtown Minneapolis - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWMxbXp0M0lJV2h6MkZjZHIzY1psQW44NmRmNVc0QURGN3R0X0h2Um9OYV94U3JwVmxVajZOWGgyNF9LU1BJWGZsZVQxclBYOGFoVkZvajQ1TGxQVm9leDktUmkybWZ5dE1vZVlsODBCcXNZMmFIalhqYXlOZER2WVpKdw?oc=5",
+      "title": "Trump says he’ll campaign for Republicans in 35 races ahead of the midterms - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHhZVnNtVlhwUDFZVk9EWEN2LXZmTmR6UTYzN0hTclRQazBBeHFQVjFFZ3hRUWJMd2YyUkx4SW1nbzgxcVM4UUh0R1plT1R6a0hwYkpDVXZDTW1sZjBlbV95TnZkbEl0VDA2ekxBWUlGX1ZBWFRTZXRQTGlmZTVlbk9XMTJvRDJNV0xHZWFvb1BwZGVUbnp4WmZjYko0aGU0ZXp3Q0h4VHRBVVl5UzVkVkNyTWdRMjhJb3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T09:40:00+08:00"
+      "time": "2026-09-03T10:15:00+08:00"
     },
     {
       "title": "‘It’s a fever dream right now’: sailors of USS Abraham Lincoln voice joy after arriving in Thailand - The Guardian",
@@ -89,22 +83,16 @@
       "time": "2026-09-03T09:30:00+08:00"
     },
     {
-      "title": "‘Pitiful’: experts condemn initial US aid contribution for Nepal flood victims - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80WVJaVmNPV2pkQkE2QlF3Q0NOZTNDX1JNYUpITURGZm5oZERUaUNZN25wTlprcnhUSEdMT01JdFJMUUFGcXBZOWNDSENwWmU1aGNSenV1cHJRUC1jOHFPQ2RfaG9pT2NWaDFPRXE0dHo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T09:30:00+08:00"
-    },
-    {
-      "title": "Balogun pulled out of Everton move over handling of his medical, claim Monaco - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNam0wXzIzOXRWMExFdzhDaGIyVFhPMFk1SDdtYlowTGxYclZmemdTMDJPa2dPOTJqYms5bkVWc0E4b2Nqc1g1LWpxNkRxTEJJQ3ZGc1lPTmhyRDJiY3ZrcWFaZnhwcDJ2cC1MSUUzQl9rVkc3bkExalB5S29pYWVuX296Tl9GZ0dqbVpGZmNoY2wzVHZkVUdMbUdMcnh4MlptSHFuUWczNDhXZk5DZkZhVTFBMDR6UnBuUHpZUWtaYWQ1dkZGYnJ3cjRWUjk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-03T09:30:00+08:00"
-    },
-    {
-      "title": "Cassandra Wilson, Star Jazz Singer, Dies at 70 - nytimes.com",
+      "title": "Cassandra Wilson, Star Jazz Singer, Dies at 70 - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hTFdwcURxSWJCb21ybWdkSmJmbm1Rbm12dmZveFBvNjQtVDFHcDE1bHBRWGNPZHc3UjlhZC1kMExHaG9CY1l0TGgtbU5UVFQ3ZWNKclpyWVBBbUV1SE9VaEcxVDFEbUJka3FFN0xBaXhiRnAxcUFYOW4xTXA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-03T09:23:26+08:00"
+    },
+    {
+      "title": "2 killed, suspect dead, 6 injured including officers in Minneapolis mass shooting - mprnews.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSER0VkZUMDNEVGk1bEtvbW9nVmNCckdVLWp4S05fNTE4SFQyNjJzZnhsRk1Ba21HQ1pqX3FrWHNDdnMyYnFNUmM5dEROY2pGOHB1QnRlcXY4R0dfUkxKeW9ySGRrTVhobW1Ma0VRcnlKRG8tU3Y1ZGxGNFFLVDMzXzBfVXdmVWFib0Y1RUlyUkNvd2lQaFlGSGg2dDVkVi1ramZvd05aS29uQU82MWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T09:16:00+08:00"
     },
     {
       "title": "Chinese Warships Are Cruising Too Close for Comfort Off Japan’s Shores - WSJ",
@@ -113,16 +101,22 @@
       "time": "2026-09-03T09:00:00+08:00"
     },
     {
-      "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVjNIdlpwb3dnZVZTQ3BsNzR1WTh0dTA5dXB4TFVfVWd3VlFZWGMzWlZSLURhdERDTExHbkppVGxtWHpvQlhQaC02M21IQXpETVI5d3VpZGJvMTAzcHhDTFJkM1JLYzNIcG5mdFQ2REFMS25RcVcyaHNuYk43Rm9SbEViVGp5OXpZeGZqVC1rb3lDQ1NFV0pPX3BzaXhRYjdhRnNvdU5TVkdtNzJvOERvd2xfbFc3OWh1Unc?oc=5",
+      "title": "Tim Curry's cause of death revealed after 'Rocky Horror' star dies at 80 in LA - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNenR6anhLT1RKV3JXOXRKMjRYMXU3M0FvdjJqblBNZ1didzNEeWVJSnVtRm5EQzV1QWZjNVd4blM0THdMRW5UYndhU3MyY3haV1k3MFQ3RFkzTDVrTURReGNLV3VndmNzeUhCWEk1cDAycmtOaUYyVy1iMEQ0NW5LZHZJTnI4V1RPY3k0eDlFTGo3TUh2LUtn0gGcAUFVX3lxTE9vbTBkRERybl83SUdWbzFNR3NoT3ZpYnRyalhQYmtWMW00bU9lVnA4bWZValVyUUFvUHFSdDdwbU9rVjRGM251bFlHclJVYmtkQ0xnNjA4empZdEZ0djNLcUxoampQR1lQUmV5dDByVmlTdkc4RUN2X195SG8zaWhEMl8wbWxvWFRFLXZxRWhVSVRwRnNUcGdYTVBOMg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T08:09:00+08:00"
+      "time": "2026-09-03T08:06:10+08:00"
     },
     {
       "title": "Uber launches UK's first robotaxis with a driver - here's what it's like to ride in one",
       "link": "https://www.bbc.co.uk/news/articles/ce9e838jzpzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-03T07:36:49+08:00"
+    },
+    {
+      "title": "US launches $1 coin featuring Trump’s face: What to know - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV0hITVBrLVM3WWRKeFBKb3pFbFBYby1ZNlgxdW9rSmVxaHZkTUZJWGg2MTJOQ1NsOG4yYVdaQzRpRnltM01zdmhrSV93RE5zanhhOVVjdmtZa0kwYS1uek1BOTNhc1hlWXdSbHRZVDBBMm92SGFZTWlCSnJVbUo3WlMtWlVDaVltS2dmRmFydGpSMEczN1FvLVJjLUpnZnJrQ1HSAacBQVVfeXFMT1NUaVZxX0I2dnJBTEFRaGk3WDNjTm1rbzVXR2NoTElfSE01VXNKUjZSLU1wWFV2b2tJLTY1ZXZXODNRLXVjcEtlYksyR0NZNm1DR2xJWVZrT29GcU9Lc3FOVDE5QzNFWmlSQ1hTOHdIaF8tMU1lVEZZTFg1RlFDYnRBYkpMaUo3RkRpWUx0VXVMaEFxSmdRSC02VXVubUkzcFVTcFRIQUE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-03T07:34:10+08:00"
     },
     {
       "title": "Almost half of households do not see benefits of economic growth, report says",
@@ -161,16 +155,22 @@
       "time": "2026-09-03T07:08:05+08:00"
     },
     {
-      "title": "Presented with bleak polling, the White House moves to make the midterms about Trump - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHFDM1dmaUFjMlgtdjNrTEpxNldhU3ktNFMtNFByNzUxbU1idjdYVUFVd0o2dnJNNzRKUTJUbjcxbFhwTWE0TVhjM2N5ZGlaSUJ4Vm9OVUdtWmEtNDBjVTlNX3ZFcWVSUTBiM20yaWpkR1FDMC1VUDJGTXFwZ3piVzJHeEVCN0treW5JVlhRc3J1OVJYaDJxT0EzTHJZY3NZQkxoa3gzbXFiZVluajV2Z0pLNTZmUQ?oc=5",
+      "title": "Clancy jurors tell judge they're still deadlocked on fifth day of deliberations - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa09mN1daa042ZFI0bXFGbWZrQlhsWV83YzFPaGxYLWcwZkllN1ZoTlNoX3Fab1h6ZGQ1NVZybXZuN3RHWU5VRkZEVDVQOS1QNHhpWVF2Y0FtZTc2Ni13NUF1SlZYdllyU0pkQ2NGY25MaldiRGdISUNyQVNwbkpFejRnSVR0TUlBUEpqbFZ2Y3pHR05WZTZBN0FB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T07:07:41+08:00"
+      "time": "2026-09-03T06:19:20+08:00"
     },
     {
-      "title": "Judge blocks Trump’s birthright citizenship order aimed at ‘birth tourism’ - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY281ZW95TGloNk1CdDBpd0hWSHdBU01JRWtmQmU1TmUzSVA2NGk5WTM5WklRMGhKNVRsNkZtbzI1NE1CZ19SLVNtaExnZTA0WTdNeDFjdzdEdVhjaUlBNVZEdm9aRF9XT1pESTAtUlRLSHpaRDlTc2N4bDBTdlhRZ2Zn?oc=5",
+      "title": "'We've raided this shop many times - we keep finding fake cigarettes'",
+      "link": "https://www.bbc.co.uk/news/videos/c1l6p7j9652o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-03T05:57:44+08:00"
+    },
+    {
+      "title": "Snowflake Earnings, Revenue, Guidance Top Estimates. AI Software Stock Jumps. - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEpnZGtxUDcySzRDRFhObENxaW1ORXV6M1ZQaVJaVmVpM09IWk42U0hFZkdYN0FuakpBdlhmVHpWRTFaVTRTR3pPM0Jlc2otNFFPMG9ZLXFIbVBLODhRNkVNWWpBRFlObWpzZi1iczRjbWRfc0tUWWpIbkQtWXlxZlNjRmJRTlhFb09zem5IRF9wTHNJQkhGVk93?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-03T06:25:00+08:00"
+      "time": "2026-09-03T05:57:00+08:00"
     }
   ]
 }
