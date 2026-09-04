@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-05T03:59:10.835597+08:00",
+  "generatedAt": "2026-09-05T04:30:11.925496+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625185.12,
-      "changePct": -2.46
+      "priceHkd": 625396.8,
+      "changePct": -2.19
     },
     "ETH": {
-      "priceHkd": 19257.63,
-      "changePct": -2.36
+      "priceHkd": 19235.2,
+      "changePct": -2.26
     },
     "SOL": {
-      "priceHkd": 797.88,
-      "changePct": -3.2
+      "priceHkd": 797.01,
+      "changePct": -3.51
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5548.84,
-      "changePct": -0.42
+      "priceHkd": 5550.8,
+      "changePct": -0.38
     },
     "SPX": {
-      "priceHkd": 60488.26,
-      "changePct": -0.42
+      "priceHkd": 60513.82,
+      "changePct": -0.38
     },
     "SPCX": {
-      "priceHkd": 1159.58,
-      "changePct": -1.23
+      "priceHkd": 1159.93,
+      "changePct": -1.2
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1118.02,
-      "priceUsdOz": 4435.5
+      "priceHkdPerGram": 1116.91,
+      "priceUsdOz": 4431.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.72,
-      "priceUsdOz": 66.33
+      "priceHkdPerGram": 16.71,
+      "priceUsdOz": 66.28
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 716.26,
-      "changePct": 0.07
+      "priceHkd": 715.79,
+      "changePct": 0.0
     },
     "Natural Gas": {
-      "priceHkd": 23.07,
-      "changePct": 1.0
+      "priceHkd": 23.03,
+      "changePct": 0.82
     }
   },
   "news": [
+    {
+      "title": "Live updates: Judge in Lindsay Clancy trial declares mistrial - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T04:05:00+08:00"
+    },
+    {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-05T04:03:52+08:00"
+    },
+    {
+      "title": "Supreme Court backs Republicans in election ad rate dispute - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV3BPQko3MjRTWFBCbnh3LWtmOW1BTXZwZE5BMWZaaklSbERwSzJrNDJBcVVud3dKZlI5LXhPUkR1MWpxWEMxbHZRVVh0VDJ5cjJzNTB6OGxydXhrMUxoazlVU09aVGkyRFVZTXhTNnZ1YzY0ODAwWHE5dTFhTXFnRkFFV3ZUSjJnX08xTlVEWG9YUjNCN3ExSkNUcWc5Y2gyVm1CX3JVd2pReTF3UUcyZGVnT0phUExxRjZhQ3VwZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T03:53:00+08:00"
+    },
     {
       "title": "UN votes to adopt new world map to reflect Africa's true size",
       "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
@@ -71,16 +89,16 @@
       "time": "2026-09-05T03:32:03+08:00"
     },
     {
-      "title": "Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T03:16:20+08:00"
-    },
-    {
       "title": "Miley, Beyoncé, ADÉLA & More: New Music Friday Guide - Billboard",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc2XzJ1UTdjNE9LdWZnRGQ5OVQ5WVY0dkdFd210aFdTeHJvY3haTnlGYlZuWC0wdDJ0X0o1V01iVUEyY0paaHkwbzc2aHg5V1kxc01oalJiUmdiRC1veTJ5NXdRZ0p0SjljM3NzUXFIRzFnQUdMcHVPMnJFejR0Q3FlY1JCUGlra0ZxMzMzaDVncUtTNEY3X1pkRTB3UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T03:05:11+08:00"
+    },
+    {
+      "title": "Former labor secretary misused funds and drank on the job, report finds - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGFNOFp5MDZNaWQtbFVmQkg3MjdwZ1BlcTJfd1B0ZEQ1eTY2eUlTOFdrTTJOMGREVnNmcDZfREdLaVk3WXhvVmVzWGRhSFNHQ1dybVE3QTc4V2Zac1lwRlEzYUNPbFJDMXA0RDBGcWU4VFd5RjRjMFFadnNhM2NGcURTWHZ3RGVzQWJNd1BfTkxuUUdMb2hSSnpnakJfMGJtZndqakhIZVdZV0RQZy00XzJ6NUw5eDIxOENmdklEM2g2cUMzTnVHZlRESQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T03:01:04+08:00"
     },
     {
       "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
@@ -89,22 +107,28 @@
       "time": "2026-09-05T02:49:58+08:00"
     },
     {
+      "title": "Inside the fight against mosquitoes spreading dengue fever in Florida - tampabay.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnZ6T3VkWVRMb0FHdTZfQ0Z6bTBWMnNqRHJEeVlabnppNlM3UEZ0RUJ6TTBFWTBkZUxjeGZFZ1JnQ29EeG9sbFZqUWRsRFlDWU9RZzBZbGJuajAwVDVFdGd6cXdvVzdheEI4YVJIVVJuMzBuUnN3NUJtR3dhY2ZPOHBFUU1wdDVvV0R1ZFVtWFpRaGRWNkwyd2NIOEl3OXFyMnA0TmhqWHZVSVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T02:46:22+08:00"
+    },
+    {
+      "title": "Xbox Game Pass imposes strict monthly hour limits on cloud gaming - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR0dlN2REZ2JGbGJmcldEbmotTm9BaGhPMEUtRXR6dTV1bTZ0VWJXMlpyMnE2cU9RWGkxMGk5RFlkTk9yNlpPc1hLcVZvSzlHbnlyZGEzT25EcUppV2NTVlJmellQUkdLTWhQRDN4dF81YlNzUFR6d2QtSk9vTlkxay1PQUw4QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T02:30:24+08:00"
+    },
+    {
+      "title": "Rescuers pull 2 trapped workers from a hydropower tunnel 9 days after Nepal floods - npr.org",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ULTlvYlI4WllMeVNQU2RUekZlZF8ydkFMcnBHdWtodHd4V3YycEpqdTNmMFJsdnp0U3JXTXU2RU43eXZEZGFmRHpfRExzaE5rQ2ZjRUNwRHVaX0JGMG1idXdXRmRNWkJqZWVGZVkyYWk5YzdLNTBXbjVNUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T02:28:16+08:00"
+    },
+    {
       "title": "Trump administration opens probe into Tesla’s self-driving Cybercab - Politico",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T02:23:00+08:00"
-    },
-    {
-      "title": "Maria Bartiromo’s lawyer says she was not fired from Fox News - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0ZMZ18tM3BiRzU5aUoybWs4aEtGbVptMkFlOElGdS1XRlFWRGJIMTc0RGNQV1FIUDNQNWE0TUtKMTc4OGc4WXB3dy11RWN6bnE1UFNrbzF5RUZpQjJfZ2l5S1lNbE0xNFEwYXFqaGcxdm9IbjliWU0zSC1TTm9iZWNmUFo0cWhRRXdLRVZsYXF4MlFkNHdxVjk5ckhNZGItMEkw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T02:21:35+08:00"
-    },
-    {
-      "title": "Inside the fight against mosquitoes spreading dengue fever in Florida - tampabay.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnZ6T3VkWVRMb0FHdTZfQ0Z6bTBWMnNqRHJEeVlabnppNlM3UEZ0RUJ6TTBFWTBkZUxjeGZFZ1JnQ29EeG9sbFZqUWRsRFlDWU9RZzBZbGJuajAwVDVFdGd6cXdvVzdheEI4YVJIVVJuMzBuUnN3NUJtR3dhY2ZPOHBFUU1wdDVvV0R1ZFVtWFpRaGRWNkwyd2NIOEl3OXFyMnA0TmhqWHZVSVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T02:17:52+08:00"
     },
     {
       "title": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact - CBS News",
@@ -113,10 +137,22 @@
       "time": "2026-09-05T02:17:00+08:00"
     },
     {
-      "title": "Former labor secretary misused funds and drank on the job, report finds - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGFNOFp5MDZNaWQtbFVmQkg3MjdwZ1BlcTJfd1B0ZEQ1eTY2eUlTOFdrTTJOMGREVnNmcDZfREdLaVk3WXhvVmVzWGRhSFNHQ1dybVE3QTc4V2Zac1lwRlEzYUNPbFJDMXA0RDBGcWU4VFd5RjRjMFFadnNhM2NGcURTWHZ3RGVzQWJNd1BfTkxuUUdMb2hSSnpnakJfMGJtZndqakhIZVdZV0RQZy00XzJ6NUw5eDIxOENmdklEM2g2cUMzTnVHZlRESQ?oc=5",
+      "title": "Reporter who investigated Clippers salary-cap circumvention turns attention towards Dodgers - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mN09xekdSek1Hb09MNFZIWGlJdm1hYTl6ZVZFNTBPQ0lpMGVMNlhucndGdnVQMzloTi1ULVJtMktudUJPMlJtSElvTEZwSnhlZ08zYkVQaTZ1NkRNVGQ4NWtzOWRvZVAwUldXZDBWS1NBMGNvdHJFdGRRVGrSAYIBQVVfeXFMUE11ZXNvek5LUWktS0oyS1V3YUJEYldfWkVYUm5tWFNTMG13SWYxODZLR0Q3LWVPNE1KZWM0TFY0RVdXOW5yNTdKTllUR1dTdmF4TVdKZjhxQW5VS1ZCd3lTQktMS0oxU2N4a2duZ2k2eUNybGpkVld6QUpQX1FWVy1JQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T01:43:33+08:00"
+      "time": "2026-09-05T01:58:53+08:00"
+    },
+    {
+      "title": "ICE officer pleads not guilty to lying about shooting and is ordered released from custody - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lMZm5uVndPZHpxOURLNFNaRjBGOWx1YjRYM1JHand0NDNaUHZsZ1JWcFhoTDc2OVJfb28ydzdkcW5OdjhsZGJpVnNUci1qbjl0aEVyZTl6NWg5T1YzcDE5dzh5eE96WW93bmduR2h3OHh3U3lHOXlIM1BKYkxmN3U2ci1fek0zQTFuR2trVHUtZ2tNRF9QelJPaWJSdlZZSWVoUWJrZkd1Q0x5WDF1TU1rWTU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:47:00+08:00"
+    },
+    {
+      "title": "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - Missouri Independent",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZOeFh2VVYtYllOT25KN2RhNDA5YzVtdFdOdU5vNy1OSnlfX0M1bWVMRDJodDBZOGgwZmxfREVjQ1VSR09hQ3VSUFMxZzZsN0p1WjM0TTF5RUotRGNmLU1IVW9tbTdaV2twVHFJZWhTYk0tdUpGNFhIbkpBLXYxRW00OUtZWFZVXzh5d2M0Wk5uMEdxMURQX1RuTk1XWjdtWklhd0VsVmpMMV9jRmxFalpmMk80cU0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:41:49+08:00"
     },
     {
       "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
@@ -131,46 +167,10 @@
       "time": "2026-09-05T01:14:21+08:00"
     },
     {
-      "title": "Two men pulled alive from Nepal hydropower plant tunnel nine days after floods - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5",
+      "title": "‘Like a tired boxer, battered by applause’: as Andrew Scott’s biopic premieres, Richard Eyre remembers Ian Charleson’s superb, near-death Hamlet - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNRE04LWZZTEo2NXNTMGx3UmdQaWRfS2NWdmYxV1lqMzBBWk5ueVlxbXNzbnI2ZV9rNDZ4aTgxMkxMVzlhX3RYeWt1MnF0dDdXM2xSVTFhWi1UOVFvMnRRUHdCeHVzZlBhRUJZTmpGd3YzWWJ6VFpxM280dHJNc0FPM05uaHFRdGZQVFFmR0M2N0hTTWRWSjJ3UVZHVERjajE2amlXUTQ1eWs2UkN6S3JqcE1oVzE5Z05jdE5YZnZjVEx3VGpsaXlGLVh6dWNYWGw2UkV6RFZMaVpDeFZjUnhwQ21HSWduWV84Ty15OUU3a1RWcDNuaUNBNjRYZmlRamZZejY3SGZzUlMtQ3RTbmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T01:12:00+08:00"
-    },
-    {
-      "title": "Alcohol-related cancer deaths in US have more than doubled over three decades - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2hHOGlfdHEtV3czOFNaazlQNk9VSzJoc3lmb2NxR1hoOWMzT0RjX0NTdHFTQU9MVlFoT1Qxd0tMVDhxWFo3SnY3b1NzT2ZvTGRBd3JoSjBNQ3BkemxpZ216U1BTLWxvai1jUk54SHJoMDVPNEV5d0ZTMWNoVEtFSW94QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T01:12:00+08:00"
-    },
-    {
-      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-05T00:49:15+08:00"
-    },
-    {
-      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-05T00:30:50+08:00"
-    },
-    {
-      "title": "Pablo Torre’s Dodgers bombshell reveals real threat to every American - SB Nation",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkYxTGZUdDR5Tl96TGJoWmxMOG1xSTJpVjhIT1Q0SWZtbmVRTGlqVXZJa2JLbGZFc1JUcEMyVFl3aktmc3k4Q2N0SnhrQ1NQRl82WVIzNngyenRLVXBiT3hwNjBja2ZCQlVlRnVXR3U4ZDJaQ0ZTMVBwZ05mc0RDclI5Z1ZFaVFSd1NQVFVxNzVpTHF3R2xtVV9ibkVvZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T00:30:25+08:00"
-    },
-    {
-      "title": "Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGFIVGlBaUNiekdjQ3dleWxrQUNJcHBWSklSRHR2bWk3VUswUmZnOHpELWhlbEplRVVOWHZHREJMQ0x4LWVkdDl5eVEtMnpHOUFSYmxRYy1LcVpnTUJBZk1NM1V3S3Z2eTgxYnRKMkVCUTNZUzRsOXQ1LTRvc3dvcGNNSnNHVE5QYVc0VTNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T00:27:35+08:00"
-    },
-    {
-      "title": "Second complete map of a fruit fly brain completed - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMExXSUVqa0w4a3FxdW02UlBEeVRrRnJweXlqdG8xdDROeWV3eUtnREsxZXR2bXhENWtGTDVXYlk2cXJTWUdXeWt0Q092d1c4bVNJaGM0MEd1dzdESlBoVC0zX3ZVYnNuS2VRNU5wT0VuN1ozTk83cmxzeEY2a24xVXNuMjVnOGdFTmUzTGJGenQ5M2tjRmgxNF9XWWpJZ3ZMakN0aGRvOUFTRUx4UTMtUFZCQjE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T00:24:24+08:00"
+      "time": "2026-09-05T01:14:00+08:00"
     }
   ]
 }
