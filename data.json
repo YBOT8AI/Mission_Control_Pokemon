@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T07:05:35.591093+08:00",
+  "generatedAt": "2026-09-05T07:36:40.288300+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -63,7 +63,7 @@
           "author": "evilmoni",
           "time": "2026-09-04T03:04:57+08:00"
         },
-        "commits30d": 60,
+        "commits30d": 58,
         "totalCommits": 141,
         "branch": "main",
         "uncommittedChanges": 0,
@@ -261,8 +261,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-05T07:03:56.372623+08:00",
-        "next_run": "2026-09-05T07:33:56.372623+08:00"
+        "last_run": "2026-09-05T07:34:59.815561+08:00",
+        "next_run": "2026-09-05T08:04:59.815561+08:00"
       },
       {
         "id": "539a150ac028",
@@ -279,8 +279,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-05T06:34:37.529170+08:00",
-        "next_run": "2026-09-05T07:34:44.163148+08:00"
+        "last_run": "2026-09-05T07:05:45.430625+08:00",
+        "next_run": "2026-09-05T08:05:48.703121+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -288,8 +288,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-05T06:57:43.654087+08:00",
-        "next_run": "2026-09-05T07:27:43.654087+08:00"
+        "last_run": "2026-09-05T07:27:48.047728+08:00",
+        "next_run": "2026-09-05T07:57:48.047728+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -297,8 +297,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-05T06:57:43.265212+08:00",
-        "next_run": "2026-09-05T07:07:43.265212+08:00"
+        "last_run": "2026-09-05T07:27:47.643770+08:00",
+        "next_run": "2026-09-05T07:37:47.643770+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -333,8 +333,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-05T06:57:43.475690+08:00",
-        "next_run": "2026-09-05T07:12:43.475690+08:00"
+        "last_run": "2026-09-05T07:27:47.840562+08:00",
+        "next_run": "2026-09-05T07:42:47.840562+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -785,44 +785,44 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        1.35,
-        1.27,
-        1.19
+        1.1,
+        1.2,
+        1.18
       ],
       "usage": "12.5%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 42.0
+      "usedPct": 42.2
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "4.8",
+        "cpu": "5.5",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.3",
+        "cpu": "4.7",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.7",
-        "mem": "0.0",
-        "name": "notifyd"
-      },
-      {
-        "cpu": "0.7",
+        "cpu": "0.9",
         "mem": "0.1",
         "name": "opendirectoryd"
       },
       {
+        "cpu": "0.9",
+        "mem": "0.0",
+        "name": "notifyd"
+      },
+      {
         "cpu": "0.5",
-        "mem": "0.3",
-        "name": "ControlCenter"
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -1038,6 +1038,22 @@
       "actor": "YBOT8AI",
       "time": "2026-09-03T04:01:39Z",
       "title": "fix: car battery ceiling HK$200–500 → HK$500–1,500 (Sept mar",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-03T01:02:17Z",
+      "title": "chore: remove unused announceToScreenReader() from aria-live",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-03T01:02:14Z",
+      "title": "chore: remove unused useFieldLabel() and FieldKey import fro",
       "detail": "1 commit(s)"
     },
     {
@@ -1289,14 +1305,6 @@
       "detail": "1 commit(s)"
     },
     {
-      "repo": "evilmoni/KinKin",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-20T06:31:40Z",
-      "title": "feat: launch gate — ship with home repairs only, one line to",
-      "detail": "1 commit(s)"
-    },
-    {
       "repo": "WorldPaws/WorldPawsOrg_Website",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1318,14 +1326,6 @@
       "actor": "YBOT8AI",
       "time": "2026-08-20T04:01:39Z",
       "title": "docs: add institutional business plan",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth-Tracker-Pro",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-19T04:02:17Z",
-      "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
       "detail": "1 commit(s)"
     }
   ],
@@ -1540,16 +1540,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-05T07:05:35.303501+08:00",
+    "generatedAt": "2026-09-05T07:36:39.984804+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 25.0,
+          "temp": 25.9,
           "code": 2,
           "precip": 0.0,
-          "wind": 3.2,
-          "time": "2026-09-05T07:00"
+          "wind": 3.0,
+          "time": "2026-09-05T07:30"
         },
         "daily": [
           {
@@ -1578,11 +1578,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 24.4,
+          "temp": 25.1,
           "code": 3,
           "precip": 0.0,
-          "wind": 2.7,
-          "time": "2026-09-05T07:00"
+          "wind": 2.8,
+          "time": "2026-09-05T07:30"
         },
         "daily": [
           {
@@ -1618,12 +1618,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-05T07:05:35.590948+08:00",
+      "time": "2026-09-05T07:36:40.288170+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-05T07:05:35.590948+08:00",
+      "time": "2026-09-05T07:36:40.288170+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
