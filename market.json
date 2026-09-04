@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T08:17:59.355004+08:00",
+  "generatedAt": "2026-09-04T08:49:05.949799+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 637203.84,
-      "changePct": 5.43
+      "priceHkd": 636945.12,
+      "changePct": 5.4
     },
     "ETH": {
-      "priceHkd": 19666.64,
-      "changePct": 5.17
+      "priceHkd": 19659.43,
+      "changePct": 5.23
     },
     "SOL": {
-      "priceHkd": 813.95,
-      "changePct": 3.82
+      "priceHkd": 813.71,
+      "changePct": 4.18
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1128.91,
-      "priceUsdOz": 4478.7
+      "priceHkdPerGram": 1130.67,
+      "priceUsdOz": 4485.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.89,
-      "priceUsdOz": 67.01
+      "priceHkdPerGram": 16.92,
+      "priceUsdOz": 67.14
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 718.85,
-      "changePct": 0.75
+      "priceHkd": 717.6,
+      "changePct": 0.57
     },
     "Natural Gas": {
-      "priceHkd": 22.96,
-      "changePct": -0.95
+      "priceHkd": 22.95,
+      "changePct": -0.98
     }
   },
   "news": [
     {
-      "title": "ICE officer charged with lying about shooting turns himself in to feds, AP source says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUl0MEVpMy1GZG5val9mQ1dWaTBhcktHcjdZd1R1c2xBV2ZxbC13Z2QtRjNpQ0QydERQd3ZDUXpGMFh5bGRxZmFCY0VaeDBhX3R0a2F3ejdPcUhtQlotRnhvNFI5aEl1QTFqYndqNHVyYmdLaDRwUk9fYUp0NEV3M0xjZ3NCbk1fV3Eya1RB?oc=5",
+      "title": "ICE officer who shot immigrant in Minnesota in federal custody on charges of lying to investigators, source says - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2dDTVVrS1VrMU1VMmROR3JmVjFuVjhUVDhfZXdYb1ZLZXJZbTBZQkYwUzR3OHdVcE8zZ0pPVzVZc0Fnb29hTjR3RHJSWURZZkNXbGxnbDV2SThuQXltYVQ2dno5WUM4ZUZwaTBITnpzcndhbjJ5aEFjTDQtdDR6bU1oMjRDc0E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T08:07:00+08:00"
+      "time": "2026-09-04T08:30:24+08:00"
+    },
+    {
+      "title": "Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VnljRFBtaVhWUWVYNHhFQzJMLUJjN3h2cTd1Sm1SaUZtck9lNEdRMmIzRTFBNjZLZkZXam9GdU1taHhFNFEwR3hXUG00Z2ZmTE1Sdi1HVUZWZFhYTmFkZ0pNcEp4UjJ3cnEtem5uUnk1dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T08:25:00+08:00"
+    },
+    {
+      "title": "Volkswagen board approves plan to cut 100,000 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T08:18:25+08:00"
+    },
+    {
+      "title": "Longtime host Maria Bartiromo out at Fox News - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU082eGw2eG9WWVpVZkUydVBGOU1nQjBRNXFfNF9PU2cxRWg5ODduTF9lc2RHUV9pQTdadG5Ga084bmxKZUttSDRoYXpzNjZ3V1pIMW1tQjFZaWM3LVE2c1BlWkN6b3lFTFlVTFhZY3RzQUl3d3NtcnlsT2tuQktqNTctczJrREp0aVdROGZKeVRFcEpwbnNvNFVyN3dCLTlxSGhtM2dGU3JKZGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T07:54:35+08:00"
     },
     {
       "title": "Trump to Break Ground on Arch Before Getting Approval - The New York Times",
@@ -77,12 +95,6 @@
       "time": "2026-09-04T07:40:08+08:00"
     },
     {
-      "title": "Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VnljRFBtaVhWUWVYNHhFQzJMLUJjN3h2cTd1Sm1SaUZtck9lNEdRMmIzRTFBNjZLZkZXam9GdU1taHhFNFEwR3hXUG00Z2ZmTE1Sdi1HVUZWZFhYTmFkZ0pNcEp4UjJ3cnEtem5uUnk1dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T07:38:00+08:00"
-    },
-    {
       "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - NBC News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlZ1c3ljMHdkLUxtLXo4RG5tTkU5VFNHRFdkMGRuak5nY3hQNXVpSk9jLXptdEJWZzBaaElSWko0N1ZqZUJXTUNUbHI4UktvX2lnTnFLQjFvdjNaYk1zdEF5VXdHVGFaZUQyU3J2MUxUWVJhRzlHelVDYVNJSlU3cGxOTnQ0MmdKdW5LbUI0T2Uwd3dzdVZMczZUUHRJUHpqWmFCZG5HZ1g3ejRGTzBjX1oxTXlZczlHT3B0UEZObVpNeGdsblM4?oc=5",
       "source": "Google News Top",
@@ -101,16 +113,22 @@
       "time": "2026-09-04T07:00:15+08:00"
     },
     {
-      "title": "Iran attacks Kuwait with missiles and drones after US strikes - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3JKaGh4eWVCeWFMcUVYaEUzUUhrMG05Q3gtREsydnc2ajZoY2Z2LXkwSWFCZmlTMVZWaUVRV3FxeUJkREN5bGR0QzRFb25jMVdWMXBnMkVqODYzdzQtRTBXT0s0S0tPMUxkc3hDZWVSN3JJdTROejZ1b0NHUHB5WE1LcXVrZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T06:44:20+08:00"
-    },
-    {
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
       "link": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T06:31:23+08:00"
+    },
+    {
+      "title": "Pig kidney works in human body for 271 days - is this the future of organ transplants? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hd1ljNTBuQ0NxSlBfVXRSM2R6WkhldEw0d19FQ05iZGVWSFNuQ0tmNndRUWRJOFdycDhac1VpUFJoY1lrMTR0QVVwci1kR3dSeUsySU9RZUh2UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T06:31:23+08:00"
+    },
+    {
+      "title": "Gloria Steinem, defining symbol of women’s movement and eloquent advocate for equality, dies at 92 - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T06:30:00+08:00"
     },
     {
       "title": "Nvidia bets $13 billion on open AI models with Hugging Face deal - Reuters",
@@ -137,10 +155,10 @@
       "time": "2026-09-04T06:13:50+08:00"
     },
     {
-      "title": "Suspected gunman in downtown Minneapolis mass shooting was facing eviction, court records show - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXVQVUVTOWVjbzl1RU03Qm4tajBYcld3S0VpWUR3SDNxTTRjcFVud1UzVzlUenRhX0UzdF9XQjJJUVYtN1A1TWdmMEpleUhaU3Z6cXhGZEMxUlYtZ19ua0xPakJ1SHFlemY1OEl6UE9CV252VDNKYlVJSFJHOUJZcUxWU1A4eTFEUHF6b2ozMWlrZmFLM0ZQRw?oc=5",
+      "title": "Judge Suggests Trump Mail-In Voting Rules Could Cause ‘Major Disenfranchisement’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmRwOWFtWlZNMkFLOE96cDJfaFRpc2FoNUpxSk04TkZxSndza0JrbF9LYlYzUmpabzFmUjl1ZkdSTFlDTmVCQWFpNUVXcTlqUURCWTZpMTNPMjByYW9CRUhFZzlhYW9hZFN5a2o2TlZ3YkpGV1B6Rnl1TnMtQUZsaF8xeDNoeXpCUzZfRjhMVms?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T06:13:20+08:00"
+      "time": "2026-09-04T06:13:38+08:00"
     },
     {
       "title": "Psilocybin May Prevent Nerve Damage Caused by Chemotherapy, Study Finds - The New York Times",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXBvTUFyZWt5R3ZDZlJYTTNRYTJCWjdJMmhGWmVIakZWb0lMQVh4bEpVWkw2UG9Yc1dFYWhnTVlyQ2pHcjFmVHRVU0ZPa0YyS1F1bXc0TERWWmQtbERVNnVOVzdpVzBKLW1GRU5WVzNtUzBaV2pCdWxsampxVHROYU1GS21yWmZrSlBHR3BjR1JlQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T05:12:44+08:00"
-    },
-    {
-      "title": "JD Vance reacts to airstrike that killed four at Iran wedding: ‘Things happen’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtsaDRkWklOSkM5bFdVWFVTdTVMTE5aeVlDYk4tbk16ZG42STU3UU8zc0tRbzM1UWNQbWRoMTMtZ1hqdjNNTUoxbmhTR2RNOVgzaUppUUluNkRUb21WQTdmeDdUdGwwQ0ludExNbjg2aTVwaUpuZDZiTVZ1ZGlMTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T05:05:00+08:00"
-    },
-    {
-      "title": "Fox News cuts ties with Maria Bartiromo, weeks after she vanished from her own shows - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQmo0RVdoOGRDVExabHBJcGlxWlNQOVJ1NlRZTmVsSkdhejk2SHNPSlhYaXZ6eFQtTGNPWmljMTE0YzlWdm1VTjFaTC1RckJiTlFLb2RWUTVXVzNDYW05VS1QMVVIY1N1VWhJR21ZeDJKMTFhLUd1QTl6QmRWZ21IYWJaendDV2xkbi1mQkZEZVFMbnZudFhzQzhld0FnQ19HaVZCU1dn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T04:55:00+08:00"
-    },
-    {
-      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
-      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T04:49:05+08:00"
     }
   ]
 }
