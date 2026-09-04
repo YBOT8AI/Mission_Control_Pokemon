@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-05T03:27:59.137797+08:00",
+  "generatedAt": "2026-09-05T03:59:10.835597+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625577.12,
-      "changePct": -2.07
+      "priceHkd": 625185.12,
+      "changePct": -2.46
     },
     "ETH": {
-      "priceHkd": 19260.61,
-      "changePct": -2.29
+      "priceHkd": 19257.63,
+      "changePct": -2.36
     },
     "SOL": {
-      "priceHkd": 798.97,
-      "changePct": -3.32
+      "priceHkd": 797.88,
+      "changePct": -3.2
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5549.39,
-      "changePct": -0.41
+      "priceHkd": 5548.84,
+      "changePct": -0.42
     },
     "SPX": {
-      "priceHkd": 60486.78,
+      "priceHkd": 60488.26,
       "changePct": -0.42
     },
     "SPCX": {
-      "priceHkd": 1169.65,
-      "changePct": -0.37
+      "priceHkd": 1159.58,
+      "changePct": -1.23
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.49,
-      "priceUsdOz": 4433.4
+      "priceHkdPerGram": 1118.02,
+      "priceUsdOz": 4435.5
     },
     "Silver": {
       "priceHkdPerGram": 16.72,
@@ -43,15 +43,33 @@
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 717.05,
-      "changePct": 0.18
+      "priceHkd": 716.26,
+      "changePct": 0.07
     },
     "Natural Gas": {
-      "priceHkd": 23.09,
-      "changePct": 1.1
+      "priceHkd": 23.07,
+      "changePct": 1.0
     }
   },
   "news": [
+    {
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-05T03:44:40+08:00"
+    },
+    {
+      "title": "Trump threatens to stop trading with countries that have a trade deficit unless the Fed cuts rates - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNb3JhaF9SeWhUU1pFNV85ekxfVHVwbUg0MkZOWWtZcmZPalN4dDhBYjNRdElRWGNsNklxbXpEWVdsOE5Mc1pKcnNnZ2g3bUJrWWl6R3VaQUhFVm92ZzlXVTVKUzV5YTBGVUdUaHFhMERyWTZnTjVaaERsSGs5WWZJaXBpNmtDWEV6RExZejJVeUNWS25jVDlSMlJ4OTJJTGtKWWdOZ003eE5yNXhUTkIwWFV0YV9jVkJGeEg0RXBhaVI1R2JqSHMtVEpPRGJ1Wlo4UmtST3pMR1BMaEZ2YjhWamlDLVl3ei1YOUw0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T03:39:21+08:00"
+    },
+    {
+      "title": "Trump says he will sign orders to allow ranchers to protect herds from gray wolves - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXhrY2ozbmJESDk5NTdOcHhuSXY1aDZZcWZTdHAzZDFoc2M1WFl3OEdIR3hzRUlVSEpTMm5wNkp2MGI3N1dMQ0tDcEp0ZmJuOEVmcHRvcVEza0V1MlhCR3JCQkRhUnMwZHBxM3JYTFdza1dwU2tSczM2bS1pYzZGenFhRDVldE5GNVBuMnhWT1UyYldQeng1SWN6dUhYcFBNbWUxUGxZZ0VFQ3BaQ2NERHRR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T03:32:03+08:00"
+    },
     {
       "title": "Lindsay Clancy Trial Live Updates: Judge Declares Mistrial in Triple-Murder Case - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
@@ -77,16 +95,16 @@
       "time": "2026-09-05T02:23:00+08:00"
     },
     {
-      "title": "Inside the fight against mosquitoes spreading dengue fever in Florida - Tampa Bay Times",
+      "title": "Maria Bartiromo’s lawyer says she was not fired from Fox News - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ0ZMZ18tM3BiRzU5aUoybWs4aEtGbVptMkFlOElGdS1XRlFWRGJIMTc0RGNQV1FIUDNQNWE0TUtKMTc4OGc4WXB3dy11RWN6bnE1UFNrbzF5RUZpQjJfZ2l5S1lNbE0xNFEwYXFqaGcxdm9IbjliWU0zSC1TTm9iZWNmUFo0cWhRRXdLRVZsYXF4MlFkNHdxVjk5ckhNZGItMEkw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T02:21:35+08:00"
+    },
+    {
+      "title": "Inside the fight against mosquitoes spreading dengue fever in Florida - tampabay.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnZ6T3VkWVRMb0FHdTZfQ0Z6bTBWMnNqRHJEeVlabnppNlM3UEZ0RUJ6TTBFWTBkZUxjeGZFZ1JnQ29EeG9sbFZqUWRsRFlDWU9RZzBZbGJuajAwVDVFdGd6cXdvVzdheEI4YVJIVVJuMzBuUnN3NUJtR3dhY2ZPOHBFUU1wdDVvV0R1ZFVtWFpRaGRWNkwyd2NIOEl3OXFyMnA0TmhqWHZVSVE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T02:17:52+08:00"
-    },
-    {
-      "title": "Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEVicmpWNTBDUVpfTGN4dXhleDJyWklRWngwTlZycFgzTzFPSzBNakp6Z1FQakZBZzJhMklVbWZhVTUxcjNtcGxadzhRY1JSZ3ZGM2VIUG4yWlZTeDlHZUc1VEhJY05mRUxKMjdtWTJVSmlUUk1naHhna3FVU1NOb2ZhTjRDUDhza0lxUDZfQkszcE1G?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T02:17:29+08:00"
     },
     {
       "title": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact - CBS News",
@@ -99,24 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGFNOFp5MDZNaWQtbFVmQkg3MjdwZ1BlcTJfd1B0ZEQ1eTY2eUlTOFdrTTJOMGREVnNmcDZfREdLaVk3WXhvVmVzWGRhSFNHQ1dybVE3QTc4V2Zac1lwRlEzYUNPbFJDMXA0RDBGcWU4VFd5RjRjMFFadnNhM2NGcURTWHZ3RGVzQWJNd1BfTkxuUUdMb2hSSnpnakJfMGJtZndqakhIZVdZV0RQZy00XzJ6NUw5eDIxOENmdklEM2g2cUMzTnVHZlRESQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T01:43:33+08:00"
-    },
-    {
-      "title": "Jayden Daniels: I can’t live off what I did in 2024 - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGd2MkVlb3dEdG5VTXdwUV96STZnWHlaUGpna2NweW1qNGIzVC1MbGFMN1lGREVvWWR2LVhidzJfTVRGY1NtQ1BKazBZSGVuX2g0azVDQ2NOWGo4T3lXdC1qZ3Q3MUJKWWF4VjJYcG9jeTI0a18tSnNlaTh6LTRDbmlKUEZucE5WeDJiQk45ZG55TnFDMGlUdEhyRUNCWmlXSFBhcENEU0t0WkNPc0tERQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T01:42:02+08:00"
-    },
-    {
-      "title": "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - Missouri Independent",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZOeFh2VVYtYllOT25KN2RhNDA5YzVtdFdOdU5vNy1OSnlfX0M1bWVMRDJodDBZOGgwZmxfREVjQ1VSR09hQ3VSUFMxZzZsN0p1WjM0TTF5RUotRGNmLU1IVW9tbTdaV2twVHFJZWhTYk0tdUpGNFhIbkpBLXYxRW00OUtZWFZVXzh5d2M0Wk5uMEdxMURQX1RuTk1XWjdtWklhd0VsVmpMMV9jRmxFalpmMk80cU0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T01:41:49+08:00"
-    },
-    {
-      "title": "UN votes to adopt new world map to reflect Africa's true size",
-      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-05T01:26:40+08:00"
     },
     {
       "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
@@ -137,7 +137,7 @@
       "time": "2026-09-05T01:12:00+08:00"
     },
     {
-      "title": "Alcohol-related cancer deaths in US have more than doubled over three decades - The Guardian",
+      "title": "Alcohol-related cancer deaths in US have more than doubled over three decades - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2hHOGlfdHEtV3czOFNaazlQNk9VSzJoc3lmb2NxR1hoOWMzT0RjX0NTdHFTQU9MVlFoT1Qxd0tMVDhxWFo3SnY3b1NzT2ZvTGRBd3JoSjBNQ3BkemxpZ216U1BTLWxvai1jUk54SHJoMDVPNEV5d0ZTMWNoVEtFSW94QQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T01:12:00+08:00"
@@ -155,22 +155,22 @@
       "time": "2026-09-05T00:30:50+08:00"
     },
     {
+      "title": "Pablo Torre’s Dodgers bombshell reveals real threat to every American - SB Nation",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObkYxTGZUdDR5Tl96TGJoWmxMOG1xSTJpVjhIT1Q0SWZtbmVRTGlqVXZJa2JLbGZFc1JUcEMyVFl3aktmc3k4Q2N0SnhrQ1NQRl82WVIzNngyenRLVXBiT3hwNjBja2ZCQlVlRnVXR3U4ZDJaQ0ZTMVBwZ05mc0RDclI5Z1ZFaVFSd1NQVFVxNzVpTHF3R2xtVV9ibkVvZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T00:30:25+08:00"
+    },
+    {
+      "title": "Vance says Trump, US military have prevented ‘energy crisis’ during Iran war - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbGFIVGlBaUNiekdjQ3dleWxrQUNJcHBWSklSRHR2bWk3VUswUmZnOHpELWhlbEplRVVOWHZHREJMQ0x4LWVkdDl5eVEtMnpHOUFSYmxRYy1LcVpnTUJBZk1NM1V3S3Z2eTgxYnRKMkVCUTNZUzRsOXQ1LTRvc3dvcGNNSnNHVE5QYVc0VTNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T00:27:35+08:00"
+    },
+    {
       "title": "Second complete map of a fruit fly brain completed - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMExXSUVqa0w4a3FxdW02UlBEeVRrRnJweXlqdG8xdDROeWV3eUtnREsxZXR2bXhENWtGTDVXYlk2cXJTWUdXeWt0Q092d1c4bVNJaGM0MEd1dzdESlBoVC0zX3ZVYnNuS2VRNU5wT0VuN1ozTk83cmxzeEY2a24xVXNuMjVnOGdFTmUzTGJGenQ5M2tjRmgxNF9XWWpJZ3ZMakN0aGRvOUFTRUx4UTMtUFZCQjE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T00:24:24+08:00"
-    },
-    {
-      "title": "The MacRumors Show: iPhone 18 Pro Event Expectations - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOakw2cmtPSmxZRUV2MmV6anl3V0xwOWJpYVV2b2dmenVaR0NhRHkxTHRuZE1IWl9EZS10d25JVXhTaHBRaGZNd2thMHFWbllibGdCUmItUE50VndIcHZtdTluUHlON1dSX3lpTEd1eHdmcDNpLXVNSzB2dzZrdjdiMk5LWGtobk5FNkJzMWFrYV9ZYkk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T00:13:11+08:00"
-    },
-    {
-      "title": "Second baby died of measles, Lancaster County coroner says - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZTRxSVVwSXBvalVZb0lZdXdSbHlwYldFa29JcTMxd2JaLXNWbGlMMmxHcy1zbHBUVVdmT0VDTFUxZlJaeWtITlRJTWNienZFenhPdV9qeElhNHhaa0E3UWt4RVVreTM2b0pDZzdpVTVPTldITkloTGJUc2NYZEh0N01LVnI3QkJjbUFRRU5pSmZMbXZt?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T00:09:00+08:00"
     }
   ]
 }
