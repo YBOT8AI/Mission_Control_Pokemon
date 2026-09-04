@@ -1,62 +1,68 @@
 {
-  "generatedAt": "2026-09-05T01:54:45.643626+08:00",
+  "generatedAt": "2026-09-05T02:25:50.927384+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622629.28,
-      "changePct": -2.0
+      "priceHkd": 623946.4,
+      "changePct": -1.84
     },
     "ETH": {
-      "priceHkd": 19157.67,
-      "changePct": -2.28
+      "priceHkd": 19199.45,
+      "changePct": -2.22
     },
     "SOL": {
-      "priceHkd": 792.94,
-      "changePct": -3.75
+      "priceHkd": 795.21,
+      "changePct": -3.22
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5544.79,
-      "changePct": -0.49
+      "priceHkd": 5548.52,
+      "changePct": -0.42
     },
     "SPX": {
-      "priceHkd": 60437.54,
-      "changePct": -0.5
+      "priceHkd": 60479.8,
+      "changePct": -0.43
     },
     "SPCX": {
-      "priceHkd": 1162.44,
-      "changePct": -0.98
+      "priceHkd": 1163.97,
+      "changePct": -0.85
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1114.52,
-      "priceUsdOz": 4421.6
+      "priceHkdPerGram": 1115.57,
+      "priceUsdOz": 4425.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.65,
-      "priceUsdOz": 66.04
+      "priceHkdPerGram": 16.67,
+      "priceUsdOz": 66.11
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 712.66,
-      "changePct": -0.44
+      "priceHkd": 713.99,
+      "changePct": -0.25
     },
     "Natural Gas": {
-      "priceHkd": 23.2,
-      "changePct": 1.58
+      "priceHkd": 23.32,
+      "changePct": 2.09
     }
   },
   "news": [
     {
-      "title": "Lindsay Clancy Trial Live Updates: After Judge States Intent to Declare Mistrial, Defense Mounts Final Appeal - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "title": "Trump to use Qatari plane for international trip despite security worries - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWZXZ0x5ZlQ3dzNhVjROLWV2UWdMQXB2bHRjX0hyZ2x3R2lWUmxsUHRRRVJxd1YxTDBEczN4dzY2MnA2c1ZTeUlKMHhFNTZWeTd0RnBmUmhqRlJJX2ZSMlJEeG9rOEMwQ2tvaVdpMnBSWmFvQ1FXenhfQ0FweTRZRzNNd0JlY0VyNHZFYThpLU5PbzFOdzNZMi1PZW1RQnh0QWdSQlN3LWpsY3hwNTVhZGJUZ2U5MS1nbUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T01:49:46+08:00"
+      "time": "2026-09-05T02:01:51+08:00"
+    },
+    {
+      "title": "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - missouriindependent.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZOeFh2VVYtYllOT25KN2RhNDA5YzVtdFdOdU5vNy1OSnlfX0M1bWVMRDJodDBZOGgwZmxfREVjQ1VSR09hQ3VSUFMxZzZsN0p1WjM0TTF5RUotRGNmLU1IVW9tbTdaV2twVHFJZWhTYk0tdUpGNFhIbkpBLXYxRW00OUtZWFZVXzh5d2M0Wk5uMEdxMURQX1RuTk1XWjdtWklhd0VsVmpMMV9jRmxFalpmMk80cU0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:41:49+08:00"
     },
     {
       "title": "UN votes to adopt new world map to reflect Africa's true size",
@@ -77,10 +83,34 @@
       "time": "2026-09-05T01:14:21+08:00"
     },
     {
-      "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
+      "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T01:12:33+08:00"
+    },
+    {
+      "title": "Alcohol-related cancer deaths in US have more than doubled over three decades - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb2hHOGlfdHEtV3czOFNaazlQNk9VSzJoc3lmb2NxR1hoOWMzT0RjX0NTdHFTQU9MVlFoT1Qxd0tMVDhxWFo3SnY3b1NzT2ZvTGRBd3JoSjBNQ3BkemxpZ216U1BTLWxvai1jUk54SHJoMDVPNEV5d0ZTMWNoVEtFSW94QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:12:00+08:00"
+    },
+    {
+      "title": "Live updates: Judge in Lindsay Clancy trial says he intends to declare mistrial - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:10:00+08:00"
+    },
+    {
+      "title": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29VQllNaTNMRF9GdDY1LVM3VzZGNS1wLWlCRDJseU1oRHVSdTdBM1FMUHFnSnlxLWZIS1BvaEM3VjNlYzZIcDdDMDY3eS0wMFYtZU1jMXNpUzFLZWlob2wxTmlDbXBRdEMxNUVkSVFpTG9La3RxSUpQWUpTc0RUMTYyTjU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:08:30+08:00"
+    },
+    {
+      "title": "ICE Agent Charged With Six Counts of Lying About Minnesota Shooting - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1R3YXRfNkZkM0ZuLWJLQlhiamMzWmtTd05za2o1eVEtOUNxX3VkcGV4a2ZWS1ZGcU1mS2U4cGcyWlNjVUs5QWpqVWYzSTFjTURWMTB2eENSSDNPYlZ4WjBOeV9Tdk16WjRIS1pVNkx0QjlUSnNrcFczN1FjbmVUUzk3Mnk5dUgtRmxxYWVueU1aTHhrazhWTVVoTXA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T00:50:10+08:00"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -89,7 +119,7 @@
       "time": "2026-09-05T00:49:15+08:00"
     },
     {
-      "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters",
+      "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T00:35:54+08:00"
@@ -119,22 +149,16 @@
       "time": "2026-09-05T00:02:32+08:00"
     },
     {
-      "title": "3 hurricanes in the Pacific show the power of El Niño - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeGRVN0l6TUZKd2NPMTFDMVJYd0Z5LWhCUG84TUE4UFRJTGdXaHdRY3ZNUHB3ZFZEUnZvVld6bGlwWnpsZkE4MEZENWM5WHRvRnJmaVl5SHNKWXpzSW80bGhDeTBXbE5sb1NLaHZPNlRIY1hKdlcwMElOS3hjVTl5aVduSGJRem5OcUYxX2JraldVS0IzQWJRRzFCNlFPZElLTE55TFhhZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:56:21+08:00"
-    },
-    {
-      "title": "Missouri Supreme Court makes ruling on redistricting referendum: Map must go on ballot - kmbc.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXB2aXQ0QjlkSmhoUFo4Q0FTaV9SeHB6aGZKUEpiS09yX2g5dEJFOE1DQms0UnJtVEIxcTlPYTRBYzZpTU1LZnNiWkpiam1JdnhsWUtMSmtGcHd4Tjl3bFI1SU16aHZHMlgzSTZneHF2WU9mZGZzZFVwbGtINzVOQUZ5NEVkWmxkbjRQOUxhX0U1UmNaWWlfWE03WGE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:52:00+08:00"
-    },
-    {
       "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnh4YV9ZeGs5SUhNZlVCUHlZVktOWjRiYTZLRGJhNFVkZlc2QUMtMmNRaXo4MTloc3ZYNThwX0VLclZQOE90eWpVLU5hVXZEdm9JYmxyakZ0TkVxUkI1SGktd2tBMjRFSjFYUUZodVBjUEw1U2pCc0twQ2JBaHc4cEpXNl9uVXFrVUhhVlpCWFNvRjkzMmtPQWRqYXFxSFdQcE1seTNSTDByVHNpQWc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T23:48:00+08:00"
+    },
+    {
+      "title": "Miley, Beyoncé, ADÉLA & More: New Music Friday Guide - Billboard",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc2XzJ1UTdjNE9LdWZnRGQ5OVQ5WVY0dkdFd210aFdTeHJvY3haTnlGYlZuWC0wdDJ0X0o1V01iVUEyY0paaHkwbzc2aHg5V1kxc01oalJiUmdiRC1veTJ5NXdRZ0p0SjljM3NzUXFIRzFnQUdMcHVPMnJFejR0Q3FlY1JCUGlra0ZxMzMzaDVncUtTNEY3X1pkRTB3UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T23:40:11+08:00"
     },
     {
       "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times",
@@ -147,30 +171,6 @@
       "link": "https://www.bbc.co.uk/videos/cj9x1kejd4lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-04T23:26:09+08:00"
-    },
-    {
-      "title": "ICE officer lied about shovel and broom attack before Minnesota shooting, Justice Department alleges - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU2lMZm5uVndPZHpxOURLNFNaRjBGOWx1YjRYM1JHand0NDNaUHZsZ1JWcFhoTDc2OVJfb28ydzdkcW5OdjhsZGJpVnNUci1qbjl0aEVyZTl6NWg5T1YzcDE5dzh5eE96WW93bmduR2h3OHh3U3lHOXlIM1BKYkxmN3U2ci1fek0zQTFuR2trVHUtZ2tNRF9QelJPaWJSdlZZSWVoUWJrZkd1Q0x5WDF1TU1rWTU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:20:00+08:00"
-    },
-    {
-      "title": "Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:14:00+08:00"
-    },
-    {
-      "title": "‘Harry Potter’ Finds Its New Ginny Weasley, Casts Tom Riddle & Dobby Roles In HBO Series Season 2 - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanRlV0lnM0laUnd2UnkxY25DbEhYWXZQQWdiQjdKRDF0VGxKMHYyU0FtLXcyWXJELUlpZ0lLLURIOTBoWkhBbUtpMndldlFSVnd5RnhKbms0ZTY2dVRIYk5uaVF5MDBZWXNhNXdjU1hDcE5oQkdyRUZNWml1N1BHdnNVQmprcVhFTzU4NG9uZS02NjNtMGdQbkkyYThmX3dU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:00:00+08:00"
-    },
-    {
-      "title": "North Carolina becomes first state to send out mail-in ballots for US midterms - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHV5S3JLM2JfczI2LTBKeWlwU1hlMVc2SWhYelJSNjNSSXhQUlRJM3d6Z29DNUkxUVZmSEFvWDZtZ0pSdi0yeWhZd2J3MnRHaTY0cTZ0UFk3dDRkU2pENnBvaG1lUkRXRUVmSzFrS3ZqX0c1MlRhYl91WHQzNzNONWVpUWwzRVh4dnNJbmFGTG0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T22:58:00+08:00"
     }
   ]
 }
