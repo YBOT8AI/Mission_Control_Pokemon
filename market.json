@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T09:20:10.754520+08:00",
+  "generatedAt": "2026-09-04T09:51:14.025109+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 634702.88,
-      "changePct": 4.71
+      "priceHkd": 634005.12,
+      "changePct": 4.64
     },
     "ETH": {
-      "priceHkd": 19653.63,
-      "changePct": 5.02
+      "priceHkd": 19613.25,
+      "changePct": 4.9
     },
     "SOL": {
-      "priceHkd": 813.01,
-      "changePct": 3.45
+      "priceHkd": 811.52,
+      "changePct": 3.55
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1129.06,
-      "priceUsdOz": 4479.3
+      "priceHkdPerGram": 1126.64,
+      "priceUsdOz": 4469.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.88,
-      "priceUsdOz": 66.96
+      "priceHkdPerGram": 16.84,
+      "priceUsdOz": 66.83
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 719.32,
-      "changePct": 0.81
+      "priceHkd": 721.2,
+      "changePct": 1.08
     },
     "Natural Gas": {
-      "priceHkd": 22.91,
-      "changePct": -1.15
+      "priceHkd": 22.93,
+      "changePct": -1.05
     }
   },
   "news": [
     {
+      "title": "Louisiana judge rules against NCAA, clearing path for ex-NFL players to join LSU roster - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWmNsSWYxZ1BoMl9meVY5ZXpmY2djZnZzQkFoTThIX19ySGkyMGFtMWM5OG1mcGlVZ3lwTFV2ZjZJSUhTYVg5LTA3bU04QXV0ai1ZejBkM1k5eDQ4SnlncC04dUtqaWRyNEZNUDRSb3hmblV5TE9nNEwwU2Y1QUtfNXdwZnJHU1c5UFloNS1DMkdTRndkSHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T09:31:00+08:00"
+    },
+    {
+      "title": "ICE agent charged with lying about shooting Venezuelan man during crackdown",
+      "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T09:26:23+08:00"
+    },
+    {
       "title": "Volkswagen board approves plan to cut another 50,000 jobs",
       "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-04T09:04:24+08:00"
+      "time": "2026-09-04T09:20:32+08:00"
+    },
+    {
+      "title": "Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VnljRFBtaVhWUWVYNHhFQzJMLUJjN3h2cTd1Sm1SaUZtck9lNEdRMmIzRTFBNjZLZkZXam9GdU1taHhFNFEwR3hXUG00Z2ZmTE1Sdi1HVUZWZFhYTmFkZ0pNcEp4UjJ3cnEtem5uUnk1dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T09:10:00+08:00"
+    },
+    {
+      "title": "JD Vance reacts to airstrike that killed four at Iran wedding: ‘Things happen’ - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEtsaDRkWklOSkM5bFdVWFVTdTVMTE5aeVlDYk4tbk16ZG42STU3UU8zc0tRbzM1UWNQbWRoMTMtZ1hqdjNNTUoxbmhTR2RNOVgzaUppUUluNkRUb21WQTdmeDdUdGwwQ0ludExNbjg2aTVwaUpuZDZiTVZ1ZGlMTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T08:36:00+08:00"
     },
     {
       "title": "ICE officer who shot immigrant in Minnesota in federal custody on charges of lying to investigators, source says - CBS News",
@@ -65,10 +89,10 @@
       "time": "2026-09-04T08:30:24+08:00"
     },
     {
-      "title": "Live updates: Tensions flare in Lindsay Clancy courtroom over holdout juror - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1VnljRFBtaVhWUWVYNHhFQzJMLUJjN3h2cTd1Sm1SaUZtck9lNEdRMmIzRTFBNjZLZkZXam9GdU1taHhFNFEwR3hXUG00Z2ZmTE1Sdi1HVUZWZFhYTmFkZ0pNcEp4UjJ3cnEtem5uUnk1dw?oc=5",
+      "title": "UNC investigation turns attention to Steve Belichick, others - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZnU1SGlSX0RMakEyMURZLV9vNTU4aU9icnBGbGNVMS1WVmd3N01ESWpIdzBlT0tJSkEzSlpoZV9Mb2x0UHdlX0oxTEtuX3gzYjN0V2JNYW1YUncxdjZnd0dHTk5KXzdPaktZODZHdDlSRmZhVzluczltaFRyRVRNVmNGTllWWVhaeEViRmFzUjRaa2paOG1TdHdfdG1hOFRVbFB1dm1mSmMzSnQ4aFBlZ0lfM2U?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T08:25:00+08:00"
+      "time": "2026-09-04T08:29:39+08:00"
     },
     {
       "title": "New details emerge in suspension of ‘Wheel of Fortune’ announcer - KTLA",
@@ -81,12 +105,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU082eGw2eG9WWVpVZkUydVBGOU1nQjBRNXFfNF9PU2cxRWg5ODduTF9lc2RHUV9pQTdadG5Ga084bmxKZUttSDRoYXpzNjZ3V1pIMW1tQjFZaWM3LVE2c1BlWkN6b3lFTFlVTFhZY3RzQUl3d3NtcnlsT2tuQktqNTctczJrREp0aVdROGZKeVRFcEpwbnNvNFVyN3dCLTlxSGhtM2dGU3JKZGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T07:54:35+08:00"
-    },
-    {
-      "title": "Trump to Break Ground on Arch Before Getting Approval - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX1pEclpwLS1kNTR0cmxYVElYNHg1R0tnV0ZIS2swQ193U21pRk5kR3ZuZnB5SFFvaTV0dzVSV05rbFNFOUNZc2pKYzBsTm54aHdpNXdTdkFtMkxwSmh0YWEwSU81ZlA2YVNieHBYQ3pMYXl1SHY5RWc1WW8ybjQ1VmFNREFRbXpieHVPZXd5RVg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T07:44:25+08:00"
     },
     {
       "title": "'I lost my savings after a job interview scam'",
@@ -107,7 +125,7 @@
       "time": "2026-09-04T07:32:21+08:00"
     },
     {
-      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - nbcnews.com",
+      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - NBC News",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlZ1c3ljMHdkLUxtLXo4RG5tTkU5VFNHRFdkMGRuak5nY3hQNXVpSk9jLXptdEJWZzBaaElSWko0N1ZqZUJXTUNUbHI4UktvX2lnTnFLQjFvdjNaYk1zdEF5VXdHVGFaZUQyU3J2MUxUWVJhRzlHelVDYVNJSlU3cGxOTnQ0MmdKdW5LbUI0T2Uwd3dzdVZMczZUUHRJUHpqWmFCZG5HZ1g3ejRGTzBjX1oxTXlZczlHT3B0UEZObVpNeGdsblM4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T07:26:45+08:00"
@@ -119,22 +137,16 @@
       "time": "2026-09-04T07:25:45+08:00"
     },
     {
-      "title": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T07:19:31+08:00"
-    },
-    {
       "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
       "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-04T07:00:15+08:00"
     },
     {
-      "title": "SEC sues LSU as Greg Sankey and former NFL athletes seeking eligibility make their cases in court - NOLA.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3dWbXktM1FqRmdHYXFuc09IVlBXMzE5VkUtWlBtdGxCeXAwXzVNZ0hVTHJsQ2lVdEQ5YWRSN1ZrbDlCemliR25BdzBSWHZvdE9NUVZUY1ZMLU1Jbk1HcUJsclVLTmZIZXZVV3dseXluYjVxLWNVa1hmWElXQ01fV1ZQWk1PUG5mOWdEUGdwWHViaS1Sa2hjN1NVaWVqN3lpSFNSMVJZM0FDVEhhTHJuYVAyQlBCT3c3T1k4WUpKVERKdlgxVG1OVjRB?oc=5",
+      "title": "Iran attacks Kuwait with missiles and drones after US strikes - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3JKaGh4eWVCeWFMcUVYaEUzUUhrMG05Q3gtREsydnc2ajZoY2Z2LXkwSWFCZmlTMVZWaUVRV3FxeUJkREN5bGR0QzRFb25jMVdWMXBnMkVqODYzdzQtRTBXT0s0S0tPMUxkc3hDZWVSN3JJdTROejZ1b0NHUHB5WE1LcXVrZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T06:49:00+08:00"
+      "time": "2026-09-04T06:44:20+08:00"
     },
     {
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
@@ -149,7 +161,7 @@
       "time": "2026-09-04T06:31:23+08:00"
     },
     {
-      "title": "Gloria Steinem, defining symbol of women’s movement and eloquent advocate for equality, dies at 92 - apnews.com",
+      "title": "Gloria Steinem, defining symbol of women’s movement and eloquent advocate for equality, dies at 92 - AP News",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdHVwc0tqcEpmS0RrZjRoNTZ0M1NKdF8tb1Q2TjFUT1hrbHR6MGVfWVgwXzBSUFlpSkNDQ094MlEzdVNUYVNEN0dCT0VwYng5bG9RVU1mLVVUSWhBSzdNZW8tTDUxcXpxMUgyMngwemxoSVd1ckVFWnpHVkNvYmlaanVpbTFLdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T06:30:00+08:00"
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSktMTEFzVUpJM09CZGMxcnEtMVJHTElxMllESE9QbHdMbjl4MmQ2TjJvSjRXY1Q3RUVmNGMxQ2xIMTVtOWhnVHYyWGluNmNDektRcVloUmZfTmdWMDJyMFRrTjZHYzl6aUYyd1JYM3hQenBmeFJ1N3FleW01SF9HeFVSZ3oxMlBsS3BrcHZiblZBWTNSWDQyMzdSWGMwMnJ3NnNTbG14R3FTb1BUdGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T06:24:47+08:00"
-    },
-    {
-      "title": "US investigating if missile hit Iran wedding, Vance says",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T06:19:59+08:00"
-    },
-    {
-      "title": "Tesla is asking people if they want to buy and run Cybercab fleets - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkFBMHlfb2lidkZzaGZLYjhCOXRiZXA2YVZGV1drbVdJaHBsX3ZMV0dIWVlWTDlTcmZKeHplQXBZcm9ER21LUFB6SUg3aThCMEdhZC1IUi1WdVo5QzN5Q29WVS1RSmZmNUhZYksxUjdTUk45T0RGU2FGSFRDbVl2SUtGZ3JMYmotXzVBOGpidlJGTDN5UWlaQ1NxTU92ODdvbDE4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T06:18:30+08:00"
     }
   ]
 }
