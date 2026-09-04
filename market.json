@@ -1,62 +1,92 @@
 {
-  "generatedAt": "2026-09-04T22:17:14.315560+08:00",
+  "generatedAt": "2026-09-04T22:48:16.086980+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622543.04,
-      "changePct": 0.51
+      "priceHkd": 620300.8,
+      "changePct": -1.04
     },
     "ETH": {
-      "priceHkd": 19235.2,
-      "changePct": 0.6
+      "priceHkd": 19181.42,
+      "changePct": -0.73
     },
     "SOL": {
-      "priceHkd": 794.82,
-      "changePct": -0.41
+      "priceHkd": 791.13,
+      "changePct": -2.03
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5559.03,
-      "changePct": -0.23
+      "priceHkd": 5550.41,
+      "changePct": -0.39
     },
     "SPX": {
-      "priceHkd": 60595.83,
-      "changePct": -0.24
+      "priceHkd": 60506.14,
+      "changePct": -0.39
     },
     "SPCX": {
-      "priceHkd": 1175.29,
-      "changePct": 0.11
+      "priceHkd": 1171.1,
+      "changePct": -0.24
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.89,
-      "priceUsdOz": 4435.0
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.71,
-      "priceUsdOz": 66.31
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 698.94,
-      "changePct": -2.35
+      "priceHkd": 705.44,
+      "changePct": -1.45
     },
     "Natural Gas": {
-      "priceHkd": 23.15,
-      "changePct": 1.37
+      "priceHkd": 23.36,
+      "changePct": 2.27
     }
   },
   "news": [
     {
+      "title": "'A rare moment of joy': Nepal tunnel rescues give hope for more flood survivors",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T22:40:00+08:00"
+    },
+    {
       "title": "Surprisingly strong US jobs figures fuel rate rise bets",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-04T21:39:33+08:00"
+      "time": "2026-09-04T22:38:19+08:00"
+    },
+    {
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T22:27:10+08:00"
+    },
+    {
+      "title": "Firmus Energy customers face price increase",
+      "link": "https://www.bbc.co.uk/news/articles/cqlw6g2x1lko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T22:27:02+08:00"
+    },
+    {
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T22:17:35+08:00"
+    },
+    {
+      "title": "Trump officials say work will start on triumphal arch within two weeks - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZTRCMzBnMVlWYjlqZ0Q4alRRNmgtUXRBay1GdDQtdUs3Y2ZrTV9KNHZqYlQ2U1VwaXhBN1BFQm52cEZHQU8ycXVpNFY4UzJlcFUtZXA2d1M2ZERBY3BJajRWb1JSWW1waWpVM2pkcmlxNjhNWHdGR3puZ25jdXdwRl9jNG1uMmswNXBsT1VUM2ppczR4U1Y2ZlhyVkltZWJWN0tMeHFkdUVDRzg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T21:40:29+08:00"
     },
     {
       "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
@@ -65,10 +95,22 @@
       "time": "2026-09-04T21:33:00+08:00"
     },
     {
+      "title": "ICE officer charged with lying about shooting turns himself in: Reports - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXBBdU1WOS1EaDZSTV9BeXNnalhJSWxZTVhXYTZrRlIxNnY3RWZQZ3BrZThFUXhUSU9rUWVpU1dzdlpxN2RXSXo1a3o2YW80YTFMOFktbFFpNWswQUd1Y0E5blNpNlJVWGpRY016OWFpU1MxMndUWHhVSEtTTDJVZzBxb1BLRl9LS2Fra1hCZHJhVTlrcnfSAZsBQVVfeXFMTlNVa0xfc3hZUW5XYWc3TVBkQUV2QXotLUFYMlByM2JNNnd2czVrVVRmRU5vbnNnQkNjNEZKeGpuR1JLZjA1bnNoQ2V3WUxZUGtzeldORW85eHNzOTVoMzc4azlwS0h0QTJWN0puaXAyZ0wtRWtyTUEyb21Xcy12aXA0d2RaMjNSc094WEN6ZEtsYjFld1FBd0FhM28?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T21:25:00+08:00"
+    },
+    {
       "title": "Lindsay Clancy Trial Live Updates: Holdout Juror Draws Scrutiny as Deadlock Drags On - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T21:20:39+08:00"
+    },
+    {
+      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T21:19:46+08:00"
     },
     {
       "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern - Al Jazeera",
@@ -83,16 +125,16 @@
       "time": "2026-09-04T21:05:52+08:00"
     },
     {
-      "title": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVYxRG1KUVRvWUlsRWRpeFdPVWU3YjdHcVZnMG44bGZ3XzNMRDhYZE5lSElmcnN1ekNVQkRRVUpTU1FHRTE2bENIcjlnVDhqMEtyMXZmdmc0Y01JdGxOVXo4MWdfNWc2eVZkRHd4VXQzTm5xalJheWtJU3JfZE9RUWczUDFUVEdjV2pz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T21:01:00+08:00"
-    },
-    {
       "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
       "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T21:00:44+08:00"
+    },
+    {
+      "title": "Hiring blew past expectations in August, jobs report shows - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW0yVzJpZHZWUFV0M0ZicHVGTUllMkhqQlI1WDJULUxZUFYtUUlJVVlWUFRjeTQwb05jTXNRdGw0MjA1bmpvOFdtWHFVcmFQM1V4eW1NODZFaXJZcElDb0RCa2R2YUxISTg4ZENRMEU5dHhqbFE1T2gtdVpRSDdOT3g1Yy1yRUlsY1pXVWtCNnFyZGw2NTJGa2tKcFpvdkpz0gGmAUFVX3lxTE92ZWtqQlhGWk5TQkVwUndPTkNlanQxM1ZYZVhyb1gxOHpzdXh0WW9JU1J3dDlxX1o3T3dvYUVveTI3NkVSSWtjcVlUcjQ4d3dIRS1nQjU4bjBRRHo3MVVfR1pBaDNQNENrZDQ5YjdjdHB2eUwyNC1RU0ZWQ1AwT0h5M2JzekFZRFdsUWF1V3lXRnYtbnZDZE10V0hGeG9DMjRSdHR3Nnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T21:00:36+08:00"
     },
     {
       "title": "Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN",
@@ -113,12 +155,6 @@
       "time": "2026-09-04T20:39:05+08:00"
     },
     {
-      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1% - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CWWEzcDI3bDlYbmQwMXd3dXdEWFRfeFl1RnpKamFQcXk4cFZpeHk3b29CSENaam5iaWFUb3podkRBY1MySFVPdWhiR2tqMVNtODFOUXptNjVTR2xyaG4xUml3TDdyX0NmWWI5Y9IBckFVX3lxTFBEV2xVamRtYmZwNllaVV92YW5DSlBUbDhJSkJKX1ZKZFlPMXpFOHByaWhNeUs0Q2U4WWM5OVBLMTFMaTdPSGZBeTVESmZkOUh4aFdQWmZNNGpETFh0bVY2dFFsN2oxRnE3dXFVeHhwNnhXUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T20:31:01+08:00"
-    },
-    {
       "title": "All the Weirdest, Wildest Tech We Found at IFA 2026 - CNET",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeVlWU2wzdkM5MHlRbWU3Y1Fab3lLRnYtS0k1ZS1PYkhDTHozV29aWE1obFItTkgySk5ndDhPczAtbWZHQTNndWxPdXhndjRhOWpwTFQ2MXR5UkVPckUxN1VSckY2Z0ExcHFrUXRRLVp2SmNPQ29rejBUb2hzWVhUajF1Zm0?oc=5",
       "source": "Google News Top",
@@ -131,46 +167,10 @@
       "time": "2026-09-04T20:16:42+08:00"
     },
     {
-      "title": "Feds launch investigation into Tesla’s Cybercab deployment - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdXF1NlI4WnJfTGk1NDF5WEdyRVNhVUxCNEprLTdGdldDMzExd3c1WlRSRXdfMnQxamxsRlZvakxtTTExSWlTRmFqZ2N2U09xZ2k1eDBHSnhrd3BRTksteEJCRExCcmk2c1BvSEpVdEFOMzdLcnlpTE56bzY0U09xOU1ER0dfV01jUE1JWjZBdVlTbVpqR3NN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T20:01:14+08:00"
-    },
-    {
       "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T19:54:51+08:00"
-    },
-    {
-      "title": "Xbox caps cloud gaming at 15 hours a month for Game Pass subscribers",
-      "link": "https://www.bbc.co.uk/news/articles/cj06zd4l99lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-04T19:48:24+08:00"
-    },
-    {
-      "title": "Philippines’ Vice President Faces Arrest Over Assassination Threats - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTEJnVWIxYndvMlpBS1FCdnJiWGt2ZnpqVU5oZDZNeXMtOVREZ1d1U0s2dDdzWERNcDRVQmoxSkRSSmNsQ0JaYjNCRExwdWxBakxmZndMeVVvQ0EyMkFSUUJuX182ekhCOWI5Rm9xVkpBRjNCWjJhRFVJakswQi1ycjNteGY5UDJWWjRWRjVhZExzLW1k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T19:23:58+08:00"
-    },
-    {
-      "title": "Everything Alix Earle Says About ‘Toxic’ Alex Cooper in ‘Earle Meets World’ - Vulture",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRmREM3pWRC0zRjRYOVZpaUhlY2k0dGJJQmFMSW1NSURJTEVxNUZxOHFZdEI3cmNFd1MtdGJUenBBS2VBS2w1STJJSGhZaTlkWVV0ZmFlSEpFVzRLSm5rVmpSUDBmQ0Viei0xZzRQbFU2cjVjbWxhMzZWUnFMZTRDQlRvSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T19:00:22+08:00"
-    },
-    {
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3QzQXhKLThEV3RqS2dkWTBmRnV6UExSQ0xYNnJ6TDJTNng5NWRnZDdjX2Rlc0hTbWhfbGhCbE5IOW5rNUl1ZTNUMkxNMVdtZWtDN09YaXAxSmRCWnphMjJUX2lCaGxYNG91dm5vZVlxVWt6c0owUDJ0cl9IdFFZdEpKMHFBeFZ3cjhDbDNyc014TFc2QjBFZG5xRElveTd5OEoxVVJKS1hEakNXVnhoOERfRVhDMVcx?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T19:00:05+08:00"
-    },
-    {
-      "title": "Retired NFL Players Open Up About Concussions: ‘Yeah, I Have CTE. It’s Almost 100% Positive.’ - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15NTZBdFhHanY2cXZwZnRpdlBGQlc1YWNEYkJibElsbWNWc19ac0M1b2FHbV9YYlBjY2lPVkFwN2JOcnY3cnFPTG1jWExpM1lHQ0gtU2pDSV8wRzlSY3d2SFJhZjRsTGFfV2JfenFmUkxvNFBKZmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T19:00:02+08:00"
     }
   ]
 }
