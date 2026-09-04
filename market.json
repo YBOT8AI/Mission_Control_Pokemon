@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-09-05T01:23:42.072317+08:00",
+  "generatedAt": "2026-09-05T01:54:45.643626+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624322.72,
-      "changePct": -1.71
+      "priceHkd": 622629.28,
+      "changePct": -2.0
     },
     "ETH": {
-      "priceHkd": 19217.33,
-      "changePct": -1.87
+      "priceHkd": 19157.67,
+      "changePct": -2.28
     },
     "SOL": {
-      "priceHkd": 796.78,
-      "changePct": -2.9
+      "priceHkd": 792.94,
+      "changePct": -3.75
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5550.56,
-      "changePct": -0.39
+      "priceHkd": 5544.79,
+      "changePct": -0.49
     },
     "SPX": {
-      "priceHkd": 60504.26,
-      "changePct": -0.39
+      "priceHkd": 60437.54,
+      "changePct": -0.5
     },
     "SPCX": {
-      "priceHkd": 1165.02,
-      "changePct": -0.76
+      "priceHkd": 1162.44,
+      "changePct": -0.98
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1118.45,
-      "priceUsdOz": 4437.2
+      "priceHkdPerGram": 1114.52,
+      "priceUsdOz": 4421.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.72,
-      "priceUsdOz": 66.32
+      "priceHkdPerGram": 16.65,
+      "priceUsdOz": 66.04
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 711.79,
-      "changePct": -0.56
+      "priceHkd": 712.66,
+      "changePct": -0.44
     },
     "Natural Gas": {
-      "priceHkd": 23.15,
-      "changePct": 1.37
+      "priceHkd": 23.2,
+      "changePct": 1.58
     }
   },
   "news": [
+    {
+      "title": "Lindsay Clancy Trial Live Updates: After Judge States Intent to Declare Mistrial, Defense Mounts Final Appeal - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:49:46+08:00"
+    },
+    {
+      "title": "UN votes to adopt new world map to reflect Africa's true size",
+      "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-05T01:26:40+08:00"
+    },
     {
       "title": "Trump calls for interest rate cut after jobs figures raise hike bets",
       "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
@@ -65,10 +77,10 @@
       "time": "2026-09-05T01:14:21+08:00"
     },
     {
-      "title": "The U.S. economy added 162,000 jobs in August, beating expectations - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZSSExUMkVpTnFpOER4MTU3Zzh2YXRzUjRkeHh3NXFydXRyQTA3Y0xHUUJWeGNpZ3poOGlNdGhCVlNlUld5NHB0Wm9KWVZKWmdCMklSNUFLbkQ4aGVSUnh1dTZrU2VGTDdoa09ka0Y1X203dXJDamdCT1VOaG9nakxpQXczUk9Ka05XWV82MXozSWdJWi1mTFp3NldxSlN4bC1HbzRWM1JSNlp1?oc=5",
+      "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T01:14:20+08:00"
+      "time": "2026-09-05T01:12:33+08:00"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -77,16 +89,28 @@
       "time": "2026-09-05T00:49:15+08:00"
     },
     {
+      "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T00:35:54+08:00"
+    },
+    {
       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-05T00:30:50+08:00"
     },
     {
-      "title": "Lindsay Clancy Trial Live Updates: After Judge States Intent to Declare a Mistrial, Defense Mounts Final Appeal - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "title": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTB4cXFwcGVMMDdGdWZaNExNcDRBUGVSZURNUHdKcWxIWjNLREUyQlpjaGdQQWZzMGh3cVZxcThKT1JtS0V1SlV5cWxUYU1Ra0I4OUJEYnoxa1RJOFlFWkxsNHpOR2d4R01Mc3prOERtdUx6MzF6RV9jRWEzM0l5Qi1mYkt1SUxULWJF?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T00:07:32+08:00"
+      "time": "2026-09-05T00:30:00+08:00"
+    },
+    {
+      "title": "Second complete map of a fruit fly brain completed - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMExXSUVqa0w4a3FxdW02UlBEeVRrRnJweXlqdG8xdDROeWV3eUtnREsxZXR2bXhENWtGTDVXYlk2cXJTWUdXeWt0Q092d1c4bVNJaGM0MEd1dzdESlBoVC0zX3ZVYnNuS2VRNU5wT0VuN1ozTk83cmxzeEY2a24xVXNuMjVnOGdFTmUzTGJGenQ5M2tjRmgxNF9XWWpJZ3ZMakN0aGRvOUFTRUx4UTMtUFZCQjE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T00:24:24+08:00"
     },
     {
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
@@ -101,22 +125,22 @@
       "time": "2026-09-04T23:56:21+08:00"
     },
     {
-      "title": "Missouri Supreme Court makes ruling on redistricting referendum: Map must go on ballot - KMBC",
+      "title": "Missouri Supreme Court makes ruling on redistricting referendum: Map must go on ballot - kmbc.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXB2aXQ0QjlkSmhoUFo4Q0FTaV9SeHB6aGZKUEpiS09yX2g5dEJFOE1DQms0UnJtVEIxcTlPYTRBYzZpTU1LZnNiWkpiam1JdnhsWUtMSmtGcHd4Tjl3bFI1SU16aHZHMlgzSTZneHF2WU9mZGZzZFVwbGtINzVOQUZ5NEVkWmxkbjRQOUxhX0U1UmNaWWlfWE03WGE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T23:52:00+08:00"
     },
     {
-      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators - nytimes.com",
+      "title": "Leaked iPhone roadmap reveals plans for larger foldable, ‘biggest overhaul,’ more - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnh4YV9ZeGs5SUhNZlVCUHlZVktOWjRiYTZLRGJhNFVkZlc2QUMtMmNRaXo4MTloc3ZYNThwX0VLclZQOE90eWpVLU5hVXZEdm9JYmxyakZ0TkVxUkI1SGktd2tBMjRFSjFYUUZodVBjUEw1U2pCc0twQ2JBaHc4cEpXNl9uVXFrVUhhVlpCWFNvRjkzMmtPQWRqYXFxSFdQcE1seTNSTDByVHNpQWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T23:48:00+08:00"
+    },
+    {
+      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T23:29:53+08:00"
-    },
-    {
-      "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:29:00+08:00"
     },
     {
       "title": "1986: Manchester's second-hand fashion mecca",
@@ -137,40 +161,16 @@
       "time": "2026-09-04T23:14:00+08:00"
     },
     {
-      "title": "The 'American Cheetah' Wasn't a Cheetah. New DNA Evidence Shows Just How Wrong Scientists Had It - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0FWSmxCX29yRVZNR3REVGxIOERRdUZzWlBoM0ppMy1rVTlZUGJLSHY4QkZlaW85aDV6bXdQOXpiTktpM3k2WF9TTGFkWUZvUmU1ZGt5aXd6eFI4cXNCRTRSZG1QWmluQzdGdWw3alpUa0NjbFpWLWh3M29mYUlDYlFuaXdmS1V4VHFhSFhQVGtVYmZOX095V2JGLS1pd3NXYTJJUi0tYS1pcU9nMG45V0VRRTQ1UmtvcWFNVDQ0dmw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:00:16+08:00"
-    },
-    {
       "title": "‘Harry Potter’ Finds Its New Ginny Weasley, Casts Tom Riddle & Dobby Roles In HBO Series Season 2 - Deadline",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQanRlV0lnM0laUnd2UnkxY25DbEhYWXZQQWdiQjdKRDF0VGxKMHYyU0FtLXcyWXJELUlpZ0lLLURIOTBoWkhBbUtpMndldlFSVnd5RnhKbms0ZTY2dVRIYk5uaVF5MDBZWXNhNXdjU1hDcE5oQkdyRUZNWml1N1BHdnNVQmprcVhFTzU4NG9uZS02NjNtMGdQbkkyYThmX3dU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T23:00:00+08:00"
     },
     {
-      "title": "Alcohol-related cancer deaths have doubled, and 1 drink could increase risk - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNG5wS2E0elVGOE5USmhoTF84LTRQa2ZWdXBEaWtFV2M1YUJHeEJQVnVnTDZ6aG5DZVFEdTJUeDJiNGVWbzZ0UWI4VGxYNkt3QWF1TkZqMWh0STFYNm5KYVhhTzQ4ZFNST0djSjB0alVqQlFMR3poMHF2SkhIRWk2aXRpeG5HOVRFVzhTeDU3eG1zWDBPbkNHVkRnRVA5dHl6bnB0WmRiRkVCWTZKZ0lIWkFuZXhOcklzM1FsUllRTzl1Tjg?oc=5",
+      "title": "North Carolina becomes first state to send out mail-in ballots for US midterms - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVHV5S3JLM2JfczI2LTBKeWlwU1hlMVc2SWhYelJSNjNSSXhQUlRJM3d6Z29DNUkxUVZmSEFvWDZtZ0pSdi0yeWhZd2J3MnRHaTY0cTZ0UFk3dDRkU2pENnBvaG1lUkRXRUVmSzFrS3ZqX0c1MlRhYl91WHQzNzNONWVpUWwzRVh4dnNJbmFGTG0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T22:52:00+08:00"
-    },
-    {
-      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T22:40:00+08:00"
-    },
-    {
-      "title": "New iPhone 18 Pro report details flagship camera feature and more - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUJDUlp0MXNNNzRRSEZGNUxnM185VW0wUjZjNVllNndKMEozYmhfQUlqT2hJTjNyQ2FQSklmcmVwRkVWZzZrTGRyWFVwUG42eHFZcWlwZU50RGxUU3hwRnkwV3FUNGtCbWtES3hEVTgxZmhHMVRpQThmOWZzZlVhN3VuSEoydUhtTnRTWEdnYVhrRVlaV3k0SElqbThudw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T22:36:00+08:00"
-    },
-    {
-      "title": "In split vote, NC approves new mail-in ballot guidelines hours before voting begins - Raleigh News & Observer",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPelYzZEI2UFBJaWZ6TU9UcHdxakl5Y2VGaDVwZ3pXRmN6bzBELUc4QTAwS3hDQURYS3lJTWVSUDlYTzAzVUYzck1rM1UyMFhDWUJycnJuUGtZbFRidlhBZlRrdzBUTFc2aW8ySHdBQlVORUlyM1F5anVGRzRWMWluazk3YWxkMmdaZHQtMQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T22:35:00+08:00"
+      "time": "2026-09-04T22:58:00+08:00"
     }
   ]
 }
