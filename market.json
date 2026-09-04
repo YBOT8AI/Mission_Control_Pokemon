@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T12:57:43.200311+08:00",
+  "generatedAt": "2026-09-04T13:28:47.723598+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 635871.04,
-      "changePct": 4.36
+      "priceHkd": 635565.28,
+      "changePct": 5.04
     },
     "ETH": {
-      "priceHkd": 19674.17,
-      "changePct": 4.32
+      "priceHkd": 19716.74,
+      "changePct": 5.56
     },
     "SOL": {
-      "priceHkd": 815.05,
-      "changePct": 3.18
+      "priceHkd": 814.65,
+      "changePct": 4.09
     }
   },
   "stocks": {
@@ -33,36 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1128.1,
-      "priceUsdOz": 4475.5
+      "priceHkdPerGram": 1127.07,
+      "priceUsdOz": 4471.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.86,
-      "priceUsdOz": 66.88
+      "priceHkdPerGram": 16.83,
+      "priceUsdOz": 66.76
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 718.46,
-      "changePct": 0.37
+      "priceHkd": 717.36,
+      "changePct": 0.22
     },
     "Natural Gas": {
-      "priceHkd": 22.92,
-      "changePct": 0.34
+      "priceHkd": 22.9,
+      "changePct": 0.27
     }
   },
   "news": [
     {
-      "title": "Argentina threatens to sanction oil firms as tensions heighten in Falklands dispute with UK",
-      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T12:56:56+08:00"
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "link": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T13:09:02+08:00"
     },
     {
-      "title": "American automakers urge Congress to ban Chinese vehicle sales in the U.S. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTTd5R0FGOXFzYnZVbTFxdGhNSlJoMjdON09wYTdwM1RnVmMtQ0F0UEpfX204ZTQ1aE5PLXdDc0FoNGItMjI0dmVRbTl2c01HSS1qUUZkTDBUbm84V0stWjkwSkU3OHBfMG9IalBVeGhBWS1ZSGRCLW1EekphNWF0dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T12:33:15+08:00"
+      "title": "Argentine leader threatens to sanction oil firms working off Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T13:01:33+08:00"
     },
     {
       "title": "Two people rescued from Nepal hydropower tunnel more than a week after flash flood - BBC",
@@ -77,19 +77,13 @@
       "time": "2026-09-04T12:06:41+08:00"
     },
     {
-      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11ODVGWmVGMG52VG5pOExoTTQtaUR0dmtsUHVNeElUcnFRVWNxMlVjbWhtUmZNOWp0YkYyb1VoX04yQlBfbURzZ1BORXM4SXhSLUVzQm9raHYwUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T12:06:41+08:00"
-    },
-    {
       "title": "Deadly downtown Minneapolis shooting started as a custody exchange — here's what else we know - 5 EYEWITNESS NEWS",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNODhSMDg3UmN4b2stLW8xV2RBR2RiM2FJVU5BRzdlcDAyLTRvdWVqdDc0ZHkxZHk4RGZvbnFCSGJqcEJrVUhyNFBuZ1JoTjhzVHpRV2pSVEJIaHU1cTJfRFNZa05Cd2pibW1HN0syLVlmYmVzZmtleVdjTlpZdmVZQkc3WEtDUGtyZGFTSzRUejJ1SVRDamhhRzNqTkducGVfYnJrNGJkNmZUWnVvcmtUQXZmY0RKSXM0MVU2ZnRBSlR3dzRkNmc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T11:08:54+08:00"
     },
     {
-      "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions - The Washington Post",
+      "title": "Trump administration asks Supreme Court to allow mail-in ballot restrictions - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUHRVZkdQMnZXdFdJaWVUbk9oQ2lUTWVpdjZBcnRHenpKallnR1c1SXhqNzNCdlZYdHIzUzZpQUloR1h4RHBSNUhaZllJLTBLaTA4Mk9jU2dXSGcyN0ZmdHJLUXdWWUJqUVRqWjVtM3FZaU5yQ2o2ak95N0VzbWVhQ1d5R01JUEFXZHpJS1VrLXV3Tl9acHA3LUcxR1F0dm12VTREMTlLSjQ1aElpYWxfV2FTbnBLVTdDXzVhSVFvUmQ5d3M?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T11:04:47+08:00"
@@ -131,6 +125,12 @@
       "time": "2026-09-04T09:49:00+08:00"
     },
     {
+      "title": "UMass Upsets Rutgers as Massive Underdogs, Snaps Longest Losing Streak in CFB, Final Box Score Stats - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQnJMUERlYnF5V1lSOUpCTkw4NnprQ3QxMnBpUG1xSTJBT0RSVExqUjhRMGNueFZaQ2NzbmFlc3lXMGstRnkxMEhnY05oRmM0RXI0WDVaTndyckh0eDFJVlRpOG9YMU5Fd0dVNzNhZDRGYnFuOElfLTVJS0hvYThpTmlfbUhzMnZOeDVzQVdpeHZ3M0dRMGVHUTRTa2I2cTI3YzVjQ1BRUl9URDZlZGZGR3RBVlBObWZnR2N0WFhScHR5X284UHVvQjc2TTRHQnNQZ1hZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T09:37:23+08:00"
+    },
+    {
       "title": "Iran attacks Kuwait with missiles and drones after US strikes - foxnews.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3JKaGh4eWVCeWFMcUVYaEUzUUhrMG05Q3gtREsydnc2ajZoY2Z2LXkwSWFCZmlTMVZWaUVRV3FxeUJkREN5bGR0QzRFb25jMVdWMXBnMkVqODYzdzQtRTBXT0s0S0tPMUxkc3hDZWVSN3JJdTROejZ1b0NHUHB5WE1LcXVrZw?oc=5",
       "source": "Google News Top",
@@ -141,6 +141,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c70dzzkwgg5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T09:26:23+08:00"
+    },
+    {
+      "title": "Big Brother Decides Its First Season 28 Juror In Week 8 Eviction — Did An Icon Get The Boot? - tvline.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzBnVVpFM3RNd21ycTg5ODc0Rjd2SFA1TGF1aURQZ2J4WEg3VVFtRTZGMmtCS096NFZWNUNkNmc4NmI5TV9UYVA3UGxfaE1nN2JabjhnN3BpOUYzY1VPTzFBZ1JoUWticldxYWppeWlxNnRWaDRoM1B2d2xSa0V4SGtIYWMyOXYxMzV6QW85M2FwZEl6M2w4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T09:25:09+08:00"
     },
     {
       "title": "Judge grants injunction allowing LSU to sign former NFL players - NBC Sports",
@@ -159,12 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GTThOUFU0ZnZiVGtORlVFbWNONmJ1UkNYajZMRmM1ZkNrS1BOR3NBb05kaTJ1dHdlU2ExMmhoVmYxOXJfVDdtakRFTjZCbkV0ejFUOHhPNm1qdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T09:20:32+08:00"
-    },
-    {
-      "title": "Steinem’s N.Y.C. Brownstone Will Continue to Be a Sanctuary for Feminism - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVGNYT2NiQ0pidEtiMThTaWRYaEhtNGVHQ055Szk5UlRDcEpCMm9tZXJJd25wYlEyeV9LVVM3SWxMYllNUU5yVnA2OEJUMzdiYWh5YXZFb0RBekI4VklyQTdWWmRFakFFQ05kZVBGR2lPc3hNUVJqLXZEazVuSnpITWJROA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T09:00:06+08:00"
     },
     {
       "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
