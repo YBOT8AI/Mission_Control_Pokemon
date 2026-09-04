@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-04T23:50:26.334072+08:00",
+  "generatedAt": "2026-09-05T00:21:31.441627+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 623029.12,
-      "changePct": -1.6
+      "priceHkd": 623115.36,
+      "changePct": -1.61
     },
     "ETH": {
-      "priceHkd": 19236.38,
-      "changePct": -1.44
+      "priceHkd": 19219.92,
+      "changePct": -1.7
     },
     "SOL": {
-      "priceHkd": 796.0,
-      "changePct": -2.36
+      "priceHkd": 797.25,
+      "changePct": -2.32
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5549.07,
-      "changePct": -0.41
+      "priceHkd": 5557.58,
+      "changePct": -0.26
     },
     "SPX": {
-      "priceHkd": 60491.25,
-      "changePct": -0.41
+      "priceHkd": 60577.33,
+      "changePct": -0.27
     },
     "SPCX": {
-      "priceHkd": 1169.1,
-      "changePct": -0.41
+      "priceHkd": 1163.14,
+      "changePct": -0.92
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1120.39,
-      "priceUsdOz": 4444.9
+      "priceHkdPerGram": 1119.63,
+      "priceUsdOz": 4441.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.4
+      "priceHkdPerGram": 16.71,
+      "priceUsdOz": 66.31
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 711.87,
-      "changePct": -0.55
+      "priceHkd": 712.5,
+      "changePct": -0.46
     },
     "Natural Gas": {
-      "priceHkd": 23.32,
-      "changePct": 2.09
+      "priceHkd": 23.22,
+      "changePct": 1.68
     }
   },
   "news": [
+    {
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-05T00:02:32+08:00"
+    },
+    {
+      "title": "Lindsay Clancy Trial Live Updates: After Judge States Intent to Declare a Mistrial, Defense Mounts Final Appeal - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T23:56:43+08:00"
+    },
+    {
+      "title": "Missouri Supreme Court makes ruling on redistricting referendum: Map must go on ballot - KMBC",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXB2aXQ0QjlkSmhoUFo4Q0FTaV9SeHB6aGZKUEpiS09yX2g5dEJFOE1DQms0UnJtVEIxcTlPYTRBYzZpTU1LZnNiWkpiam1JdnhsWUtMSmtGcHd4Tjl3bFI1SU16aHZHMlgzSTZneHF2WU9mZGZzZFVwbGtINzVOQUZ5NEVkWmxkbjRQOUxhX0U1UmNaWWlfWE03WGE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T23:48:00+08:00"
+    },
     {
       "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
@@ -71,16 +89,16 @@
       "time": "2026-09-04T23:16:35+08:00"
     },
     {
-      "title": "WNBA Commissioner Cathy Engelbert to retire at end of calendar year, ending controversial tenure - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNjgtaW5UaC0zT056TE9PNXI5UmdudnRZemVUcHhvMVFLdl9fNDdiR0xLY0JQMDVaeEljcmZYYXNPdF9GUzBJOV80d0I5T0lMNWI3ZzJPQVJaNEhQQ0ZjeThaZnRxbl95dmV2eFc5cWNMTzg0Mko0VUk0empSaGxMN3NSWF91R2NBRHdmeDdGV2xSU2UyMlRFNDVETXNWMDdBOHdHcFdZVzhKYjc2NWZFbFc1bF9UdGRCSWZrREF4TUFheWc?oc=5",
+      "title": "Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T23:13:08+08:00"
+      "time": "2026-09-04T23:14:00+08:00"
     },
     {
-      "title": "Lindsay Clancy Trial Live Updates: Judge Declines to Remove Holdout Juror - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03SVBfS1Q0RVpKVlgzR0VPOXU5aUZHREIzcEFCeTVITEJ3VllGMnVqV2pnUkl4UGRLemswNkwzTXVIekhGcEs0WnRjeGFNVjl4bjU3WHo5NEFkcE5Qd2sxNTFLNnRXWFpBbTM2MV9SZldmWm1IOFNuR2tQWVM?oc=5",
+      "title": "US nonfarm payrolls surge in August; unemployment rate steady at 4.1% - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T23:01:08+08:00"
+      "time": "2026-09-04T22:52:23+08:00"
     },
     {
       "title": "Alcohol-related cancer deaths have doubled, and 1 drink could increase risk - USA Today",
@@ -113,16 +131,16 @@
       "time": "2026-09-04T22:27:02+08:00"
     },
     {
-      "title": "Clark, Howard lead U.S. rout of China in women's World Cup opener - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEY1bWttOWt2RlB1YlNYeWRaQm1mWkVaNDNwdlZNNWhfdDJHNGU2eGJMU3NIS052akRnR0xicUdtMjVOaEw4eGxfUjRXdVBpYkZyNVhFSU16b0ZKejV4bER0cm5VazNrTVJiajZGbmtaajRpalJqQ09nOFNVbXFYMlQxYnBTS1pieHRXNVZyQ1ZGazltS2pfYWhUTjUyQ3F2bXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T22:26:00+08:00"
-    },
-    {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T22:17:35+08:00"
+    },
+    {
+      "title": "Trump administration opens probe into Tesla’s self-driving Cybercab - Politico",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzh4UW1nWmE5SEZUT3NpOVJISWpBb3JVUGVJal9qbWFjamRncGViZ1VycjdCYWNhRERSWGlDNndOZVQzelFESlNKaFJHX1E4LTlEYmdjMjNBQlpxYVN3Y2xyalB0aWRPd0t6NDdMaFJlMGNRZWZqZ1owampQS3VOUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T22:17:00+08:00"
     },
     {
       "title": "Pennsylvania confirms second death of child with measles after RFK Jr. told CDC director to delete numbers - Yahoo",
@@ -149,28 +167,10 @@
       "time": "2026-09-04T21:25:00+08:00"
     },
     {
-      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T21:19:46+08:00"
-    },
-    {
       "title": "UK petrol prices hit highest level since Iran war began",
       "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-04T21:05:52+08:00"
-    },
-    {
-      "title": "Former labor secretary misused funds and drank on the job, report finds - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGFNOFp5MDZNaWQtbFVmQkg3MjdwZ1BlcTJfd1B0ZEQ1eTY2eUlTOFdrTTJOMGREVnNmcDZfREdLaVk3WXhvVmVzWGRhSFNHQ1dybVE3QTc4V2Zac1lwRlEzYUNPbFJDMXA0RDBGcWU4VFd5RjRjMFFadnNhM2NGcURTWHZ3RGVzQWJNd1BfTkxuUUdMb2hSSnpnakJfMGJtZndqakhIZVdZV0RQZy00XzJ6NUw5eDIxOENmdklEM2g2cUMzTnVHZlRESQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T21:01:04+08:00"
-    },
-    {
-      "title": "‘I’m used to doing the impossible’: George Lucas unveils new LA museum – what’s its story? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQVYxRG1KUVRvWUlsRWRpeFdPVWU3YjdHcVZnMG44bGZ3XzNMRDhYZE5lSElmcnN1ekNVQkRRVUpTU1FHRTE2bENIcjlnVDhqMEtyMXZmdmc0Y01JdGxOVXo4MWdfNWc2eVZkRHd4VXQzTm5xalJheWtJU3JfZE9RUWczUDFUVEdjV2pz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T21:01:00+08:00"
     }
   ]
 }
