@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T20:12:53.555996+08:00",
+  "generatedAt": "2026-09-04T20:43:58.107556+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 636372.8,
-      "changePct": 4.05
+      "priceHkd": 626894.24,
+      "changePct": 2.13
     },
     "ETH": {
-      "priceHkd": 19776.24,
-      "changePct": 4.69
+      "priceHkd": 19308.51,
+      "changePct": 2.07
     },
     "SOL": {
-      "priceHkd": 815.6,
-      "changePct": 3.1
+      "priceHkd": 798.9,
+      "changePct": 0.83
     }
   },
   "stocks": {
@@ -33,27 +33,39 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1126.44,
-      "priceUsdOz": 4468.9
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.89,
-      "priceUsdOz": 66.99
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 711.32,
-      "changePct": -0.62
+      "priceHkd": 708.19,
+      "changePct": -1.06
     },
     "Natural Gas": {
-      "priceHkd": 22.89,
-      "changePct": 0.24
+      "priceHkd": 23.34,
+      "changePct": 2.2
     }
   },
   "news": [
     {
-      "title": "US diesel prices hit a record high of $5.85 on average as the Iran war disrupts the flow of fuel - AP News",
+      "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
+      "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T20:39:05+08:00"
+    },
+    {
+      "title": "Team USA vs China in FIBA Women's World Cup: Time, TV, stream - usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXRtZFljNUlYOTJ4UTZkR1NVYUdOWmhfNTdjaXdXNmFnT3c2RWRzVFVZeGthbGJBX25DS0JpUEh3SFBmMmt3ajI0UmJwS2lHeXRteUg1MFFQd3FUbXlzekMwZ1U1dXJfSzRaVk96RUdUbmUxZlZfX3hwTkU3OGVscjBKX2xTX1BydVp3ejJPaVpseGtyVUktQUlKdWhhQkFKWUlXcHJnZWJ2U1dNOGxObEc4RWsyeVJqcTVsS3V1S2NCY0tmMkNjNHZSUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T20:04:00+08:00"
+    },
+    {
+      "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T19:59:00+08:00"
@@ -71,10 +83,16 @@
       "time": "2026-09-04T19:12:00+08:00"
     },
     {
-      "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTlaV1pacmZMdnJNQ3MwLWN4bzBkd1p1V0t1ZVQyMEtXemRreWNvbmM4Qkt3ZnVpLXBkR3pnTWdlcjRzQzVqd3pPQ0FleEF0ZE9ZU1FYX2Raa0ZHa2ExWmpqTlNkSVVSM3dRWW15blN4dEw2R0E3b3JYYllFQ19ERm4tT0tOT1FpQ1pF?oc=5",
+      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T18:55:23+08:00"
+      "time": "2026-09-04T19:00:17+08:00"
+    },
+    {
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3QzQXhKLThEV3RqS2dkWTBmRnV6UExSQ0xYNnJ6TDJTNng5NWRnZDdjX2Rlc0hTbWhfbGhCbE5IOW5rNUl1ZTNUMkxNMVdtZWtDN09YaXAxSmRCWnphMjJUX2lCaGxYNG91dm5vZVlxVWt6c0owUDJ0cl9IdFFZdEpKMHFBeFZ3cjhDbDNyc014TFc2QjBFZG5xRElveTd5OEoxVVJKS1hEakNXVnhoOERfRVhDMVcx?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T19:00:05+08:00"
     },
     {
       "title": "US diesel prices hit an all-time-high",
@@ -83,16 +101,22 @@
       "time": "2026-09-04T18:52:56+08:00"
     },
     {
-      "title": "Stock up on food to prepare for extreme weather, minister warns",
+      "title": "Stock up on food to prepare for extreme weather, minister says",
       "link": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-04T18:40:23+08:00"
     },
     {
-      "title": "Missouri supreme court blocks congressional maps backed by Trump for midterms – US politics live - theguardian.com",
+      "title": "Missouri supreme court blocks congressional maps backed by Trump for midterms – US politics live - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUlJfNWpTQVVXTTNVazVRcXF4SkRxWmFQRUV5amF4Z2Z3QkdoZmhUMnczc2hUNUI0TkVVMXJYRHNCeURKbXVQTEhhZDhfWDgxXy1GMjRSR3pwUnZZRThXWjdNaGRkM3BuaU0tZURoWjJpMnprRk9najlDSWU4aVlFd3p6S1NESVp3d3dYMHJXZjVzU3BySXdkSWMyeGZ5UkVRYXN5Z1lxOXNEeXo3azVvXzNjTm1zNWdIV1EtQmdwOGVBVldjZkhvbEFkRGdpM25JRlA5T3J6bVo4MzE3cmZ6UEJwUHRwOGM0c2JyQUxJZ0doWUswNklNRmhvMEZsZlJGblE2VA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T18:34:00+08:00"
+    },
+    {
+      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands - aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3V4T3ZvUGp4SEhiZ21oZUlSUndrMG4yQVcyM1RjUGY3MHBzN1NuX3pBdlExS1RCQTdEWk1lT3ZXMEF6QnlveHJRLWFRRVphNlRGU2ZLQUxxM0RNZDUwbW5YYVhGZHkwWmV1dHNrR2tnTVU3Tm5Yb3E0dkkwRUo5bFBiMjRmdGVJUktOWjNBODk3VVZxZ1NIQTBrb21EMFctd04yakpGYUrSAa4BQVVfeXFMTTdWTmk2Wl8tRVJrOUpWQlZWc3dDWk43aThkaEJ6ZHRoNUgwR0lkcXRyM0t5eUJXNWd5dVNPNGMyWDJ2TmZhODVNUVBBMGZqVF84M0VfSHoxeUNhbTBpeDdrRndCQ0RUak9DTG81dUNTNnpyeWE4WlFGSEVmYktjOE1mcjhfRzdyU0VTUnVoQmU1cWRtdi1fb0pQRko2S2JVSFhlOGJCUU9IU3Q5cFR3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T18:28:39+08:00"
     },
     {
       "title": "Louisiana Judge Rules Against NCAA, Clearing Path for Former NFL Players to Join LSU Roster - Bleacher Report",
@@ -107,16 +131,22 @@
       "time": "2026-09-04T18:00:59+08:00"
     },
     {
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+      "title": "Europe targeted in summer campaign of sabotage and Russia is the chief suspect",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T18:00:18+08:00"
     },
     {
-      "title": "Jobs report to show whether hiring bounced back from unexpected job loss - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcW0yVzJpZHZWUFV0M0ZicHVGTUllMkhqQlI1WDJULUxZUFYtUUlJVVlWUFRjeTQwb05jTXNRdGw0MjA1bmpvOFdtWHFVcmFQM1V4eW1NODZFaXJZcElDb0RCa2R2YUxISTg4ZENRMEU5dHhqbFE1T2gtdVpRSDdOT3g1Yy1yRUlsY1pXVWtCNnFyZGw2NTJGa2tKcFpvdkpz0gGmAUFVX3lxTE92ZWtqQlhGWk5TQkVwUndPTkNlanQxM1ZYZVhyb1gxOHpzdXh0WW9JU1J3dDlxX1o3T3dvYUVveTI3NkVSSWtjcVlUcjQ4d3dIRS1nQjU4bjBRRHo3MVVfR1pBaDNQNENrZDQ5YjdjdHB2eUwyNC1RU0ZWQ1AwT0h5M2JzekFZRFdsUWF1V3lXRnYtbnZDZE10V0hGeG9DMjRSdHR3Nnc?oc=5",
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bS1aVFc1ektQekdnZHU5Y0dBTkI4RnRUZFhTSWJ1WnZpd1U5dWNaMmppbWVfWmVkeDNFWjVwaUNIMW90Mng0bFhzQWNtNHYxN3g5bVNEekhsUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T17:39:38+08:00"
+      "time": "2026-09-04T18:00:18+08:00"
+    },
+    {
+      "title": "Germany's far-right poised for power in state election - NPR",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DalZISnhrcWxMSGdBem81R0E1SFJtSzFZX2NEdnlwV3lGUHhmRkpvQmdpNlA3bENRX05WelJ1VTZnQzFWakVBSGRjOWdfcmhMSHhlcmZKcnJGQ1pxRHJzR3gzeVIzYVN4aWZ4SGxEZUZ1NG9vT2dObk5uSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T18:00:00+08:00"
     },
     {
       "title": "How could US-Iran conflict end? Three experts give their views",
@@ -137,40 +167,10 @@
       "time": "2026-09-04T16:49:09+08:00"
     },
     {
-      "title": "Billy Ray Cyrus addresses daughter Miley dropping her surname ahead of new album - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjlLaHlHcmtuRDVRQk5RWm5aTjV5ZUQxcGFZNlRBVDlUQk8yX3g5NjRuT3NwYkxvOENKNEpBTlJUQzBHaTd1WlNtSlpad3d5aldfUzZwcmhFWGY5cnB4T0lmZHVCQUpOeFJFb1kxbkNPMUNRXzNSNm1RbjlxMTlCUzh3RkpscUtEN0dnWHViQTNCWXhJUXl4VGVhcDc5NnNtUWthNWNZMmVvOElfOFNyQWhfMjc0M19LZ2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T16:43:00+08:00"
-    },
-    {
       "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
       "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T16:23:05+08:00"
-    },
-    {
-      "title": "Argentina’s Milei escalates Falklands dispute, seizing on Trump comments and oil tensions - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY1lNTlZYVnlEZzFmQlBIb1RlLV9oN1lVZU1XUUwwaG5LSkFfSnRXR25LaDRmbGZaUUFrR1UwUk5fUDdMMjNMWm5EX2JPZGJYWFp0SG5ndl9sVWliVXdtRnkza20wSTVsaU9yVXFwZEh4dTI2M2I5dVJaSWV3Y0UyczNRSHF6Mm1ZVHRqWVFlVVkxVnpGNDlsUUxrZmZqdFJMbERkVTVmbVFSeVdUZERTdG5JdWVhWnRHdkRUYjUzTlp4LVVRM01GcEFR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T15:28:00+08:00"
-    },
-    {
-      "title": "Prosecco, cakes and beauty products - how to get birthday freebies and why there's a catch",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4jr4yr2eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-04T15:19:06+08:00"
-    },
-    {
-      "title": "100 influencers invited to US Open spark debate on 'tennis etiquette'",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cy8zqd4zg14o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T15:16:07+08:00"
-    },
-    {
-      "title": "Biggest bombshells from Alix Earle’s Netflix show: ‘manipulative’ Alex Cooper and more - Page Six",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXJITlktZzRRd2wwcFhBYjV6bk9ZTE9pMm02V0o3T3dkcG9VanBWNzNLcUNoVEFsTWJqV2l3TkNnRmV3cnBIc2lXQndBcUdQbkpBNm9zYUJtWDFOR2t1eXZ2YVBSU0ZYT3NwbUFBbkhUZFVEZmgtT3pTSWhuOXUxZHBXdVFrOXFYMnM4dWR1LXg1eTNWdDRXM0J6QlBoNmpNWU40VllpV0RvWUFDNk9ZUkppRkRtaHFHWlE3Sg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T15:01:00+08:00"
     }
   ]
 }
