@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T20:43:58.107556+08:00",
+  "generatedAt": "2026-09-04T21:15:01.491937+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 626894.24,
-      "changePct": 2.13
+      "priceHkd": 621468.96,
+      "changePct": 0.93
     },
     "ETH": {
-      "priceHkd": 19308.51,
-      "changePct": 2.07
+      "priceHkd": 19179.7,
+      "changePct": 1.14
     },
     "SOL": {
-      "priceHkd": 798.9,
-      "changePct": 0.83
+      "priceHkd": 794.9,
+      "changePct": -0.1
     }
   },
   "stocks": {
@@ -33,25 +33,49 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1107.03,
+      "priceUsdOz": 4391.9
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.49,
+      "priceUsdOz": 65.41
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 708.19,
-      "changePct": -1.06
+      "priceHkd": 706.62,
+      "changePct": -1.28
     },
     "Natural Gas": {
-      "priceHkd": 23.34,
-      "changePct": 2.2
+      "priceHkd": 23.15,
+      "changePct": 1.37
     }
   },
   "news": [
+    {
+      "title": "Hospitality and education boosts US job creation in August",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zx2pkpx9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T21:14:41+08:00"
+    },
+    {
+      "title": "UK petrol prices hit highest level since Iran war began",
+      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T21:05:52+08:00"
+    },
+    {
+      "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
+      "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-04T21:00:44+08:00"
+    },
+    {
+      "title": "Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T20:59:00+08:00"
+    },
     {
       "title": "'We expect our sons to be killed,' father of teen shot dead in West Bank tells BBC",
       "link": "https://www.bbc.co.uk/news/videos/cn8evz26eyqo?at_medium=RSS&at_campaign=rss",
@@ -59,16 +83,28 @@
       "time": "2026-09-04T20:39:05+08:00"
     },
     {
-      "title": "Team USA vs China in FIBA Women's World Cup: Time, TV, stream - usatoday.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXRtZFljNUlYOTJ4UTZkR1NVYUdOWmhfNTdjaXdXNmFnT3c2RWRzVFVZeGthbGJBX25DS0JpUEh3SFBmMmt3ajI0UmJwS2lHeXRteUg1MFFQd3FUbXlzekMwZ1U1dXJfSzRaVk96RUdUbmUxZlZfX3hwTkU3OGVscjBKX2xTX1BydVp3ejJPaVpseGtyVUktQUlKdWhhQkFKWUlXcHJnZWJ2U1dNOGxObEc4RWsyeVJqcTVsS3V1S2NCY0tmMkNjNHZSUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T20:04:00+08:00"
-    },
-    {
       "title": "US diesel prices hit a record high, pushing up transportation costs for a long list of goods - AP News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa19jeV9pQzAycDV0MWpiLVkyS0x6T3NGVWRUS3Z5R3dUMUQxNElPZHNCM0hVQ21oSDdnRGIyZG1tYTcxOE9KTGZCb3piWlp1Y0o2WUMyVXFmcXVWZXQzQkVJN2VvZEJFYWVoVXdtYXlqdWlxSFBGdTNHSDlBMDdRa3NWdkpqUjRJdjhOZzJJSk8xMjg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-04T19:59:00+08:00"
+      "time": "2026-09-04T20:22:00+08:00"
+    },
+    {
+      "title": "Lindsay Clancy trial latest: Court to resume - follow live - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xM0NlS1BrblRMREw3SDJUV212QWxQWmFZblBaR1RjcUNZanRRLXRBbUYtRGdDUmkya2twaDVhakdpNGhHdkRlMUEwWk45WnBBdGpuRDFn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T20:12:30+08:00"
+    },
+    {
+      "title": "US job growth expected to rebound in August; unemployment rate forecast steady at 4.1% - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnNDVk8wamxUYWJTemR3ZERNWkQzOU85Z0tqY212MkJiQ3FMX0s0b1ktWUo4M3JVVUs0NzhyZXByVFUxOUFRNXB1ZW81WmZxTVlzcXBaMjNVVGV5aTRqQjlRby1BaHJMb2FHbmFlUl9tTnowUC1NdllUZjk1elhpZ3lWSDJ3eGZIWFRYeURpVHJsS0szREFBenltdDY2a2g1R0pXVkxpY1NSSVJsNy0xaWFpRm5PR0RhSzNn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T20:06:14+08:00"
+    },
+    {
+      "title": "Capitol agenda: What Johnson’s early exit could leave behind - Politico",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWTJRc1paeUVzaFdtS3UxcEtWdlNHYlo2c1dxR3Vkd2RYQnYyYmhGcGlkNFZxS2FSWmo0THRpQWFrX3JLVHFvam5uMG5mUXh3QWEtU2tzTEZyd2FJQ2RfTVA5QktiSW1KQ2FzX0RBcGFWZlpMQ2poVnZFd3B6eWQ0YzFSazVEOFh3Z20tMVRNLUhkclQ4YXJ6aU8tZGxHZXd2OElDYXZpQk94N2ZYZzJB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T20:00:00+08:00"
     },
     {
       "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
@@ -77,22 +113,16 @@
       "time": "2026-09-04T19:54:51+08:00"
     },
     {
-      "title": "Live updates: Rescues underway as two workers pulled alive more than a week after Nepal-China floods - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SQ1Z4Y0tBTWczN3dZTkh5dnAwbHZoUE5ucExVX0g1bUIyYmE3UEloZWhubTh0eVNIdXJkT2xMYWR1UmFxc19EMS16eWxYai1fcnFfNVN0NjRDYTRvaFAwcjhuWVp2ai1vUlVDWjRWelNEdlJtcmgwM3JscFhZZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T19:12:00+08:00"
-    },
-    {
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T19:00:17+08:00"
-    },
-    {
       "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+. - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3QzQXhKLThEV3RqS2dkWTBmRnV6UExSQ0xYNnJ6TDJTNng5NWRnZDdjX2Rlc0hTbWhfbGhCbE5IOW5rNUl1ZTNUMkxNMVdtZWtDN09YaXAxSmRCWnphMjJUX2lCaGxYNG91dm5vZVlxVWt6c0owUDJ0cl9IdFFZdEpKMHFBeFZ3cjhDbDNyc014TFc2QjBFZG5xRElveTd5OEoxVVJKS1hEakNXVnhoOERfRVhDMVcx?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T19:00:05+08:00"
+    },
+    {
+      "title": "Romanian prosecutors indict Andrew Tate for trafficking minors, money laundering - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSTlaV1pacmZMdnJNQ3MwLWN4bzBkd1p1V0t1ZVQyMEtXemRreWNvbmM4Qkt3ZnVpLXBkR3pnTWdlcjRzQzVqd3pPQ0FleEF0ZE9ZU1FYX2Raa0ZHa2ExWmpqTlNkSVVSM3dRWW15blN4dEw2R0E3b3JYYllFQ19ERm4tT0tOT1FpQ1pF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T18:55:23+08:00"
     },
     {
       "title": "US diesel prices hit an all-time-high",
@@ -113,8 +143,8 @@
       "time": "2026-09-04T18:34:00+08:00"
     },
     {
-      "title": "Argentina’s Milei threatens sanctions as he refocuses on Falklands - aljazeera.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPS3V4T3ZvUGp4SEhiZ21oZUlSUndrMG4yQVcyM1RjUGY3MHBzN1NuX3pBdlExS1RCQTdEWk1lT3ZXMEF6QnlveHJRLWFRRVphNlRGU2ZLQUxxM0RNZDUwbW5YYVhGZHkwWmV1dHNrR2tnTVU3Tm5Yb3E0dkkwRUo5bFBiMjRmdGVJUktOWjNBODk3VVZxZ1NIQTBrb21EMFctd04yakpGYUrSAa4BQVVfeXFMTTdWTmk2Wl8tRVJrOUpWQlZWc3dDWk43aThkaEJ6ZHRoNUgwR0lkcXRyM0t5eUJXNWd5dVNPNGMyWDJ2TmZhODVNUVBBMGZqVF84M0VfSHoxeUNhbTBpeDdrRndCQ0RUak9DTG81dUNTNnpyeWE4WlFGSEVmYktjOE1mcjhfRzdyU0VTUnVoQmU1cWRtdi1fb0pQRko2S2JVSFhlOGJCUU9IU3Q5cFR3?oc=5",
+      "title": "Reform UK officials step down as new funding scandal hits far-right party - aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWJYUV9VRmNXYVVFTW5yOFpqd19wUFYyWllhM3daYnNCbzVBcGZSZkdzU2VYYTJsaFhOdGdtNVE1RzBmaGF3dXBvNHFBa0VFUzloek5JcjF0Z3BRXzhZZnB4dlhBcndybjdTQXJrTDRsdEVvdWxmV2dsOC1NYXF0VHJMZjZWeVVjTmFEOGFPcG9Sb25CZEZHTm1BRmlqUEJtUmhlY0ZnWFMwcGNpdWltdFVnSdIBuAFBVV95cUxPaV9ZeFQ2ZF9hNFpvekVBUlhmb1AwbEtxSmcwN1NSWk1USnlibjJDdlBPOWlWVHVvOE1PVFpHZ3FoSGJJeUQ1UjBHQ0lWRXFSakxyS1YxUFBRVGRkZDhuMUpIcTJSQUI0T3Q4U0NBTVY3czJXSkdEdXJPcHh3eFFUMkh1dFNOSzBnRWFDMWtZU29mT1VEWmR5MTBFX29MbGNfYktOcXVXNGxNdmhIc183VnpiajR6RkV3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T18:28:39+08:00"
     },
@@ -131,46 +161,16 @@
       "time": "2026-09-04T18:00:59+08:00"
     },
     {
-      "title": "Europe targeted in summer campaign of sabotage and Russia is the chief suspect",
+      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
       "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-04T18:00:18+08:00"
     },
     {
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bS1aVFc1ektQekdnZHU5Y0dBTkI4RnRUZFhTSWJ1WnZpd1U5dWNaMmppbWVfWmVkeDNFWjVwaUNIMW90Mng0bFhzQWNtNHYxN3g5bVNEekhsUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T18:00:18+08:00"
-    },
-    {
-      "title": "Germany's far-right poised for power in state election - NPR",
+      "title": "Germany's far-right AfD party is poised for power in a state election - NPR",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DalZISnhrcWxMSGdBem81R0E1SFJtSzFZX2NEdnlwV3lGUHhmRkpvQmdpNlA3bENRX05WelJ1VTZnQzFWakVBSGRjOWdfcmhMSHhlcmZKcnJGQ1pxRHJzR3gzeVIzYVN4aWZ4SGxEZUZ1NG9vT2dObk5uSQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T18:00:00+08:00"
-    },
-    {
-      "title": "How could US-Iran conflict end? Three experts give their views",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T17:14:57+08:00"
-    },
-    {
-      "title": "Mum says 'no fat left to trim' on household costs as water bills set for 42% rise",
-      "link": "https://www.bbc.co.uk/news/articles/c62qyzdv721o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-04T17:01:16+08:00"
-    },
-    {
-      "title": "Volkswagen jumps 8% on plans to cut 50,000 jobs amid tariffs, China competition - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtQUp0SndwU1NmRFVKZDU4RlRBeld5RFE4elRRMF9OQlg3VERRN0NuMjIyWGdaUHpZbGZSdUhHMHpETVFWX1VRbGZrbHo5NUtQaHNFSDZydGZQdks1MlNIY2cweFF1VjV3M21uWVQxVVJMOG8yU1doSW5R0gF_QVVfeXFMUG5JR0Y3Q2VOMWVJaUZyemM4Sm9iN3Q3bUZmYjdxTzZ2WjF3Y3lyb01zdU50elc3Zl96bG56Nzl2cDVUaW9hLUx1dTdOWC1UUXlLQWJSNTB6VHFUaXRZSTdfa3JCeE1oeG9mU1lNaFNoNlpEb1NYQ0JuM0tXOXFZdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T16:49:09+08:00"
-    },
-    {
-      "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-04T16:23:05+08:00"
     }
   ]
 }
