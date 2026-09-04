@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-04T08:49:05.949799+08:00",
+  "generatedAt": "2026-09-04T09:20:10.754520+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 636945.12,
-      "changePct": 5.4
+      "priceHkd": 634702.88,
+      "changePct": 4.71
     },
     "ETH": {
-      "priceHkd": 19659.43,
-      "changePct": 5.23
+      "priceHkd": 19653.63,
+      "changePct": 5.02
     },
     "SOL": {
-      "priceHkd": 813.71,
-      "changePct": 4.18
+      "priceHkd": 813.01,
+      "changePct": 3.45
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1130.67,
-      "priceUsdOz": 4485.7
+      "priceHkdPerGram": 1129.06,
+      "priceUsdOz": 4479.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.92,
-      "priceUsdOz": 67.14
+      "priceHkdPerGram": 16.88,
+      "priceUsdOz": 66.96
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 717.6,
-      "changePct": 0.57
+      "priceHkd": 719.32,
+      "changePct": 0.81
     },
     "Natural Gas": {
-      "priceHkd": 22.95,
-      "changePct": -0.98
+      "priceHkd": 22.91,
+      "changePct": -1.15
     }
   },
   "news": [
+    {
+      "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-04T09:04:24+08:00"
+    },
     {
       "title": "ICE officer who shot immigrant in Minnesota in federal custody on charges of lying to investigators, source says - CBS News",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU2dDTVVrS1VrMU1VMmROR3JmVjFuVjhUVDhfZXdYb1ZLZXJZbTBZQkYwUzR3OHdVcE8zZ0pPVzVZc0Fnb29hTjR3RHJSWURZZkNXbGxnbDV2SThuQXltYVQ2dno5WUM4ZUZwaTBITnpzcndhbjJ5aEFjTDQtdDR6bU1oMjRDc0E?oc=5",
@@ -65,10 +71,10 @@
       "time": "2026-09-04T08:25:00+08:00"
     },
     {
-      "title": "Volkswagen board approves plan to cut 100,000 jobs",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-04T08:18:25+08:00"
+      "title": "New details emerge in suspension of ‘Wheel of Fortune’ announcer - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkNsVldWem1VampyN3REOExUbWJwUy00aElFdlNyaUp5YjhXUkJXOTdNLXJXb19NZUJYZW55dUlsVHlIc093TnJhblg5cE5BV0xFR29idW1uN2ExOWRQQmhWejNCT2tGMGRnVHhGQWZwZFh6UHVSTlFWcVBqTWlPVW5n0gGHAUFVX3lxTE9IdDhsaXdLbVQ5Y1lwNGs4TTU1eEhlVjVQSkxPeldsb2tYY01LX2ZRTENjZ3VpcG5ibmtNSXYwcmdvaURXNzNUNnN0bmdCQ2ZZcGJsTU9IZEdrT2NZSms2dDFzNVd1SklsNTdZN1JqSWhYWXlIUXlKNW1YWHd3VGc5cUQ4Y3M2WQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T08:12:56+08:00"
     },
     {
       "title": "Longtime host Maria Bartiromo out at Fox News - The Washington Post",
@@ -95,7 +101,13 @@
       "time": "2026-09-04T07:40:08+08:00"
     },
     {
-      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - NBC News",
+      "title": "Volkswagen Plans to Cut 50,000 Jobs Amid Dire Need to Reduce Costs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SZ3QwR2drU3lLTlN3ZTVGUjF4Vl8tQzg2Mk51OGVZckNhSmlhM2JybTc0bFJjblg2UWNydWYta05QRTh6LWJjbEZPcEZGMF96aWltUFdwazRyOGtDT2pLRHp4ai1sYVdFOHVzanBWX2NEdUlvR1Y4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T07:32:21+08:00"
+    },
+    {
+      "title": "Missouri Supreme Court rules new GOP-drawn map can’t be used for November elections - nbcnews.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZlZ1c3ljMHdkLUxtLXo4RG5tTkU5VFNHRFdkMGRuak5nY3hQNXVpSk9jLXptdEJWZzBaaElSWko0N1ZqZUJXTUNUbHI4UktvX2lnTnFLQjFvdjNaYk1zdEF5VXdHVGFaZUQyU3J2MUxUWVJhRzlHelVDYVNJSlU3cGxOTnQ0MmdKdW5LbUI0T2Uwd3dzdVZMczZUUHRJUHpqWmFCZG5HZ1g3ejRGTzBjX1oxTXlZczlHT3B0UEZObVpNeGdsblM4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T07:26:45+08:00"
@@ -107,10 +119,22 @@
       "time": "2026-09-04T07:25:45+08:00"
     },
     {
+      "title": "Deadly strike on Iranian wedding was likely a direct hit by a US munition, analysis shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUEFXVU5xRXZGVUVkV3B2TUVQcTBseVZsSGd0blBwQktIaGlIc3R5TzMtNXFISkFTb1VOdlhWOXBmQ052RWFuT1pQaXJqQndNaXB3TmhLQTZPQXNQSFFXQ3JGY0NBdE1RY09razBPZFh2VnJiYmlBSld3akdLeHZxbVA5bWNqVWFycjFlUHFNd3VPdE4tYTFVaWxmdDBoOUlxUk80X0dkbkFqOV9SU3lxNkFsd0JGZnB5Qk9SV3JGWkxRWlhn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T07:19:31+08:00"
+    },
+    {
       "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
       "link": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-04T07:00:15+08:00"
+    },
+    {
+      "title": "SEC sues LSU as Greg Sankey and former NFL athletes seeking eligibility make their cases in court - NOLA.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY3dWbXktM1FqRmdHYXFuc09IVlBXMzE5VkUtWlBtdGxCeXAwXzVNZ0hVTHJsQ2lVdEQ5YWRSN1ZrbDlCemliR25BdzBSWHZvdE9NUVZUY1ZMLU1Jbk1HcUJsclVLTmZIZXZVV3dseXluYjVxLWNVa1hmWElXQ01fV1ZQWk1PUG5mOWdEUGdwWHViaS1Sa2hjN1NVaWVqN3lpSFNSMVJZM0FDVEhhTHJuYVAyQlBCT3c3T1k4WUpKVERKdlgxVG1OVjRB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-04T06:49:00+08:00"
     },
     {
       "title": "Transplanted pig kidney works in US man's body for record 271 days",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkFBMHlfb2lidkZzaGZLYjhCOXRiZXA2YVZGV1drbVdJaHBsX3ZMV0dIWVlWTDlTcmZKeHplQXBZcm9ER21LUFB6SUg3aThCMEdhZC1IUi1WdVo5QzN5Q29WVS1RSmZmNUhZYksxUjdTUk45T0RGU2FGSFRDbVl2SUtGZ3JMYmotXzVBOGpidlJGTDN5UWlaQ1NxTU92ODdvbDE4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T06:18:30+08:00"
-    },
-    {
-      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1ozXzlZMFVYRFpyZzAyRUxCai1abG5HU3RDSUlQMllUZVh0ZHA5T0x3bWFUY2k4RGFsQkhEVGtzVGk5QVUyUG55Q3plN1haZEJZX2QxN0tIU0hJYWt6UHczRG1HYTRoVncxU3Vodkw2U01IdHFEVDhzNi1idmdvazk0Nk5JYkFpbjNCalVESWRFOUUzN2doUWh3UjRCb3ZGc0F1TExsYTI5TlZHOGNZUFVRSVJrVHJH?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T06:13:50+08:00"
-    },
-    {
-      "title": "Judge Suggests Trump Mail-In Voting Rules Could Cause ‘Major Disenfranchisement’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdmRwOWFtWlZNMkFLOE96cDJfaFRpc2FoNUpxSk04TkZxSndza0JrbF9LYlYzUmpabzFmUjl1ZkdSTFlDTmVCQWFpNUVXcTlqUURCWTZpMTNPMjByYW9CRUhFZzlhYW9hZFN5a2o2TlZ3YkpGV1B6Rnl1TnMtQUZsaF8xeDNoeXpCUzZfRjhMVms?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T06:13:38+08:00"
-    },
-    {
-      "title": "Psilocybin May Prevent Nerve Damage Caused by Chemotherapy, Study Finds - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeDJaa21mSHdCdEF1dWxQalVlVV9nWUx0ZXp3XzhxWGZLQnZnNEdnaW5KbTFRNnVWcjYzVHRCeWJWNHQxOW9qTkpXbW9iRjZwdXFjVzlRcGFEdTFucDBUdy1wT05DSUxmX1pSUWluX1pmcnFzc3NjWDNBaWExQV9Mc3RVaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T05:46:21+08:00"
-    },
-    {
-      "title": "Norway Seizes Russian Ship, Testing Moscow in the High Arctic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXBvTUFyZWt5R3ZDZlJYTTNRYTJCWjdJMmhGWmVIakZWb0lMQVh4bEpVWkw2UG9Yc1dFYWhnTVlyQ2pHcjFmVHRVU0ZPa0YyS1F1bXc0TERWWmQtbERVNnVOVzdpVzBKLW1GRU5WVzNtUzBaV2pCdWxsampxVHROYU1GS21yWmZrSlBHR3BjR1JlQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T05:12:44+08:00"
     }
   ]
 }
