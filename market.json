@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-05T02:25:50.927384+08:00",
+  "generatedAt": "2026-09-05T02:56:58.736838+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 623946.4,
-      "changePct": -1.84
+      "priceHkd": 624252.16,
+      "changePct": -1.91
     },
     "ETH": {
-      "priceHkd": 19199.45,
-      "changePct": -2.22
+      "priceHkd": 19209.25,
+      "changePct": -2.37
     },
     "SOL": {
-      "priceHkd": 795.21,
-      "changePct": -3.22
+      "priceHkd": 796.39,
+      "changePct": -3.37
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5548.52,
-      "changePct": -0.42
+      "priceHkd": 5551.43,
+      "changePct": -0.37
     },
     "SPX": {
-      "priceHkd": 60479.8,
-      "changePct": -0.43
+      "priceHkd": 60512.26,
+      "changePct": -0.38
     },
     "SPCX": {
-      "priceHkd": 1163.97,
-      "changePct": -0.85
+      "priceHkd": 1167.14,
+      "changePct": -0.58
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.57,
-      "priceUsdOz": 4425.8
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.67,
-      "priceUsdOz": 66.11
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 713.99,
-      "changePct": -0.25
+      "priceHkd": 719.08,
+      "changePct": 0.46
     },
     "Natural Gas": {
       "priceHkd": 23.32,
@@ -53,13 +53,25 @@
   },
   "news": [
     {
-      "title": "Trump to use Qatari plane for international trip despite security worries - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZWZXZ0x5ZlQ3dzNhVjROLWV2UWdMQXB2bHRjX0hyZ2x3R2lWUmxsUHRRRVJxd1YxTDBEczN4dzY2MnA2c1ZTeUlKMHhFNTZWeTd0RnBmUmhqRlJJX2ZSMlJEeG9rOEMwQ2tvaVdpMnBSWmFvQ1FXenhfQ0FweTRZRzNNd0JlY0VyNHZFYThpLU5PbzFOdzNZMi1PZW1RQnh0QWdSQlN3LWpsY3hwNTVhZGJUZ2U5MS1nbUE?oc=5",
+      "title": "Live updates: Judge in Lindsay Clancy trial says he intends to declare mistrial - CNN",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T02:01:51+08:00"
+      "time": "2026-09-05T02:24:00+08:00"
     },
     {
-      "title": "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - missouriindependent.com",
+      "title": "Former labor secretary misused funds and drank on the job, report finds - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGFNOFp5MDZNaWQtbFVmQkg3MjdwZ1BlcTJfd1B0ZEQ1eTY2eUlTOFdrTTJOMGREVnNmcDZfREdLaVk3WXhvVmVzWGRhSFNHQ1dybVE3QTc4V2Zac1lwRlEzYUNPbFJDMXA0RDBGcWU4VFd5RjRjMFFadnNhM2NGcURTWHZ3RGVzQWJNd1BfTkxuUUdMb2hSSnpnakJfMGJtZndqakhIZVdZV0RQZy00XzJ6NUw5eDIxOENmdklEM2g2cUMzTnVHZlRESQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:43:33+08:00"
+    },
+    {
+      "title": "Jayden Daniels: I can’t live off what I did in 2024 - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZGd2MkVlb3dEdG5VTXdwUV96STZnWHlaUGpna2NweW1qNGIzVC1MbGFMN1lGREVvWWR2LVhidzJfTVRGY1NtQ1BKazBZSGVuX2g0azVDQ2NOWGo4T3lXdC1qZ3Q3MUJKWWF4VjJYcG9jeTI0a18tSnNlaTh6LTRDbmlKUEZucE5WeDJiQk45ZG55TnFDMGlUdEhyRUNCWmlXSFBhcENEU0t0WkNPc0tERQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T01:42:02+08:00"
+    },
+    {
+      "title": "Missouri court refuses to delay congressional map ruling, setting up US Supreme Court appeal - Missouri Independent",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVlZOeFh2VVYtYllOT25KN2RhNDA5YzVtdFdOdU5vNy1OSnlfX0M1bWVMRDJodDBZOGgwZmxfREVjQ1VSR09hQ3VSUFMxZzZsN0p1WjM0TTF5RUotRGNmLU1IVW9tbTdaV2twVHFJZWhTYk0tdUpGNFhIbkpBLXYxRW00OUtZWFZVXzh5d2M0Wk5uMEdxMURQX1RuTk1XWjdtWklhd0VsVmpMMV9jRmxFalpmMk80cU0?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T01:41:49+08:00"
@@ -83,7 +95,7 @@
       "time": "2026-09-05T01:14:21+08:00"
     },
     {
-      "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - reuters.com",
+      "title": "US nonfarm payrolls blow past expectations in August; unemployment rate steady at 4.1% - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbUlhOGI2YkQzM0dqZll6Rm5VSDBReEZQMkZRODlvQkJBTGJfeDhVbjE1c2dXbEVBYmZieElLdEtLR1BZZlQ3NENYdUNSLUgyNnNCMHVJcEl3T2ZyUlVoYndDQ1pYOWhmRnlncUxZMUpjMTlvYTJET2kxMHpiSzN5WUJSMVc1VVkyVGxSRVVkQmRNQUJNVmRjX1lSdzdwbi1PUUhsRUthaUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T01:12:33+08:00"
@@ -95,22 +107,10 @@
       "time": "2026-09-05T01:12:00+08:00"
     },
     {
-      "title": "Live updates: Judge in Lindsay Clancy trial says he intends to declare mistrial - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fd2JiWE1ucDBCR29tXzhZV0htRExFN3JyMERPeVFidE55M3ZpWGpDb1Q1UXR3blRHWG9SdEVkOXpMYXR2eWxMQ2hoM2ZCaHMwQ2FyVnNpellQODVvd0VTQVdlaGpJQ3JpVlNXMi1DVW9Bdw?oc=5",
+      "title": "No little kids allowed, and other new info about Tesla’s Cybercab - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVThMU3I1UmJxZ1FHQzBSSGwtY05BeVBrbHVwUWJfUGFSS0ZwenRlYVhFZkZzOC16T2tOTkhHd2pXUEcyRFVRYkg4Z2F1b1hNXzJWVXJTekxaT1lvWmNpdlZ1aGp6QmQ1bnp6N2VSbXdpSjBycFI5V2NnXzZpbVFFUndaUUZHZW9UX2N4ajNaQS1YMEFtc1Y1ZDA3UUhmNEk?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T01:10:00+08:00"
-    },
-    {
-      "title": "Six-Week-Old Infant Died From Measles, Lancaster Coroner Says - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM29VQllNaTNMRF9GdDY1LVM3VzZGNS1wLWlCRDJseU1oRHVSdTdBM1FMUHFnSnlxLWZIS1BvaEM3VjNlYzZIcDdDMDY3eS0wMFYtZU1jMXNpUzFLZWlob2wxTmlDbXBRdEMxNUVkSVFpTG9La3RxSUpQWUpTc0RUMTYyTjU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T01:08:30+08:00"
-    },
-    {
-      "title": "ICE Agent Charged With Six Counts of Lying About Minnesota Shooting - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNY1R3YXRfNkZkM0ZuLWJLQlhiamMzWmtTd05za2o1eVEtOUNxX3VkcGV4a2ZWS1ZGcU1mS2U4cGcyWlNjVUs5QWpqVWYzSTFjTURWMTB2eENSSDNPYlZ4WjBOeV9Tdk16WjRIS1pVNkx0QjlUSnNrcFczN1FjbmVUUzk3Mnk5dUgtRmxxYWVueU1aTHhrazhWTVVoTXA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T00:50:10+08:00"
+      "time": "2026-09-05T00:51:23+08:00"
     },
     {
       "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
@@ -119,10 +119,10 @@
       "time": "2026-09-05T00:49:15+08:00"
     },
     {
-      "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
+      "title": "Hurricane Lowell roars near Hawaii as forecasters warn of big turn - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0hVcDVJT1EtamVhWW53Mk5WdnhWSUg5Zk1RTTQ1WW9SVm5obXVCZERnajlBb3BRbml6VEtzS2phSlQtYWxOVWlodkxIUmNZZENyOExWYjBOcnZBWEE1dGFUSFJxTnpIT0I1bEJqcXBOYXdXcjJkZmtPZ2ZzNlNxTEEzUDYwaHZNdl80dDJUS0JSWG5QaFZheWRmRUQzTEpwTWQ1Zjl4eGgyZjM1?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T00:35:54+08:00"
+      "time": "2026-09-05T00:33:00+08:00"
     },
     {
       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
@@ -131,16 +131,22 @@
       "time": "2026-09-05T00:30:50+08:00"
     },
     {
-      "title": "Live Updates: Iran war drives U.S. diesel price to record high as Vance downplays the conflict and its impact - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNTB4cXFwcGVMMDdGdWZaNExNcDRBUGVSZURNUHdKcWxIWjNLREUyQlpjaGdQQWZzMGh3cVZxcThKT1JtS0V1SlV5cWxUYU1Ra0I4OUJEYnoxa1RJOFlFWkxsNHpOR2d4R01Mc3prOERtdUx6MzF6RV9jRWEzM0l5Qi1mYkt1SUxULWJF?oc=5",
+      "title": "Two trapped workers are pulled alive from Nepal tunnel more than a week after deadly floods - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOenZNaG5zUWlWb19wYVlQRXlXZ1ByekxiZW1NbHRRTkhnR1FBWnBTT0NnNTNjaWFfbjhPNnlzdlNlMjZDVGJncmZxbGV0bVFUQktBWVQ1b2hUUUF1aTR1dk1Uc1NrMDF5SmZCVk1FQmlyb0QwZ0ZQcll1ODJEUnF4ZTBuY0UzaWs5YVBRbjhMRGpPa25RRjcw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T00:30:00+08:00"
+      "time": "2026-09-05T00:27:00+08:00"
     },
     {
       "title": "Second complete map of a fruit fly brain completed - Ars Technica",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMExXSUVqa0w4a3FxdW02UlBEeVRrRnJweXlqdG8xdDROeWV3eUtnREsxZXR2bXhENWtGTDVXYlk2cXJTWUdXeWt0Q092d1c4bVNJaGM0MEd1dzdESlBoVC0zX3ZVYnNuS2VRNU5wT0VuN1ozTk83cmxzeEY2a24xVXNuMjVnOGdFTmUzTGJGenQ5M2tjRmgxNF9XWWpJZ3ZMakN0aGRvOUFTRUx4UTMtUFZCQjE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T00:24:24+08:00"
+    },
+    {
+      "title": "Second baby died of measles, Lancaster County coroner says - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZTRxSVVwSXBvalVZb0lZdXdSbHlwYldFa29JcTMxd2JaLXNWbGlMMmxHcy1zbHBUVVdmT0VDTFUxZlJaeWtITlRJTWNienZFenhPdV9qeElhNHhaa0E3UWt4RVVreTM2b0pDZzdpVTVPTldITkloTGJUc2NYZEh0N01LVnI3QkJjbUFRRU5pSmZMbXZt?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T00:09:00+08:00"
     },
     {
       "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
@@ -159,12 +165,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNckc2XzJ1UTdjNE9LdWZnRGQ5OVQ5WVY0dkdFd210aFdTeHJvY3haTnlGYlZuWC0wdDJ0X0o1V01iVUEyY0paaHkwbzc2aHg5V1kxc01oalJiUmdiRC1veTJ5NXdRZ0p0SjljM3NzUXFIRzFnQUdMcHVPMnJFejR0Q3FlY1JCUGlra0ZxMzMzaDVncUtTNEY3X1pkRTB3UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-04T23:40:11+08:00"
-    },
-    {
-      "title": "Tesla’s Cybercab Is Being Investigated by Federal Regulators - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYXFZbVU5OFBQWWFsX0pRdWVzdnFNa0ZyU1lUNFVzcTd5ZjZlOGw3SjQxcndOVGdaLXBLWmcwWUZqZU5UX2VrY3l2YkhkTzZtOHNzRHpWZU1OZWFBc1JxRVpEQmFHMTIxd1B3NGhMckhSeHRzWjVPenZNOW8zelVrN0VNbVlTY2JBQlVn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-04T23:29:53+08:00"
     },
     {
       "title": "1986: Manchester's second-hand fashion mecca",
