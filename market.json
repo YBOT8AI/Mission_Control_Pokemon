@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-06T01:13:24.351457+08:00",
+  "generatedAt": "2026-09-06T01:44:28.237254+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 628046.72,
-      "changePct": 0.54
+      "priceHkd": 627215.68,
+      "changePct": 0.67
     },
     "ETH": {
-      "priceHkd": 19434.26,
-      "changePct": 0.95
+      "priceHkd": 19409.88,
+      "changePct": 1.24
     },
     "SOL": {
-      "priceHkd": 813.24,
-      "changePct": 1.93
+      "priceHkd": 814.03,
+      "changePct": 2.52
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1116.91,
+      "priceUsdOz": 4431.1
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.72,
+      "priceUsdOz": 66.34
     }
   },
   "commodities": {
@@ -53,16 +53,16 @@
   },
   "news": [
     {
-      "title": "US envoys in Moscow ahead of Ukraine talks",
+      "title": "US envoys meet Putin in Moscow for Ukraine talks",
       "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-06T00:57:15+08:00"
+      "time": "2026-09-06T01:18:31+08:00"
     },
     {
       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-06T00:53:43+08:00"
+      "time": "2026-09-06T01:15:05+08:00"
     },
     {
       "title": "Russia-Ukraine war: US envoys in Moscow ahead of Ukraine talks - BBC",
@@ -71,7 +71,13 @@
       "time": "2026-09-06T00:48:40+08:00"
     },
     {
-      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death - NBC News",
+      "title": "College football Week 1: Live updates, schedule, scores, highlights - NCAA.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlNpUmlUdUZISEhwWXQ3bXFSQXZtMVg3b2V4azE0OWpmd0VxOGpmdGJVZHhEXzVFOUZjQlBKWk1sRWluQWpIb0dIVUtlV1JzaGtEbFhHTDNlV3lrLUp2NWhlNTdwQTBRdlpIbGpKaV8zbThZMFNrbmhCNGQxNzVuTUFmQ3ZORml6aHdYM1Ytc0UwQmZuYXI3ZnA0V3JOQXNZb015NWlLS3M5V3VLbVQ4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T00:28:42+08:00"
+    },
+    {
+      "title": "Dolly Parton’s sister slams ‘fake AI garbage’ flooding the internet since icon’s death - nbcnews.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc1VWdFM2RXpITnpxMEVEd2VPZTRzcG9wRUtmekRUZjZGYlBocC1wQV9xRmpvN0lTRi1SWXlVeFVucnIydEdXVmdHTUdZS3BTd1JodW9feWFBN2NadWFCS2lGeFN3OHNjbXlla2Z5RklfRm5wQnVLMmVsNENjZ2dubGtNeXdOSjN1M05oNmR0THZRQVBZWUZQVzhqSGE5UDBQQUcxblBrSUEwUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T00:27:18+08:00"
@@ -89,6 +95,12 @@
       "time": "2026-09-05T23:54:00+08:00"
     },
     {
+      "title": "Lane Kiffin: Leaving former NFL players off roster in best interest of LSU - nbcsports.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWlVuZkUzZElqdDMwLTMtNnBzVTkyZTRJby1uMXltWkozZ3dwcVZ1LWxCeG5pLWNKcTZqZ1EweHNoV0dmWU1wNDQyN3hwYVNXMmFEZU5KTXFXQXVUZjhzVmVBQVhhMUFESlBXYlp6RnpkbHdZaHJWRmNTTnFQRGJwZVFrclN2bzhva2dnZ0VYcERJYjdDZzdRbkNqSjV4bHp4djBBM1dWLVdBN0ZvSU01U09YWFBqb01iclRaOFJ5Qzg5SHRXX2wyOTBkaXN2NnVo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T23:40:03+08:00"
+    },
+    {
       "title": "OpenAI acknowledges 'wiki incident' and need for more transparency around unintended AI behavior - Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU0FtQktXNWY5eEpHaUxBVGI2YWpHWE9SUGUtb1BhUkxLQmJvODRPX01WMnFqeEI2RThKMi1IT0E1eDBSUngtQkIwTUtiQWFjSHpFbXY0Q1BFcjZuUnBkVEZFMnFtOWpLUHVOZ1lZZzIwT3NxSnJnNG5DdHBvWi1STnFWSk1reWZRVkpEQjlCT05fdm8tV3ItQU5kSThCSjZON3ZvNXJhNXB2dWV0Zmt6NlJ1UUxoUDY4ZjZERk1qWmNUNkIxaW01anhRSURSaGlPZkE?oc=5",
       "source": "Google News Top",
@@ -101,10 +113,28 @@
       "time": "2026-09-05T23:22:41+08:00"
     },
     {
-      "title": "This is the starting grid for the 2026 F1 Italian Grand Prix - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWl0ZWNQa0o3UVRtRlJoUFpXMDF5MDJldmdSYkR3TFA2LUhFU0Q3dE5MazVVTk1EVE9aaFJJVFdQQ0R5a3RKR1dBT0pBRHNyY2JqTUVKejJScXh3elpTdkFyTUFRQk1mUFF3and0Q255UUtHYjZpZzRYeElaV0FGYmpHTDd4RkEyTDAyTlljd1RhUGs?oc=5",
+      "title": "Microsoft’s latest moves suggest Xbox Cloud Gaming is slipping out of the spotlight — and the strategy shift feels impossible to ignore - Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWktHVGhLLXlpNVJRRWhvMGYxbzB1WEFQdHUyQnIyT0VJYnJ3VzR6d2Vmd1VzUWpXOWZYOVQ2djNhUzhlZHppZE5UMGxrYkNlbW9QUEdhZERVOUxfQ19QS3FocHBnU21qeHRTWjgxZHpqTU9IYjQ3N3hBYmtDN1R0YlVneHdnQnNaRkhNdXhjZXhjdUgyUHkxOEwyV1BiZzEzaVpjSTZlUGZDOS1VUHdB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T23:21:49+08:00"
+      "time": "2026-09-05T23:17:59+08:00"
+    },
+    {
+      "title": "Trump says 'Stupidity causes inflation' and threatens to stop trade with foreign countries - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbTg3aERvS20wSlN2WDdlNXB1N3dwXzVLR2NXQXVGa3VlaDY1ZkVUS1dsN1hOWDBPSTRxVlQzMmUxQmItQnFNZjR2ZGFrYU93VnlxZFoyN2xMQVA4U1UyVEc0VGJWcHZ6ZEp5a2FjbDdVcUpVNjM1UHpTVUNGWEY0NlJvRi1TUHA4SjRJcmhyUUFjTm5OYWc5M00xbnpzRUdvdmFKSVAxRHNuTmdH?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T23:16:00+08:00"
+    },
+    {
+      "title": "Italian Grand Prix: Pierre Gasly beats George Russell to stunning Monza pole - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80SGprcHAtaDZBVlZyc1BvVWRtQnZPUTR0NFVJem80amd3ZEg0TEluY0JQM3F0UjR6OVFVN2dDUmI4NG43MkMzb0Y2SmZoVjhKOWZ1WURNZURUSlJ4Y0pHeWoyT0FVdW8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T23:15:03+08:00"
+    },
+    {
+      "title": "Man duct-taped to plane seat after hurling slurs and attacking other passenger, witness says - nbcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXk4cWFGak5rRldCOTBmWmR4bWZvSUFYNEtOM1NmMlp1OEpETFQzeVFNNGp3dHNmYm9EaHdZUWFXYl9EaV9NZndHcWo4QUs2VnFGS0oyNHkyQWRZbGNEdERfTHo1YkNSelMxSk1MNmVvdEhVTVAxQ29fd0ZGMldyU2tORHA5U3lONzVSV1pvNTdCNjVsb1R4SVlFV2I?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T23:02:53+08:00"
     },
     {
       "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
@@ -113,16 +143,10 @@
       "time": "2026-09-05T23:00:36+08:00"
     },
     {
-      "title": "US strikes three Iranian oil tankers after IRGC attack on American naval ships, Central Command says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc1hXR2o4Smo3UnZmTTJmM2V4bldFYkpPekNpM2NhUGozMnVKcWZWOHNyUDdmSm5YR2dWT3FRd0FHWnM1Nlc2c3pxSk1XNVdlM1VNb0VyOVRpRG9vMnMyenFVbFVNdERKVEpyeVAtQ0poemwzNTdkYkF4VENfUzhVd1pkQ2djaldJdUZFVThZVktLdXd3anlpZlBCVWpuMi1lTUw1TFA1anU1YWVEeEhIdTI1Q05zOVJqcUNnZkRTc1JxdU82RVRUSw?oc=5",
+      "title": "U.S. attacks 3 Iranian oil tankers after missiles target Navy warships - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeFdHUjNvUG9RMmZ3VVE2Vk1OZ28zajNuZGdGTjZPMEl6ZGpZeWU3ejU2aTgtaWoyY3RlRS1KR0dvNFRuWlI1bW5PWEY5clhkNFE5eklrMkl0dU9IODljc2tNOWRWZ1Rtcm0xN0tmUGFnNEh3LUJFd1U5UElfQTYyaklB0gGHAUFVX3lxTE5CZVY1SVM2aEVJTHdFcl9ZYU80MHFDb3dFTlUteUdCTFNqdXZFRWlpUURMUjEzVEhrSG9mTkYtcVpDcnRvdzlkdVN3MmhSYzlJdnowM0VsNzJQbTJrTnV0MFotQTczemxoTlhOc3VIQm1ZQmI2MDNFZW81aW8tdHVacjdQUkFBZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T22:42:01+08:00"
-    },
-    {
-      "title": "Trump keeps heralding an economic boom, but even a solid jobs report is causing problems for him - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzkwVWZXSXRVZHc3V2lJakNMRXBMd2NqZHZ3NlBKSm9NWnh3ZEVtOXRqUzY3UE8tM1otWUNQemF0VHdhbmYwdWQ5a2Rub1ZMbmREZ25iLWZSVnhBQWVsdUlEdE55WW84b19zS2J1S2x1TTlmWkFjUWtSS1ZWRnJFU182bnl3My1rZ0xPeVBfVVZ6VlpWTDJva3NUbEY0blJOTXFaLWhfR29hdktrWERqLW1hMzAxT2xKMGpR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T22:11:00+08:00"
+      "time": "2026-09-05T22:59:41+08:00"
     },
     {
       "title": "Nepal bet nearly everything on hydropower - the floods show why that's a problem",
@@ -131,46 +155,22 @@
       "time": "2026-09-05T22:07:38+08:00"
     },
     {
-      "title": "College football odds, picks, predictions for Week 1, 2026: Computer backing Auburn, Cincinnati - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUWFuOFJLMUFRNGhPNWM0ZVBoUy1LTEdnOUFKZmhXOUhsWXdJX3k1UmxfXzlSUkNLTGZMMkVjY21SM3EzdElIeUsxZG1jRUhKRG9tYVBhLUlsSlVBdXlrUFlvUXVkX3g3WGp6MGJrakRFazJHNkxQRmRQS1lVWnl0ZVBnU1RscWNPZTJiUTRScWxzTks1QWJMN20zQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T21:59:02+08:00"
-    },
-    {
       "title": "Greek air force jet crashes at annual aerial show, starts fire - AP News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJIdGJzdkhLMUJybzF4SHU5U2VfMUpJSXRIMC1TdlozSUVnZlllX1dINEV0U1ZxUlFoUjFndkpGTGtzNWItSEp6OTFETGwxY3ZKY2l4enhVTXl6anpkbENFeVJhRkZqM3BfWk9EUk15S2hFcVdrUy13Skh4WmpaMWR3LTRhRzJWNVBkaDhkT25OM3RyNjE4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T21:51:00+08:00"
     },
     {
+      "title": "Duane ‘Keffe D’ Davis Says ‘I’m Innocent’ in First Interview Since Tupac Murder Conviction - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeTNyd1QyOWxTR3o1S09PWFZEZl90WGlRakNRNzZVOUZLVGtkdTFoanBEQmFIM3haV2xJRXp0QVFWNmg0Wkl2VUNLNzhlM1pyTkRDVWZ0dnJvUThuQmdwLWVReWNWM3dXOHA3ZlViUXZXaFZZdmI5TE1hV1NZeG10OTNXTkg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T21:14:51+08:00"
+    },
+    {
       "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZjRxTHlmNGgyN05QTE9GN2ZQb0M0RFgtVUNvREtfMTdLRWJaUkw3blotT2ZBczVqOGlxQXdmREx1YVdWQ3d2bENpajhlaE83SFhrVDJEeF9vbkd4aHFUcXZITjdNYUlLWGgzUzQwdFJ6TXUtWWJfbEJKUU4wQndsWGRMM0JpUTJkejNMTjQ0eHl6V0pXRlpEM2F6TC1HOFpCMjNPM2xldHNYcDTSAbABQVVfeXFMTUFvWUxfc20yMlhaZG1rUFFUYWVWZGRXNVV2azJ4NVV4cFJFZHhMNjVnVFNRcTVZaWZQdFpRSE5XOXJITUdZaVhnZUZvbUNMblRLTVdzakc1VDhzWkhjRVItcFc2b3Jsd21kdVVQVEx3bTNBWTBfNXV0UGx3b0hfTXVJSnB2RjlISW1HN2xCeWhYa0hRSWF0M2dsVjN4MWxmcDFraFVSc01yU1NNZ00tN3Y?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T21:02:27+08:00"
-    },
-    {
-      "title": "Ex-Fetterman staffers promise more damaging details after blistering report: ‘Tip of the iceberg’ - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTmllSUNOdHFPeUVHYWtWX3BPOWFacGw4bnVCLWNnY0drdjZJa3ZTclppM2RycHlOZUdBT3FGTW5rYnJYZDl3QkQyZzhWSWNmUHlwQTBRX1NJQ3c2U2VNSENMQVpXMHVPV0stc3p0TG54VGhwSmR6R1JNN1hpWW5jTGdKSkhOazhEQ3ZWWEk0WVkzd3VNNGlhTmxWRGs0STlzTlA0Yk1hbEpzTnN1V2k5RWJ6dExTTlpBLVFrNURjNXPSAcYBQVVfeXFMTkRuOVNWUnZNa3gwc1pIYk9aWkVzR2loVnFtYkE4bko3UlZPd3dhcVRfUTl2a201VUpZUDJVV1FSaklHaDg0UDJSYlk4MlhBeDVMdHdaMldCTXdJbTE0X0VXZ2U5X0tZTVpjRTU1ZE41N3VENnVVdzFoOTJNZnc4T1Z5WGVudlc3cWFBSmpRcW91WkFBRjlKVUFiS0Rjci1Wdmo5WEdVdzJSVC1MYm04LW5jVFF2cGR4a3hTYXRCN2lZaUlsSzVR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T21:00:07+08:00"
-    },
-    {
-      "title": "US only country to oppose UN resolution correcting Africa’s size on world maps - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWhwSU5MUHkyaVh3QUlJVFdiOWstVFg3OU9tUFMycjBQczkzRk5FaWg4UnI4VTFYdHFWZDJsSWttX01CSUFjd2tyb2NOVjkxR2Jab3REZmpSbjQtd3NvQ3VkZmVqRjYwaHdSOFBMekV0WjVRR3I1T2FHMTNiX3NQTmZvSFNjLTM5bm5PZFFR0gGTAUFVX3lxTFB6VDV4Z2dXTUhNVUFvTGJtZUJEUnRlcUtsZmtrWnFjSkRWWGIxQ3BOQlRsTVpGQlg2MjRDWkNXUmQ1U05tTmdoUHhJc3lSX1kyZkdCZ1NjT04tLWhPNXAyY2VJeDJWX01PRWhYeVB0eGYxcUhKQ1JPRTdmclUtS1Jrc1Q0cDZKbnREYUtCb0ZDNFk0RQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T20:57:00+08:00"
-    },
-    {
-      "title": "An umpire told a Cardinals rookie pitcher to fix his hat. Moments later, his manager Oli Marmol was ejected - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNjc0TTRqc2llejdraW94U3l5eldJcnJGYkNVMWE2WGVIQ0NwZWRyMTJ1eVFjQmZmQ2xxdkdEX0ljNmU3WmlaQXU2X0cxWHlMWjhrbkhnTWZlRXNyZS0wSVRBM2tzS1hRejd6ei1HRUVzTE9nbk1BUUlzVFZlSVJSOEc0TGV4cGhNVERUOU9RaUZaYWFrdzI1MEtYbU5BU3VUc3lGSXg5ZjNDY2RadmZaMTE1SE1STllycVZWc1ZR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T20:36:21+08:00"
-    },
-    {
-      "title": "A woman was in pain for decades. A surprise meeting helped her learn why. - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ0I2ZGFuWjVfcTVyZXBib3YwX1NVbEdYaTRaQUttUjlzR2g2N3BkZ3BabXM0RFRyMWRXcC1kQXhKOC12eUxYX2s4WFNPUkdyQjJfcGJhbDRocm9aRE1EeW1vSU5wN0FjdkVnZUtOMnZyT2ZLTkt0Z0lGZFVvYzlITUZiVHgwS2JPeGFKdG9n?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T20:00:04+08:00"
     }
   ]
 }
