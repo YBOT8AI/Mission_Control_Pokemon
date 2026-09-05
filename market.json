@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-05T09:09:53.802134+08:00",
+  "generatedAt": "2026-09-05T09:41:02.115982+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624354.08,
-      "changePct": -1.75
+      "priceHkd": 624432.48,
+      "changePct": -1.48
     },
     "ETH": {
-      "priceHkd": 19247.59,
-      "changePct": -1.98
+      "priceHkd": 19245.08,
+      "changePct": -1.83
     },
     "SOL": {
-      "priceHkd": 799.13,
-      "changePct": -1.73
+      "priceHkd": 800.31,
+      "changePct": -1.32
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1116.91,
+      "priceUsdOz": 4431.1
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.72,
+      "priceUsdOz": 66.34
     }
   },
   "commodities": {
@@ -52,6 +52,12 @@
     }
   },
   "news": [
+    {
+      "title": "Flock says its cameras make US safer - so why are they being sabotaged?",
+      "link": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-05T09:16:27+08:00"
+    },
     {
       "title": "Flight price rises due to 'foolish leaders' starting wars, Virgin's Branson says",
       "link": "https://www.bbc.co.uk/news/articles/cje8wx2qw9vo?at_medium=RSS&at_campaign=rss",
@@ -71,16 +77,28 @@
       "time": "2026-09-05T08:14:25+08:00"
     },
     {
+      "title": "How Gloria Steinem’s lifechanging stay in India shaped her approach to feminism - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVmp5eS1sTHZJTFBuOTAxN0FXa25rblItRXZzeFZJQWFXRUlMNE0tOGswSDU5LVhQazFXQTZQb3B2eFZKUUI2LVpKWm94YzA3OXRLODNUTV9WRnI5RTR5RmU2d09nVlZkRWFNS3F2UERJOHE3eHNMX296TmptaXVoNVdvSUF4emdpRm9OSkktbG1DMFZTVGNBek5BQTVxR0tSWklHX0dsQ2lwaWlrZEVJbUZMQ2NPMFBpY2hXMk1GdmczUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T08:01:00+08:00"
+    },
+    {
+      "title": "Rescue of Nepal hydropower workers ‘triumph for humans and humanity’, tunnelling expert says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbmpBTlVDY0cxRGhIT2hJNTJLUUhLbFhxTUgzNm53eXF3S25BNEh2WkhWR002bXZhMjhoM1ZRUjJjVUlaSVlJQTBGb0Z6cVZ5ZjhZUC1VZFRlZXFGbTNqU3FueHJhRDdadWJBRnJMNzlHRm5wOUFHakdsdlNfYS1XY18xWWdmYmlfWU42OFpkRkROUTgzSGZWUTVKTVJ6Unk1S0cxQzhjaVdmQ1lCekVaVGlMM21VS0Q4ak5YMklINEZJNFZISFVYWWluNFFLeVRr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-05T08:01:00+08:00"
+    },
+    {
       "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
       "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-05T07:07:23+08:00"
     },
     {
-      "title": "AMD Introduces Threadripper Halo Station at IFA 2026 - TechPowerUp",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUjZSV3lFWmtuc3lzMkxGc19jNDNHQVVheE5USktUcmR6bHdJQ1VPVEVCQU5KR0RaUmppRHZ3X281U0NpcnJIWnh6dmdROGdKRWY3cGxrdzlFTi1fM05ndldSZEVXbjRXdEhodTFzU1VWV25WLVJTa2FyWEsza0FfNC04d3R3bElWZHd2OGpHYWvSAZYBQVVfeXFMTk9USmM1eFUzUHpoa1UxSjNDOFV3SkV3RDQ3akFFM1draVFyYmxQUUpHWTZBdWc3eUt4RlFHd1c0LUZlZ0RfS1F1elc5c3FacFpmcGZDSkd5eEhuVWVMRkJONGdaS21RTkxVTTN5eXhVUHd6RGYxTzcteXg3UF9PaTQ3OHBsU2RuU3N0eV9icFN3czRYQ0xR?oc=5",
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1Q3hOOTlHR29CMkZrT092Zmp0SFJzVWkzQm12ZU5VSnpnS0VSRldsN1dQSkx2SVlDTnZuS3RZNzVPa0ZzMlFvM3h3b2Z0MUVWaU44M2pPNldVQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T07:00:41+08:00"
+      "time": "2026-09-05T07:07:23+08:00"
     },
     {
       "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’ - AP News",
@@ -89,7 +107,7 @@
       "time": "2026-09-05T06:52:00+08:00"
     },
     {
-      "title": "After 8 years, Europe’s BepiColombo mission is on final approach to Mercury - Ars Technica",
+      "title": "After 8 years, Europe’s BepiColombo mission is on final approach to Mercury - arstechnica.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQkVyNTItWG9HMnRXU29TQ3NPeW5UZXZXMjJ0dWp4YTFGWUpuVVZtNTFDUDM0Z2FkVmdEZWdTWVA2ZGlxRVdjN0RDdm03MXVXeFB0RmlzcnNPS04zRXRCMng4dktzNFBFeXFMZGFTZzhlRzF2alhzZ2x1ZVJISWN6aDNEUGpQVHNIdFJ4Um5MbHgtamx2UzhteUlUaHMwUXZlZHAtcXZNTWZEYWRNVEs1ZmFR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T06:49:17+08:00"
@@ -104,7 +122,7 @@
       "title": "Judge again blocks Trump’s effort to restrict mail voting as ballots start going out - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLTd1MEZMWF9KdTNTOGFhSzJQMUs1eDNDbnJ1YjhsRjdwbVpDOFR0M2R6U3YtUFltVFpQb2hiSVkwQjJ1aFR6WnRnSm1GUThlZFZjTkRVMVpJcjBlRkdhcmNyUm5TVkhuc1lLTm9kRHd6QVJndkRoZm9SMW1XbGtqSzJ6S0R0NGN1VkR2YlM5YVVMdXcxT3dHc0x1YnpfajllaEpnd0JKSmd5bzVQdHRadFI4cHFZb2E5WUlaVy16UDAtdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T06:45:49+08:00"
+      "time": "2026-09-05T06:11:00+08:00"
     },
     {
       "title": "‘Wheel of Fortune’ announcer Jim Thornton fired after pedophilia chat room incident - latimes.com",
@@ -131,40 +149,22 @@
       "time": "2026-09-05T05:44:00+08:00"
     },
     {
-      "title": "What happens next after Lindsay Clancy's murder case ends in a mistrial? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTmN4T0dlOS1kMy15TnVsTXI5RFFJTll0TVRXQ3NkVlNtNHZUYnBfcVR5ZUE4aFhBVDNfeGRGNjVuWWJTVnBvQkxwODdhWGFXbm9SUkdEMER4UQ?oc=5",
+      "title": "Judge declares mistrial in Clancy case after jurors, with 'heavy heart,' fail to reach verdict - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdC0waHpWWEYwYUt5alRHOUpfVnhkMFIwdEZxUVJNSUpFUks0WTUyOHhsX2J1aUlhWTVUOWNVVUtyWjZPVE95MFNQay1yNDhOd0lfREJCYTZnbVdMNGNyQjRJMUJTYk1PZHpoNnZrVDlHcE5pal9SS3FpWGhkbVNrTEZvYUNrcVI0Tk0tTjNMOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-05T04:31:03+08:00"
+      "time": "2026-09-05T05:42:37+08:00"
     },
     {
-      "title": "What WNBA commissioner Cathy Engelbert's retirement means - espn.com",
+      "title": "What WNBA commissioner Cathy Engelbert's retirement means - ESPN",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmhYOGVsX3p2Rl8tdnNyV19PY21wTk8zTDQ0M3c5Y09TZXJva0lHcEl2N0ZFRDg2ZWREVFFLS1ZfZk4tczZ6VmtfLTdZZ2Z3N2M2bHFxNWpQNEpQSzhEWFlnQ0tiSU9QQmFuMUl2SzJPd2N4OEZRZHdMMm5XaWpDXy1jNWtzRE9tYlZ1dGV2V1NoOGNmbWhoT0VadkVtc2VoZjluN1dRSU9LLWs0c254ZDVZNk0wME1yT2pGaWtLWFg5OG9O?oc=5",
       "source": "Google News Top",
       "time": "2026-09-05T04:30:00+08:00"
-    },
-    {
-      "title": "Wall Street ends lower as solid jobs data fuels hawkish Fed bets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHN0dDlKUW5GZFotZml1LU1iRHB2dkFERDZDbVhFTUdZcFJtQmdqNFhDS0RsUk9PNEdCVGhTdVEydUZWd1FfM3dENlVFYV9QeXRNX2NWSjN2cS1NRVZ6YjU0WGRqQmJKMkZGOEczeHBzenpSS3Z4aEdZUms1a0RhcWUyOGdKM0ZrUk43N0J1aXBRUi1neE1rcFFR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T04:24:45+08:00"
-    },
-    {
-      "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSHduWVYtMzJYQk5UcVJNbWxaY1Z4YnA4ZWZ5dFRQSXEtTERLTUd3Y2gydFJ6MUdTeWstd3k2NTZWZnR1ejNwWEhOY05SRnFUOURrZi1qWUpLeXAyWWR4ZlJSOXBUZFBkY1Q2dmNzbkxncVkwNzZtU0ZtWlluSll0bjB2SDFtTUNvMmNwTlBRY1RNOE5EdGZHRDV3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T04:14:00+08:00"
     },
     {
       "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
       "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-05T04:03:52+08:00"
-    },
-    {
-      "title": "Russian drone strikes Ukraine's security service HQ, escalating air war - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXBKVHktcVd4YllGVWp6Y1RrY2t4Qk1Zak9xd00zMnpKU3ZNVFg3SUdOWnRsU3RSUFhzUUtnTlZUcTA1N0pVSzhBM3hkU3lGSF8yT0pSaFhlaW1yeDlzLUpVa3oySUZ6X2luZU5YYk5ydHRXOW1QQ0dsWDk1aW11SnJzSDJuUkpvbzF1U1p1Mmlvd1R3dmdsTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-05T04:01:33+08:00"
     },
     {
       "title": "Dolly Parton’s sister says family has endured ‘pressure and insensitivity’ since singer’s death: ‘Show more compassion’ - Entertainment Weekly",
