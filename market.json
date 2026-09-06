@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-06T23:48:35.665081+08:00",
+  "generatedAt": "2026-09-07T00:19:41.832446+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624714.72,
-      "changePct": -0.09
+      "priceHkd": 624793.12,
+      "changePct": -0.13
     },
     "ETH": {
-      "priceHkd": 19448.3,
-      "changePct": 0.87
+      "priceHkd": 19458.17,
+      "changePct": 0.89
     },
     "SOL": {
-      "priceHkd": 830.18,
-      "changePct": 3.0
+      "priceHkd": 829.55,
+      "changePct": 2.86
     }
   },
   "stocks": {
@@ -53,6 +53,24 @@
   },
   "news": [
     {
+      "title": "German far-right set for big win in eastern state - exit polls",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T00:10:46+08:00"
+    },
+    {
+      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T00:00:21+08:00"
+    },
+    {
+      "title": "Hurricane Lowell nears Hawaii. Latest forecast, storm impacts - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1RzWlQxM3NCM0ZNak43dDlOejV3UFFld3BZeEZmV2NORVQ1c19DMHZKS3F5c2tlbUh3Ukd2NHVZb01abmd6Uk1PRFJ5bFJyRlM4X2Izczd2Wmlna0pKVDNLMVRsOU45eEw5Y2xNMkJxd3BaYldKZS1pdGhDS3pld2MxRW5jSlJxN05WTnVFYUtpQXFvZVd6SnBsNU5EdTRTSlN6dGVIanpwaXd3ellSbl8xMmpzb1dRVzh3cUdQV2JlNDQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T23:46:00+08:00"
+    },
+    {
       "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -65,14 +83,32 @@
       "time": "2026-09-06T23:30:45+08:00"
     },
     {
-      "title": "Italian Grand Prix result: Kimi Antonelli passes George Russell for stunning Monza win from 19th on grid - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pd3pZZUx2Y1FVNU9GN1U2QXJQdTRvR1h1TTZQMTNuQU90VTFSekV1ZDRGaGtfZ09XQ1JvajU5UnUyVUFaeVkzSERiOExTZXE5TkJGaml0UEJVXzVaUTJHcG45RF9PNWM?oc=5",
+      "title": "LIVE: F1 Italian Grand Prix updates - Kimi Antonelli leads George Russell in closing stages | Live text - Motorsport.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFMyNGpXTUJNcDFjVnkwcVV3blN2MVJ3RjNqallBMDUxekpMTTAzT25DT2JtdzdKMWdDZDB0Zk9QaUxfdklvSTktMWt0dkM0QkdOdkJhZlNHX2k5MHJ5R0tiTnF3azlqUGRBUDI2dG9jcHZ0NHA3c2xIZ0t6WGpCZ0p3ejhSMzAxYlI3b08tcFRFYkNCbEd4ZmpjRkJzc0g2Tkh4eWhn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T23:12:27+08:00"
+      "time": "2026-09-06T23:17:25+08:00"
+    },
+    {
+      "title": "Pro wrestler Andy Williams, who performed as The Butcher, dead at 48 - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU2RJVFBUTzFyVElpaGhGY1Bldm5qZFd5Z01fRzI3My1Od1RTMUpoVmJYdEl3QUZISVROMGU3ZXNJYVUzbHNDdjFjemFMRzdlVWFPekxxWEYyU2NMVFV2TWdmMnQyOTBFQnVfdjF2SXFBVlhjTEctZXloTVdtY0NBb19yRVUtb1BWVzM0STVWSV9QYzVNaVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T23:00:03+08:00"
+    },
+    {
+      "title": "Apple iPhone 18 Pro Release Date Schedule: Your Complete September Countdown - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFlsREg2d21RS0tiWjJJQzBhclMyTnpqVjY5N0xVOGZCcWhWanV5dDFCemM1VmgyMjZWZFowS3dZQzg3b0lvMU9sa0ZHb1VKSU5tQTRlSG9SWDhOVTZrZUdraHVGUlNmcmZOd3lQaXJzR0tFRnJXdWFJMW83OWlqV3ZRYkVsb3U3bFlTQnJPUVZoSWI3YlVNeUU3SG1LNnlBaUdSVFNzbTdaTTlmeVJFUlVId2o3VGloX0hkaTloYXNSVXdyTDAw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T22:40:00+08:00"
+    },
+    {
+      "title": "Kyle Whittingham evaluates Michigan QB Bryce Underwood’s ‘not outstanding’ game vs WMU - maizenbrew.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcV9fMm11LWxyWGJsOGRSY3JtaU00elZhVVJfYlVaaVpwTXJMV2d3akxlUTBheVNRLXlTdE44RU5PTGZPYkN6R3RHVndnZW1rWFF0TzU4X0VOdXFqVUg2MzNxN3YwLVBwVGc1UlZZc1lzaEl0QzF2UjRHcWFONGRMRUhacXpiY0lQbkNMMnE2cHFHUVdQSENOTlJiRnZIY1ljTk9jQ3ZQVEcwcFVsY2JWMl9zWkU4LUFCc3VfUmp3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T22:30:00+08:00"
     },
     {
       "title": "Wright: US ‘may not’ reach nuclear agreement with Iran - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2xpdE5HdkkyNmp2a1hxZnpsal83dWRsdFpfemVQdHFuS3pBVFJPSndsZFNiYzVOVDRQWDNRb3JXa041QkoyOGt6SEJHMTc1U2FCdENUbUNzZTgzcDZreVhNSmQ5ajgwdkN1TEYwcFZ2d0FjbEVEMEN2VlZnWGRGUXNLcw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2xpdE5HdkkyNmp2a1hxZnpsal83dWRsdFpfemVQdHFuS3pBVFJPSndsZFNiYzVOVDRQWDNRb3JXa041QkoyOGt6SEJHMTc1U2FCdENUbUNzZTgzcDZreVhNSmQ5ajgwdkN1TEYwcFZ2d0FjbEVEMEN2VlZnWGRGUXNLc9IBiAFBVV95cUxQUU5keWo1eG1yTzJHaHNXSUVSLVJQYTJaT0xoVlVlVkc0ajRYcG9PZjlNMXVubXpJbmQ3bjF5S2pGcWQ5eVpCNWJ3eFlIZEEtaDg0WHZ4Ym9VOE1odDdpTFdFYlRidUMxVFdLbXpUZVVYTFJTcnI5UUMzV2dhSnEyWDdoUGFQRUNo?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T22:12:00+08:00"
     },
@@ -83,10 +119,16 @@
       "time": "2026-09-06T22:07:35+08:00"
     },
     {
-      "title": "Hurricane Lowell makes final turn toward Hawaii as islands brace for impacts - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN0VZZ2ZDMVljSkU3YUtIWmMtU3dfc0FILWJMdjhTRDNkaDJFSzZFcGhGTmI2dnctVzV4VlBBTjZYQUpfX2pMdEU0SlRJNFRYcUxWdS1IWFdMazZqOTlWRlRNdm9TMHRibWRTaTcxWmcwaE4wbmxDZ3NHOGNCSlQ5YmttVENGTlN3M3JN?oc=5",
+      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3FNdm13NVd2bmJkY3V1YUFNSk52amNNb2otakJHclc2SEhtRTRaRG5xX3FfdHN4S0JtTjZGdV9HYndObkhRbHZxNzc1aGUwdjNQN3VDYWZnbFZ6RnYtRUVXNWd3ZExub3dzanB3WlVGLVNEeW9NanBsTlN3ZV9IZlhhZEZ0ZkYyakt4czZnRFNkT3lwLVA5WjdoYTlGRk1CUWM3WlBVT1QxdlJHemtB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T21:48:52+08:00"
+      "time": "2026-09-06T21:36:00+08:00"
+    },
+    {
+      "title": "OPEC Plus to Keep Oil Production Steady - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2pWUklObC1DTFJZQTFnd2s1eVJhRFplUkZoZlNXZU84bjl4ckRQOEdhclpUTlBKMHNRLU1nRE81Sjl3amhuLVJwZEd0TDBGZ1pfbUt3UmxaLXNIRWt6LWJRRWdHUEllR0pVRV8zS2ZMMEItZkxsLTdNNmowV0pvWlJFcw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T21:26:07+08:00"
     },
     {
       "title": "Poll: Cracks emerge in GOP support for Trump and his handling of the Iran war - NBC News",
@@ -95,28 +137,16 @@
       "time": "2026-09-06T21:00:00+08:00"
     },
     {
-      "title": "The Fairphone 6 Plus is the midrange phone we desperately needed - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xX2JYUWZ0bUh6ZWpJcHlKal83czNJaUpUR0g1YnZoa0hZM05sQzBQUWczYks0Q1JZa1JhSHk4dTdYXzVRQVA2UDZHRnVzOW1UbTBLRVNwSHNLS0FOSG9meDFWRHNYT3NPR09CUA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T21:00:00+08:00"
-    },
-    {
-      "title": "Howie Carr: Lindsay Clancy holdout juror should be named Man of the Year - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnA4a1BYMTdURC1DOWlEc3MwSEtGLW1veVhYc3Z6WHl1OHIxWnZScURieDZEWThyeVlSM2RNTmsweXVvYXVjRDNqMjdPLTMyU0M2U0JLbXNIT2JVZjltWUF0ZFcwTVdIeDY3ZGhLcVZWZ1dubU1tWGJSN3pSWjFOdWpTT1NJZmh2S2VvWFZGc1hQUWhrMzlyNzk0VUpTREg4TjI2S0NnR2J0WlFENjFvMVRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T20:41:05+08:00"
-    },
-    {
-      "title": "Michigan Hail Mary robs Western Michigan of upset: 'THE MOST RIGGED ENDING EVER' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc2FSUGFXRDdOcmc3cDg2RjZFS090bGExZjJDUTA3ckNyZ0ZDWFcxRjJmNkRSUWRkQ2pocGlDMjU3SFVhLUowX2s3UjZmXzVXRE5VbFIwcGlfVDhtZlpKaUh4cl80cE02THJaOFc4dndlUHJadDNWYkJ5QUZqeTVrYnJyQ05fRnNHQm90N2wzZWVXb05DOEQtWktDbWdTalBSbXdqWF9rSmQyQlBXUWVISzRsaUtZUjNyUk5NZlRDYzZKSnlMMVhmR3NRSjBaUE9WZXVEQndLX1IyZFA2Vm15bmJmM21ROTg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T20:22:00+08:00"
-    },
-    {
       "title": "Nepal flood survivor’s family in China relieved after days of anxious waiting - AP News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjlaLXBxbVRNZVJ3dFRxZWxMSk9BbGdDQ0VRVEJGd1g4U1Z0aW1QQjhXVEUtMjFCVDNHQWJ4T1NEa0FjWHMxWU1ndXkwNTkwd1dLZzBoaE5NT0V5WnEzNFR4ZmN1aDlzdlhsZ1NXRlRTaWFxdDVsUFlRTndKNWJnaTZBYWZLMzV2eUFXbTRUZHV1SHdSblhQV0hWSmU0Y19MYnFFVg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T20:14:00+08:00"
+    },
+    {
+      "title": "Iran attacks US ship in Strait of Hormuz - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSkZRQjVFR09xQ3BaSVdBR3N6TnQxQ1d1Njd1RnhXX3FOcEdmNHFWZGNDOTBmMjhRVk9DYVpCYWtORWt2ZlBGLThya3RvbkNWanVhY0JCTm14Tjdpc044dDNkTlZHMmp4STBWVnhDYkVhb1FrLUo2dzN0MjF1blRUNjBRek9PcUZaaGZNcW1yNNIBlAFBVV95cUxPUlRuamVFbkhTT090WXBOODUxZGNXVEpiWFE3ZWJCWE44OGV1dEU5THpsSld5UVJKaVMxWkxWT3hpYmRpcFpKU0VrNFhYZW1nMy1kTTFMejdiZDdwSFY2Y0pqZmZuS282cWtaZTE1NWVKaEVfd3FRV3ZCTV9Ua2x0b1FEQjRFYmhEX0thaFlFNW42SUcy?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T20:10:00+08:00"
     },
     {
       "title": "What different world maps get right - and what they get wrong",
@@ -125,52 +155,22 @@
       "time": "2026-09-06T20:09:54+08:00"
     },
     {
-      "title": "OPEC+ keeps oil output policy unchanged for October - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEdjS0pVMy1JLXZFN0V6ZFhjdjNOOXpjRnUtYXdYZEdjbzNaR2R6TGU4UTRDVEdLazJuMS12eHp6d0hWQjI0ZzdhRTUtbVBqR3NhSGRES0UxbG1TZ29QX1hjaWZFNWs1RWNWV1E0azdPVDNIR2x4TGJYMzdDZ3YtVUN1VzZEam5Tb3pXYy1TejN0VFMxYjI1U3ByeFZDZmZ1UnFYX053R3N3YzhST3dSWGdB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T20:03:29+08:00"
-    },
-    {
       "title": "Fuel duty proposal withdrawn after discussions",
       "link": "https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-06T20:01:41+08:00"
     },
     {
+      "title": "Exclusive: Fetterman blasts ‘disgruntled staffers’ and ‘smears’ after report details apathy toward his work - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40WTBwdTZhU1JpbGR2WkQ5YTZmaVhUTVM1V09kT1Y5UXVhUXRsY0tLXy1GODQ1RjlFTmhsZDdUWmMwUVVkbDJYSkFfOWpva2RhaTBYRmhKQ1BFc0ZwM1FfZXh6NmNtTUQ4cXp4cUZnNlF0YVl0WHlEWnNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T20:00:29+08:00"
+    },
+    {
       "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - AP News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T19:42:00+08:00"
-    },
-    {
-      "title": "LSU had a revival, Clemson was at a funeral: Lane Kiffin’s debut sends a loud message to college football - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ01vdzZ3b0NZQjF4WDE3Vzc0WXVub3FfdVNVV3NBUUNCa1kwX2t3VmMxSG80S09GeFUwSktpNGY0c1RTM3A4eDJHd2ZTcHlYMHdqTUt0MzJqVXBjTTBrWHdsN0ExbThVV1Q0Vk1CbFBfLTFnLXBHdWV2b0NLTXNyV0dEOUNaTWd2WnF6SHJoSW9taXA1NmhxTnRLdEVFQ2Mtak1rRTlWSWM4UUs0THd6TmtsdXYxX1MyZm9Leg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T19:35:04+08:00"
-    },
-    {
-      "title": "A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYUhvYWh0MlVEQ2RMUWJ0OFRtclJlOTZGOFFXbFoxSDNzTGpjb0V1dlI2V19sRDdoNGNJVXRHNVNUWjh2UzB3VlR1Nm1TLV9aMm1ia2lkczF4VTlSLUh5cWM5QzRIMUFJUWl0TGgyRUFZanhfUVlVZVZQdFlKajFSZTF4OGRCQUdZcWtDeklZZGRsQXgzalRib1VHZ0p0MWtsOGRua0tHVEhSY1QzWmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T19:26:00+08:00"
-    },
-    {
-      "title": "US envoys make first Kyiv visit amid Ukraine war peace push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T19:18:46+08:00"
-    },
-    {
-      "title": "At flood-destroyed China-Nepal border, no sign of a once-busy port - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbndid2VJNko4cVpiOGlLdFlhX0JEN0trbG1oWjh0cTlsdml4SVF1TWNtTFY0Vlp2ckhTb2JOR3NaZ0hoTThOeG9JRWlTVVd3djNKRFpwWnk3eGxEYTM5bkVKSmloRm4wQnptWUlyTGE3a1FpOEpyQ1pRbFFSX2V2VE5iN2ZTN2EyRzdwaUh0R0d4cFI3NFMyWjhSNTJWOGQ2RnVsM2FZcmtIZmNzQXpCUk9vblhPOUw4WXNBd1V5LTI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T19:16:55+08:00"
-    },
-    {
-      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYl9iXzAxY2Jyd3FvVE1aa1V3TmVHd19wcDNad1RSUG13VTFFZ1BINnpIWjBQa1lwRVdsZXBFa1NFeGZnbzZpQWN3Ul8zeEx2aGs0cFQwUVZIamljSEVBMDZUNmJQdWhlSDREZU5Xcmh5emh5dFNMZm1RTTloNkxoeG9VWjhual9jYXZyMkQ5NTBXZnZuemFJeGRYd1ZWQmFSN3JtTDJLV0lXTWw1MUtZ0gG0AUFVX3lxTE5scDhDRzVfdkhnVkpIMF9pbkYxNFphWVdKd19fZ0phU0Q4QkFsZFctaDk4SmxiVWVvMDhFM1R3R1l6T2dfWlJtaUJ6TVR1WUtXaUhjY05jc1NKaTVrVUlORlZBXzhVUDhZZ1Rabmpnb0ZiZ0UtZlFOeFdnUkVzTWpPdW84YUF6NkVneF9tMU0tUDVaaTQ1bmNweGI4UkZSVFZVX2hFbHZlVmltYTFDd0pteUc4YQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T18:50:58+08:00"
     }
   ]
 }
