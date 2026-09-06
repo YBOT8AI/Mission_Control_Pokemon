@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T06:01:34.255603+08:00",
+  "generatedAt": "2026-09-07T06:32:40.381766+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 626698.24,
-      "changePct": 0.03
+      "priceHkd": 625741.76,
+      "changePct": -0.02
     },
     "ETH": {
-      "priceHkd": 19658.72,
-      "changePct": 0.74
+      "priceHkd": 19591.22,
+      "changePct": 0.66
     },
     "SOL": {
-      "priceHkd": 830.41,
-      "changePct": 2.1
+      "priceHkd": 827.12,
+      "changePct": 2.01
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.22,
-      "priceUsdOz": 4424.4
+      "priceHkdPerGram": 1116.83,
+      "priceUsdOz": 4430.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.68,
-      "priceUsdOz": 66.18
+      "priceHkdPerGram": 16.7,
+      "priceUsdOz": 66.25
     }
   },
   "commodities": {
     "Crude Oil": {
       "priceHkd": 717.2,
-      "changePct": 0.2
+      "changePct": 0.0
     },
     "Natural Gas": {
       "priceHkd": 23.32,
-      "changePct": 2.13
+      "changePct": 0.0
     }
   },
   "news": [
     {
-      "title": "Live Updates: 5 dead, 5 injured after Amazon cargo plane crashes near MIA, sheriff says - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkxlQzQzanRxb1oxM0RodWcyNldQdkF0VmlKM2JVUE9SYzhmMGo2eE5VekVWNHpUMGJ1RUlDN2VLMUprdklyY0FnUl9MX2ZQeWV6NzBVRDBPRC11WnM2MDZuZzdJbXplRGpfRXIxUUFmZGI3RElkS0tLT3Z5czVZRVU5cUxmelhfUnp5NmZRd3FtSzNKcm5QY19TaGhZd01WQ2tWZ2lycw?oc=5",
+      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T05:52:36+08:00"
+      "time": "2026-09-07T06:17:53+08:00"
+    },
+    {
+      "title": "Live Updates: 5 dead, 5 injured after Amazon cargo plane overruns runway at MIA, sheriff says - NBC 6 South Florida",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkxlQzQzanRxb1oxM0RodWcyNldQdkF0VmlKM2JVUE9SYzhmMGo2eE5VekVWNHpUMGJ1RUlDN2VLMUprdklyY0FnUl9MX2ZQeWV6NzBVRDBPRC11WnM2MDZuZzdJbXplRGpfRXIxUUFmZGI3RElkS0tLT3Z5czVZRVU5cUxmelhfUnp5NmZRd3FtSzNKcm5QY19TaGhZd01WQ2tWZ2lyc9IBrwFBVV95cUxOWkdjUm50ZnBoZlVFc044dl9zU0RsTlBrUVFidm5IejZySDlZdzAxSU9xekFXeXh6WklYck0tRVM1X053UGVJdWtnOThOTUJoMFhZdFQwNkswTm53ckxmdUNjXzAtazQwSDEydWtrYThrTzNVajJUWkFGWlZiRmYtLV9xTzFvQUx0aHRDTUliN1dOZnZ5Mi1RYzZlT1BoS2F0enprS2oxRkF4d09VTUZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T06:13:08+08:00"
     },
     {
       "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
@@ -71,7 +77,7 @@
       "time": "2026-09-07T05:23:28+08:00"
     },
     {
-      "title": "Team USA escapes with win over Italy at FIBA women's World Cup - ESPN",
+      "title": "Team USA escapes with win over Italy at FIBA women's World Cup - espn.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVEVHWUcyUWxhb3liRVB2enVuSnhwRkExcmxYdkVnYWttMlh2YkZXR2x3ZDJPLTZmTnJHeWUxT3kyMWVyTTFMV2dPVXI2RDUxd1BaU0VuM1dHODhDaHdra3RveWVZM1p6ZVV3RXpONlZTRmpZOGRvZG9pY2F2MERSZktJUmhlMWxDU0N4eGppeDJBaXI1Zm5F?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T05:04:00+08:00"
@@ -101,16 +107,10 @@
       "time": "2026-09-07T04:41:32+08:00"
     },
     {
-      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "title": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQjFZYld3STFWaVdhR2hGb25NdVJQeml2TU5PRDlsa2lFbVc4a1huRXU0MlFYd0lvem4tR3dablZsMDBkUVpQMjNDb0dlTjdicVVLMWwtUDh1cnlBSkUwUDFYUlNfLUs3QTB0SmU4d3VXQmxady1jRkhQMnRYdjZ1bDVKTEhRaVpWT1dZaXVCYmNhMEZGOVAyeHI1Z3o?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T04:00:12+08:00"
-    },
-    {
-      "title": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXAyQlp5eGUxc0c5VEZlY3duVzh2TzlvVjljbV9HTDltWnFuRmdzbDQ4N3RTZ3A4STl1VFNKYlZoRm5ISHVsMW5hOTBEazZ0ZTFpNUJPb0VvM2kwZFhidmdGZ0FlcHpRdlhuWWdaQldQa2RjcEFxU2tTTUVnYnVpNno1T1NzR3BoMDBoU3VqNGtfSU9VQWZiX0JBZEVQNDNCR0N2UlNMb2g3WkU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T03:29:14+08:00"
+      "time": "2026-09-07T03:51:10+08:00"
     },
     {
       "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands - The Guardian",
@@ -119,22 +119,22 @@
       "time": "2026-09-07T03:14:00+08:00"
     },
     {
-      "title": "Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcVRCUTJDbU1rM3VXMlV0U0lONk81WDlCendLTXVDTnBJc1JWamJfdDJtVzhOeFJxVnVHeWo5SnJ5WVkyQThNS2FDVmhSaDUzQnMzbGFRUVpEdDdmQ0V1X3pGMlFNMnVQdElab0dqNGNobzRSMGQxeGdPWEVYNVR3WE1FVXcwdTVzbzNyaWN1RTJiTmg2a1NMSFBBWTZPb05oYWRwV2NR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T02:51:30+08:00"
-    },
-    {
       "title": "Germany's far-right AfD celebrate projected win in state election",
       "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T02:32:53+08:00"
     },
     {
-      "title": "Unruly, disruptive Tucson man taken off diverted flight no longer has a job - kvoa.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ1o5NTF4YnB0ZUh2X1ZzMmNOZER4eEh0aXJ5SUliS09tUUNkVjZiRzR3ZUh0N09wZFE0ZVZkeHEzQkQyS29JSXcxd2Y4MzQ2Z1V4WTk1alZCMXFzVV8wcnlFanFWaU1VVWtIdExLMHVobzBPQmV3OGRHaG1EenRGRTJpc3JrdE0xUEZGdGh2b2NQakttMW9tdHJoMXlaQ2d5R3ZGS2Y1OVpDclhPUndvZFJKYjVhdlJvc2hQWUxON3Y0TkZHemRELUhmbExzR1p5ZG01cW0zRDNGalEzRUJhd3Zua05LVndmaXVFdEtkSGtjV3V6?oc=5",
+      "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNKcllFR3pBVUpvRm9hUkcwV0d6YlJabVRjcy00QW5pcE0yRDkzclpSTE9MSjI0SjNFSnBrTXlwXzRUdWRuSzlvdXo3dDZrb1pDZEg4eER2b1hyWnlZRHozTmlick5vMk50enVZdU5YMi05dlhSY0d1amx0OUNfTF9QMk9WMElFVmpYeUlXMHdNZzJXRFdPQXdhSmNLV3pGOE1oeUhuaVFCQjVVZEVPYzBROUV4SVM1U3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T02:19:03+08:00"
+      "time": "2026-09-07T02:13:21+08:00"
+    },
+    {
+      "title": "Winners and losers from F1's 2026 Italian Grand Prix - The Race",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXNmMjNFTWhoSFJXUVhwdUtDbFNub3N2d0EzMEt0UXhRZGVZR2hkUklwZ1duMWNRVzBHdGNsUV9sa0M4V0xZb01sZzZFeExxcDZOUFctYUp2SGdmeEpQZ2NjYWJUN3RSelY1X1NodnZtSlVwY0lzeUFlTU1adjFmMmtFMA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T02:08:11+08:00"
     },
     {
       "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record - Variety",
@@ -143,9 +143,21 @@
       "time": "2026-09-07T01:31:00+08:00"
     },
     {
+      "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T01:28:00+08:00"
+    },
+    {
       "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
       "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-09-07T01:00:56+08:00"
+    },
+    {
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UR3B1TU1mSXExZlE2dDZIR3JXV29PNmtJejBZSG1uZjlrZktkNzl2a290TXk2Nmczc21XS1FKNlRZVGZCQndxTHVkZUpqX2wtUE5WWXJmWVU3QQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-07T01:00:56+08:00"
     },
     {
@@ -155,22 +167,10 @@
       "time": "2026-09-07T00:54:34+08:00"
     },
     {
-      "title": "Andrew Williams, Every Time I Die guitarist known to wrestling fans as ‘The Butcher,’ dies - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVDak5RRG9oUi1WbHJiTzFldjVmQkw2NW9xQmc3LWlpdkFkQkk2eUtPczAySjk5NEMyeUZ5ZE1lbkExcUJ3b2tTZVIzSHhjRVZJa0g1enhYOWlhV3ZWMlEwc1hWTHk4NEZCLTdSc3JKNDh2SjZGUHByVGhMYW9DejRhY2NxRzdaNWtYeXBYY3E1dVh3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T00:45:14+08:00"
-    },
-    {
       "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
       "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-07T00:32:59+08:00"
-    },
-    {
-      "title": "Boox’s tiny Picco e-reader should land in November - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3g4Mk5WMlVMal9rNEZoZ3NoeVVkZmJaaTRCbGNpWmFVNlFsWnBBNmRFQlZ0eUUtaHlxbUctbVdPRzRLVTdnRXpTRk5tOWFZSUlLN3p4M0hzM2R0NzNQbGNwUjRiXzdTcmI0VjR0Y1NuT1BKMUJqVnBJVlJybzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T00:28:58+08:00"
     }
   ]
 }
