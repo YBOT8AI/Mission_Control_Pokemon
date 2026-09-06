@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T09:48:30.165511+08:00",
+  "generatedAt": "2026-09-06T10:19:32.486979+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -24,7 +24,7 @@
         "commits30d": 5,
         "totalCommits": 12,
         "branch": "main",
-        "uncommittedChanges": 0,
+        "uncommittedChanges": 3,
         "ahead": 0,
         "behind": 0
       },
@@ -35,13 +35,15 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "Test script configured (hardhat) but 0 test files"
+          "Test script configured (hardhat) but 0 test files",
+          "3 uncommitted changes"
         ],
         "actions": [
-          "Write first hardhat test file"
+          "Write first hardhat test file",
+          "Commit & push uncommitted changes"
         ]
       },
       "phase": "1 - Fine Arts"
@@ -58,16 +60,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "c569b2f",
-          "message": "chore: remove unused createClient import from bookings route",
+          "sha": "1db8ad1",
+          "message": "chore: remove unused components (before-after-slider, map-thumbnail, price-compa",
           "author": "evilmoni",
-          "time": "2026-09-04T03:04:57+08:00"
+          "time": "2026-09-06T09:50:59+08:00"
         },
-        "commits30d": 49,
-        "totalCommits": 141,
+        "commits30d": 50,
+        "totalCommits": 142,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 2,
+        "ahead": 3,
         "behind": 0
       },
       "tests": {
@@ -81,7 +83,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "2 commits not pushed"
+          "3 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -102,13 +104,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "c22201a",
-          "message": "chore: update changelog for 2026-09-05",
+          "sha": "6f43273",
+          "message": "chore: remove stale Firebase artifacts and typo .gitinore",
           "author": "evilmoni",
-          "time": "2026-09-05T23:00:46+08:00"
+          "time": "2026-09-06T10:02:04+08:00"
         },
-        "commits30d": 80,
-        "totalCommits": 178,
+        "commits30d": 81,
+        "totalCommits": 179,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -142,16 +144,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "899f055",
-          "message": "chore: remove unused useFieldLabel() and FieldKey import from FieldCustomizer",
+          "sha": "cb5ec55",
+          "message": "chore: remove stale SETUP.md, drop dead Gemini/Lucide refs from docs and env exa",
           "author": "ybot",
-          "time": "2026-09-03T01:03:49+08:00"
+          "time": "2026-09-06T09:52:06+08:00"
         },
-        "commits30d": 10,
-        "totalCommits": 17,
+        "commits30d": 11,
+        "totalCommits": 18,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -161,13 +163,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Push commits to remote"
         ]
       }
     },
@@ -191,7 +195,7 @@
         "commits30d": 8,
         "totalCommits": 41,
         "branch": "main",
-        "uncommittedChanges": 0,
+        "uncommittedChanges": 2,
         "ahead": 0,
         "behind": 0
       },
@@ -202,13 +206,15 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 75,
+        "score": 65,
         "label": "attention",
         "issues": [
-          "No test suite"
+          "No test suite",
+          "2 uncommitted changes"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Set up test framework & write first smoke test",
+          "Commit & push uncommitted changes"
         ]
       },
       "phase": "Option B - Full Build",
@@ -262,7 +268,7 @@
         "schedule": "every 30m",
         "last_status": "ok",
         "last_run": "2026-09-06T02:45:11.868118+08:00",
-        "next_run": "2026-09-06T10:17:27.656217+08:00"
+        "next_run": "2026-09-06T10:47:37.252943+08:00"
       },
       {
         "id": "539a150ac028",
@@ -279,8 +285,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:46:47.114827+08:00",
-        "next_run": "2026-09-06T10:17:27.740077+08:00"
+        "last_run": "2026-09-06T09:48:37.527197+08:00",
+        "next_run": "2026-09-06T10:48:37.604907+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -288,8 +294,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-06T09:47:32.314912+08:00",
-        "next_run": "2026-09-06T10:17:32.314912+08:00"
+        "last_run": "2026-09-06T10:17:38.037606+08:00",
+        "next_run": "2026-09-06T10:47:38.037606+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -297,8 +303,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-06T09:47:30.477283+08:00",
-        "next_run": "2026-09-06T09:57:30.477283+08:00"
+        "last_run": "2026-09-06T10:17:37.642933+08:00",
+        "next_run": "2026-09-06T10:27:37.642933+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -306,7 +312,7 @@
         "name": "DB Maintenance",
         "schedule": "15 3 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T03:15:13.667155+08:00",
+        "last_run": "2026-09-06T09:47:46.696138+08:00",
         "next_run": "2026-09-07T03:15:00+08:00"
       },
       {
@@ -324,7 +330,7 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T18:01:03.105305+08:00",
+        "last_run": "2026-09-06T09:48:50.531254+08:00",
         "next_run": "2026-09-06T12:00:00+08:00"
       },
       {
@@ -333,8 +339,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-06T09:47:32.501422+08:00",
-        "next_run": "2026-09-06T10:02:32.501422+08:00"
+        "last_run": "2026-09-06T10:17:38.121999+08:00",
+        "next_run": "2026-09-06T10:32:38.121999+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -342,7 +348,7 @@
         "name": "Noelle Daily Blocker Nag",
         "schedule": "30 9 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T09:30:31.059236+08:00",
+        "last_run": "2026-09-06T09:55:10.699505+08:00",
         "next_run": "2026-09-07T09:30:00+08:00"
       },
       {
@@ -396,7 +402,7 @@
         "name": "Robotics Business Daily Brief (6am)",
         "schedule": "0 6 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T06:01:28.440046+08:00",
+        "last_run": "2026-09-06T09:49:43.877921+08:00",
         "next_run": "2026-09-07T06:00:00+08:00"
       },
       {
@@ -405,8 +411,8 @@
         "name": "Weekly Strategy Review",
         "schedule": "0 10 * * 0",
         "last_status": "ok",
-        "last_run": "2026-08-30T10:01:02.700260+08:00",
-        "next_run": "2026-09-06T10:00:00+08:00"
+        "last_run": "2026-09-06T10:00:46.811099+08:00",
+        "next_run": "2026-09-13T10:00:00+08:00"
       },
       {
         "id": "1a08fb3bbb9e",
@@ -423,8 +429,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-09-05T20:59:58.487134+08:00",
-        "next_run": "2026-09-06T15:47:29.706411+08:00"
+        "last_run": "2026-09-06T09:47:55.557519+08:00",
+        "next_run": "2026-09-06T15:47:55.557519+08:00"
       },
       {
         "id": "871bc45fb59e",
@@ -495,7 +501,7 @@
         "name": "Weekly Backup + DB Maintenance",
         "schedule": "0 3 * * 0",
         "last_status": "ok",
-        "last_run": "2026-08-30T03:01:51.166217+08:00",
+        "last_run": "2026-09-06T09:50:05.767454+08:00",
         "next_run": "2026-09-13T03:00:00+08:00"
       },
       {
@@ -504,7 +510,7 @@
         "name": "7 AM Morning Briefing — News + System Health",
         "schedule": "0 7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T07:01:49.215576+08:00",
+        "last_run": "2026-09-06T09:50:44.450106+08:00",
         "next_run": "2026-09-07T07:00:00+08:00"
       },
       {
@@ -531,8 +537,8 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T18:00:36.806036+08:00",
-        "next_run": "2026-09-06T10:00:00+08:00"
+        "last_run": "2026-09-06T10:00:45.596330+08:00",
+        "next_run": "2026-09-06T14:00:00+08:00"
       },
       {
         "id": "86f0a1085a5f",
@@ -540,8 +546,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:01:05.307075+08:00",
-        "next_run": "2026-09-06T10:00:00+08:00"
+        "last_run": "2026-09-06T10:00:53.088851+08:00",
+        "next_run": "2026-09-06T11:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -557,8 +563,8 @@
         "enabled": true,
         "name": "Code Quality Loop — Dead Code & Cleanup Review",
         "schedule": "0 3 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:53:00.151456+08:00",
         "next_run": "2026-09-13T03:00:00+08:00"
       },
       {
@@ -566,8 +572,8 @@
         "enabled": true,
         "name": "Code Quality — Client_Tracker_Pro (Weekly)",
         "schedule": "0 6 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:51:14.279507+08:00",
         "next_run": "2026-09-13T06:00:00+08:00"
       },
       {
@@ -575,8 +581,8 @@
         "enabled": true,
         "name": "Code Quality — Orbitx-NFT (Weekly)",
         "schedule": "0 7 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:51:01.083171+08:00",
         "next_run": "2026-09-13T07:00:00+08:00"
       },
       {
@@ -584,8 +590,8 @@
         "enabled": true,
         "name": "Code Quality — KinKin (Weekly)",
         "schedule": "0 8 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:51:34.125634+08:00",
         "next_run": "2026-09-13T08:00:00+08:00"
       },
       {
@@ -593,8 +599,8 @@
         "enabled": true,
         "name": "Code Quality — TechWealth-Tracker-Pro (Weekly)",
         "schedule": "0 9 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:52:13.150332+08:00",
         "next_run": "2026-09-13T09:00:00+08:00"
       },
       {
@@ -602,17 +608,17 @@
         "enabled": true,
         "name": "Code Quality — TechWealth (Weekly)",
         "schedule": "0 10 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
-        "next_run": "2026-09-06T10:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-09-06T10:02:13.582041+08:00",
+        "next_run": "2026-09-13T10:00:00+08:00"
       },
       {
         "id": "8049ff61f3c7",
         "enabled": true,
         "name": "Code Quality — Mission_Control_Pokemon (Weekly)",
         "schedule": "0 3 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:56:42.496326+08:00",
         "next_run": "2026-09-13T03:00:00+08:00"
       },
       {
@@ -620,8 +626,8 @@
         "enabled": true,
         "name": "Code Quality — Dashboard (Weekly)",
         "schedule": "0 4 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:52:49.857809+08:00",
         "next_run": "2026-09-13T04:00:00+08:00"
       },
       {
@@ -629,8 +635,8 @@
         "enabled": true,
         "name": "Code Quality — WorldPawsOrg (Weekly)",
         "schedule": "0 5 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
+        "last_status": "ok",
+        "last_run": "2026-09-06T09:55:31.089820+08:00",
         "next_run": "2026-09-13T05:00:00+08:00"
       },
       {
@@ -639,8 +645,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:01:15.816197+08:00",
-        "next_run": "2026-09-06T10:00:00+08:00"
+        "last_run": "2026-09-06T10:01:47.843337+08:00",
+        "next_run": "2026-09-06T11:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -666,7 +672,7 @@
         "name": "Production Log Monitor — Error Detection + Auto-Fix",
         "schedule": "0 4 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-05T04:00:56.082214+08:00",
+        "last_run": "2026-09-06T09:58:24.141306+08:00",
         "next_run": "2026-09-07T04:00:00+08:00"
       },
       {
@@ -756,12 +762,12 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:01:06.001840+08:00",
+        "last_run": "2026-09-06T09:51:07.118517+08:00",
         "next_run": "2026-09-06T20:00:00+08:00"
       }
     ],
     "total": 56,
-    "healthy": 39
+    "healthy": 48
   },
   "agents": {
     "hermes": {
@@ -781,48 +787,48 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "406Gi",
-    "uptime": "2 mins",
+    "diskAvail": "405Gi",
+    "uptime": "33 mins",
     "cpu": {
       "loadAvg": [
-        32.48,
-        14.41,
-        5.78
+        1.3,
+        1.58,
+        2.41
       ],
-      "usage": "50.9%"
+      "usage": "13.7%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 34.7
+      "usedPct": 37.7
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "181.1",
-        "mem": "1.5",
-        "name": "python"
-      },
-      {
-        "cpu": "4.0",
+        "cpu": "4.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.5",
-        "mem": "1.7",
-        "name": "Google Chrome"
+        "cpu": "3.0",
+        "mem": "0.0",
+        "name": "sysmond"
       },
       {
-        "cpu": "1.0",
-        "mem": "0.2",
-        "name": "mds"
-      },
-      {
-        "cpu": "0.8",
+        "cpu": "2.2",
         "mem": "0.1",
-        "name": "mdbulkimport"
+        "name": "triald"
+      },
+      {
+        "cpu": "0.5",
+        "mem": "0.0",
+        "name": "notifyd"
+      },
+      {
+        "cpu": "0.4",
+        "mem": "1.8",
+        "name": "python"
       }
     ]
   },
@@ -945,16 +951,22 @@
       {
         "day": "**Fri Sep 4**",
         "run": "✅ 5km",
-        "pushups": "⏳ Today",
-        "notes": "⏳ Today"
+        "pushups": "4️⃣5️⃣/100",
+        "notes": "❌ 0/50"
+      },
+      {
+        "day": "**Sat Sep 5**",
+        "run": "✅ 5km (REST DAY)",
+        "pushups": "⏳ 200 (100 makeup + 100 fresh)",
+        "notes": "⏳ 100 (50 makeup + 50 fresh)"
       }
     ],
     "stats": {
-      "daysLogged": 19,
-      "runsCompleted": 17,
+      "daysLogged": 20,
+      "runsCompleted": 18,
       "pushupsCompleted": 18,
-      "totalDays": 19,
-      "currentStreak": 5
+      "totalDays": 20,
+      "currentStreak": 6
     }
   },
   "subAgents": [
@@ -983,7 +995,7 @@
       "status": "active",
       "schedule": "30 9 * * *",
       "lastStatus": "ok",
-      "lastRun": "2026-09-05T09:30:31.059236+08:00"
+      "lastRun": "2026-09-06T09:55:10.699505+08:00"
     },
     {
       "name": "Agent-Bling Bling",
@@ -1540,16 +1552,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-06T09:48:22.157294+08:00",
+    "generatedAt": "2026-09-06T10:19:24.475938+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 28.2,
+          "temp": 28.8,
           "code": 51,
           "precip": 0.1,
           "wind": 3.1,
-          "time": "2026-09-06T09:45"
+          "time": "2026-09-06T10:15"
         },
         "daily": [
           {
@@ -1578,11 +1590,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 27.4,
+          "temp": 28.2,
           "code": 3,
           "precip": 0.0,
           "wind": 2.3,
-          "time": "2026-09-06T09:45"
+          "time": "2026-09-06T10:15"
         },
         "daily": [
           {
@@ -1618,32 +1630,32 @@
   },
   "activity": [
     {
-      "time": "2026-09-06T09:48:30.165389+08:00",
+      "time": "2026-09-06T10:19:32.486854+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-06T09:48:30.165389+08:00",
+      "time": "2026-09-06T10:19:32.486854+08:00",
       "type": "info",
-      "text": "⏰ Cron: 39/56 jobs healthy"
+      "text": "⏰ Cron: 48/56 jobs healthy"
     },
     {
-      "time": "2026-09-05T23:00:46+08:00",
+      "time": "2026-09-06T10:02:04+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: update changelog for 2026-09-05",
+      "text": "💼 TechWealth: chore: remove stale Firebase artifacts and typo .gitinore",
       "project": "techwealth"
     },
     {
-      "time": "2026-09-04T03:04:57+08:00",
+      "time": "2026-09-06T09:52:06+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: chore: remove unused createClient import from bookings route",
-      "project": "kinkin"
+      "text": "📊 TechWealth Tracker Pro: chore: remove stale SETUP.md, drop dead Gemini/Lucide refs from docs and env exa",
+      "project": "techwealthTracker"
     },
     {
-      "time": "2026-09-03T01:03:49+08:00",
+      "time": "2026-09-06T09:50:59+08:00",
       "type": "success",
-      "text": "📊 TechWealth Tracker Pro: chore: remove unused useFieldLabel() and FieldKey import from FieldCustomizer",
-      "project": "techwealthTracker"
+      "text": "🚀 KINKIN: chore: remove unused components (before-after-slider, map-thumbnail, price-compa",
+      "project": "kinkin"
     },
     {
       "time": "2026-08-31T18:10:05+08:00",
@@ -1661,7 +1673,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 56,
-    "healthyCronJobs": 39,
+    "healthyCronJobs": 48,
     "avgProgress": 69
   }
 }
