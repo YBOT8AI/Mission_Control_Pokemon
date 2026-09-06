@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T06:32:40.381766+08:00",
+  "generatedAt": "2026-09-07T07:03:47.767160+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625741.76,
-      "changePct": -0.02
+      "priceHkd": 627670.4,
+      "changePct": 0.38
     },
     "ETH": {
-      "priceHkd": 19591.22,
-      "changePct": 0.66
+      "priceHkd": 19663.5,
+      "changePct": 1.11
     },
     "SOL": {
-      "priceHkd": 827.12,
-      "changePct": 2.01
+      "priceHkd": 830.49,
+      "changePct": 2.53
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1116.83,
-      "priceUsdOz": 4430.8
+      "priceHkdPerGram": 1117.06,
+      "priceUsdOz": 4431.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.7,
-      "priceUsdOz": 66.25
+      "priceHkdPerGram": 16.73,
+      "priceUsdOz": 66.38
     }
   },
   "commodities": {
@@ -53,28 +53,46 @@
   },
   "news": [
     {
+      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T07:02:45+08:00"
+    },
+    {
+      "title": "Armed person confronts Ohio gubernatorial candidate Amy Acton at event, campaign says - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUGRnN1R5UG90cERpY0hCMFNLb2t4RjdYaDZZSlEzeXRUcjd5LXJ2U1hWWkJkR3hXYzd4dGQ2bWpoRld4VDQ0cmloaFpRc3d1SWRTcjhZTFlyNEFHZHVfamtodWVDVXJOSERyZDg2YjZCeXBCMWFUSXBGU3hXLXJIb1YtOF9GV2NsYllrNWsxX2xpS3FOMzVHTEhYSlpINWt3cEJVdWR5bVdMN09sWUNzSHRhX24xUjNFNmJPUHlQajUtYmduMFc0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T06:48:07+08:00"
+    },
+    {
+      "title": "Andrew Williams, Every Time I Die guitarist known to wrestling fans as ‘The Butcher,’ dies - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVDak5RRG9oUi1WbHJiTzFldjVmQkw2NW9xQmc3LWlpdkFkQkk2eUtPczAySjk5NEMyeUZ5ZE1lbkExcUJ3b2tTZVIzSHhjRVZJa0g1enhYOWlhV3ZWMlEwc1hWTHk4NEZCLTdSc3JKNDh2SjZGUHByVGhMYW9DejRhY2NxRzdaNWtYeXBYY3E1dVh3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T06:31:44+08:00"
+    },
+    {
       "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T06:17:53+08:00"
     },
     {
-      "title": "Live Updates: 5 dead, 5 injured after Amazon cargo plane overruns runway at MIA, sheriff says - NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkxlQzQzanRxb1oxM0RodWcyNldQdkF0VmlKM2JVUE9SYzhmMGo2eE5VekVWNHpUMGJ1RUlDN2VLMUprdklyY0FnUl9MX2ZQeWV6NzBVRDBPRC11WnM2MDZuZzdJbXplRGpfRXIxUUFmZGI3RElkS0tLT3Z5czVZRVU5cUxmelhfUnp5NmZRd3FtSzNKcm5QY19TaGhZd01WQ2tWZ2lyc9IBrwFBVV95cUxOWkdjUm50ZnBoZlVFc044dl9zU0RsTlBrUVFidm5IejZySDlZdzAxSU9xekFXeXh6WklYck0tRVM1X053UGVJdWtnOThOTUJoMFhZdFQwNkswTm53ckxmdUNjXzAtazQwSDEydWtrYThrTzNVajJUWkFGWlZiRmYtLV9xTzFvQUx0aHRDTUliN1dOZnZ5Mi1RYzZlT1BoS2F0enprS2oxRkF4d09VTUZ3?oc=5",
+      "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T06:13:08+08:00"
+      "time": "2026-09-07T06:05:28+08:00"
     },
     {
-      "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T05:37:05+08:00"
+      "title": "Five dead after Amazon-branded cargo plane overruns runway at Miami airport, striking multiple vehicles - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T05:55:18+08:00"
     },
     {
-      "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdzQxc2R1d2tYTW5PYlJRaHlpRHVsQkV0UXo2UVpRQnExc0xCQmZON0owVnl3RmFBODUxalNBdTUwY0JXTG5hbk52OV9yUXp4eC1lUkpUWUpOT2l0TmdBTV9ZNmpTQXFjTGJuUmhMQQ?oc=5",
+      "title": "Acceptance over outrage: Inside how Western Michigan leaders dealt with controversial loss to Michigan - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYXh1LWxxT3dDMWlCUUR2WE13d1FDakx3ME5KSE9nc1BLQTZEUmV0SkoxSnE4SUQ5UVMwS1JZc3gwWnRhTHJFWllCaDB1WTBZQUZ2cXA5Wm1ybTJHOVJfbGVqRmMxTVdsVEtLMFJlNUNyOTM0Q3lBS1VmY1NDMUhiN0tqSHNrQ052LTkwblhHSXFmZFpTN1RSeU41WVFMVVh1T1BtaXZzYjNndE5tQXhoNndid1ZndzBP?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T05:23:28+08:00"
+      "time": "2026-09-07T05:36:43+08:00"
     },
     {
       "title": "Team USA escapes with win over Italy at FIBA women's World Cup - espn.com",
@@ -101,10 +119,10 @@
       "time": "2026-09-07T04:41:48+08:00"
     },
     {
-      "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T04:41:32+08:00"
+      "time": "2026-09-07T04:30:00+08:00"
     },
     {
       "title": "Iran claims strike on a U.S. ship in the Strait of Hormuz but the U.S. denies it - NBC News",
@@ -113,64 +131,46 @@
       "time": "2026-09-07T03:51:10+08:00"
     },
     {
+      "title": "US debt is even worse than it seems, and Treasury yields are now an 'all-hands-on-deck situation' - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmtOTTJUMUMtNFFMcmRRWFJ4R0YwZ3BXMkVGanRYbGxyekthUnBad0FGZ2pzSTYzdFlqd2pSNFRhTkxnbDdBaDRCV1hnNDBhM2lhQzF1SmlYUmdHVmtsQnJqa0QzbHoyVU5rek9QdWprYnYyNGZlMGV5X2RnUHpkanFSaFAtaTc1T2d0NlF2TV9Td09Da1FfSkFLRTRHNWhwRDdmMXdB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T03:41:00+08:00"
+    },
+    {
+      "title": "iPhone 18 colors, Galaxy S27 Ultra camera detailed, Poco F9 series unveiled, Week 36 in review - GSMArena.com news - GSMArena.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVGRRcUVXTXZhWGFFV0R5OFJRTlBGbEE4RTE4RUprZU9BLWRxV19fbGlWSTVXS3I0UG9NRHMxbkg2aVNrVUd5R2dQYWZzbVFrUzh3QjNLUkNEbk4xMzJUVGhueFdBdk9ZTEdveTMxSFJ1VUhlMlNZYUV4ZU1zd0FJV1RNRHFrYkFfRXJHSDJKR3dyRGJ3UHgyUTdqMDdsM3l4eEZyTGNQTUpxTXVtNTk0bGdpS1ZzbVBQZ1cxQVRYVVhvTmFQN0Y1dmZaY9IBxwFBVV95cUxQd09UUi0zaTMwUnctTUhQT1BXRHUzREhKcEJxQlBacU9JUlpNMEFrdmVYcml3Vy1feVY2VjFDM0JiUXN1UzZlckhqbDgtYV96MFZ1V09ydTB0QzdYX21TTWhuNFpXTWVxWGtsZlEyckZNM1lDdl9NWXlvRWlpc1kzUHoxUkY0WFdRVklocmM5Zmw1MHROV3hjNVYzNEl2X2toNjlRNFBNbjlXWFF5aXlfYnRaSzY2RHBLWVlNWWduMVNmMkQ4V013?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T03:31:02+08:00"
+    },
+    {
+      "title": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T03:23:20+08:00"
+    },
+    {
+      "title": "Hinojosa on Trump $10 million Paxton race investment: ‘I welcome the attention on Texas’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYXF2bnptVTRQYXJxS2RLX2wtTDhpaUNtbE1QVGhqUlU2Q2xaY2RHRWd3V3NaMTBvdEhsdjM0OUEwNFBIbEFTdlZjTEt2OWc1dnlQczN1SUlFTWZMcURRR2lWdnBQazk0WGVsZXpPcUdoUFMwb01LSko2LTZCcDFjSUdiUXFFVm9zdWhrRlNhYXVhenExeENJVzhRcFExSjDSAaQBQVVfeXFMTzZIU3JNYWxTVnFHUFlIUHJlNkdtQk5vSjBtOWpBUlhmbGY0QUt1TVc1SkppQUxTeHlKM3IwMWhPT2o1WWtmUG9sYlI5cjRHTV9SOUQ0clNrNzUtWWxGRUV0UFVKUGJOYmdreUt4X2tpc25Lb3NzN0VsXzMycXh4cXhqTnV2N29xekl5MVY2OTNEaUZ6T2pyajIwUmdRelhVaUJuRGw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T03:20:00+08:00"
+    },
+    {
       "title": "Hawaii declares state of emergency as Hurricane Lowell approaches islands - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTXFsMnVBWFpYaVZIUU5SRVJLbzB3enRkVnBreVJIdnFHU3B0VkxkYUFuYVpDNnJBZnk5dnp0Rmtlc0RhUXJBbnFGN0poRUtTTXdfcXJEQThBeHR0SElCUW1LdUVwV1JteXdRYXhUOVdfYTRwYTBfOGxXem5WSlNIWDg5amhCMmItTXlGMjRjZE02N2sz?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T03:14:00+08:00"
     },
     {
+      "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFhETTlJTDVkQjRXc09IbDlSTTNVWWU2ajRmbi1mUVM2ZzFEYzFGTG0ydjdQU3NteDhNSTlocXVSR25MTlNoWTZxeXlJcklQMlB2SXIxVms3Mm83UVN6UEsta1ZHN1VhbWpfci1Gbkhqa05GcjZ6RTJ6Y2pfZUNLXzc1WlpYYWltc01MTlNZb0tUcFcyRkhtaFpTcjBJNURPRGlGRzI0MnVyQdIBrwFBVV95cUxPOEE2TW11RktOd2F2cmpuZkRDek9PN2VFbGFxNlZKMVRWQ1gzeTg5QVFuTkY4YkFyalZxWHZYdS1SbGdiYkc0VTIyYVNNQnhPWnhBOEZManhHYk1qbzNmZ19XOGFzOUJycHFrV09xNUpmVml0Y3lEZFlhVEhBZFNPbWlzUzdXbDRROHM4ZnFhV3RYWWwtbFJHb0JkX0w3SHhZOHQ2UE45Z1BxYmxmWGtr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T03:12:45+08:00"
+    },
+    {
       "title": "Germany's far-right AfD celebrate projected win in state election",
       "link": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T02:32:53+08:00"
-    },
-    {
-      "title": "Deadly Iran wedding strike likely due to U.S. bomb missing a nearby target - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXNKcllFR3pBVUpvRm9hUkcwV0d6YlJabVRjcy00QW5pcE0yRDkzclpSTE9MSjI0SjNFSnBrTXlwXzRUdWRuSzlvdXo3dDZrb1pDZEg4eER2b1hyWnlZRHozTmlick5vMk50enVZdU5YMi05dlhSY0d1amx0OUNfTF9QMk9WMElFVmpYeUlXMHdNZzJXRFdPQXdhSmNLV3pGOE1oeUhuaVFCQjVVZEVPYzBROUV4SVM1U3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T02:13:21+08:00"
-    },
-    {
-      "title": "Winners and losers from F1's 2026 Italian Grand Prix - The Race",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNXNmMjNFTWhoSFJXUVhwdUtDbFNub3N2d0EzMEt0UXhRZGVZR2hkUklwZ1duMWNRVzBHdGNsUV9sa0M4V0xZb01sZzZFeExxcDZOUFctYUp2SGdmeEpQZ2NjYWJUN3RSelY1X1NodnZtSlVwY0lzeUFlTU1adjFmMmtFMA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T02:08:11+08:00"
-    },
-    {
-      "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record - Variety",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbV94QWFTbU4zME5YSG5HR1IwY3g4cnNmd2lQT3NQa1FaNXVEZkdEamlmNkI5cnVKUUxYMUxXZ2w3LVdLY1cyMFFaai1JdGMyb3ZXazMyUTVicjVpeXo3VHdoTnFzV3ljSGhJdXRGbHJ0YnZJREgxOVZ1bGludjRmd1R5OGZqaXh5a201QWNNWlc3S0JEOGYwdnpEZ1oyeUVwTVh3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T01:31:00+08:00"
-    },
-    {
-      "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T01:28:00+08:00"
-    },
-    {
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
-      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T01:00:56+08:00"
-    },
-    {
-      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UR3B1TU1mSXExZlE2dDZIR3JXV29PNmtJejBZSG1uZjlrZktkNzl2a290TXk2Nmczc21XS1FKNlRZVGZCQndxTHVkZUpqX2wtUE5WWXJmWVU3QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T01:00:56+08:00"
-    },
-    {
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T00:54:34+08:00"
-    },
-    {
-      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-      "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-07T00:32:59+08:00"
     }
   ]
 }
