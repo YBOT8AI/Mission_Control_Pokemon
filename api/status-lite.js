@@ -244,7 +244,6 @@ export default async function handler(request, response) {
     console.error('API Error:', error);
     return response.status(500).json({ 
       error: 'Failed to fetch dashboard data',
-      message: error.message,
       fallback: true
     });
   }

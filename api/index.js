@@ -164,7 +164,7 @@ export default async function handler(request, response) {
     console.error('YBOT API Error:', error);
     return response.status(500).json({ 
       success: false, 
-      error: error.message 
+      error: 'Something went wrong. Please try again.' 
     });
   }
 }
