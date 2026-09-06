@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T10:50:41.503078+08:00",
+  "generatedAt": "2026-09-06T11:22:37.435638+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -60,16 +60,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "1db8ad1",
-          "message": "chore: remove unused components (before-after-slider, map-thumbnail, price-compa",
+          "sha": "a7ba53f",
+          "message": "docs: fix env example — add missing vars, remove committed secret",
           "author": "evilmoni",
-          "time": "2026-09-06T09:50:59+08:00"
+          "time": "2026-09-06T11:08:10+08:00"
         },
-        "commits30d": 50,
-        "totalCommits": 142,
-        "branch": "main",
+        "commits30d": 51,
+        "totalCommits": 143,
+        "branch": "docs/sync-2026-09-06",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -79,15 +79,13 @@
         "hasTestScript": false
       },
       "health": {
-        "score": 65,
+        "score": 75,
         "label": "attention",
         "issues": [
-          "No test suite",
-          "3 commits not pushed"
+          "No test suite"
         ],
         "actions": [
-          "Set up test framework & write first smoke test",
-          "Push commits to remote"
+          "Set up test framework & write first smoke test"
         ]
       },
       "url": "kinkin.vercel.app"
@@ -104,14 +102,14 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "6f43273",
-          "message": "chore: remove stale Firebase artifacts and typo .gitinore",
+          "sha": "9f28e5e",
+          "message": "docs: remove stale Firebase references — auth is Supabase-only",
           "author": "evilmoni",
-          "time": "2026-09-06T10:02:04+08:00"
+          "time": "2026-09-06T11:08:06+08:00"
         },
-        "commits30d": 81,
-        "totalCommits": 179,
-        "branch": "main",
+        "commits30d": 82,
+        "totalCommits": 180,
+        "branch": "docs/sync-2026-09-06",
         "uncommittedChanges": 0,
         "ahead": 0,
         "behind": 0
@@ -268,7 +266,7 @@
         "schedule": "every 30m",
         "last_status": "error",
         "last_run": "2026-09-06T10:47:28.001389+08:00",
-        "next_run": "2026-09-06T11:17:42.925251+08:00"
+        "next_run": "2026-09-06T11:47:45.466486+08:00"
       },
       {
         "id": "539a150ac028",
@@ -285,8 +283,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:19:41.443529+08:00",
-        "next_run": "2026-09-06T11:19:42.718758+08:00"
+        "last_run": "2026-09-06T10:50:48.029768+08:00",
+        "next_run": "2026-09-06T11:51:46.386033+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -294,8 +292,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:47:42.904473+08:00",
-        "next_run": "2026-09-06T11:17:42.904473+08:00"
+        "last_run": "2026-09-06T11:17:46.274853+08:00",
+        "next_run": "2026-09-06T11:47:46.274853+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -303,8 +301,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:47:42.520579+08:00",
-        "next_run": "2026-09-06T10:57:42.520579+08:00"
+        "last_run": "2026-09-06T11:17:46.170204+08:00",
+        "next_run": "2026-09-06T11:27:46.170204+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -339,8 +337,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:47:42.718037+08:00",
-        "next_run": "2026-09-06T11:02:42.718037+08:00"
+        "last_run": "2026-09-06T11:17:46.301633+08:00",
+        "next_run": "2026-09-06T11:32:46.301633+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -546,8 +544,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:00:53.088851+08:00",
-        "next_run": "2026-09-06T11:00:00+08:00"
+        "last_run": "2026-09-06T11:00:57.705761+08:00",
+        "next_run": "2026-09-06T12:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -645,17 +643,17 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:01:47.843337+08:00",
-        "next_run": "2026-09-06T11:00:00+08:00"
+        "last_run": "2026-09-06T11:01:39.219991+08:00",
+        "next_run": "2026-09-06T12:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
         "enabled": true,
         "name": "Documentation Sync — Weekly PR Generator",
         "schedule": "0 11 * * 0",
-        "last_status": "unknown",
-        "last_run": null,
-        "next_run": "2026-09-06T11:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-09-06T11:09:17.491742+08:00",
+        "next_run": "2026-09-13T11:00:00+08:00"
       },
       {
         "id": "ba8ebdf17120",
@@ -767,7 +765,7 @@
       }
     ],
     "total": 56,
-    "healthy": 47
+    "healthy": 48
   },
   "agents": {
     "hermes": {
@@ -788,18 +786,18 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "405Gi",
-    "uptime": "1:04",
+    "uptime": "1:36",
     "cpu": {
       "loadAvg": [
         1.97,
-        1.85,
-        1.83
+        1.6,
+        1.61
       ],
-      "usage": "12.1%"
+      "usage": "13.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 38.2
+      "usedPct": 38.3
     },
     "network": {
       "localIp": "192.168.1.103"
@@ -811,12 +809,17 @@
         "name": "python3"
       },
       {
-        "cpu": "3.0",
+        "cpu": "3.1",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.7",
+        "cpu": "0.6",
+        "mem": "1.8",
+        "name": "python"
+      },
+      {
+        "cpu": "0.6",
         "mem": "0.0",
         "name": "notifyd"
       },
@@ -824,11 +827,6 @@
         "cpu": "0.5",
         "mem": "0.1",
         "name": "opendirectoryd"
-      },
-      {
-        "cpu": "0.4",
-        "mem": "0.1",
-        "name": "launchd"
       }
     ]
   },
@@ -952,13 +950,13 @@
         "day": "**Fri Sep 4**",
         "run": "✅ 5km",
         "pushups": "✅ 100",
-        "notes": "❌ 0/50"
+        "notes": "✅ 50"
       },
       {
         "day": "**Sat Sep 5**",
         "run": "✅ 5km (REST DAY)",
         "pushups": "✅ 100",
-        "notes": "⏳ 0/100"
+        "notes": "7️⃣6️⃣/100"
       }
     ],
     "stats": {
@@ -1020,6 +1018,54 @@
     }
   ],
   "githubActivity": [
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PullRequestEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-06T03:08:52Z",
+      "title": "",
+      "detail": "Labeled"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PullRequestEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-06T03:08:52Z",
+      "title": "",
+      "detail": "Labeled"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PullRequestEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-06T03:08:50Z",
+      "title": "",
+      "detail": "Labeled"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PullRequestEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-06T03:08:50Z",
+      "title": "",
+      "detail": "Labeled"
+    },
+    {
+      "repo": "evilmoni/KinKin",
+      "type": "PullRequestEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-06T03:08:46Z",
+      "title": "",
+      "detail": "Opened"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PullRequestEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-06T03:08:44Z",
+      "title": "",
+      "detail": "Opened"
+    },
     {
       "repo": "evilmoni/TechWealth",
       "type": "PushEvent",
@@ -1173,14 +1219,6 @@
       "detail": "1 commit(s)"
     },
     {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-09-01T12:47:55Z",
-      "title": "chore: remove unused actingAdminId from lib/admin-auth.ts",
-      "detail": "1 commit(s)"
-    },
-    {
       "repo": "evilmoni/KinKin",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1205,22 +1243,6 @@
       "detail": "1 commit(s)"
     },
     {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-31T22:10:10Z",
-      "title": "chore: remove unused isPegged() and isTranslationSafe() help",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-31T06:03:53Z",
-      "title": "docs: publish Weekly Deal Flow Digest #1 (2026-08-31) — live",
-      "detail": "1 commit(s)"
-    },
-    {
       "repo": "evilmoni/KinKin",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1234,14 +1256,6 @@
       "actor": "YBOT8AI",
       "time": "2026-08-31T05:23:28Z",
       "title": "chore: remove unused revenueByMonth() from lib/db/sales.ts",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-31T05:23:23Z",
-      "title": "chore: remove unused getTierLogo() from lib/tiers.ts",
       "detail": "1 commit(s)"
     },
     {
@@ -1269,22 +1283,6 @@
       "detail": "1 commit(s)"
     },
     {
-      "repo": "evilmoni/KinKin",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-22T14:50:18Z",
-      "title": "docs: correct commit hash reference in Task 30 log entries",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/KinKin",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-08-22T14:50:08Z",
-      "title": "docs: competitor deep-dives + STRATEGY.md moat correction (T",
-      "detail": "1 commit(s)"
-    },
-    {
       "repo": "WorldPaws/WorldPawsOrg_Website",
       "type": "PushEvent",
       "actor": "YBOT8AI",
@@ -1298,22 +1296,6 @@
       "actor": "evilmoni",
       "time": "2026-08-21T21:08:22Z",
       "title": "Merge branch 'main' of github.com:WorldPaws/WorldPawsOrg_Web",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/KinKin",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-21T01:05:22Z",
-      "title": "feat: complete the Home Repairs catalogue — 9 jobs to 30\n\nCo",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/KinKin",
-      "type": "PushEvent",
-      "actor": "evilmoni",
-      "time": "2026-08-20T17:26:29Z",
-      "title": "feat: provider \"go online\" screen with nearby jobs\n\nThe Uber",
       "detail": "1 commit(s)"
     },
     {
@@ -1338,6 +1320,22 @@
       "actor": "YBOT8AI",
       "time": "2026-08-20T04:01:39Z",
       "title": "docs: add institutional business plan",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth-Tracker-Pro",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-19T04:02:17Z",
+      "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/Orbitx-NFT",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-08-19T04:02:13Z",
+      "title": "ci: add GitHub Actions workflow (lint + build on push/PR)",
       "detail": "1 commit(s)"
     }
   ],
@@ -1552,16 +1550,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-06T10:50:33.494633+08:00",
+    "generatedAt": "2026-09-06T11:22:29.427942+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 29.3,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 2.9,
-          "time": "2026-09-06T10:45"
+          "temp": 29.7,
+          "code": 53,
+          "precip": 0.2,
+          "wind": 3.9,
+          "time": "2026-09-06T11:15"
         },
         "daily": [
           {
@@ -1569,32 +1567,32 @@
             "code": 53,
             "max": 29.8,
             "min": 24.5,
-            "rainPct": 94
+            "rainPct": 78
           },
           {
             "date": "2026-09-07",
             "code": 95,
             "max": 30.2,
             "min": 25.1,
-            "rainPct": 90
+            "rainPct": 92
           },
           {
             "date": "2026-09-08",
             "code": 95,
             "max": 30.6,
             "min": 24.6,
-            "rainPct": 75
+            "rainPct": 74
           }
         ]
       },
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.8,
+          "temp": 29.2,
           "code": 3,
           "precip": 0.0,
-          "wind": 3.2,
-          "time": "2026-09-06T10:45"
+          "wind": 4.3,
+          "time": "2026-09-06T11:15"
         },
         "daily": [
           {
@@ -1602,21 +1600,21 @@
             "code": 81,
             "max": 29.6,
             "min": 24.8,
-            "rainPct": 98
+            "rainPct": 79
           },
           {
             "date": "2026-09-07",
             "code": 95,
             "max": 30.6,
             "min": 24.7,
-            "rainPct": 92
+            "rainPct": 89
           },
           {
             "date": "2026-09-08",
             "code": 51,
             "max": 31.8,
             "min": 24.5,
-            "rainPct": 48
+            "rainPct": 35
           }
         ]
       }
@@ -1630,19 +1628,25 @@
   },
   "activity": [
     {
-      "time": "2026-09-06T10:50:41.502952+08:00",
+      "time": "2026-09-06T11:22:37.435508+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-06T10:50:41.502952+08:00",
+      "time": "2026-09-06T11:22:37.435508+08:00",
       "type": "info",
-      "text": "⏰ Cron: 47/56 jobs healthy"
+      "text": "⏰ Cron: 48/56 jobs healthy"
     },
     {
-      "time": "2026-09-06T10:02:04+08:00",
+      "time": "2026-09-06T11:08:10+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: remove stale Firebase artifacts and typo .gitinore",
+      "text": "🚀 KINKIN: docs: fix env example — add missing vars, remove committed secret",
+      "project": "kinkin"
+    },
+    {
+      "time": "2026-09-06T11:08:06+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: docs: remove stale Firebase references — auth is Supabase-only",
       "project": "techwealth"
     },
     {
@@ -1650,12 +1654,6 @@
       "type": "success",
       "text": "📊 TechWealth Tracker Pro: chore: remove stale SETUP.md, drop dead Gemini/Lucide refs from docs and env exa",
       "project": "techwealthTracker"
-    },
-    {
-      "time": "2026-09-06T09:50:59+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: remove unused components (before-after-slider, map-thumbnail, price-compa",
-      "project": "kinkin"
     },
     {
       "time": "2026-08-31T18:10:05+08:00",
@@ -1673,7 +1671,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 56,
-    "healthyCronJobs": 47,
+    "healthyCronJobs": 48,
     "avgProgress": 69
   }
 }
