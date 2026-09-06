@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T02:46:39.774967+08:00",
+  "generatedAt": "2026-09-06T09:48:30.165511+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -63,7 +63,7 @@
           "author": "evilmoni",
           "time": "2026-09-04T03:04:57+08:00"
         },
-        "commits30d": 51,
+        "commits30d": 49,
         "totalCommits": 141,
         "branch": "main",
         "uncommittedChanges": 0,
@@ -262,7 +262,7 @@
         "schedule": "every 30m",
         "last_status": "ok",
         "last_run": "2026-09-06T02:45:11.868118+08:00",
-        "next_run": "2026-09-06T03:15:11.868118+08:00"
+        "next_run": "2026-09-06T10:17:27.656217+08:00"
       },
       {
         "id": "539a150ac028",
@@ -279,8 +279,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:15:42.446435+08:00",
-        "next_run": "2026-09-06T03:15:49.391621+08:00"
+        "last_run": "2026-09-06T02:46:47.114827+08:00",
+        "next_run": "2026-09-06T10:17:27.740077+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -288,8 +288,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:30:47.815215+08:00",
-        "next_run": "2026-09-06T03:00:47.815215+08:00"
+        "last_run": "2026-09-06T09:47:32.314912+08:00",
+        "next_run": "2026-09-06T10:17:32.314912+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -297,8 +297,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:40:48.726150+08:00",
-        "next_run": "2026-09-06T02:50:48.726150+08:00"
+        "last_run": "2026-09-06T09:47:30.477283+08:00",
+        "next_run": "2026-09-06T09:57:30.477283+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -307,7 +307,7 @@
         "schedule": "15 3 * * *",
         "last_status": "ok",
         "last_run": "2026-09-05T03:15:13.667155+08:00",
-        "next_run": "2026-09-06T03:15:00+08:00"
+        "next_run": "2026-09-07T03:15:00+08:00"
       },
       {
         "id": "9451057f9c1f",
@@ -325,7 +325,7 @@
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
         "last_run": "2026-09-05T18:01:03.105305+08:00",
-        "next_run": "2026-09-06T09:00:00+08:00"
+        "next_run": "2026-09-06T12:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -333,8 +333,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-06T02:40:48.935171+08:00",
-        "next_run": "2026-09-06T02:55:48.935171+08:00"
+        "last_run": "2026-09-06T09:47:32.501422+08:00",
+        "next_run": "2026-09-06T10:02:32.501422+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -343,7 +343,7 @@
         "schedule": "30 9 * * *",
         "last_status": "ok",
         "last_run": "2026-09-05T09:30:31.059236+08:00",
-        "next_run": "2026-09-06T09:30:00+08:00"
+        "next_run": "2026-09-07T09:30:00+08:00"
       },
       {
         "id": "61de3de7ac50",
@@ -397,7 +397,7 @@
         "schedule": "0 6 * * *",
         "last_status": "ok",
         "last_run": "2026-09-05T06:01:28.440046+08:00",
-        "next_run": "2026-09-06T06:00:00+08:00"
+        "next_run": "2026-09-07T06:00:00+08:00"
       },
       {
         "id": "1dabab689e0e",
@@ -424,7 +424,7 @@
         "schedule": "every 360m",
         "last_status": "ok",
         "last_run": "2026-09-05T20:59:58.487134+08:00",
-        "next_run": "2026-09-06T02:59:58.487134+08:00"
+        "next_run": "2026-09-06T15:47:29.706411+08:00"
       },
       {
         "id": "871bc45fb59e",
@@ -496,7 +496,7 @@
         "schedule": "0 3 * * 0",
         "last_status": "ok",
         "last_run": "2026-08-30T03:01:51.166217+08:00",
-        "next_run": "2026-09-06T03:00:00+08:00"
+        "next_run": "2026-09-13T03:00:00+08:00"
       },
       {
         "id": "ad1b923ab464",
@@ -505,7 +505,7 @@
         "schedule": "0 7 * * *",
         "last_status": "ok",
         "last_run": "2026-09-05T07:01:49.215576+08:00",
-        "next_run": "2026-09-06T07:00:00+08:00"
+        "next_run": "2026-09-07T07:00:00+08:00"
       },
       {
         "id": "73b91f968004",
@@ -541,7 +541,7 @@
         "schedule": "0 * * * *",
         "last_status": "ok",
         "last_run": "2026-09-06T02:01:05.307075+08:00",
-        "next_run": "2026-09-06T03:00:00+08:00"
+        "next_run": "2026-09-06T10:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -559,7 +559,7 @@
         "schedule": "0 3 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T03:00:00+08:00"
+        "next_run": "2026-09-13T03:00:00+08:00"
       },
       {
         "id": "284fb46e7d4e",
@@ -568,7 +568,7 @@
         "schedule": "0 6 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T06:00:00+08:00"
+        "next_run": "2026-09-13T06:00:00+08:00"
       },
       {
         "id": "be006450b44d",
@@ -577,7 +577,7 @@
         "schedule": "0 7 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T07:00:00+08:00"
+        "next_run": "2026-09-13T07:00:00+08:00"
       },
       {
         "id": "b302c3e2dcdf",
@@ -586,7 +586,7 @@
         "schedule": "0 8 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T08:00:00+08:00"
+        "next_run": "2026-09-13T08:00:00+08:00"
       },
       {
         "id": "8ee20c4e5aa4",
@@ -595,7 +595,7 @@
         "schedule": "0 9 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T09:00:00+08:00"
+        "next_run": "2026-09-13T09:00:00+08:00"
       },
       {
         "id": "7d1d4b46e0cf",
@@ -613,7 +613,7 @@
         "schedule": "0 3 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T03:00:00+08:00"
+        "next_run": "2026-09-13T03:00:00+08:00"
       },
       {
         "id": "ed949304c7f0",
@@ -622,7 +622,7 @@
         "schedule": "0 4 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T04:00:00+08:00"
+        "next_run": "2026-09-13T04:00:00+08:00"
       },
       {
         "id": "48f8bf377090",
@@ -631,7 +631,7 @@
         "schedule": "0 5 * * 0",
         "last_status": "unknown",
         "last_run": null,
-        "next_run": "2026-09-06T05:00:00+08:00"
+        "next_run": "2026-09-13T05:00:00+08:00"
       },
       {
         "id": "b929bbf0b748",
@@ -640,7 +640,7 @@
         "schedule": "0 * * * *",
         "last_status": "ok",
         "last_run": "2026-09-06T02:01:15.816197+08:00",
-        "next_run": "2026-09-06T03:00:00+08:00"
+        "next_run": "2026-09-06T10:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -667,7 +667,7 @@
         "schedule": "0 4 * * *",
         "last_status": "ok",
         "last_run": "2026-09-05T04:00:56.082214+08:00",
-        "next_run": "2026-09-06T04:00:00+08:00"
+        "next_run": "2026-09-07T04:00:00+08:00"
       },
       {
         "id": "3ccae42be4f5",
@@ -757,7 +757,7 @@
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
         "last_run": "2026-09-06T02:01:06.001840+08:00",
-        "next_run": "2026-09-06T03:00:00+08:00"
+        "next_run": "2026-09-06T20:00:00+08:00"
       }
     ],
     "total": 56,
@@ -781,48 +781,48 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "407Gi",
-    "uptime": "2 days",
+    "diskAvail": "406Gi",
+    "uptime": "2 mins",
     "cpu": {
       "loadAvg": [
-        1.28,
-        1.25,
-        1.23
+        32.48,
+        14.41,
+        5.78
       ],
-      "usage": "13.0%"
+      "usage": "50.9%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 39.6
+      "usedPct": 34.7
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "4.8",
+        "cpu": "181.1",
+        "mem": "1.5",
+        "name": "python"
+      },
+      {
+        "cpu": "4.0",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.1",
-        "mem": "0.0",
-        "name": "sysmond"
+        "cpu": "1.5",
+        "mem": "1.7",
+        "name": "Google Chrome"
       },
       {
-        "cpu": "0.3",
-        "mem": "0.0",
-        "name": "notifyd"
+        "cpu": "1.0",
+        "mem": "0.2",
+        "name": "mds"
       },
       {
-        "cpu": "0.1",
-        "mem": "1.2",
-        "name": "python3"
-      },
-      {
-        "cpu": "0.1",
-        "mem": "2.0",
-        "name": "python"
+        "cpu": "0.8",
+        "mem": "0.1",
+        "name": "mdbulkimport"
       }
     ]
   },
@@ -1540,71 +1540,71 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-06T02:46:39.392488+08:00",
+    "generatedAt": "2026-09-06T09:48:22.157294+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 24.8,
-          "code": 3,
-          "precip": 0.0,
-          "wind": 2.7,
-          "time": "2026-09-06T02:45"
+          "temp": 28.2,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 3.1,
+          "time": "2026-09-06T09:45"
         },
         "daily": [
           {
             "date": "2026-09-06",
-            "code": 81,
-            "max": 29.7,
-            "min": 24.0,
-            "rainPct": 83
+            "code": 53,
+            "max": 29.8,
+            "min": 24.5,
+            "rainPct": 94
           },
           {
             "date": "2026-09-07",
-            "code": 55,
-            "max": 30.1,
-            "min": 24.6,
-            "rainPct": 96
+            "code": 95,
+            "max": 30.2,
+            "min": 25.1,
+            "rainPct": 90
           },
           {
             "date": "2026-09-08",
-            "code": 51,
-            "max": 32.0,
-            "min": 24.5,
-            "rainPct": 57
+            "code": 95,
+            "max": 30.6,
+            "min": 24.6,
+            "rainPct": 75
           }
         ]
       },
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 24.7,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 1.2,
-          "time": "2026-09-06T02:45"
+          "temp": 27.4,
+          "code": 3,
+          "precip": 0.0,
+          "wind": 2.3,
+          "time": "2026-09-06T09:45"
         },
         "daily": [
           {
             "date": "2026-09-06",
-            "code": 95,
-            "max": 29.8,
-            "min": 24.1,
-            "rainPct": 88
+            "code": 81,
+            "max": 29.6,
+            "min": 24.8,
+            "rainPct": 98
           },
           {
             "date": "2026-09-07",
-            "code": 53,
-            "max": 31.6,
-            "min": 24.2,
-            "rainPct": 96
+            "code": 95,
+            "max": 30.6,
+            "min": 24.7,
+            "rainPct": 92
           },
           {
             "date": "2026-09-08",
             "code": 51,
-            "max": 32.9,
-            "min": 24.1,
-            "rainPct": 37
+            "max": 31.8,
+            "min": 24.5,
+            "rainPct": 48
           }
         ]
       }
@@ -1614,16 +1614,16 @@
     "date": "Sunday, September 06, 2026",
     "weekday": "Sunday",
     "reminders": [],
-    "remindersError": "permission needed"
+    "remindersError": "Command '['osascript', '-e', 'tell application \"Reminders\" t"
   },
   "activity": [
     {
-      "time": "2026-09-06T02:46:39.774765+08:00",
+      "time": "2026-09-06T09:48:30.165389+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-06T02:46:39.774765+08:00",
+      "time": "2026-09-06T09:48:30.165389+08:00",
       "type": "info",
       "text": "⏰ Cron: 39/56 jobs healthy"
     },
