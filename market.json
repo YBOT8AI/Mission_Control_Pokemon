@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-06T15:00:20.854809+08:00",
+  "generatedAt": "2026-09-06T15:31:19.258444+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625326.24,
-      "changePct": 0.1
+      "priceHkd": 625953.44,
+      "changePct": 0.15
     },
     "ETH": {
-      "priceHkd": 19644.92,
-      "changePct": 2.11
+      "priceHkd": 19573.34,
+      "changePct": 1.61
     },
     "SOL": {
-      "priceHkd": 826.1,
-      "changePct": 2.99
+      "priceHkd": 824.61,
+      "changePct": 2.59
     }
   },
   "stocks": {
@@ -53,6 +53,12 @@
   },
   "news": [
     {
+      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-06T15:06:50+08:00"
+    },
+    {
       "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
       "link": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -63,18 +69,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSkY0b1ZsM3NmeEU0bm1GSE1fYmlDMnhKbUdXWGpITUZxOU1SbHBPNmhqMUYwRHlpZWNZLVI2YU1SU21vbmRVRkpYaUk0dGFPUXZsTTQzRktZS3NTM3g4dlNfNzFlTVAwaFVvZEFzRktkWUtXdS1QelR1dXlVbGRyZ3NHYnBVUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T13:22:48+08:00"
-    },
-    {
-      "title": "Wait just a second: No. 16 Michigan catches second-chance Hail Mary, survives scare vs WMU - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXdlX2ZDTEpMbmlHenJ6SzE4ZTRiaTA3OHJTQXJOVEItNk5vekpuZ0UwNVVORUJraXFLZVp4blFJMF9fZU96NDVnWG1Kam5PN04zdGxiNWF0SVQzbFpfanlTb0h5ckNSUEJZaXFSYUk2NFdlU19INU1jNEVNRTBIYkRfUERlbGh1UmIxdkQxTlQ5UE1RUmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T13:18:00+08:00"
-    },
-    {
-      "title": "Volcano eruption triggers flight suspensions at Indonesia's main airport",
-      "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-06T13:12:44+08:00"
     },
     {
       "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
@@ -101,22 +95,22 @@
       "time": "2026-09-06T12:34:50+08:00"
     },
     {
-      "title": "German voters head to polls as far-right AfD party eyes historic state win - aljazeera.com",
+      "title": "German voters head to polls as far-right AfD party eyes historic state win - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXREUlFDZGE3YkJhSFE4ZGtBc0V1NzJlX1lmb2NpS1RldUhNUTJabjI3UGlQbVBZYkQwVG9fNW9YUGJJTGY4VGpudUQzbVdYbkpFQVA1ZW1kNjZmbXZYcjIwVk53Ymx2dkhNcC1OaWVJeS1GYjQ4X1o0YThlaEVLS18tbE9EUjZWel80UVNrUnE1dy16R0EtX0hnSEpiTDZUdWdRcHJleEgxX3V2QlZBUHRTaWbSAboBQVVfeXFMTnBhUFp4QUZoOUdjZVpFZTlUVVUxUFhNVk13ZEhmZUlYRlkyX05ucXFMck5IR19MVlNSY0JHOEk2eDl3TDJObWV3dEU0VTRzZzZCRHhGUUFzWHdWa0pZbUtxMk56bzZKdV95NU5xSVFtVzBzb1l6MXdhUnpRR1FxNjQtZmg2Sjl4MTNSNExJXzJjT1NhdEJRYVpYVGQySlBJU1BvaE0yOW1TSTJnVVRPRnhVWm1SX25Bc3pn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T12:14:51+08:00"
     },
     {
-      "title": "Indonesia cancels flights at Jakarta airport as Anak Krakatau volcano erupts - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYV9LY1JLSHlZeDl1dXA5cTJZeXFCdUdaREphR2NJNVBXLUE1NXlzRnV0d1JCVlVqSkF2LThqcFJZVVlNTzVFYV90N2RYQnh3QzFQVmNtOHkzVUktNUNiR2xIak9oYXhNNXlWQVNKdlNIUWltYW54NS00eXZQQ1hydVdaYjJpZG5wZmhDek1VTjhQVWhyU0JZTUVTQnBNeUdtVkE1b3dSMVRPeFBGSHc?oc=5",
+      "title": "Dodgers Notes: Ohtani, Rushing, Hernandez, Wrobleski - MLB Trade Rumors",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamd0UG1JQTFQYl8xMklid1VUaFZNbGw0U0YxX1dRSkVjeGJKSVdleUU3RDZSNUE3d0pIcXpRcXAtckppTTdvbTlUNWIxYm9lTVlYRFpyU3pyNGxZMEhGckdJdFp4U3dGUkEzOVpmTXZmTUN1TGNNREJjR0RoejZNXzVEM25kNUNtMVJFN0Z1QU9XTmRxOEVj?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T11:22:00+08:00"
+      "time": "2026-09-06T11:48:29+08:00"
     },
     {
-      "title": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
+      "title": "Michigan football stuns WMU with miracle Hail Mary after game seemed over - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFo3bzVDa3dONFBQejBmamhJQ2RSWldSZ1FIellxcHdaU1BlNUt5Y0ZjSUtEYnZWR0hUang2WFQxLV9oMF9tOXU0eTBfM2k1di03OGNhZmo2ZlE5RDBMRFRmbXlmdkJ0eHQ0aG1LS0czRk9EWWRkU0hTS0UyY2xiLXI1a3BfYW1FcGpSald4Zm1aUVZ3cURzcXpTeVc4T2xISDRRcm4wajNKd0JrR2NmZmhoaGJJZU8yZTc3SjdkLUt1VU1CUUszeUVkVGNvSUE1TGdvYllJZlBLNHVzcnZaQjVhYTRmTnJBX2s0ZnVYdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T11:20:59+08:00"
+      "time": "2026-09-06T11:34:15+08:00"
     },
     {
       "title": "Emmy Awards Night 1 Winners: The Full List - Deadline",
@@ -131,10 +125,16 @@
       "time": "2026-09-06T10:24:16+08:00"
     },
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Russia - bbc.com",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50V2I1X09UNzZRdWxqX3FLb1NwN0stYkdhZDNNY0xHNFJBOGRUaUJLOXlZX3NtOTNZSDNMMjZtMi1hd1JPT2xVNXBTeEw5WEptNW8tajJVLXpsdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T10:24:16+08:00"
+    },
+    {
+      "title": "Ukraine Considers Legalizing Porn Industry to Fund Its War Chest - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONTF1Um1Nem9XUk5pN3Y1Q0NfRmhQU1pSRWNyLU1SVHlOZ0tib1J0bWFKSU5NUzNYM0lnbnRwbEpIY1ZnZjJXLVZaMkZMUUNVbUQzZG1wT3JpeVl6bnVVbDRCYVdHODQ1V21sTV9QVG16YVpDR2pfT2hkbTBfX3R0SzFTQ2tHYmFaOHlpWnVETW04bGtXLVlZSEwwcDBnRl9MbVBEb1BEd0p3Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T10:01:27+08:00"
     },
     {
       "title": "Rescuers in Nepal pull 2 people alive from the debris 10 days after devastating floods - AP News",
@@ -155,16 +155,16 @@
       "time": "2026-09-06T09:02:28+08:00"
     },
     {
-      "title": "College football winners, losers in Week 1: Is this the year of the WR? New-look Oklahoma State falls flat - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRfMWpuWmpMalE1ZTNSMnNyQVNPeVBUakVBc1luZm5KOGYydExiZUx2R3R2b0ZVd2dYejEya2pwWDgyYl85clI2Y2t4aTQyeE9LcVhBUWpxeHk2NVpqMWtNR2V0QUJfUlQyc2JaM085SjRrNnFVVGxwTHZQcDlPSmh2N3lic2VwaXRudzNDZ21yM0tadF9MUXFqTkpQRE9jLWlOZ1hoeExVUVlXd2hWeWNXOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T09:02:00+08:00"
-    },
-    {
       "title": "Hurricane Lowell threatens Hawaiian islands with life-threatening surf - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVFOM3VHYmFqUkdXQjU1RGt6OFZuTEYxY0hIZ0dqUlUzOHQ0Z25relZGS2VUbzVmZG4yc3NDWGZjV0p4eHdOY20tOHRXclBEdFFLR1lMcGlRQzdJR0ZnUldnVTlXb3R1OG50VWVyX3FXUmJyRFRTOXJuS050cDJSc0ZvRmRzNUxvckpTYVRTVmJKV0lpTjRuc293dzdnRFV3R3czZGR5MzgwMG8?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T08:52:00+08:00"
+    },
+    {
+      "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3JKRkt1M2t6MVo4TnpsdXo2aWZiMzltZjR6bjhNTHdsOWkwNE1VWENrdHFoYkJQajB2dFRMZzkzVGlDRENhdlNoeVFfZW1idDNfR1c1b1ZrNEpuSnJjWDBmNVJaRGs3UFdtMmJvdV9rc2ZlblVwaEJBTENIRTVhdnREbGtIYXNXOUFvUDltLTRxZFMtZmpGRms1Q3F1d2pxM21GR0U1SUt6YmVPSGFDYXY0U3RoMnJ5Y1BKNWMyV21BbmNVLXI0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T08:27:00+08:00"
     },
     {
       "title": "'He was a lifeline' - Families at a loss after Haitian caregivers let go in US",
