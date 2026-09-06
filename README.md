@@ -1,6 +1,6 @@
 # 🎯 Enhanced Mission Control Dashboard
 
-A Pokemon-themed portfolio management dashboard for tracking all five ventures in your diversified portfolio:
+A Pokemon-themed portfolio management dashboard for tracking all six ventures in your diversified portfolio:
 1. **Orbitx NFT** - Cross-chain NFT marketplace
 2. **KinKin** - Neighborhood services marketplace
 3. **TechWealth** - Professional business club
@@ -37,17 +37,19 @@ A Pokemon-themed portfolio management dashboard for tracking all five ventures i
 
 ```
 mission-control/
-├── enhanced-mission-control.html  # Main dashboard interface
+├── index.html                     # Main dashboard interface
+├── military-mission-control.html  # Alternate military-themed variant
 ├── data.json                      # Project tracking data
+├── market.json                    # Market data (crypto, stocks, metals)
+├── api/                           # Unified backend API (OrbitX + KinKin)
 ├── DEPLOY.md                      # Deployment instructions
 ├── README.md                      # This documentation
-└── assets/
-    └── pokemon-sprites/           # Animated Pokemon GIFs
+└── icons/                         # App icons and logo
 ```
 
 ## 🎮 Usage
 
-1. Open `enhanced-mission-control.html` in a web browser
+1. Open `index.html` in a web browser
 2. Enter the access code: `ybot2026`
 3. Navigate between pages using the sidebar menu
 4. Refresh data using the refresh button
@@ -125,8 +127,8 @@ See `DEPLOY.md` for detailed deployment instructions.
 ## 🤝 Collaboration
 
 As a collaborator on repositories across multiple accounts:
-- **YBOT8AI**: Orbitx NFT, KinKin, Client Tracker Pro
-- **evilmoni**: TechWealth
+- **YBOT8AI**: Orbitx NFT, KinKin, Client Tracker Pro, Mission Control
+- **evilmoni**: TechWealth, TechWealth Tracker Pro
 - **WorldPaws**: World Paws Organization Website
 
 The dashboard provides a unified view of all collaborative projects.
