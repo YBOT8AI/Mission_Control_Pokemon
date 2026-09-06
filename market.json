@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-06T12:55:52.097651+08:00",
+  "generatedAt": "2026-09-06T13:26:59.402417+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 626329.76,
-      "changePct": 0.44
+      "priceHkd": 625984.8,
+      "changePct": 0.38
     },
     "ETH": {
-      "priceHkd": 19626.03,
-      "changePct": 2.15
+      "priceHkd": 19639.98,
+      "changePct": 2.27
     },
     "SOL": {
-      "priceHkd": 830.33,
-      "changePct": 3.97
+      "priceHkd": 830.57,
+      "changePct": 4.14
     }
   },
   "stocks": {
@@ -53,19 +53,25 @@
   },
   "news": [
     {
+      "title": "TV presenter among 11 sentenced to death in Egypt drugs case",
+      "link": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-06T13:04:04+08:00"
+    },
+    {
       "title": "Michigan football stuns WMU with miracle Hail Mary after game seemed over - Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFo3bzVDa3dONFBQejBmamhJQ2RSWldSZ1FIellxcHdaU1BlNUt5Y0ZjSUtEYnZWR0hUang2WFQxLV9oMF9tOXU0eTBfM2k1di03OGNhZmo2ZlE5RDBMRFRmbXlmdkJ0eHQ0aG1LS0czRk9EWWRkU0hTS0UyY2xiLXI1a3BfYW1FcGpSald4Zm1aUVZ3cURzcXpTeVc4T2xISDRRcm4wajNKd0JrR2NmZmhoaGJJZU8yZTc3SjdkLUt1VU1CUUszeUVkVGNvSUE1TGdvYllJZlBLNHVzcnZaQjVhYTRmTnJBX2s0ZnVYdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T11:34:15+08:00"
     },
     {
-      "title": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted - washingtonpost.com",
+      "title": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXUyT3djU2gxZUJQcWxaN3ZwMGRzU1VJSmhsNWVzYmpXTmtnR2dFYnpXN3BUa3hmUkhLVG9FSnZMdXJ5NmRqanBGLS1oS3VQcWJ3SndiT1lsS3hkb3VJUGFzbWQ5UmVDUjJweTBYdkN4X2JFWHNMUVRxLVdQWS1jTVJub014WFRRdG02M0gyNXRna2FDRE42OEFPRWtuTmx1S3Z0bEg2VU5SMFlpd1k4ZWVrMDJDUWZF?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T11:18:18+08:00"
     },
     {
-      "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
+      "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
       "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-06T10:24:16+08:00"
@@ -75,12 +81,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50V2I1X09UNzZRdWxqX3FLb1NwN0stYkdhZDNNY0xHNFJBOGRUaUJLOXlZX3NtOTNZSDNMMjZtMi1hd1JPT2xVNXBTeEw5WEptNW8tajJVLXpsdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T10:24:16+08:00"
-    },
-    {
-      "title": "2026 Creative Arts Emmys: Bad Bunny’s Super Bowl halftime show wins 7, ‘The Traitors’ follows with 6 - Gold Derby",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sOUhPM0JWUEIxXzdoQVE0d0xhZ3RXRG1BZGF5SjBSd0dXWndRNDVGSjRmR2NlWXlYU1hPcjQyQjl5d1gyN3NNQ1lKSFhfV2gycklPbjVNdUlRRUQ4VU1YMmswa28zNEttNEV6eXFZMG9XNHB0RW9OSWNvMnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T10:15:00+08:00"
     },
     {
       "title": "Octavia Spencer Wins First Emmy For 'Lost Women Of Alaska' - Deadline",
@@ -95,16 +95,16 @@
       "time": "2026-09-06T09:54:29+08:00"
     },
     {
+      "title": "Hunter Goodman denies complaining about tilted Cardinals cap: ‘I never once mentioned the hat’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU21yTHFVWWtvVGZjVzM2dFoxd0xYTG1WcFk0VHlYUUNyY2VyNG45ZjlZaXMzMXVvSy1xb2IyTEUxaFh5VS1oLWp1Y29LTTgxNzRuVUZOQ29tMExyZ19odGsyNHN4WG91ZFU3aF9yR0ZINmRrcVQtOUR1cGZiMnRGVGFZT0JBN0JBa3M2UWlpaU9UbzUwb1hlb3hFTTN5Tm5maG9BN0kxOGM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T09:07:59+08:00"
+    },
+    {
       "title": "Hurricane Lowell threatens Hawaiian islands with life-threatening surf - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbVFOM3VHYmFqUkdXQjU1RGt6OFZuTEYxY0hIZ0dqUlUzOHQ0Z25relZGS2VUbzVmZG4yc3NDWGZjV0p4eHdOY20tOHRXclBEdFFLR1lMcGlRQzdJR0ZnUldnVTlXb3R1OG50VWVyX3FXUmJyRFRTOXJuS050cDJSc0ZvRmRzNUxvckpTYVRTVmJKV0lpTjRuc293dzdnRFV3R3czZGR5MzgwMG8?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T08:52:00+08:00"
-    },
-    {
-      "title": "College football Week 1: Live updates, schedule, scores, highlights - NCAA.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVlNpUmlUdUZISEhwWXQ3bXFSQXZtMVg3b2V4azE0OWpmd0VxOGpmdGJVZHhEXzVFOUZjQlBKWk1sRWluQWpIb0dIVUtlV1JzaGtEbFhHTDNlV3lrLUp2NWhlNTdwQTBRdlpIbGpKaV8zbThZMFNrbmhCNGQxNzVuTUFmQ3ZORml6aHdYM1Ytc0UwQmZuYXI3ZnA0V3JOQXNZb015NWlLS3M5V3VLbVQ4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T08:30:47+08:00"
     },
     {
       "title": "Indonesia's Anak Krakatau eruption halts flights, schools, fishing - Reuters",
@@ -117,6 +117,18 @@
       "link": "https://www.bbc.co.uk/news/articles/cg491zp13qqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-06T08:17:05+08:00"
+    },
+    {
+      "title": "Germany's far-right AfD seeks landmark state victory as Saxony-Anhalt votes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlKLTRObzFSci1rMWZ6aTRzcFhXUGtKc0JQakJVb1FBUmdNTFowMHU4X0tiRkdFUkVnbWhremU0V05zSUtYVzBxUkZ0bHdPZjhadEF4T3lZLXdrajlidkQ2b05OVTdydG1va0NjbGp4TEVHXzJNUmI2dkF5ZEJneUtta19hT0tnTDE2OEZiS2V0SFh6VFE0YVpXOFhqS3pENV9idTd6V0lwd0lOcEdCV3J2UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T08:06:00+08:00"
+    },
+    {
+      "title": "14 people sent to hospital during The Chainsmokers concert at Discovery Meadow in San Jose, authorities say - ABC7 Bay Area",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2RtS0hBeHh0RzNvNERVTndLemt6NXZCWnowUTlVZFJoNEN0NmN6azJHQkF0MGJpZEkzZ1EtWWpOSG1qY0hCU1NTc0xXUVp1emFic3V1bzRpS2dDaUZkVGhKMFlwT2pGX2sydWZZSjJPV3BfTnNCakNwS1RxOWhLMEJCYktkdXotUHVabzZ2eW9pYnlfYVdIbzRhQ1lzUFQ4eTJYeXE4VVRkWTBjR2txMklrOEtBRmU1U29tZVQ0WGVpNGRKTEY5TkJsbW9SUDJo0gHWAUFVX3lxTE5WSmtaelFaQzZyaVd2NnpqSWdxcXQteVhXX2RpUW5wOFRTLTZVQkNSQ0RkV0VFQUppbWV0QldMSG01bHcxZGNCTmVYaFdNdzBabDNhaHBBUEM3MTZHQU11Z25EQ2lmNURPa2xmdkFPWTR1cXJTZUZlVUJQVDdMeWhMS2JKZ3BjNmVrc0FrdHBzb1hvd3ZOcHp3alpPLWRBUExSd0p0Ty1iaFpMTzU3R2h3RF9XSGUzR3otWEFNa0ViWW5LX0xQd0lCTThMY1Iwb3ZZaW5KcFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T08:05:07+08:00"
     },
     {
       "title": "Judge reinforces order halting immediate work on Trump’s 250-foot arch - USA Today",
@@ -143,12 +155,6 @@
       "time": "2026-09-06T07:20:00+08:00"
     },
     {
-      "title": "UFC Paris results: Salahdine Parnasse lives up to the hype, demolishes Dan Hooker in star-making debut - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd3NEZElGcUliMVFqYVhjSFR1d0JaaHBSdG5fWG9XLTJxamhGNUJycjcxZlBfWGNGOWFUUkppcHFoVlFpZGtEb3cxTUExQXJvaUJZQ1hFcDh1dmR3NUNZY0dMLWFjS2R6TXhYS1BQMlVXeEFqeW02aFdKN2RHYW9Pb3NrelpSRFVOMEctMzdNYmMwSmNtMS1EWjlPdlE1UlJ4TE04UjdMSVpNaVY4WVVPd1QxanY2VlJGTHZwY003YUFQVVFtdHY3U1RzUV9GSVBQTW5sR3NEcEFqOGtMNmJJOGtrNEROV0U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T06:53:03+08:00"
-    },
-    {
       "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
       "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU9CXzlJanVHV0E1X1VldkR1YURIamdnbTAweGxwYk1CSzdpWlJ0Y093MVg1MUlmV1d1SFF3RmVIeHlFT1dKYjdGdlo5em83Ym8zRVhMa1BZN1ZlWU9NZ2hWcWZuOUEwdFhJaGRTTmVfMDlUOTd2bzhaSDYxek9JcjZqNW9ERkhycGRtZ3pVc28xTjdScDFJbGF5TEhSNTBWQWVhNEV2R1NTbDVGZkdOU2hhWjhYN2V0SUNwSlF2OG5nd3NrcVh3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T06:09:42+08:00"
-    },
-    {
-      "title": "LAPD busts massive street takeover in South Bay, impounding more than 100 cars - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkZFcXYtWWE3RUdjN1oweU1kV2ZaVzZQcHdWdmpfckF4OUNsdjRDMGkxS0pJaVNjY1l4THo1cUJZeDN2bzR5S3NMSEJTWF8tYlViNmZLaVVmZmRLcThhTmVENWViOHVKeU1vblB1eTh4SGNxdkxxZHUxVWM5MHBRU19zQjZyYzhkWEVmejFPenR4TU9ldUU2MzkyQVdqN3YtU3dKM05TZTY3dWZwbzlFenRURDhqbzRCRF9RN1BoYmlfbGU2ZzJJYWpQMWJIQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T06:00:09+08:00"
     }
   ]
 }
