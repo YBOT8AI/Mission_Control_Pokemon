@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T03:57:17.933448+08:00",
+  "generatedAt": "2026-09-07T04:28:20.951423+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625663.36,
-      "changePct": 0.04
+      "priceHkd": 626572.8,
+      "changePct": 0.14
     },
     "ETH": {
-      "priceHkd": 19523.09,
-      "changePct": 0.6
+      "priceHkd": 19562.21,
+      "changePct": 0.66
     },
     "SOL": {
-      "priceHkd": 826.96,
-      "changePct": 1.96
+      "priceHkd": 828.22,
+      "changePct": 2.11
     }
   },
   "stocks": {
@@ -53,16 +53,28 @@
   },
   "news": [
     {
-      "title": "Iran claims strike on US drone, US says it's \"total lie\" - Euronews.com",
+      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T04:18:52+08:00"
+    },
+    {
+      "title": "German far-right set for big win in eastern state, projections show",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T04:16:35+08:00"
+    },
+    {
+      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T04:00:12+08:00"
+    },
+    {
+      "title": "Iranian forces target US naval drone trying to enter Strait of Hormuz - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMUFhZWVWRVkweTBQb014ektXRFBYV2JfLTNFU210b1E3Q0t5bjhEbmg0bDZOam5pTWdsRXNwT0p0aGFHV0l6M0ZKeWxBblhXMGJHalpVbTJWaUM4WmF1NHVTU0VvVUg3MUM0ckZRTENHdDBKRHpXVnRMS1NUc3dnbFNueEVJSnpHTXpFam4tYi1MWmpUNjg4OUtWZElYLS1xVHdRa2hhSWd4VGJEaUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T03:41:21+08:00"
-    },
-    {
-      "title": "Cargo plane overshoots runway at Miami International Airport - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1EaFVLM0k2Rkx4VFNSSjFMWlN0UEJXaThmbEFfckQ3b1pRaVV1ZXIzbDZiYWJwOC1QVlJHaTN1d2lNd0dnUXlQYnBsMnFDaTBtOTlJN1Nn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T03:39:32+08:00"
     },
     {
       "title": "Live Updates: Germany’s Far Right Has Big Lead in Key Election, Exit Polls Show - The New York Times",
@@ -71,22 +83,16 @@
       "time": "2026-09-07T03:38:01+08:00"
     },
     {
-      "title": "German far-right set for big win in eastern state, projections show",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T03:30:14+08:00"
-    },
-    {
-      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "title": "Plane with Amazon logo crashes outside Miami airport - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84MXRyUE1WYVJYeldodkQzWEYwOGx2dHpWaHhMYjRjZlpILXpDbXBQUFFQR1c5akpHNTFDdWJMZkl5UU9oWklJYjZiWDNkUzYxQXBVeUhKNzM0eXhJaUE3cjVlMGdfbzV6UmFPZGYyZlg0UEtCNGEyUG1jOTE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T03:17:11+08:00"
+      "time": "2026-09-07T03:34:40+08:00"
     },
     {
-      "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-      "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T02:33:50+08:00"
+      "title": "US envoys hope for new Ukraine-Russia talks soon after visits to both capitals - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T02:48:09+08:00"
     },
     {
       "title": "Germany's far-right AfD celebrate projected win in state election",
@@ -95,10 +101,28 @@
       "time": "2026-09-07T02:32:53+08:00"
     },
     {
+      "title": "Category 3 Hurricane Lowell will bring high surf and possible rain with flooding to Big Island - Big Island Now",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHV6dEExNk1pbnRKVTZxcGVMMzc1U0F1UG1nVWRFNkY5Ukl1eHBJUUJNR0VDcWw5SG44Z3RzUUtSWXZsaWRXWG1aVnVRUWNWd0h2RjU2M0VfNHgtRVhGYlRVLW51LVF3LXVWMERjYklfRzZ6R0NSN2NEUjJ0Nm56dk9DWUJqbEVGYWdrNTFPeTY2VDJ3Wml4U3F6aFBVRWZUdllRVVZKX2l1Qk9YcFRNVG9OWUZtbW5HaW9IdnpOeC1Gd3NOakM5bk5md1ZLVlpkNWxFeTlhbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T02:32:00+08:00"
+    },
+    {
+      "title": "Umpire Doug Eddings apologizes to Cardinals pitcher Hansel Rincon after MLB reportedly reprimanded him for telling rookie to straighten crooked cap - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNZFdfbjFRa0hkVllwUHRzQUx6em5hYU5JeGdNSlpzTzZvTkZKb3pOR1ZCZ0pYZzN6blBmOEk1SEJha196cW1lRm5HN0lKSmVISDItOTdqc2JBUFl3dVJvb3JldU15eUFRc29UV25lQWVzc3lSVWstSFNqZmhJdzRfcUN5QTMzNnJnSGk2Tm9NSGZTRHphVXRPTC1NLWE5bFNQVUVuTmZuVlNNWEFsT3Q1UURFTXNkOXdBRlBieTc5ZS14RDNyUUNyNGJqR3ROTUFxY0VFUXktZTd3VUQtcTJXVEtjSTA0VXJ2VTFUYkFvV0tCM25QU0Y3ejlma3JhVHEtQ2V0QnNmekVQSFQxZElXT1pONmhJbnpLQW5fSUlzWjMwa0g0ZVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T02:28:40+08:00"
+    },
+    {
       "title": "2026 Creative Arts Emmys: Full winners list from both nights (updating) - Gold Derby",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sOUhPM0JWUEIxXzdoQVE0d0xhZ3RXRG1BZGF5SjBSd0dXWndRNDVGSjRmR2NlWXlYU1hPcjQyQjl5d1gyN3NNQ1lKSFhfV2gycklPbjVNdUlRRUQ4VU1YMmswa28zNEttNEV6eXFZMG9XNHB0RW9OSWNvMnc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T01:38:00+08:00"
+    },
+    {
+      "title": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWXAyQlp5eGUxc0c5VEZlY3duVzh2TzlvVjljbV9HTDltWnFuRmdzbDQ4N3RTZ3A4STl1VFNKYlZoRm5ISHVsMW5hOTBEazZ0ZTFpNUJPb0VvM2kwZFhidmdGZ0FlcHpRdlhuWWdaQldQa2RjcEFxU2tTTUVnYnVpNno1T1NzR3BoMDBoU3VqNGtfSU9VQWZiX0JBZEVQNDNCR0N2UlNMb2g3WkU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T01:32:44+08:00"
     },
     {
       "title": "Box Office: ‘Spider-Man: Brand New Day’ Remains No. 1 in Sixth Weekend, Nears ‘Avengers: Endgame’ All-Time Domestic Record - Variety",
@@ -107,10 +131,10 @@
       "time": "2026-09-07T01:31:00+08:00"
     },
     {
-      "title": "Trump administration makes another appeal to the Supreme Court to allow mail ballot restrictions - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2h4QWg0bEhGZGEzdENsamhDdFR1ZzNxMU5jVlN0R19iRUkzUG13ZlYtMGFiZFFMa3ZmMXlqMm4zbUdKbXRzLXl5aVZSSlFSVHh0U3AwUkZDQzhlM3dJRmMyTFhVcXN2RE56WC1nOG9TczBBTUpNUDlNdXE2akFvYzZCS0cyelVpbEVEN0xoUkE3Um56NmZnWjFOaU9LT2lxNnNz?oc=5",
+      "title": "OPEC Plus Holds Oil Production Steady as U.S.-Iran Strikes Resume - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2pWUklObC1DTFJZQTFnd2s1eVJhRFplUkZoZlNXZU84bjl4ckRQOEdhclpUTlBKMHNRLU1nRE81Sjl3amhuLVJwZEd0TDBGZ1pfbUt3UmxaLXNIRWt6LWJRRWdHUEllR0pVRV8zS2ZMMEItZkxsLTdNNmowV0pvWlJFcw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T01:28:00+08:00"
+      "time": "2026-09-07T01:24:41+08:00"
     },
     {
       "title": "Iran vows 'more painful response' for US, Trump sinking 3 oil tankers in Hormuz Strait - Fox News",
@@ -122,6 +146,12 @@
       "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
       "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-09-07T01:00:56+08:00"
+    },
+    {
+      "title": "Iran warns of 'faster, heavier, more painful response' to US attacks - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UR3B1TU1mSXExZlE2dDZIR3JXV29PNmtJejBZSG1uZjlrZktkNzl2a290TXk2Nmczc21XS1FKNlRZVGZCQndxTHVkZUpqX2wtUE5WWXJmWVU3QQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-07T01:00:56+08:00"
     },
     {
@@ -137,40 +167,10 @@
       "time": "2026-09-07T00:54:34+08:00"
     },
     {
-      "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T00:54:19+08:00"
-    },
-    {
       "title": "Andrew Williams, Every Time I Die guitarist known to wrestling fans as ‘The Butcher,’ dies - NBC News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVDak5RRG9oUi1WbHJiTzFldjVmQkw2NW9xQmc3LWlpdkFkQkk2eUtPczAySjk5NEMyeUZ5ZE1lbkExcUJ3b2tTZVIzSHhjRVZJa0g1enhYOWlhV3ZWMlEwc1hWTHk4NEZCLTdSc3JKNDh2SjZGUHByVGhMYW9DejRhY2NxRzdaNWtYeXBYY3E1dVh3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T00:45:14+08:00"
-    },
-    {
-      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-      "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-07T00:32:59+08:00"
-    },
-    {
-      "title": "Boox’s tiny Picco e-reader should land in November - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1lb3g4Mk5WMlVMal9rNEZoZ3NoeVVkZmJaaTRCbGNpWmFVNlFsWnBBNmRFQlZ0eUUtaHlxbUctbVdPRzRLVTdnRXpTRk5tOWFZSUlLN3p4M0hzM2R0NzNQbGNwUjRiXzdTcmI0VjR0Y1NuT1BKMUJqVnBJVlJybzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T00:28:58+08:00"
-    },
-    {
-      "title": "Iran touts military response as US maintains blockade, hits tankers - aljazeera.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXd6SjRYNFpkcjM2M1JweThUd0QxbW55eE5FRERDSkFVYTBtd0pPMUM2VVpYVGhMR2tweHJWd3dmT2ZmWHBZZ09UVVJSOWQ3bFY1b1FSTTg4UzE2YjA4RzNsaVJoZHFvekNCdXhwWEVSV185MWNBTUVSaG12d09XTlQ2eTdJS0MwYzRNWjJaSXBBcUZnSWwxbnpPN1h6STFURjNCNHZ5dUE0UdIBrwFBVV95cUxPZ2dOX0VHTGtIRmF0UGdHTkFnb2QyZnRCX2p1ZUVWdUpWRG1jY2ljc3V6R091eEJHTkNldGc5SHlaamZVamZnY3RZbHBMeGRsY3F0ejFzTkN4SXVUUUhyNWRjTU9QN3FDZWozblFzdzd6Wmd5RjUyXzNzZ19jRUNfanZZSlhpSm5MX0J2T21HTGlaNWJiUmN3SXNqZkpwaUxsZ1FHZkRJS1RjZWpacUxN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T00:28:45+08:00"
-    },
-    {
-      "title": "Scientists say they can now predict where an earthquake will strike next - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWZiMnZwODk5UVo2U0dNQWE0LWNfZFJZQ2MtRFlXMTBFbTNwaFYtM3FHSmFfV1BqSTc4dzZHWkE1bk9iS0p4RTg0VWlEa0U3TDVBWTlsX0FoSkJDaUpNMUxfcjlGWU5xSEVkTUVNTWtucDhRLU9nb2lpb1lpemZnY19iVFpYXzc4NjRFZlRPUTIxaENYa09KRWxrUkpqVWpHRVhGMy1hbFlPS0XSAbABQVVfeXFMUFY3YWF0OTgzLWVROGw1RGxGSVpaY3g5U1hjTHlZRF8xWU14blJzVnE2ZmxQRWpsQ2Z3YUZoV3BmMTdWbGFhQTVLNUlRNUN3aGNRX282V1AwcmpTems5YWVtRXhOczNYUkFkeXJOU3VZQVBVeENXd1JtUlNad1ZLSDNlc0NUZ1ctU05XaktoN185TzRuelg3ZzNsbm5EWVRiVG8tMjZVQVFEdUUxX2NJMUg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T00:23:30+08:00"
     }
   ]
 }
