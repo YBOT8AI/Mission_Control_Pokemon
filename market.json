@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T00:19:41.832446+08:00",
+  "generatedAt": "2026-09-07T00:50:46.164895+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624793.12,
-      "changePct": -0.13
+      "priceHkd": 624816.64,
+      "changePct": -0.36
     },
     "ETH": {
-      "priceHkd": 19458.17,
-      "changePct": 0.89
+      "priceHkd": 19465.07,
+      "changePct": 0.51
     },
     "SOL": {
-      "priceHkd": 829.55,
-      "changePct": 2.86
+      "priceHkd": 832.37,
+      "changePct": 2.85
     }
   },
   "stocks": {
@@ -53,9 +53,33 @@
   },
   "news": [
     {
+      "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+      "link": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-07T00:32:59+08:00"
+    },
+    {
       "title": "German far-right set for big win in eastern state - exit polls",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-09-07T00:21:19+08:00"
+    },
+    {
+      "title": "Trump admin renews Supreme Court ask to let mail ballot rule to take effect ahead of midterms - CNN",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ095YXBuT1hkYU9FZjRoT0R6WHVINXZFR3Q5a1ViODVqUGphYXFwc2pBbU1BaFZOUDdJWU9GZ3BUSTdDODdSRXFwR0JaTkY0akQ4bHBwYUhDNExKNVE3cVFYcUZsZzU1OWtQdHdJNDk1WnhHUkZkWkRudHRvVWR6VS1XZDZfTzFtMXI4T2JKaGdDSjgyeUsxWG5VYUk2MFNqbGh4LUszckJZZEhzV0YzQ3RCNXJtbjBrRW9rSnhyNENoVno1?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T00:18:21+08:00"
+    },
+    {
+      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T00:17:04+08:00"
+    },
+    {
+      "title": "German far-right set for big win eastern state - exit polls - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZbVlmQWpuWUg1RkMweEVFYUNTTzQ0YkJobDQtS0Yzc0tYOGd3VFdpSkwxWFVGejk2Y3pSYW9oeTRPQ3BiOVhGX2lOMldobnhQWEI5Q1JXM3JBQQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-07T00:10:46+08:00"
     },
     {
@@ -65,10 +89,16 @@
       "time": "2026-09-07T00:00:21+08:00"
     },
     {
-      "title": "Hurricane Lowell nears Hawaii. Latest forecast, storm impacts - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1RzWlQxM3NCM0ZNak43dDlOejV3UFFld3BZeEZmV2NORVQ1c19DMHZKS3F5c2tlbUh3Ukd2NHVZb01abmd6Uk1PRFJ5bFJyRlM4X2Izczd2Wmlna0pKVDNLMVRsOU45eEw5Y2xNMkJxd3BaYldKZS1pdGhDS3pld2MxRW5jSlJxN05WTnVFYUtpQXFvZVd6SnBsNU5EdTRTSlN6dGVIanpwaXd3ellSbl8xMmpzb1dRVzh3cUdQV2JlNDQ?oc=5",
+      "title": "Lowell now a powerful Category 3 hurricane; some fluctuations in intensity possible through early Sunday - bigislandnow.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORHV6dEExNk1pbnRKVTZxcGVMMzc1U0F1UG1nVWRFNkY5Ukl1eHBJUUJNR0VDcWw5SG44Z3RzUUtSWXZsaWRXWG1aVnVRUWNWd0h2RjU2M0VfNHgtRVhGYlRVLW51LVF3LXVWMERjYklfRzZ6R0NSN2NEUjJ0Nm56dk9DWUJqbEVGYWdrNTFPeTY2VDJ3Wml4U3F6aFBVRWZUdllRVVZKX2l1Qk9YcFRNVG9OWUZtbW5HaW9IdnpOeC1Gd3NOakM5bk5md1ZLVlpkNWxFeTlhbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T23:46:00+08:00"
+      "time": "2026-09-06T23:57:00+08:00"
+    },
+    {
+      "title": "Just one drink a day may increase the risk of dying from numerous cancers - KSL News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDlod21id1Z6Ni04WTROMFZBcUhNY0NfODE5VFd4cG16alBMRzVfSk4wOWw5cTl1U0Y3WHRYM0FROS1nWVRSSjE5aVVwdkVGbVZ6N3FiV1lFbW1SZ2JETDhDeEFMOHU5a3ZheFVUYjRqOHMxMmRHTFBSQU1sWURaX1NObVZhUFBJekplZ1JoODJ5NzRTd01SRklRX2F2NjI4dFoyN0hpRUR0SG1ENXBn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T23:44:06+08:00"
     },
     {
       "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
@@ -77,16 +107,22 @@
       "time": "2026-09-06T23:32:27+08:00"
     },
     {
-      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "title": "Lane Kiffin on his haltfime wisecrack: \"Everybody hates you. They can't hate you much more.\" - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUXFDbWJHMC1VMGhyZHNVVXphbllPc2d2T0tjb0NfVU9Oa1luVHZycXhwcFZxNzR3MEJ0Qnp5aG9ZRmZfZ0dUSkFrcWJ6NTdVMUtKcjV0SFFsb1RBX0FtcjAyNElSNmNocXA5X0lNZWJfRDkwTEhLTzUtdUxDd1VfNjl2amRTRWQwOXViM29YaUo5UkJyUmlGcy1qeVZXWm9MMUpoc0NwWlR3RUtGMFQ0ZkdLeXdlRzRpQUhvbVdnTmpRUTF2T1hrRkpVQ2ZMd3dPTS1CUUdIWnBQaFh4MXNGWHN3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T23:30:45+08:00"
+      "time": "2026-09-06T23:24:50+08:00"
     },
     {
-      "title": "LIVE: F1 Italian Grand Prix updates - Kimi Antonelli leads George Russell in closing stages | Live text - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVFMyNGpXTUJNcDFjVnkwcVV3blN2MVJ3RjNqallBMDUxekpMTTAzT25DT2JtdzdKMWdDZDB0Zk9QaUxfdklvSTktMWt0dkM0QkdOdkJhZlNHX2k5MHJ5R0tiTnF3azlqUGRBUDI2dG9jcHZ0NHA3c2xIZ0t6WGpCZ0p3ejhSMzAxYlI3b08tcFRFYkNCbEd4ZmpjRkJzc0g2Tkh4eWhn?oc=5",
+      "title": "F1 Italian GP: Antonelli stuns from 19th on the grid to win home race - Autosport",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbTkydFBMellwZ3BLaHBEeW9xX3E2dnZDRS1RQU9zZDE2d1loWkpBLWIzVHFXMmdvallqM2o3dlhEWk9VakpfTG9HYTBFdjNzOURfY3c0bTNiRUNLYXdKMXdIN29SM0I4TnQ2VDFMRWR1TWVLRUlwT1JSVlVheVVIcTduTGU0RzFBZ3JlVXhHYjgxajdsbHpNSHdQNGc2aXJRQ0lPamtDRzVtRE9nOGtzLUpR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T23:17:25+08:00"
+      "time": "2026-09-06T23:12:34+08:00"
+    },
+    {
+      "title": "US envoys make first Kyiv visit amid Ukraine war peace push - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnlRblpUWUNHMjMteEdBa0JYZk5MeFJQRjlEa3dUdGtDY0xfZEs5Y2dCcV8yNEhSTHYzem9SVVVYS1NBZnc4U29BSEcydHp4cUx5bFZSUmZ1QXFsNHlFRGgtbGJ2WmZMRTZzdjhrTWY1b1BDMlFnQTlWXzRLU056OGV2TUlRdkdTdjRkMFpTNi02X1Y4MU5sMEF4WF8wcVpDNmNJUmFvXzRZeV91N2dKUDNJN1FWdkg3RHpReHVoNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-06T23:10:42+08:00"
     },
     {
       "title": "Pro wrestler Andy Williams, who performed as The Butcher, dead at 48 - Fox News",
@@ -101,16 +137,10 @@
       "time": "2026-09-06T22:40:00+08:00"
     },
     {
-      "title": "Kyle Whittingham evaluates Michigan QB Bryce Underwood’s ‘not outstanding’ game vs WMU - maizenbrew.com",
+      "title": "Kyle Whittingham evaluates Michigan QB Bryce Underwood’s ‘not outstanding’ game vs WMU - Maize n Brew",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcV9fMm11LWxyWGJsOGRSY3JtaU00elZhVVJfYlVaaVpwTXJMV2d3akxlUTBheVNRLXlTdE44RU5PTGZPYkN6R3RHVndnZW1rWFF0TzU4X0VOdXFqVUg2MzNxN3YwLVBwVGc1UlZZc1lzaEl0QzF2UjRHcWFONGRMRUhacXpiY0lQbkNMMnE2cHFHUVdQSENOTlJiRnZIY1ljTk9jQ3ZQVEcwcFVsY2JWMl9zWkU4LUFCc3VfUmp3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-06T22:30:00+08:00"
-    },
-    {
-      "title": "Wright: US ‘may not’ reach nuclear agreement with Iran - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2xpdE5HdkkyNmp2a1hxZnpsal83dWRsdFpfemVQdHFuS3pBVFJPSndsZFNiYzVOVDRQWDNRb3JXa041QkoyOGt6SEJHMTc1U2FCdENUbUNzZTgzcDZreVhNSmQ5ajgwdkN1TEYwcFZ2d0FjbEVEMEN2VlZnWGRGUXNLc9IBiAFBVV95cUxQUU5keWo1eG1yTzJHaHNXSUVSLVJQYTJaT0xoVlVlVkc0ajRYcG9PZjlNMXVubXpJbmQ3bjF5S2pGcWQ5eVpCNWJ3eFlIZEEtaDg0WHZ4Ym9VOE1odDdpTFdFYlRidUMxVFdLbXpUZVVYTFJTcnI5UUMzV2dhSnEyWDdoUGFQRUNo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T22:12:00+08:00"
     },
     {
       "title": "Dozens feared trapped in collapsed building in Delhi",
@@ -119,10 +149,10 @@
       "time": "2026-09-06T22:07:35+08:00"
     },
     {
-      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS3FNdm13NVd2bmJkY3V1YUFNSk52amNNb2otakJHclc2SEhtRTRaRG5xX3FfdHN4S0JtTjZGdV9HYndObkhRbHZxNzc1aGUwdjNQN3VDYWZnbFZ6RnYtRUVXNWd3ZExub3dzanB3WlVGLVNEeW9NanBsTlN3ZV9IZlhhZEZ0ZkYyakt4czZnRFNkT3lwLVA5WjdoYTlGRk1CUWM3WlBVT1QxdlJHemtB?oc=5",
+      "title": "Phaedra Parks and ‘Traitors’ co-star Chris ‘CT’ Tamburello make red carpet debut at Creative Arts Emmys 2026 - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVHZ2VVFxZWRybGpLSU9PZFNOWlVTUUs5VVJiSHZiS2VyeUtYQjJqaFh4ZV9lOEJvaVMxM0QyU3VRd3ZKbWpvU3hrZmN5MUlQSDdPLWhuNE9CcjlwVl9fd1FsdjNjd1Y2TlBzUnJPcmMzMllSaTV1UXVKdldXM1RBRjFZT2t3S0dkeTVfcGJFT3JxLXBmNVItNG5WV3VPNHZHLW93Q09fMkJwcGhKNE1WMHBRUDBuSGx3b1lhNm1vQzdmdnhQUzdhcENscC1BU1k?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T21:36:00+08:00"
+      "time": "2026-09-06T21:31:00+08:00"
     },
     {
       "title": "OPEC Plus to Keep Oil Production Steady - The New York Times",
@@ -137,40 +167,10 @@
       "time": "2026-09-06T21:00:00+08:00"
     },
     {
-      "title": "Nepal flood survivor’s family in China relieved after days of anxious waiting - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjlaLXBxbVRNZVJ3dFRxZWxMSk9BbGdDQ0VRVEJGd1g4U1Z0aW1QQjhXVEUtMjFCVDNHQWJ4T1NEa0FjWHMxWU1ndXkwNTkwd1dLZzBoaE5NT0V5WnEzNFR4ZmN1aDlzdlhsZ1NXRlRTaWFxdDVsUFlRTndKNWJnaTZBYWZLMzV2eUFXbTRUZHV1SHdSblhQV0hWSmU0Y19MYnFFVg?oc=5",
+      "title": "Howie Carr: Lindsay Clancy holdout juror should be named Man of the Year - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQnA4a1BYMTdURC1DOWlEc3MwSEtGLW1veVhYc3Z6WHl1OHIxWnZScURieDZEWThyeVlSM2RNTmsweXVvYXVjRDNqMjdPLTMyU0M2U0JLbXNIT2JVZjltWUF0ZFcwTVdIeDY3ZGhLcVZWZ1dubU1tWGJSN3pSWjFOdWpTT1NJZmh2S2VvWFZGc1hQUWhrMzlyNzk0VUpTREg4TjI2S0NnR2J0WlFENjFvMVRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-06T20:14:00+08:00"
-    },
-    {
-      "title": "Iran attacks US ship in Strait of Hormuz - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSkZRQjVFR09xQ3BaSVdBR3N6TnQxQ1d1Njd1RnhXX3FOcEdmNHFWZGNDOTBmMjhRVk9DYVpCYWtORWt2ZlBGLThya3RvbkNWanVhY0JCTm14Tjdpc044dDNkTlZHMmp4STBWVnhDYkVhb1FrLUo2dzN0MjF1blRUNjBRek9PcUZaaGZNcW1yNNIBlAFBVV95cUxPUlRuamVFbkhTT090WXBOODUxZGNXVEpiWFE3ZWJCWE44OGV1dEU5THpsSld5UVJKaVMxWkxWT3hpYmRpcFpKU0VrNFhYZW1nMy1kTTFMejdiZDdwSFY2Y0pqZmZuS282cWtaZTE1NWVKaEVfd3FRV3ZCTV9Ua2x0b1FEQjRFYmhEX0thaFlFNW42SUcy?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T20:10:00+08:00"
-    },
-    {
-      "title": "What different world maps get right - and what they get wrong",
-      "link": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-06T20:09:54+08:00"
-    },
-    {
-      "title": "Fuel duty proposal withdrawn after discussions",
-      "link": "https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-06T20:01:41+08:00"
-    },
-    {
-      "title": "Exclusive: Fetterman blasts ‘disgruntled staffers’ and ‘smears’ after report details apathy toward his work - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40WTBwdTZhU1JpbGR2WkQ5YTZmaVhUTVM1V09kT1Y5UXVhUXRsY0tLXy1GODQ1RjlFTmhsZDdUWmMwUVVkbDJYSkFfOWpva2RhaTBYRmhKQ1BFc0ZwM1FfZXh6NmNtTUQ4cXp4cUZnNlF0YVl0WHlEWnNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T20:00:29+08:00"
-    },
-    {
-      "title": "US tourism groups want to win Canadian visitors back. A testy trade war isn’t helping - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV2ppQXE4Mm1JWll4UVNwbERpUzVDNzQxbU04cld4ZU02cnVCSDMwZ20ySE9SRXBrWjJZdTJfaU9Xb3lBS2Znc3ZHY2EtdTBsZ01sby11MGlVbGdyU2x5cU13QVp4SURSRXNvajExam5OMl85Vl9HZ3NiTXVkRTJHQXB4eWtVbjY2eDI3ZVRvekgtWl9kRnBxLWpQa2JnUkk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-06T19:42:00+08:00"
+      "time": "2026-09-06T20:41:05+08:00"
     }
   ]
 }
