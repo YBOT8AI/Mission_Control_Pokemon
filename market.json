@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T14:03:18.983456+08:00",
+  "generatedAt": "2026-09-07T14:40:28.929771+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 625200.8,
-      "changePct": -0.25
+      "priceHkd": 624800.96,
+      "changePct": -0.16
     },
     "ETH": {
-      "priceHkd": 19634.1,
-      "changePct": -0.28
+      "priceHkd": 19608.23,
+      "changePct": -0.26
     },
     "SOL": {
-      "priceHkd": 823.91,
-      "changePct": -1.12
+      "priceHkd": 822.96,
+      "changePct": -0.51
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1107.36,
-      "priceUsdOz": 4393.2
+      "priceHkdPerGram": 1108.67,
+      "priceUsdOz": 4398.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.58,
-      "priceUsdOz": 65.8
+      "priceHkdPerGram": 16.6,
+      "priceUsdOz": 65.86
     }
   },
   "commodities": {
@@ -52,6 +52,30 @@
     }
   },
   "news": [
+    {
+      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
+      "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T14:32:06+08:00"
+    },
+    {
+      "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-07T14:25:03+08:00"
+    },
+    {
+      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T14:17:08+08:00"
+    },
+    {
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T14:13:17+08:00"
+    },
     {
       "title": "Cost of living on many minds ahead of Manx election",
       "link": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
@@ -77,10 +101,16 @@
       "time": "2026-09-07T12:57:53+08:00"
     },
     {
-      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T12:48:02+08:00"
+      "title": "Iran-US war latest: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz after US strikes on tankers - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcG1BYUJ4RVpoVElpdzBtc1VBZHg0QkFtMnk5S21lbmZFNmt3MHZNM25ZQi1vVDh2Y2RwSnJ0aEdZX0I0N2hIVmVQUExfMmxVUkZuVTNaUjgwXzZSV0tNVFhjdVFMODh4OXRLc3AtZ0pVQU5uTWZKVzhaNDRtRGZHTjd1MjQybzliTHBsYURHZFd2MmxLdXI1S19ZR1hMeFZSUkVDSzdPNFA3dDRSaFI2c1VlQmQ4NmM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T12:48:32+08:00"
+    },
+    {
+      "title": "China pumps $53bn into banks and insurers - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUN3RmxWVzNKQjJ3dmZRQThsZThwbUhiYURQVzFvUmhPcWxPSFZlRDFROE1nZjhBUTBKaUJhU3J3VEZxYVdGeUd1aXlYN3FDUEJZVGhZU2RSWksxQVlOS2poLXB0bWlmWFdldThGb2JXc1NrbE9BbEs3aDZMNTVVdS0tYUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T12:24:11+08:00"
     },
     {
       "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
@@ -89,19 +119,19 @@
       "time": "2026-09-07T12:23:14+08:00"
     },
     {
-      "title": "China pumps $53bn into banks and insurers - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUN3RmxWVzNKQjJ3dmZRQThsZThwbUhiYURQVzFvUmhPcWxPSFZlRDFROE1nZjhBUTBKaUJhU3J3VEZxYVdGeUd1aXlYN3FDUEJZVGhZU2RSWksxQVlOS2poLXB0bWlmWFdldThGb2JXc1NrbE9BbEs3aDZMNTVVdS0tYUk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T12:21:12+08:00"
-    },
-    {
       "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
       "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T12:07:23+08:00"
     },
     {
-      "title": "Court moisture, slipping ends Nebraska volleyball's Wrigley Field match experience - Omaha World-Herald",
+      "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTRiRHBsTEFsQXpmU3VSSjg0N25rUC1NRzR2ZWlNc2RyallYN0xTX2U1NUJhTk9UZTdGM3NnYXJyZkV1dmx1VXpIdVpoS2dSVDJPMUZ5TzRka09pQklpWWtpVE5weTlFWDFYNmNadWw4UmdoY2NpTTFjS0plN1lGa1lDWF9LUWhsMUtyWjJ6QVA1WG5kNm1r?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T12:03:00+08:00"
+    },
+    {
+      "title": "Court moisture, slipping ends Nebraska volleyball's Wrigley Field match experience - omaha.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVFCYTJHNWljVEJDVlQ0X2ZxeFBuWEZkSmtJQVY0NVdfX0tUYWdUQjI3aVdWU2hVV1JFR1RtYV9vRFRqNW8wNDB3dnRtWFFYOHlKeG1FYzhULUkzbFNtMHdKTnJ6SWVKSVlSZ3FVc3NGSWNQMVFkZG0xSDdFbVFIaXZ2SU9PR0RxYVRzd3gwaDI1TlBXVmZVLQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T11:43:00+08:00"
@@ -111,6 +141,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T11:40:09+08:00"
+    },
+    {
+      "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T11:33:57+08:00"
     },
     {
       "title": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport - The New York Times",
@@ -125,52 +161,16 @@
       "time": "2026-09-07T10:59:00+08:00"
     },
     {
-      "title": "Emmy Awards Night 2: The Full Winners List - Deadline",
+      "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T10:58:56+08:00"
+    },
+    {
+      "title": "Emmy Awards Nights 1-2: The Full Winners List - Deadline",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MMzZNdmlmU1Z0RGE0MS0wMGM4bVNkMmdreVgySU5pdzZRTVduUXBUSUhJTXhiNGJiSFBmWnh5cUxFNWpVSUhfYjVmd3I0WUxFbGswWW5SYVJYYU40TTFR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T10:52:00+08:00"
-    },
-    {
-      "title": "Armed man arrested after allegedly charging toward Democratic Ohio governor candidate Amy Acton at fair - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVWtEaDBUbHVOV0wxaHVoaFJ5dU56SXppaDVWNTZPUTh5blBZaFNlcTlHVHVTNkVSU01uT3lkU0NoQktWdWY3MncxRUxvTUd0cEItekxVekY1VVNFNG5Lb1VFNmpjU3JvTXhNWmtn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T10:38:20+08:00"
-    },
-    {
-      "title": "China to pump $54bn into state banks and insurers to boost economy",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z37qj4wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T10:26:12+08:00"
-    },
-    {
-      "title": "Ciara announces pregnancy with baby No. 5, her 4th with Russell Wilson - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVRTOExIeHVyMjFXUDdLdld2UFQ1VlFCRm80QlNTV0hvTThRVUhBb1N5UFd6UTRhWWh0NkptX1ZoR29OOGFYNVJCLXBxLVhweUVpZUlRaUMtUjZDUFdmU1BmNUdTcGpYS3J5Wm9yQlBFMnpLdkpjbUR0d25NUUxIVjN1VjhXQTNKTWp1NWFWUmNYTzQxTFZ1VzZmV0Q2TUFDck1TWdIBqgFBVV95cUxPLXhJWURHYS1IY3lxdE00MVJ5OHdGTjA5RGdPQlNhbmRVUGVxSjRPUGoweWZxQjZRcHotV3AtSC1JS2djYW9aazNBZmNwQmQ4N1BlTGpaQTNfdFg2ZlU4UkpvbEZGRXlSYnFfR0pwbVdkdnpCQVFuX2ZpNzVPaTBRVjZvV3Y0ZFdwalcyTDhDY1RMOW9UUkVlZzFxak5Db2RZajRyRUpPMFJkUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T09:22:01+08:00"
-    },
-    {
-      "title": "Seven Indonesian airports remain shut due to volcanic ash from Anak Krakatau - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN3lQYWRaNm1SWnd1TzhrOUJkMHBWVUt2aXJqZ1pmRzF0dERJeHhSYUxJX0w0amVjOGt5NWFhSGhrNTZuSE9vR05NY1JjM3NXZDNVbl9ZYWJON0dHdkIxTS1wWWt5dExNbjlkZkh1THJBbXl3N1huQlJpSFo1cF9XWDhHMElBXzg3UmYzVTlzdmZzZURzTkIxOXBVUnVHSHd2N0pkbHdzZjZtTGZ2MktKcF9kNkMtQnlaT3RVUFNURXVGQS1rMDRV?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T09:11:00+08:00"
-    },
-    {
-      "title": "Nathan Fielder Drops Weird Trailer for Secret Elizabeth Holmes Doc ‘You Can See Everything’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd2tEc200RWxMMEh4Nzg2Q2hJUGI4WDFvS3FWTmhNOUs1UGVncERkQ3h0VWhUcUNEcTlBd3lLa0NWTFE5bzhXLTh3YW9ZSU9zVV9YZ2xYZ2I2Wkc3RVVfUzBYYVpDOWxraVd5QVA3Snp0XzVRbEdWUGYxTmNIaU8zZ1NHemlxMlRQZUxQT0xWYzRZdjdieEJEaTdpREJvb1M2OVltaTQwcGp2OC1VMmxYcHpYWEhmRkY4TmRDUGxNVk1CTGtU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T09:11:00+08:00"
-    },
-    {
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T08:57:38+08:00"
-    },
-    {
-      "title": "Oil extends gains after US and Iran strike ships - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T08:15:00+08:00"
     }
   ]
 }
