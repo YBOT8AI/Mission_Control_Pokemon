@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T07:34:52.851556+08:00",
+  "generatedAt": "2026-09-07T08:05:57.776731+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -63,7 +63,7 @@
           "author": "evilmoni",
           "time": "2026-09-06T12:17:10+08:00"
         },
-        "commits30d": 51,
+        "commits30d": 45,
         "totalCommits": 144,
         "branch": "docs/sync-2026-09-06",
         "uncommittedChanges": 0,
@@ -102,16 +102,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "852c8e1",
-          "message": "chore: improve error messages",
+          "sha": "a9e6b17",
+          "message": "chore: untrack .DS_Store (macOS metadata, already gitignored)",
           "author": "evilmoni",
-          "time": "2026-09-06T12:17:10+08:00"
+          "time": "2026-09-07T08:03:49+08:00"
         },
-        "commits30d": 82,
-        "totalCommits": 181,
+        "commits30d": 83,
+        "totalCommits": 182,
         "branch": "docs/sync-2026-09-06",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 2,
         "behind": 0
       },
       "tests": {
@@ -124,7 +124,7 @@
         "score": 90,
         "label": "healthy",
         "issues": [
-          "1 commits not pushed"
+          "2 commits not pushed"
         ],
         "actions": [
           "Run 6 test files via `jest`",
@@ -268,8 +268,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-07T07:07:57.645319+08:00",
-        "next_run": "2026-09-07T07:37:57.645319+08:00"
+        "last_run": "2026-09-07T07:38:02.529046+08:00",
+        "next_run": "2026-09-07T08:08:02.529046+08:00"
       },
       {
         "id": "539a150ac028",
@@ -286,8 +286,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-07T07:03:54.108951+08:00",
-        "next_run": "2026-09-07T08:04:01.043524+08:00"
+        "last_run": "2026-09-07T07:35:00.194616+08:00",
+        "next_run": "2026-09-07T08:35:06.112719+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -295,8 +295,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-07T07:20:59.403039+08:00",
-        "next_run": "2026-09-07T07:50:59.403039+08:00"
+        "last_run": "2026-09-07T07:51:04.383196+08:00",
+        "next_run": "2026-09-07T08:21:04.383196+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -304,8 +304,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-07T07:32:00.829641+08:00",
-        "next_run": "2026-09-07T07:42:00.829641+08:00"
+        "last_run": "2026-09-07T08:02:05.897824+08:00",
+        "next_run": "2026-09-07T08:12:05.897824+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -340,8 +340,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-07T07:20:59.274343+08:00",
-        "next_run": "2026-09-07T07:35:59.274343+08:00"
+        "last_run": "2026-09-07T07:51:04.148639+08:00",
+        "next_run": "2026-09-07T08:06:04.148639+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -529,8 +529,8 @@
         "name": "Weekly Job Search Check-In",
         "schedule": "0 8 * * 1",
         "last_status": "ok",
-        "last_run": "2026-08-31T08:01:36.961165+08:00",
-        "next_run": "2026-09-07T08:00:00+08:00"
+        "last_run": "2026-09-07T08:02:34.598077+08:00",
+        "next_run": "2026-09-14T08:00:00+08:00"
       },
       {
         "id": "feebaec612ba",
@@ -546,18 +546,18 @@
         "enabled": true,
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
-        "last_status": "error",
-        "last_run": "2026-09-07T07:12:04.910317+08:00",
-        "next_run": "2026-09-07T08:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-09-07T08:00:22.120104+08:00",
+        "next_run": "2026-09-07T09:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
         "enabled": true,
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
-        "last_status": "error",
-        "last_run": "2026-09-07T03:10:26.863792+08:00",
-        "next_run": "2026-09-07T08:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-09-07T08:00:47.267988+08:00",
+        "next_run": "2026-09-07T09:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -645,9 +645,9 @@
         "enabled": true,
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
-        "last_status": "error",
-        "last_run": "2026-09-07T07:12:03.265091+08:00",
-        "next_run": "2026-09-07T08:00:00+08:00"
+        "last_status": "ok",
+        "last_run": "2026-09-07T08:04:30.194390+08:00",
+        "next_run": "2026-09-07T09:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -768,7 +768,7 @@
       }
     ],
     "total": 56,
-    "healthy": 30
+    "healthy": 33
   },
   "agents": {
     "hermes": {
@@ -789,47 +789,47 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "405Gi",
-    "uptime": "21:48",
+    "uptime": "22:19",
     "cpu": {
       "loadAvg": [
-        1.32,
-        1.53,
-        1.58
+        1.01,
+        1.09,
+        1.09
       ],
-      "usage": "13.6%"
+      "usage": "12.6%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 42.9
+      "usedPct": 43.0
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.6",
+        "cpu": "3.4",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.1",
+        "cpu": "1.9",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.7",
+        "cpu": "0.6",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.5",
-        "mem": "0.1",
-        "name": "opendirectoryd"
-      },
-      {
-        "cpu": "0.4",
+        "cpu": "0.3",
         "mem": "0.1",
         "name": "launchd"
+      },
+      {
+        "cpu": "0.3",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       }
     ]
   },
@@ -1553,16 +1553,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-07T07:34:44.843121+08:00",
+    "generatedAt": "2026-09-07T08:05:49.768291+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 26.7,
+          "temp": 27.4,
           "code": 0,
           "precip": 0.0,
-          "wind": 5.4,
-          "time": "2026-09-07T07:30"
+          "wind": 5.5,
+          "time": "2026-09-07T08:00"
         },
         "daily": [
           {
@@ -1591,11 +1591,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.3,
+          "temp": 27.0,
           "code": 1,
           "precip": 0.0,
-          "wind": 5.2,
-          "time": "2026-09-07T07:30"
+          "wind": 6.8,
+          "time": "2026-09-07T08:00"
         },
         "daily": [
           {
@@ -1631,14 +1631,20 @@
   },
   "activity": [
     {
-      "time": "2026-09-07T07:34:52.851443+08:00",
+      "time": "2026-09-07T08:05:57.776610+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-07T07:34:52.851443+08:00",
+      "time": "2026-09-07T08:05:57.776610+08:00",
       "type": "info",
-      "text": "⏰ Cron: 30/56 jobs healthy"
+      "text": "⏰ Cron: 33/56 jobs healthy"
+    },
+    {
+      "time": "2026-09-07T08:03:49+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: chore: untrack .DS_Store (macOS metadata, already gitignored)",
+      "project": "techwealth"
     },
     {
       "time": "2026-09-06T12:17:17+08:00",
@@ -1651,12 +1657,6 @@
       "type": "success",
       "text": "🚀 KINKIN: chore: improve error messages",
       "project": "kinkin"
-    },
-    {
-      "time": "2026-09-06T12:17:10+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: chore: improve error messages",
-      "project": "techwealth"
     },
     {
       "time": "2026-09-06T12:17:10+08:00",
@@ -1674,7 +1674,7 @@
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 56,
-    "healthyCronJobs": 30,
+    "healthyCronJobs": 33,
     "avgProgress": 69
   }
 }
