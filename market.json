@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T19:43:50.968833+08:00",
+  "generatedAt": "2026-09-07T20:16:10.543575+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622605.76,
-      "changePct": -0.62
+      "priceHkd": 622825.28,
+      "changePct": -0.6
     },
     "ETH": {
-      "priceHkd": 19526.23,
-      "changePct": -0.37
+      "priceHkd": 19517.29,
+      "changePct": -0.51
     },
     "SOL": {
-      "priceHkd": 822.65,
-      "changePct": -1.3
+      "priceHkd": 823.44,
+      "changePct": -1.43
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1106.37,
-      "priceUsdOz": 4389.3
+      "priceHkdPerGram": 1107.05,
+      "priceUsdOz": 4392.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.55,
-      "priceUsdOz": 65.65
+      "priceHkdPerGram": 16.56,
+      "priceUsdOz": 65.71
     }
   },
   "commodities": {
@@ -53,28 +53,40 @@
   },
   "news": [
     {
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-07T19:40:15+08:00"
+      "title": "Tanzanian President Samia's husband dies in hospital",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T20:03:56+08:00"
     },
     {
       "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
       "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-07T19:32:32+08:00"
+      "time": "2026-09-07T19:54:22+08:00"
     },
     {
-      "title": "Tanzanian President Samia's husband dies in hospital",
-      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-07T19:51:54+08:00"
+    },
+    {
+      "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
+      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-07T19:18:40+08:00"
+      "time": "2026-09-07T19:50:43+08:00"
     },
     {
-      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - cbsnews.com",
+      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T18:46:00+08:00"
+      "time": "2026-09-07T19:39:00+08:00"
+    },
+    {
+      "title": "‘The most anti-union president’: how Trump turned his back on US workers - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPT25VYUlRYnlacE5wLU41aHNjd2JwZXhjMG9SbzdUX01KWUE2YllMcFdJa0l6TUxHdXcxR3RZMDNpclFaRE9zRG9qY1hIU3JQT2N5aHZqTXI1bmxOWnVBM2JvcUtaaFE5MjVDRWJ1SkV1czJfUU5UbzdVMHI4UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T19:00:00+08:00"
     },
     {
       "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
@@ -83,16 +95,10 @@
       "time": "2026-09-07T18:45:28+08:00"
     },
     {
-      "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters",
+      "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T18:37:17+08:00"
-    },
-    {
-      "title": "Israeli air attacks kill at least 11 people in southern Lebanon - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0txTlhvUnlUaGQ3bzJ1VHFrWUYxRnQ0bW9IdWt6Tjd1MWE3SWRrNW1yWjZ4LUJZdFY0MS01RkhIX0VhT1Z3em1BVjlHRTVFaU12MzVQTnlpeVozcDUwN2xjNEJyZ0h0QldlUDl2R3dmWUsxOWZXU01FWGs0WDNxUTlFRFE2RmN0cWlvcEM1M1dCNDhwVEV3UnlMTXg2cjNhTVBIUjJR0gGrAUFVX3lxTE05bjMzVHlQOUIyZjAtbHdJVWdVNFhEQU9iamljMjRfOU85SHU2dEN3ckp1YlhfZ3NNcG1Md25IU3ZiRHZDTlJzaTRpSWNfeTR0WUxQaTFZYVJudk9FbGtPdGRkZENjaElXOGRkOGZWXzFaZ2JQTFR0dUVnRkFWUWNELVRUX2xFWGNyZVU5NkQ3Z1Q4bWxfRGRoT09YSkM2UmhpQklXRlo5VFFQVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T18:35:00+08:00"
     },
     {
       "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
@@ -101,7 +107,7 @@
       "time": "2026-09-07T18:31:01+08:00"
     },
     {
-      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
+      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - post-gazette.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T18:26:48+08:00"
@@ -137,19 +143,25 @@
       "time": "2026-09-07T17:31:26+08:00"
     },
     {
-      "title": "Bold NFL 2026 season predictions: Surprise NFC North champion; Drake Maye wins MVP - The New York Times",
+      "title": "Bold NFL 2026 season predictions: Surprise NFC North champion; Drake Maye wins MVP - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNFdvZV9xcEFkUkNjNHFrTnVvdlNocHhvN013WmxnRUt3a0RtcnRRSk9GNGVxQ3hNQ2ctUmJ2cXJ3a2VCM01uY3hWY0tlWVJPSlcxcHBrU1ZTU2hoRkFjV293a1l1YU1oOHNxZ2R4QjJ0MEtZMDdCcFV6QzVfVW1aSmVGR2hLeHFKUTBVWGp3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T17:30:28+08:00"
     },
     {
-      "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise - Crude Oil Prices Today | OilPrice.com",
+      "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise - oilprice.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWdiMm5MeHdZb3BJMkpHWW5FRnA1UERETWpCOFN1M2V1bzBfS1hON2x2bTRYZFhsam9Ed1VhSl9MS2QzVnJSN0oybXlsQjRzbUUzTklqUUNtLVBrQmxubVgwamdiSHN2eXRBbklUVm1wWGtqQVg3VGh5Q3JJTlRuRVhIRzZzNGVJWUNLR3lUbXVWVnhnbTJkdDF1eHFmc1NMaVUzbDJfZnJUNEJKZkZZUGp0YnZEZ2_SAbwBQVVfeXFMTzMtMnBGVFQ3eUd0c0FMaWNkbWtwNkFvUjVhcHIyQ3NndWlndl9yTmJjQjBkdWZEUE41ejlUWnE2NUw1aUZ0VEk2UURiSjgyOUZueDdEcXlyTWFYa3ZQVEtGZEkzN0ltZ0htSk5xMlpKZjl3eWNLa3JURXVEdDVoVHlEcFVHY0JPMWdBMVdWSE90Z2s4YzVMa043eHhtcG9pbm5vUElSYlVlMUFFNFVwd1liaDdzQ0FhNjlhdF8?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T17:30:00+08:00"
     },
     {
-      "title": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - The New York Times",
+      "title": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PSTltUk0zYWFVSlVYZl9ZQ21aMnRzTXVkQ3V5LUdOMVM5QjZOWVRnWWl1YU1xOU02SWh5WGZwT0pvOXlDRldIRGlIQ2NaWnJJZVBqVFg1N0M1Wm92NUVfUUZsYkR6dVY2OUwyZQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T17:08:00+08:00"
+    },
+    {
+      "title": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlVwV1E1UVpoQWQzclZqbERMWjRXVC1WVTEzYVdZaHUxZy12bTBfMkNISHJwX21VOUh4RXpfWFZkTndlQjNyMms0cXJQQnNPRl9kNGFucWs1Z2JwcG9leFo4cHRTZV9iZGZWRGZwcjJ2Ny1EMjBteXBUTHZzYzRnM2N5RkdPWlcxOXJz?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T17:00:31+08:00"
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSkVCakx3ZVpaQVdVaVgzOC1MaUFWV3ViNnJhRGROSWxJWFpqcWp2MlJsQk1zSFVoX0hBS25IdUE1VTNLTHVpUENEVnpjaEtBX2pmaHd3WDFTZnprWlJrcHF5NzcxMWczZkY0cW45Ym4xdGlVeGl6Q0c0Z2Y1WTlQb0xCZnl3YmRL?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T16:59:00+08:00"
-    },
-    {
-      "title": "Pre-loved uniforms save families £69, says charity",
-      "link": "https://www.bbc.co.uk/news/articles/c23x054g889o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-07T16:54:15+08:00"
-    },
-    {
-      "title": "The £70 refund letter that isn't a scam",
-      "link": "https://www.bbc.co.uk/news/articles/c23x0kd8eleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-07T16:50:55+08:00"
     }
   ]
 }
