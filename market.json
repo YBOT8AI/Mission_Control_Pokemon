@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T18:41:27.256525+08:00",
+  "generatedAt": "2026-09-07T19:12:46.230392+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622488.16,
-      "changePct": -0.73
+      "priceHkd": 621712.0,
+      "changePct": -0.82
     },
     "ETH": {
-      "priceHkd": 19516.19,
-      "changePct": -0.37
+      "priceHkd": 19497.22,
+      "changePct": -0.61
     },
     "SOL": {
-      "priceHkd": 822.81,
-      "changePct": -1.38
+      "priceHkd": 821.87,
+      "changePct": -1.58
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1107.86,
-      "priceUsdOz": 4395.2
+      "priceHkdPerGram": 1107.46,
+      "priceUsdOz": 4393.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.57,
-      "priceUsdOz": 65.73
+      "priceHkdPerGram": 16.56,
+      "priceUsdOz": 65.7
     }
   },
   "commodities": {
@@ -53,10 +53,34 @@
   },
   "news": [
     {
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T19:10:56+08:00"
+    },
+    {
       "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
       "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-07T18:41:11+08:00"
+      "time": "2026-09-07T19:07:12+08:00"
+    },
+    {
+      "title": "Kenya minister warns foreigners against 'misusing' visas to trade",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T18:45:28+08:00"
+    },
+    {
+      "title": "Tanzanian President Samia Suluhu Hassan's husband dies",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T18:36:15+08:00"
+    },
+    {
+      "title": "Israeli air attacks kill at least 11 people in southern Lebanon - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ0txTlhvUnlUaGQ3bzJ1VHFrWUYxRnQ0bW9IdWt6Tjd1MWE3SWRrNW1yWjZ4LUJZdFY0MS01RkhIX0VhT1Z3em1BVjlHRTVFaU12MzVQTnlpeVozcDUwN2xjNEJyZ0h0QldlUDl2R3dmWUsxOWZXU01FWGs0WDNxUTlFRFE2RmN0cWlvcEM1M1dCNDhwVEV3UnlMTXg2cjNhTVBIUjJR0gGrAUFVX3lxTE05bjMzVHlQOUIyZjAtbHdJVWdVNFhEQU9iamljMjRfOU85SHU2dEN3ckp1YlhfZ3NNcG1Md25IU3ZiRHZDTlJzaTRpSWNfeTR0WUxQaTFZYVJudk9FbGtPdGRkZENjaElXOGRkOGZWXzFaZ2JQTFR0dUVnRkFWUWNELVRUX2xFWGNyZVU5NkQ3Z1Q4bWxfRGRoT09YSkM2UmhpQklXRlo5VFFQVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T18:35:00+08:00"
     },
     {
       "title": "Rescuers dig through debris as seven dead in building collapse in Delhi",
@@ -71,6 +95,12 @@
       "time": "2026-09-07T18:26:48+08:00"
     },
     {
+      "title": "German far-right AfD wins Saxony-Anhalt election, falls short of majority - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFhETTlJTDVkQjRXc09IbDlSTTNVWWU2ajRmbi1mUVM2ZzFEYzFGTG0ydjdQU3NteDhNSTlocXVSR25MTlNoWTZxeXlJcklQMlB2SXIxVms3Mm83UVN6UEsta1ZHN1VhbWpfci1Gbkhqa05GcjZ6RTJ6Y2pfZUNLXzc1WlpYYWltc01MTlNZb0tUcFcyRkhtaFpTcjBJNURPRGlGRzI0MnVyQdIBrwFBVV95cUxPOEE2TW11RktOd2F2cmpuZkRDek9PN2VFbGFxNlZKMVRWQ1gzeTg5QVFuTkY4YkFyalZxWHZYdS1SbGdiYkc0VTIyYVNNQnhPWnhBOEZManhHYk1qbzNmZ19XOGFzOUJycHFrV09xNUpmVml0Y3lEZFlhVEhBZFNPbWlzUzdXbDRROHM4ZnFhV3RYWWwtbFJHb0JkX0w3SHhZOHQ2UE45Z1BxYmxmWGtr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T18:18:45+08:00"
+    },
+    {
       "title": "Israeli strikes in southern Lebanese village kill nine",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -83,28 +113,28 @@
       "time": "2026-09-07T18:16:19+08:00"
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T18:14:51+08:00"
-    },
-    {
       "title": "Probe begins into why Amazon cargo plane overran Miami runway",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T17:54:40+08:00"
     },
     {
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FTFk4ZWhTRE1tX3N3Q0l2ZjhBaUFGZG5lWmZtWGExU1JTZ2hiZnRIS3p4LVgxa21uSFFXYzRfMU9HTFZFeERZUkowZjlpVEJXTGljM09QRkNmUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T17:54:40+08:00"
-    },
-    {
-      "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - reuters.com",
+      "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVS1jR3lPTW1TQVB1Y3owVjhXcWx1aTBvdzZIOTY1SnFLTVhSLVRwbEkyMUhIZXRaSWd4UjllLXV4alo1MjhRemwyUjZ4elQ5MGhNOEhTUHhZVnBPNXZGaHpfTkZPdkc3cEFtNXJ1ejBUbms0U1doa0tXVjJLQnViNE5xczgybk5yTi1zYk5sdmdBazQ3WnVvWDJJMHY1WmcwSmJmYmdmX1IxYjFCanhyY09hTXNSalB5SV9obHJydUYzcXM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T17:53:15+08:00"
+    },
+    {
+      "title": "Nepal holds a day of mourning after floods kill at least 1,300 people - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ0Rrc0pHNkZJeFFyX1lUZVVRdHpuN1VKR0dpTU9tNTI0QU1penRaT2s2SzVaYkhiRlNVeHk2Yjc4aUFZNTBmS3B2SkRNUFByc09uU1dtNmNZdzJRLTF1OVQwY2FYUVFiZWQ0MjBUQjcyNEtmTEJ1NkxaV2E0RDNWTk9UcGZYVVZTUGFzX1dFYXk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T17:37:00+08:00"
+    },
+    {
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T17:31:26+08:00"
     },
     {
       "title": "Goldman Sachs Warns Oil Could Hit $120 as Shipping Risks Rise - Crude Oil Prices Today | OilPrice.com",
@@ -113,16 +143,22 @@
       "time": "2026-09-07T17:30:00+08:00"
     },
     {
+      "title": "With a Gerrymander Vanquished, Wisconsin Democrats Aim for Control - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSlVwV1E1UVpoQWQzclZqbERMWjRXVC1WVTEzYVdZaHUxZy12bTBfMkNISHJwX21VOUh4RXpfWFZkTndlQjNyMms0cXJQQnNPRl9kNGFucWs1Z2JwcG9leFo4cHRTZV9iZGZWRGZwcjJ2Ny1EMjBteXBUTHZzYzRnM2N5RkdPWlcxOXJz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T17:00:31+08:00"
+    },
+    {
+      "title": "Peru Shows the Limits of Washington’s Anti-China Push - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX205LUFpc3ZEdS1wa1pOSE0zWEV4LV80bjdEbHNIanhadUI4R0dQSmRQR0xWdmV6RFpKSHpLUHMxMzcweGpXNm5JRThVcS1YNDE5aHJtOGs4S0xOYjJJNGhyOWVUN1NhTkFoWFlBSkVlbVF6RWs2bjJmUW01bnFZOUxrUS1OQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T17:00:13+08:00"
+    },
+    {
       "title": "Pre-loved uniforms save families £69, says charity",
       "link": "https://www.bbc.co.uk/news/articles/c23x054g889o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-07T16:54:15+08:00"
-    },
-    {
-      "title": "Germany's far-right AfD hails big victory in east, but falls short of majority - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZbVlmQWpuWUg1RkMweEVFYUNTTzQ0YkJobDQtS0Yzc0tYOGd3VFdpSkwxWFVGejk2Y3pSYW9oeTRPQ3BiOVhGX2lOMldobnhQWEI5Q1JXM3JBQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T16:52:04+08:00"
     },
     {
       "title": "The £70 refund letter that isn't a scam",
@@ -131,46 +167,10 @@
       "time": "2026-09-07T16:50:55+08:00"
     },
     {
-      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+      "title": "Iran-US war latest: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz after US strikes on tankers - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcG1BYUJ4RVpoVElpdzBtc1VBZHg0QkFtMnk5S21lbmZFNmt3MHZNM25ZQi1vVDh2Y2RwSnJ0aEdZX0I0N2hIVmVQUExfMmxVUkZuVTNaUjgwXzZSV0tNVFhjdVFMODh4OXRLc3AtZ0pVQU5uTWZKVzhaNDRtRGZHTjd1MjQybzliTHBsYURHZFd2MmxLdXI1S19ZR1hMeFZSUkVDSzdPNFA3dDRSaFI2c1VlQmQ4NmM?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T16:41:11+08:00"
-    },
-    {
-      "title": "Indonesia shuts airports as volcano erupts - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkctUkhFeWk1aVBKaFdyWHlTdnVHX21teU5xRDVwRjZSaFJybk41eWtMeUtZQWRxMTRSTndKZXNHOGtUckZPLUIyeVBVRWhzM1ZpMk9sSGRGSFJHd1A3UUFuVG5CM0s1SlBQRVhHbUZRbzVBMmRuMEttd1hEVldScUxXb0g?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T16:23:14+08:00"
-    },
-    {
-      "title": "How £725 game-show winnings kick-started Champions League coach's career",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgy8w548yyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T16:04:12+08:00"
-    },
-    {
-      "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T15:35:56+08:00"
-    },
-    {
-      "title": "North Korea adds its 2nd naval destroyer as US, South Korea and Japan hold military exercise - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDVCS2Q3d3B1R2FBU0c5Umt6M2VMTUNZS0s4XzhkNHl4ZFoxeDVxOXdzeG9OQ0VsRXRJaTFoWXhQLXpKcXBYREd2dkNEV001cFBlLTZNSUszTVlmOWQ4YXh3Zy10N2V5bzYzVF9DQ2Z6ZXQ2d1BHYS1ZSWtkdG1HUFo4bHRJeFJuMWJSMVV6dXdpVmM0c3VRMW5MWFdjcWI3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T15:33:00+08:00"
-    },
-    {
-      "title": "‘Uncharted territory’: The $40 trillion U.S. national debt just got uglier as interest payments rise to $1.25 trillion a year - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSDJCdmh5ZmFmVy12R0ZDdUZja0p4d3lQNnptLXJhbUJJR3g4d3gxdmZsWEZNbVRsZlFHNmRWUzgyLTVjQkFTcmZIWkN6RWUzazZBS1lBVks0MVBRNUlHN095OGVIUm00S2dFdE05MmxlS0s3R080TjF5RHgxV1ZwWUJtMnM2VXdZUUpaa0RzWVlKSUVybC04UXBxUGxld2ZX?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T15:00:00+08:00"
-    },
-    {
-      "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
-      "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T14:32:06+08:00"
+      "time": "2026-09-07T16:28:51+08:00"
     }
   ]
 }
