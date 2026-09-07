@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T12:55:08.151268+08:00",
+  "generatedAt": "2026-09-07T13:26:48.491316+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624628.48,
-      "changePct": -0.27
+      "priceHkd": 625992.64,
+      "changePct": -0.0
     },
     "ETH": {
-      "priceHkd": 19565.97,
-      "changePct": -0.28
+      "priceHkd": 19676.91,
+      "changePct": 0.16
     },
     "SOL": {
-      "priceHkd": 823.59,
-      "changePct": -0.74
+      "priceHkd": 828.22,
+      "changePct": -0.37
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.32,
-      "priceUsdOz": 4397.0
+      "priceHkdPerGram": 1110.86,
+      "priceUsdOz": 4407.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.59,
-      "priceUsdOz": 65.82
+      "priceHkdPerGram": 16.66,
+      "priceUsdOz": 66.08
     }
   },
   "commodities": {
@@ -53,13 +53,25 @@
   },
   "news": [
     {
+      "title": "Six dead and more feared trapped in collapsed building in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T13:10:18+08:00"
+    },
+    {
+      "title": "How long could you manage on £3 of food a day?",
+      "link": "https://www.bbc.co.uk/news/articles/c07lz5d5z34o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-07T12:57:53+08:00"
+    },
+    {
       "title": "Germany's far-right AfD hails big victory in east, but falls short of majority",
       "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T12:48:02+08:00"
     },
     {
-      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - post-gazette.com",
+      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T12:23:14+08:00"
@@ -83,28 +95,22 @@
       "time": "2026-09-07T11:40:09+08:00"
     },
     {
-      "title": "Western Michigan-Michigan outcome created chaos for Kalshi - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcy1rdUxJZ2cyS0RvQzdsbVdUYmpyVjdzR0xmSjRNMVVaelpTcDJSQTVkWjhWMnoxWk5pSXFob3FzVkFTeVdJODRMVVZQU1pMcFlCUURyeWF6MV9MVXY3V2g0dUdtSFVnVmZBTGFBR2s4Ym50NGpXN3loSHpTc0N5STFOUnNJelhIeUJ5TzVqbXUxRnZLcnN0cm96U1RxLTZ2NGdwM2lCTXVyTGcwVEtaOEROdGxKSHRSMlVDWA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T11:08:15+08:00"
-    },
-    {
       "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T10:59:00+08:00"
     },
     {
-      "title": "Emmy Awards Night 2: The Full Winners List - deadline.com",
+      "title": "Emmy Awards Night 2: The Full Winners List - Deadline",
       "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MMzZNdmlmU1Z0RGE0MS0wMGM4bVNkMmdreVgySU5pdzZRTVduUXBUSUhJTXhiNGJiSFBmWnh5cUxFNWpVSUhfYjVmd3I0WUxFbGswWW5SYVJYYU40TTFR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T10:52:00+08:00"
     },
     {
-      "title": "Amy Acton unharmed after man lunges at her during campaign event; suspect now in custody - WLWT",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEJScWRZMGQ1UllOZWpZMWtwdE9uU0NYVll2V0h0X3BhS3FZYVdtYzVfS18yd3IzQkVfdE5KMG9JNFlybFR0Y1FqV0dTdlAwbExtelVLMllTVTNTNHVOblZIRy1JM21WcWxDb2RwUHY4UkI1MTIwMGJrZjA5TTUxcEV4MXhkdTEtTDJSMk5fVnJMcGdS?oc=5",
+      "title": "Armed man arrested after charging toward Democratic Ohio governor candidate Amy Acton at fair - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PVWtEaDBUbHVOV0wxaHVoaFJ5dU56SXppaDVWNTZPUTh5blBZaFNlcTlHVHVTNkVSU01uT3lkU0NoQktWdWY3MncxRUxvTUd0cEItekxVekY1VVNFNG5Lb1VFNmpjU3JvTXhNWmtn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T10:33:55+08:00"
+      "time": "2026-09-07T10:38:20+08:00"
     },
     {
       "title": "China to pump $54bn into state banks and insurers to boost economy",
@@ -113,22 +119,22 @@
       "time": "2026-09-07T10:26:12+08:00"
     },
     {
-      "title": "China to pump $54bn into state banks and insurers to boost economy - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00a2FqemF4cG9JVUVkR2JYRWZCeTFGVjZITS1aWXprVVBqbElzajJpS1doVWhPUlNSMTNTTHhQcWlRSFdxVmNQVFlYRUl5aDhHbnlKeVh0Sl9nZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T10:26:12+08:00"
-    },
-    {
       "title": "Witkoff and Kushner, in a first, visit Ukraine for peace talks - Axios",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKc0VKWnRSY1g3TDJKYmd3X3AyX3dNTDNUZEdMaG54UWxUUE1ORl9FVUNKdVNURUhGM09YSUlsZ0o4Z2RqZ0l2aFEzVEZ2SkhQRnFxdHhxVnNjNjEtN1FuNGE0aF9oRy1VQUZxNXRvamNIZ0ZISWYya0RaTjI4QQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T09:48:29+08:00"
+      "time": "2026-09-07T10:21:43+08:00"
     },
     {
       "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz - AP News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVktrNjVBTENONHRoZVB6OGRsQUxBSUdhZkFydmlOM3ZvVWRCRXVUUW85dGxNZ2VrMXkxZUpnVnpVMlNLZkpMWkRVTFJ2VVhSYXZCT1RmcEtYRTRjQmU5dTdCSzA4TDk4WkhJOWRiVUNxSFRKdHJmcTgxYWNEQy01eUVpY2Z5bHZpYl9sakVNcDBLal9BMkpCWWlKSEpMdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T09:42:00+08:00"
+    },
+    {
+      "title": "Wild opening salvo against Chelsea hints at exciting times for Arsenal fans | Barney Ronay - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONE1EUUE0cUlvaFlpdGNOeUtGSERoZUphdndqVHp5M29qMEhfOTZuQjdCUU16NG0zMGExc2NFRWtNZjd0Zi1FUUY5UUx3Z1c1QU9PX2NGcW4wTlpfc18xRlZzUml0ZGQtMGFrSzFZaUJnRXZzanJfM1F1WDJ3bXh2YXlXYzR3VE12NGZsMA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T09:30:00+08:00"
     },
     {
       "title": "Ciara announces pregnancy with baby No. 5, her 4th with Russell Wilson - ABC News - Breaking News, Latest News and Videos",
@@ -153,12 +159,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T08:57:38+08:00"
-    },
-    {
-      "title": "Oil extends gains after US and Iran strike ships - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN2l5blJOWGZlTWtiTzJFdl80Vm9jb3QxSHp5YUpRR0l6THd2RmZ6cDd2OUtFakRhYkRXbWdSdUxUU0tYSVl1YTRTS1RzYTVQem1OOVFDR01ZRXNEeDBuWEwweHd0RDZnS1B0dE1PbFhXb3JMWjNGY1JLMHpvUkpGRDE0ZUtXZk10akVNOUhSVklQYjdHZ1JCS25ReUc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T08:15:00+08:00"
     },
     {
       "title": "Hurricane Lowell menaces Hawaiian Islands with life-threatening surf - NBC News",
