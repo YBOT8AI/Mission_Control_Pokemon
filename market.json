@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T15:15:43.028493+08:00",
+  "generatedAt": "2026-09-07T15:50:49.023890+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 624291.36,
-      "changePct": -0.09
+      "priceHkd": 621790.4,
+      "changePct": -0.66
     },
     "ETH": {
-      "priceHkd": 19606.19,
-      "changePct": 0.42
+      "priceHkd": 19498.39,
+      "changePct": -0.34
     },
     "SOL": {
-      "priceHkd": 826.73,
-      "changePct": 0.47
+      "priceHkd": 819.28,
+      "changePct": -0.5
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.7,
-      "priceUsdOz": 4402.5
+      "priceHkdPerGram": 1109.15,
+      "priceUsdOz": 4400.3
     },
     "Silver": {
       "priceHkdPerGram": 16.6,
-      "priceUsdOz": 65.87
+      "priceUsdOz": 65.85
     }
   },
   "commodities": {
@@ -53,16 +53,52 @@
   },
   "news": [
     {
+      "title": "Oil on troubled waters - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZWdRNmlrYmd6NkpwZUFUOWFXQklhVDZOSzNtUkFxU05teTdiRDlPUnJSSXVMNEFtTklRWVVwTTZVSVZjVWUwcEllZ1l5NHA5U3JQQjJwLVZSV3dRMWVsdWhfS2Z2WndhWGtsYmE4VENoOTdndnh5S2pVRDNZS2xjMWUtTHpiY3dUdGhfMmFONmtOVlN0TjFj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T15:33:42+08:00"
+    },
+    {
+      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - Pittsburgh Post-Gazette",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T15:25:57+08:00"
+    },
+    {
+      "title": "Israeli strikes in southern Lebanese village kill 11, state media say",
+      "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T15:25:06+08:00"
+    },
+    {
+      "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T15:13:00+08:00"
+    },
+    {
       "title": "Five dead after Amazon cargo plane crashes at Miami airport",
       "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T14:59:57+08:00"
     },
     {
+      "title": "Iran-US war latest: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz after US strikes on tankers - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcG1BYUJ4RVpoVElpdzBtc1VBZHg0QkFtMnk5S21lbmZFNmt3MHZNM25ZQi1vVDh2Y2RwSnJ0aEdZX0I0N2hIVmVQUExfMmxVUkZuVTNaUjgwXzZSV0tNVFhjdVFMODh4OXRLc3AtZ0pVQU5uTWZKVzhaNDRtRGZHTjd1MjQybzliTHBsYURHZFd2MmxLdXI1S19ZR1hMeFZSUkVDSzdPNFA3dDRSaFI2c1VlQmQ4NmM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T14:58:51+08:00"
+    },
+    {
       "title": "Did the FBI bury evidence of alleged Saudi agent’s role in 9/11?",
       "link": "https://www.bbc.co.uk/news/videos/ce8e151n56po?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T14:32:06+08:00"
+    },
+    {
+      "title": "China pulls in Big Tobacco to help with smaller-than-expected finance-industry capital injections - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONGRkT2VHM2tCTWpYZzhsc05CbGRvRDFaMjlYWDFzcHVxa3NMcDdTYXJIb2dDS0hPWDgzX1UxNElKTm9qdlhGd0hueXgwaW4yWWNkUE9rRjdVbkxRMkc5VkE2ZXVyeHVCYV9sTHI2WHdiMWROcXZCZXVSaFlNUXgwVmRxa3FEWExWQ3NZMkF4QURDQVRudDhCMTlYRTlHdHNwLVlmYw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T14:27:53+08:00"
     },
     {
       "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
@@ -89,10 +125,16 @@
       "time": "2026-09-07T13:46:34+08:00"
     },
     {
-      "title": "Germany’s far-right AfD thanks Elon Musk as France warns state election win a ‘serious moment’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDBvY1BwR2xpOTJxUy1yQXRMeGg2Y0pZeURLY0d2Rm9KZVpnNllsSGxqWl9lVHVWa2JZWG9WZmNQaGI2UGI1bWNHZGcyRERId3lya3lXdGRraUdRc0tTNXZNSHZOcWFuMHNNWmFjOXBGazc5LW5BNEsxV1lsYURRNVl3MTZkWUw2ZGlfSk1YOXF1ZGdFamxESlI4UFRycDQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T13:36:00+08:00"
+      "title": "Five killed as Amazon cargo plane crashes at Miami airport",
+      "link": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T13:37:28+08:00"
+    },
+    {
+      "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T13:31:06+08:00"
     },
     {
       "title": "Six dead and more feared trapped in collapsed building in Delhi",
@@ -113,24 +155,6 @@
       "time": "2026-09-07T12:57:53+08:00"
     },
     {
-      "title": "Iran-US war latest: Tehran vows to extend ‘exclusion zone’ near Strait of Hormuz after US strikes on tankers - independent.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcG1BYUJ4RVpoVElpdzBtc1VBZHg0QkFtMnk5S21lbmZFNmt3MHZNM25ZQi1vVDh2Y2RwSnJ0aEdZX0I0N2hIVmVQUExfMmxVUkZuVTNaUjgwXzZSV0tNVFhjdVFMODh4OXRLc3AtZ0pVQU5uTWZKVzhaNDRtRGZHTjd1MjQybzliTHBsYURHZFd2MmxLdXI1S19ZR1hMeFZSUkVDSzdPNFA3dDRSaFI2c1VlQmQ4NmM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T12:48:32+08:00"
-    },
-    {
-      "title": "China pumps $53bn into banks and insurers - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQUN3RmxWVzNKQjJ3dmZRQThsZThwbUhiYURQVzFvUmhPcWxPSFZlRDFROE1nZjhBUTBKaUJhU3J3VEZxYVdGeUd1aXlYN3FDUEJZVGhZU2RSWksxQVlOS2poLXB0bWlmWFdldThGb2JXc1NrbE9BbEs3aDZMNTVVdS0tYUk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T12:24:11+08:00"
-    },
-    {
-      "title": "Pennsylvania’s measles crisis: Inside the nation’s largest outbreak - post-gazette.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUldJTm42d2dhZU9keVBFZW43aVJxZTlEZ3hEcE54aWVFQXd1NTNCSzBOYUxIWU02cjdFRlItYi1FZ2tSd1ZnWk1jR01aVnRfekFKZklUaXFpaHpxMWdhTGxwaXVDdjZNY29Gdl9OZnhEaWlMTUMtUXdjMUNnQ1J0YkltMlhXSW9NV3JuZVB1MEFVMmNMeUp0NldiQ0VDZEFBdXhsTW5IUkVKWlJ6Mi0xcVVtVGltZUNFaHNIOHlwaHVhSE4yWG9DSkx2U1dfVmJ1?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T12:23:14+08:00"
-    },
-    {
       "title": "Europe wrestles with impact of historic regional gains for Germany's AfD",
       "link": "https://www.bbc.co.uk/news/articles/c986w38r4j5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -143,34 +167,10 @@
       "time": "2026-09-07T12:03:00+08:00"
     },
     {
-      "title": "Court moisture, slipping ends Nebraska volleyball's Wrigley Field match experience - Omaha World-Herald",
+      "title": "Court moisture, slipping ends Nebraska volleyball's Wrigley Field match experience - omaha.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLVFCYTJHNWljVEJDVlQ0X2ZxeFBuWEZkSmtJQVY0NVdfX0tUYWdUQjI3aVdWU2hVV1JFR1RtYV9vRFRqNW8wNDB3dnRtWFFYOHlKeG1FYzhULUkzbFNtMHdKTnJ6SWVKSVlSZ3FVc3NGSWNQMVFkZG0xSDdFbVFIaXZ2SU9PR0RxYVRzd3gwaDI1TlBXVmZVLQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T11:43:00+08:00"
-    },
-    {
-      "title": "Australians will be able to switch off social media algorithms under planned legislation",
-      "link": "https://www.bbc.co.uk/news/articles/cn9wyvxn95vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T11:40:09+08:00"
-    },
-    {
-      "title": "5 Killed and 5 Injured After Plane With Amazon Logo Crashes at Miami Airport - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PSTltUk0zYWFVSlVYZl9ZQ21aMnRzTXVkQ3V5LUdOMVM5QjZOWVRnWWl1YU1xOU02SWh5WGZwT0pvOXlDRldIRGlIQ2NaWnJJZVBqVFg1N0M1Wm92NUVfUUZsYkR6dVY2OUwyZQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T11:30:45+08:00"
-    },
-    {
-      "title": "Indonesia shuts airports as volcano erupts - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkctUkhFeWk1aVBKaFdyWHlTdnVHX21teU5xRDVwRjZSaFJybk41eWtMeUtZQWRxMTRSTndKZXNHOGtUckZPLUIyeVBVRWhzM1ZpMk9sSGRGSFJHd1A3UUFuVG5CM0s1SlBQRVhHbUZRbzVBMmRuMEttd1hEVldScUxXb0g?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T11:02:50+08:00"
-    },
-    {
-      "title": "Hurricane Marie remains offshore, but rain, high surf batter SoCal. What to know - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOa1B1cUlRVWpRZFJrTnBvc1BKbWhaaVhIUERhT1pTWnFJMWpiNUQzb2F4ckY3LU5FSEZ6TlpLWEo1b1lIeE1QR2F3eHh3MVViN2hRSUlEODdjdmFxRFA4dVk1LUhyMWpRRG1RQTYtdE1tVVBPbWItdG43eHBMNEFKM2JHQk9DbG9ZY3cxZXA4Yw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T10:58:56+08:00"
     }
   ]
 }
