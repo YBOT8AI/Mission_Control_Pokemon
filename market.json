@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-07T21:52:57.554012+08:00",
+  "generatedAt": "2026-09-07T22:25:31.994149+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 621860.96,
-      "changePct": -0.61
+      "priceHkd": 620151.84,
+      "changePct": -0.69
     },
     "ETH": {
-      "priceHkd": 19576.17,
-      "changePct": 0.12
+      "priceHkd": 19486.08,
+      "changePct": 0.13
     },
     "SOL": {
-      "priceHkd": 822.81,
-      "changePct": -1.58
+      "priceHkd": 819.04,
+      "changePct": -1.34
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1110.13,
-      "priceUsdOz": 4404.2
+      "priceHkdPerGram": 1110.84,
+      "priceUsdOz": 4407.0
     },
     "Silver": {
       "priceHkdPerGram": 16.65,
-      "priceUsdOz": 66.06
+      "priceUsdOz": 66.07
     }
   },
   "commodities": {
@@ -52,6 +52,24 @@
     }
   },
   "news": [
+    {
+      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-07T22:18:10+08:00"
+    },
+    {
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-07T22:04:01+08:00"
+    },
+    {
+      "title": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T21:47:00+08:00"
+    },
     {
       "title": "Israeli strikes in southern Lebanese village kill 12",
       "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
@@ -69,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-07T21:31:00+08:00"
-    },
-    {
-      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T21:17:00+08:00"
     },
     {
       "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
@@ -95,22 +107,22 @@
       "time": "2026-09-07T20:48:28+08:00"
     },
     {
-      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
-      "link": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-07T20:22:39+08:00"
+      "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T20:37:00+08:00"
     },
     {
-      "title": "Germany's AfD calls for parties to work with it after Saxony-Anhalt win - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16M2ZOX0FoMjloOVMyeXRibklUYm10aW5fTlJjcmtuYVNFdE9fQ2k1TXo5aDNZUjI0UHFQeWFBZnBSaVNQdkIxX1JDUlR3QXZpbFNlS3RzRi1XQQ?oc=5",
+      "title": "Three new iPhones launch this week, here’s what’s coming - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2F6dUF5eEJKLUNoR2FlRWRHOVl4ZUpuQXluSnZfTGlLRmp6eFNNUXJBRmNHeVlwd1h0MHdzbkhaNXNyRnVVbXFnSS03RWN3cDZMTTBYVEJEN2s0RlVqRndOLXRmNXVzRVlKQ0ctcGFWa3BWem51dlZGdkF4am5GU2xwLXdxdkROZ0xMZERn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T20:22:39+08:00"
+      "time": "2026-09-07T20:23:00+08:00"
     },
     {
-      "title": "PFT’s 2026 NFL season predictions - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcHVrUkFwYkZrX2lMNml2dVFaX2VnLUhjOVVlb21mRklEVExDc1pQaW9lTU50ZzhwdWxQMVdsS2ZDZnhMaFhMaUtqZ3hIMm93TlVmMC14N3VvWGE3LXFMblpPMG0zYnhyaUt2VDk0T1hUMXVNQTkxUG1nXzVoeFBQWEhZV3Fnb3JreFJsOVhuOUwzOWRseDFweHZn?oc=5",
+      "title": "Falcons pick Tua Tagovailoa as their Week 1 starting quarterback - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmFRMEtjc3FYbVAtM1A5eHptMkJrbE9sdEkyZDdEYXY2VUVFVE9iaXp2R0MxNnpxUFY0Qi1jcWV0eExnTEUyaU52Mmc5ZVNld21MY1lBX1Z4ekFOX2xzTmdpN19pcmtMaDVwTnRaS041a212V2o5ZjdqR1pZcmViOGJGNU12RkRuSG9wMVVHbmhHc25ZWVh3RjJoUE94RGpqek5VMG84ZV9vSFEyZ3RURDRXaEcxbGlVdzNKNTA4Q3pJSXZqWjJR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T20:19:48+08:00"
+      "time": "2026-09-07T20:20:23+08:00"
     },
     {
       "title": "Huawei launches new foldable smartphone; Xiaomi and Apple set to follow - Reuters",
@@ -119,16 +131,16 @@
       "time": "2026-09-07T20:11:44+08:00"
     },
     {
+      "title": "Jaguar Land Rover opens voluntary redundancy program in $2.3B cost-cutting drive - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTGxuUlZGem9Ya3Z1a0RLMFZmY1dLbU85b1czN0pKUU83WnZtVU9YamluaHNNb2Fia0NvOV9nRzNJeU5pc3RmeHNXRW5OMXNxNmFvRVpNTXRrOGhJMXA4NVdvTTNSUklvUmhCdDdqMHJTeFRrQktYakpmeEZ6b3gwTHZnSGVUVEpzYXk5WlZvYzfSAZYBQVVfeXFMT05XMUsyNWZpU0lLRmZIVXZUT0xxczluWmdhQ0h0Vl9iTEFQci12S0pEOEJwTTg3V2phdF9nUUV6ZHpBMUlJTUhpSHA5cGJBOHIzaThkbWh6dE8wRUxGVmlGNEFDNlVwQUdmSFBNZjZqRFR0dVRIR2tMRGFXYlhjazJJcVNNZENGQl83UzFOeTFHTWlETE1n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-07T20:09:00+08:00"
+    },
+    {
       "title": "Tanzanian President Samia's husband dies in hospital",
       "link": "https://www.bbc.co.uk/news/articles/cgqd774wzpdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-07T20:03:56+08:00"
-    },
-    {
-      "title": "Range Rover Maker to Cut 4,000 Jobs as Trump’s Tariffs Bite - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMDg0RVNBdGpUakJuRjZGN2NKU0JwXzJncDk4QmpGMHFhcG1XX3VxM2Y0NHN1TW0yNXRhQ3NxMnBrV2JSMlZIYVNRaVY2SUhRNS04M3EzSUZCd2ZPLWZ3WUV6YlJZNzhmUHdPYXVfRzdoWWVaWmwtd3duN3VSQmVNUE1SRW4wbWJ6eER1T1g0TTdkYmFlekd5ejhpNmFMaVA5SUlvT0dTblM2U0N4dGxEVDVEWU1lWDFTTUR5QXhobEU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T20:02:00+08:00"
     },
     {
       "title": "Rob Reiner wins posthumous Emmy for role in ‘The Bear’ - CNN",
@@ -137,22 +149,10 @@
       "time": "2026-09-07T20:01:26+08:00"
     },
     {
-      "title": "Senate aide’s lobbying side gig raises ethics questions - Politico",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc3BRdGJKaGpfYWYxdTVPMV9LeWZQMlQxZWx0ZHB5OTNvUk9OZnQ2OWh6djdOTHhNOHo0NXBQdHN4UXdQWnhlZjg0NjhpVDZiSG9CQmxhT1ZmbnhqTWlRaWRJZldZWm91NVJnZ0tRTmFLRzlaajRFOElleFFkem5PMXJxbGlNem9rQTFaU2RfblVyY3A3d24xS1piT25zbDRUZFlac1l3?oc=5",
+      "title": "Trump Floats Renaming New Mexico as ‘New America,’ Prompting Pushback - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdaR2hQQXBZQ2xLbWw4d1hLaW1ucTdTT1owQlhIYnkwRnc5eTFHR3J6QkdOTkYwX1R1bE1vUmY2RHh0b3Ffbk9vR3E0R280MnphMG5EQ3VyTHlaSjl6c05HbXlWRURaa2JSR2ZRZUhGR3NQNUtmdE1QVDJiVHl0Sw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-07T20:00:00+08:00"
-    },
-    {
-      "title": "Why the iPhone is about to get more expensive - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxON0hJWFhjX2ZkRlh6bHNUMDNRQ21XdDVKTko0Rk53R3ZrMzFtWFdBTXpRdk1GQkxZUm45TWJYMWdCWWtfRkhqSFZGV0hTRmRqd3QxemFMYXk2NC13b2IzcTFCVy0zby1UX3VqTXNIX3hEVnFQWFJqWnBHWjdBODhCZXYyWnNpeU4xMnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-07T20:00:00+08:00"
-    },
-    {
-      "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
-      "link": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-07T19:51:54+08:00"
+      "time": "2026-09-07T19:54:06+08:00"
     },
     {
       "title": "Indonesia volcano eruption leaves 270,000 stranded as airports extend closure",
