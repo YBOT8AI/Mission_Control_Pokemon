@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T07:28:46.546803+08:00",
+  "generatedAt": "2026-09-08T07:59:50.527276+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619446.24,
-      "changePct": -1.43
+      "priceHkd": 620222.4,
+      "changePct": -1.54
     },
     "ETH": {
-      "priceHkd": 19479.73,
-      "changePct": -1.12
+      "priceHkd": 19529.28,
+      "changePct": -0.95
     },
     "SOL": {
-      "priceHkd": 812.69,
-      "changePct": -2.61
+      "priceHkd": 814.34,
+      "changePct": -2.46
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1112.3,
-      "priceUsdOz": 4412.8
+      "priceHkdPerGram": 1114.87,
+      "priceUsdOz": 4423.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.42
+      "priceHkdPerGram": 16.8,
+      "priceUsdOz": 66.63
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 726.3,
-      "changePct": 1.27
+      "priceHkd": 725.36,
+      "changePct": 1.14
     },
     "Natural Gas": {
-      "priceHkd": 23.36,
-      "changePct": 0.13
+      "priceHkd": 23.34,
+      "changePct": 0.07
     }
   },
   "news": [
+    {
+      "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T07:46:44+08:00"
+    },
+    {
+      "title": "A food safety officer has become a social media star in India - why?",
+      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T07:40:39+08:00"
+    },
+    {
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T07:29:12+08:00"
+    },
     {
       "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
       "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
@@ -61,7 +79,7 @@
     {
       "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
       "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "source": "BBC World",
       "time": "2026-09-08T07:05:12+08:00"
     },
     {
@@ -89,16 +107,16 @@
       "time": "2026-09-08T06:04:00+08:00"
     },
     {
-      "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T06:03:49+08:00"
-    },
-    {
       "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T05:41:00+08:00"
+    },
+    {
+      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1ZzZ1czS3BlcVI3UEFheFhtMm5oMFM5YkszM3JaMDVUc3MxS2l6a2t3aGViVzhLUnhFcXRKNHl6MmZSbE9LakVIOGJZaHYtcmdQeWhsYTNtUXk0X1lLWWo5R1lpWWZ6clRsM2VpbElzeUVVYTRyLUk0RHFxbk1sQ2JoRERoX1drbkpNMTNndWlKY2VGcklkR0JIYkhGOXB2N2dVWHdxcVI5U0g4dFAzVGc2aVnSAboBQVVfeXFMTVJLanV6VjJJbWM0SFM1djlTM2RWX3BlMUt0X01FUzJncVBkMTJ2Qndac2VwTUw4OEVIUXVadlVOZlBfcXFmeHJaN1d1aEFISlNYOWNtSURUZTlNSEl5MXJONll3cGJpd1N0MThqZ1luMndQRlZ0U2ZReUhNNG1nU2hkbF81S3l5bGxJV2xwZ1phamZ1UlNNTkdVRV9meWxFamszUkN6b3BwS3lwUzktQXJkQUFJMDlNZjBn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T05:20:29+08:00"
     },
     {
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
@@ -107,22 +125,28 @@
       "time": "2026-09-08T05:12:37+08:00"
     },
     {
+      "title": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test. - Axios",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG5aNFkycE8xTjJQSEszWm8yVFE5TXhXTGU0SHEySUZaSnFOTGRvLU9LR3FodW1TZF9rMk1UaE1XTnpSV3RJNnVINkhHMVR2VDdZRkJPSHB3NWtNbHlnMFl1NV95TkFMakRoVnR2bHVZOWp4dWphRnJIS24weEh5dUppQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T04:40:31+08:00"
+    },
+    {
       "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3UzZHBQV0NZTjd0MzM0OW1EN2M4WFg1TC1TaWo1QTUzOTVRNUIyak56T2tiRk41aEdWRGtGUzU0cEZ2NUNua2h0UkdITTJBMHJ4aG85YTdpUHRKT2RMbEcxcXFHRlNTb1o2M1NJWFFYXzlQcFc0TTRuWk8zQktYVnZYNWY1QUx6TUMxZtIBkgFBVV95cUxNMGkwWUhRbGJlOUxzRTI5dXNWMFdLdjg2NS1XcUgtbXBWT2k0ZU1RX0RXYWVNTU5mYmZ0Q3UyWDFGOWZhdnVkTmpaaTZPNm9JZWpIR2I1d2ZDTER4MkFnS21HUVdoRkxZOWVQSE4xSGlPZHRWOFR1SVh5UnNtczl1czhKLXJCYl85R1VnV0I5QnJPQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T04:00:00+08:00"
     },
     {
-      "title": "Exclusive | Lindsay Clancy's fight over mistrial is not done yet -- but may not end the way she wants, lawyer predicts - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTNXZU1TNU83LTRVbkZxcHpEZWJ2Ty1LWjZ3R1lGdFBxeHBENm9EbzRKTjVCR25BOGIyV1NScDBwWDkweDhxNndsYWIwQkNkVVV2ODNjdDFCckZ1OFVDdlVnRWRZTE1xLVEwU3c2M1lTd0pHTkFMM1c4dXF0S0tXSXhWeno1UWxYSkFBN3NhRmVLcjk3Ukd3UDFfRnBmYkJjUUxVVGdFZGpnWG42blhZajJ5aG5qcE1RbWM1YkNabm9rRTAxYk4zRFZMNk11Sy1QaFY5WVUzQQ?oc=5",
+      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDQwV0N5TEVua05mMi13aVo5TnFoTVVIRHlDVjllLWh1RTY3bm13NkkzOHRDZU5qYkNOZlFkRzZhTlZjYnFjV2ZLdzJPYzB5R1FUR1RCRW1ISzZYSzVySC0zSXUxbTBVM0ZZVUMzUVAxZmswQVhIYTVMaEZoYkxiVU1UdldVbHdYUlNFczhqWkY2NjVvaFJGT3F3X1YxdzB3N0E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T03:08:00+08:00"
+      "time": "2026-09-08T03:25:00+08:00"
     },
     {
-      "title": "Pope Leo unveils new fresco at Genazzano sanctuary where he prayed after his election - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMXkzNXZXMzhacUZTcFAybnFQZGwwOXR4REJ6OFY4QVg3bHVqLWhlN3JiUmF1aHJjM0luUDBkb3M2dFVVSzNNbmJrX1ByU2lZX3BZN0NLcjQ5Q29XYnEyTFRtbVJVMUU1eko4NjdRd3RCX0JRZ2FNVE1vd3BzZw?oc=5",
+      "title": "Canada Set to Hit at Trump Tariffs, Risking Wider Trade War - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0tVzdBN21qWjZjZTVSV2ZhX1VibDN1eVgwcjZaeUxlR0RhRGVNWlN4ZnBiSkVlTUNiTXdPdW9BYjFqMWVtcHlNR01iNEJnbHZrM2stLUpMR2tFS3lCQnNLMnJiTVB4OUMyMTBqaG8ta0FLUW1rcVotbEJYbWZONXNOQnVfb2RGcFFBbkpUZU9nSmtUS1o2QnFrSFhMQmp4TVZ2bVFBaHd6Vmk5OXY4Y3lwc2g?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T02:53:49+08:00"
+      "time": "2026-09-08T02:22:28+08:00"
     },
     {
       "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion - Variety",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObGZIaXMxeXIxeThHX2xFcTBwT3A2NmFPTjBvaXJWY3E5bXFYZG1kM0xnU0J0aTNZR0pqbF9DX0kwQmw4REtnMXJMZ1plTHZzdHNnTkdBbThYZ1l1Y3JyWTBLb2JLUnZ0clR5ZEpsM3dNYjlJUE03LVRRMG54Y3dGemh4VmFOMUpUSFJKcmkzVjFzU3l5RzhIWVBkTU12QlpFTDB3bkNwMU9zVVZucVh6YzE1cHkzVEMyUm1ucVNKVWk2ZFJSbjJRU2JiVkR3dXlYNzctdk51ZHZad2lI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T01:56:00+08:00"
-    },
-    {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "link": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T01:46:25+08:00"
-    },
-    {
-      "title": "State, local leaders weigh in following alleged attack of Amy Acton at Canfield Fair - WFMJ",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONi11NkFpWnJsVGphZ0R2dTA0NkFuVVhsd3Jkbkt0VUxnU0N6UnFMNFkzWkYxblV6ZVhqQnJtUUFDWFVfcm5FVlpCbTNUdTF1bkJIRVdJS2JuWi1vMDdmR1R0dGlCU1diR3VDQ0gyWEp3WXQxR1N2YWdCZzBvZndtVmpaaEpEVWtueGZxSkxCcTRmRGJvZ29mcEExMlkzVHk5ZHZVczdsZnJMNUVSV2lYcWhFVUx5UE1yN2FCaDFZSTR6Qld4ZlVBN29lMUQwaGdKSDk4QWFfVVphVFl2OVR3d256QzhSVWNFQU9HTmJtV0NHRmQ2c0p1SW5nNF9UZWtnaGZwTEtjZXlkT0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T01:37:23+08:00"
-    },
-    {
-      "title": "Lynx sign former No. 3 overall pick. With the playoffs looming, here’s what she could add. - Star Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN00tWkFyTkRjek1XV0ZpYTZwcHNCdWNQRFdwMmNQT3Atby01bllSTXcxUGI0X2V0TF9XeUtoVzU4MXJweU9pWUhBSFJRc3Fpd3oyTFI2bzJOMW1jR2hLNkltdnl0eDRtbmpSYXI0N0NvZnFqbmNiS1QyMDlMSFVxOEVsVndTUlNUMjF5X3VycDRhcmV5TW8zZ21ILTkyZUhkQ2ZaaU1oRmdsUjJRTTloYVFsakRZajgxb2djejJVNHR2VlU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T01:30:08+08:00"
-    },
-    {
-      "title": "King Charles confirms Harry and Meghan will not be working royals after U.K. return - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONF9HSjNUS0ZiaTd4WG9mdW9FZGphNFFrRTFEWnN0ZVNCMmI2QV9Lc3BSVGM5ejl6MWFHRWFiVHBjWHNseWYtYlRHSUMwZ3hkQ0RzWWItUFUwb0dQeElBeEdrX0hqOFdjMUxhTTZ6NnFreXVuREhpOGs1VzFFejhxempWRGhLRVotOVRYM0V0eDZoVEFfWldxVWpZRG0yam5WVFoxM0F0bXFPcExFSUNIRHpiZ3QtLXRp?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T01:25:31+08:00"
     }
   ]
 }
