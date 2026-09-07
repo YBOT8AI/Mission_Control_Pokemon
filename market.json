@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T06:57:41.878858+08:00",
+  "generatedAt": "2026-09-08T07:28:46.546803+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618826.88,
-      "changePct": -1.41
+      "priceHkd": 619446.24,
+      "changePct": -1.43
     },
     "ETH": {
-      "priceHkd": 19457.08,
-      "changePct": -1.09
+      "priceHkd": 19479.73,
+      "changePct": -1.12
     },
     "SOL": {
-      "priceHkd": 811.52,
-      "changePct": -2.3
+      "priceHkd": 812.69,
+      "changePct": -2.61
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1111.26,
-      "priceUsdOz": 4408.7
+      "priceHkdPerGram": 1112.3,
+      "priceUsdOz": 4412.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.73,
-      "priceUsdOz": 66.39
+      "priceHkdPerGram": 16.74,
+      "priceUsdOz": 66.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 726.06,
-      "changePct": 1.24
+      "priceHkd": 726.3,
+      "changePct": 1.27
     },
     "Natural Gas": {
-      "priceHkd": 23.33,
-      "changePct": 0.03
+      "priceHkd": 23.36,
+      "changePct": 0.13
     }
   },
   "news": [
+    {
+      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T07:06:14+08:00"
+    },
+    {
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T07:05:12+08:00"
+    },
     {
       "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
@@ -65,7 +77,19 @@
       "time": "2026-09-08T06:22:58+08:00"
     },
     {
-      "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - Reuters",
+      "title": "Hurricane Lowell nears Hawaii, prompting warnings for 3 islands - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQektfamQwRFNBUV9oanp1Z05QZjhUNE9pQ2l1X1QzYWhRUHJjeGlhTDRDT2lpVEZNN1FCcjlVU05LUWdYbWVOc3o0TnhETGdsTTNlV21vQy1RdnNtNm5fdHBxakxWNjQwZXBtajdPd1dUUUVweW5sQnprMWtkTW93OV9GM1g4ZGpPQ3BYU0o0MlhhT1Rfeng0YkhqUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T06:17:54+08:00"
+    },
+    {
+      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T06:04:00+08:00"
+    },
+    {
+      "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T06:03:49+08:00"
@@ -83,40 +107,34 @@
       "time": "2026-09-08T05:12:37+08:00"
     },
     {
-      "title": "Trump suggests renaming New Mexico amid torrent of online memes and taunts - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXVEVHFpTktUbXU3ZE4tT0FtVjlkU2NUM3A4TllDNk9IelJqdExmUmRkM0FnVlI1S19xeDl3VWpYQXRqOG5YOUpRMTBvS1NVbmI3eURiaXBvZGUtcDhnRVhlWVROZy1RV2I0dVdncmpXTTlWbEhMdHpPMVZEcnREVVhOZmxfakNHYnJQZkRpc1ZoanNXZmtrZml2ZnlRZ29OTUZRbjNiUUNqLWVleUxjZ0pHUkJlWW9LOTBJ?oc=5",
+      "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3UzZHBQV0NZTjd0MzM0OW1EN2M4WFg1TC1TaWo1QTUzOTVRNUIyak56T2tiRk41aEdWRGtGUzU0cEZ2NUNua2h0UkdITTJBMHJ4aG85YTdpUHRKT2RMbEcxcXFHRlNTb1o2M1NJWFFYXzlQcFc0TTRuWk8zQktYVnZYNWY1QUx6TUMxZtIBkgFBVV95cUxNMGkwWUhRbGJlOUxzRTI5dXNWMFdLdjg2NS1XcUgtbXBWT2k0ZU1RX0RXYWVNTU5mYmZ0Q3UyWDFGOWZhdnVkTmpaaTZPNm9JZWpIR2I1d2ZDTER4MkFnS21HUVdoRkxZOWVQSE4xSGlPZHRWOFR1SVh5UnNtczl1czhKLXJCYl85R1VnV0I5QnJPQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T04:39:09+08:00"
+      "time": "2026-09-08T04:00:00+08:00"
     },
     {
-      "title": "Iran describes new Strait of Hormuz route during Operation Epic Fury - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0FkU0lFTGVobHIwMThjWEhxeFIyUXhMNjk5Q0tjUjZ1d0o4ZmV0NldKWV9zc1QxMzNESnZQM2JCSE9PdzZiMjgxbF9hVVQ5M2hINUg0RW40MkJ0RzQtWHc4M2tMeTJWY1pKT00zekJMUUVEcXRYa095eVNkUk93cXFhX0hVVDBnZ0phX3Z3?oc=5",
+      "title": "Exclusive | Lindsay Clancy's fight over mistrial is not done yet -- but may not end the way she wants, lawyer predicts - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTNXZU1TNU83LTRVbkZxcHpEZWJ2Ty1LWjZ3R1lGdFBxeHBENm9EbzRKTjVCR25BOGIyV1NScDBwWDkweDhxNndsYWIwQkNkVVV2ODNjdDFCckZ1OFVDdlVnRWRZTE1xLVEwU3c2M1lTd0pHTkFMM1c4dXF0S0tXSXhWeno1UWxYSkFBN3NhRmVLcjk3Ukd3UDFfRnBmYkJjUUxVVGdFZGpnWG42blhZajJ5aG5qcE1RbWM1YkNabm9rRTAxYk4zRFZMNk11Sy1QaFY5WVUzQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T04:33:22+08:00"
+      "time": "2026-09-08T03:08:00+08:00"
     },
     {
-      "title": "Hurricane Lowell nears Hawaii, prompting warnings for 3 islands - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQektfamQwRFNBUV9oanp1Z05QZjhUNE9pQ2l1X1QzYWhRUHJjeGlhTDRDT2lpVEZNN1FCcjlVU05LUWdYbWVOc3o0TnhETGdsTTNlV21vQy1RdnNtNm5fdHBxakxWNjQwZXBtajdPd1dUUUVweW5sQnprMWtkTW93OV9GM1g4ZGpPQ3BYU0o0MlhhT1Rfeng0YkhqUQ?oc=5",
+      "title": "Pope Leo unveils new fresco at Genazzano sanctuary where he prayed after his election - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JMXkzNXZXMzhacUZTcFAybnFQZGwwOXR4REJ6OFY4QVg3bHVqLWhlN3JiUmF1aHJjM0luUDBkb3M2dFVVSzNNbmJrX1ByU2lZX3BZN0NLcjQ5Q29XYnEyTFRtbVJVMUU1eko4NjdRd3RCX0JRZ2FNVE1vd3BzZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T04:04:31+08:00"
+      "time": "2026-09-08T02:53:49+08:00"
     },
     {
-      "title": "Prince Harry and Meghan not working royals, says King - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qOG02Y3hCUUgydXhOWmJCQVFtNGRjN2lFc2xZTE5sLVJfaHRwbGY3SndtdEtvTlZYSlVQQ3Y0T0E4WUsxTVVqQVQ2MTZ6OGl2MWt4WWQ2YzVDZw?oc=5",
+      "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion - Variety",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3ZuT0xkNmZfUWhRcHphaFNUMzlPY0l1RTBXd0IwYzcwcTVNMVhXNS1KdHZPdFNQZXNJMWFLenVzSlBmUlFRLUJJSWVEYko3UUVlQjRIbi13X2gyLV9hN05YUTBGN3dUTjhLRXZlY2ppbFo0RVF1Z1NYVlRrWmEyYnpsVzVJUkRTSGJsbWFBT2o3Tm9GN2haQw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T02:23:31+08:00"
+      "time": "2026-09-08T02:10:00+08:00"
     },
     {
-      "title": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
+      "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T02:17:00+08:00"
-    },
-    {
-      "title": "UK government condemns anti-migrant protests at ports over Channel boat crossings - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamx1N1dneVVhRHAwRWNwZVFMN0QxOHpjdC1HNHQxU3FyV0VGcUc3d0tyazlaRHM5d2FYOWFiRGtzZEdVVW1fLUN1bnp4Ull0NW9IT2xSNDItSzVjQkZNYzVLaWhpX215UlpTVUZzV19UWVg5VGRZMmNsT3RaSUhOWklVdV9zeE8xaml5TlBMeEdjcGNSd1FQcTgzUm9VVWh3VEJGR0R4UQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T02:08:00+08:00"
+      "time": "2026-09-08T02:02:00+08:00"
     },
     {
       "title": "Alex Pereira seeking Ciryl Gane rematch for his next fight: ‘From what I’m seeing, it’s something that’s going to happen’ - MMA Fighting",
@@ -149,28 +167,10 @@
       "time": "2026-09-08T01:30:08+08:00"
     },
     {
-      "title": "Disconnect your LG television from the internet, now - AppleInsider",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmxON3EtdlNtaVJkeU8wclJ4Vm5jSERyT3ZlLXlWTlhBM3pFQmFMSXNaYUcyVktDZi0yQlhIQ2s1Rmtsc2ZDTklSN3pqZ29fWjNwdkxWbWpESmNfTG9qOThWUVY2dFhpeVBacHdta2UzY0xZRXlLWXU5Ul9LVl8zdGdHdURaR2NQa3Uxd1RpYUc1N0xrQlBpNHpB?oc=5",
+      "title": "King Charles confirms Harry and Meghan will not be working royals after U.K. return - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONF9HSjNUS0ZiaTd4WG9mdW9FZGphNFFrRTFEWnN0ZVNCMmI2QV9Lc3BSVGM5ejl6MWFHRWFiVHBjWHNseWYtYlRHSUMwZ3hkQ0RzWWItUFUwb0dQeElBeEdrX0hqOFdjMUxhTTZ6NnFreXVuREhpOGs1VzFFejhxempWRGhLRVotOVRYM0V0eDZoVEFfWldxVWpZRG0yam5WVFoxM0F0bXFPcExFSUNIRHpiZ3QtLXRp?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T01:20:51+08:00"
-    },
-    {
-      "title": "Dangerous mosquito-borne virus spreads in one state as officials warn of rising cases - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVl9LTzRhdTFhYjI4RkpraTFZcktGVDBuek0wSTgxbFItdHJKNVdOdFlFZmJFRGlLMk5NQjNPOFdweDEzanpVWTRkZkRvQUVpOVdmMVJlVEY1TmFsOXlxWkF3RTlRdUdRWHNUT21BeGwtUFM1cXRYNWVQNlo1cFpDTDJzVXlTanc3Q1RaVWFGYmpMczdtY1kyVXBTQUJheHZFMGlfb1ZnTURjWDTSAbABQVVfeXFMT0RmbHgyQm8zZU1DSEMxQ2l0aE1tM0VGR3k1aGx5QVhyV3hiSE0yWGZNdmh6bF9oRVdxYUlNZkNKOVUtVGlsOHFxYnlCb2pxTExTcDg3MnBsU21OZmlGN05DRUtSLTI5MDdsSHVHUTEwcTRvb0JNU3hzWVppTjZIR1Q5QjQxRFpkMVV3MjduT1VuaGdHcGNCMkFfdXNpcWVXcVVyUHA3TWN5eDNrMFhnakI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T01:05:37+08:00"
-    },
-    {
-      "title": "Two men die within 24 hours at Burning Man as tens of thousands gather in the Nevada desert - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLUFZYzdPQkUtbkp4RTZ5NGE3X0xBa2stZVFfTXpaNXduTUptTzQ5WGJaWDBhcl9xMUhKNHJQeW12WDNZN3VOaVBMYktfNHRYMnhXbkw4MG9qWDlyeC0xZl94dUc3dEVnbThtZENpQXdzLUhsX2JnbDZ6RFEybGUzd0dZVWtFZTZEOWJkWWxrS2JWdHQ5TjRNVTh5aU5pSk9wZ3hST9IBqgFBVV95cUxOMERwMTdGR0MzT20xNWViNV9VdVl2Y2J1YXNHN1lIU0JoOGd3enhLNllqQVplcDNnUC01T1JYVGc4SlFERDgxN0FEQXZ2bFVER0NPNXJsSW9ZNHVMbjJOVWlFeUQ5U2xMNDBNQXpkZ2JjS2I0NVJGd1BGUEZxb3NvMmk3X2QtWnVFOWJqOTBsZ04yX3FUSzV2ZEZhdXcwSU50Ny1pMWkxV0otQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T00:57:29+08:00"
-    },
-    {
-      "title": "Nathan Fielder and Lance Oppenheim’s Elizabeth Holmes Doc ‘You Can See Everything’ Detonates the Oscar Race — and Has A24 Chasing a 90-Year Record - Variety",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOanEwTS10cXNDOGFPWHNvdGRrS2cxSE1YakxQNUJ5a2M1cXh4YkZILVVIWGlGemZTYnhTUkJlazRkUVdLZmtLTFFoWkNVMExOUHlOV0N3RGVwZVhuZWFmb2lwYWl4RVhER0otUVlYakNVLWVKbzhGSXZsZ1hOVm0zY2dSVzQtNHRXakNlUzVVSFluNzhRWjEzdnVFMzBCSGJVWkQ5VlpyNkMybDRwLU9n?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T00:46:00+08:00"
+      "time": "2026-09-08T01:25:31+08:00"
     }
   ]
 }
