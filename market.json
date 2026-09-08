@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T07:59:50.527276+08:00",
+  "generatedAt": "2026-09-08T08:30:57.077092+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 620222.4,
-      "changePct": -1.54
+      "priceHkd": 619501.12,
+      "changePct": -1.47
     },
     "ETH": {
-      "priceHkd": 19529.28,
-      "changePct": -0.95
+      "priceHkd": 19481.22,
+      "changePct": -1.3
     },
     "SOL": {
-      "priceHkd": 814.34,
-      "changePct": -2.46
+      "priceHkd": 811.83,
+      "changePct": -2.63
     }
   },
   "stocks": {
@@ -37,23 +37,23 @@
       "priceUsdOz": 4423.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.8,
-      "priceUsdOz": 66.63
+      "priceHkdPerGram": 16.77,
+      "priceUsdOz": 66.54
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 725.36,
-      "changePct": 1.14
+      "priceHkd": 725.59,
+      "changePct": 1.17
     },
     "Natural Gas": {
-      "priceHkd": 23.34,
-      "changePct": 0.07
+      "priceHkd": 23.35,
+      "changePct": 0.1
     }
   },
   "news": [
     {
-      "title": "Eiffel Tower shut by staff protest after women moved for religious visit",
+      "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
       "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T07:46:44+08:00"
@@ -67,8 +67,14 @@
     {
       "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
       "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "source": "BBC World",
       "time": "2026-09-08T07:29:12+08:00"
+    },
+    {
+      "title": "Canada’s retaliatory US tariffs set to take effect as trade dispute grows - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtNjZOQTFoRndOY2JRMEExSXlnRG9kbzRMTlpXdkQ4cXBuQ1Z5S291WW1NdklfNFVIVVBBY1QtQlp4Sl9uT2d0amhoRHZSQ1I0X1BfQmloZXN4blVYV2hKWkdNTDE0VnBpYVdQdkFLUktkMmViRVlPOA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T07:22:00+08:00"
     },
     {
       "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
@@ -83,6 +89,18 @@
       "time": "2026-09-08T07:05:12+08:00"
     },
     {
+      "title": "A new Elizabeth Holmes documentary from Nathan Fielder and Lance Oppenheim is coming from A24 - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNXdaMWZvVk5oam9UdF9iRFVCaURNZUFlbmxGRjBxWjlOSGFva1BIOVdCRU04NGxTQk0teVQxWVQyTHgzUnF1ZFQxREl5eEh3Um9EZllISVBubTdCVmtrdU9aOWdVc3B5M0xCcXo4RFJRWUFjX1R2Z2NvZHBjYXh1MlVjd1pNUUtkNTNCNG1WUzZBQmpha3FHZTJrNXl4eXkxcF84Y1hjQ0p2S0JIOEd6Sm5NT056WlZZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T06:45:02+08:00"
+    },
+    {
+      "title": "Investigators recover black boxes from cargo plane crash in Miami - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQVZXcnY2Ym5SNExDY0RsNmlYeV9qcVRrVGNNajFfQ0pkd3k5ZmZicVBfOUZQTjdjV0d0Z29LT2FnYnByR1RyVGxHTkhOX1lUWjJGd3dOQ210Vlo5UV93WlgySTg4TTgzX3VYcnZlQ3dHU2ZHX00teG84eUFOc3RGUDdOdUo4NzEtdjZqLUwzMHhnWmY5aHhTelJCQlVrbXJ5UmFGelVjcG5xdkJwV01TWUV1cFkyd3E3ZzVjQi1uRUdDOHVzekM4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T06:32:33+08:00"
+    },
+    {
       "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -95,25 +113,37 @@
       "time": "2026-09-08T06:22:58+08:00"
     },
     {
-      "title": "Hurricane Lowell nears Hawaii, prompting warnings for 3 islands - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQektfamQwRFNBUV9oanp1Z05QZjhUNE9pQ2l1X1QzYWhRUHJjeGlhTDRDT2lpVEZNN1FCcjlVU05LUWdYbWVOc3o0TnhETGdsTTNlV21vQy1RdnNtNm5fdHBxakxWNjQwZXBtajdPd1dUUUVweW5sQnprMWtkTW93OV9GM1g4ZGpPQ3BYU0o0MlhhT1Rfeng0YkhqUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T06:17:54+08:00"
-    },
-    {
       "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T06:04:00+08:00"
     },
     {
-      "title": "Federal investigators probe Amazon cargo jet’s fiery runway crash that killed 5 in Miami - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM2hTN2IwMlRfYkcyMDZtMU9TQ3pIVDVoa1VLeTA5d2dSNDdYTG1UX0wzbmdJRkNhLV9Sa2pLVklsMGpRMi1zaFU1bFdzSVBTTkVXMURraFU1Nm81a0lKcUlsdGNRbHZ5ektFc3JKZDRLU3hoOGhhX1k1VjRrbE9fUWdVWWdGXzJ3VGtFbi1ON0pHdGQwb2VLZkNPM1hPNGwyOTBPZVlkVQ?oc=5",
+      "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T05:41:00+08:00"
+      "time": "2026-09-08T06:03:49+08:00"
     },
     {
-      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - aljazeera.com",
+      "title": "Taylor Swift and Travis Kelce match in silky stripes for NYC date night - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX05aeGROclk2MEpvZWxuVDdNSDhxbmZCbDBEQy0tYWQ5WHN3SUdSRGlsRkxuenpvSVI0UFBINV9pVE9FN0pGVDk5LUdCa0l0WXZObC04dFRCU1lSNUsxeTB1VDNxcC12cTVWeVFNY0pHSVQ1ME0zclFFdWl0N0t2LVo0c3N1VmZDVmJlN0hKVXZQTGFHWDFFOWthVFp4SmJXR252cmVOclRIZXVfMEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T05:45:00+08:00"
+    },
+    {
+      "title": "Ohio Democrat Amy Acton reflects on a ‘rough day’ as witnesses recall ‘frightening’ confrontation - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdU43TWl5d1FNNEVLYlNiNHhpY2VUdjNXbkttYWQ3VGlCUXd1VDhtcEIyeFZ0cFdPUlVRaVU4ZFl0bTlyUkdyY1c0R2tMdnJiYWlSQm14cjNMUUhfVDNMc0NPcG1WNklPcEdTNTNSa3BLdW45QnpwU3psOGlWejJjNlNIZmRKWGhBRUxRaE5pelQtTU0zN0taRnRIYV9CbTVzdVUySkJIczNZdGhveW1YbDE3dnFOSWozMFlrczFvS2tSbFBwUFRV?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T05:38:27+08:00"
+    },
+    {
+      "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T05:27:15+08:00"
+    },
+    {
+      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1ZzZ1czS3BlcVI3UEFheFhtMm5oMFM5YkszM3JaMDVUc3MxS2l6a2t3aGViVzhLUnhFcXRKNHl6MmZSbE9LakVIOGJZaHYtcmdQeWhsYTNtUXk0X1lLWWo5R1lpWWZ6clRsM2VpbElzeUVVYTRyLUk0RHFxbk1sQ2JoRERoX1drbkpNMTNndWlKY2VGcklkR0JIYkhGOXB2N2dVWHdxcVI5U0g4dFAzVGc2aVnSAboBQVVfeXFMTVJLanV6VjJJbWM0SFM1djlTM2RWX3BlMUt0X01FUzJncVBkMTJ2Qndac2VwTUw4OEVIUXVadlVOZlBfcXFmeHJaN1d1aEFISlNYOWNtSURUZTlNSEl5MXJONll3cGJpd1N0MThqZ1luMndQRlZ0U2ZReUhNNG1nU2hkbF81S3l5bGxJV2xwZ1phamZ1UlNNTkdVRV9meWxFamszUkN6b3BwS3lwUzktQXJkQUFJMDlNZjBn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T05:20:29+08:00"
@@ -125,13 +155,7 @@
       "time": "2026-09-08T05:12:37+08:00"
     },
     {
-      "title": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test. - Axios",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOG5aNFkycE8xTjJQSEszWm8yVFE5TXhXTGU0SHEySUZaSnFOTGRvLU9LR3FodW1TZF9rMk1UaE1XTnpSV3RJNnVINkhHMVR2VDdZRkJPSHB3NWtNbHlnMFl1NV95TkFMakRoVnR2bHVZOWp4dWphRnJIS24weEh5dUppQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T04:40:31+08:00"
-    },
-    {
-      "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill",
+      "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3UzZHBQV0NZTjd0MzM0OW1EN2M4WFg1TC1TaWo1QTUzOTVRNUIyak56T2tiRk41aEdWRGtGUzU0cEZ2NUNua2h0UkdITTJBMHJ4aG85YTdpUHRKT2RMbEcxcXFHRlNTb1o2M1NJWFFYXzlQcFc0TTRuWk8zQktYVnZYNWY1QUx6TUMxZtIBkgFBVV95cUxNMGkwWUhRbGJlOUxzRTI5dXNWMFdLdjg2NS1XcUgtbXBWT2k0ZU1RX0RXYWVNTU5mYmZ0Q3UyWDFGOWZhdnVkTmpaaTZPNm9JZWpIR2I1d2ZDTER4MkFnS21HUVdoRkxZOWVQSE4xSGlPZHRWOFR1SVh5UnNtczl1czhKLXJCYl85R1VnV0I5QnJPQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T04:00:00+08:00"
@@ -143,34 +167,10 @@
       "time": "2026-09-08T03:25:00+08:00"
     },
     {
-      "title": "Canada Set to Hit at Trump Tariffs, Risking Wider Trade War - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0tVzdBN21qWjZjZTVSV2ZhX1VibDN1eVgwcjZaeUxlR0RhRGVNWlN4ZnBiSkVlTUNiTXdPdW9BYjFqMWVtcHlNR01iNEJnbHZrM2stLUpMR2tFS3lCQnNLMnJiTVB4OUMyMTBqaG8ta0FLUW1rcVotbEJYbWZONXNOQnVfb2RGcFFBbkpUZU9nSmtUS1o2QnFrSFhMQmp4TVZ2bVFBaHd6Vmk5OXY4Y3lwc2g?oc=5",
+      "title": "Exclusive | Lindsay Clancy's fight over mistrial is not done yet -- but may not end the way she wants, lawyer predicts - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOTNXZU1TNU83LTRVbkZxcHpEZWJ2Ty1LWjZ3R1lGdFBxeHBENm9EbzRKTjVCR25BOGIyV1NScDBwWDkweDhxNndsYWIwQkNkVVV2ODNjdDFCckZ1OFVDdlVnRWRZTE1xLVEwU3c2M1lTd0pHTkFMM1c4dXF0S0tXSXhWeno1UWxYSkFBN3NhRmVLcjk3Ukd3UDFfRnBmYkJjUUxVVGdFZGpnWG42blhZajJ5aG5qcE1RbWM1YkNabm9rRTAxYk4zRFZMNk11Sy1QaFY5WVUzQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T02:22:28+08:00"
-    },
-    {
-      "title": "Summer Box Office Breaks All-Time Record With $4.67 Billion - Variety",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3ZuT0xkNmZfUWhRcHphaFNUMzlPY0l1RTBXd0IwYzcwcTVNMVhXNS1KdHZPdFNQZXNJMWFLenVzSlBmUlFRLUJJSWVEYko3UUVlQjRIbi13X2gyLV9hN05YUTBGN3dUTjhLRXZlY2ppbFo0RVF1Z1NYVlRrWmEyYnpsVzVJUkRTSGJsbWFBT2o3Tm9GN2haQw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T02:10:00+08:00"
-    },
-    {
-      "title": "EU seeks to reassure a Trump-rattled Greenland with promise of a new partnership and investment - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlhneGFtOUZTMmRuYTJSRi04bG85SHpoTkRCZjVNN2ZpYUIxbW4zV0lCd2xkV2FnRWFKc0tBZkVyd1AxeUlXUkFjU1JFaFUzS0F5aDZESTh0MjV4T2ZLRGdCZU5OT08xNXRTek9QYUVXQjJMRUh4RmNZQzlvVFNiRm9DcVl6YmdUOW9RT0hvMnNRZVFMR2I4Mg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T02:02:00+08:00"
-    },
-    {
-      "title": "Alex Pereira seeking Ciryl Gane rematch for his next fight: ‘From what I’m seeing, it’s something that’s going to happen’ - MMA Fighting",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV3BpdGFxOU1GSko2SHdyVjdEc3dRd0dKbHB1NFJvZmxSdTUtcDBVYWdWVjZLUTltWXVpVFFFTGp1dUhuVkg0cG15UUVVX2FCcmd4a01tTmVOeHpLOFpwWWZVODQxNE9lVEZ2NWhwNklod2tpUVFqS0N1eGFXeDBmLXNBa0IzdWM2bjNFdnQ3VVM4VnhPN1lDSno5RE1qbHFBSFVSMDFRVEp2cHpaUnlGeUFKTzlaeVpqbmNXTEY0Mkg3Tk9YWnpjdnVYbjlYU1QwWnhNeklmLWMySDJ6WjlFLUxfcFVJYy1l?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T02:00:00+08:00"
-    },
-    {
-      "title": "Macklemore Posts His \"Free Palestine\" Speech Amid Petition Calling For Ed Sheeran To Drop Him From Tour Over It - Stereogum",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObGZIaXMxeXIxeThHX2xFcTBwT3A2NmFPTjBvaXJWY3E5bXFYZG1kM0xnU0J0aTNZR0pqbF9DX0kwQmw4REtnMXJMZ1plTHZzdHNnTkdBbThYZ1l1Y3JyWTBLb2JLUnZ0clR5ZEpsM3dNYjlJUE03LVRRMG54Y3dGemh4VmFOMUpUSFJKcmkzVjFzU3l5RzhIWVBkTU12QlpFTDB3bkNwMU9zVVZucVh6YzE1cHkzVEMyUm1ucVNKVWk2ZFJSbjJRU2JiVkR3dXlYNzctdk51ZHZad2lI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T01:56:00+08:00"
+      "time": "2026-09-08T03:08:00+08:00"
     }
   ]
 }
