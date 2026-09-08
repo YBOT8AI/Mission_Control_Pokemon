@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T19:59:36.862916+08:00",
+  "generatedAt": "2026-09-08T20:30:42.307850+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614757.92,
-      "changePct": -1.22
+      "priceHkd": 613942.56,
+      "changePct": -1.52
     },
     "ETH": {
-      "priceHkd": 19390.52,
-      "changePct": -0.61
+      "priceHkd": 19396.0,
+      "changePct": -0.78
     },
     "SOL": {
-      "priceHkd": 805.48,
-      "changePct": -2.09
+      "priceHkd": 805.95,
+      "changePct": -2.44
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1110.73,
-      "priceUsdOz": 4406.6
+      "priceHkdPerGram": 1109.73,
+      "priceUsdOz": 4402.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.73,
-      "priceUsdOz": 66.37
+      "priceHkdPerGram": 16.69,
+      "priceUsdOz": 66.2
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 735.71,
-      "changePct": 2.58
+      "priceHkd": 736.65,
+      "changePct": 2.71
     },
     "Natural Gas": {
-      "priceHkd": 23.56,
-      "changePct": 1.01
+      "priceHkd": 23.42,
+      "changePct": 0.4
     }
   },
   "news": [
+    {
+      "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T20:23:22+08:00"
+    },
+    {
+      "title": "What tariffs will really cost Canadians and Americans",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T20:16:30+08:00"
+    },
+    {
+      "title": "Petition Urging Mamdani’s Exclusion From 9/11 Event Hits 100,000 Signatures - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbUMzenN0SU1adERfUmdJcnBrX2I4X1FiaUhQZ2NLemE0c2RsNURrZjhXdi00c3RPZmpFbXV5OWllWHBzZGZqOVNrbnl2VFVfNVBLLXNkUm05ajQ1YmFrcUpqazB5RjB6SlhoNF91dlJRd0dUdFZIS0hRYWpBTUZoRHc3MEVaZklqMFdEZWdNRTZSM3Q5LUxTeWsyY0NXaDF6SjBVTW9sbmdEQXoyZ0VFZGd0NzBXNklUYmlrbFNlX1Q2dERoUmFMWW5DM2hoZ1pLRVRGNFYwV1FGeTl5UldhTnV2U3M1SFhqTHpzVG0yYw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:59:57+08:00"
+    },
     {
       "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
       "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-08T19:59:02+08:00"
+    },
+    {
+      "title": "UK Set to Impose Sanctions on Israeli Settlements in West Bank - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0RKVWVWcjdBSHFfcVhPYnNxU2tIcnZuTXJUYnpPd3htTkpsSnJEbTU0Mmg4UjR3V3ZQdU13LUxNZ2FaZUtWaS1aUHRVdDIzUDhzRkR6b1hjdDlydk0xa1Exa3FvTWVuMEJIckJPenk5c2l6OEk3SC1NMU5ObEFSWkVYSVk0bHBWUU1qa0gwMHRvYmc0TVNGMWlB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:43:59+08:00"
     },
     {
       "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
@@ -65,10 +89,22 @@
       "time": "2026-09-08T19:38:07+08:00"
     },
     {
-      "title": "Argentina targets oil company operating in Falklands",
+      "title": "LG TVs caught spying even when offline or on standby - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHA2clM5RWVuV3EzdHBoU3I1ZXB0U1pqdEhXVzM1YzN5VnhBclNuQm5DZEdHck1UY2VBdUdOUmdBeGdITVZacDJzNmU2SHN1Y2dlVDJoN0JmZl9FOUZ1cXRfaDMwZGtKSm1tWUg3LUZldWxralNKeEFjWkt6d1NhRFFTYW1rMGczdnYyZ2FoaUNxWGpiN3pzQ0xBWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:30:05+08:00"
+    },
+    {
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T19:09:54+08:00"
+    },
+    {
+      "title": "Instant grades for Christian Gonzalez contract extension with Patriots - Pats Pulpit",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNllBWE9wZjFEeHpMYnkxY0EtRHVHUGNiV2NmaUFwZUdPbEM1WGhmNVF6S2RqN3ZKalR1VVZzNU9KZHM0d2lwR29JSW5ONTJvWWdMNUhJclM0NFJGQXFoeHBDYnZqTFozM0R3S09Rdm1fR1R0ZHVjYTlpM01pT0MyUDNlYmRQR2U1OF9SWUNuMmVWU3ZtNlZMT2tXSnhNa0RsazNaLWZMWF9UNFB0M3A3cEtUMTlyaFFORC1zR2N2dHF0SVgzUjllRlBfNS05M1k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:05:09+08:00"
     },
     {
       "title": "'JLR job cuts a cause for uncertainty and worry'",
@@ -77,19 +113,31 @@
       "time": "2026-09-08T19:00:22+08:00"
     },
     {
-      "title": "Top Mathematician Announces New Institute for A.I. Safety - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmdRVVJaWEZySzcxQ19OZXNJVVlrc1lIRFNMdzN5TDlzdjNrSE41bHZ1bHd4YVRYNUFCdHdHd3J3OGVrRzZ0Qk5IQUZTc0VhLUF1djE5MFFOazR0TG1VVF95Y2xGSVo5NnpiLUFJNjdiOXllSURWVzU2bXZRX2JEekItSG8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T19:00:06+08:00"
-    },
-    {
       "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against - CNBC",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T19:00:01+08:00"
     },
     {
-      "title": "Has the economy gone C-shaped? : Planet Money - NPR",
+      "title": "Eiffel Tower reopens after protest over removing women staff - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTB6WnZHUkc3emVyOU5ucjlEUmxNYks0TE9IY0tKY0ctUFlxb0ZSWmVVX3hWdVZXZElaSlFfZ2ljdEFPQmc1dE5OdS11dG42S0dDcXVjWGZOQTNSTWdfS2dtRDBtZHBXbTFoaUNLVFRETjZLbDU5YjIyNnNMTUNqWkdvSEY1VUVfanREdUVDMkRqTHF6WGpBcnBrekMzOWluRWkxbdIBqgFBVV95cUxPOUhoRU10Y0NJV1RMdTJRVmpsYXhfdmNqUGNiclJlS05IYllMQ3BuV3ZiWFZDYUs4SmdwbjVObVJYNVlSYXNrUnlfZWEtTE40eU8yMnBQdC1yRnZrbEp5R3pWS2RuN1QyRnRWek9wVGVMYkc5M2dUOWtmbEtRU1RNa1NiTzNCalZsSGhZb1kxVFhYbzNFLWp3OGdSYmMzdWp4M2tfbW00c1hYQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T18:41:15+08:00"
+    },
+    {
+      "title": "Harry and Meghan ‘surprised’ by king’s letter making clear they’re still nonworking royals - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1JzcU44RHJGenlMUFAtYjE4NmZxeWdfbFUxWW56RG9ZOUViTUdPTjgxTl9rQW1qbUw3ZjI0XzNINUMtRnJlNHlkcmdieGk5eW81LXVNVXQ5UXlUMTlEejNweTdwYm5WdjVYRHpwa2UwS3ZHdUlDRHpuOHhSM2pTcGhFOVhIRnRUZllyTjVoT1N0ME5JNDlac0JXcVROVjVqekZRZm9FeTBzMXVSV3Fuamxic2I2SnpOcXhjWWVMaFlaNGlX?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T18:38:05+08:00"
+    },
+    {
+      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T18:30:00+08:00"
+    },
+    {
+      "title": "Has the economy gone C-shaped? : Planet Money - npr.org",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTFpVlo0M2ZybWhZVF9sMFdDM2ZWWnFBZUpMQ1kyMHVwYXZ5UGw2NGViaWZvY1A1cVBOQk5EN1FRTTBGSTlMcUhUeU9Uczg3dUFKdTkyZnNIajV5UHQ4bXRwSzBGNTNLcGFKRnZJc05qYjVna0h6YXFydlVuM0VnQzdWUkJEd244bXFwQ1YyMUtZQS1MMElXcXFn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T18:30:00+08:00"
@@ -107,34 +155,10 @@
       "time": "2026-09-08T18:19:52+08:00"
     },
     {
-      "title": "Skyscrapers and smokestacks: the grittier side of Georgia O’Keeffe - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnFKRkVWZ2k2Y1lXYzY2VjhHcXhLSWNMdlR2em5UTmRUTGJLbDZKWm1HU3J5VGRJQ1FSWlNKc2g2QXhzUVY1c05zbTIwTTNWSWEtOVNfMW9xRHJ4OXlxdGpwREhJaEhGMXRJbjM3SnluclBPVlBXTmt0LTI1VVZpZ01yQkdLZkRyS1JocA?oc=5",
+      "title": "What would Germany's AfD do in first 100 days if it takes power in Saxony-Anhalt? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1FtMm05aGtEbVotQm1rb3RBLXhaZW1oYmFud3Q2NVc0d0RsLUF2S1BGYVQwaVhISzBTeXk1TXNjbFlGTmhGbnJtQWU2YkdPMENLV2FVYWtVNVJZcGdKT003X3EwV1JsZkdqYmJnOWdlM3VUZk5vb0RhWnk3R1NXZW5fcGdrdndLRHU2WWt6bWllV29pN0FOM1JEVXNwM0dmLUctTktLeGtVeUc0dzY1dks0ZjIwUWJMWDFwN0xydkRPTGN2NVh4Zm1Hek0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T18:08:00+08:00"
-    },
-    {
-      "title": "What the Christian Gonzalez extension means for the Patriots - Pats Pulpit",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1ZvNG5NLWJKdm9DYy1JOUZfVktNbXpsY2hBam4weWdRRDBnd2VBTkZidHUwU0VsS1U2YkE4VjRRNVZkU0RIOHctSDlIZzl2RVozeHRvM1dMNzVuQUNNWGFpbnFOdXBxcng5RzZ0RmhGRlJmUWRHN0M0aENoLTVzVjlYdnVxUXpCRk1pREFOa3dPMjFCT05ld3ZucTZUSDhlaUphSVI1NXZmbW4xWERDQlNCV2MzZzlsOXQ1N1oxcE4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:44:21+08:00"
-    },
-    {
-      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xMmZabkRRUmlMS3Y4dkdvZk5IaUI4RmRhNVdqb2RrYmplY045TEMzcEp0UEpOYkwyeUVPU1BZQjNWbnMxc2ZmeHJfbDlQVmNlU1ZmenJ5cWJsZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:43:53+08:00"
-    },
-    {
-      "title": "A Far-Right Win Puts New Pressure on Germany’s Leader - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVlZcTdBVDMtZWZzZWJRZE1jU1NwSGEza2tVUEFoMXpHYnRlQ2lpSmNzbjJ0bkVKdk9iRTJZWVh1MHc1aVc4OFo4VVQtUGRWNWJkUVgwaHExejZXcTBMNzNGaThRU2w5M3JacHhPOTVnT28xaHo1M0F2ak40cEc3ay1PaXA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:43:49+08:00"
-    },
-    {
-      "title": "UK set to sanction Israeli settlements in the West Bank in major reset of relations - CNN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzBWcUdBbXVlRk9fVjQ4THNiSVRQZWhGblhkbGRBMFJCT2dxSWs5MUtMU3lQWV96aGRoal9ncHdSZUw1bWZGa204a0VHOFNfSlhDcXpqTXhCTm1VOGJGZ0FidUFTMnZlcWpQb2V0V3ZZUGFVM2ZXcERHVUw5bFhMTzd4Y0w4RDFSbXRjbkVnN0xFQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:37:27+08:00"
+      "time": "2026-09-08T17:51:22+08:00"
     },
     {
       "title": "UK's third-biggest taxpayer to leave for Greece",
@@ -147,30 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T17:31:26+08:00"
-    },
-    {
-      "title": "Five killed in Miami plane crash landing were in two vehicles, investigators say - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSkw0UXZKdFc1ZGdldUhtb3pxeGdXcXRQQXNUcC1IQi1QcXJ4RFpWTHZUTEFBbnlEUGk0c0RRelVuTFdacVZGc2R6QmkybFJlYzl4Mjh5R1BSZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:31:26+08:00"
-    },
-    {
-      "title": "Highest paid world leader to get salary increase of $1 million",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T17:20:05+08:00"
-    },
-    {
-      "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T17:17:48+08:00"
-    },
-    {
-      "title": "Russian strikes on Ukraine’s Kyiv kill at least two people - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:15:46+08:00"
     }
   ]
 }
