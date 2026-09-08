@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T17:24:12.372232+08:00",
+  "generatedAt": "2026-09-08T17:55:18.305744+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614209.12,
-      "changePct": -1.44
+      "priceHkd": 617384.32,
+      "changePct": -0.72
     },
     "ETH": {
-      "priceHkd": 19430.03,
-      "changePct": -0.65
+      "priceHkd": 19533.05,
+      "changePct": 0.15
     },
     "SOL": {
-      "priceHkd": 807.68,
-      "changePct": -1.84
+      "priceHkd": 812.3,
+      "changePct": -1.15
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.34,
-      "priceUsdOz": 4397.1
+      "priceHkdPerGram": 1110.51,
+      "priceUsdOz": 4405.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.65,
-      "priceUsdOz": 66.07
+      "priceHkdPerGram": 16.7,
+      "priceUsdOz": 66.24
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 739.08,
-      "changePct": 3.05
+      "priceHkd": 734.61,
+      "changePct": 2.43
     },
     "Natural Gas": {
-      "priceHkd": 23.35,
-      "changePct": 0.1
+      "priceHkd": 23.39,
+      "changePct": 0.27
     }
   },
   "news": [
+    {
+      "title": "UK's third-biggest taxpayer to leave for Greece",
+      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T17:33:35+08:00"
+    },
+    {
+      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
+      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T17:31:26+08:00"
+    },
+    {
+      "title": "Highest paid world leader to get salary increase of $1 million",
+      "link": "https://www.bbc.co.uk/news/articles/c5y5kn143d1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T17:20:05+08:00"
+    },
     {
       "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
       "link": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T17:17:48+08:00"
+    },
+    {
+      "title": "ASML Wins Over Top Chipmakers for New EUV Machines - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdwaDlaY2J0dnkxdHZEenU3SEFLRS1pTlVPaW8ybTA2TTA5am5RMmxidF8wR21hYnh0Mmg3bk9VMEE1ckNMNVpiR2tTV1VnSU1UTVh5WTdKWDlqOTcxamNodmI1bUVocmpnNkZLZTVZenZUR2Q1RkFsaHVMWVpGWEdlQjQ3OUxvdERhYVpoUHlpa1hCci1oWGdkekg3clhKWkJjRnVIdjEzQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:10:37+08:00"
     },
     {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -71,16 +95,16 @@
       "time": "2026-09-08T16:31:01+08:00"
     },
     {
+      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season - BBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZS0dsdmZiZU9vbDdLc0pNd2NQcGMtT19IQ2NZWG1WeUUxUW5RZ1NublVSYUtUR0lpU1FSM0xVMXN5NEJ6MjNMZWxzTFk1Vlc1bC1abzBGMS1qT1RpZENCYzlPVXFBX2ZJVVB3NC1Id1Y1V2M?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T16:29:33+08:00"
+    },
+    {
       "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
       "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T16:28:01+08:00"
-    },
-    {
-      "title": "UK's third-biggest taxpayer to leave for Greece",
-      "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T16:23:31+08:00"
     },
     {
       "title": "The firms turning recruitment into X Factor-style competitions",
@@ -101,6 +125,12 @@
       "time": "2026-09-08T15:16:20+08:00"
     },
     {
+      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
+      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T14:58:02+08:00"
+    },
+    {
       "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
       "source": "Google News Top",
@@ -111,6 +141,12 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MU5wYmtzN3B0cmswQVNRTmlHem96dkc1M2R1YlFXWEMySEdERjdxYld3Ym94UEVnZjJ1Yk5DY1oxS1NCS0FXcWZmU004OVNzeGdyMUlqaHp5UE4xUGFrcjdhank1dGtuSUxlbUZqT2E4c3o5eENvLWhTcmFjYUk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T14:53:00+08:00"
+    },
+    {
+      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
+      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T14:49:56+08:00"
     },
     {
       "title": "'Good to have choice': Australians on opting out of social media algorithms",
@@ -131,46 +167,10 @@
       "time": "2026-09-08T14:15:00+08:00"
     },
     {
-      "title": "Russia launches deadly strikes on Kyiv as pause during US envoy visits ends - aljazeera.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:08:09+08:00"
-    },
-    {
       "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T14:08:00+08:00"
-    },
-    {
-      "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan - NPR",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KWjVPdGNVSnEzal9NUXg0R1RHVG4xZXJ6NklkS2Z4aXVSVFl5MjE5d29EWTlkRDVtNE01a2FveFZvc2g1LXBQZ3ZQQzRJLW91ZXUtdEFZYlo2R0thSlh3QjZLSUcwNkt5OHp5UlhDTnlfR3NaTUk0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:00:57+08:00"
-    },
-    {
-      "title": "Food price cap plans giving farmer 'sleepless nights'",
-      "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T13:40:57+08:00"
-    },
-    {
-      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T13:31:00+08:00"
-    },
-    {
-      "title": "Kevin Jennings overcomes miscues, leads No. 19 SMU to win - espn.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNXzI1THdfd3NqMUdKdExRaGRJcGhpdVdqUXhONnFaMHNvYVFuY1N3eFF5TWpaTUxMMG1RMFFxWnZFSGxfazU4WmdjQXpqRWJ3MHRpcU05VkQwZWhhM0R3YkxfcktvTEJwRXBURXRYTklSa2dGcnk2eDg1czlrTjNIaENQM2JYS1lpdWtfQ1FRLW9VdmxPRnlad2Z3d2FvbmtKN0FoRA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T13:02:00+08:00"
-    },
-    {
-      "title": "Horoscope for Tuesday, September 08, 2026 - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaGxFeDhhTk5zVndTV0ZBckpoNjdQQjgxOW9pRE5Pc3E1YnFUNWRHVUZlYi1iS0lIVFY5eDk3Wms4dzBlekFndHZPTHJMdWE3OWkxVnZJSUZLTkZvQ0Qyd2k3N3hOTHZiN21lOEdYbnM2SWpvbmRrYVJ0aDlMTm5WN2RBOS11XzhwcF9OMEhNbi12MWRuYzYzZA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T13:01:00+08:00"
     }
   ]
 }
