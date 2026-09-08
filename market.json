@@ -1,80 +1,98 @@
 {
-  "generatedAt": "2026-09-09T01:10:32.058311+08:00",
+  "generatedAt": "2026-09-09T01:41:33.781287+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617831.2,
-      "changePct": -0.33
+      "priceHkd": 616176.96,
+      "changePct": -0.68
     },
     "ETH": {
-      "priceHkd": 19583.54,
-      "changePct": 0.52
+      "priceHkd": 19539.87,
+      "changePct": 0.15
     },
     "SOL": {
-      "priceHkd": 816.22,
-      "changePct": 0.2
+      "priceHkd": 814.58,
+      "changePct": -0.12
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5532.37,
-      "changePct": -0.33
+      "priceHkd": 5530.89,
+      "changePct": -0.36
     },
     "SPX": {
-      "priceHkd": 60304.34,
-      "changePct": -0.35
+      "priceHkd": 60291.87,
+      "changePct": -0.37
     },
     "SPCX": {
-      "priceHkd": 1200.26,
-      "changePct": 3.48
+      "priceHkd": 1199.28,
+      "changePct": 3.39
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.77,
-      "priceUsdOz": 4398.8
+      "priceHkdPerGram": 1106.3,
+      "priceUsdOz": 4389.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.78,
-      "priceUsdOz": 66.58
+      "priceHkdPerGram": 16.75,
+      "priceUsdOz": 66.43
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 723.55,
-      "changePct": 0.89
+      "priceHkd": 721.91,
+      "changePct": 0.66
     },
     "Natural Gas": {
-      "priceHkd": 22.59,
-      "changePct": -3.13
+      "priceHkd": 22.61,
+      "changePct": -3.06
     }
   },
   "news": [
     {
-      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T01:01:51+08:00"
+      "title": "Fourteen go on trial over deadliest Channel small boats disaster",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T01:24:25+08:00"
+    },
+    {
+      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T01:10:54+08:00"
     },
     {
       "title": "Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmRxSDVSaGtVRFo4OG1zYjJXOVpUa2t6QTFvWTVKYmUxQ0J4UTRlRUVPSGlKRC1TVHkxaWIxSEsyZnExYmh5WUhJRW53ZDYxVWlBNjg5SVRZNmUxcVRveVdnRkRZNE9leDlTZ2ZnNXRnWTZoSG4xWmVfMkNtbV9PbEJuRldIMFNFbDliTFFjMERBeVY2aWhienpCcUhqb0FvS3lkWDBoVEo?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:48:00+08:00"
+      "time": "2026-09-09T01:01:00+08:00"
+    },
+    {
+      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
+      "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T00:45:32+08:00"
+    },
+    {
+      "title": "Smithsonian Secretary Lonnie Bunch is leaving amid fights with Trump - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUoxQmdNckgzYU9rZlgzMmxSUWxsb050QVpySEVrZTVOaUZuRUJYaGdZY2tuRVN6aVlYRjhhY0lXWUc0UGdKS2k2Q1lHLWRrRUw3ZDNNc0htOURQdGp0WGhYNWtuOVVVYjZtc1Q4bHNWVjZ4VnhIMmRGRkNlYVRZM2F0VzlGS2FOTUp5b01rdTh0dnhGOFVydC00TC00cGhYX3Q4cTBOS0d0b21acFBINjZ2bw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T00:45:00+08:00"
+    },
+    {
+      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FqZ1FlLXJOLVExbEw1MUZBakplWG9iQjFJellvaWZ5MmhfU19sU0dtYUZmN0R1NGt4WEthLUhnY2RmZGpmRW9SQUl4enAyanlpRnpxRDVwSHVFNENyNjZJc19xZUlyQ2JyelN1VkRUVDhsS1dsV1o3N01HczlGTVJrcS1xLTA2NkxObllzTmZBRjJoX0RxamNrOGo4N0wwQ0FPY1QxQmhXMVRMQTl5SFRVZWVPM0NlZ0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T00:39:00+08:00"
     },
     {
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T00:38:03+08:00"
-    },
-    {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T00:36:47+08:00"
     },
     {
       "title": "British widow faces deportation from Sweden after 22 years",
@@ -89,16 +107,10 @@
       "time": "2026-09-09T00:19:00+08:00"
     },
     {
-      "title": "Cohesin prevents local mixing of condensed euchromatic domains in living human cells - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41QTFwN0c3WDNYZUNpWng0WFJMdkt0bElZMDFGTjBiWW5zRlBHMlNyemFRMzN5YjlUQzRieFRVYmJBS0RGTERRaWkwUlJEc3N4dlU4STdRZTVoeEdCZFlv?oc=5",
+      "title": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3U5QnVuR29BemY3Q3hKeHpJcE05UlFtdmJRSDNnNEQ4OGYtLW5VS0ttZUFmLWNab29reVRoX0FLdVllaGphTjRyQnJCT182ZWszaWFScjdKdjV0UWNNOWhiMzVhQmNMdXNDM0JZNE5mbl85VG5xQ2NrR19TeEM2aHVUWHZzOWtZVWVzWUgtaG9KWG5ha3VlNjA4dDFwNVE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:09:21+08:00"
-    },
-    {
-      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FqZ1FlLXJOLVExbEw1MUZBakplWG9iQjFJellvaWZ5MmhfU19sU0dtYUZmN0R1NGt4WEthLUhnY2RmZGpmRW9SQUl4enAyanlpRnpxRDVwSHVFNENyNjZJc19xZUlyQ2JyelN1VkRUVDhsS1dsV1o3N01HczlGTVJrcS1xLTA2NkxObllzTmZBRjJoX0RxamNrOGo4N0wwQ0FPY1QxQmhXMVRMQTl5SFRVZWVPM0NlZ0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T00:06:00+08:00"
+      "time": "2026-09-09T00:03:01+08:00"
     },
     {
       "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
@@ -125,12 +137,6 @@
       "time": "2026-09-08T23:40:48+08:00"
     },
     {
-      "title": "Amazon plane crash victims identified as NTSB continues to investigate cause of deadly incident at MIA - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0xLT2hBa1lRak9sVGJaVHF4M1lGN3pUWEFQc1RmTFBNQ1FyRndhR3gtUlp3WWQtRzY4U2VYNFI3ZlFVS2J0M3dLcTJlTHpJRkFXeVhLQUx3OGZPZ1FHd2VEcVdHUUxLdTRqX1pIZjZmNmsyZ2lKaXhQNk1BQVFVYTEtc0gtRmNkNWxoSXNlRnNLWm1lbGZPc2Fn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T23:37:00+08:00"
-    },
-    {
       "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
       "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -143,22 +149,16 @@
       "time": "2026-09-08T23:19:43+08:00"
     },
     {
-      "title": "Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG1LMFBhYnpxTWk2WXo0U0tBRTNXX2xfQmdQOVdFZFk5LXFPNjc5VmJ5RUhCdjE2bE0yaENiS3ZIWm9XNmRwcGlCS0FrOW1wcXJhTkpKT1lzNkh6UzdoZHpsOVBlVm9pSWlkVGNheThjY3pPVDFoYklMY0VBdEYyRmhIalUyMVl4TVc3Rm5QTE1HNy05TjZ3dTZPQ0V2STJZYW9iNmlhaHlnRDM4MGJj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T23:16:04+08:00"
-    },
-    {
-      "title": "Patrick Clancy Plans Legal Action Against ‘Relentless’ Harassment and Conspiracy Theories - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZF9nRWZQQ1VGVlFYSmJzM0NiV2VweDVaMjNyd0l1R0JMWTlPZ0pfTjRWeUxZUkdEcEJibWdCWFozSkxldjF1QUl5QncwVlpVNWtWZ05BaDYwSmw0WmdTQUZkU0Zld2tSelBUa1lOaklhVzJlRzdvWWlILXl3bkl3UnhDNmhvOWxiX0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T23:13:19+08:00"
-    },
-    {
       "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
       "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T23:06:56+08:00"
+    },
+    {
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdC1QNTM1bU9Hb2s3Ukd4Ry05NlNhVnRQZVpmX3NsbFdYYmtfMEZZNElCb1NLOFhaWE82aGZQVFpCUXk0VXlJWW5ONDdYenY3S180R1pCM29FbVlKTGxHNjRsNDB1RExIZUxZN1pjY1F5VXMwU1lWQVZybzdaZFZ6Sk4zNjVIR3I1US1PQ0RkOVdDa0NiZEhlZ0d0LVZlczRQeHpESkFSdmRMZ3pBZTNRbV9lVU9XVmc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T23:04:09+08:00"
     },
     {
       "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next? - Al Jazeera",
