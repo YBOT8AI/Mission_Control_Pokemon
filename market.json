@@ -1,68 +1,68 @@
 {
-  "generatedAt": "2026-09-08T23:37:10.626446+08:00",
+  "generatedAt": "2026-09-09T00:08:19.615286+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615518.4,
-      "changePct": -0.46
+      "priceHkd": 617713.6,
+      "changePct": -0.09
     },
     "ETH": {
-      "priceHkd": 19491.73,
-      "changePct": 0.5
+      "priceHkd": 19572.48,
+      "changePct": 0.91
     },
     "SOL": {
-      "priceHkd": 811.52,
-      "changePct": -0.15
+      "priceHkd": 816.22,
+      "changePct": 0.64
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5531.04,
-      "changePct": -0.36
+      "priceHkd": 5532.14,
+      "changePct": -0.34
     },
     "SPX": {
-      "priceHkd": 60292.97,
-      "changePct": -0.36
+      "priceHkd": 60304.97,
+      "changePct": -0.35
     },
     "SPCX": {
-      "priceHkd": 1197.56,
-      "changePct": 3.24
+      "priceHkd": 1206.11,
+      "changePct": 3.98
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.98,
-      "priceUsdOz": 4403.6
+      "priceHkdPerGram": 1107.26,
+      "priceUsdOz": 4392.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.77,
-      "priceUsdOz": 66.54
+      "priceHkdPerGram": 16.72,
+      "priceUsdOz": 66.32
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 728.57,
-      "changePct": 1.59
+      "priceHkd": 724.18,
+      "changePct": 0.97
     },
     "Natural Gas": {
-      "priceHkd": 22.56,
-      "changePct": -3.29
+      "priceHkd": 22.52,
+      "changePct": -3.46
     }
   },
   "news": [
+    {
+      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T00:02:38+08:00"
+    },
     {
       "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
       "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T23:36:34+08:00"
-    },
-    {
-      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T23:21:19+08:00"
     },
     {
       "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
@@ -77,6 +77,12 @@
       "time": "2026-09-08T23:19:40+08:00"
     },
     {
+      "title": "King sends letter to clarify Harry and Meghan’s status in U.K. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlpXOWxadGtMQllKY19nNDVjandzRzV6Zm9uOWZDSGFKQmJqVmhZTEU2MFdmbnpyejhHS21nWlVhMUdKSXRMSk1CbmQtMXNUb18zSk1kZ2FDWnRzUTU3a0RHZjFQQVl0Q3hkd0hLSXBNYnBoOFBOb0pRNU9MWnhaVm93dXZSUjV6LXljQXFCdVdraVZLZzYyeGRvUTZNRkpXZ3dLNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T23:18:13+08:00"
+    },
+    {
       "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
       "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -89,16 +95,22 @@
       "time": "2026-09-08T22:46:16+08:00"
     },
     {
-      "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 - nintendo.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13SEFqUzBudFF6TnhVWHFBOXJmZzVGYjNqX1BXQnNPMjhpSEM0dUZZcHhfSUNjU1h1NmhOTlNjbGM3NXBTbFJYS0lXSXlrazJReGFRX2tmVDFRaUowdGxkdURfTQ?oc=5",
+      "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T22:41:46+08:00"
+      "time": "2026-09-08T22:38:46+08:00"
     },
     {
       "title": "Hungary expels 10 Russian diplomats as relations worsen",
       "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T22:38:44+08:00"
+    },
+    {
+      "title": "A word with a woman who’s trying to pull off a crossbody phone strap - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vMXNDTHpyZC1JNUlfMEtBZDNzQ2ZoWGtlUFNndW14NWV4bXoxVUxid2dWOTZ5V3k2U0R2LXJ2Q2VtZ2JqZnFtSGUzVlpJeVBpZ2otc3NOUmQ4X1RIeUdDNk1NZGg4Q1FhWTFEdTFoZ05kZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T22:04:37+08:00"
     },
     {
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
@@ -113,13 +125,19 @@
       "time": "2026-09-08T21:58:32+08:00"
     },
     {
+      "title": "Nathan Fielder reveals surprise documentary on Elizabeth Holmes - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLXdrRXJsV1hPNmxnUnBON1JycHR6T0R1RXNLSnVVaWlXTDJIUEVHVEZlSGhSU0JYZ3MyVTc4ZXM3aUF4cDFYRXdlSW9HUkJYamdGU1BTdGUxYVF2Nm9NdW9hM2lmU3cxR0Y5Z0ZmV25fZGdNU1lPZmJzeU1wd1oyRHRfT05XTDZKV204aWZWUzNqbDd3UnZ6UjJad1TSAaIBQVVfeXFMUHhGdlZHRUJPZEx1cE1IbGdfVUZDZjdfUTdvaTB4UlZsZjBRTXd6ZFhuLVN5T3hiQ2hEenQ0REs1ck84cTVfTkZsSjh2OEJxeEVMelpRUDJRNTZfR0dRU2VINVZnNnFmdlo1UHNkYTFzc0lwVFREcDVzQWRhOGVVTjQ2c2dyRUNVUFNTNnN1WXdHa05XVFRpUFdMejB6dU05SW9n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T21:51:00+08:00"
+    },
+    {
       "title": "PFT’s Week 1 2026 NFL power rankings - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRDVuS2NrTTNVbE83Ny0tWW5VRG5TQktxdmxwRm9waUNmZEN3b1FQVjZ6clp2YWtVekYzTnBQeUtSa2YwT1hZc19hSDJXWFIzMms5OFc0ajU5RFgwWlhYTFV0VDFuVFA3aV9hQ3lvMldwUnAwVWExejFCb3JwdVhlNUU5cUl0b1YtSWJQS2RRSTVvR0VkSk1aUW9tTlcxdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T21:47:33+08:00"
     },
     {
-      "title": "Four Renoir paintings worth millions stolen in French museum heist",
+      "title": "Renoir paintings worth millions stolen in French museum heist",
       "link": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T21:35:28+08:00"
@@ -131,13 +149,13 @@
       "time": "2026-09-08T21:22:14+08:00"
     },
     {
-      "title": "Lindsay Clancy’s attorney makes public plea for Trump pardon - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaWYtVi01NTR1aHZyckIwZGY3ZFRhR1U3YkdERUwwU1QxMVNmRHFRajVjb1ctbHpPdUZQYV9QMFAzSU1vRjk5cWtGQU15eE9VYTdkZnRaUzNoX2RYVVJoTGV3b0hGODZfM3I5dmVTTmtEd2c4SlBEYjVjZkRXemd3SVZ4U0c1aGhZTzBsV3gxQm1CMlRGRVVQaHRnaFk2VnpEZ05VRjJ5djdxa2s?oc=5",
+      "title": "Lindsay Clancy’s lawyer asks Trump to consider pardoning his client in stunning ‘GMA’ plea - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanZkbUNQX3hjb2RXOUV3enRXRllSdEdxRmdYblVPT21wWGhjY1BXOFA5SURpOTQ2eDR6ODdYdzVHc2hJb1VyLWdyRWFZNU1ld0NOcUl4dFRuM3Q2cVZfd01ITnpzME52Q0pXWDlDZGVwRHctZ1dsdkJCRTJQTlJnMktyd3pqeFdYOGxSdWlodmFqeXNjTm9uRmJZeXpEWXpDRlJtZTBMY1g?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T21:17:52+08:00"
+      "time": "2026-09-08T21:18:17+08:00"
     },
     {
-      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
+      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FqZ1FlLXJOLVExbEw1MUZBakplWG9iQjFJellvaWZ5MmhfU19sU0dtYUZmN0R1NGt4WEthLUhnY2RmZGpmRW9SQUl4enAyanlpRnpxRDVwSHVFNENyNjZJc19xZUlyQ2JyelN1VkRUVDhsS1dsV1o3N01HczlGTVJrcS1xLTA2NkxObllzTmZBRjJoX0RxamNrOGo4N0wwQ0FPY1QxQmhXMVRMQTl5SFRVZWVPM0NlZ0E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T21:17:00+08:00"
@@ -149,28 +167,10 @@
       "time": "2026-09-08T21:15:45+08:00"
     },
     {
-      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods - NPR",
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods - npr.org",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM1BlYzgyQnRzdGFDd2pDNDdFQWUza21lM0gyeERqTmhaRkxnSmkySG5EcEtIWFBKRTVBMUI5NFg3N3ZHUllxcWNsa3A5UzBuSksxT0pLUjRISVEtdXBYQXdCb0lWRmNnaEFOeHhVVVJFZDR3Z040NFVMSXpZUy12UU1QeVFGQjg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T21:05:20+08:00"
-    },
-    {
-      "title": "GOP senator pushes back as Trump threatens to block Bombardier jets in Canada trade fight - foxbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG1ZTzY5NzZnSkRRU3o5cy01U3lwYk9ac3hnVGdpaTM5V0tjWGRWN2pFZThPM2w5SlRvZEVvcGhRa0VUR3htZjhuUFdJcTJraHA3Z1JUc3h3bVZjSnJKMjl1R3JraGRyQ29IOXFxMVhScXNiM2RLX1o5NXg0MGlVYU5VY0NLSVphb3ZBVDg3TmJfcTJ5bjIxaEVKTEpjX2s4TTJPREQ2TGVTeHFvcDhqTk5EOVpQUDFI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T20:51:00+08:00"
-    },
-    {
-      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T20:44:51+08:00"
-    },
-    {
-      "title": "‘Musk’: Alex Gibney Shares His Take on Elon Musk’s “Global Right-Wing Agenda” and the “Almost Existential Fear” of Talking He Encountered: Venice - The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUN0Y1ozczljODd5NkY0blpHQ1c2a2d2Nlh5ZkRJR3gyUk5UNlA3bkdYanRubkJKOTgtVDQyLW5jdmpNbnd4WkR3T1pqQi1KWmNveXNOU1VuYU5OVm1udVE3RkJkVTlOU2gxM0NfbVZyOWx4YUJCUnltQTYwOWlGVEZwUUI5OGJObVlpUW5LQlBORUw3cEd5RkQ4QmtpZ01DNWVoWGFBMmxUU1BZTkJCTHBMQkN6ZllVU3pF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T20:42:31+08:00"
     }
   ]
 }
