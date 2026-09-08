@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T18:57:25.326671+08:00",
+  "generatedAt": "2026-09-08T19:28:30.154800+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616341.6,
-      "changePct": -0.94
+      "priceHkd": 615016.64,
+      "changePct": -1.25
     },
     "ETH": {
-      "priceHkd": 19470.09,
-      "changePct": -0.23
+      "priceHkd": 19407.92,
+      "changePct": -0.66
     },
     "SOL": {
-      "priceHkd": 810.66,
-      "changePct": -1.53
+      "priceHkd": 807.68,
+      "changePct": -1.76
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1109.65,
+      "priceUsdOz": 4402.3
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.69,
+      "priceUsdOz": 66.19
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 736.88,
-      "changePct": 2.74
+      "priceHkd": 734.53,
+      "changePct": 2.42
     },
     "Natural Gas": {
-      "priceHkd": 23.15,
-      "changePct": -0.74
+      "priceHkd": 23.39,
+      "changePct": 0.27
     }
   },
   "news": [
+    {
+      "title": "Argentina targets oil company operating in Falklands",
+      "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T19:09:54+08:00"
+    },
+    {
+      "title": "'JLR job cuts a cause for uncertainty and worry'",
+      "link": "https://www.bbc.co.uk/news/articles/cq5x30003zdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T19:00:22+08:00"
+    },
+    {
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T19:00:10+08:00"
+    },
     {
       "title": "At least two people dead after Russian strikes on Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
@@ -65,10 +83,22 @@
       "time": "2026-09-08T18:19:52+08:00"
     },
     {
-      "title": "New Hampshire and Rhode Island electorate to vote in state primaries - US politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3Jod09LY3lqVlpJWE5BQ0RMRzNIWC1yRW12U3RJbUlsaTVjNEo2Rjl3M2NaZ0VDQnRWS3o2UVJ6R3pIdEdLdGZZeTY2QTFualg2S0E0TWZ6QnQzamVZZ0tmcGt4RTMzMS1FaUlHYVlzamkzWXF6ODdMWUx4Umt5X2U1X3RmSTZ3aXRKRmgyc0Z2QWJUQXlKOW5qeFZvbV9QMTU4aU5kaldsRnJwTHlaZFNyVUY2SzktSEwzampFSGZxS2VjWkFMU1hvRHA0aHBYQWJ3WTlWU0EyZ2Nyc0E?oc=5",
+      "title": "Skyscrapers and smokestacks: the grittier side of Georgia O’Keeffe - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnFKRkVWZ2k2Y1lXYzY2VjhHcXhLSWNMdlR2em5UTmRUTGJLbDZKWm1HU3J5VGRJQ1FSWlNKc2g2QXhzUVY1c05zbTIwTTNWSWEtOVNfMW9xRHJ4OXlxdGpwREhJaEhGMXRJbjM3SnluclBPVlBXTmt0LTI1VVZpZ01yQkdLZkRyS1JocA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T17:42:00+08:00"
+      "time": "2026-09-08T18:08:00+08:00"
+    },
+    {
+      "title": "A Far-Right Win Puts New Pressure on Germany’s Leader - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVlZcTdBVDMtZWZzZWJRZE1jU1NwSGEza2tVUEFoMXpHYnRlQ2lpSmNzbjJ0bkVKdk9iRTJZWVh1MHc1aVc4OFo4VVQtUGRWNWJkUVgwaHExejZXcTBMNzNGaThRU2w5M3JacHhPOTVnT28xaHo1M0F2ak40cEc3ay1PaXA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:43:49+08:00"
+    },
+    {
+      "title": "UK set to sanction Israeli settlements in the West Bank in major reset of relations - cnn.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzBWcUdBbXVlRk9fVjQ4THNiSVRQZWhGblhkbGRBMFJCT2dxSWs5MUtMU3lQWV96aGRoal9ncHdSZUw1bWZGa204a0VHOFNfSlhDcXpqTXhCTm1VOGJGZ0FidUFTMnZlcWpQb2V0V3ZZUGFVM2ZXcERHVUw5bFhMTzd4Y0w4RDFSbXRjbkVnN0xFQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:37:27+08:00"
     },
     {
       "title": "UK's third-biggest taxpayer to leave for Greece",
@@ -101,10 +131,16 @@
       "time": "2026-09-08T17:17:48+08:00"
     },
     {
-      "title": "Russian strikes on Ukraine’s Kyiv kill at least two people - aljazeera.com",
+      "title": "Russian strikes on Ukraine’s Kyiv kill at least two people - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T17:15:46+08:00"
+    },
+    {
+      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people - npr.org",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQcXFTQzJlWGRBYmdVMnQzbVVFS2k0M3Z2MXdTNnF5T0ZiSzdXQzBaZ01tZTNFSTZVQWRSbTl6TWdZU3d5bDJTZFpHbllFUFlNVVZRdFZxcFljQm1ENmNxaVlnd091aW5kVnpXOHVVZUNJNzd6aHNTYVlR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:09:46+08:00"
     },
     {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -113,64 +149,28 @@
       "time": "2026-09-08T17:00:28+08:00"
     },
     {
+      "title": "New Hampshire primaries test Trump and the left - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT21MWk9qSDVzUldnZTVpX2ZOR01BMWxiY3BqMlc1MkV6RzMwSU4yTlRKWkdHdHRUcTNhRncwZklSRS1FN1BkY2lESnlWYjNUUE5RNVIza0xlWmZxLU9iMTJGa25ramZicURpNjM2U2lkRU1qVEpsMTUxQWxKWHoxNkVvb1hJUlpsV2tfYnhSN3A1OVJ5aDRrUnRBSUd3QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:00:00+08:00"
+    },
+    {
       "title": "Shetland spaceport project secures £30m of UK government investment",
       "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-08T16:48:33+08:00"
     },
     {
+      "title": "Republicans are hoping ‘Trump-a-palooza’ isn’t only about Trump - Politico",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWtqamxyaFpPMnFrRUJzSkNnMVdsQkhLX2gya3hxWHlLcXZmV0VWZVYtdDQ0S0IyQ1djVFEyb3hpb2J0RVFTX2s4OGFmcHJ6TmNoUjA4eU85Q281Ul9WVjVJUjFnNHkzejNlS0IxS2NuTWp6eGdRNnhQcHZkSGo4SkdTaTJqWEZpNWVURVV1QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T16:45:00+08:00"
+    },
+    {
       "title": "Nepal cracks down on online abuse of flood survivors",
       "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T16:31:01+08:00"
-    },
-    {
-      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season - BBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZS0dsdmZiZU9vbDdLc0pNd2NQcGMtT19IQ2NZWG1WeUUxUW5RZ1NublVSYUtUR0lpU1FSM0xVMXN5NEJ6MjNMZWxzTFk1Vlc1bC1abzBGMS1qT1RpZENCYzlPVXFBX2ZJVVB3NC1Id1Y1V2M?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T16:29:33+08:00"
-    },
-    {
-      "title": "Novartis’s Latest Trial Setback Sinks Stock - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelFWUVdJZEY0SVFrWjlrTUdJa3VzTDNZaUFrRDZGdEJabXNMalBlOUhZX2VWVVhINmdDeXRyY3pVaUItelZjajFXeTJYaXFRWFUyZ21CUndUdThNSzNiQU5SYzlFMG9VSTUzRFhjU2RvaEt0akxueW1BS3FQaEdUeFZMLUVXMnlkaG1wVGs2TGN5XzFkV0p0OHZxbmdtSUNsSnFMYnNYbnVVUVU4cXowYTlZNkFJMWdE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T16:27:00+08:00"
-    },
-    {
-      "title": "The firms turning recruitment into X Factor-style competitions",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T15:43:15+08:00"
-    },
-    {
-      "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdvNUZJWEc5LWNIVjRqNzVSSS1oY2lmNkR5RS1hNTZPQUkxak5RRWZsY050VGNWc2dCbXBJZDZXalZfOGc4RHVYTHJhN2JjV0ZhTmcwOGJvdmxyLWdjTlhOaldQcjhQWDhHYjFrWjNRcHp4UExsQ2UwOW1sdlI5YnJtTHY4S2hQZ0tQOVNuQXdvRi1BR2NFRHQ1dDVFWWJfbWhpYmFxZ1JxNjFoNy1pSGtsR24zaU5LalZrVEp0LUluLVlQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T15:37:00+08:00"
-    },
-    {
-      "title": "Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs - Engadget",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pUHhPeGxCc1VBaXZEVHZZVDFjSUhlTmJ1d2RiWEtlNUR0RlFIeUx5Uk9MamdKQXBPSjBZaUZ4dG5OaWxpRGhqX2pZOFotaFNjWktxZnpXN3NzMXNnYUNWRjZPRUR5WF91M0JKMG1vbXgzQ2VO?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T15:16:20+08:00"
-    },
-    {
-      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN1dkZFowU1VxbndMeTJFX09rcl95Y1RFMlhMQjJqdVlXc3JkZFEwMUlFTjFVZzNEekNzam94akxRZS1tczJRdUZndWtiLXYydkxYU3AxUjJ1dU5YbTNvRnVxZGh2d0JWS0dPZm8wTkjSAXZBVV95cUxNTTkzUXBLUmFwRnFpc3lLZjV1OElmSGIzSlFqeTZkcE05ZDlsemZPSkpya0tKdFRfelA1N0RFeFdNUklYalRINHBScmFQdkRxOWl3Ui1tRHI5MXFJQ25ReEF0NGZqejNNVXFoVEJfX3pXTEZrOG9n?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T15:00:25+08:00"
-    },
-    {
-      "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
-      "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T14:58:02+08:00"
-    },
-    {
-      "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
-      "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T14:49:56+08:00"
     }
   ]
 }
