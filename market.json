@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T14:48:47.055097+08:00",
+  "generatedAt": "2026-09-08T15:19:50.638949+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614969.6,
-      "changePct": -1.53
+      "priceHkd": 614601.12,
+      "changePct": -1.51
     },
     "ETH": {
-      "priceHkd": 19333.83,
-      "changePct": -1.34
+      "priceHkd": 19396.24,
+      "changePct": -1.01
     },
     "SOL": {
-      "priceHkd": 804.78,
-      "changePct": -2.28
+      "priceHkd": 805.72,
+      "changePct": -2.47
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1111.09,
-      "priceUsdOz": 4408.0
+      "priceHkdPerGram": 1109.73,
+      "priceUsdOz": 4402.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.73,
-      "priceUsdOz": 66.37
+      "priceHkdPerGram": 16.74,
+      "priceUsdOz": 66.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 736.02,
-      "changePct": 2.62
+      "priceHkd": 737.04,
+      "changePct": 2.77
     },
     "Natural Gas": {
-      "priceHkd": 23.11,
-      "changePct": -0.91
+      "priceHkd": 23.21,
+      "changePct": -0.47
     }
   },
   "news": [
+    {
+      "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T14:56:40+08:00"
+    },
     {
       "title": "'Good to have choice': Australians on opting out of social media algorithms",
       "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
@@ -59,7 +65,7 @@
       "time": "2026-09-08T14:20:10+08:00"
     },
     {
-      "title": "Trump threatens to stop Canada's Bombardier from selling in the US - euronews.com",
+      "title": "Trump threatens to stop Canada's Bombardier from selling in the US - Euronews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0MtaGJUNTE2RG9yY0VnNEpnRk9BS252eHBRX1R3Q05ITWpJOVc1OVFKVk1YZm9aSDV5RGVCcXNEQ00tNHViZHh5aTZ5b3lqZ2tuaWh4dVNLRnlhMVlNQ2Y0WlJEVlNxVmt2YnBoMjRNS2FlcHJpOWR6dG93eFF2Q2RJTEpIM1hUYUkxTXhJdG9kS2RHNG1IR2pzZk14aEZxYkZYVjg1X0pPaHVtZUgxV2ZBdFpoRmRo?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T14:15:33+08:00"
@@ -95,10 +101,16 @@
       "time": "2026-09-08T12:39:14+08:00"
     },
     {
-      "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
+      "title": "College Football Rankings: Where Michigan Landed After Its Week 1 Hail Mary Win - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMnFPaWVkVHhqRmxkOXVIUENNZE1UOXMyeTdULS1XUVBWdDFKMUV1NWp4UTJjQmVNT1VjblduZkd3S2hvT0ZrTnR2aUFuM0d3aTR4YV9ENURFejlTYUZkWUctTHlmX3Fqd3RPcjhkMzZuM0tLVFJBYmJPRXR6LTF3cjdSQUF2VU1YV2tOUDZ5T2lBODRFX1UtNVlJdWlldTkyRzN4dWZTMXVuZzczdURCMdIBsAFBVV95cUxNOFQyVUJMVm9pLUFtRHVPdE4tVnMtOUlxajVSTVNaU1ZUdlhEd3ctUWltekliLWNWZXFkOEpBWW5aNmduTE5MYWZpaldLZ1VQVVA1ZjNkNlB0WjFtWWFsdV9EOVo4aHpReFZvb0lWVE05Z2FxcW9MR2U4QkR6MkNvMG04TTc1cjMwTnFIQ1E0Xzh6bDJ5bzNSSEI1bmlWWFZOQjdRSENvRzRNbFRLQkVDQg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T12:03:08+08:00"
+      "time": "2026-09-08T12:39:00+08:00"
+    },
+    {
+      "title": "Houthi attacks on Saudi Arabia have wounded 73 civilians, official says - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T12:28:42+08:00"
     },
     {
       "title": "North Korea and Russia open first road bridge linking both countries",
@@ -107,19 +119,13 @@
       "time": "2026-09-08T11:53:27+08:00"
     },
     {
-      "title": "Amazon Plane Crash: NTSB Finds Black Boxes And Says Jet Struck Cleaning Crew Van - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZks3cXVFNEpBMGhEMVRib3JFdUlQYVFvdWJFMElaVEFxSTlzTEl5R3dMUWVIX0oxTkJqSTRVcnQySDktUUR4ZWEzZGtHQmVlRktYanJ1ekNEX0F1WVotbHFEMW9fVnFEVVdZSDhqOHpJaExadXBMSlduT1NLN1VpeVJ1WjdNdG9SaWVSd183WUNaM1JGcnkwd25uTl9WTml0anJYaXdBX0hlMVF6WUNCMlVLd2dVcjMta0lrSHV3T2JieG9TVVJqYWRmMFdGUQ?oc=5",
+      "title": "Russia hits Kyiv after brief pause for US envoys' visit, killing two - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbm4tanFsdGRTc1RZb1pRRzE1QkdQR19JUGtmcWdEUWFLUVBXZGljd0xWWXFCSWt5TW1QT0tqRm1Fa2dzS2tibEt2NFdIUldHMHJDSTZ2Mk9McERpVTAxM1hab1dqS0RKekFmaXB5ank1R3VqX3lhTGVlZHMzU0dmZkhpUWhITFBzREQyVWNKTnk0ODlyV0dGc2xHdEt3Y1c5YXc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T11:53:06+08:00"
+      "time": "2026-09-08T10:57:00+08:00"
     },
     {
-      "title": "Russia and North Korea open the first road across their shared border - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T11:38:00+08:00"
-    },
-    {
-      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - Bloomberg.com",
+      "title": "AI-Discovered Drug Reverses Aging Markers In Study, Biotech Says - bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2ExNmF2c0tWUms4bG5veXpLNC1DSWhaenp4U2R0SERxNjRrdFV2S0dPZGdsYUpBOGpQX2lQTDB4S2xGUktlN2NDNHBLSlFSckdCLXY2R0FPbUtTa1NfcVowNmE1NFJ4eTZ3OWthT0hfMlpMWEM5amtzaU9PS3NwWEw1NWlaOVZqTll4Q2FBNXNaQTB6YzdCX1B5dEE5R1hLblN6bVo0MElZZE0wVzd1d19UNTU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T10:52:00+08:00"
@@ -129,6 +135,12 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0RqdGFpdkg4RjI5S01VR1R5YkNVT05KZGdHbTNhRHBDc2FTTVRIRENDYWphYmx2Znk0eEN1YThzVm1KOWdEVHUySlhidTJHdGNRZUZBWVVRNkxNRVk0V0ZBLUM5QTdNSXE0VWxPUEpvMzhCZ05hZlJ5QzdQcktWRlBOblF0LXM0ZG52Qzg3TW1LOVY5UzdZT3RrR2hfQdIBowFBVV95cUxPSng0bjhjenJLb1gwQi1vdUFJVm00YVU5bWtsSUlUZk5meEU5dDAzUXpQd1Q3Ul9BOU96X2diWlBqdGMyVEhfZktoM2ZNc05XUUdQTHNPdXZiaDBWRXItTGxSM190dE81WTZRWC1oVWFRRjc2OTY1cVhsd3NaVndaYlBjTHVGMEM4UHltR0diZFBncElGRVp3Nk5BQTdtUkRLd1o4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T10:49:00+08:00"
+    },
+    {
+      "title": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MU5wYmtzN3B0cmswQVNRTmlHem96dkc1M2R1YlFXWEMySEdERjdxYld3Ym94UEVnZjJ1Yk5DY1oxS1NCS0FXcWZmU004OVNzeGdyMUlqaHp5UE4xUGFrcjdhank1dGtuSUxlbUZqT2E4c3o5eENvLWhTcmFjYUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T10:48:52+08:00"
     },
     {
       "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
@@ -141,12 +153,6 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWhEWFpCUlpnUTJMZThQbVJCZHZrQl9mZlRLUVp0X1VzcW9mQ3p0dk11WUxxcUlTMldQNmRhaGptajE1eVZ1cFJpWHBQTXZNV29pZzdYTmQ0X0pJOFNpTFNTR0tUVlNwWl95YlhsdlIzSUZQSC0taVZDTFk5alBsWjM4Z1Bibm9hcG9aN3Bibw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T10:37:00+08:00"
-    },
-    {
-      "title": "Mistrial or retrial, Lindsay Clancy faces years of confinement - NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFJ1cXMtZW5PMTQ2Y3hxb01GUFhHUWJocklQWlFmajBPay1PbElmSm5vczB4TDBXdnhxa2hwc25PX3BJOGxKMHQzNWY4ekZoSDhYbGQ0dFBIdkV3QTUzZGRVT1dwY2NnU1J5bksySkNBdVFFbUxzaF85MFcteHpOQUFHaE1qT2x6RVp3a0xfajN1OXMyQXgwbVdudk5kTnPSAaQBQVVfeXFMUGp1MDJNWWhDaFBVZUZnZ3A5QUZ6bkVlVXEwU0FTZ3VieGxxejhfZ3NJcFh2UXRHTFc5ay1vdDI0ZjQwNEVabVVyTjVBcGRDSDNRRVBXUFpwb0stNmlJM3AzX2puZXdaTFdlZFhYX2I1WHdHbV96R0tkVEdkUFNYaTI4Z3RLeDNYNXM0ZFZseGNuSC1lU0Jzd3B0REhiMy1QWllPWFc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T10:31:23+08:00"
     },
     {
       "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report - Fox News",
@@ -165,12 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T09:32:56+08:00"
-    },
-    {
-      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDQwV0N5TEVua05mMi13aVo5TnFoTVVIRHlDVjllLWh1RTY3bm13NkkzOHRDZU5qYkNOZlFkRzZhTlZjYnFjV2ZLdzJPYzB5R1FUR1RCRW1ISzZYSzVySC0zSXUxbTBVM0ZZVUMzUVAxZmswQVhIYTVMaEZoYkxiVU1UdldVbHdYUlNFczhqWkY2NjVvaFJGT3F3X1YxdzB3N0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T09:30:00+08:00"
     }
   ]
 }
