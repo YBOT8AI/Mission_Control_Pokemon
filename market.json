@@ -1,62 +1,98 @@
 {
-  "generatedAt": "2026-09-09T01:41:33.781287+08:00",
+  "generatedAt": "2026-09-09T02:12:36.814183+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616176.96,
-      "changePct": -0.68
+      "priceHkd": 616623.84,
+      "changePct": -0.65
     },
     "ETH": {
-      "priceHkd": 19539.87,
-      "changePct": 0.15
+      "priceHkd": 19562.92,
+      "changePct": 0.03
     },
     "SOL": {
-      "priceHkd": 814.58,
-      "changePct": -0.12
+      "priceHkd": 815.52,
+      "changePct": 0.18
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5530.89,
-      "changePct": -0.36
+      "priceHkd": 5534.02,
+      "changePct": -0.3
     },
     "SPX": {
-      "priceHkd": 60291.87,
-      "changePct": -0.37
+      "priceHkd": 60320.57,
+      "changePct": -0.32
     },
     "SPCX": {
-      "priceHkd": 1199.28,
-      "changePct": 3.39
+      "priceHkd": 1199.99,
+      "changePct": 3.45
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1106.3,
-      "priceUsdOz": 4389.0
+      "priceHkdPerGram": 1105.9,
+      "priceUsdOz": 4387.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.75,
-      "priceUsdOz": 66.43
+      "priceHkdPerGram": 16.76,
+      "priceUsdOz": 66.47
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 721.91,
-      "changePct": 0.66
+      "priceHkd": 723.32,
+      "changePct": 0.85
     },
     "Natural Gas": {
-      "priceHkd": 22.61,
-      "changePct": -3.06
+      "priceHkd": 22.66,
+      "changePct": -2.86
     }
   },
   "news": [
+    {
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T02:03:18+08:00"
+    },
+    {
+      "title": "British widow faces deportation from Sweden after 22 years",
+      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T02:02:42+08:00"
+    },
+    {
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T01:59:07+08:00"
+    },
+    {
+      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T01:56:46+08:00"
+    },
+    {
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T01:41:42+08:00"
+    },
     {
       "title": "Fourteen go on trial over deadliest Channel small boats disaster",
       "link": "https://www.bbc.co.uk/news/articles/cd94jn72w2yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T01:24:25+08:00"
+    },
+    {
+      "title": "Lori Loughlin files for divorce from Mossimo Giannulli after 28 years of marriage - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSDA2azkyWW54d25UemFneTI1RGJvQVVhX19tTmt1eG5OV0F5NThTd3Zwd2lUNG42UnR2b1BET085U0RBV2NKZUN4d0tYaGlHSmE5MDFOLWF2M2gwOHRfTXlQbGNNdV9QVDdOZ3V4R2pVWlZCVDNRM2F2SGJXbXlmel9BaFpsaHN6YmhCYWNldU4zUnZ2ZkZPV3NMWUczTV92VjJz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T01:21:00+08:00"
     },
     {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
@@ -77,10 +113,10 @@
       "time": "2026-09-09T00:45:32+08:00"
     },
     {
-      "title": "Smithsonian Secretary Lonnie Bunch is leaving amid fights with Trump - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUoxQmdNckgzYU9rZlgzMmxSUWxsb050QVpySEVrZTVOaUZuRUJYaGdZY2tuRVN6aVlYRjhhY0lXWUc0UGdKS2k2Q1lHLWRrRUw3ZDNNc0htOURQdGp0WGhYNWtuOVVVYjZtc1Q4bHNWVjZ4VnhIMmRGRkNlYVRZM2F0VzlGS2FOTUp5b01rdTh0dnhGOFVydC00TC00cGhYX3Q4cTBOS0d0b21acFBINjZ2bw?oc=5",
+      "title": "2026 NFL season predictions for Super Bowl winner, MVP, top surprises and disappointments - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeEJURWNHU2NCOHoxVHNVMmE1ZG1CNG5JYXpsREVuYnFCZS00Nk5mNFpYQ20zRFNMZWZGUVVjd0w4Zlc5ODBGQmpfZ0YyMXRCOG5xSGVrSk1YQXFVUzYyV2Jpd0FUd2REcmVEUzNiMHE3WkRMNTRBTEU1blFaaWtxaG9jOXhxME9NNWtuaW13VW5PY0MxVnRzT1NrbnBWa0hsT3B1OFBlTFp0SENGYWNNMkc2RW41TXh3TmRfX2FDZXlqQXB3ZXRHUlZjTVRYSU1UM2ZnZVJn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:45:00+08:00"
+      "time": "2026-09-09T00:40:15+08:00"
     },
     {
       "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
@@ -95,40 +131,22 @@
       "time": "2026-09-09T00:38:03+08:00"
     },
     {
-      "title": "British widow faces deportation from Sweden after 22 years",
-      "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T00:23:01+08:00"
+      "title": "Elon Musk documentary hits Venice Film Festival with cold dose of reality - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR05iMk1McEhOTG0yU3JzN3NreGdGalNreGZ2NHNwQnNYcE1jRVRleU01VWNXcWlaZ01FeEJzZWtjLTRncGthYk9lVk5PM09mVHNOTGpxbV8yU3dFNlUxV21Jd21zeXpVRXkxWHJwMFdvLXc0UWdFN0ZzLTZlcG1YVXROaV8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T00:28:02+08:00"
     },
     {
-      "title": "Dow drops 600 points to start shortened week as oil prices climb: Live updates - CNBC",
+      "title": "Dow drops 600 points to start shortened week as oil prices climb: Live updates - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLU0tQVNXdFY3ZWtrTi1FYlZ6amcydkpVd3dybUF4T2kzR2ltR1piSzhieUc0LUN3WC1qOGZFdkFrWngxa1FsQmJ2dGpUd0RFVkkxdm5JU0g3d2Y1QU05c0JIdmhrZGNCT0RZb0FjR1hQLVBXaE9LVDB30gF_QVVfeXFMT1VabC1yalpfclNydVBvV2I5ZG9ONmVsX0M4eVRkOTFSZnpaWXo2NGRSMWNRdmhQU2QtdXA3MVA3ZUozVllaV1VIWWtjX1pqaThoQW5CSjVudnNhUHg2WkFOREpGbFFnOG8xakpybEtXUlFqOFN2VElNV0pnbmNPbw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T00:19:00+08:00"
-    },
-    {
-      "title": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3U5QnVuR29BemY3Q3hKeHpJcE05UlFtdmJRSDNnNEQ4OGYtLW5VS0ttZUFmLWNab29reVRoX0FLdVllaGphTjRyQnJCT182ZWszaWFScjdKdjV0UWNNOWhiMzVhQmNMdXNDM0JZNE5mbl85VG5xQ2NrR19TeEM2aHVUWHZzOWtZVWVzWUgtaG9KWG5ha3VlNjA4dDFwNVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T00:03:01+08:00"
-    },
-    {
-      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T00:02:38+08:00"
     },
     {
       "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
       "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T23:57:06+08:00"
-    },
-    {
-      "title": "Ashley St. Clair and Alex Gibney on AI and the dangers of Elon Musk - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE1jSFVfVXRfM3RFamdGano3X1dhazNQUm1jRU1uVHlIdmVQRldld25nOXJHak9ZRnd4a2FvRjlMTTBpZ2duZEpib2RYSTk3R0hXbU03eXVZUHYtNkdGaVVoeDctRnc2VGtLUGZxNFVtSFI5UW4xME91cEd3ZGtsRFB5blRMTkdhLVNxSVpxUGJwNmgydGhsSnRtMUZsYWdGUExQLUpUNkI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T23:50:00+08:00"
     },
     {
       "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock - Reuters",
@@ -149,28 +167,10 @@
       "time": "2026-09-08T23:19:43+08:00"
     },
     {
-      "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
-      "link": "https://www.bbc.co.uk/news/articles/c62m8247yleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T23:06:56+08:00"
-    },
-    {
-      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdC1QNTM1bU9Hb2s3Ukd4Ry05NlNhVnRQZVpmX3NsbFdYYmtfMEZZNElCb1NLOFhaWE82aGZQVFpCUXk0VXlJWW5ONDdYenY3S180R1pCM29FbVlKTGxHNjRsNDB1RExIZUxZN1pjY1F5VXMwU1lWQVZybzdaZFZ6Sk4zNjVIR3I1US1PQ0RkOVdDa0NiZEhlZ0d0LVZlczRQeHpESkFSdmRMZ3pBZTNRbV9lVU9XVmc?oc=5",
+      "title": "Netanyahu faces backlash over report he was warned of Hamas attack days before October 7 - CNN",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUZhXzlqSC1ISUN0LVBKYTFzWWpHb3FXV1ltR19heEdPTW9uejFhN3FVaXlKVjF3Vy15emNpQUE4eUl0YnhnWVFkWjJBMVNBbWg0VjhlM3l5VHdyVXJIMnlQZlI0VGZmUHEya0dyYktYcHpBVlRpZV9USEJoOGt3REMzM3lGWkhjS2d3M3FGWi0wQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T23:04:09+08:00"
-    },
-    {
-      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGJJcFNyd2Z6eE9wRGxCemdfZXplWVZwQk5zUUVfc0l1N2xMNjZCNWhrbnRrSkxWQ0Q0Rm1ZT2NPT0c4RE1SRnViNEp1enB5dDl0V3Q0cV9FcEhjY05FY3V5X2hZWXgwUG5Hek1kOUtUYUx0dVlEazJrSEIzT1hETUsyRTFGektfUEdSMUlhalhUamEtVXJUc1N6YldKSWZyMFNLTEJaR2dfbUNFZnfSAbMBQVVfeXFMUExvclV1S1NBeldfR21qV3JmTDJUcHpjLXhGRlczYnJoWGpndmx0UGpMbUZUNDdNVTM2R0kxRnhKQ3VKM2hMbkJxOVE4T2hJWUwwaVdzR2pkaW5RZkFwVGVPd2JKcXU2WDRXLUhBc3dxeXRUdkhZeTZiVlZIWll0MndrQWNMSmpzdFp5MFJSUXhBcnRzd1RzV2E3N0FCSDlUV283T01Ud2NGWERGSVVkb1FnOW8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T22:48:45+08:00"
-    },
-    {
-      "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T22:46:16+08:00"
+      "time": "2026-09-08T23:10:05+08:00"
     }
   ]
 }
