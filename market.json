@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T06:21:16.558008+08:00",
+  "generatedAt": "2026-09-09T06:52:18.425316+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615244.0,
-      "changePct": -0.72
+      "priceHkd": 615690.88,
+      "changePct": -0.52
     },
     "ETH": {
-      "priceHkd": 19474.64,
-      "changePct": -0.01
+      "priceHkd": 19494.55,
+      "changePct": 0.19
     },
     "SOL": {
-      "priceHkd": 809.72,
-      "changePct": -0.39
+      "priceHkd": 810.5,
+      "changePct": -0.09
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1098.16,
-      "priceUsdOz": 4356.7
+      "priceHkdPerGram": 1097.53,
+      "priceUsdOz": 4354.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.58,
-      "priceUsdOz": 65.78
+      "priceHkdPerGram": 16.57,
+      "priceUsdOz": 65.74
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 739.47,
-      "changePct": 3.1
+      "priceHkd": 738.84,
+      "changePct": 3.02
     },
     "Natural Gas": {
       "priceHkd": 22.74,
-      "changePct": -2.49
+      "changePct": -2.52
     }
   },
   "news": [
+    {
+      "title": "LG TV shown capable of tracking user activity, even when offline - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3RjSEpKR3haZF93anNmbDNBVFNnQUxzamRlR3VhLUpsMl81ZWRIUTdPellJNG5MNWktdzZBQmF2bmcxY2N2U1BUWlNkeFRzMzlySVFUTlRnVW5pNUxhZmJ4N2NFeGF4QjV0T0R5RHJfbzYxOW9UWXQ5RXl0Vkd0VXlmV0Nldk15TXg5MUpOdkJybDR2ZVFTWG5KVkdDQk5lTkd6aVdzRQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T05:52:29+08:00"
+    },
     {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
       "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
@@ -89,13 +95,7 @@
       "time": "2026-09-09T05:20:22+08:00"
     },
     {
-      "title": "U.S. strikes Iranian tankers after more attempted attacks on Navy warship - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T05:11:11+08:00"
-    },
-    {
-      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ - The New York Times",
+      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T05:02:03+08:00"
@@ -107,10 +107,28 @@
       "time": "2026-09-09T04:57:09+08:00"
     },
     {
-      "title": "Hawaii’s western islands hit by fierce winds from Hurricane Lowell, knocking out power - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG1LMFBhYnpxTWk2WXo0U0tBRTNXX2xfQmdQOVdFZFk5LXFPNjc5VmJ5RUhCdjE2bE0yaENiS3ZIWm9XNmRwcGlCS0FrOW1wcXJhTkpKT1lzNkh6UzdoZHpsOVBlVm9pSWlkVGNheThjY3pPVDFoYklMY0VBdEYyRmhIalUyMVl4TVc3Rm5QTE1HNy05TjZ3dTZPQ0V2STJZYW9iNmlhaHlnRDM4MGJj?oc=5",
+      "title": "Mamdani drops massive 9/11 records trove as old claims about Ground Zero come under fire - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjRiZ2d1V0lsYkxNNDMtS0UtUmlKdFZOTTd3MGZwWEl0UUkzXzVUUXh6ZGpySTg1R3Zidk1uSFpHWXpoNDJXQnZRUFNsNFRhMVNtLV9ub2stMXB2OG84b2RObDd0V0F1SVpmQ21OU3R2YTdrZy1FQnJvOFcybU1rWjJTRDFqaG5OZ3F2Snk0STZnSzYwd2Y2d1RiMXlGelBmTDNNUWpMRUdTMTdLWGp3dTgtd0stVk5QVkHSAb8BQVVfeXFMUGdxcFF1R1JnNFFHVGZ4eFg0WDgwSXJMV0lfamxWeUhrZWZ5UGhwaFc5dEs5cDF4cmRRVXVtVnFJaTdtTzNyTTFNQzU2TFlvYXZiR2ZOVzdIanBoQnVHS1ZHME01YzhNSHJiMi1wbFRJYTRIcjZMSFhYdWVQdFlqUUFQaTBBWUVmSWV1WkdqZzlsWWNwc3I3OUxGSF9GNExfZTdHYUo5WkpxVjBBdmQ0RXh3M2Z3NHFoXzV3NHlnX2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T04:32:46+08:00"
+      "time": "2026-09-09T04:51:08+08:00"
+    },
+    {
+      "title": "Paul Adams: British-Israeli relations at lowest ebb in decades - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRcFdnNlNreEdFMzAwWXNBVlNKZFRhd0FrUGZOanRiMXZrVkU1N3ZJY1FPS3A0dHYySC1VT3BzNzA0ZUdBT3h2dmlzb0tSZVliLUprQ21jUFZBQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T04:45:56+08:00"
+    },
+    {
+      "title": "Hawaii's western islands hit by fierce winds from Hurricane Lowell, leaving extensive damage - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnp3NjE4M1BRZ01oRnNlVWhYb3ZGMFY5YmtNNWt2N2VZR0ZnQWJhanVoWFZpZUNYQWZWNEZvMkdfd1JXMEhkTlpPa2JMbktlSG52ZVJ0OGZWVkpBbDVSWVc5Y0Jkc2NqVWFKc0dVY1BacjRMczRLc0U2eGdZSnhFZ08tdGlQN3BfVm1BZFFjTFU2WW1KRjZjTksyT3ZTUjVqdkUxbWl4SQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T04:39:00+08:00"
+    },
+    {
+      "title": "Trump administration expresses 'profound concern' over Ford's ties to China - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Pc3hlZmZzX1dKdWkyc0RialJMejZsalZrQU1oZXMtV0RienUzYTJ4X0ZQcVF1cTJXMGptZnZOZDBLLWFUbjVrZUpoc3Z1dFgwR1FQUF9EWjktajlFYTgtMGxkZjdtWVJRZUpZZzc0NNIBdEFVX3lxTE1BYzFIa1p4MnpkQV9KR3c0SUNlbDkyRExQRjlRd2M0bS0zREJ3SEgxcnhvLXd6bEdYaFozbVQ0LXRhZjdIWHQ3ZUtSS0N0SGdmcHFQTkc2Y2d3S0puRkRCdGpwalphQ1RJVjJHRElHdGl3SGI4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T04:15:28+08:00"
     },
     {
       "title": "Lonnie Bunch to retire from Smithsonian leadership following clash with Trump administration - AP News",
@@ -119,28 +137,28 @@
       "time": "2026-09-09T04:09:00+08:00"
     },
     {
-      "title": "Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation - variety.com",
+      "title": "US Hit Targets Near Iran’s Kharg Island, Fox News Says - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2U5czFNOVJmRm52ek1qdDlZQVVJeEF4TnNqR3Vabi1iMzFKQmVlNVptdWFuc3NLTnpZYmM0Ukc3ODBrMXVnSllzUFkzcHpEMVZnOGx6ZTBEMk5JWFBMTmNLQl9OX3czUDBaMTlSbC1uTHZYeUE0WDJKQW9VSWFlN3FjR0NZcWFVT1dub0I3STNSUXU1MGE1WG5qbDhyY1J0aHFNTWIzTzBVOFZnOTJpOWdnNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T04:01:27+08:00"
+    },
+    {
+      "title": "UAE warned Netanyahu of major Hamas operation days before Oct. 7 attack, news report says - AP News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjNkYUEtZmEwQTZjV3RrWFY3RDB0SW91SmptQTZmVlZ4VkhJd2pIZ25UQWpTMWFpSXBmcFNGMklpTFpXTDNnTDZhRVR6Y3g5UHF2ekhUekMwNTMxdXU5X3JfYWV6ZnVGc0Q3TklyNG5XVUhTcTRYWGI1YmllWFJVWDRMbTNoVk1udEZmNXJxSG5ST3puTzEwcV8tcVNPeGs4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T03:56:00+08:00"
+    },
+    {
+      "title": "Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation - Variety",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXRNbzNqWGJtMWVPaThqaE1PNlA0OEo2Z0FEMEZWR3BOZkgtVHJtdFJRSXZNLXVEYkQyRGZCZS1WLURSd2MzV2Yxd3JybnVnUGlDQW9JTHVjZHZIemF4ZmhsY3MzV2xmRWtRa1pGWUg4WHE0aElfek04OTB5SHBTOWxGcGstaUJ4Ty1CbF9rUExBZV95QzhtbTJsTFZWYmU3bDhNWQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T03:49:00+08:00"
     },
     {
-      "title": "Trump's unusual role at midterm convention revealed as schedule goes public - foxnews.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9yZmo2MHZUalpxMGZmQ2ZPVkkwS3VtUWxneGtnY0FOSTMwNnIxMkw0SURaRklMTkhPUjBOMm1ibTZnSlZ6TUQxX0w0bERXVEhtUFZhQV9Kdk5INWFGbC1sU2RZN0JhYklJS3hnT25vS05Odk5uMW1aS2hQa9IBgAFBVV95cUxQSUp3ekhCaDZneWRfUVYwWlpYaWVHbEFUcEtlUWYyVElsbzZjTW95OVhESG5WcDlweXRBWE52TTk0UERhWlhYcWJNdVNoWlhZMmpNbE9MYVdxLVpjSTU2Z0tRUEYzS180SzlfaXJqelRNSEhTeWNvVW9iYkxDMXRLcQ?oc=5",
+      "title": "‘Practical Magic 2’ Rotten Tomatoes Reviews Splatter Bullock And Kidman Sequel - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTE1Q3l6ZmFVQ0IwN3ZYeEM1U3paWWR4QXdlZFRIUFIxM2RzalgtTXhkYi0ybTNZX21xYzIwUmt5MGQ5TGFwYklZSEJJU0ZHNl9MR3I2VlgtdDJpQUdkQlo4TGdlMHVuY1JiYkJEWUxjRGlCUERqSUloOVM3dTc2Q0JUOHozMk9IbTJSbVF0cGlxM2ZUUTlpZkh4RlVvRnk3VEF5N29xaldXVmpFME9LTG53TTY0ZHdMc3ZsbmU4cDI?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T03:45:41+08:00"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkxvUk5WMHlpUV9fRkVwNlhrcGJ3QVdleGh0LThTbHZmWjFVTENnWW1GTWQxc2JtM3R3ZkdBZWZZbWNJRkxTSUF3dnpNVl95ZHNVTnFwczJ4QktvdThRdHc1TlBJYW1KYThqeGdhN3FBLXQ0dWJlbi1jMW8xWjhoeW5CSFdNckl2WXEzc1ViZGZlTGNGNnkwdmRIcUJ0cWhFOXNTQjFRMjlXREYwQW84?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T03:43:16+08:00"
-    },
-    {
-      "title": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 30 years - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXkyNWJqOW82Q3NhRXJEcHNXMzBrYkxzN251QXRZbGM3TkdUcWZ5TU5jTTJjZGZuVE9vZU9pbGpMM1FFM013amtvcTlsOHRhR3ljMnFQWk83MGc3bUc1VS1VbVVLUGRSVUhhbDRTbk1FY0o3RE9PUzJqbm5Qd08zM3pmN3VYRlVJUkoxRmlWS0dpbEtfWHVienVGaU15ZDZESzNqdkcxdzMtWnUwZGNRb3VsY3ZZMTFrVlUyM3E0NUNqQzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T03:41:39+08:00"
+      "time": "2026-09-09T03:42:12+08:00"
     },
     {
       "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTWRHV1ozbG55dHdKd0tpQTV0aDhqUUExeFZwSjc5MnQ3dHhJRXU2NUlnbG0xSTYweVZJTG1RREZwMkY4dDBNLXpIMEdxdnBQMzN2MzhNbG95aTJlSVhpLVlHOUVUa0VscEJlTjJGNVdicGZjcS1idUxuSkVub0dtQkhqMGJMNFE2b0NTZzNxdU9BZVBRZlRERWtGV2ZSLXdDOG8zX0UtZ2c2M0xmTkF6RFdsZk1JSUk1RXM3eVJzcTczY3l1bXcxSGNKb3FWVWRJSmJTa2VudWF1RmZCVmpkQkRkTFNRaGNpbDVXT2N6R1RBLUU0VU9r?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T03:13:13+08:00"
-    },
-    {
-      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T03:11:39+08:00"
-    },
-    {
-      "title": "LG TVs Reportedly Eavesdrop on Users Even When the Screen Is Off - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSU40czZfOW5McUhxZHJYUUNQMU96ZW1wYmE4aldRNXN0SWVQWmNDYmFsbEoxbDNRUzNoQTdDSHpxUVpDRGxkOHZzWDJfUi0wR21BWWpDTlRMOU94V1pOWmhGVG5rWTN2SDFWYkJ6eVV4WnhQaTNZZzVGRHZ3Q1ZYeTB3QU5NSlkwbGRLUldldGpWYnRiZkE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T02:35:04+08:00"
-    },
-    {
-      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T02:21:40+08:00"
     }
   ]
 }
