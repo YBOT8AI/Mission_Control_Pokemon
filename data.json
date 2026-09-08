@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T05:50:10.519968+08:00",
+  "generatedAt": "2026-09-09T06:21:16.478997+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -102,13 +102,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "5131fed",
-          "message": "docs: add Fintech 2030 tokenisation/RWA tailwind to market research (2026-09-08)",
+          "sha": "3b835a5",
+          "message": "lucky8: revenue deliberation — 2026-09-09",
           "author": "evilmoni",
-          "time": "2026-09-08T14:02:28+08:00"
+          "time": "2026-09-09T06:13:25+08:00"
         },
-        "commits30d": 77,
-        "totalCommits": 184,
+        "commits30d": 78,
+        "totalCommits": 185,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -265,8 +265,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:45:30.500887+08:00",
-        "next_run": "2026-09-09T06:15:30.500887+08:00"
+        "last_run": "2026-09-09T06:15:35.887967+08:00",
+        "next_run": "2026-09-09T06:45:35.887967+08:00"
       },
       {
         "id": "539a150ac028",
@@ -283,8 +283,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:19:12.463612+08:00",
-        "next_run": "2026-09-09T06:19:30.240040+08:00"
+        "last_run": "2026-09-09T05:50:17.506337+08:00",
+        "next_run": "2026-09-09T06:50:35.899444+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -292,8 +292,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:28:27.441718+08:00",
-        "next_run": "2026-09-09T05:58:27.441718+08:00"
+        "last_run": "2026-09-09T05:58:32.353872+08:00",
+        "next_run": "2026-09-09T06:28:32.353872+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -301,8 +301,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:49:30.532268+08:00",
-        "next_run": "2026-09-09T05:59:30.532268+08:00"
+        "last_run": "2026-09-09T06:19:35.870135+08:00",
+        "next_run": "2026-09-09T06:29:35.870135+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -337,8 +337,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:43:29.617988+08:00",
-        "next_run": "2026-09-09T05:58:29.617988+08:00"
+        "last_run": "2026-09-09T06:13:34.938939+08:00",
+        "next_run": "2026-09-09T06:28:34.938939+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -391,8 +391,8 @@
         "name": "Lucky 8 — TechWealth Revenue Team",
         "schedule": "0 6 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-08T06:02:51.060454+08:00",
-        "next_run": "2026-09-09T06:00:00+08:00"
+        "last_run": "2026-09-09T06:13:34.849656+08:00",
+        "next_run": "2026-09-10T06:00:00+08:00"
       },
       {
         "id": "5d3a49623653",
@@ -400,8 +400,8 @@
         "name": "Robotics Business Daily Brief (6am)",
         "schedule": "0 6 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-08T06:01:40.576370+08:00",
-        "next_run": "2026-09-09T06:00:00+08:00"
+        "last_run": "2026-09-09T06:01:10.874725+08:00",
+        "next_run": "2026-09-10T06:00:00+08:00"
       },
       {
         "id": "1dabab689e0e",
@@ -544,8 +544,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:00:33.101820+08:00",
-        "next_run": "2026-09-09T06:00:00+08:00"
+        "last_run": "2026-09-09T06:00:47.847716+08:00",
+        "next_run": "2026-09-09T07:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -643,8 +643,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:01:24.405346+08:00",
-        "next_run": "2026-09-09T06:00:00+08:00"
+        "last_run": "2026-09-09T06:01:26.524196+08:00",
+        "next_run": "2026-09-09T07:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -760,8 +760,8 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T05:00:39.700976+08:00",
-        "next_run": "2026-09-09T06:00:00+08:00"
+        "last_run": "2026-09-09T06:00:49.318500+08:00",
+        "next_run": "2026-09-09T07:00:00+08:00"
       }
     ],
     "total": 56,
@@ -789,44 +789,44 @@
     "uptime": "2 days",
     "cpu": {
       "loadAvg": [
-        1.43,
-        1.51,
-        1.57
+        1.69,
+        1.69,
+        1.65
       ],
-      "usage": "13.4%"
+      "usage": "12.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 43.3
+      "usedPct": 46.1
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.4",
+        "cpu": "3.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.0",
+        "cpu": "1.6",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.4",
-        "mem": "0.0",
-        "name": "notifyd"
-      },
-      {
-        "cpu": "0.3",
+        "cpu": "1.5",
         "mem": "0.1",
-        "name": "opendirectoryd"
+        "name": "launchd"
       },
       {
-        "cpu": "0.3",
+        "cpu": "0.8",
         "mem": "2.3",
         "name": "python"
+      },
+      {
+        "cpu": "0.7",
+        "mem": "0.1",
+        "name": "bluetoothd"
       }
     ]
   },
@@ -1020,7 +1020,7 @@
       "status": "active",
       "schedule": "0 6 * * 1-6",
       "lastStatus": "ok",
-      "lastRun": "2026-09-08T06:02:51.060454+08:00"
+      "lastRun": "2026-09-09T06:13:34.849656+08:00"
     },
     {
       "name": "Future Me 44",
@@ -1562,7 +1562,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-09T05:50:10.392745+08:00",
+    "generatedAt": "2026-09-09T06:21:16.346203+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1570,8 +1570,8 @@
           "temp": 24.8,
           "code": 1,
           "precip": 0.0,
-          "wind": 9.6,
-          "time": "2026-09-09T05:45"
+          "wind": 10.1,
+          "time": "2026-09-09T06:15"
         },
         "daily": [
           {
@@ -1603,8 +1603,8 @@
           "temp": 24.5,
           "code": 1,
           "precip": 0.0,
-          "wind": 7.6,
-          "time": "2026-09-09T05:45"
+          "wind": 7.7,
+          "time": "2026-09-09T06:15"
         },
         "daily": [
           {
@@ -1640,19 +1640,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-09T05:50:10.519873+08:00",
+      "time": "2026-09-09T06:21:16.478872+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-09T05:50:10.519873+08:00",
+      "time": "2026-09-09T06:21:16.478872+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
     {
-      "time": "2026-09-08T14:02:28+08:00",
+      "time": "2026-09-09T06:13:25+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: add Fintech 2030 tokenisation/RWA tailwind to market research (2026-09-08)",
+      "text": "💼 TechWealth: lucky8: revenue deliberation — 2026-09-09",
       "project": "techwealth"
     },
     {
