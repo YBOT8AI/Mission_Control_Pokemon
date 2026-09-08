@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T12:08:19.692578+08:00",
+  "generatedAt": "2026-09-08T12:44:41.918703+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618387.84,
-      "changePct": -0.93
+      "priceHkd": 617541.12,
+      "changePct": -1.07
     },
     "ETH": {
-      "priceHkd": 19476.28,
-      "changePct": -0.51
+      "priceHkd": 19462.56,
+      "changePct": -0.53
     },
     "SOL": {
-      "priceHkd": 809.24,
-      "changePct": -1.61
+      "priceHkd": 810.19,
+      "changePct": -1.63
     }
   },
   "stocks": {
@@ -33,42 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1119.91,
-      "priceUsdOz": 4443.0
+      "priceHkdPerGram": 1118.45,
+      "priceUsdOz": 4437.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.94,
-      "priceUsdOz": 67.22
+      "priceHkdPerGram": 16.92,
+      "priceUsdOz": 67.11
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 727.94,
-      "changePct": 1.5
+      "priceHkd": 729.2,
+      "changePct": 1.67
     },
     "Natural Gas": {
-      "priceHkd": 23.12,
-      "changePct": -0.87
+      "priceHkd": 23.13,
+      "changePct": -0.84
     }
   },
   "news": [
     {
-      "title": "Indonesia airports reopen after volcano eruption leaves 340,000 stranded",
-      "link": "https://www.bbc.co.uk/news/articles/czezydp4l97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T11:44:43+08:00"
+      "title": "‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEkwd0xYNDctUnd4Z0RvOW5LXzFQVHhYNm5USUtoX1Aya1BaSVBwdTZuT0trVGpMeFNqSTh0amhlYjFQY0VVbEFsWWhYT3hCaS1HdDUyVmF0Qi1NOFpIRmZpVUJ6TzBVWFRmVktzUm5DcHF0OFJFUVE0akx4WEVlY3VCNTNoRERIQ2RoWTM5c29pMExzYkxPbGNTSWZaLVB6d2lCU1M2WUdHS3BrNlFHRUpKdWtOdE93ajdTcXBxdE84M2ZoNUVGWng5RWZLdm5oTEl4MUJPRGhwMnc3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T12:00:00+08:00"
     },
     {
-      "title": "Amazon cargo plane crash victims were in vehicles that were hit, NTSB says - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWHEwUzVFRjhJMUp0TXNWdXZNZ0Jrc0ZCMm1WLVNWUzV2MW9ZT25DckxQTmF3b2V1QTlBREdvclRLclNTV20yaTVhSmEwWkVVTHBaa1h4ZWl3YVNKNWpTWkFRanVGSkc5UUJaNmU1X2tXT09XdXp2ZXVYMjMzR1pjaC14Yk5VTk8wbklYTUN1NmNkdTdYUkdSTDhB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T11:29:55+08:00"
+      "title": "North Korea and Russia open first road bridge linking both countries",
+      "link": "https://www.bbc.co.uk/news/articles/cj9xvg1kz0mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T11:53:27+08:00"
     },
     {
       "title": "How the Nepal-Tibet disaster became the latest victim of China’s ‘Clean Internet’ campaign - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFFReHVwbjJBUkFNeWlBLXB0cEw2a0tvMHpMVFR6c1M1cUhsZTNCWm1mV19fMmhmTzY2OGNyOGdGV3c2azdWRmZMd3ZBaWtKNTQ3ajI0NHd3Qk03b1VDekFtZE5obTlEUV9ZaFllRHZlSTJVM3d6RlJQb1JPWkFEMFMxMGtFbDVZcGdQZ1FkVC1FZkJYTllqYVlLTHl0M2VOeGJSWmdERmZHdEtxZWhHMnQ0QXp1U2ZORi1fY1phZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T11:14:00+08:00"
+    },
+    {
+      "title": "China's imports in August miss estimates as exports pick up pace amid calls for rebalancing trade - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ0RqdGFpdkg4RjI5S01VR1R5YkNVT05KZGdHbTNhRHBDc2FTTVRIRENDYWphYmx2Znk0eEN1YThzVm1KOWdEVHUySlhidTJHdGNRZUZBWVVRNkxNRVk0V0ZBLUM5QTdNSXE0VWxPUEpvMzhCZ05hZlJ5QzdQcktWRlBOblF0LXM0ZG52Qzg3TW1LOVY5UzdZT3RrR2hfQdIBowFBVV95cUxPSng0bjhjenJLb1gwQi1vdUFJVm00YVU5bWtsSUlUZk5meEU5dDAzUXpQd1Q3Ul9BOU96X2diWlBqdGMyVEhfZktoM2ZNc05XUUdQTHNPdXZiaDBWRXItTGxSM190dE81WTZRWC1oVWFRRjc2OTY1cVhsd3NaVndaYlBjTHVGMEM4UHltR0diZFBncElGRVp3Nk5BQTdtUkRLd1o4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T10:49:00+08:00"
+    },
+    {
+      "title": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MU5wYmtzN3B0cmswQVNRTmlHem96dkc1M2R1YlFXWEMySEdERjdxYld3Ym94UEVnZjJ1Yk5DY1oxS1NCS0FXcWZmU004OVNzeGdyMUlqaHp5UE4xUGFrcjdhank1dGtuSUxlbUZqT2E4c3o5eENvLWhTcmFjYUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T10:48:52+08:00"
     },
     {
       "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
@@ -83,22 +95,40 @@
       "time": "2026-09-08T10:22:00+08:00"
     },
     {
-      "title": "Pope Leo XIV unveils a fresco at the sanctuary where he prayed after his election last year - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
+      "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUVEbzRaTnM5NjV2bDRxYzFrVVU0TFVLWlNGeTJaZzRRbkRaNUw1eTllSWlKVVIwWENBOEFBOUtZVnV4azB6U1lrQi1yT1pLU251UmNZRUw4ZTFzOUxxbEk0U08yTVlRbVFoOTVmcW1qV0ptR2ZiN2tqakhsU2RuZg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T10:10:00+08:00"
+      "time": "2026-09-08T10:03:58+08:00"
     },
     {
-      "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",
+      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
+      "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T09:50:55+08:00"
+    },
+    {
+      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T09:49:00+08:00"
+      "time": "2026-09-08T09:37:00+08:00"
     },
     {
       "title": "'Pay your power bill': College football reacts as Florida State-SMU game delayed by outage - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTlowUDVobm0xaHRScElGR2FLRUxlRDhxLUxyRmoxc2lkUnJrY1BrVy1vSk9vclg4MkZkWjNma0xrUmtKVC1qQlM0ZkIxbU9yUUQyNUVQRFc0THo2RzFndm9UMTlLTHpvNmNQQWQxRC0yZFAxNzZJQVpxek9mc29ibDM3cnZCZGFnWXNxWDJaY0s4VW9ucHVTeVQzOUxOWDlTLU0tWm1ONWl2b0owRVItVjAtV2sxOU9ZOUY2ODcxdHpXSXM1cW8tN0VWanBUeFhCa1dN?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T09:37:00+08:00"
+    },
+    {
+      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
+      "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T09:32:56+08:00"
+    },
+    {
+      "title": "Jake and Callum Robinson: Trial over alleged murders of Australian brothers starts in Mexico - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YVm8tQ01qWmo2ZENlV2pDcGo0S1JQU29TQnItTjlYV0JtSEZLYTlGbzBhZ3RWNWVoclJVY3lNbWhvQ1Zja3VoM1c1aXpkQUxUeHU1Tlp5YjFQQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T09:32:56+08:00"
     },
     {
       "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
@@ -125,22 +155,10 @@
       "time": "2026-09-08T08:57:00+08:00"
     },
     {
-      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTVJ6MDlUWURyZnpLVFdqMnRudnh0bjRaYXlYdHFVLUtPQkhXLVR1Vk1XV3Z0UVF6cFBfRXd5TnBIQ1BHeHNkdm5DdmZCVEE5ZUgzVVBsRU5RSF9YMFZGVDNzcXAxTkQ0b0Y3Rmo1RWdMaG5qZ2h0VVR4Q29NYUZ5V2N1M1pHOGJIWXhhSkNYRVRqeFVDZUFuaEFHd3JBdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T08:53:00+08:00"
-    },
-    {
       "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
       "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T08:48:43+08:00"
-    },
-    {
-      "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUVEbzRaTnM5NjV2bDRxYzFrVVU0TFVLWlNGeTJaZzRRbkRaNUw1eTllSWlKVVIwWENBOEFBOUtZVnV4azB6U1lrQi1yT1pLU251UmNZRUw4ZTFzOUxxbEk0U08yTVlRbVFoOTVmcW1qV0ptR2ZiN2tqakhsU2RuZg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T08:30:08+08:00"
     },
     {
       "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0FkU0lFTGVobHIwMThjWEhxeFIyUXhMNjk5Q0tjUjZ1d0o4ZmV0NldKWV9zc1QxMzNESnZQM2JCSE9PdzZiMjgxbF9hVVQ5M2hINUg0RW40MkJ0RzQtWHc4M2tMeTJWY1pKT00zekJMUUVEcXRYa095eVNkUk93cXFhX0hVVDBnZ0phX3Z3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T07:45:47+08:00"
-    },
-    {
-      "title": "A food safety officer has become a social media star in India - why?",
-      "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T07:40:39+08:00"
-    },
-    {
-      "title": "Taylor Swift looks radiant in flowing gold dress for romantic date night with husband Travis Kelce - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0NPWmVrMG1jYU90LTExclRaNnhfRU5TcDlaei02RUtDaElxbDNkRGs4N3V0SU55VkptQXhYckx0blJ2cV9KRlV0UTRDWl9HaWUtWkJ2QzZDTXFtNkUwZmgtRHJvdlNmMlBlQlV0d19OSWtqVl9RbndsZDFoaG93VjVmclNabExuWUJzekVoZi1MUnlQb3h5M2JJRlo3d0RuN0lBdTZwdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T07:07:31+08:00"
-    },
-    {
-      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
-      "link": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T07:06:14+08:00"
     }
   ]
 }
