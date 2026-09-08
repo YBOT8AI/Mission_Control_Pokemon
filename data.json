@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T13:46:34.381152+08:00",
+  "generatedAt": "2026-09-08T14:17:40.504005+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -65,7 +65,7 @@
           "author": "evilmoni",
           "time": "2026-09-06T12:17:10+08:00"
         },
-        "commits30d": 41,
+        "commits30d": 39,
         "totalCommits": 144,
         "branch": "main",
         "uncommittedChanges": 0,
@@ -102,13 +102,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "612f153",
-          "message": "docs: publish Weekly Deal Flow Digest #2 (2026-09-07)",
+          "sha": "5131fed",
+          "message": "docs: add Fintech 2030 tokenisation/RWA tailwind to market research (2026-09-08)",
           "author": "evilmoni",
-          "time": "2026-09-08T12:02:09+08:00"
+          "time": "2026-09-08T14:02:28+08:00"
         },
-        "commits30d": 83,
-        "totalCommits": 183,
+        "commits30d": 84,
+        "totalCommits": 184,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -265,8 +265,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:42:55.978566+08:00",
-        "next_run": "2026-09-08T14:12:55.978566+08:00"
+        "last_run": "2026-09-08T14:13:01.237182+08:00",
+        "next_run": "2026-09-08T14:43:01.237182+08:00"
       },
       {
         "id": "539a150ac028",
@@ -283,8 +283,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:15:36.976857+08:00",
-        "next_run": "2026-09-08T14:15:55.660485+08:00"
+        "last_run": "2026-09-08T13:46:41.533643+08:00",
+        "next_run": "2026-09-08T14:47:01.125983+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -292,8 +292,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:25:53.189982+08:00",
-        "next_run": "2026-09-08T13:55:53.189982+08:00"
+        "last_run": "2026-09-08T13:55:57.849934+08:00",
+        "next_run": "2026-09-08T14:25:57.849934+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -301,8 +301,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:36:54.454991+08:00",
-        "next_run": "2026-09-08T13:46:54.454991+08:00"
+        "last_run": "2026-09-08T14:17:01.427642+08:00",
+        "next_run": "2026-09-08T14:27:01.427642+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -337,8 +337,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:40:55.142337+08:00",
-        "next_run": "2026-09-08T13:55:55.142337+08:00"
+        "last_run": "2026-09-08T14:11:01.151821+08:00",
+        "next_run": "2026-09-08T14:26:01.151821+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -454,8 +454,8 @@
         "name": "TechWealth Daily Autonomous Workflow",
         "schedule": "0 14 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-07T14:03:13.464458+08:00",
-        "next_run": "2026-09-08T14:00:00+08:00"
+        "last_run": "2026-09-08T14:02:39.215418+08:00",
+        "next_run": "2026-09-09T14:00:00+08:00"
       },
       {
         "id": "bd1dd707602f",
@@ -535,8 +535,8 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-08T10:00:32.561367+08:00",
-        "next_run": "2026-09-08T14:00:00+08:00"
+        "last_run": "2026-09-08T14:01:11.223283+08:00",
+        "next_run": "2026-09-08T18:00:00+08:00"
       },
       {
         "id": "86f0a1085a5f",
@@ -544,8 +544,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:01:04.344389+08:00",
-        "next_run": "2026-09-08T14:00:00+08:00"
+        "last_run": "2026-09-08T14:01:15.161058+08:00",
+        "next_run": "2026-09-08T15:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -553,8 +553,8 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:01:22.394970+08:00",
-        "next_run": "2026-09-08T14:00:00+08:00"
+        "last_run": "2026-09-08T14:01:43.356446+08:00",
+        "next_run": "2026-09-08T15:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -643,8 +643,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-08T13:01:04.821933+08:00",
-        "next_run": "2026-09-08T14:00:00+08:00"
+        "last_run": "2026-09-08T14:01:22.735664+08:00",
+        "next_run": "2026-09-08T15:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -789,29 +789,34 @@
     "uptime": "2 days",
     "cpu": {
       "loadAvg": [
-        1.52,
-        1.52,
-        1.44
+        1.28,
+        1.44,
+        1.49
       ],
-      "usage": "12.4%"
+      "usage": "14.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 42.7
+      "usedPct": 43.0
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.3",
+        "cpu": "2.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.8",
+        "cpu": "1.9",
         "mem": "0.0",
         "name": "sysmond"
+      },
+      {
+        "cpu": "1.7",
+        "mem": "4.5",
+        "name": "Google Chrome Helper (Renderer"
       },
       {
         "cpu": "0.5",
@@ -819,14 +824,9 @@
         "name": "notifyd"
       },
       {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "opendirectoryd"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "launchd"
+        "cpu": "0.4",
+        "mem": "1.7",
+        "name": "Google Chrome"
       }
     ]
   },
@@ -1031,6 +1031,14 @@
   ],
   "githubActivity": [
     {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-08T06:02:30Z",
+      "title": "docs: add Fintech 2030 tokenisation/RWA tailwind to market r",
+      "detail": "1 commit(s)"
+    },
+    {
       "repo": "evilmoni/KinKin",
       "type": "PullRequestEvent",
       "actor": "YBOT8AI",
@@ -1156,14 +1164,6 @@
       "actor": "YBOT8AI",
       "time": "2026-09-03T22:04:28Z",
       "title": "lucky8: revenue deliberation — 2026-09-04",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-09-03T15:01:20Z",
-      "title": "chore: update changelog for 2026-09-03",
       "detail": "1 commit(s)"
     },
     {
@@ -1562,16 +1562,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-08T13:46:34.231120+08:00",
+    "generatedAt": "2026-09-08T14:17:40.350377+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 31.3,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 3.4,
-          "time": "2026-09-08T13:45"
+          "temp": 30.9,
+          "code": 1,
+          "precip": 0.0,
+          "wind": 4.2,
+          "time": "2026-09-08T14:15"
         },
         "daily": [
           {
@@ -1600,11 +1600,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 31.9,
-          "code": 51,
-          "precip": 0.1,
-          "wind": 3.6,
-          "time": "2026-09-08T13:45"
+          "temp": 32.0,
+          "code": 0,
+          "precip": 0.0,
+          "wind": 3.4,
+          "time": "2026-09-08T14:15"
         },
         "daily": [
           {
@@ -1640,19 +1640,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-08T13:46:34.381015+08:00",
+      "time": "2026-09-08T14:17:40.503875+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-08T13:46:34.381015+08:00",
+      "time": "2026-09-08T14:17:40.503875+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
     {
-      "time": "2026-09-08T12:02:09+08:00",
+      "time": "2026-09-08T14:02:28+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: publish Weekly Deal Flow Digest #2 (2026-09-07)",
+      "text": "💼 TechWealth: docs: add Fintech 2030 tokenisation/RWA tailwind to market research (2026-09-08)",
       "project": "techwealth"
     },
     {
