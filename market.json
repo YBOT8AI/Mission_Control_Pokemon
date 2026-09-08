@@ -1,62 +1,74 @@
 {
-  "generatedAt": "2026-09-08T21:01:52.275237+08:00",
+  "generatedAt": "2026-09-08T21:32:50.708008+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614601.12,
-      "changePct": -1.51
+      "priceHkd": 613950.4,
+      "changePct": -1.62
     },
     "ETH": {
-      "priceHkd": 19376.72,
-      "changePct": -1.38
+      "priceHkd": 19345.44,
+      "changePct": -1.57
     },
     "SOL": {
-      "priceHkd": 807.76,
-      "changePct": -2.57
+      "priceHkd": 806.27,
+      "changePct": -2.63
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5550.8,
-      "changePct": -0.38
+      "priceHkd": 5541.35,
+      "changePct": -0.17
     },
     "SPX": {
-      "priceHkd": 60513.82,
-      "changePct": -0.38
+      "priceHkd": 60398.03,
+      "changePct": -0.19
     },
     "SPCX": {
-      "priceHkd": 1159.93,
-      "changePct": -1.2
+      "priceHkd": 1156.2,
+      "changePct": -0.32
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1111.04,
-      "priceUsdOz": 4407.8
+      "priceHkdPerGram": 1110.18,
+      "priceUsdOz": 4404.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.77,
-      "priceUsdOz": 66.51
+      "priceHkdPerGram": 16.74,
+      "priceUsdOz": 66.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 729.2,
-      "changePct": 1.67
+      "priceHkd": 728.88,
+      "changePct": 1.63
     },
     "Natural Gas": {
-      "priceHkd": 23.15,
-      "changePct": -0.74
+      "priceHkd": 23.16,
+      "changePct": -0.71
     }
   },
   "news": [
     {
-      "title": "‘Musk’: Alex Gibney Shares His Take on Elon Musk’s “Global Right-Wing Agenda” and the “Almost Existential Fear” of Talking He Encountered: Venice - hollywoodreporter.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNUN0Y1ozczljODd5NkY0blpHQ1c2a2d2Nlh5ZkRJR3gyUk5UNlA3bkdYanRubkJKOTgtVDQyLW5jdmpNbnd4WkR3T1pqQi1KWmNveXNOU1VuYU5OVm1udVE3RkJkVTlOU2gxM0NfbVZyOWx4YUJCUnltQTYwOWlGVEZwUUI5OGJObVlpUW5LQlBORUw3cEd5RkQ4QmtpZ01DNWVoWGFBMmxUU1BZTkJCTHBMQkN6ZllVU3pF?oc=5",
+      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T21:20:51+08:00"
+    },
+    {
+      "title": "A Far-Right Win Puts New Pressure on Germany’s Leader - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWVlZcTdBVDMtZWZzZWJRZE1jU1NwSGEza2tVUEFoMXpHYnRlQ2lpSmNzbjJ0bkVKdk9iRTJZWVh1MHc1aVc4OFo4VVQtUGRWNWJkUVgwaHExejZXcTBMNzNGaThRU2w5M3JacHhPOTVnT28xaHo1M0F2ak40cEc3ay1PaXA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T20:33:45+08:00"
+      "time": "2026-09-08T20:57:07+08:00"
+    },
+    {
+      "title": "UK, France and Canada sanction Israeli West Bank settlements, in support for two-state solution - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZmlBQXFvaFZkMk1ZeXQ3VUU4VUJJc2oxWWxUWGp1YVFwdXNKNko2OUM4OC1mUmExUmFsc0pxOWRDOWxqbFE4dTI1X1B3SWY1TDQ5eWotM1NhczFqeVI0NkthNmY1SWVkR1NwbEJTV3dCbS1SR2lMcTBZbVpOZTZicnBXdTQ5dEppd1dFbnM4OXlrNzJU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T20:50:48+08:00"
     },
     {
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
@@ -89,16 +101,10 @@
       "time": "2026-09-08T20:00:00+08:00"
     },
     {
-      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
-      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T19:59:02+08:00"
-    },
-    {
-      "title": "UK Set to Impose Sanctions on Israeli Settlements in West Bank - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0RKVWVWcjdBSHFfcVhPYnNxU2tIcnZuTXJUYnpPd3htTkpsSnJEbTU0Mmg4UjR3V3ZQdU13LUxNZ2FaZUtWaS1aUHRVdDIzUDhzRkR6b1hjdDlydk0xa1Exa3FvTWVuMEJIckJPenk5c2l6OEk3SC1NMU5ObEFSWkVYSVk0bHBWUU1qa0gwMHRvYmc0TVNGMWlB?oc=5",
+      "title": "Lindsay Clancy's attorney Kevin Reddington asks Trump for pardon after mistrial - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcHhUaXJidlJnYm5FMXFwdDd6Z0tEZEhTVG13OGlEODIwS0xSTUMxQ2pUazVUb1Q3dElsbllZUlo0SlVkV0FJazhMV0NHdHdibkhhNlVfVDItemRkdXdidmE4TjZEelpuczNSLVAyMm1Xb3NZamNYUmFVM0Fld1F1QWtGYmxfbjZ6TWtScnJKOEFITS13N1dBRVlhMENWREpfZlFyWm5DVFNJWU3SAbABQVVfeXFMTXo5eHdBSkhCLXdLeXlySDZISnFUQUl5N1oyNnc2d1hIdnJJRi04QnVFcDJIT0dZdUx4TU5RcUFYM0IwQXpNVzVwWjREcElhQzdZOEdXVlRZZDBVUTdKQlRTR3Jud25NaF9wdWdEUWVXSlZONlVyTXMwSGs4bmE3VXhRckZFODNLUUZ0WktNdU5lWEg1ODhpdXloYm9XYm0wUVFkNzRZWjZHQUVJZmR6YV8?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T19:43:59+08:00"
+      "time": "2026-09-08T19:49:54+08:00"
     },
     {
       "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
@@ -107,10 +113,16 @@
       "time": "2026-09-08T19:38:07+08:00"
     },
     {
-      "title": "LG TVs caught spying even when offline or on standby - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHA2clM5RWVuV3EzdHBoU3I1ZXB0U1pqdEhXVzM1YzN5VnhBclNuQm5DZEdHck1UY2VBdUdOUmdBeGdITVZacDJzNmU2SHN1Y2dlVDJoN0JmZl9FOUZ1cXRfaDMwZGtKSm1tWUg3LUZldWxralNKeEFjWkt6d1NhRFFTYW1rMGczdnYyZ2FoaUNxWGpiN3pzQ0xBWQ?oc=5",
+      "title": "Elon Musk’s Ex Ashley St. Clair on Rejecting a $40 Million NDA and Participating in ‘Musk’ Doc: ‘I Hope the Risk in Trying to Fight Back Helps a Little Bit’ - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMTFMSXg2MXppSWloTHh5dkttQVVDb3lTSzBXRW12S2tUMUctMEFHRy00UzhtTUhBR1Y5NTJPd0g3OTJVQy0xaFg3WWwxa2taejNOcDJ1azZWRk1MakVIWWlaOE9aMDN0bktNQ2dqbWlvODNuOWw0N2JMTEoxLXFwb3Y5eVZLTlNmNlhxUGo2eWFxRV9tTS1hdWIzTF9DVllibVh2OUdudUdiVFFDUjRMUGFld2FJSWxP?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T19:30:05+08:00"
+      "time": "2026-09-08T19:37:00+08:00"
+    },
+    {
+      "title": "Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmRxSDVSaGtVRFo4OG1zYjJXOVpUa2t6QTFvWTVKYmUxQ0J4UTRlRUVPSGlKRC1TVHkxaWIxSEsyZnExYmh5WUhJRW53ZDYxVWlBNjg5SVRZNmUxcVRveVdnRkRZNE9leDlTZ2ZnNXRnWTZoSG4xWmVfMkNtbV9PbEJuRldIMFNFbDliTFFjMERBeVY2aWhienpCcUhqb0FvS3lkWDBoVEo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:33:00+08:00"
     },
     {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
@@ -131,19 +143,13 @@
       "time": "2026-09-08T19:00:22+08:00"
     },
     {
-      "title": "Harry and Meghan ‘surprised’ by king’s letter making clear they’re still nonworking royals - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZ1JzcU44RHJGenlMUFAtYjE4NmZxeWdfbFUxWW56RG9ZOUViTUdPTjgxTl9rQW1qbUw3ZjI0XzNINUMtRnJlNHlkcmdieGk5eW81LXVNVXQ5UXlUMTlEejNweTdwYm5WdjVYRHpwa2UwS3ZHdUlDRHpuOHhSM2pTcGhFOVhIRnRUZllyTjVoT1N0ME5JNDlac0JXcVROVjVqekZRZm9FeTBzMXVSV3Fuamxic2I2SnpOcXhjWWVMaFlaNGlX?oc=5",
+      "title": "Chris Johnson Takes Us Inside Life With ALS: ‘I Just Want More Time With the People I Love’ - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS2tMZUQ2SW1KRTZlSS1kOWZBR3NjSU5aRW5mbjhsZ0xveTl6eEVnUkFIODJVcHpsYTdsX0ZoOUNEdVNpNUhZQWdMNG5URkFyUFdvbkpfRnFxdHZ0aVZ1QTd5cTl5Z0xKZkFLcGZNSVlCMlNPdU5LVHROX1I3SHYwdTFOOW1WZzFy?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T18:38:05+08:00"
+      "time": "2026-09-08T19:00:05+08:00"
     },
     {
-      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNelpMMWdSSTBNZG5rSnpCMmk5MnVUNGNIR1lvVTQ0X20zUFFIYUdheDN0QzFoRm15VGdmNmlvUi1rUHRJWkRqMXdPTFJwQ3FzUTFPWlpPNGFtNjI5UGE0U1c3azQyanhLdTdvMTZXcGJSYXMzVWczU0pwUU5GLXcxOXZ3dGpuMUplbm9NRzZuV0ZuUGV2SnB5OERyRXVENHpXNWxtSFk1SFpEazFBdVVV0gG0AUFVX3lxTE81M3laVXFBWllCdmJvOFZhQ2J1TjlPVFpNRzdGa2xLNktBSUhJYjlHYU9CLWlaVFNCNmMwOXRZd2doTU9UWTdxV1hZQ2FQWVFSUlBzYVVVX3hWaFNCRXJSRHY0TWc2aFkxNk96TUhwTi1POGdQNlZvTkd4Z3IxeU8xWmpoNmdFVTd3QzUyR3hxUnRjYUFQeGZoQ3FOa0pUWlhhWEVCLTNGRVlJaVdnTFdzUGZ3Rg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T18:30:00+08:00"
-    },
-    {
-      "title": "Has the economy gone C-shaped? : Planet Money - npr.org",
+      "title": "Has the economy gone C-shaped? : Planet Money - NPR",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTFpVlo0M2ZybWhZVF9sMFdDM2ZWWnFBZUpMQ1kyMHVwYXZ5UGw2NGViaWZvY1A1cVBOQk5EN1FRTTBGSTlMcUhUeU9Uczg3dUFKdTkyZnNIajV5UHQ4bXRwSzBGNTNLcGFKRnZJc05qYjVna0h6YXFydlVuM0VnQzdWUkJEd244bXFwQ1YyMUtZQS1MMElXcXFn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T18:30:00+08:00"
@@ -161,16 +167,10 @@
       "time": "2026-09-08T18:19:52+08:00"
     },
     {
-      "title": "Canadian tariffs on U.S. milk, perfume, golf clubs and other goods take effect as trade war grinds on - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVE1WV2RZNXY5cXlkSDBsVU5DZURjak4xTGFBUWs0Vzd2YlNrdFBHSW0tU2k0eXVFc1M5OG93NEEzbzVfakhaeGdSY0JUb3dfTzJUeXZnRVBOMlYyd0NuOVlrSTlnTkNsUEdOd1JPc1AwWjNlREhNRVlkTTdYNE96blZDdkZhME1uYWE4d1drZHdYaWVvOTFISlA5bw?oc=5",
+      "title": "New Hampshire voters choose nominees for open Senate seat with Shaheen's retirement, and more races to watch today - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQajhQSGZic1lJUGFjdjFUeVlUeUlwRE5ZQmJTT01rRHNPQUw3bVh3UmhId3d3bDNqbWRaV1FuUzhyb2xnb2tvcXpCYUxnOGY0alJpQkd3TFRNdjBUUzEzc3NSR2VfYmlFRXdZcHBwMnMwYlNobFpnaVNHeGh4eXhPdVZYZGJqTjdRQlE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T17:59:47+08:00"
-    },
-    {
-      "title": "What would Germany's AfD do in first 100 days if it takes power in Saxony-Anhalt? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1FtMm05aGtEbVotQm1rb3RBLXhaZW1oYmFud3Q2NVc0d0RsLUF2S1BGYVQwaVhISzBTeXk1TXNjbFlGTmhGbnJtQWU2YkdPMENLV2FVYWtVNVJZcGdKT003X3EwV1JsZkdqYmJnOWdlM3VUZk5vb0RhWnk3R1NXZW5fcGdrdndLRHU2WWt6bWllV29pN0FOM1JEVXNwM0dmLUctTktLeGtVeUc0dzY1dks0ZjIwUWJMWDFwN0xydkRPTGN2NVh4Zm1Hek0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:51:22+08:00"
+      "time": "2026-09-08T18:00:13+08:00"
     }
   ]
 }
