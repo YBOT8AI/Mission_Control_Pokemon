@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T04:48:01.989250+08:00",
+  "generatedAt": "2026-09-09T05:19:05.818705+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615620.32,
-      "changePct": -0.83
+      "priceHkd": 615863.36,
+      "changePct": -0.84
     },
     "ETH": {
-      "priceHkd": 19476.44,
-      "changePct": -0.3
+      "priceHkd": 19487.1,
+      "changePct": -0.32
     },
     "SOL": {
-      "priceHkd": 809.72,
-      "changePct": -0.77
+      "priceHkd": 809.56,
+      "changePct": -0.7
     }
   },
   "stocks": {
@@ -33,36 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1098.31,
-      "priceUsdOz": 4357.3
+      "priceHkdPerGram": 1098.16,
+      "priceUsdOz": 4356.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.59,
-      "priceUsdOz": 65.83
+      "priceHkdPerGram": 16.61,
+      "priceUsdOz": 65.88
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 738.53,
-      "changePct": 2.97
+      "priceHkd": 738.92,
+      "changePct": 3.03
     },
     "Natural Gas": {
-      "priceHkd": 22.76,
-      "changePct": -2.42
+      "priceHkd": 22.78,
+      "changePct": -2.35
     }
   },
   "news": [
     {
-      "title": "LIV players free to leave after bankruptcy protection filing",
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T05:12:03+08:00"
+    },
+    {
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T04:57:09+08:00"
+    },
+    {
+      "title": "LIV players will have option to leave after bankruptcy case filing",
       "link": "https://www.bbc.co.uk/sport/golf/articles/ce8x39wj5p1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T04:43:26+08:00"
     },
     {
-      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "title": "As election looms, Sweden's government is paying immigrants to leave - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNExJRm5RbmRoeHNXbS1OWkJtTUpVam80Y3RVdXlGSW1Uak51QzZTR2FJRTN6VExJUjZhenoyMnZfLUZ5d2NBMGc1UWlxbjRxc0hoOXgzMnk3Z21Pb05BVkpoVXZxQXZJekdZdzdSWUxnM2FWRlhsWHo3b0pfU2ZVakxkN0FXdnUwSkdyMnY2YWZkbmlYbkhoMFh0d28wRmdVdTk0SA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T04:39:55+08:00"
+      "time": "2026-09-09T04:39:41+08:00"
     },
     {
       "title": "Major UK airports hit by air traffic control problems",
@@ -71,49 +83,19 @@
       "time": "2026-09-09T04:34:36+08:00"
     },
     {
-      "title": "Oil nears $100 after Saudi Arabia says energy infrastructure was attacked - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdkU0bkpZeXNwWmdHY0swdVpzNnN1aThuV1lPSXd5OVFlZmpVQ1dSRkp5SE14U29sdmZQX2NrekNLV0NfZjV4eFlUOW1GVlpuQnA1Wmw4OHJlMllvVGJ4TXJNai1SbDZhcDVyOGdxWkQ2VnR6QmVST2NReHF3Zl9NUkVaNFlnbllGY2Fz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T04:30:29+08:00"
-    },
-    {
       "title": "Duffy puts Ford on notice over China ties, warns of security concerns - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2RtcHlGVHowNm85NjBCQ3lfX2ZSMWlTVmc4azFFbDNBV3JVamljdG1ZRV9JMkh5YXFldl95VWxlaVFnWWUxbFl5blJ4YkMydzg4alhNbmItUnhrd184ckpLU1pHN2IwX2gwaXRlRVdNZ3hYZVBJWjV0VzI2UFlBekx3QXB4NFhnZHhhSnBtY3NFZTBFZ3QzcGNNeFd6SVHSAaQBQVVfeXFMTzhCeWx5TDZhMXllamJVb25CRkF4TnYtTnBsNU9jMjIyc3VQMkg0VmtYSk5KMUJ5ci03LVBiWnVWS0lLdUdqOHp4TXRfMkI0U29kLWhtZTFOejlYamxQdmdKTE1RMXBWT0VnVmpaX0wtR0l0T0RTUkxvX3ZmZ2ZyQm1FeW5DV2tWdERyNWZaelloREVlVEtoaTdCa2xyYjNybFhVN3M?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T03:50:00+08:00"
     },
     {
-      "title": "Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation - Variety",
+      "title": "Penélope Cruz Sobs and Kisses Javier Bardem as ‘Bunker’ Dazzles Venice With Record 15.5-Minute Ovation - variety.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXRNbzNqWGJtMWVPaThqaE1PNlA0OEo2Z0FEMEZWR3BOZkgtVHJtdFJRSXZNLXVEYkQyRGZCZS1WLURSd2MzV2Yxd3JybnVnUGlDQW9JTHVjZHZIemF4ZmhsY3MzV2xmRWtRa1pGWUg4WHE0aElfek04OTB5SHBTOWxGcGstaUJ4Ty1CbF9rUExBZV95QzhtbTJsTFZWYmU3bDhNWQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T03:49:00+08:00"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkxvUk5WMHlpUV9fRkVwNlhrcGJ3QVdleGh0LThTbHZmWjFVTENnWW1GTWQxc2JtM3R3ZkdBZWZZbWNJRkxTSUF3dnpNVl95ZHNVTnFwczJ4QktvdThRdHc1TlBJYW1KYThqeGdhN3FBLXQ0dWJlbi1jMW8xWjhoeW5CSFdNckl2WXEzc1ViZGZlTGNGNnkwdmRIcUJ0cWhFOXNTQjFRMjlXREYwQW84?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T03:43:16+08:00"
-    },
-    {
-      "title": "‘Practical Magic 2’ Rotten Tomatoes Reviews Splatter Bullock And Kidman Sequel - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTE1Q3l6ZmFVQ0IwN3ZYeEM1U3paWWR4QXdlZFRIUFIxM2RzalgtTXhkYi0ybTNZX21xYzIwUmt5MGQ5TGFwYklZSEJJU0ZHNl9MR3I2VlgtdDJpQUdkQlo4TGdlMHVuY1JiYkJEWUxjRGlCUERqSUloOVM3dTc2Q0JUOHozMk9IbTJSbVF0cGlxM2ZUUTlpZkh4RlVvRnk3VEF5N29xaldXVmpFME9LTG53TTY0ZHdMc3ZsbmU4cDI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T03:42:12+08:00"
-    },
-    {
-      "title": "4 family members confirmed dead in Bahamas plane crash, relatives say - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3ctOTNhMkFEandTOEQ0RWVDankxVEhZSXF2LXNueGdHalFTS3UzbXI1cXFFVXZNUVd3VXdOVVRWWjNMbU1IWFM5dExpN1gtdGdidEhDSG0yeFQxQjZfNURLYVFNdDhOZl94OUlJeFVjRVJ3c01JTTBqUUF2VXB3bFJzb1ljTU5nTmhNWkVEelpFNUtLc1AzbmlyTExfaDFiNTk2SkVDU0lqMXh0UUhFdjQ5UnR3UzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T03:41:52+08:00"
-    },
-    {
-      "title": "Lori Loughlin files for divorce from Mossimo Giannulli after nearly 30 years - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXkyNWJqOW82Q3NhRXJEcHNXMzBrYkxzN251QXRZbGM3TkdUcWZ5TU5jTTJjZGZuVE9vZU9pbGpMM1FFM013amtvcTlsOHRhR3ljMnFQWk83MGc3bUc1VS1VbVVLUGRSVUhhbDRTbk1FY0o3RE9PUzJqbm5Qd08zM3pmN3VYRlVJUkoxRmlWS0dpbEtfWHVienVGaU15ZDZESzNqdkcxdzMtWnUwZGNRb3VsY3ZZMTFrVlUyM3E0NUNqQzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T03:41:39+08:00"
-    },
-    {
-      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait - CNBC",
+      "title": "U.S. downplays Iran's seizure of unmanned sub in Hormuz Strait - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uY0c0aHNlR2NIZ1hQWHRnUHVqUngzS0g0VHRmZWt0WWRJd0pvcjQyX25YMlBfd1JudzVyUEdTNHA3ZzFXMmNlMHBQd1FqRTdwSHg3VkVLdGNYNUJseFdWclJGUF9tQmgtVUR2azVrVdIBdEFVX3lxTFBjY0E0dzVIRXhqSlp4LTlJMXVKcDhPQ1Y3YlJ3VjhKWm1fLWdQMXZFM1NWYkhVd3hPMUZZQVRXeldQQ1VlcDBqUnEzeTJDY0hjRTZYUzdibmVpY3dJYVFlSVBRVGg2RENYWXpuNFRTU2VXNDdG?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T03:14:45+08:00"
@@ -137,10 +119,16 @@
       "time": "2026-09-09T03:08:06+08:00"
     },
     {
-      "title": "Canada’s tariffs take effect as it seeks closer EU ties and awaits Trump response - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc1BOQjh6RzR3NkhUTWNocHc3U2RzckMzVGdyMFVwR0JqS3JocTgtbFFwTkwtUU1pTURKNGNma3VpZmYtUExvaHZuYU8wZTlDSEFqemRLc0U0NzhyWUxtaDVxUUp1TW45TFU2MnY5WGhqNFVWd0RPWG1sV1J0N2x3LUFweTlPb0pjcm9YcW9oSS1uTk14cWVIWUJ2Z202Zw?oc=5",
+      "title": "Dow drops 600 points to start shortened week as oil prices climb: Live updates - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLU0tQVNXdFY3ZWtrTi1FYlZ6amcydkpVd3dybUF4T2kzR2ltR1piSzhieUc0LUN3WC1qOGZFdkFrWngxa1FsQmJ2dGpUd0RFVkkxdm5JU0g3d2Y1QU05c0JIdmhrZGNCT0RZb0FjR1hQLVBXaE9LVDB30gF_QVVfeXFMT1VabC1yalpfclNydVBvV2I5ZG9ONmVsX0M4eVRkOTFSZnpaWXo2NGRSMWNRdmhQU2QtdXA3MVA3ZUozVllaV1VIWWtjX1pqaThoQW5CSjVudnNhUHg2WkFOREpGbFFnOG8xakpybEtXUlFqOFN2VElNV0pnbmNPbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T02:56:00+08:00"
+      "time": "2026-09-09T03:03:00+08:00"
+    },
+    {
+      "title": "Pamela Anderson says hepatitis C was ‘death sentence’ that ‘took everything I had in my bank’ - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRFQxVVV1S2Nib0ZuUlpBd2lyZXc0NGR0WkVRVG5uY2FuT0ZlX3ZyYlJ0QlJpSF9Dc21QSkhfV0xFOUNmb1R2WnQ4ZklhMWdjWmhVOVp3UmhNSU1kbHBsR0FCUEl4c3VtMTVZWlgtaURpRm53aEhkeUNJQ1pUVnI1WXFBMVE0ZVlXNWZsVXJkY3ZpTUpHVHdCX3ctc1Ewek9KM2hpWHdpVTdQVmtnU1J1NmJOXzVlaVZVbEFaUWdSNS1qbU9QUWktRS1YTWpvdEU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T02:31:06+08:00"
     },
     {
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
@@ -167,10 +155,22 @@
       "time": "2026-09-09T02:00:00+08:00"
     },
     {
-      "title": "Lindsay Clancy’s Ex-Husband Complains of ‘Relentless’ Harassment - The New York Times",
+      "title": "How to watch Apple’s foldable iPhone announcement - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkVqVjZjTk5IQ0RBMmJHaEpjWGpSamdIck5MWVh0a1J6dU5BTGdyNERmQXU4c2kzQ3Z1WTF1OHM2UUU2VXFEVW1JYnhPVk9OQUlBbGYwamdqLTJqaXpPMWt3SF9WZGRrazJsVTNDSFcxWTBQODNZM3FNell2Y21Bd1hONmU5WUwwSW1V?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T01:46:53+08:00"
+    },
+    {
+      "title": "Patrick Clancy Plans Legal Action Against ‘Relentless’ Harassment and Conspiracy Theories - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZF9nRWZQQ1VGVlFYSmJzM0NiV2VweDVaMjNyd0l1R0JMWTlPZ0pfTjRWeUxZUkdEcEJibWdCWFozSkxldjF1QUl5QncwVlpVNWtWZ05BaDYwSmw0WmdTQUZkU0Zld2tSelBUa1lOaklhVzJlRzdvWWlILXl3bkl3UnhDNmhvOWxiX0E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T01:46:07+08:00"
+    },
+    {
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T01:41:42+08:00"
     }
   ]
 }
