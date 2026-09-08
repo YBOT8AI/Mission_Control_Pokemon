@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T14:17:40.585436+08:00",
+  "generatedAt": "2026-09-08T14:48:47.055097+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615910.4,
+      "priceHkd": 614969.6,
       "changePct": -1.53
     },
     "ETH": {
-      "priceHkd": 19394.83,
-      "changePct": -1.38
+      "priceHkd": 19333.83,
+      "changePct": -1.34
     },
     "SOL": {
-      "priceHkd": 807.76,
-      "changePct": -2.16
+      "priceHkd": 804.78,
+      "changePct": -2.28
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1111.31,
-      "priceUsdOz": 4408.9
+      "priceHkdPerGram": 1111.09,
+      "priceUsdOz": 4408.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.7,
-      "priceUsdOz": 66.26
+      "priceHkdPerGram": 16.73,
+      "priceUsdOz": 66.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 734.37,
-      "changePct": 2.39
+      "priceHkd": 736.02,
+      "changePct": 2.62
     },
     "Natural Gas": {
-      "priceHkd": 23.14,
-      "changePct": -0.81
+      "priceHkd": 23.11,
+      "changePct": -0.91
     }
   },
   "news": [
+    {
+      "title": "'Good to have choice': Australians on opting out of social media algorithms",
+      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T14:20:10+08:00"
+    },
+    {
+      "title": "Trump threatens to stop Canada's Bombardier from selling in the US - euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc0MtaGJUNTE2RG9yY0VnNEpnRk9BS252eHBRX1R3Q05ITWpJOVc1OVFKVk1YZm9aSDV5RGVCcXNEQ00tNHViZHh5aTZ5b3lqZ2tuaWh4dVNLRnlhMVlNQ2Y0WlJEVlNxVmt2YnBoMjRNS2FlcHJpOWR6dG93eFF2Q2RJTEpIM1hUYUkxTXhJdG9kS2RHNG1IR2pzZk14aEZxYkZYVjg1X0pPaHVtZUgxV2ZBdFpoRmRo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T14:15:33+08:00"
+    },
     {
       "title": "Food price cap plans giving farmer 'sleepless nights'",
       "link": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
@@ -59,10 +71,16 @@
       "time": "2026-09-08T13:40:57+08:00"
     },
     {
-      "title": "Christian Gonzalez, Patriots agree to four-year extension - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYzk5anJhbFFnNnlEb1gxMkw3eENTVEx6ejNlX0tlYkdxTlkxRFB4SEZzQnVNY0gwVEZjM2d3VS1malZUcmpKMGliUURaclJhb0JXeFZpWTM3NS1JQ3M4R2ZfMW5mcjZCTER0V29WenBQQU8tdVBudGVtOUlNTzQ2OU9talZrY09iOWg4TTJ0UlFEVEZ0RkUzN2NvaWlMc19BeTF5T2NTWVhKYi1DbW5WM1h0R3dSRUVPR3c?oc=5",
+      "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan, after their return to the UK - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3EyV0doc3ZRNnpqU3NvaDVuc1FDVjByeFZwbmRLbFBQUFI3VldTYjhtWEg4XzZHU0dfT2JmZWdYZnhabXFXRXZFQm8zWG5ybWx6aUExY0R1QlhBa0VRaWM2XzVQRU5zQ1RkS0lCcEdITlR4Qm1nZGtlWmZqaFF5bUR3NGVvWnZTaDE0S0hVeTFEZ2VJa0x4WHFxbVRxOWVzVU9qMUpCbXJJZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T13:12:49+08:00"
+      "time": "2026-09-08T13:33:00+08:00"
+    },
+    {
+      "title": "Sources: Christian Gonzalez, Patriots reach 4-year, $135M deal - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2ZLS3kwZUtrTDg2ODU3MDdkS0FBRUJveFFMX0M2ZjVsWG9tM0xkTzhZbjU3Z25KdjFfclBIY2ZGLXFiakJvNUZtM29tRktwOEFiWjVjUjdQS0RoMmRpaHQzREJwS3E5eE9Pc3pyUmh0ak05VkJFYjRUT1Z5VlBwV05IMXRyR0R6RXlHUXB2LWt6MVRqaDNoZFNqYnlXSUdiTzBldlZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T13:01:00+08:00"
     },
     {
       "title": "'JLR job cuts a cause for uncertainty and worry'",
@@ -73,14 +91,14 @@
     {
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "source": "BBC World",
       "time": "2026-09-08T12:39:14+08:00"
     },
     {
-      "title": "Canada Set to Hit at Trump Tariffs, Risking Wider Trade War - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZE0tVzdBN21qWjZjZTVSV2ZhX1VibDN1eVgwcjZaeUxlR0RhRGVNWlN4ZnBiSkVlTUNiTXdPdW9BYjFqMWVtcHlNR01iNEJnbHZrM2stLUpMR2tFS3lCQnNLMnJiTVB4OUMyMTBqaG8ta0FLUW1rcVotbEJYbWZONXNOQnVfb2RGcFFBbkpUZU9nSmtUS1o2QnFrSFhMQmp4TVZ2bVFBaHd6Vmk5OXY4Y3lwc2g?oc=5",
+      "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T12:01:00+08:00"
+      "time": "2026-09-08T12:03:08+08:00"
     },
     {
       "title": "North Korea and Russia open first road bridge linking both countries",
@@ -125,40 +143,16 @@
       "time": "2026-09-08T10:37:00+08:00"
     },
     {
-      "title": "Trump calls for a Bombardier plane ban, drawing pushback from a GOP senator - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmdvNUZJWEc5LWNIVjRqNzVSSS1oY2lmNkR5RS1hNTZPQUkxak5RRWZsY050VGNWc2dCbXBJZDZXalZfOGc4RHVYTHJhN2JjV0ZhTmcwOGJvdmxyLWdjTlhOaldQcjhQWDhHYjFrWjNRcHp4UExsQ2UwOW1sdlI5YnJtTHY4S2hQZ0tQOVNuQXdvRi1BR2NFRHQ1dDVFWWJfbWhpYmFxZ1JxNjFoNy1pSGtsR24zaU5LalZrVEp0LUluLVlQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T10:34:00+08:00"
-    },
-    {
       "title": "Mistrial or retrial, Lindsay Clancy faces years of confinement - NewsNation",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUFJ1cXMtZW5PMTQ2Y3hxb01GUFhHUWJocklQWlFmajBPay1PbElmSm5vczB4TDBXdnhxa2hwc25PX3BJOGxKMHQzNWY4ekZoSDhYbGQ0dFBIdkV3QTUzZGRVT1dwY2NnU1J5bksySkNBdVFFbUxzaF85MFcteHpOQUFHaE1qT2x6RVp3a0xfajN1OXMyQXgwbVdudk5kTnPSAaQBQVVfeXFMUGp1MDJNWWhDaFBVZUZnZ3A5QUZ6bkVlVXEwU0FTZ3VieGxxejhfZ3NJcFh2UXRHTFc5ay1vdDI0ZjQwNEVabVVyTjVBcGRDSDNRRVBXUFpwb0stNmlJM3AzX2puZXdaTFdlZFhYX2I1WHdHbV96R0tkVEdkUFNYaTI4Z3RLeDNYNXM0ZFZseGNuSC1lU0Jzd3B0REhiMy1QWllPWFc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T10:31:23+08:00"
     },
     {
-      "title": "King Charles III clarifies status of Prince Harry and his wife, Meghan, after their return to the UK - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT3EyV0doc3ZRNnpqU3NvaDVuc1FDVjByeFZwbmRLbFBQUFI3VldTYjhtWEg4XzZHU0dfT2JmZWdYZnhabXFXRXZFQm8zWG5ybWx6aUExY0R1QlhBa0VRaWM2XzVQRU5zQ1RkS0lCcEdITlR4Qm1nZGtlWmZqaFF5bUR3NGVvWnZTaDE0S0hVeTFEZ2VJa0x4WHFxbVRxOWVzVU9qMUpCbXJJZw?oc=5",
+      "title": "UK moves to sanction Israeli settlements as PM Burnham risks clash with Trump: report - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2luOTlQU0hia3ZZbkxad0tMVU1aaWVwVFd4cXoxdjY5QjdzYjlRTlJSRWZwbzY3ZF9yVHBGSnZ4SkZyLUFQVVoydENRbS11R2FVT2tnWlZ3cW5uYXZrMGI1WlpOd25ob1Y2WktwSDdDSGNwVXBlZGpLMnZ3OXN4QWZLSm1IY0l2Y3FNUk9qTWFrV1ZLU2pIbXF1bXQ0TGdSeDRoc19B0gGrAUFVX3lxTE5mcG5xbFJWdnRtSzV6WlJWS0hEUXY3RU45VU1GTG81ZEVVSDNKb25ZRzlCa3VHMDFvSGxLMXZGQkpzdUVobVdPTU1TUF85STBIc1QwX2JCcUxxNkhVUUVzOXdJMVZCVjYzemZ1aHZCYVQxWDUxZkFZR2lLVkNYaVhKVFdvazJQc2xwYmptUXZLYWZFX0d0NmhoNmc1MXJ1Q2dNQU1xZGVhcG1LRQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T10:22:00+08:00"
-    },
-    {
-      "title": "Pope Leo XIV unveils a fresco at the sanctuary where he prayed after his election last year - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSTBfZVpuWEZhdTNBM3ByZFpOazRsWHltczliNF8wdk1MeUF6RlloZWJHM2FwM3VJT2RKNExnYk5MLWxoMmNPVDZlUnoya0ZKeUhNOTJva21TRzFLWGxVTll5NmhmanhRaWlYcW1oQlpqd29ZblJYbW9vcjNzTTdNZDFNWWVLalRsTkE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T10:10:00+08:00"
-    },
-    {
-      "title": "After 9/11, Documents Suggest New Yorkers Were Misled About Air Quality - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUUVEbzRaTnM5NjV2bDRxYzFrVVU0TFVLWlNGeTJaZzRRbkRaNUw1eTllSWlKVVIwWENBOEFBOUtZVnV4azB6U1lrQi1yT1pLU251UmNZRUw4ZTFzOUxxbEk0U08yTVlRbVFoOTVmcW1qV0ptR2ZiN2tqakhsU2RuZg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T10:03:58+08:00"
-    },
-    {
-      "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-      "link": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T09:50:55+08:00"
+      "time": "2026-09-08T09:58:28+08:00"
     },
     {
       "title": "'Pay your power bill': College football reacts as Florida State-SMU game delayed by outage - USA Today",
@@ -171,6 +165,12 @@
       "link": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T09:32:56+08:00"
+    },
+    {
+      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, given hero’s funeral in Serbia - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDQwV0N5TEVua05mMi13aVo5TnFoTVVIRHlDVjllLWh1RTY3bm13NkkzOHRDZU5qYkNOZlFkRzZhTlZjYnFjV2ZLdzJPYzB5R1FUR1RCRW1ISzZYSzVySC0zSXUxbTBVM0ZZVUMzUVAxZmswQVhIYTVMaEZoYkxiVU1UdldVbHdYUlNFczhqWkY2NjVvaFJGT3F3X1YxdzB3N0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T09:30:00+08:00"
     }
   ]
 }
