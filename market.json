@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T19:28:30.154800+08:00",
+  "generatedAt": "2026-09-08T19:59:36.862916+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615016.64,
-      "changePct": -1.25
+      "priceHkd": 614757.92,
+      "changePct": -1.22
     },
     "ETH": {
-      "priceHkd": 19407.92,
-      "changePct": -0.66
+      "priceHkd": 19390.52,
+      "changePct": -0.61
     },
     "SOL": {
-      "priceHkd": 807.68,
-      "changePct": -1.76
+      "priceHkd": 805.48,
+      "changePct": -2.09
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.65,
-      "priceUsdOz": 4402.3
+      "priceHkdPerGram": 1110.73,
+      "priceUsdOz": 4406.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.69,
-      "priceUsdOz": 66.19
+      "priceHkdPerGram": 16.73,
+      "priceUsdOz": 66.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 734.53,
-      "changePct": 2.42
+      "priceHkd": 735.71,
+      "changePct": 2.58
     },
     "Natural Gas": {
-      "priceHkd": 23.39,
-      "changePct": 0.27
+      "priceHkd": 23.56,
+      "changePct": 1.01
     }
   },
   "news": [
+    {
+      "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+      "link": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T19:59:02+08:00"
+    },
+    {
+      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
+      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T19:38:07+08:00"
+    },
     {
       "title": "Argentina targets oil company operating in Falklands",
       "link": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
@@ -65,10 +77,22 @@
       "time": "2026-09-08T19:00:22+08:00"
     },
     {
-      "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
-      "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T19:00:10+08:00"
+      "title": "Top Mathematician Announces New Institute for A.I. Safety - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNmdRVVJaWEZySzcxQ19OZXNJVVlrc1lIRFNMdzN5TDlzdjNrSE41bHZ1bHd4YVRYNUFCdHdHd3J3OGVrRzZ0Qk5IQUZTc0VhLUF1djE5MFFOazR0TG1VVF95Y2xGSVo5NnpiLUFJNjdiOXllSURWVzU2bXZRX2JEekItSG8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:00:06+08:00"
+    },
+    {
+      "title": "The U.S. is trying to reduce its reliance on China for batteries. Here's what it's up against - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzhYamVUcFlaMWpQOHZ1WGQ5ZW1zekdQWF9MRmViX1RGaWs0cmhPZXJ0X3hPY0tKZXRIZWdWZGlzWG0yQ3BlLVVvUzRCUXFyYWVwSk44M1ZIRXpXXzVjWDE4SUVOeXdRZ0pWTHR3aHFtUGtoeTJQaExaVnpDME5wQjRVTXhycEN6cXp0M2pUNlgwdkdZQU4wMNIBngFBVV95cUxOWXpIOWxJQjJnWGlON3pRUDF1bHJDMWY0dEM0X0w5SFVmRGtqc3NDYlhkaHlLSEU4VXBsSnBDM1hzLTFlM21tdUJ4VzFiYnJFYmlOLVJzdjg4WnNnbnVuNXdMTEM0dERCb2daNWxvWmdoTVZsbWlmLUVPaE1BdldMVmM3ZlZaWllRRllaYVJNNEdGQ1ZEYVBrcGNQb2E1UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T19:00:01+08:00"
+    },
+    {
+      "title": "Has the economy gone C-shaped? : Planet Money - NPR",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTFpVlo0M2ZybWhZVF9sMFdDM2ZWWnFBZUpMQ1kyMHVwYXZ5UGw2NGViaWZvY1A1cVBOQk5EN1FRTTBGSTlMcUhUeU9Uczg3dUFKdTkyZnNIajV5UHQ4bXRwSzBGNTNLcGFKRnZJc05qYjVna0h6YXFydlVuM0VnQzdWUkJEd244bXFwQ1YyMUtZQS1MMElXcXFn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T18:30:00+08:00"
     },
     {
       "title": "At least two people dead after Russian strikes on Kyiv",
@@ -83,10 +107,22 @@
       "time": "2026-09-08T18:19:52+08:00"
     },
     {
-      "title": "Skyscrapers and smokestacks: the grittier side of Georgia O’Keeffe - theguardian.com",
+      "title": "Skyscrapers and smokestacks: the grittier side of Georgia O’Keeffe - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNnFKRkVWZ2k2Y1lXYzY2VjhHcXhLSWNMdlR2em5UTmRUTGJLbDZKWm1HU3J5VGRJQ1FSWlNKc2g2QXhzUVY1c05zbTIwTTNWSWEtOVNfMW9xRHJ4OXlxdGpwREhJaEhGMXRJbjM3SnluclBPVlBXTmt0LTI1VVZpZ01yQkdLZkRyS1JocA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T18:08:00+08:00"
+    },
+    {
+      "title": "What the Christian Gonzalez extension means for the Patriots - Pats Pulpit",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1ZvNG5NLWJKdm9DYy1JOUZfVktNbXpsY2hBam4weWdRRDBnd2VBTkZidHUwU0VsS1U2YkE4VjRRNVZkU0RIOHctSDlIZzl2RVozeHRvM1dMNzVuQUNNWGFpbnFOdXBxcng5RzZ0RmhGRlJmUWRHN0M0aENoLTVzVjlYdnVxUXpCRk1pREFOa3dPMjFCT05ld3ZucTZUSDhlaUphSVI1NXZmbW4xWERDQlNCV2MzZzlsOXQ1N1oxcE4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:44:21+08:00"
+    },
+    {
+      "title": "Harry and Meghan 'surprised' by King's letter making clear they remain non-working royals - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xMmZabkRRUmlMS3Y4dkdvZk5IaUI4RmRhNVdqb2RrYmplY045TEMzcEp0UEpOYkwyeUVPU1BZQjNWbnMxc2ZmeHJfbDlQVmNlU1ZmenJ5cWJsZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:43:53+08:00"
     },
     {
       "title": "A Far-Right Win Puts New Pressure on Germany’s Leader - The New York Times",
@@ -95,7 +131,7 @@
       "time": "2026-09-08T17:43:49+08:00"
     },
     {
-      "title": "UK set to sanction Israeli settlements in the West Bank in major reset of relations - cnn.com",
+      "title": "UK set to sanction Israeli settlements in the West Bank in major reset of relations - CNN",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzBWcUdBbXVlRk9fVjQ4THNiSVRQZWhGblhkbGRBMFJCT2dxSWs5MUtMU3lQWV96aGRoal9ncHdSZUw1bWZGa204a0VHOFNfSlhDcXpqTXhCTm1VOGJGZ0FidUFTMnZlcWpQb2V0V3ZZUGFVM2ZXcERHVUw5bFhMTzd4Y0w4RDFSbXRjbkVnN0xFQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T17:37:27+08:00"
@@ -135,42 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T17:15:46+08:00"
-    },
-    {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people - npr.org",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQcXFTQzJlWGRBYmdVMnQzbVVFS2k0M3Z2MXdTNnF5T0ZiSzdXQzBaZ01tZTNFSTZVQWRSbTl6TWdZU3d5bDJTZFpHbllFUFlNVVZRdFZxcFljQm1ENmNxaVlnd091aW5kVnpXOHVVZUNJNzd6aHNTYVlR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:09:46+08:00"
-    },
-    {
-      "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
-      "link": "https://www.bbc.co.uk/news/articles/cq63m88ymqro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T17:00:28+08:00"
-    },
-    {
-      "title": "New Hampshire primaries test Trump and the left - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT21MWk9qSDVzUldnZTVpX2ZOR01BMWxiY3BqMlc1MkV6RzMwSU4yTlRKWkdHdHRUcTNhRncwZklSRS1FN1BkY2lESnlWYjNUUE5RNVIza0xlWmZxLU9iMTJGa25ramZicURpNjM2U2lkRU1qVEpsMTUxQWxKWHoxNkVvb1hJUlpsV2tfYnhSN3A1OVJ5aDRrUnRBSUd3QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:00:00+08:00"
-    },
-    {
-      "title": "Shetland spaceport project secures £30m of UK government investment",
-      "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-08T16:48:33+08:00"
-    },
-    {
-      "title": "Republicans are hoping ‘Trump-a-palooza’ isn’t only about Trump - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSWtqamxyaFpPMnFrRUJzSkNnMVdsQkhLX2gya3hxWHlLcXZmV0VWZVYtdDQ0S0IyQ1djVFEyb3hpb2J0RVFTX2s4OGFmcHJ6TmNoUjA4eU85Q281Ul9WVjVJUjFnNHkzejNlS0IxS2NuTWp6eGdRNnhQcHZkSGo4SkdTaTJqWEZpNWVURVV1QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T16:45:00+08:00"
-    },
-    {
-      "title": "Nepal cracks down on online abuse of flood survivors",
-      "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T16:31:01+08:00"
     }
   ]
 }
