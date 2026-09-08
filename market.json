@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-09T02:43:43.263488+08:00",
+  "generatedAt": "2026-09-09T03:14:43.982548+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616239.68,
-      "changePct": -0.64
+      "priceHkd": 615134.24,
+      "changePct": -0.88
     },
     "ETH": {
-      "priceHkd": 19561.74,
-      "changePct": 0.31
+      "priceHkd": 19495.57,
+      "changePct": -0.14
     },
     "SOL": {
-      "priceHkd": 815.12,
-      "changePct": 0.21
+      "priceHkd": 810.58,
+      "changePct": -0.49
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5530.81,
-      "changePct": -0.36
+      "priceHkd": 5526.89,
+      "changePct": -0.43
     },
     "SPX": {
-      "priceHkd": 60285.68,
-      "changePct": -0.38
+      "priceHkd": 60242.09,
+      "changePct": -0.45
     },
     "SPCX": {
-      "priceHkd": 1204.77,
-      "changePct": 3.87
+      "priceHkd": 1209.47,
+      "changePct": 4.27
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1105.37,
-      "priceUsdOz": 4385.3
+      "priceHkdPerGram": 1102.37,
+      "priceUsdOz": 4373.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.73,
-      "priceUsdOz": 66.38
+      "priceHkdPerGram": 16.68,
+      "priceUsdOz": 66.18
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 727.24,
-      "changePct": 1.4
+      "priceHkd": 733.98,
+      "changePct": 2.34
     },
     "Natural Gas": {
-      "priceHkd": 22.88,
-      "changePct": -1.92
+      "priceHkd": 22.94,
+      "changePct": -1.65
     }
   },
   "news": [
@@ -56,13 +56,25 @@
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-09T02:40:49+08:00"
+      "time": "2026-09-09T03:11:39+08:00"
     },
     {
-      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - washingtonpost.com",
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T02:33:28+08:00"
+      "time": "2026-09-09T03:06:02+08:00"
+    },
+    {
+      "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3FqZ1FlLXJOLVExbEw1MUZBakplWG9iQjFJellvaWZ5MmhfU19sU0dtYUZmN0R1NGt4WEthLUhnY2RmZGpmRW9SQUl4enAyanlpRnpxRDVwSHVFNENyNjZJc19xZUlyQ2JyelN1VkRUVDhsS1dsV1o3N01HczlGTVJrcS1xLTA2NkxObllzTmZBRjJoX0RxamNrOGo4N0wwQ0FPY1QxQmhXMVRMQTl5SFRVZWVPM0NlZ0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T02:50:00+08:00"
+    },
+    {
+      "title": "MAC to appeal controversial Western Michigan loss, says replay error gave UM extra second - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWQ1YzI3bEJnaGRRVXg3eEdUN1BobnJyUFFGR3p4eHFFeGc3NmFTcW5tOFhYLWs3RExKelhHWURaUGN4Wkt5aXVYbmp5UklHMktwMTFwUmlLelAxeGRqSE9BTlg3YkNEeDJMa0xIQWk0aVVSdEVDUnQxZjNJRTZxNWxJcHQzTngzWmhqNi12d3MwT2FacnJ2MmRCYWVRa1Y4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T02:34:33+08:00"
     },
     {
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
@@ -71,16 +83,28 @@
       "time": "2026-09-09T02:21:40+08:00"
     },
     {
+      "title": "AP Top 25 poll: LSU climbs, while Michigan falls out and Oregon tumbles in Week 2 college football rankings - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRnFhTUNmQXJWdDZaUzJsVTg1NVhEQU9MRXdsdFlFY2EzNTRZR0VKeDF3cFhfWDJCNmhraEw0d0dVdlo3UXJ4TkxIck9aeG1nSXZucHpSZVF3eFlHOUlEMFRpdTRjLU9CVWE1TFNYdjhqbGJTWkVlMm1Ya1VTSDY1LWhQbkVkaVViczNVMWRJZkhlU1VX?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T02:13:24+08:00"
+    },
+    {
       "title": "British widow faces deportation from Sweden after 22 years",
       "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T02:02:42+08:00"
     },
     {
-      "title": "College Football Rankings: AP Poll Top 25 after Week 1 released - On3",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeVVXTmtBMi1Kb19EVEhtenlxdmxBVnhaRmFqWjJZUW1UcERGc0FvNndVQUM2MFlqU0JJSmJ2SmlPRDBuOGNXRm4zdG5NWDBMb0JucWFkQldOUFU5VWxrYWlGQXdTSE5WSlYzQnhxSDIxSFhuVGFyaXpjQ3BYbTVRMFZ5MG0yaEtNekdQRnBXRWpoZw?oc=5",
+      "title": "Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0poTVFQM0VJOW13UGhOQkpXa1hYNm5nZUVhTVhvaFNWZGN4UEo0SzVvMi13TG9pc2NsRHVQa2dVdFJJazZPVDliRXlIMVBhT1laY1BPZXBpdVB2QTZOQnJ5a1JpejhyR2FuU2dPSkVSNDNQRWw1dHBtMDRFcTJNNF93VjZEMkRpelBwTl9LRnczejc4YklvYncxWE9lZDQteW9jZmdXVjMtNmRraTdRNlQtWDJ6cDNvYWc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T02:02:08+08:00"
+      "time": "2026-09-09T01:59:14+08:00"
+    },
+    {
+      "title": "Lori Loughlin files for divorce from husband Mossimo Giannulli - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnRsdC05UUdHVWJDU3dVN1Y0alI5ZndGd3ExSEowcWRSR3cybmlrSmQ1NU53VHJJY3Y0Y0VmRkc3aDFabGRrT0pZRmJTSDlTejRfS2pIRnpMQTBIUVRhb0p2eENuNm84UEFlUmxLZXowcUpqR0xCOWJSVkpsdFQ0QjRFNXNHRXRoUmZLOThHSUVTYmNvdUtVOWpmWUVOLW91VFU0YzZFX1hTT2duMDZuSWV0Ti1SSGZwT3RKWkJxcEE4aWVadl84?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T01:59:00+08:00"
     },
     {
       "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
@@ -93,12 +117,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTE1Q3l6ZmFVQ0IwN3ZYeEM1U3paWWR4QXdlZFRIUFIxM2RzalgtTXhkYi0ybTNZX21xYzIwUmt5MGQ5TGFwYklZSEJJU0ZHNl9MR3I2VlgtdDJpQUdkQlo4TGdlMHVuY1JiYkJEWUxjRGlCUERqSUloOVM3dTc2Q0JUOHozMk9IbTJSbVF0cGlxM2ZUUTlpZkh4RlVvRnk3VEF5N29xaldXVmpFME9LTG53TTY0ZHdMc3ZsbmU4cDI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T01:46:12+08:00"
-    },
-    {
-      "title": "Lindsay Clancy’s Ex-Husband Complains of ‘Relentless’ Harassment - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZF9nRWZQQ1VGVlFYSmJzM0NiV2VweDVaMjNyd0l1R0JMWTlPZ0pfTjRWeUxZUkdEcEJibWdCWFozSkxldjF1QUl5QncwVlpVNWtWZ05BaDYwSmw0WmdTQUZkU0Zld2tSelBUa1lOaklhVzJlRzdvWWlILXl3bkl3UnhDNmhvOWxiX0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T01:46:06+08:00"
     },
     {
       "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates - Yahoo Finance",
@@ -119,16 +137,10 @@
       "time": "2026-09-09T01:41:24+08:00"
     },
     {
-      "title": "Prince Harry, Meghan Markle ‘surprised’ by King Charles’ letter on royal status - Good Morning America",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd2RCMkZkNEFiTUdieDVTQXcyUGFRMGlZSWtmX0NGVXVpZmVMWjZYQXY5bURJa3o4OHhVQ01ZY2VpM1RNT1lrNFFZMjVybm5jY0ZlWFB1VnhVTGVsLWxXUE1jeXFPVkJySFd6ZDBtbklhSzdkMWtVYUhqQ0xTeFFpNUlyNXV3bFBEVFdMQ3NHaXFXTXJaSVJvWnBpdG5rQUY3TEw5VzhEWXh6TmJncTFN0gG0AUFVX3lxTE5VWVNpNFpWSlhBaE85RGx5dWtEOEFZbmxRQmlaTFlDVHdwdmpSRVotTG5lRmZaOG5CUm16Sk5Fby1VZWY2WmdkbU03NjJVQnhGWjBMc2M3SHhaa0ZVb2Q5OHN1Mm5QeTg2RllVODZ1c0ZTcEhwenBCMmRaSVZMNVllOE9RVVdFM1JacUdxOVFvR2JyMk5iUnJzaERlcDFyeU9heHlsbFdpWEtCSmFzSU9hRnpjMA?oc=5",
+      "title": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet - macrumors.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWdBcUkwSEw5SkZwUGVvc0E5UHJxOWZBbExxV3NYR2tTVm9oYm16SFVvWGFxcDBRWUd0VG0yQmhnWk9DZmw2SjdaeDBCdmJWQ3NkVzlkdVRFc1dzelhPMVo2WXVaUVQzNnpTemhDVmloZzN6Ni1HR1h2WnpXTHc2TFNUTF9kTUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T01:29:02+08:00"
-    },
-    {
-      "title": "Lori Loughlin, husband Mossimo Giannulli to divorce after 30 years - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnRsdC05UUdHVWJDU3dVN1Y0alI5ZndGd3ExSEowcWRSR3cybmlrSmQ1NU53VHJJY3Y0Y0VmRkc3aDFabGRrT0pZRmJTSDlTejRfS2pIRnpMQTBIUVRhb0p2eENuNm84UEFlUmxLZXowcUpqR0xCOWJSVkpsdFQ0QjRFNXNHRXRoUmZLOThHSUVTYmNvdUtVOWpmWUVOLW91VFU0YzZFX1hTT2duMDZuSWV0Ti1SSGZwT3RKWkJxcEE4aWVadl84?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T01:27:00+08:00"
+      "time": "2026-09-09T01:24:56+08:00"
     },
     {
       "title": "Fourteen go on trial over deadliest Channel small boats disaster",
@@ -137,40 +149,28 @@
       "time": "2026-09-09T01:24:25+08:00"
     },
     {
+      "title": "Trump asks Supreme Court to restore states’ access to citizenship database before election - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmdTUmlYc2NER2hGS3E3aWVXc1pTRm1LSkw1dzI2VVBzemNzSHBrS0JQcFpVX3pUci1MY3JQX1FvNVZYcFZ6Zmo2dmtFallsV2hXV3p6cVctcm5WWUFBWU92UlZXZm5wVzRxQkQ2R2VpVzdRMml4aFNDclVMTG9IS04yVmc4UFg3Yjg4bEZ1UXNXWGtFUG5kU3I1clAzM291bzhMMkpQamc3bHRNZG9kWFdITnRlcE5kTXp4dF93YlBBZ0VVUU5sZHhn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T01:23:00+08:00"
+    },
+    {
       "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T01:10:54+08:00"
     },
     {
-      "title": "Where is Israel's proposed West Bank settlement the UK opposes?",
-      "link": "https://www.bbc.co.uk/news/videos/c74k1lw9nwko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T00:45:32+08:00"
-    },
-    {
-      "title": "2026 NFL season predictions for Super Bowl winner, MVP, top surprises and disappointments - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeEJURWNHU2NCOHoxVHNVMmE1ZG1CNG5JYXpsREVuYnFCZS00Nk5mNFpYQ20zRFNMZWZGUVVjd0w4Zlc5ODBGQmpfZ0YyMXRCOG5xSGVrSk1YQXFVUzYyV2Jpd0FUd2REcmVEUzNiMHE3WkRMNTRBTEU1blFaaWtxaG9jOXhxME9NNWtuaW13VW5PY0MxVnRzT1NrbnBWa0hsT3B1OFBlTFp0SENGYWNNMkc2RW41TXh3TmRfX2FDZXlqQXB3ZXRHUlZjTVRYSU1UM2ZnZVJn?oc=5",
+      "title": "Iran-backed terrorists escalate war with Saudi Arabia as US trades strikes with Iran - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EWVRZOWsxbmp1SmZRd19JSldrbVloX0pjcXViM3dFRVFwTkY4WnRYNDJSUVVVQ0tqemlRcHdoOTk4TWJDYWc1dWlXU1RwVEVMX1hSWUJzdV9YdUVuVGduZ2taSjA4RXpOQlgwWTFOWUVwQzNRdmtEb1hFYUY?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:40:15+08:00"
+      "time": "2026-09-09T00:56:09+08:00"
     },
     {
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T00:38:03+08:00"
-    },
-    {
-      "title": "Bombardier, a Canadian Jet Maker, Is a Target in Trump’s Trade War - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnZhSEptOENzYndSTGpLdWs1eWg2WnoyMHpqT0tqMnhQblU5eUZBQy12azdESmdCWDJPVWJnMUkwb0g0enQ2enFRdzBTWGhQQVhfTS1KTUtwVWxENE83aHZlbk02RHhrajd2V0NVLU1lM2pnMF9tLTFqN0dBUzhzYTVQaUpJQjJlaGUwNVhJOVhNQQ?oc=5",
+      "title": "4 family members confirmed dead in Bahamas plane crash, relatives say - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3ctOTNhMkFEandTOEQ0RWVDankxVEhZSXF2LXNueGdHalFTS3UzbXI1cXFFVXZNUVd3VXdOVVRWWjNMbU1IWFM5dExpN1gtdGdidEhDSG0yeFQxQjZfNURLYVFNdDhOZl94OUlJeFVjRVJ3c01JTTBqUUF2VXB3bFJzb1ljTU5nTmhNWkVEelpFNUtLc1AzbmlyTExfaDFiNTk2SkVDU0lqMXh0UUhFdjQ5UnR3UzA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:28:58+08:00"
-    },
-    {
-      "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T23:57:06+08:00"
+      "time": "2026-09-09T00:51:23+08:00"
     }
   ]
 }
