@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-09-09T00:39:20.408181+08:00",
+  "generatedAt": "2026-09-09T01:10:32.058311+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616929.6,
-      "changePct": -0.38
+      "priceHkd": 617831.2,
+      "changePct": -0.33
     },
     "ETH": {
-      "priceHkd": 19551.71,
-      "changePct": 0.62
+      "priceHkd": 19583.54,
+      "changePct": 0.52
     },
     "SOL": {
-      "priceHkd": 815.75,
-      "changePct": 0.34
+      "priceHkd": 816.22,
+      "changePct": 0.2
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5528.18,
-      "changePct": -0.41
+      "priceHkd": 5532.37,
+      "changePct": -0.33
     },
     "SPX": {
-      "priceHkd": 60260.12,
-      "changePct": -0.42
+      "priceHkd": 60304.34,
+      "changePct": -0.35
     },
     "SPCX": {
-      "priceHkd": 1210.31,
-      "changePct": 4.34
+      "priceHkd": 1200.26,
+      "changePct": 3.48
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1107.96,
-      "priceUsdOz": 4395.6
+      "priceHkdPerGram": 1108.77,
+      "priceUsdOz": 4398.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.73,
-      "priceUsdOz": 66.38
+      "priceHkdPerGram": 16.78,
+      "priceUsdOz": 66.58
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 722.53,
-      "changePct": 0.74
+      "priceHkd": 723.55,
+      "changePct": 0.89
     },
     "Natural Gas": {
-      "priceHkd": 22.5,
-      "changePct": -3.53
+      "priceHkd": 22.59,
+      "changePct": -3.13
     }
   },
   "news": [
+    {
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T01:01:51+08:00"
+    },
+    {
+      "title": "Trump threatens Canadian jetmaker Bombardier, which has an extensive US footprint - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmRxSDVSaGtVRFo4OG1zYjJXOVpUa2t6QTFvWTVKYmUxQ0J4UTRlRUVPSGlKRC1TVHkxaWIxSEsyZnExYmh5WUhJRW53ZDYxVWlBNjg5SVRZNmUxcVRveVdnRkRZNE9leDlTZ2ZnNXRnWTZoSG4xWmVfMkNtbV9PbEJuRldIMFNFbDliTFFjMERBeVY2aWhienpCcUhqb0FvS3lkWDBoVEo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T00:48:00+08:00"
+    },
     {
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
@@ -71,10 +83,16 @@
       "time": "2026-09-09T00:23:01+08:00"
     },
     {
-      "title": "Hurricane Lowell passing just west of Hawaii, bringing heavy rain, strong winds, punishing waves - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMXlGa1hTVndORFQ2UDgwenN3YWtWeDc3RjhJOGJCWEROVXRUenBlSFNvRFdrX1RuZldOVDNqTWtkakdVN1pRLU5PWFR5YjVxTXNuRUxtQjI1N01xTlhQYUFsTW8zVFo2WkxfRkJLd1Q4Sy05OU90Y1BIdXlHYldsaUU2S0lMWThSY2pZ?oc=5",
+      "title": "Dow drops 600 points to start shortened week as oil prices climb: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLU0tQVNXdFY3ZWtrTi1FYlZ6amcydkpVd3dybUF4T2kzR2ltR1piSzhieUc0LUN3WC1qOGZFdkFrWngxa1FsQmJ2dGpUd0RFVkkxdm5JU0g3d2Y1QU05c0JIdmhrZGNCT0RZb0FjR1hQLVBXaE9LVDB30gF_QVVfeXFMT1VabC1yalpfclNydVBvV2I5ZG9ONmVsX0M4eVRkOTFSZnpaWXo2NGRSMWNRdmhQU2QtdXA3MVA3ZUozVllaV1VIWWtjX1pqaThoQW5CSjVudnNhUHg2WkFOREpGbFFnOG8xakpybEtXUlFqOFN2VElNV0pnbmNPbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:15:31+08:00"
+      "time": "2026-09-09T00:19:00+08:00"
+    },
+    {
+      "title": "Cohesin prevents local mixing of condensed euchromatic domains in living human cells - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41QTFwN0c3WDNYZUNpWng0WFJMdkt0bElZMDFGTjBiWW5zRlBHMlNyemFRMzN5YjlUQzRieFRVYmJBS0RGTERRaWkwUlJEc3N4dlU4STdRZTVoeEdCZFlv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T00:09:21+08:00"
     },
     {
       "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
@@ -89,19 +107,13 @@
       "time": "2026-09-09T00:02:38+08:00"
     },
     {
-      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T00:02:29+08:00"
-    },
-    {
       "title": "Sabotage suspect held in Germany after spate of attacks on power grid",
       "link": "https://www.bbc.co.uk/news/articles/cy5zw56lnx3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T23:57:06+08:00"
     },
     {
-      "title": "Ashley St. Clair and Alex Gibney on AI and the dangers of Elon Musk - apnews.com",
+      "title": "Ashley St. Clair and Alex Gibney on AI and the dangers of Elon Musk - AP News",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE1jSFVfVXRfM3RFamdGano3X1dhazNQUm1jRU1uVHlIdmVQRldld25nOXJHak9ZRnd4a2FvRjlMTTBpZ2duZEpib2RYSTk3R0hXbU03eXVZUHYtNkdGaVVoeDctRnc2VGtLUGZxNFVtSFI5UW4xME91cEd3ZGtsRFB5blRMTkdhLVNxSVpxUGJwNmgydGhsSnRtMUZsYWdGUExQLUpUNkI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T23:50:00+08:00"
@@ -111,6 +123,12 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T23:40:48+08:00"
+    },
+    {
+      "title": "Amazon plane crash victims identified as NTSB continues to investigate cause of deadly incident at MIA - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0xLT2hBa1lRak9sVGJaVHF4M1lGN3pUWEFQc1RmTFBNQ1FyRndhR3gtUlp3WWQtRzY4U2VYNFI3ZlFVS2J0M3dLcTJlTHpJRkFXeVhLQUx3OGZPZ1FHd2VEcVdHUUxLdTRqX1pIZjZmNmsyZ2lKaXhQNk1BQVFVYTEtc0gtRmNkNWxoSXNlRnNLWm1lbGZPc2Fn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T23:37:00+08:00"
     },
     {
       "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
@@ -125,10 +143,16 @@
       "time": "2026-09-08T23:19:43+08:00"
     },
     {
-      "title": "King sends letter to clarify Harry and Meghan’s status in U.K. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlpXOWxadGtMQllKY19nNDVjandzRzV6Zm9uOWZDSGFKQmJqVmhZTEU2MFdmbnpyejhHS21nWlVhMUdKSXRMSk1CbmQtMXNUb18zSk1kZ2FDWnRzUTU3a0RHZjFQQVl0Q3hkd0hLSXBNYnBoOFBOb0pRNU9MWnhaVm93dXZSUjV6LXljQXFCdVdraVZLZzYyeGRvUTZNRkpXZ3dLNA?oc=5",
+      "title": "Hurricane Lowell expected to pass near one Hawaiian island and cause major rains statewide - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG1LMFBhYnpxTWk2WXo0U0tBRTNXX2xfQmdQOVdFZFk5LXFPNjc5VmJ5RUhCdjE2bE0yaENiS3ZIWm9XNmRwcGlCS0FrOW1wcXJhTkpKT1lzNkh6UzdoZHpsOVBlVm9pSWlkVGNheThjY3pPVDFoYklMY0VBdEYyRmhIalUyMVl4TVc3Rm5QTE1HNy05TjZ3dTZPQ0V2STJZYW9iNmlhaHlnRDM4MGJj?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T23:18:13+08:00"
+      "time": "2026-09-08T23:16:04+08:00"
+    },
+    {
+      "title": "Patrick Clancy Plans Legal Action Against ‘Relentless’ Harassment and Conspiracy Theories - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZF9nRWZQQ1VGVlFYSmJzM0NiV2VweDVaMjNyd0l1R0JMWTlPZ0pfTjRWeUxZUkdEcEJibWdCWFozSkxldjF1QUl5QncwVlpVNWtWZ05BaDYwSmw0WmdTQUZkU0Zld2tSelBUa1lOaklhVzJlRzdvWWlILXl3bkl3UnhDNmhvOWxiX0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T23:13:19+08:00"
     },
     {
       "title": "Sudan's healthcare system on brink of collapse after cuts, medical charity warns",
@@ -147,30 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T22:46:16+08:00"
-    },
-    {
-      "title": "The Legend of Zelda 40th Anniversary Direct 9.8.2026 - nintendo.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13SEFqUzBudFF6TnhVWHFBOXJmZzVGYjNqX1BXQnNPMjhpSEM0dUZZcHhfSUNjU1h1NmhOTlNjbGM3NXBTbFJYS0lXSXlrazJReGFRX2tmVDFRaUowdGxkdURfTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T22:41:46+08:00"
-    },
-    {
-      "title": "Lindsay Clancy's lawyer hopes for an agreement with the prosecution - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vX1hBQldqX3I0NTd1YzlDQ0dTcjZuS1dfUjRiZkV2X1JOeUY4Y0ZhS1VHYmt0QkFtVEI0bUhfZFN6aUt6UGJIcTNGTFNreXp5aUVkaTJMWEhWZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T22:40:02+08:00"
-    },
-    {
-      "title": "Hungary expels 10 Russian diplomats as relations worsen",
-      "link": "https://www.bbc.co.uk/news/articles/cddvzd1z53lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T22:38:44+08:00"
-    },
-    {
-      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
-      "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T22:03:39+08:00"
     }
   ]
 }
