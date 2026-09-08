@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T17:55:18.305744+08:00",
+  "generatedAt": "2026-09-08T18:26:23.144088+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617384.32,
-      "changePct": -0.72
+      "priceHkd": 618419.2,
+      "changePct": -0.64
     },
     "ETH": {
-      "priceHkd": 19533.05,
-      "changePct": 0.15
+      "priceHkd": 19550.53,
+      "changePct": 0.19
     },
     "SOL": {
-      "priceHkd": 812.3,
-      "changePct": -1.15
+      "priceHkd": 814.26,
+      "changePct": -1.07
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1110.51,
-      "priceUsdOz": 4405.7
+      "priceHkdPerGram": 1109.32,
+      "priceUsdOz": 4401.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.7,
-      "priceUsdOz": 66.24
+      "priceHkdPerGram": 16.69,
+      "priceUsdOz": 66.2
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 734.61,
-      "changePct": 2.43
+      "priceHkd": 737.27,
+      "changePct": 2.8
     },
     "Natural Gas": {
-      "priceHkd": 23.39,
-      "changePct": 0.27
+      "priceHkd": 23.25,
+      "changePct": -0.34
     }
   },
   "news": [
+    {
+      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
+      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T18:19:52+08:00"
+    },
     {
       "title": "UK's third-biggest taxpayer to leave for Greece",
       "link": "https://www.bbc.co.uk/news/articles/cvgynjlzk8zo?at_medium=RSS&at_campaign=rss",
@@ -77,10 +83,16 @@
       "time": "2026-09-08T17:17:48+08:00"
     },
     {
-      "title": "ASML Wins Over Top Chipmakers for New EUV Machines - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUGdwaDlaY2J0dnkxdHZEenU3SEFLRS1pTlVPaW8ybTA2TTA5am5RMmxidF8wR21hYnh0Mmg3bk9VMEE1ckNMNVpiR2tTV1VnSU1UTVh5WTdKWDlqOTcxamNodmI1bUVocmpnNkZLZTVZenZUR2Q1RkFsaHVMWVpGWEdlQjQ3OUxvdERhYVpoUHlpa1hCci1oWGdkekg3clhKWkJjRnVIdjEzQQ?oc=5",
+      "title": "Russian strikes on Ukraine’s Kyiv kill at least two people - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-08T17:10:37+08:00"
+      "time": "2026-09-08T17:15:46+08:00"
+    },
+    {
+      "title": "Key swing state voters to settle dueling Senate primary fights in crucial open-seat race - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb284SjNuNGdZYUNaRmRiQnV6WGptSGVMcnBZMkgxNFdqYjVWcGduMjVWOEFFekxDMVM4SkpZdUkzTzhGY1lXTkFZUlZnN1hIV3lWT1VXQjZINmlZV0NNd2FBc05icERNSDN4WEV3NkRuclZOUGxScGFPWTVUNE9ULTljdGtvZ1RFOWxVNHNFRDI0bzdLNDMyRDdKRWFFeXIxLTRtMkVaNVhWRnFmaXByMGd0YzRwQdIBuwFBVV95cUxQRWNETkZibUxhUi1EV09SdkxSOENPMklXYnREcFlrVDNQRW9IVGVfb2tGZEdwVjZORFdSVXRzeENVRjdQamJZQldoOVVUNEZYXzQ4MnZDQ24zNzZIUnRvWE4zREZhZ1lCZ1JHV1h1Ny1FVVkxWUtWUUllaXRZTGV1eWd2Yk5DNkVzbUhxOWJNUXRuU252eEZpZDlGT3ZpcHl5TTR5cHlrY3E5bk1UcTYzVC0wSFY0aFdxOHFz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:00:29+08:00"
     },
     {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -89,22 +101,28 @@
       "time": "2026-09-08T17:00:28+08:00"
     },
     {
+      "title": "Shetland spaceport project secures £30m of UK government investment",
+      "link": "https://www.bbc.co.uk/news/articles/cwyze8ed774o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-08T16:48:33+08:00"
+    },
+    {
+      "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHpmdXJfMzJicGpuSXlfWmpERlIxYUoxR2NfWmg0cWw4c2hLNjhGejljZ3lfOUxtVG1iTnBKUXItVkpMQ0QwT0dsR1FJZ3Fjb0NQa25jWTdXb1dZM1VfRkJ0SXVuYVNablZCYWNkR05hb18tdG5IeTNzb2xhRG1Jd3g2SjFLUXFUblY3c2t6eUJKWklPVFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T16:32:00+08:00"
+    },
+    {
       "title": "Nepal cracks down on online abuse of flood survivors",
       "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T16:31:01+08:00"
     },
     {
-      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season - BBC",
+      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZS0dsdmZiZU9vbDdLc0pNd2NQcGMtT19IQ2NZWG1WeUUxUW5RZ1NublVSYUtUR0lpU1FSM0xVMXN5NEJ6MjNMZWxzTFk1Vlc1bC1abzBGMS1qT1RpZENCYzlPVXFBX2ZJVVB3NC1Id1Y1V2M?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T16:29:33+08:00"
-    },
-    {
-      "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
-      "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T16:28:01+08:00"
     },
     {
       "title": "The firms turning recruitment into X Factor-style competitions",
@@ -119,7 +137,13 @@
       "time": "2026-09-08T15:37:00+08:00"
     },
     {
-      "title": "Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs - Engadget",
+      "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLU0tQVNXdFY3ZWtrTi1FYlZ6amcydkpVd3dybUF4T2kzR2ltR1piSzhieUc0LUN3WC1qOGZFdkFrWngxa1FsQmJ2dGpUd0RFVkkxdm5JU0g3d2Y1QU05c0JIdmhrZGNCT0RZb0FjR1hQLVBXaE9LVDB30gF_QVVfeXFMT1VabC1yalpfclNydVBvV2I5ZG9ONmVsX0M4eVRkOTFSZnpaWXo2NGRSMWNRdmhQU2QtdXA3MVA3ZUozVllaV1VIWWtjX1pqaThoQW5CSjVudnNhUHg2WkFOREpGbFFnOG8xakpybEtXUlFqOFN2VElNV0pnbmNPbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T15:24:00+08:00"
+    },
+    {
+      "title": "Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs - engadget.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pUHhPeGxCc1VBaXZEVHZZVDFjSUhlTmJ1d2RiWEtlNUR0RlFIeUx5Uk9MamdKQXBPSjBZaUZ4dG5OaWxpRGhqX2pZOFotaFNjWktxZnpXN3NzMXNnYUNWRjZPRUR5WF91M0JKMG1vbXgzQ2VO?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T15:16:20+08:00"
@@ -147,30 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjw54ww73qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-08T14:49:56+08:00"
-    },
-    {
-      "title": "'Good to have choice': Australians on opting out of social media algorithms",
-      "link": "https://www.bbc.co.uk/news/videos/clyl2dnjgkro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-08T14:20:10+08:00"
-    },
-    {
-      "title": "Russia and North Korea open the first road link across shared border - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaTRhU181U3FuelZ6LXE5YlZwRXFaWHpRZl9FNklleFd4NEk3MHJpa3FuTGlyNDdNaHphVU4tZk5fWHNOcEdTd2NadWhVM3k2LXRncVNxT3IzTEprN2J3bWZ4LVhrSjVNWlp2TEIxenZKVm1xaDNLNEUxbjV3TkcwWFlfUzhVSi1fOEE1bFZKRUVfYnVqU2hkbzJTcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:20:00+08:00"
-    },
-    {
-      "title": "UK’s Burnham Risks Trump Anger With New Sanctions on Israel - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYS16bGx5VUhhamdqSjNySjA2dkJTQmRDYlJIX3o0SC1yaV93VzdJS0xGUnFkczBjSG1iSVc4VlU3ZGFlWVhoYy1xNHByS0Qtekk3LWEyVVFlRnpxMUxabVhpZ2xOTVMyUWRfZ0NSSWtFSTU1aVNCS1VDc1dYZkJUTEFJSWdFalY5UHZ3S243Y3pkblp1MTNfckV1R1hPT05QNmhLN1BFZzNuQmdzMVBn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:15:00+08:00"
-    },
-    {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2xsZzlRWW5pdlh4dTJoajN2OTNFVWpjYmFvRkI1MEdiSHh5ZzYzODE5MzkxckFwQzFuOEVmd1FOLXNJbkdWb2h0MnZjUFEydkswUUpZOHhxQ1dWUVotLVBGbk1IbTdEVlp6bDBPVVhYeFVkTVAwcVFITjhFclZtZW1NMlhpd0dYTHJudWV1SQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:08:00+08:00"
     }
   ]
 }
