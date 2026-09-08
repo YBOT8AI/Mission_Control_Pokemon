@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T18:26:23.144088+08:00",
+  "generatedAt": "2026-09-08T18:57:25.326671+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618419.2,
-      "changePct": -0.64
+      "priceHkd": 616341.6,
+      "changePct": -0.94
     },
     "ETH": {
-      "priceHkd": 19550.53,
-      "changePct": 0.19
+      "priceHkd": 19470.09,
+      "changePct": -0.23
     },
     "SOL": {
-      "priceHkd": 814.26,
-      "changePct": -1.07
+      "priceHkd": 810.66,
+      "changePct": -1.53
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.32,
-      "priceUsdOz": 4401.0
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.69,
-      "priceUsdOz": 66.2
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 737.27,
-      "changePct": 2.8
+      "priceHkd": 736.88,
+      "changePct": 2.74
     },
     "Natural Gas": {
-      "priceHkd": 23.25,
-      "changePct": -0.34
+      "priceHkd": 23.15,
+      "changePct": -0.74
     }
   },
   "news": [
+    {
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1k7p3v7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T18:23:01+08:00"
+    },
     {
       "title": "Kenya moves to register frightened Burundians as tension over foreign traders rises",
       "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T18:19:52+08:00"
+    },
+    {
+      "title": "New Hampshire and Rhode Island electorate to vote in state primaries - US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3Jod09LY3lqVlpJWE5BQ0RMRzNIWC1yRW12U3RJbUlsaTVjNEo2Rjl3M2NaZ0VDQnRWS3o2UVJ6R3pIdEdLdGZZeTY2QTFualg2S0E0TWZ6QnQzamVZZ0tmcGt4RTMzMS1FaUlHYVlzamkzWXF6ODdMWUx4Umt5X2U1X3RmSTZ3aXRKRmgyc0Z2QWJUQXlKOW5qeFZvbV9QMTU4aU5kaldsRnJwTHlaZFNyVUY2SzktSEwzampFSGZxS2VjWkFMU1hvRHA0aHBYQWJ3WTlWU0EyZ2Nyc0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T17:42:00+08:00"
     },
     {
       "title": "UK's third-biggest taxpayer to leave for Greece",
@@ -68,6 +80,12 @@
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-09-08T17:31:26+08:00"
+    },
+    {
+      "title": "Five killed in Miami plane crash landing were in two vehicles, investigators say - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSkw0UXZKdFc1ZGdldUhtb3pxeGdXcXRQQXNUcC1IQi1QcXJ4RFpWTHZUTEFBbnlEUGk0c0RRelVuTFdacVZGc2R6QmkybFJlYzl4Mjh5R1BSZw?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-08T17:31:26+08:00"
     },
     {
@@ -83,16 +101,10 @@
       "time": "2026-09-08T17:17:48+08:00"
     },
     {
-      "title": "Russian strikes on Ukraine’s Kyiv kill at least two people - Al Jazeera",
+      "title": "Russian strikes on Ukraine’s Kyiv kill at least two people - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaEhXSHNycHhKQldXbnlyVks3dUh0NDZIbHB2YU43MXkxaXdaZVg2NHZIelJ4emhyZk9PVWZiUzRwcUxONDd2VnRwVC00Z0toeXZvNE84aUpxZ2I2MUdVRFhQT0tqUmJkc3NHRHMtVnE1dmk5dlZvQXBlSVQ2V28xM0NZajhDTFpRdEhKYjcxdlQ2ZFNpRFphalBjMDlQQ2ZTemdhR0ZWR2QxZ9IBrwFBVV95cUxPX0VZRUtqcjA2cWRYN19LdEpzRFJTWlRfdHo4c29qSGloM2hoME5KU01Fb1JhNDl0eDhrN1B1WmxBeVFVMkJ6Z0FVTUZkN0lMXzdVb3JTblJpT0Q5SlRoQVJBTmlzMUFBWDJSTFdUendRYnFXV3JjRXVDZEg4cHRCRF9ENW15Z1VjdG5obkdFV2QtcVVEQi1mVWFrSmlmTVNSMXdWaVRhTkEySkNpc3kw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T17:15:46+08:00"
-    },
-    {
-      "title": "Key swing state voters to settle dueling Senate primary fights in crucial open-seat race - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQb284SjNuNGdZYUNaRmRiQnV6WGptSGVMcnBZMkgxNFdqYjVWcGduMjVWOEFFekxDMVM4SkpZdUkzTzhGY1lXTkFZUlZnN1hIV3lWT1VXQjZINmlZV0NNd2FBc05icERNSDN4WEV3NkRuclZOUGxScGFPWTVUNE9ULTljdGtvZ1RFOWxVNHNFRDI0bzdLNDMyRDdKRWFFeXIxLTRtMkVaNVhWRnFmaXByMGd0YzRwQdIBuwFBVV95cUxQRWNETkZibUxhUi1EV09SdkxSOENPMklXYnREcFlrVDNQRW9IVGVfb2tGZEdwVjZORFdSVXRzeENVRjdQamJZQldoOVVUNEZYXzQ4MnZDQ24zNzZIUnRvWE4zREZhZ1lCZ1JHV1h1Ny1FVVkxWUtWUUllaXRZTGV1eWd2Yk5DNkVzbUhxOWJNUXRuU252eEZpZDlGT3ZpcHl5TTR5cHlrY3E5bk1UcTYzVC0wSFY0aFdxOHFz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T17:00:29+08:00"
     },
     {
       "title": "'Tirana teeth': Albania hopes to be the new Turkey for dental work",
@@ -107,22 +119,22 @@
       "time": "2026-09-08T16:48:33+08:00"
     },
     {
-      "title": "Britain Set to Target Israeli West Bank Settlements With Trade Ban - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHpmdXJfMzJicGpuSXlfWmpERlIxYUoxR2NfWmg0cWw4c2hLNjhGejljZ3lfOUxtVG1iTnBKUXItVkpMQ0QwT0dsR1FJZ3Fjb0NQa25jWTdXb1dZM1VfRkJ0SXVuYVNablZCYWNkR05hb18tdG5IeTNzb2xhRG1Jd3g2SjFLUXFUblY3c2t6eUJKWklPVFE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T16:32:00+08:00"
-    },
-    {
       "title": "Nepal cracks down on online abuse of flood survivors",
       "link": "https://www.bbc.co.uk/news/articles/cq5x3n38308o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T16:31:01+08:00"
     },
     {
-      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season - bbc.com",
+      "title": "Who will reach Super Bowl? - NFL predictions for 2026 season - BBC",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZS0dsdmZiZU9vbDdLc0pNd2NQcGMtT19IQ2NZWG1WeUUxUW5RZ1NublVSYUtUR0lpU1FSM0xVMXN5NEJ6MjNMZWxzTFk1Vlc1bC1abzBGMS1qT1RpZENCYzlPVXFBX2ZJVVB3NC1Id1Y1V2M?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T16:29:33+08:00"
+    },
+    {
+      "title": "Novartis’s Latest Trial Setback Sinks Stock - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelFWUVdJZEY0SVFrWjlrTUdJa3VzTDNZaUFrRDZGdEJabXNMalBlOUhZX2VWVVhINmdDeXRyY3pVaUItelZjajFXeTJYaXFRWFUyZ21CUndUdThNSzNiQU5SYzlFMG9VSTUzRFhjU2RvaEt0akxueW1BS3FQaEdUeFZMLUVXMnlkaG1wVGs2TGN5XzFkV0p0OHZxbmdtSUNsSnFMYnNYbnVVUVU4cXowYTlZNkFJMWdE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T16:27:00+08:00"
     },
     {
       "title": "The firms turning recruitment into X Factor-style competitions",
@@ -137,34 +149,22 @@
       "time": "2026-09-08T15:37:00+08:00"
     },
     {
-      "title": "Dow futures fall 300 points to start shortened week as oil prices climb: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLU0tQVNXdFY3ZWtrTi1FYlZ6amcydkpVd3dybUF4T2kzR2ltR1piSzhieUc0LUN3WC1qOGZFdkFrWngxa1FsQmJ2dGpUd0RFVkkxdm5JU0g3d2Y1QU05c0JIdmhrZGNCT0RZb0FjR1hQLVBXaE9LVDB30gF_QVVfeXFMT1VabC1yalpfclNydVBvV2I5ZG9ONmVsX0M4eVRkOTFSZnpaWXo2NGRSMWNRdmhQU2QtdXA3MVA3ZUozVllaV1VIWWtjX1pqaThoQW5CSjVudnNhUHg2WkFOREpGbFFnOG8xakpybEtXUlFqOFN2VElNV0pnbmNPbw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T15:24:00+08:00"
-    },
-    {
-      "title": "Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs - engadget.com",
+      "title": "Xiaomi 18 Fold Hands-On: An Attractive 'Mid-Size' Foldable With Powerful Specs - Engadget",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pUHhPeGxCc1VBaXZEVHZZVDFjSUhlTmJ1d2RiWEtlNUR0RlFIeUx5Uk9MamdKQXBPSjBZaUZ4dG5OaWxpRGhqX2pZOFotaFNjWktxZnpXN3NzMXNnYUNWRjZPRUR5WF91M0JKMG1vbXgzQ2VO?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T15:16:20+08:00"
+    },
+    {
+      "title": "Canada's retaliatory tariffs worth $27.6 billion take effect as trade rift with U.S. deepens - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oN1dkZFowU1VxbndMeTJFX09rcl95Y1RFMlhMQjJqdVlXc3JkZFEwMUlFTjFVZzNEekNzam94akxRZS1tczJRdUZndWtiLXYydkxYU3AxUjJ1dU5YbTNvRnVxZGh2d0JWS0dPZm8wTkjSAXZBVV95cUxNTTkzUXBLUmFwRnFpc3lLZjV1OElmSGIzSlFqeTZkcE05ZDlsemZPSkpya0tKdFRfelA1N0RFeFdNUklYalRINHBScmFQdkRxOWl3Ui1tRHI5MXFJQ25ReEF0NGZqejNNVXFoVEJfX3pXTEZrOG9n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T15:00:25+08:00"
     },
     {
       "title": "Pupils return to West Bank school behind barbed wire to protect against settlers",
       "link": "https://www.bbc.co.uk/news/videos/c62jdyld8myo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T14:58:02+08:00"
-    },
-    {
-      "title": "Canada Imposes New Tariffs on U.S. Goods, as Trade War Intensifies - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SV3F2R2ZRYllBQ0VJNW4tNFBiY2s4dzJrYUVhM1pUTnJWNjNVUURrei1WMnJYMzI2UktmQzRsM2J3Ti01TGttWFBISEhLbVZXZnF1ZlJSUXhydl9IN2NqNjJGd1JNd2NRWTFJQ2pnM09ieFluc3I1VQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:56:40+08:00"
-    },
-    {
-      "title": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94MU5wYmtzN3B0cmswQVNRTmlHem96dkc1M2R1YlFXWEMySEdERjdxYld3Ym94UEVnZjJ1Yk5DY1oxS1NCS0FXcWZmU004OVNzeGdyMUlqaHp5UE4xUGFrcjdhank1dGtuSUxlbUZqT2E4c3o5eENvLWhTcmFjYUk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T14:53:00+08:00"
     },
     {
       "title": "Scammers demand ransoms from Instagram users over fake copyright claims",
