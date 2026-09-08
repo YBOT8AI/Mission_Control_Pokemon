@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T09:02:00.802006+08:00",
+  "generatedAt": "2026-09-08T09:33:05.078689+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 621570.88,
-      "changePct": -1.02
+      "priceHkd": 622072.64,
+      "changePct": -0.71
     },
     "ETH": {
-      "priceHkd": 19557.35,
-      "changePct": -0.63
+      "priceHkd": 19603.68,
+      "changePct": -0.14
     },
     "SOL": {
-      "priceHkd": 815.91,
-      "changePct": -1.79
+      "priceHkd": 816.93,
+      "changePct": -1.21
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.5,
-      "priceUsdOz": 4425.5
+      "priceHkdPerGram": 1118.57,
+      "priceUsdOz": 4437.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.88,
-      "priceUsdOz": 66.95
+      "priceHkdPerGram": 16.92,
+      "priceUsdOz": 67.13
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 724.1,
-      "changePct": 0.96
+      "priceHkd": 724.65,
+      "changePct": 1.04
     },
     "Natural Gas": {
-      "priceHkd": 23.21,
-      "changePct": -0.5
+      "priceHkd": 23.18,
+      "changePct": -0.64
     }
   },
   "news": [
+    {
+      "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-08T09:07:47+08:00"
+    },
+    {
+      "title": "Germany's Merz shocked by far-right state election triumph but doubles down on unpopular reforms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM29qLVk4UUFIa1hOSHdIWVd1VWxZb1JVNGpRSXhoalhNU1NYMDJCRTZKc2tnMVdaajktRm5xME9DX1BuWVplZXBGWExHWlJOYjhEeXV4SUdmeVBERHZFMlZnU0FocDRySk5FWVNpOS1LalpKb1dMWGNZeWZkS1NEZHpjYzdRR1ZvdHE4YnIwcE8yWExibUNLd0V3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T09:01:00+08:00"
+    },
     {
       "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
       "link": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
@@ -75,6 +87,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c1wx3v11de7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T07:40:39+08:00"
+    },
+    {
+      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T07:33:00+08:00"
     },
     {
       "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
@@ -107,22 +125,16 @@
       "time": "2026-09-08T06:22:58+08:00"
     },
     {
+      "title": "Elizabeth Holmes documentary upends Telluride Film Festival - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVFd2bHh5RnV1Q2swUUZmM2J4cDhhT1pNNmdySEE0WkRENkN1Ulh0Yl9qanpsOTlKcEJVQ253NHczNWZRcDdKaGxYNnBEemZNVVVJNTRDYjBKQjZYQnA2VThYUU1CS3A5dHprM3J3czNEamRlWjlzaHhGb2FyWTJaNGdtQWFfRUpHTWVNRmJvODlOR2U4OWItcldMZmI3UWRVMHQwbWVR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T06:12:44+08:00"
+    },
+    {
       "title": "Canada’s Retaliatory Tariffs Set to Take Effect as Trump Threatens to Escalate - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPb015UGswWm1Na0pCWTRkc1B6bUR6Q2FrdndPNTdkdDlITkFEQmtTRV8xZGFlbDhRWmVFWUhLZ1dZblNjbzhSZlMzYVJJdE9ld3dKcFByQ2J4R2dXejZlVE01N1dnSW5jWi0xLUNudFMzYkdoaEtkV2RCNmo2eHkyQXhTUTVjNk9VNUFN?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T06:04:15+08:00"
-    },
-    {
-      "title": "Live Updates: Iran says it will expand control in Strait of Hormuz as oil and gas prices continue to climb - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVJza1YxaXdiMHRhZU1XaHpDTFE2emZ0UDhJWkQ3LWdnOG1YZkNRUndZcTJJdW9UZFdsOUI2eldad0pmR1JKS1JUM1p2MUhOdllOd1Y0X2tTUDh2aXFvQ3Z0Sk5XYkNiSzM5VEVHM3VEaWdPdlpIM2hUamVqeVhxTVU2cjh6OXo2eVJzcG1aQXNHQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T06:04:00+08:00"
-    },
-    {
-      "title": "Far-right win leaves Germany's Merz shaken as AfD plots path to power - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX0tYMlJiSnROMHFKX3dJV04wTU50bkdYWHdheVdTN0dJRHJDbUZMYkhEX0JFa2pxNFNadzdEWW95bndCQ1ByRGhUZzQ1T0pJQWhFSWVmSU5IOUY2MEJTaWF5bl90N2JrdGxxMVJ2MWdoTHlpVEJJWWY1dGl2TGlDanZ3MXMxUGJnR3RPMmRMSjlEdVVVdFlIWlRpdDZodHF0Ym1uTlJFZEJmTGFIN0lKT1hXVWFRdW9XU1VHbmk3OGZQcGZEX0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T06:03:49+08:00"
     },
     {
       "title": "Macklemore Says 'Free Palestine' Is Not a 'Criticism' of Jewish People - Variety",
@@ -143,34 +155,22 @@
       "time": "2026-09-08T05:38:27+08:00"
     },
     {
-      "title": "Hurricane warning issued for western Hawaii as Lowell approaches - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Vb0x0SkV1TV9INmhFN0RFd015Qno3M2FBcGs3eGFrbWpzUWNjQUxjSnZTVG10WWlZYW9jQzh2X1p2ZC0wci1ZQjZMWVlxcFUxdDhfckZCX1puaWFPSWppckZxUDlNLWV0NnRDUHVn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T05:27:15+08:00"
-    },
-    {
       "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS1ZzZ1czS3BlcVI3UEFheFhtMm5oMFM5YkszM3JaMDVUc3MxS2l6a2t3aGViVzhLUnhFcXRKNHl6MmZSbE9LakVIOGJZaHYtcmdQeWhsYTNtUXk0X1lLWWo5R1lpWWZ6clRsM2VpbElzeUVVYTRyLUk0RHFxbk1sQ2JoRERoX1drbkpNMTNndWlKY2VGcklkR0JIYkhGOXB2N2dVWHdxcVI5U0g4dFAzVGc2aVnSAboBQVVfeXFMTVJLanV6VjJJbWM0SFM1djlTM2RWX3BlMUt0X01FUzJncVBkMTJ2Qndac2VwTUw4OEVIUXVadlVOZlBfcXFmeHJaN1d1aEFISlNYOWNtSURUZTlNSEl5MXJONll3cGJpd1N0MThqZ1luMndQRlZ0U2ZReUhNNG1nU2hkbF81S3l5bGxJV2xwZ1phamZ1UlNNTkdVRV9meWxFamszUkN6b3BwS3lwUzktQXJkQUFJMDlNZjBn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-08T05:20:29+08:00"
     },
     {
+      "title": "SMU vs Florida State Prop Picks for College Football Week 1 Tonight - Covers.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2tyVS1NZGJKblBXdmIwOFc0RmxxUkxTbzlLYmtOUFJBUHdGM3hTNC1GQl9aemF3STBrSWMwTUNLSEZ5NnRuVmNTYlRUenpEUDlmQXhJMldJZzdWRHZHOGQtdjZlckdTcDRLRmhTVERJbnJ5WGZxZm5pRkdUWC1FdjlkRUJsNGU2Mm1hT3dVeUxNQTB2by1MSklB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-08T05:18:00+08:00"
+    },
+    {
       "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
       "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-08T05:12:37+08:00"
-    },
-    {
-      "title": "SMU vs Florida State Prediction, Odds, Picks Today: College Football Week 1 - actionnetwork.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX0g5MDdNQnNGaWVQZE9ZU2tkam55ZVlCcGMyZ3BnRUFlTlRiOF83LUlwWUs3amgwWmxScTJIUWJ4bE9JM3J3TE8yb091ZDVLZHF4U292NDRCMmI2TDVzcDJqVUQ1LU9QQU1hOFEzVlg3LW0xN1JQeFRFRVpDWWFZVGNjTUNQdHJHeWRENFNJTzFXRTREUFI2cE1ZTkhqUG5kRmVBX0hDeWs1cTRHcjRBdkNfVUtqM240VUN5eFZNQXNUU01OVm9BRUI1LUg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T04:23:00+08:00"
-    },
-    {
-      "title": "Trump posts map with American flag emblazoned over Canada, Greenland, Mexico - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX3UzZHBQV0NZTjd0MzM0OW1EN2M4WFg1TC1TaWo1QTUzOTVRNUIyak56T2tiRk41aEdWRGtGUzU0cEZ2NUNua2h0UkdITTJBMHJ4aG85YTdpUHRKT2RMbEcxcXFHRlNTb1o2M1NJWFFYXzlQcFc0TTRuWk8zQktYVnZYNWY1QUx6TUMxZtIBkgFBVV95cUxNMGkwWUhRbGJlOUxzRTI5dXNWMFdLdjg2NS1XcUgtbXBWT2k0ZU1RX0RXYWVNTU5mYmZ0Q3UyWDFGOWZhdnVkTmpaaTZPNm9JZWpIR2I1d2ZDTER4MkFnS21HUVdoRkxZOWVQSE4xSGlPZHRWOFR1SVh5UnNtczl1czhKLXJCYl85R1VnV0I5QnJPQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-08T04:00:00+08:00"
     }
   ]
 }
