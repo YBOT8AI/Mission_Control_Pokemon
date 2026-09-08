@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-09-09T03:14:43.982548+08:00",
+  "generatedAt": "2026-09-09T03:45:49.596450+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615134.24,
-      "changePct": -0.88
+      "priceHkd": 614938.24,
+      "changePct": -1.13
     },
     "ETH": {
-      "priceHkd": 19495.57,
-      "changePct": -0.14
+      "priceHkd": 19474.56,
+      "changePct": -0.46
     },
     "SOL": {
-      "priceHkd": 810.58,
-      "changePct": -0.49
+      "priceHkd": 809.17,
+      "changePct": -1.09
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5526.89,
-      "changePct": -0.43
+      "priceHkd": 5524.61,
+      "changePct": -0.47
     },
     "SPX": {
-      "priceHkd": 60242.09,
-      "changePct": -0.45
+      "priceHkd": 60218.65,
+      "changePct": -0.49
     },
     "SPCX": {
-      "priceHkd": 1209.47,
-      "changePct": 4.27
+      "priceHkd": 1206.21,
+      "changePct": 3.99
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1102.37,
-      "priceUsdOz": 4373.4
+      "priceHkdPerGram": 1101.41,
+      "priceUsdOz": 4369.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.68,
-      "priceUsdOz": 66.18
+      "priceHkdPerGram": 16.65,
+      "priceUsdOz": 66.07
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 733.98,
-      "changePct": 2.34
+      "priceHkd": 731.86,
+      "changePct": 2.04
     },
     "Natural Gas": {
-      "priceHkd": 22.94,
-      "changePct": -1.65
+      "priceHkd": 22.78,
+      "changePct": -2.35
     }
   },
   "news": [
+    {
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T03:40:42+08:00"
+    },
     {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
@@ -59,10 +65,10 @@
       "time": "2026-09-09T03:11:39+08:00"
     },
     {
-      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "title": "Dow drops 600 points to start shortened week as oil prices climb: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQLU0tQVNXdFY3ZWtrTi1FYlZ6amcydkpVd3dybUF4T2kzR2ltR1piSzhieUc0LUN3WC1qOGZFdkFrWngxa1FsQmJ2dGpUd0RFVkkxdm5JU0g3d2Y1QU05c0JIdmhrZGNCT0RZb0FjR1hQLVBXaE9LVDB30gF_QVVfeXFMT1VabC1yalpfclNydVBvV2I5ZG9ONmVsX0M4eVRkOTFSZnpaWXo2NGRSMWNRdmhQU2QtdXA3MVA3ZUozVllaV1VIWWtjX1pqaThoQW5CSjVudnNhUHg2WkFOREpGbFFnOG8xakpybEtXUlFqOFN2VElNV0pnbmNPbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T03:06:02+08:00"
+      "time": "2026-09-09T03:03:00+08:00"
     },
     {
       "title": "Anti-AfD protests sweep Germany as far right closes in on two more states - The Guardian",
@@ -71,15 +77,27 @@
       "time": "2026-09-09T02:50:00+08:00"
     },
     {
-      "title": "MAC to appeal controversial Western Michigan loss, says replay error gave UM extra second - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWQ1YzI3bEJnaGRRVXg3eEdUN1BobnJyUFFGR3p4eHFFeGc3NmFTcW5tOFhYLWs3RExKelhHWURaUGN4Wkt5aXVYbmp5UklHMktwMTFwUmlLelAxeGRqSE9BTlg3YkNEeDJMa0xIQWk0aVVSdEVDUnQxZjNJRTZxNWxJcHQzTngzWmhqNi12d3MwT2FacnJ2MmRCYWVRa1Y4?oc=5",
+      "title": "Drug developed for lung disease may slow biological aging in surprising ‘bonus’ - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdmpFdV9CYURJYU80YWVXclZNWWZvLXFYVkJnV25kWHpJTllmUmtCb1ZNQ0ZGWWcwdDJ6ZXNjOWp3dWpUOVdGSXhFY180SFgyN3pyUFI2VU1GZ1pxZGVjdDFTaDlGR3p0MklJZVg3X1ZhUG9jRGZzVWpseFltZnRUWjZyVVVKV2Myc3dJYk54ME9teDBvc1F6am1jb1p0SUF5Ri1B0gGoAUFVX3lxTFA0NkZ6bmpXOVFPNDk0S1FseGZhRHBrWUJ5NTVTNnZ6YnlJM0E2bV8yeEFuNWo0WE9wcENqU3dKUkltTTFDRmdGSDF0Q0IzV0pZT0c5Y1lfQUZrOHJ5OWEzMDJXZDdEeEpFZWtDOUhUNVhrQVp5blBEMG5hT3A3MXVJLXFTOGVNcmlPRmk1S0RqbzVubTBHcXJ4NTRjLTM2MkgzYTMzOGFxNQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T02:34:33+08:00"
+      "time": "2026-09-09T02:43:46+08:00"
+    },
+    {
+      "title": "Qualcomm strikes AI chip deal with Amazon, offers right to buy about $4 billion in stock - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZl80VFZ2VnoyVGhIdk1HaHpWdzVuTFZRNWdhdXBaU0JxMy1HY3d0aXV4bHZUNFIxSS1TMWVpVVM0UDZqWFlTY2VuZEFzaW40UzZmZGJ4d1d6emVGOHZ1em1ycUJSOUIxM05DN3NzNlJObXpmYTJaZ2JMOGp1bGNib20yZUZibDJTMjNvSnNvWVRseE5QT3o5OTVMV3NVUHFr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T02:23:00+08:00"
     },
     {
       "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani",
       "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
+      "time": "2026-09-09T02:21:40+08:00"
+    },
+    {
+      "title": "New Yorkers were 'lied' to about toxic air after 9/11 attacks, says Mamdani - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZS1TcGZnYzd3TmNHS1E3TVpZalQ4SXUwOVlxdFFJY1J0MWdkbmswNzcyT3FQaHNmOXN4a0lkbDQxUTlzZzJ3d28xUnpqVjhoZDFNTnJWeWdiQQ?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-09T02:21:40+08:00"
     },
     {
@@ -95,34 +113,28 @@
       "time": "2026-09-09T02:02:42+08:00"
     },
     {
-      "title": "Lindsay Clancy’s attorney asks for Trump pardon in first interview since state mistrial - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0poTVFQM0VJOW13UGhOQkpXa1hYNm5nZUVhTVhvaFNWZGN4UEo0SzVvMi13TG9pc2NsRHVQa2dVdFJJazZPVDliRXlIMVBhT1laY1BPZXBpdVB2QTZOQnJ5a1JpejhyR2FuU2dPSkVSNDNQRWw1dHBtMDRFcTJNNF93VjZEMkRpelBwTl9LRnczejc4YklvYncxWE9lZDQteW9jZmdXVjMtNmRraTdRNlQtWDJ6cDNvYWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T01:59:14+08:00"
-    },
-    {
       "title": "Lori Loughlin files for divorce from husband Mossimo Giannulli - USA Today",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRnRsdC05UUdHVWJDU3dVN1Y0alI5ZndGd3ExSEowcWRSR3cybmlrSmQ1NU53VHJJY3Y0Y0VmRkc3aDFabGRrT0pZRmJTSDlTejRfS2pIRnpMQTBIUVRhb0p2eENuNm84UEFlUmxLZXowcUpqR0xCOWJSVkpsdFQ0QjRFNXNHRXRoUmZLOThHSUVTYmNvdUtVOWpmWUVOLW91VFU0YzZFX1hTT2duMDZuSWV0Ti1SSGZwT3RKWkJxcEE4aWVadl84?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T01:59:00+08:00"
     },
     {
-      "title": "Heathrow and Gatwick among airports hit by air traffic control problems",
+      "title": "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T01:57:45+08:00"
+    },
+    {
+      "title": "Major UK airports hit by air traffic control problems",
       "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T01:56:46+08:00"
     },
     {
-      "title": "‘Practical Magic 2’ Rotten Tomatoes Reviews Splatter Bullock And Kidman Sequel - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMTE1Q3l6ZmFVQ0IwN3ZYeEM1U3paWWR4QXdlZFRIUFIxM2RzalgtTXhkYi0ybTNZX21xYzIwUmt5MGQ5TGFwYklZSEJJU0ZHNl9MR3I2VlgtdDJpQUdkQlo4TGdlMHVuY1JiYkJEWUxjRGlCUERqSUloOVM3dTc2Q0JUOHozMk9IbTJSbVF0cGlxM2ZUUTlpZkh4RlVvRnk3VEF5N29xaldXVmpFME9LTG53TTY0ZHdMc3ZsbmU4cDI?oc=5",
+      "title": "How to watch Apple’s foldable iPhone announcement - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkVqVjZjTk5IQ0RBMmJHaEpjWGpSamdIck5MWVh0a1J6dU5BTGdyNERmQXU4c2kzQ3Z1WTF1OHM2UUU2VXFEVW1JYnhPVk9OQUlBbGYwamdqLTJqaXpPMWt3SF9WZGRrazJsVTNDSFcxWTBQODNZM3FNell2Y21Bd1hONmU5WUwwSW1V?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T01:46:12+08:00"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise, US-Canada trade war escalates - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkxvUk5WMHlpUV9fRkVwNlhrcGJ3QVdleGh0LThTbHZmWjFVTENnWW1GTWQxc2JtM3R3ZkdBZWZZbWNJRkxTSUF3dnpNVl95ZHNVTnFwczJ4QktvdThRdHc1TlBJYW1KYThqeGdhN3FBLXQ0dWJlbi1jMW8xWjhoeW5CSFdNckl2WXEzc1ViZGZlTGNGNnkwdmRIcUJ0cWhFOXNTQjFRMjlXREYwQW84?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T01:44:41+08:00"
+      "time": "2026-09-09T01:46:53+08:00"
     },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
@@ -135,12 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWMxMmkxWFNCUU5GcTJkd3BkQTM3UEJiUlBzaUpnRkh4b29GaVpBdjNzTWg4a0l2UHA4bm5QX0NpLXJsRy1uV0d0OWdjclpBck9vSEF6V1VyaFlLNnhkd09MWFZ2THRyYzI1UEhsc1l2c1BGOHNOang4N1pSZmpBWGR4S2FvdkZjUmtEYjhJUFFyTC1ud0MyeWxyZGxmRkxEMnU5MzNnYVdhMjEydnlGTNIBtgFBVV95cUxNQkhqSTdkS3E4anN0WHhtRkp6bUpOZmw3cG1NUXBxZFByaFctRE5tam9mMENaeWVCWlUxcmdFMUhIbVczQUJLM3RvZVpXV1prS0hpLXBybEJFOTdwVDhVY2VtQjF3aFFESDZ2b2hQWUZoUlpWSjVaUkVnOFFnSGVQdk9iOEluRkszQXBJS19lbzFKQ09Sa1dDS1hIUUM2ZzJzM21BbUU1T1VIWTg4YVpoNTJqcVd3dw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T01:41:24+08:00"
-    },
-    {
-      "title": "Apple Event Tomorrow: iPhone 18 Pro and iPhone Ultra Cheat Sheet - macrumors.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWdBcUkwSEw5SkZwUGVvc0E5UHJxOWZBbExxV3NYR2tTVm9oYm16SFVvWGFxcDBRWUd0VG0yQmhnWk9DZmw2SjdaeDBCdmJWQ3NkVzlkdVRFc1dzelhPMVo2WXVaUVQzNnpTemhDVmloZzN6Ni1HR1h2WnpXTHc2TFNUTF9kTUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T01:24:56+08:00"
     },
     {
       "title": "Fourteen go on trial over deadliest Channel small boats disaster",
@@ -161,16 +167,10 @@
       "time": "2026-09-09T01:10:54+08:00"
     },
     {
-      "title": "Iran-backed terrorists escalate war with Saudi Arabia as US trades strikes with Iran - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EWVRZOWsxbmp1SmZRd19JSldrbVloX0pjcXViM3dFRVFwTkY4WnRYNDJSUVVVQ0tqemlRcHdoOTk4TWJDYWc1dWlXU1RwVEVMX1hSWUJzdV9YdUVuVGduZ2taSjA4RXpOQlgwWTFOWUVwQzNRdmtEb1hFYUY?oc=5",
+      "title": "Craig Carton blasts Michigan fans for storming field after controversial win: 'They’re a bunch of morons' - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVRwaWJwbUcxeUZ5MEZibGplN1RjN2lWTl9jaXZXQTZSUEFaWjA5dTg3dDZCNXBDaEllcVc4S1RsSUY5bHE4WFNnMVNwbjZvSzE3MlRYM2xPZWVkWVNPVFMyc3dPZW9xSEltQjZQYWtuZjU2TjNZTndZS2s5X1RKSTlnbFlyLVNTYWJBVUJWSUhpQU9HZHlhNktBMVA4OXJ1S0pHdW9pUnFFMTZMc2Njc3NqUEpFaTJxV3c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T00:56:09+08:00"
-    },
-    {
-      "title": "4 family members confirmed dead in Bahamas plane crash, relatives say - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV3ctOTNhMkFEandTOEQ0RWVDankxVEhZSXF2LXNueGdHalFTS3UzbXI1cXFFVXZNUVd3VXdOVVRWWjNMbU1IWFM5dExpN1gtdGdidEhDSG0yeFQxQjZfNURLYVFNdDhOZl94OUlJeFVjRVJ3c01JTTBqUUF2VXB3bFJzb1ljTU5nTmhNWkVEelpFNUtLc1AzbmlyTExfaDFiNTk2SkVDU0lqMXh0UUhFdjQ5UnR3UzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T00:51:23+08:00"
+      "time": "2026-09-09T01:00:34+08:00"
     }
   ]
 }
