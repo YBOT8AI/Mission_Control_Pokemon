@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:36:49.136482+08:00",
+  "generatedAt": "2026-09-09T23:07:52.347666+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -102,13 +102,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "44d9fb0",
-          "message": "docs: precision-correct CIES FIHV route (≥HK$240M NAV, not HK$30M entrants) — ve",
+          "sha": "b35da06",
+          "message": "chore: update changelog for 2026-09-09",
           "author": "evilmoni",
-          "time": "2026-09-09T17:27:08+08:00"
+          "time": "2026-09-09T23:00:42+08:00"
         },
-        "commits30d": 79,
-        "totalCommits": 186,
+        "commits30d": 80,
+        "totalCommits": 187,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -265,8 +265,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:26:05.197419+08:00",
-        "next_run": "2026-09-09T22:56:05.197419+08:00"
+        "last_run": "2026-09-09T22:56:09.717263+08:00",
+        "next_run": "2026-09-09T23:26:09.717263+08:00"
       },
       {
         "id": "539a150ac028",
@@ -283,8 +283,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:05:48.840816+08:00",
-        "next_run": "2026-09-09T23:06:05.815790+08:00"
+        "last_run": "2026-09-09T22:36:56.592480+08:00",
+        "next_run": "2026-09-09T23:37:10.873284+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -292,8 +292,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:26:04.973071+08:00",
-        "next_run": "2026-09-09T22:56:04.973071+08:00"
+        "last_run": "2026-09-09T22:56:09.493449+08:00",
+        "next_run": "2026-09-09T23:26:09.493449+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -301,8 +301,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:36:06.115705+08:00",
-        "next_run": "2026-09-09T22:46:06.115705+08:00"
+        "last_run": "2026-09-09T23:06:10.832969+08:00",
+        "next_run": "2026-09-09T23:16:10.832969+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -337,8 +337,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:27:04.920194+08:00",
-        "next_run": "2026-09-09T22:42:04.920194+08:00"
+        "last_run": "2026-09-09T22:57:09.385431+08:00",
+        "next_run": "2026-09-09T23:12:09.385431+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -544,8 +544,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:00:30.807154+08:00",
-        "next_run": "2026-09-09T23:00:00+08:00"
+        "last_run": "2026-09-09T23:00:30.005179+08:00",
+        "next_run": "2026-09-10T00:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -553,8 +553,8 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:01:24.319745+08:00",
-        "next_run": "2026-09-09T23:00:00+08:00"
+        "last_run": "2026-09-09T23:01:20.518728+08:00",
+        "next_run": "2026-09-10T00:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -643,8 +643,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:01:13.770125+08:00",
-        "next_run": "2026-09-09T23:00:00+08:00"
+        "last_run": "2026-09-09T23:00:32.998911+08:00",
+        "next_run": "2026-09-10T00:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -742,8 +742,8 @@
         "name": "Changelog Generator — Daily",
         "schedule": "0 23 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-08T23:00:42.296762+08:00",
-        "next_run": "2026-09-09T23:00:00+08:00"
+        "last_run": "2026-09-09T23:00:50.554826+08:00",
+        "next_run": "2026-09-10T23:00:00+08:00"
       },
       {
         "id": "749ed8aadcd9",
@@ -760,8 +760,8 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T22:00:11.312261+08:00",
-        "next_run": "2026-09-09T23:00:00+08:00"
+        "last_run": "2026-09-09T23:00:26.336062+08:00",
+        "next_run": "2026-09-10T00:00:00+08:00"
       }
     ],
     "total": 56,
@@ -786,47 +786,47 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "405Gi",
-    "uptime": "5:13",
+    "uptime": "5:44",
     "cpu": {
       "loadAvg": [
-        1.12,
-        1.14,
-        1.2
+        2.33,
+        1.5,
+        1.33
       ],
-      "usage": "13.7%"
+      "usage": "13.1%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 39.3
+      "usedPct": 36.0
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.3",
+        "cpu": "4.9",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.0",
+        "cpu": "1.9",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.7",
-        "mem": "1.9",
-        "name": "python"
+        "cpu": "1.2",
+        "mem": "2.4",
+        "name": "Google Chrome Helper (Renderer"
       },
       {
-        "cpu": "0.6",
-        "mem": "0.1",
-        "name": "opendirectoryd"
-      },
-      {
-        "cpu": "0.6",
+        "cpu": "0.8",
         "mem": "0.0",
-        "name": "notifyd"
+        "name": "sh"
+      },
+      {
+        "cpu": "0.7",
+        "mem": "1.5",
+        "name": "Google Chrome"
       }
     ]
   },
@@ -1472,16 +1472,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-09T22:36:48.989536+08:00",
+    "generatedAt": "2026-09-09T23:07:51.985977+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 25.6,
+          "temp": 25.4,
           "code": 51,
           "precip": 0.1,
-          "wind": 13.7,
-          "time": "2026-09-09T22:30"
+          "wind": 12.2,
+          "time": "2026-09-09T23:00"
         },
         "daily": [
           {
@@ -1510,11 +1510,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 25.5,
+          "temp": 25.4,
           "code": 1,
           "precip": 0.0,
-          "wind": 11.2,
-          "time": "2026-09-09T22:30"
+          "wind": 11.4,
+          "time": "2026-09-09T23:00"
         },
         "daily": [
           {
@@ -1550,19 +1550,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-09T22:36:49.136388+08:00",
+      "time": "2026-09-09T23:07:52.347522+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-09T22:36:49.136388+08:00",
+      "time": "2026-09-09T23:07:52.347522+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
     {
-      "time": "2026-09-09T17:27:08+08:00",
+      "time": "2026-09-09T23:00:42+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: precision-correct CIES FIHV route (≥HK$240M NAV, not HK$30M entrants) — ve",
+      "text": "💼 TechWealth: chore: update changelog for 2026-09-09",
       "project": "techwealth"
     },
     {

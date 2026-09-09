@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-09T22:36:49.216195+08:00",
+  "generatedAt": "2026-09-09T23:07:52.433528+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 621367.04,
-      "changePct": 1.18
+      "priceHkd": 617870.4,
+      "changePct": 0.4
     },
     "ETH": {
-      "priceHkd": 19690.87,
-      "changePct": 1.32
+      "priceHkd": 19574.28,
+      "changePct": 0.49
     },
     "SOL": {
-      "priceHkd": 815.36,
-      "changePct": 1.04
+      "priceHkd": 810.03,
+      "changePct": 0.06
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5503.09,
-      "changePct": -0.3
+      "priceHkd": 5496.9,
+      "changePct": -0.42
     },
     "SPX": {
-      "priceHkd": 59980.0,
-      "changePct": -0.3
+      "priceHkd": 59911.55,
+      "changePct": -0.41
     },
     "SPCX": {
-      "priceHkd": 1176.55,
-      "changePct": -2.22
+      "priceHkd": 1161.26,
+      "changePct": -3.49
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.6,
-      "priceUsdOz": 4425.9
+      "priceHkdPerGram": 1106.45,
+      "priceUsdOz": 4389.6
     },
     "Silver": {
-      "priceHkdPerGram": 17.22,
-      "priceUsdOz": 68.31
+      "priceHkdPerGram": 16.98,
+      "priceUsdOz": 67.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 753.35,
-      "changePct": 3.29
+      "priceHkd": 754.99,
+      "changePct": 3.51
     },
     "Natural Gas": {
-      "priceHkd": 22.37,
-      "changePct": -2.16
+      "priceHkd": 22.52,
+      "changePct": -1.47
     }
   },
   "news": [
@@ -65,10 +65,40 @@
       "time": "2026-09-09T21:59:42+08:00"
     },
     {
+      "title": "Apple expected to unveil first folding phone, with new CEO Ternus in command - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:58:01+08:00"
+    },
+    {
+      "title": "Police launch criminal investigation into Reform UK donations - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lVGdwTWdvek9UUExUbURSdmVyYXNIZkEzVGtTNHlhc1hGQi1HV0pmekNlSDk2MXd0bERDQmRIX2ZaSWFnVlZoWUQ5T3p2czRDQnJiOFp2SXNFQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:55:33+08:00"
+    },
+    {
       "title": "Share Energy to increase electricity prices by 12.6%",
       "link": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T21:54:50+08:00"
+    },
+    {
+      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:54:20+08:00"
+    },
+    {
+      "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2Jzel9FMVdDLWVYN01VbVl4X2xJSEZwZm4tNU9RM1ZJYy1jcUgydWJhLW1qRXJzcFUyMTZBdHF0TGRDaEpCY0Y1LS14VUdIaWJxT3NpNWhQc2V4cUJoUEJEbVZzQ09iM0tCazJiMUpNNEd5WXhiZzhlZ0tsVGJjSw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:54:11+08:00"
+    },
+    {
+      "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTZRNVMwMU8xS1pmQlBsdERtOFdzakx1bEhHbXVPRzRDOGpGTnIwUXVFM0Fuc1BWb01TbDJJYVJ4LXN6RC1DbnpFTkN6TDJXZmpOUWZ0QldDbks3UXd1XzBHdXJTcFVNdTU4ajdpS3JoTFJyUHpJX1IxWkJZdDI1RmJFU0Q4SHU1X0k4LXNsaVFVMjRqaFg3TFZwVVo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:32:53+08:00"
     },
     {
       "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
@@ -77,7 +107,13 @@
       "time": "2026-09-09T21:29:33+08:00"
     },
     {
-      "title": "Fearless US stock market vulnerable to shocks as midterms loom - Reuters",
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Kc1RZVXVkTlNzeFRJUFpfSzFkcDFLakV2UlVGSldHVUJxd01HLUZsYXFTeWU3RUhGd1VVbzlvS3BIMjJhR1RteHN0Qm9aUjI3djdjNU9EYnctZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:29:33+08:00"
+    },
+    {
+      "title": "Fearless US stock market vulnerable to shocks as midterms loom - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRiSTVzTlAwaTR4T2ItUGVHUDBTSDJvT2ZJZERDZ25sQVhlaWFhbFhIdkk0Mzh0RVJhTnpRQkhvUmkxOER5NHlQbGhTZDUyR0VQa0FkcWpvOWRDMzRRekFJQTZnSnpYdnRNY2NzcWFhaTFnLVRZYzNKZHhfVGFabmxiMkZzdzloc3RKRmM3ME9FbW5TN1RkOGdIRmdGUU1ablVTQTFGbTQ1N2tUZ1E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:20:23+08:00"
@@ -95,12 +131,6 @@
       "time": "2026-09-09T21:06:32+08:00"
     },
     {
-      "title": "Brent hits $100, Apple's big launch, Trump's energy investments and more in Morning Squawk - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVNZVlVMRFc1dThWMlR0TUlGMGJfWUY1RGlWQ1kwTWFWMGdvSDdPZU1LSVBXUDZTeE1SU3d3eExjampnRzBpNVNiUGJHdmdQWEtRNnVEeHZsa0VFTjJ1V1BpZHhBSkFpMl9oUHdNU19vT1VjZzRnaTZnU3NuYWZnT1Bwa1Utdl9GRjhB0gGQAUFVX3lxTE5ncEx2dHZERjBza2ZTdGdXTUtjRFBmcFZkTWkyWTNjeTlQdzNmOTlXZndLWGhBdWlMdTVUQ2Mxb0ZzTEJLR2xRcVNJR0RGTU5DV0lVSVVfUzR2eHMwd2czQmtrX2RVWHFlV01jVHBnZlQycVN4NW5WSnBRb3RxYzlWOHg1Q1A3X2VnNDgwXzdyMw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:43:48+08:00"
-    },
-    {
       "title": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVkUk1pelFwbVdlSDVHSl9Ydl9qV2RXOFFmbjVfU2p5QmVWVy1fUjc4YWpBOFA2ZFZLbC1iOFg3SUtMU0RVT1hKc19senRUZlhjbzlLbEtSMFYxZm9FQWZyNUY2TWYxOVY3T2lPeGQ3NXl3ckRmMnpsM0cxV3dUby1Mc2RSWmNrMXMzMVVB?oc=5",
       "source": "Google News Top",
@@ -111,12 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T20:36:59+08:00"
-    },
-    {
-      "title": "Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More - CNET",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXN3cHRwTmR1WDhKSnEyaVRqSFcwN25oT2sxQmRSdDBlSm0tMEFHMGkxeUlmRkpDNGhDV0djc0hVTUJlWU9JTnhlVk9IVmNUVmlTb0lfOXJ5ZXFUbC11ME9KdnhhS19UV2VuNDFB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:32:24+08:00"
     },
     {
       "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
@@ -131,12 +155,6 @@
       "time": "2026-09-09T20:17:56+08:00"
     },
     {
-      "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTZRNVMwMU8xS1pmQlBsdERtOFdzakx1bEhHbXVPRzRDOGpGTnIwUXVFM0Fuc1BWb01TbDJJYVJ4LXN6RC1DbnpFTkN6TDJXZmpOUWZ0QldDbks3UXd1XzBHdXJTcFVNdTU4ajdpS3JoTFJyUHpJX1IxWkJZdDI1RmJFU0Q4SHU1X0k4LXNsaVFVMjRqaFg3TFZwVVo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:15:58+08:00"
-    },
-    {
       "title": "U.K. defends sanctions on Israeli settlements after 30-day consulate closure order - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOak1fSE5GeXUtVWtTUF91RzZaWUZZRU5OLVVseHpLNnVNNzJkOU1CVDdja2NGR2xkQUY5dnpOaWUydXdvbHlSODZtZnVrUFh4OHFqQllXOEtfUWg4RTFDTjQ2MFpFZ0NUNndkbHdVbFZrMlU5T1NFYW1ha0Q5eUFPZEdB0gGHAUFVX3lxTFAxc2tOU3U3anVFR1FDLWdqRnpLbTZJc1NsNUVZdDZJQzkzZGVkMWx0bEdhTmtndjJVQmx4TzZIcjhYNDUzZjBPd29kSlB2RUxXSk1yd01SQTJSb3BLajluMWhRalBjcXhKUHV0azlxaTRxeFJhaW43dWlxdGFOXzVVYVF3RkVuSQ?oc=5",
       "source": "Google News Top",
@@ -149,28 +167,10 @@
       "time": "2026-09-09T20:06:40+08:00"
     },
     {
-      "title": "Why are petrol and diesel prices rising again?",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T20:03:59+08:00"
-    },
-    {
-      "title": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU85NG9MYWFLeWlTT2o0dXdIc1c1NDFVQTB4MUNPU3JsMXB4aWFKbDE4TWdFRTl4Z1paTktkclZDSWpqQTZPa1RYQlBQTXFDdWdtZTR5M1lXNDFCblN4OXVLZ1BkeUhwUDVrVUpRVVVmd0N1dHhSYTIwSG80SW54cUM4RVBtSWNRdi1zSmZPUGlBUU1xLU9USTJR?oc=5",
+      "title": "Sam Nordquist traveled 1,000 miles for love. His family made the same journey to confront his killers. - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUdPRGs5WVBTUjVGRmVFaFJOT2xLaEgzNXE5VmkzTWRKbDFsbUhSQlFpbnlSa2tfM1NEM1VoQk9pdkRxbWZwODFud21UQTBDMkFKcHBoa25FOHY3OGNoVGhsZ1ptVGt4VUU1VmdHT0RlcExFVGR5UFRXMDllOUpqeVQ1emRaSVIzYlJxd0hNYXVCM3hLdHhwa0RWbzBZdWFpU1ZlQnRURlFmcWNpMC1uRFhuZlNUaG1TZ2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T20:03:30+08:00"
-    },
-    {
-      "title": "Iran attacks vessels, US base in Jordan after tankers sunk - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDlvNkxwRHppand2djA3MGlDR0JReU9haWF2RHlxMWNXWXptZjAwYmZ6WGxGaG5odHY1X3pYaUxhT3JaaXd6RkNDT1draUhmemlaY0xVOWE2ekxpQkdLSUZfZm5VclAxV2ptb3lUSGxfSFJCVGZLUF9QUVJydzNqSEZhTlZQX25uR3pHcUFUZm5ITFVWbmZNQVB4a0lRUdIBowFBVV95cUxPaTdLMkdhVDhrUWJxRHZ0MVZBazhHd0lPcEtPSUVVekE5S1ljSDlQVThpek5pQ2dFdDBMODdVTEx6NjExYk9kMFBfWG9XR0ROREhDNllWRE5qeGFmTTFWanJEeFJ4ZXNEYmZUQ0pqSVFhckJZbE9LNkZ4U3E4MmQzb0pJOV9oZG5lemlrNW5IdEdLZmZTMldWMVRtNndhcjdnU1BN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:03:00+08:00"
-    },
-    {
-      "title": "Learner drivers still forced to wait months to book tests",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T19:57:34+08:00"
+      "time": "2026-09-09T20:04:00+08:00"
     }
   ]
 }
