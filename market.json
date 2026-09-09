@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T20:32:30.847784+08:00",
+  "generatedAt": "2026-09-09T21:03:33.190307+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622331.36,
-      "changePct": 1.33
+      "priceHkd": 623593.6,
+      "changePct": 1.38
     },
     "ETH": {
-      "priceHkd": 19606.35,
-      "changePct": 1.12
+      "priceHkd": 19674.09,
+      "changePct": 1.5
     },
     "SOL": {
-      "priceHkd": 818.42,
-      "changePct": 1.46
+      "priceHkd": 819.91,
+      "changePct": 1.45
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1107.63,
-      "priceUsdOz": 4394.3
+      "priceHkdPerGram": 1110.96,
+      "priceUsdOz": 4407.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.68,
-      "priceUsdOz": 66.19
+      "priceHkdPerGram": 16.84,
+      "priceUsdOz": 66.8
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 749.27,
-      "changePct": 2.73
+      "priceHkd": 750.84,
+      "changePct": 2.95
     },
     "Natural Gas": {
-      "priceHkd": 22.44,
-      "changePct": -1.85
+      "priceHkd": 22.4,
+      "changePct": -2.02
     }
   },
   "news": [
     {
+      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T20:47:11+08:00"
+    },
+    {
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
       "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-09T20:25:35+08:00"
+      "time": "2026-09-09T20:36:59+08:00"
+    },
+    {
+      "title": "Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More - CNET",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXN3cHRwTmR1WDhKSnEyaVRqSFcwN25oT2sxQmRSdDBlSm0tMEFHMGkxeUlmRkpDNGhDV0djc0hVTUJlWU9JTnhlVk9IVmNUVmlTb0lfOXJ5ZXFUbC11ME9KdnhhS19UV2VuNDFB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:32:24+08:00"
+    },
+    {
+      "title": "Is China Stealing American AI? Why ‘Distillation’ Has Washington Up in Arms - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmFMRnNQSEJ1SXZJcVJ0QTlWODFsczktc01hNW9wQnU0M3dERHIxRDJnODVsUVhWblF4cmVWYWpwTUh1OFBPVlZ1emRucnY1djdPTW00ZnFJZHktaFpMRVpDS1hGb1FCUXlEeHBpamsxRzl5NFo1eERuMFpWb1B4alNEVlJiMGIxUURwQnZNbHgxTGxZNWxHZENaMFBrR21XcW11MnZQbDRTNk44YVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:30:00+08:00"
     },
     {
       "title": "Share Energy to increase electricity prices by 12.6%",
@@ -95,7 +113,7 @@
       "time": "2026-09-09T19:57:34+08:00"
     },
     {
-      "title": "Wednesday briefing: Iran retaliates; the best way to exercise; New Hampshire primaries; and more - washingtonpost.com",
+      "title": "Wednesday briefing: Iran retaliates; the best way to exercise; New Hampshire primaries; and more - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUE0c3BLVThYalR1T3VoMWRLb2p3c0luXzNtODVoR0dHX3haRzlUX0gydXp5NFZ5c21xZnFaZlJKZjdfUUxoV2ltcTVWSWpzanlDMnVrUjhxcUlRS3Y0a3lMaUtEUWJTLUFnOHNzRDE4MlBmLUFJT3pSRjkwdGZHNldCYUNDOTJzZkVncmFVVnNkdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T19:44:18+08:00"
@@ -119,16 +137,10 @@
       "time": "2026-09-09T19:24:10+08:00"
     },
     {
-      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T19:22:25+08:00"
-    },
-    {
-      "title": "Live updates: Trump reportedly gave $45,000 holiday gifts to Natalie Harp and two other White House aides - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORmdWTEQ0U1ZYdzF2QUhCbmE4cWdoajJJV19MX3NRVXVwRWsxOWtOMzJCSmwxOEZxRm1Mb2JPdkQ4b1pYSWdpTXJIYXBIZWJPLWJNbENGNThrTU5XV0RQRmoyTmxVXzdOVlZPdmU1eVVvbGE2NG1zTmNmWUVJZWZPNHl5c0xTbjBXOGxnU19wYw?oc=5",
+      "title": "Weight regain after obesity drugs tied to higher odds of suicidal thoughts in observational study - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaFhVRFp0ZngycU9RVXBYNWFFaHNyMWZ5MTFLd2k4eXRZUHlOV0h0NGlsU3hiOE5RcnU1TW82ODBWdEFiTGhvMlFpOTJFbUpWYkY0bUxBdmx0SmUtWExMeGoyc3FUZklCTjdqeGxGMm8xZGJvTDdvamVZb0ZnNnJiUTJtaHJfbGFZaFB0dldfZmpRVmtKRlR5MnVZcjdkU3JrcWFGMlQtQVVFZVBRUlpYV1hxQdIBuAFBVV95cUxQbE95OC1HYUh2TzlMdkZHUVE2dVM3SG5PdDRkTHpENXdBbm1fdGtFdkVqWXVZV3lPMlNmYmRteFE5QzZqTk5RSGxEbXF4cTJNZFc5OUdwazNmaFVsY2ViSm13MjE0SHU1ajF2UzUtTjZCd0pPSmRxRGNlQ2RlVUstUWdNblV6Ul9iZ0lNS25Hc2NzZkNVZUJGLWdPNEp3aUR0c1B0RG5rR2hubjVSTjJ1MXBUNVNaRy1t?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T19:08:00+08:00"
+      "time": "2026-09-09T19:00:31+08:00"
     },
     {
       "title": "Russia and Ukraine exchange strikes as two killed at Moldova border",
@@ -155,22 +167,10 @@
       "time": "2026-09-09T18:20:40+08:00"
     },
     {
-      "title": "Apple’s (AAPL) “Surprise and Shine” Event Tests Its Foldable iPhone Against Huawei and Xiaomi - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVURCdHpENlAySGdjT0NnTEQxQ1RNVGJTUnB2WUotbmZISjlvUEUzSVlJM2hDdDFZb1hvVDhXZDFSS0gxREdrYmQ3ZlMzdTdRSGd5OW1mTzZNWUtWNF9LMXYzb2lYU09hNkVzMFAyWC1VNWZsazNvRHZDX01RaVRhbjFTR2hmRkV2OGlCTXFuYkJpem81aUlR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T18:15:21+08:00"
-    },
-    {
       "title": "Utah family details extreme weather, chaos witnessed during Hurricane Lowell - KSL.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRWFzb21ldk1yMWotSEZLNU1lN1dYRjlTMElEQlFqT00xQUtrNUUxVWhsNUJzNTR1Rzg5TnV5SGlralZTNE5jcGZpU2Jibk9tOTlLN3NTUy1uN3pfY3BpUUNqZ1NKRUNIRWtQZTZ1T1BmVFRzUlFrOS1sSHZsSmdsSlZqZ0dkVnFYMHVJTWdpYjcteXc1M2FVajRfWEstOUVtakZLTVpRNUc2MzFhN05DY3d3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T18:13:18+08:00"
-    },
-    {
-      "title": "Family of killed teen call for death penalty in D4vd trial",
-      "link": "https://www.bbc.co.uk/news/articles/c62mn90ppnro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T17:58:48+08:00"
     }
   ]
 }
