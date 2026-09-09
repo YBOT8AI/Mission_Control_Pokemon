@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T04:18:43.007738+08:00",
+  "generatedAt": "2026-09-10T04:49:47.697524+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 613511.36,
+      "priceHkd": 613456.48,
       "changePct": -0.36
     },
     "ETH": {
-      "priceHkd": 19341.12,
-      "changePct": -0.82
+      "priceHkd": 19349.2,
+      "changePct": -0.65
     },
     "SOL": {
-      "priceHkd": 802.35,
-      "changePct": -1.07
+      "priceHkd": 802.5,
+      "changePct": -0.83
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.34,
-      "priceUsdOz": 4397.1
+      "priceHkdPerGram": 1109.22,
+      "priceUsdOz": 4400.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.96,
-      "priceUsdOz": 67.27
+      "priceHkdPerGram": 16.99,
+      "priceUsdOz": 67.39
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 759.54,
-      "changePct": 4.14
+      "priceHkd": 757.66,
+      "changePct": 3.88
     },
     "Natural Gas": {
-      "priceHkd": 22.01,
-      "changePct": -3.74
+      "priceHkd": 21.99,
+      "changePct": -3.81
     }
   },
   "news": [
     {
-      "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
+      "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T04:06:00+08:00"
+      "time": "2026-09-10T04:30:00+08:00"
+    },
+    {
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T04:28:04+08:00"
+    },
+    {
+      "title": "Iran referred to UN Security Council for nuclear non-compliance",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T04:22:51+08:00"
+    },
+    {
+      "title": "Apple event 2026: Folding iPhone Duo, iPhone 18 Pro, added AI features and more - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c2d2OGUydFZIODlzQnBwU2tDeE9LMmtGU1lHQno5bF9HeUhya0RrVlVQOHRqNXZjZEpvNU5XVEhRMEJwTjN6SVJZMUdUMXVQVHhBbGlfajFqcENQbnMwQmpYN3ZBS3FqN0t2cTdMMFIta3lZV3fSAXtBVV95cUxQRkRpMkhNRkMyMHFzZThLQlNlanhPZkdKclRfT2tFaFFJTEIwWFhPNjV0QWZLRE1LY20xTUc4a1lNX3V5cHB3c0ZzWmVYR3ktSmhGM1NtbC1iSG8zTldoRmVhZC1iWV9yU1kxdmJfNE12Yk9rSXRLaVk5OVU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T04:15:00+08:00"
+    },
+    {
+      "title": "Report: Brock Bowers to miss \"a game or two\" after meniscus trim - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzNYT05ZU1EzYUNIYUJlVDVwN2tvLXgxM0hQQ0llTDJ1TlJrU0pmZldMVXdMdGxzWGNtTnd4TmREYkRQb1JyWFhBSEZLSWdfQ1VnSlFxQVFTUUpEclJkNGlXLUlMTVVkdHZKbjNaUHdCaUxSX0wyeGVpeXp5VHc2UXNZVXhHbFNIMDA0NjAxcGRseWZKV1lkSFNPTlp3QmNqcE1CZ2p1c01BTGdzMXpEMXdDckJCVjZDUHlpRzZkZWw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T04:06:13+08:00"
     },
     {
       "title": "New Accuser Sues Foundations With Ties to Cesar Chavez - The New York Times",
@@ -71,10 +95,22 @@
       "time": "2026-09-10T04:00:33+08:00"
     },
     {
-      "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T03:38:00+08:00"
+      "time": "2026-09-10T03:22:49+08:00"
+    },
+    {
+      "title": "Zelenskiy's plane almost hit by drone on Tuesday, Norway PM says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JTaC1oOWFvY2xYWEI5a3VVdTlpaktkSXJud0xnbTRNY3lNVzZoTU1zX2ZuZWZlckpSM0oxbHdZcUt1WnRlUFROeW80eDQxZEpQM2RQSlppcXRpNGpBMG1pb1FweXhwZjYydGtNNjM5cDVVVlo1d184UXRlUFUtTjhJN19nTjhKd2trWFF0a0g1SHByOHd6VWJFSFpwTVRZNk1TS1dZd3VkS3JS?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T03:14:08+08:00"
+    },
+    {
+      "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBncm1wRXlSS1NZcE9hMTNQVndscGIzcHotSEgzLVc0VllUT2h0Wi01MDVndHhsWVlYOXlmTy1LUmhxbWhuLUpMYUVyUXM4TTZqQ3BjY1hnZXhRd21wTTJtUnF3aw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T03:07:40+08:00"
     },
     {
       "title": "Who were the Denisovans? Rich trove of fossils and tools paints new picture - Nature",
@@ -83,22 +119,16 @@
       "time": "2026-09-10T03:02:48+08:00"
     },
     {
-      "title": "Anthropic researchers say AI could cause human extinction by 2030 - theguardian.com",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T02:58:00+08:00"
     },
     {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T02:53:15+08:00"
-    },
-    {
-      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWZPaTN5NnJWQ3pXWGpDUEJJcHFXOFN4QUhUa0V1MUZWSTdQQ096ME5CN2FCZ3pFTUxEbkd4V3VGTjkxdU90YlBmVzV2WjhRVmljRE9HQ3F6TkNSMmI0M29HQWFMa0xqOUxDcnp0cXBQNG5oS3ZYS3NSbUhHQUFISEpjaERuUElEeGc?oc=5",
+      "title": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExldUNRQ08xaF9ZUExMbmp6U1NFaHN5bDZWTDNxYXdxeE90eEZIY3JjaVh3aG9MYlowdjhNWjZqMDdsNGMtVTkzOUs1Y1A2UmFEcTNCZ3JwcGFlWHZqREVqSkdZaV95NUJINE1xMUlNQVFGZnFuNWc4NXVzNXVqUnRqLVo0M2VYb3k1NA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T02:39:57+08:00"
+      "time": "2026-09-10T02:53:01+08:00"
     },
     {
       "title": "The quick guide to fall vaccines and when you should get them - Ars Technica",
@@ -125,52 +155,22 @@
       "time": "2026-09-10T02:21:16+08:00"
     },
     {
-      "title": "‘Practical Magic 2’ Hopes To Weave Spell & Keep Box Office Alive; Global Outlook $58M-$63M – Box Office Preview - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSbF9NS09mNFhhbjhWc3doSEtoYng2QjRuNTBqTHlXeVJCWW5WU29lUzNBNlFDZFBCN2xBY2ZkeDhuSTFnbTdvMUc5dG5SNGFtUDgtS3RWX3Y4bjlSWmt4NHY0VXlwR2JMeHB0XzdkN2VlVDRHWU9JTw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T02:17:00+08:00"
-    },
-    {
-      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T02:16:00+08:00"
-    },
-    {
       "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnBrZi1aUHFRaHk2SnBTTWprS3hINkdZTDhCcE9wcG4yWEtZTzZWbXlGcy1UMTJXUGxCV201SUhFQ2liVUZibk4ycmJkZi1sQTdFQlRGVF9HS1FWanREcERoWGhXanNCMkNCeW1FWjJXZ0ViZm82di1TY1VFMlBUUF8wV05XNWdZOGlMbEp5VlNJWWNydXMwNS1kLVd5ODdoSmYtcEpqWk1TUWcyOE4wX211SEZSdXJFX2k0N0RzT0hfUUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T02:08:46+08:00"
     },
     {
-      "title": "Trump administration proposes dramatic overhaul of 2030 census that changes who counts as living in America - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTDR3X0xQYVB6eTV2NHBHRnZpYzRWOGtjaTlQTmFaTXd4TVFHWVFxTGRiVnB6dFpTaGQ0TTN5MENDQzhsc21jeFc3OVlzQ3JicU9kSkdpekd6QVloa1VRbWJHSmtFRkRjWE8xWmFVWF9vTGRwbDlQdk9IdWZrcjljVy1vdHdmTGlSSXljYVMwbHdLR2RpRFpmZ29VbjlUenN4ZFE?oc=5",
+      "title": "Fall TV Preview: 55 Most Anticipated New and Returning Shows of 2026 - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55SEpDdDF3OWo1dDFNNzAwaHBaUjNfMF83dmpJUUtXaDJpZ3VrSEhtbzk0cEZCVGNBMkJoNW9fTVlqN1RlVUlsOGE2azlpVm5lSlZaYU1sLXJVeHNOZXplWVlsbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T02:07:00+08:00"
-    },
-    {
-      "title": "Man charged with assisting Russian intelligence services - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxanRhUVdXUW56UmpvcXM2bE5RVkJyeXJjLXV3UUlER2dWMm5nNHpKQTB0RWkzNExLM2l2bW9WblVnV1ppRFJmZ2NKdS0ycTdWanJyWUNLQU93UQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T02:00:01+08:00"
+      "time": "2026-09-10T02:00:00+08:00"
     },
     {
       "title": "British Police Expand Investigation Into Reform U.K. After Undercover Sting - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkJxTGJXMHB5T0puMXZZaFZVOW9GcWFPdmtsLWpiNktiZ2hpT2IxNVc2OUhETHh2WDVPVHlVMFhJZ3V5eVpCS1o3UkM3d0wxRHJuMUc3RXc2Z1RfWm1vaTE0RlZrYVVQYzhUeERZaWNLT29jWEJCWTFPYmdZMDV2TlB3MG13LTl4YVpuTk5ObG8xMHc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T01:48:26+08:00"
-    },
-    {
-      "title": "iOS 27 launches on September 14th with Siri AI - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CTG55TjI3c004OUx0NUJLcVdOQmlSWU96UnppTXFLQVJqdzFtS2taaHl4RDN4a1dvRnU1eURxdmoxWXRIamQxWmJ0NklRd01EMGRmeU1MY2VVNXhtS0pIODE4TXNuRHJucHB5X1pIMXU4bzA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:41:49+08:00"
-    },
-    {
-      "title": "Exclusive | Inspire Brands CEO Takes Medical Leave, Dunkin’ Boss Steps Up Ahead of IPO - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0pscWxIOS1SQzVBTHpiNzJFRmR1SWJCWHEyajVUd0N3dmFLbmxMX3o3Z3pjUjk1aW83MjJEZ2tZWkVkdms5YVBLUFJsbUwyVTlsNUhsRmNuRGxVMVRWTWs4WXlKaXNtcjdQcjFGZ0JXZTVRZVAtNlExblhSQVV1dThjSFBtMU5odVNEemxJSTRmbFlXa3NGY3V0VHJCMnY0U0R2NWV0MjZxcEoxSmRn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:34:00+08:00"
     }
   ]
 }
