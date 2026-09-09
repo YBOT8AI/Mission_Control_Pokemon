@@ -1,68 +1,74 @@
 {
-  "generatedAt": "2026-09-10T02:45:30.837327+08:00",
+  "generatedAt": "2026-09-10T03:16:29.723356+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615510.56,
-      "changePct": -0.12
+      "priceHkd": 614946.08,
+      "changePct": -0.07
     },
     "ETH": {
-      "priceHkd": 19501.22,
-      "changePct": -0.32
+      "priceHkd": 19452.45,
+      "changePct": -0.27
     },
     "SOL": {
-      "priceHkd": 812.15,
-      "changePct": -0.47
+      "priceHkd": 808.85,
+      "changePct": -0.3
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5499.84,
+      "priceHkd": 5500.22,
       "changePct": -0.36
     },
     "SPX": {
-      "priceHkd": 59945.11,
-      "changePct": -0.36
+      "priceHkd": 59946.99,
+      "changePct": -0.35
     },
     "SPCX": {
-      "priceHkd": 1164.32,
-      "changePct": -3.23
+      "priceHkd": 1161.18,
+      "changePct": -3.49
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1111.84,
-      "priceUsdOz": 4411.0
+      "priceHkdPerGram": 1109.42,
+      "priceUsdOz": 4401.4
     },
     "Silver": {
-      "priceHkdPerGram": 17.08,
-      "priceUsdOz": 67.77
+      "priceHkdPerGram": 17.02,
+      "priceUsdOz": 67.53
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 752.01,
-      "changePct": 3.11
+      "priceHkd": 756.56,
+      "changePct": 3.73
     },
     "Natural Gas": {
-      "priceHkd": 22.09,
-      "changePct": -3.4
+      "priceHkd": 22.0,
+      "changePct": -3.77
     }
   },
   "news": [
     {
-      "title": "Apple's unveils its first folding iPhone",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:58:00+08:00"
+    },
+    {
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T02:53:15+08:00"
+    },
+    {
+      "title": "Apple unveils its first folding iPhone",
       "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T02:39:45+08:00"
-    },
-    {
-      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T02:28:53+08:00"
     },
     {
       "title": "Air traffic failure was avoidable, says transport secretary",
@@ -71,16 +77,28 @@
       "time": "2026-09-10T02:21:16+08:00"
     },
     {
+      "title": "Apple shows off AirPods 5 with improved active noise cancellation - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0d5TzIxOGYzSWtETG9NdEhzM0FXWEJrWm1GT29DVHJaMzNfUzYyZ2VhVmtBam5yQWoxZmhqV2UtZUtWQi1pWGRvUXVZMHF4aHlwNHhDNjBiQ2RZcmVzUm82OWpqcmpDcGpZcm5TWnB0UGJvYV83cW5jWUFhckpQZTN4RWtCcWF3dG1qNzRXRkdmQUlNdTRSZFpFZ0s5SV80YVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:06:40+08:00"
+    },
+    {
+      "title": "Man charged with assisting Russian intelligence services - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxanRhUVdXUW56UmpvcXM2bE5RVkJyeXJjLXV3UUlER2dWMm5nNHpKQTB0RWkzNExLM2l2bW9WblVnV1ppRFJmZ2NKdS0ycTdWanJyWUNLQU93UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:00:01+08:00"
+    },
+    {
       "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T01:49:00+08:00"
     },
     {
-      "title": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
+      "title": "House Democrats weigh AI select committee - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelg5WlFsZHR0VU83MDlCQm1TcGNYaDVobEdCM1hXV0ktM1JaY0xaSnVoaUU2dVhhYXRkc1llWG5DMUVYNVVMTU4tNUM3VW13djJwb1Q4LVpRWHF0OXR4NmtkQzAwMzVsY0d6R0o2ZUtNYTd6U0lTamgyN2pfcFpuZXVGTkRBOF82N05oVEhLNXlqdUpQUHc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T01:47:00+08:00"
+      "time": "2026-09-10T01:49:00+08:00"
     },
     {
       "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
@@ -101,10 +119,10 @@
       "time": "2026-09-10T01:37:08+08:00"
     },
     {
-      "title": "AirPods 5 Announced With Improved Noise Cancellation, Audio Quality, and More - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11MGdDRlR4YUFERVItcGxONkpHSkRWT2k3eThTQWdSRmFHTE1ja3laVWFzUl9xdldnUTdKTXlTZ0RNOVhUalF4Vnl3X2Z6ZHY5eG45OXJ2NzRZZC13LUNWcmloLWFEN011bXhnR1VzYmtTRlFnZ3ljQ2dB?oc=5",
+      "title": "Scientists Who Study Sleep and Narcolepsy Win Prestigious Lasker Award - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRTl3X2tJRVhBa3ZSMi1IWU1MUFJTX2p4WUxQX0dCNVJ3VUM1TEFkdkRCb0x1ZWQzNTdSVmVDRHBfYW5OZkdTdEdZYVl6aXowSzh4TW1RLTRwNjhqS2ZFYXVaMF85UFVVdy1YLVFLd0ZrNkNOWlJ4a2ZIUDJaZ3BYb2Z3ME93ejB5UUJMbnlmbkJHX2s?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T01:33:23+08:00"
+      "time": "2026-09-10T01:32:10+08:00"
     },
     {
       "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight - NPR",
@@ -123,6 +141,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T01:06:48+08:00"
+    },
+    {
+      "title": "‘SNL’ Sets Inde Navarrette, Jalen Brunson, Dakota Johnson and More as Season 52 Hosts - Variety",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanBEbTRSdGs0YmhTcHgzUUFXY0V2STZrUG95YTR2YTNjSndPbFF3Q0dSSzYwQmFzakZEenJQbkJoLXFNcTAxU2cyVnlyb3ZNLUljQ0ZuQmNhM09xS1J1NmpyMzJ5VUhKRFRNN0IzbXFVNTdyNjFqRGVKdkdUcEVSQTBoRFduOHptdi05Vlp5bEFSODA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:00:00+08:00"
     },
     {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42bmsxREpDXzJTbW82TlQ4X2w1czdjVEc2T284Y19mbGdUZm5YSDNXdnZNQ2Y0OEZNaHZuR05tR3hZS040YXFfUHVOckhwMDFYUXlueHlKWkJOZDM5cF9tTEotWUFlLWE1WHZ6V2hRUERqdEFEekpEZ3d3NA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T00:35:44+08:00"
-    },
-    {
-      "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwydke178o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T00:33:49+08:00"
-    },
-    {
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T00:30:28+08:00"
-    },
-    {
-      "title": "Scientists Found a Surprising Effect of Ozempic. It Involves Your Lungs - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBLMXRqenRMNEFXdlZXWWZqc0NpZ1R3ZkZxb0V1T0FrQ0lsR0pLN1E1ODNST192RlVKbTF1dHlUQ3JoSERuWTJxVE1rUEU5WmZLOXBJUHpTVjVkVTBKcFJvTTBIVlkydkpwQ2NVVF94WXoxaVJZRFYxYzFXcFNrVWZnSEw1QWMwc09tNFVOMEJVN1dJRGVpbGJQeDhLcWtTeHJF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T00:10:51+08:00"
-    },
-    {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T00:01:54+08:00"
     }
   ]
 }
