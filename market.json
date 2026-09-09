@@ -1,62 +1,74 @@
 {
-  "generatedAt": "2026-09-10T03:16:29.723356+08:00",
+  "generatedAt": "2026-09-10T03:47:38.673816+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614946.08,
-      "changePct": -0.07
+      "priceHkd": 613817.12,
+      "changePct": -0.12
     },
     "ETH": {
-      "priceHkd": 19452.45,
-      "changePct": -0.27
+      "priceHkd": 19377.74,
+      "changePct": -0.35
     },
     "SOL": {
-      "priceHkd": 808.85,
-      "changePct": -0.3
+      "priceHkd": 806.27,
+      "changePct": -0.22
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5500.22,
-      "changePct": -0.36
+      "priceHkd": 5496.82,
+      "changePct": -0.42
     },
     "SPX": {
-      "priceHkd": 59946.99,
-      "changePct": -0.35
+      "priceHkd": 59910.69,
+      "changePct": -0.42
     },
     "SPCX": {
-      "priceHkd": 1161.18,
-      "changePct": -3.49
+      "priceHkd": 1158.5,
+      "changePct": -3.72
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.42,
-      "priceUsdOz": 4401.4
+      "priceHkdPerGram": 1109.3,
+      "priceUsdOz": 4400.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.02,
-      "priceUsdOz": 67.53
+      "priceHkdPerGram": 16.99,
+      "priceUsdOz": 67.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 756.56,
-      "changePct": 3.73
+      "priceHkd": 756.01,
+      "changePct": 3.65
     },
     "Natural Gas": {
-      "priceHkd": 22.0,
-      "changePct": -3.77
+      "priceHkd": 21.98,
+      "changePct": -3.84
     }
   },
   "news": [
+    {
+      "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T03:14:00+08:00"
+    },
     {
       "title": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T02:58:00+08:00"
+    },
+    {
+      "title": "Emergency slide deploys on Qatari-gifted Air Force One before Trump departs for GOP convention - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYTJ0MFpRU0hsUFh1X2RsMTNNX19tZlpiNUdob0t3OUdvWTVSaFpVN2lDZW5mcjZPZ0JEd0ZlX2FVaE9NQng5aDMzMHNDTkdJUC16UzNhelhBNEU3V2pEbTJIa0JfSHcyYnJDMFlsTEJ3ZS1lT3I3Q1V3NVlFaWlHQTJOQlA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:55:28+08:00"
     },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
@@ -65,10 +77,40 @@
       "time": "2026-09-10T02:53:15+08:00"
     },
     {
-      "title": "Apple unveils its first folding iPhone",
+      "title": "Fold the phone: Apple's new CEO unveils a foldable iPhone - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbWZPaTN5NnJWQ3pXWGpDUEJJcHFXOFN4QUhUa0V1MUZWSTdQQ096ME5CN2FCZ3pFTUxEbkd4V3VGTjkxdU90YlBmVzV2WjhRVmljRE9HQ3F6TkNSMmI0M29HQWFMa0xqOUxDcnp0cXBQNG5oS3ZYS3NSbUhHQUFISEpjaERuUElEeGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:39:57+08:00"
+    },
+    {
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
       "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T02:39:45+08:00"
+    },
+    {
+      "title": "The quick guide to fall vaccines and when you should get them - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJhc1ZIMU9xbVp3cDA0akFoVVdxREhqbjQ1bko5LUlrdmJDQ0w3RzgwTVViaGtlTHhwT1k2ZUtsejhlUV93T2pBbGotRHFWZFQ1M1RIREtiXzM5ZmdzOE1mVjJFM0MtMVczRjdxR003WGhpWVd4R3JqYWpxWFE1T2R6U1d2c2Y2NUh2VklGTFJJTllWclFlazJNWFg3MDRyT0V3ME9tRng?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:39:36+08:00"
+    },
+    {
+      "title": "All-American semifinal guarantees American man in 2026 US Open final - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUwwUEVxU3pwWE02eEJBLXoxZ01EVTZZLWVadklNZEYwRzdvNzhJdGhmLUNTLVBmQkl5TFhsRGlieEstQ3ktUmhZbVNGV0htbWdJS1l6M1pFUXJ2Nm03S0hVNUpGT1BPN1pjSnFva2FuQVk3NFcwZURWamlJQUZFQzJkQkpnempRYWFud3hDajNiOXBtbHFJOTVWUGduVlZvQ0I0eDRnOUJOUdIBrwFBVV95cUxQWDdRdzRVT250R052THFETlV1My1xLVR5MUhEaE9sQlpHUWtkZloxal93Y29laXVXcjQxaVRESGNWQ09tcVBhSTMtSXhtOFFzTW4ydklmQk9xelplbHA1dUFjYTYtZkdFRjJEN3g5cndhc1AyVk9YbE05VFY5QWtzSExmaWtqUEh6V3ZqRk5SQnhTSFE4bGFFbHNvaDBIRFpKZlByNU1XQjlqbnRFbzdF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:33:45+08:00"
+    },
+    {
+      "title": "Apple releases iOS 27 RC ahead of public launch - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR081ZWpmaE9SbVhMMFhsZzEwdU1LWjBRV1ZleTVOWktyelhGNGFzT3FwcWhWeEdicFVnZVhRcDdxZWhyOGRUTlJiQzVxSXlLYllKeTNsYVJXaHA3dE1kVmY3MUxJZG9FTXRyZmZ1VnVOVFRsS3NNZlc2RVYyck9CT2V0Qy0yZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:32:00+08:00"
+    },
+    {
+      "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTZRNVMwMU8xS1pmQlBsdERtOFdzakx1bEhHbXVPRzRDOGpGTnIwUXVFM0Fuc1BWb01TbDJJYVJ4LXN6RC1DbnpFTkN6TDJXZmpOUWZ0QldDbks3UXd1XzBHdXJTcFVNdTU4ajdpS3JoTFJyUHpJX1IxWkJZdDI1RmJFU0Q4SHU1X0k4LXNsaVFVMjRqaFg3TFZwVVo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:25:23+08:00"
     },
     {
       "title": "Air traffic failure was avoidable, says transport secretary",
@@ -77,10 +119,22 @@
       "time": "2026-09-10T02:21:16+08:00"
     },
     {
-      "title": "Apple shows off AirPods 5 with improved active noise cancellation - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0d5TzIxOGYzSWtETG9NdEhzM0FXWEJrWm1GT29DVHJaMzNfUzYyZ2VhVmtBam5yQWoxZmhqV2UtZUtWQi1pWGRvUXVZMHF4aHlwNHhDNjBiQ2RZcmVzUm82OWpqcmpDcGpZcm5TWnB0UGJvYV83cW5jWUFhckpQZTN4RWtCcWF3dG1qNzRXRkdmQUlNdTRSZFpFZ0s5SV80YVE?oc=5",
+      "title": "‘Practical Magic 2’ Hopes To Weave Spell & Keep Box Office Alive; Global Outlook $58M-$63M – Box Office Preview - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSbF9NS09mNFhhbjhWc3doSEtoYng2QjRuNTBqTHlXeVJCWW5WU29lUzNBNlFDZFBCN2xBY2ZkeDhuSTFnbTdvMUc5dG5SNGFtUDgtS3RWX3Y4bjlSWmt4NHY0VXlwR2JMeHB0XzdkN2VlVDRHWU9JTw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T02:06:40+08:00"
+      "time": "2026-09-10T02:17:00+08:00"
+    },
+    {
+      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:16:00+08:00"
+    },
+    {
+      "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnBrZi1aUHFRaHk2SnBTTWprS3hINkdZTDhCcE9wcG4yWEtZTzZWbXlGcy1UMTJXUGxCV201SUhFQ2liVUZibk4ycmJkZi1sQTdFQlRGVF9HS1FWanREcERoWGhXanNCMkNCeW1FWjJXZ0ViZm82di1TY1VFMlBUUF8wV05XNWdZOGlMbEp5VlNJWWNydXMwNS1kLVd5ODdoSmYtcEpqWk1TUWcyOE4wX211SEZSdXJFX2k0N0RzT0hfUUE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:08:46+08:00"
     },
     {
       "title": "Man charged with assisting Russian intelligence services - BBC",
@@ -89,34 +143,16 @@
       "time": "2026-09-10T02:00:01+08:00"
     },
     {
-      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
+      "title": "Fall TV Preview: 55 Most Anticipated New and Returning Shows of 2026 - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE55SEpDdDF3OWo1dDFNNzAwaHBaUjNfMF83dmpJUUtXaDJpZ3VrSEhtbzk0cEZCVGNBMkJoNW9fTVlqN1RlVUlsOGE2azlpVm5lSlZaYU1sLXJVeHNOZXplWVlsbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T01:49:00+08:00"
+      "time": "2026-09-10T02:00:00+08:00"
     },
     {
-      "title": "House Democrats weigh AI select committee - Politico",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelg5WlFsZHR0VU83MDlCQm1TcGNYaDVobEdCM1hXV0ktM1JaY0xaSnVoaUU2dVhhYXRkc1llWG5DMUVYNVVMTU4tNUM3VW13djJwb1Q4LVpRWHF0OXR4NmtkQzAwMzVsY0d6R0o2ZUtNYTd6U0lTamgyN2pfcFpuZXVGTkRBOF82N05oVEhLNXlqdUpQUHc?oc=5",
+      "title": "British Police Expand Investigation Into Reform U.K. After Undercover Sting - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkJxTGJXMHB5T0puMXZZaFZVOW9GcWFPdmtsLWpiNktiZ2hpT2IxNVc2OUhETHh2WDVPVHlVMFhJZ3V5eVpCS1o3UkM3d0wxRHJuMUc3RXc2Z1RfWm1vaTE0RlZrYVVQYzhUeERZaWNLT29jWEJCWTFPYmdZMDV2TlB3MG13LTl4YVpuTk5ObG8xMHc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T01:49:00+08:00"
-    },
-    {
-      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:45:32+08:00"
-    },
-    {
-      "title": "The Apple Watch Ultra 4 is ready for the new Siri - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGlMWk42aWVUeFZQOGh0ZnlPTXQ4MUFRQ2pDZExUWEhmc2UzMVBFUkRPa1BWN01GREtJMjhGOUtJVmg0anpVR2FUZXZZc0syN29zNGFray1UODR3OU5yWFA2VTNPaTBVN3U4VXBVUDV1OUtWVm5ZWWN4ei1lQ2RSbC1IamxSNmtQWnRUd1djR1N2Q3puNlV6VVRUd29jUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:43:16+08:00"
-    },
-    {
-      "title": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExldUNRQ08xaF9ZUExMbmp6U1NFaHN5bDZWTDNxYXdxeE90eEZIY3JjaVh3aG9MYlowdjhNWjZqMDdsNGMtVTkzOUs1Y1A2UmFEcTNCZ3JwcGFlWHZqREVqSkdZaV95NUJINE1xMUlNQVFGZnFuNWc4NXVzNXVqUnRqLVo0M2VYb3k1NA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:37:08+08:00"
+      "time": "2026-09-10T01:48:26+08:00"
     },
     {
       "title": "Scientists Who Study Sleep and Narcolepsy Win Prestigious Lasker Award - The New York Times",
@@ -125,52 +161,16 @@
       "time": "2026-09-10T01:32:10+08:00"
     },
     {
+      "title": "Apple announces AirPods 5 with ‘best-in-class open‑ear active noise cancellation’ - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSk9jNjNQQlVpc3ItS3lCV2FVVnJpbjhmT2pZR1htYkxEUm5OYkJrNklzTEYyWjFwZm0tcXd0Y3loOEk0LWMxajZMdjVadHJRV2VTSm83MlZnaHJ6dTV2TmhRMXFveHVhMk5OU1g0alQtV3VvZzdsdjhjZmtfcEpnNmdiX2lEMVRYdGJXdmNoMA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:31:12+08:00"
+    },
+    {
       "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight - NPR",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamJFY0FlaW5Ud3g5THBuZUl2OGRISFpXNmpDampqODI2WnBkT0ZmN08wdThhU09NdUpMc3dVZVVEbWFMR0g1YVZ2MlVjN2VuOFVwZlZ4Mm03bnZjUGJhWW1pd0NMemZVakZWVi15UG81V0hVTXZhNTNYdkN6dVNKcHQ3UjU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T01:23:15+08:00"
-    },
-    {
-      "title": "Apple event live updates: Ternus announces iPhone 18 Pro and Pro Max in new colors - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c2d2OGUydFZIODlzQnBwU2tDeE9LMmtGU1lHQno5bF9HeUhya0RrVlVQOHRqNXZjZEpvNU5XVEhRMEJwTjN6SVJZMUdUMXVQVHhBbGlfajFqcENQbnMwQmpYN3ZBS3FqN0t2cTdMMFIta3lZV3fSAXtBVV95cUxQRkRpMkhNRkMyMHFzZThLQlNlanhPZkdKclRfT2tFaFFJTEIwWFhPNjV0QWZLRE1LY20xTUc4a1lNX3V5cHB3c0ZzWmVYR3ktSmhGM1NtbC1iSG8zTldoRmVhZC1iWV9yU1kxdmJfNE12Yk9rSXRLaVk5OVU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:15:00+08:00"
-    },
-    {
-      "title": "Google picks Finland for its largest single investment in Europe",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T01:06:48+08:00"
-    },
-    {
-      "title": "‘SNL’ Sets Inde Navarrette, Jalen Brunson, Dakota Johnson and More as Season 52 Hosts - Variety",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanBEbTRSdGs0YmhTcHgzUUFXY0V2STZrUG95YTR2YTNjSndPbFF3Q0dSSzYwQmFzakZEenJQbkJoLXFNcTAxU2cyVnlyb3ZNLUljQ0ZuQmNhM09xS1J1NmpyMzJ5VUhKRFRNN0IzbXFVNTdyNjFqRGVKdkdUcEVSQTBoRFduOHptdi05Vlp5bEFSODA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:00:00+08:00"
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T00:46:53+08:00"
-    },
-    {
-      "title": "Share Energy to increase electricity prices by 12.6%",
-      "link": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T00:41:47+08:00"
-    },
-    {
-      "title": "Watch: Norway bids farewell to King Harald",
-      "link": "https://www.bbc.co.uk/news/videos/clyjd6jz101o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T00:36:45+08:00"
-    },
-    {
-      "title": "Fossil remains unearthed in China offer new clues about how Denisovans lived - CNN",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42bmsxREpDXzJTbW82TlQ4X2w1czdjVEc2T284Y19mbGdUZm5YSDNXdnZNQ2Y0OEZNaHZuR05tR3hZS040YXFfUHVOckhwMDFYUXlueHlKWkJOZDM5cF9tTEotWUFlLWE1WHZ6V2hRUERqdEFEekpEZ3d3NA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T00:35:44+08:00"
     }
   ]
 }
