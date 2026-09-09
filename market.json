@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-09T22:05:41.789220+08:00",
+  "generatedAt": "2026-09-09T22:36:49.216195+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619352.16,
-      "changePct": 1.37
+      "priceHkd": 621367.04,
+      "changePct": 1.18
     },
     "ETH": {
-      "priceHkd": 19587.22,
-      "changePct": 1.63
+      "priceHkd": 19690.87,
+      "changePct": 1.32
     },
     "SOL": {
-      "priceHkd": 812.3,
-      "changePct": 1.09
+      "priceHkd": 815.36,
+      "changePct": 1.04
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5505.56,
-      "changePct": -0.26
+      "priceHkd": 5503.09,
+      "changePct": -0.3
     },
     "SPX": {
-      "priceHkd": 60008.22,
-      "changePct": -0.25
+      "priceHkd": 59980.0,
+      "changePct": -0.3
     },
     "SPCX": {
-      "priceHkd": 1186.43,
-      "changePct": -1.39
+      "priceHkd": 1176.55,
+      "changePct": -2.22
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1115.15,
-      "priceUsdOz": 4424.1
+      "priceHkdPerGram": 1115.6,
+      "priceUsdOz": 4425.9
     },
     "Silver": {
-      "priceHkdPerGram": 17.14,
-      "priceUsdOz": 67.99
+      "priceHkdPerGram": 17.22,
+      "priceUsdOz": 68.31
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 750.68,
-      "changePct": 2.92
+      "priceHkd": 753.35,
+      "changePct": 3.29
     },
     "Natural Gas": {
-      "priceHkd": 22.27,
-      "changePct": -2.57
+      "priceHkd": 22.37,
+      "changePct": -2.16
     }
   },
   "news": [
@@ -77,6 +77,18 @@
       "time": "2026-09-09T21:29:33+08:00"
     },
     {
+      "title": "Fearless US stock market vulnerable to shocks as midterms loom - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRiSTVzTlAwaTR4T2ItUGVHUDBTSDJvT2ZJZERDZ25sQVhlaWFhbFhIdkk0Mzh0RVJhTnpRQkhvUmkxOER5NHlQbGhTZDUyR0VQa0FkcWpvOWRDMzRRekFJQTZnSnpYdnRNY2NzcWFhaTFnLVRZYzNKZHhfVGFabmxiMkZzdzloc3RKRmM3ME9FbW5TN1RkOGdIRmdGUU1ablVTQTFGbTQ1N2tUZ1E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:20:23+08:00"
+    },
+    {
+      "title": "John Malkovich cancels Israel performance over false quote attributed to him - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVW82cld0azRVZDVsYkZkOHU1bElXLWpBZ2pDbHlEbHdJbDZwUklUUExvVDdsb2YyMjdBYzBmN2RyVHJWYmE4TTk2SHc5M1VzRnpRaU10dFF6cG1hR2sxUDdjdXB5eGM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T21:08:48+08:00"
+    },
+    {
       "title": "What tariffs will really cost Canadians and Americans",
       "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -89,10 +101,22 @@
       "time": "2026-09-09T20:43:48+08:00"
     },
     {
+      "title": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVkUk1pelFwbVdlSDVHSl9Ydl9qV2RXOFFmbjVfU2p5QmVWVy1fUjc4YWpBOFA2ZFZLbC1iOFg3SUtMU0RVT1hKc19senRUZlhjbzlLbEtSMFYxZm9FQWZyNUY2TWYxOVY3T2lPeGQ3NXl3ckRmMnpsM0cxV3dUby1Mc2RSWmNrMXMzMVVB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:39:00+08:00"
+    },
+    {
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
       "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T20:36:59+08:00"
+    },
+    {
+      "title": "Apple Event 2026 Live: The First Foldable iPhone, iPhone 18 Pro, Apple Watch 12 and More - CNET",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOQXN3cHRwTmR1WDhKSnEyaVRqSFcwN25oT2sxQmRSdDBlSm0tMEFHMGkxeUlmRkpDNGhDV0djc0hVTUJlWU9JTnhlVk9IVmNUVmlTb0lfOXJ5ZXFUbC11ME9KdnhhS19UV2VuNDFB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:32:24+08:00"
     },
     {
       "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
@@ -131,46 +155,22 @@
       "time": "2026-09-09T20:03:59+08:00"
     },
     {
+      "title": "Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONU85NG9MYWFLeWlTT2o0dXdIc1c1NDFVQTB4MUNPU3JsMXB4aWFKbDE4TWdFRTl4Z1paTktkclZDSWpqQTZPa1RYQlBQTXFDdWdtZTR5M1lXNDFCblN4OXVLZ1BkeUhwUDVrVUpRVVVmd0N1dHhSYTIwSG80SW54cUM4RVBtSWNRdi1zSmZPUGlBUU1xLU9USTJR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:03:30+08:00"
+    },
+    {
+      "title": "Iran attacks vessels, US base in Jordan after tankers sunk - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZDlvNkxwRHppand2djA3MGlDR0JReU9haWF2RHlxMWNXWXptZjAwYmZ6WGxGaG5odHY1X3pYaUxhT3JaaXd6RkNDT1draUhmemlaY0xVOWE2ekxpQkdLSUZfZm5VclAxV2ptb3lUSGxfSFJCVGZLUF9QUVJydzNqSEZhTlZQX25uR3pHcUFUZm5ITFVWbmZNQVB4a0lRUdIBowFBVV95cUxPaTdLMkdhVDhrUWJxRHZ0MVZBazhHd0lPcEtPSUVVekE5S1ljSDlQVThpek5pQ2dFdDBMODdVTEx6NjExYk9kMFBfWG9XR0ROREhDNllWRE5qeGFmTTFWanJEeFJ4ZXNEYmZUQ0pqSVFhckJZbE9LNkZ4U3E4MmQzb0pJOV9oZG5lemlrNW5IdEdLZmZTMldWMVRtNndhcjdnU1BN?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:03:00+08:00"
+    },
+    {
       "title": "Learner drivers still forced to wait months to book tests",
       "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T19:57:34+08:00"
-    },
-    {
-      "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3RLTGZfdXRpLTBLdW9HOWNzUEN0bkp6LWl5ZDhLT1h6c0JTQS1IZGhPdG1nOGIyNm1XcnRPWUtzS2lpazI3YjR5RDJ1UVlhSDdoVlgxdGp3TU91VHBuSEhEaUZLTXdCQjBTcGE1OExucjJfVEhVNjlOSVl3TUtSWEtGbzJyQjlBLWtiV09jOEl6eUFjYy0wQ0M5UEtEWTF0TnJqdmlLZGZaWGxFeGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:52:25+08:00"
-    },
-    {
-      "title": "Wednesday briefing: Iran retaliates; the best way to exercise; New Hampshire primaries; and more - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUE0c3BLVThYalR1T3VoMWRLb2p3c0luXzNtODVoR0dHX3haRzlUX0gydXp5NFZ5c21xZnFaZlJKZjdfUUxoV2ltcTVWSWpzanlDMnVrUjhxcUlRS3Y0a3lMaUtEUWJTLUFnOHNzRDE4MlBmLUFJT3pSRjkwdGZHNldCYUNDOTJzZkVncmFVVnNkdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:44:18+08:00"
-    },
-    {
-      "title": "Trump bans some Canadian imports as North America trade war intensifies - Axios",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:42:52+08:00"
-    },
-    {
-      "title": "N Korea has built two-storey uranium enrichment facility, says watchdog",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T19:29:59+08:00"
-    },
-    {
-      "title": "ABC denies ‘Jimmy Kimmel Live!’ ending report, call it ‘inaccurate’ - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UV0ZSaXhzTFQ4cHpadGJCMXc2d0k5d1J4VURLMk0zRUstLVNpcDRmUFMtNnVTYmxGSVZtRmUxTHhteDZTZjBIazJaME1GM0tJWUc3Um0zc05LYTE5dW1lY3lOQ21pNkU2bkHSAW9BVV95cUxNWXQyZEVzSld0eGNkUFZnYUZSQzRtOF91eGFLMEJaM21NWVZnVEFOWVpoZjZSVlo1YzdYbEk2NVlQTFl1RVFONHZ5SDBZd3FhTUdDQkcxeHVveDNTdEp2S0VSX0NiaW1mUWQyekpuM3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:12:33+08:00"
-    },
-    {
-      "title": "Foldable iPhone Duo to Come With Apple Pencil Support - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORng4QVNSUEttdlZjTDVuMW9XZlFpUERZd19LTFQxenpOQUtvMENrdWsyTXIxTDZ0bEptQnYzMmZJUnp0WU45TWgyQzJ3Y2N6bHJTUTUtZF9BUERHa1BpaGNzWmpCOE44bGF1RnlWOFNtWlpTWllVNTVzR0szRUJnNkgtNXM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:06:21+08:00"
     }
   ]
 }
