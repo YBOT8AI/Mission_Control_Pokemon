@@ -1,62 +1,86 @@
 {
-  "generatedAt": "2026-09-09T23:39:01.654661+08:00",
+  "generatedAt": "2026-09-10T00:10:03.385099+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615753.6,
-      "changePct": 0.01
+      "priceHkd": 616843.36,
+      "changePct": -0.11
     },
     "ETH": {
-      "priceHkd": 19507.02,
-      "changePct": 0.0
+      "priceHkd": 19536.89,
+      "changePct": -0.13
     },
     "SOL": {
-      "priceHkd": 807.68,
-      "changePct": -0.59
+      "priceHkd": 808.07,
+      "changePct": -0.92
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5490.9,
-      "changePct": -0.53
+      "priceHkd": 5488.0,
+      "changePct": -0.58
     },
     "SPX": {
-      "priceHkd": 59847.66,
-      "changePct": -0.52
+      "priceHkd": 59817.16,
+      "changePct": -0.57
     },
     "SPCX": {
-      "priceHkd": 1148.14,
-      "changePct": -4.58
+      "priceHkd": 1148.44,
+      "changePct": -4.55
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1110.03,
-      "priceUsdOz": 4403.8
+      "priceHkdPerGram": 1108.32,
+      "priceUsdOz": 4397.0
     },
     "Silver": {
-      "priceHkdPerGram": 17.01,
-      "priceUsdOz": 67.49
+      "priceHkdPerGram": 17.0,
+      "priceUsdOz": 67.46
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 756.95,
-      "changePct": 3.78
+      "priceHkd": 756.56,
+      "changePct": 3.73
     },
     "Natural Gas": {
-      "priceHkd": 22.42,
-      "changePct": -1.92
+      "priceHkd": 22.35,
+      "changePct": -2.23
     }
   },
   "news": [
+    {
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T00:01:54+08:00"
+    },
     {
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
       "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T23:34:09+08:00"
+    },
+    {
+      "title": "Cancer’s toll on 9/11 survivors is accelerating 25 years later - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2o5VlYweWJXV0k4R2QzR3ZqTnlhdmV0SFkzaklKaFdNai10am5BSlhsSzVuZ3V3RGZrV0Q1Uk5nV292MnFGS2x4OHBYMEhCb1JEOHJpQ2FQUVU0TFZURkNwWXdMeTlZeWhVYVdWME5qTUwybXUxNnVFYlZMSmFzMXp6cFRVWHRuQ3gwTlg0ODY3NXlsbU5CeWQ2LWtHYjk3QUlVVnFWU2pRWjQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T23:03:05+08:00"
+    },
+    {
+      "title": "Trump makes GOP midterm convention about himself, much to Democrats’ delight - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1RHOExfVi1QV1ROTVdVcXhUME1OcEl3Um1LRlJncGpiQTU1WFFzM2VZSDB6eHFMT05OY3cxZkpDU1F6am8tMUpveG1OLVo5QldCVFY1V2NpUXZvOTBiZXNBR0ZYZkFhV0M5OHd5SWhsdzN4ZUxDM25Kd1JkTzBHWERaUk9xOERVaGhIaFdReFJGQVdZNFdLcDk0cjhPYnNFTzMtdTBVWDY2LVlHOU9xYUxmLVhVMnh5YVVyRG1xRFBSY0ZWY2d1QVQwajFwdlE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T23:02:58+08:00"
+    },
+    {
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - techcrunch.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSno0NFM4UmFYa1FUdWpYUWRwdlZuWXFGUEU5dHBNYWFnZkZvZ2FUclVNQXU5ZDFDVzZXQVFCQnJSZjRUZW5ZcHRGV2dIZUlldkZ2WE5iRFNMRWRFOThvMjNTS2VhQUxpTGJEd2MwLTU0bVN6T3ZNOGFtbVltVEZzajcyZXpfenRrMTQwSWNqZDdpd2FXbVBveWFJT1NfMjBSTzlZdi1YNkswZzdxY0VTVlY3eHJ1U0c2?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T23:02:47+08:00"
     },
     {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
@@ -65,10 +89,16 @@
       "time": "2026-09-09T23:01:58+08:00"
     },
     {
-      "title": "How the UK’s ban on Israeli settlement goods has limits - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUthdmpieHVQdUVtX0xhN0dfQTd3VVJ1WnRXYk84VWRXU0NFcXFaOTB4by1VSEVTRmxQLV9OcWp5NHAydENHTXdBaHEwTjYzTV95ZnYyZlpZTmRNZkdtcEFfWkpoWWJmaWc1VnlVZFhVd0RMWkVjVTU0M3dieFVYTm82UVhPcmVsLXdRTjJCSHhCZDJrcHY4UktoTkwxRVpLUEt6Z3NiekFORV81dEHSAbMBQVVfeXFMTXd4emtuYmZMUmk1ZW9OVkhScjBrQndQbDJLenU2dFZxdFd0ZXJUenU2Q1FTRDNEalBOVU5PYnl5SXFuY0ZEaXNaNXpRa3k5RHk3SW15TEMzSTBXN2h0SG9FejMwdkQyTFpIOExYckdRWElSZzN0SWRsdm9UMUhCSkJCRllGa1hOU0VWaVpHdkVQVF9hUk44eWoya0Z5YXlLLXdIaVRRNVU3MGV3MVVsbVQ5WHc?oc=5",
+      "title": "Should You Get a DEXA Scan at Menopause? What to Know About Bone Density Tests. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlV1aXVfcjhSNFBMcDFZOTdMZ2IxS0djYkZNY0VEVHJQeEh3TC11LS1HVG9nODVoeFROSkxXYWdpWGloWVhQMlEzejdSOEJqb1JVTXJiUDNORWlhOTVGZUxHeDZGVlFRdzRqbGJSWmR2eE1ZUG42LVV6S3RvOEdOOEotQURTcTVRaFE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T22:31:36+08:00"
+      "time": "2026-09-09T23:00:07+08:00"
+    },
+    {
+      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T22:43:00+08:00"
     },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
@@ -101,16 +131,10 @@
       "time": "2026-09-09T21:54:20+08:00"
     },
     {
-      "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today - macrumors.com",
+      "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2Jzel9FMVdDLWVYN01VbVl4X2xJSEZwZm4tNU9RM1ZJYy1jcUgydWJhLW1qRXJzcFUyMTZBdHF0TGRDaEpCY0Y1LS14VUdIaWJxT3NpNWhQc2V4cUJoUEJEbVZzQ09iM0tCazJiMUpNNEd5WXhiZzhlZ0tsVGJjSw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:54:11+08:00"
-    },
-    {
-      "title": "Travelers Face More Flight Delays After Major Air Traffic Disruption at UK Airports - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTZRNVMwMU8xS1pmQlBsdERtOFdzakx1bEhHbXVPRzRDOGpGTnIwUXVFM0Fuc1BWb01TbDJJYVJ4LXN6RC1DbnpFTkN6TDJXZmpOUWZ0QldDbks3UXd1XzBHdXJTcFVNdTU4ajdpS3JoTFJyUHpJX1IxWkJZdDI1RmJFU0Q4SHU1X0k4LXNsaVFVMjRqaFg3TFZwVVo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:32:53+08:00"
     },
     {
       "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
@@ -131,10 +155,10 @@
       "time": "2026-09-09T21:20:23+08:00"
     },
     {
-      "title": "John Malkovich cancels Israel performance over false quote attributed to him - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVW82cld0azRVZDVsYkZkOHU1bElXLWpBZ2pDbHlEbHdJbDZwUklUUExvVDdsb2YyMjdBYzBmN2RyVHJWYmE4TTk2SHc5M1VzRnpRaU10dFF6cG1hR2sxUDdjdXB5eGM?oc=5",
+      "title": "Missouri Supreme Court Sets Contempt Hearing in Fight Over House Map - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWdYZnJ1Szh2aWQ5THhKb3FhNV9fYkZ0SzlwYlVLcUExM2NuSGpDSTlUY3hKRzJXMVFzc1pTenJrLTV5WHVNUDZ4eE10b2htTmkyS2FBWHBpd2w1TTlvaVV5UG1TTHY0R0FnR19oZkl6a0FpT1g1V0pENDc1TFYwX0VTS21zVzVoSDVF?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T21:08:48+08:00"
+      "time": "2026-09-09T21:13:48+08:00"
     },
     {
       "title": "What tariffs will really cost Canadians and Americans",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPelVyZ2xFUGdGdTVKWTl1SFBkUVo3aEJKLWNqQURhZmVwZEpqd0RERnBieVkxbVBlbXFDMHlzXzN6Njh3N3dBbzhlZ0tFdkNpMUZZbF9OeGpNN0dwNE5yQlRlSldyVzY0dy14MkJ6RERnbkxnWWVDUThueFRxTlQ5ZW9hWE8yZmdWNHZPTHBfRUtDd1ZYZnViY19JNjIyekJ6VEJQVV9ZaF9mdVowdEdicmNPVXh5S1dIYXBfcklBVmRxS2dYbnc3LW9PbVZqME9UZWtFZE50VFRrV003U1dR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T20:48:53+08:00"
-    },
-    {
-      "title": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVkUk1pelFwbVdlSDVHSl9Ydl9qV2RXOFFmbjVfU2p5QmVWVy1fUjc4YWpBOFA2ZFZLbC1iOFg3SUtMU0RVT1hKc19senRUZlhjbzlLbEtSMFYxZm9FQWZyNUY2TWYxOVY3T2lPeGQ3NXl3ckRmMnpsM0cxV3dUby1Mc2RSWmNrMXMzMVVB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:39:00+08:00"
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time - TechCrunch",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0NOWENvRnY5T3BoSjNLbHR2TmZmRXYxU05sRVIyMGRUd0JkbVdYczZUcEphTkxybFZYY1JBdVYyR0NtUmRBUmNmUEhMN0t0cm4zUjJINjJBNFV5LThOOHhpbHZ2RkYwUDZ4M0dHUTYyNDdneFdxUFVUS3hDT29YdG9PZGY1d25oWVZpV2RxdG5zVGszeW5IX0t6VHlmUVBVTjV3TzBn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:30:00+08:00"
-    },
-    {
-      "title": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now' - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXJPZmEtMmR4b3pMTEpYQU1SRWZNQy1ySGxuWEVLWVFzbVI2ZTJOVUVzSzV2cF9SbFozOTg2TXViN0lxb3hNMy0zNnIwOWE3c2Z4NGpIaktPUjZCSW9RVjZkaFhCbEZoT0pleGlOS2h4RjBMRkNSX3lJcFNzZ0drNllLSWxNTFVFOXc0VWYzb2RSLUh3V3lkYWpuVktBNjl5aC02NkNfM2ZlTVpsNmZVSnNSOGtBWTBPNHpXVERPc0ZVNHQwQ1dieW56QTl2a2_SAdQBQVVfeXFMTy1iRjEwRnNkVlF4S0hZam9LZlhEMUpEcFh1bEZVMXpQQTFRV0U1ZXl6TmFua3dSWEZMTVczdkE1VzlMZmctUDBxZWhqVVNKZU94cHQ2ZC1GSGM4ZFFzQUwwbFR4aS04Qk9UeEZxMnpUMXNCNzFYamRLX052b0RDazdOV25KWjRMZXRPR1l5a3ZIaEpCVjk3ekZrcEhzU0hMVC1IWlRHcUlKNzJiNk16ckN1cmhKd2dIOTRRUzJ4b1hxcWNKMW93WHBQdFRMemxjeTcwVGY?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:25:50+08:00"
-    },
-    {
-      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T20:20:40+08:00"
     }
   ]
 }
