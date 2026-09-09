@@ -1,80 +1,80 @@
 {
-  "generatedAt": "2026-09-09T21:34:40.561274+08:00",
+  "generatedAt": "2026-09-09T22:05:41.789220+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 623460.32,
-      "changePct": 1.77
+      "priceHkd": 619352.16,
+      "changePct": 1.37
     },
     "ETH": {
-      "priceHkd": 19697.92,
-      "changePct": 2.17
+      "priceHkd": 19587.22,
+      "changePct": 1.63
     },
     "SOL": {
-      "priceHkd": 818.81,
-      "changePct": 1.89
+      "priceHkd": 812.3,
+      "changePct": 1.09
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5508.38,
-      "changePct": -0.21
+      "priceHkd": 5505.56,
+      "changePct": -0.26
     },
     "SPX": {
-      "priceHkd": 60025.63,
-      "changePct": -0.22
+      "priceHkd": 60008.22,
+      "changePct": -0.25
     },
     "SPCX": {
-      "priceHkd": 1189.56,
-      "changePct": -1.13
+      "priceHkd": 1186.43,
+      "changePct": -1.39
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1117.57,
-      "priceUsdOz": 4433.7
+      "priceHkdPerGram": 1115.15,
+      "priceUsdOz": 4424.1
     },
     "Silver": {
-      "priceHkdPerGram": 17.11,
-      "priceUsdOz": 67.87
+      "priceHkdPerGram": 17.14,
+      "priceUsdOz": 67.99
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 751.62,
-      "changePct": 3.05
+      "priceHkd": 750.68,
+      "changePct": 2.92
     },
     "Natural Gas": {
-      "priceHkd": 22.4,
-      "changePct": -2.02
+      "priceHkd": 22.27,
+      "changePct": -2.57
     }
   },
   "news": [
     {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T21:29:33+08:00"
+      "title": "Sapporo to move some beer production from Canada to US after tariffs",
+      "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T22:01:24+08:00"
+    },
+    {
+      "title": "More flight cancellations as fallout from air traffic control glitch continues",
+      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T21:59:42+08:00"
     },
     {
       "title": "Share Energy to increase electricity prices by 12.6%",
       "link": "https://www.bbc.co.uk/news/articles/c86x0v4ey5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-09T21:17:56+08:00"
+      "time": "2026-09-09T21:54:50+08:00"
     },
     {
-      "title": "Wednesday briefing: Iran retaliates; the best way to exercise; New Hampshire primaries; and more - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUE0c3BLVThYalR1T3VoMWRLb2p3c0luXzNtODVoR0dHX3haRzlUX0gydXp5NFZ5c21xZnFaZlJKZjdfUUxoV2ltcTVWSWpzanlDMnVrUjhxcUlRS3Y0a3lMaUtEUWJTLUFnOHNzRDE4MlBmLUFJT3pSRjkwdGZHNldCYUNDOTJzZkVncmFVVnNkdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:14:18+08:00"
-    },
-    {
-      "title": "John Malkovich cancels Israel performance over false quote attributed to him - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oVW82cld0azRVZDVsYkZkOHU1bElXLWpBZ2pDbHlEbHdJbDZwUklUUExvVDdsb2YyMjdBYzBmN2RyVHJWYmE4TTk2SHc5M1VzRnpRaU10dFF6cG1hR2sxUDdjdXB5eGM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:08:48+08:00"
+      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
+      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T21:29:33+08:00"
     },
     {
       "title": "What tariffs will really cost Canadians and Americans",
@@ -83,10 +83,10 @@
       "time": "2026-09-09T21:06:32+08:00"
     },
     {
-      "title": "More flights delayed after hundreds cancelled by air traffic control glitch",
-      "link": "https://www.bbc.co.uk/news/articles/ce8x3dp1zpxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T20:47:11+08:00"
+      "title": "Brent hits $100, Apple's big launch, Trump's energy investments and more in Morning Squawk - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVNZVlVMRFc1dThWMlR0TUlGMGJfWUY1RGlWQ1kwTWFWMGdvSDdPZU1LSVBXUDZTeE1SU3d3eExjampnRzBpNVNiUGJHdmdQWEtRNnVEeHZsa0VFTjJ1V1BpZHhBSkFpMl9oUHdNU19vT1VjZzRnaTZnU3NuYWZnT1Bwa1Utdl9GRjhB0gGQAUFVX3lxTE5ncEx2dHZERjBza2ZTdGdXTUtjRFBmcFZkTWkyWTNjeTlQdzNmOTlXZndLWGhBdWlMdTVUQ2Mxb0ZzTEJLR2xRcVNJR0RGTU5DV0lVSVVfUzR2eHMwd2czQmtrX2RVWHFlV01jVHBnZlQycVN4NW5WSnBRb3RxYzlWOHg1Q1A3X2VnNDgwXzdyMw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:43:48+08:00"
     },
     {
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
@@ -137,6 +137,18 @@
       "time": "2026-09-09T19:57:34+08:00"
     },
     {
+      "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3RLTGZfdXRpLTBLdW9HOWNzUEN0bkp6LWl5ZDhLT1h6c0JTQS1IZGhPdG1nOGIyNm1XcnRPWUtzS2lpazI3YjR5RDJ1UVlhSDdoVlgxdGp3TU91VHBuSEhEaUZLTXdCQjBTcGE1OExucjJfVEhVNjlOSVl3TUtSWEtGbzJyQjlBLWtiV09jOEl6eUFjYy0wQ0M5UEtEWTF0TnJqdmlLZGZaWGxFeGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T19:52:25+08:00"
+    },
+    {
+      "title": "Wednesday briefing: Iran retaliates; the best way to exercise; New Hampshire primaries; and more - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUE0c3BLVThYalR1T3VoMWRLb2p3c0luXzNtODVoR0dHX3haRzlUX0gydXp5NFZ5c21xZnFaZlJKZjdfUUxoV2ltcTVWSWpzanlDMnVrUjhxcUlRS3Y0a3lMaUtEUWJTLUFnOHNzRDE4MlBmLUFJT3pSRjkwdGZHNldCYUNDOTJzZkVncmFVVnNkdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T19:44:18+08:00"
+    },
+    {
       "title": "Trump bans some Canadian imports as North America trade war intensifies - Axios",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
       "source": "Google News Top",
@@ -147,18 +159,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy0zqk2w92lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T19:29:59+08:00"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Kc1RZVXVkTlNzeFRJUFpfSzFkcDFLakV2UlVGSldHVUJxd01HLUZsYXFTeWU3RUhGd1VVbzlvS3BIMjJhR1RteHN0Qm9aUjI3djdjNU9EYnctZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:24:10+08:00"
-    },
-    {
-      "title": "4,300-year-old tomb of judge and his father discovered in Egypt: \"Exceptionally well-preserved\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9USk5nQzhWLVlBMnpHT3pSdHYyNDRlQ3hDc0xpTkZxVDZ1dzBCenZ3WVZCT2pSb0RMN2xXc0dtTWNUQjgyX0FuWG41WVFHUHFsc082ai03M0I4R1hRVE40TjdWYk5sZmVmcFFkTlFPTDFMT2FpclNCd19sSDk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T19:21:58+08:00"
     },
     {
       "title": "ABC denies ‘Jimmy Kimmel Live!’ ending report, call it ‘inaccurate’ - KTLA",
