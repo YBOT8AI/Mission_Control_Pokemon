@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T18:28:13.116628+08:00",
+  "generatedAt": "2026-09-09T18:59:10.969406+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619932.32,
-      "changePct": 0.33
+      "priceHkd": 618858.24,
+      "changePct": 0.44
     },
     "ETH": {
-      "priceHkd": 19528.58,
-      "changePct": -0.02
+      "priceHkd": 19493.69,
+      "changePct": 0.18
     },
     "SOL": {
-      "priceHkd": 814.34,
-      "changePct": 0.11
+      "priceHkd": 813.01,
+      "changePct": 0.32
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.19,
-      "priceUsdOz": 4396.5
+      "priceHkdPerGram": 1109.63,
+      "priceUsdOz": 4402.2
     },
     "Silver": {
       "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.4
+      "priceUsdOz": 66.43
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 746.21,
-      "changePct": 2.31
+      "priceHkd": 745.98,
+      "changePct": 2.28
     },
     "Natural Gas": {
-      "priceHkd": 22.56,
-      "changePct": -1.3
+      "priceHkd": 22.66,
+      "changePct": -0.89
     }
   },
   "news": [
+    {
+      "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T18:57:15+08:00"
+    },
+    {
+      "title": "AI Use Contributes to Global Decline in Student Reading Skills, OECD Says - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWRxWGFraV9id002Ti1PTy1pN21IOHF0czNUcjVVUzdzTmQyR0sxRHgyZXduQWVwWTVsWkRjdFVxbXZ5aDlBZnNlZkhWUHMxZnAtTENOdTNvMUZfVFZsMzRnZ1ZTQTlKOWlfdzBMX1U1NTlJRzZxdTdpYlVRT0RCTkNMRkh0SzRMRUdqS2hBMmFZN1oyX01zYzFTcGNWV0dXdE03R1pYdEM4bGhoMXpN?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T18:48:05+08:00"
+    },
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T18:46:43+08:00"
+    },
     {
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
@@ -59,10 +77,16 @@
       "time": "2026-09-09T18:20:40+08:00"
     },
     {
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T17:58:27+08:00"
+      "title": "Lindsay Clancy juror speaks after mistrial: \"There was so much doubt\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QeTFFWG1VTzlTSnItYjZpT2NLQi1wMWZYR0l6cGdmLVFrTmlvMXA1VTF6VmEyaW9wWGNmaXR5VXZnaGkzX0xfYzNMaTl4WlAyRWxJejdwX3BhR1hSc21sanBrZzdJNHFGV2JGSkR3T3lZaVZ4R3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T18:17:54+08:00"
+    },
+    {
+      "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T18:11:26+08:00"
     },
     {
       "title": "Learner drivers still waiting 20 weeks to book tests",
@@ -77,22 +101,10 @@
       "time": "2026-09-09T17:47:39+08:00"
     },
     {
-      "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T17:10:03+08:00"
-    },
-    {
       "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish - NBC News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3RLTGZfdXRpLTBLdW9HOWNzUEN0bkp6LWl5ZDhLT1h6c0JTQS1IZGhPdG1nOGIyNm1XcnRPWUtzS2lpazI3YjR5RDJ1UVlhSDdoVlgxdGp3TU91VHBuSEhEaUZLTXdCQjBTcGE1OExucjJfVEhVNjlOSVl3TUtSWEtGbzJyQjlBLWtiV09jOEl6eUFjYy0wQ0M5UEtEWTF0TnJqdmlLZGZaWGxFeGc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T17:01:32+08:00"
-    },
-    {
-      "title": "After a decade as GOP’s main character, Trump gets one more starring role at midterm convention - CNN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3VSelRLUTFVVmNzS3dEVlV2aWZNaVlEa25kNGJyX2EwUXo4bGd5TG5iT20zRXp0MlhtTFpfZV9PRmwzeVQ4NXlMVHlVTzVyQ0hZVEZDRTZ2Nmp2LWp1SVdSU291STZJcll3elR5T1dVWFJrT0RWQThuYXloTUh0ZS1UN0RLTWRZTzhYRWVsZkFYSy12?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T17:00:29+08:00"
+      "time": "2026-09-09T17:06:51+08:00"
     },
     {
       "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island - Fox News",
@@ -101,10 +113,22 @@
       "time": "2026-09-09T17:00:01+08:00"
     },
     {
+      "title": "U.S. agencies say top Chinese AI companies systematically copied American models - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUxsTGJWZ0pWNzFIUEtVdnVmTjVNMmU5ei1VUW52cFJ5b1plbEY5a2xidEllRFR3NXBkdlpHeTFmR1NyNVJ2Y19oSElYd3RrTXhfQVJtZ3JvbEg3TTBYUG1wSFdpY3RZaXJaSk9EdGstZWlpcXJQY0lVdnZYanhkTVNwVzN3R0wwQmVvRDZZMHNwcVhLbG44SXFsZkhBekcxdl85U0dUVXVkVnpVMlBmcXNWS19HX0sz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T16:42:00+08:00"
+    },
+    {
       "title": "Trump bans some Canadian imports as North America trade war intensifies - Axios",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T16:41:52+08:00"
+    },
+    {
+      "title": "Stock futures fall after losing session; Brent crude tops $100 per barrel: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T16:41:08+08:00"
     },
     {
       "title": "Two infants identified in Lancaster County measles-associated deaths - WGAL",
@@ -143,34 +167,10 @@
       "time": "2026-09-09T14:42:01+08:00"
     },
     {
-      "title": "Bessent Dares Traders to Bet Against Yen: ‘I Am the House Now’ - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQU43NnJ3RFh0QXhjRWxxR21lcXBsaExCV1liRVEyS3ZNeUFMR3Y1VlFPNXFkejZmTENhTi0xZjY3T2h4bFJDNjZteDZIN3Rkak1XTEVveFdaaGt1a1VfM0k2RjNSRk44anI4TVdJZFptb0xPbFhINWNNRjZ5Njkzb1RQTFEySW5POEloOFBGTWZxQ3NITmV0dGpxa3FNa0NYVGRfRGVEa3h2Q3VYaVhR?oc=5",
+      "title": "Sinkhole Opens at Nicolas Cage’s Malibu Home, Forcing Evacuations - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWF4aE1oLXlNSHBWVHZPRUFqbWhvSlJFVDhkQzdQakJKUWRwZkdhdGsyMkpwNVFVNVdKa2hzQkVST2lBTzJIYXdPckxPN2c5djJCb01WOVEzUWxwX0tnQ29HVXJWUlloWDNmd3J6dUtLVUFhbnU2Xy1GRzBiYnZvVzhHZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T14:08:00+08:00"
-    },
-    {
-      "title": "Iran attacks American warships and base after U.S. sinks five Iranian tankers - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T13:53:00+08:00"
-    },
-    {
-      "title": "Singaporean man pleads guilty in US to massive crypto heist",
-      "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T13:49:30+08:00"
-    },
-    {
-      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T13:39:16+08:00"
-    },
-    {
-      "title": "North Korea builds new Yongbyon uranium enrichment facility, IAEA says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUl9fZTJYTzhYb1JYZWJjUWJOU3FHSTBGM3NNcmlOYzI1VjZoRU9mdGtjT3ZUR1NlTExYVGpXX2x2THpUUkZxaGtIX3hMRnZRMk9veGNPcUZ2WXJFMllLekN6MmtQSEhxUjdtMkdnWUczeXRuYjdyUDVfVlBPX2x1ZWNBLXU2dWNkNTl0TU9LcGVZazdDSHdjWHgyQWx5b3hGU0I4Mk1Gd2I4Qzl5bGhVRVJUUHp4eEt6ejNRdTBjSmpTZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T13:36:00+08:00"
+      "time": "2026-09-09T14:29:34+08:00"
     }
   ]
 }
