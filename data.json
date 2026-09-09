@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T03:47:38.594788+08:00",
+  "generatedAt": "2026-09-10T04:18:42.928147+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -60,16 +60,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "5e52fef",
-          "message": "chore: remove unused useRouter from admin providers page",
+          "sha": "6425551",
+          "message": "chore: remove unused imports (StaggerReveal, MobileBottomNav, EnhancedProviderCa",
           "author": "evilmoni",
-          "time": "2026-09-10T02:12:04+08:00"
+          "time": "2026-09-10T04:04:21+08:00"
         },
-        "commits30d": 37,
-        "totalCommits": 145,
+        "commits30d": 38,
+        "totalCommits": 146,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 2,
         "behind": 0
       },
       "tests": {
@@ -83,7 +83,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "1 commits not pushed"
+          "2 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -104,16 +104,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "0f92194",
-          "message": "chore: remove unused lucide icons (PieChart/Filter/ArrowUpRight/Lightbulb) from ",
+          "sha": "3cdf727",
+          "message": "chore: remove unused React import from Footer",
           "author": "evilmoni",
-          "time": "2026-09-10T03:05:40+08:00"
+          "time": "2026-09-10T04:05:13+08:00"
         },
-        "commits30d": 82,
-        "totalCommits": 189,
+        "commits30d": 83,
+        "totalCommits": 190,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 2,
+        "ahead": 3,
         "behind": 0
       },
       "tests": {
@@ -126,7 +126,7 @@
         "score": 90,
         "label": "healthy",
         "issues": [
-          "2 commits not pushed"
+          "3 commits not pushed"
         ],
         "actions": [
           "Run 6 test files via `jest`",
@@ -190,16 +190,16 @@
       "classification": "INTERNAL",
       "git": {
         "lastCommit": {
-          "sha": "2e1360e",
-          "message": "chore: improve error messages",
+          "sha": "0801b6d",
+          "message": "chore: remove unused WALLETCONNECT_PROJECT_ID import from WalletModal",
           "author": "ybot",
-          "time": "2026-09-06T12:17:17+08:00"
+          "time": "2026-09-10T04:04:22+08:00"
         },
-        "commits30d": 6,
-        "totalCommits": 42,
+        "commits30d": 7,
+        "totalCommits": 43,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 2,
         "behind": 0
       },
       "tests": {
@@ -213,7 +213,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "1 commits not pushed"
+          "2 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -270,8 +270,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:26:52.923489+08:00",
-        "next_run": "2026-09-10T03:56:52.923489+08:00"
+        "last_run": "2026-09-10T03:56:57.490833+08:00",
+        "next_run": "2026-09-10T04:26:57.490833+08:00"
       },
       {
         "id": "539a150ac028",
@@ -288,8 +288,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:16:36.642449+08:00",
-        "next_run": "2026-09-10T04:16:54.993959+08:00"
+        "last_run": "2026-09-10T03:47:45.953453+08:00",
+        "next_run": "2026-09-10T04:48:00.048195+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -297,8 +297,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:26:52.524659+08:00",
-        "next_run": "2026-09-10T03:56:52.524659+08:00"
+        "last_run": "2026-09-10T03:56:57.246471+08:00",
+        "next_run": "2026-09-10T04:26:57.246471+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -306,8 +306,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:46:55.296858+08:00",
-        "next_run": "2026-09-10T03:56:55.296858+08:00"
+        "last_run": "2026-09-10T04:17:00.048861+08:00",
+        "next_run": "2026-09-10T04:27:00.048861+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -342,8 +342,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:42:55.112000+08:00",
-        "next_run": "2026-09-10T03:57:55.112000+08:00"
+        "last_run": "2026-09-10T04:13:00.021300+08:00",
+        "next_run": "2026-09-10T04:28:00.021300+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -549,8 +549,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:01:07.727878+08:00",
-        "next_run": "2026-09-10T04:00:00+08:00"
+        "last_run": "2026-09-10T04:01:09.043160+08:00",
+        "next_run": "2026-09-10T05:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -648,8 +648,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:05:55.389063+08:00",
-        "next_run": "2026-09-10T04:00:00+08:00"
+        "last_run": "2026-09-10T04:05:32.679971+08:00",
+        "next_run": "2026-09-10T05:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -675,8 +675,8 @@
         "name": "Production Log Monitor — Error Detection + Auto-Fix",
         "schedule": "0 4 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T04:00:55.622809+08:00",
-        "next_run": "2026-09-10T04:00:00+08:00"
+        "last_run": "2026-09-10T04:01:24.509781+08:00",
+        "next_run": "2026-09-11T04:00:00+08:00"
       },
       {
         "id": "3ccae42be4f5",
@@ -765,8 +765,8 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:01:00.343371+08:00",
-        "next_run": "2026-09-10T04:00:00+08:00"
+        "last_run": "2026-09-10T04:01:09.704630+08:00",
+        "next_run": "2026-09-10T05:00:00+08:00"
       }
     ],
     "total": 56,
@@ -790,36 +790,36 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "407Gi",
-    "uptime": "10:24",
+    "diskAvail": "408Gi",
+    "uptime": "10:55",
     "cpu": {
       "loadAvg": [
-        1.44,
-        1.33,
-        1.27
+        1.15,
+        1.43,
+        1.39
       ],
-      "usage": "12.8%"
+      "usage": "12.0%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 37.4
+      "usedPct": 37.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.1",
+        "cpu": "4.2",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.5",
+        "cpu": "1.9",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.6",
+        "cpu": "0.5",
         "mem": "0.0",
         "name": "notifyd"
       },
@@ -1477,7 +1477,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-10T03:47:38.447545+08:00",
+    "generatedAt": "2026-09-10T04:18:42.559297+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1485,8 +1485,8 @@
           "temp": 23.8,
           "code": 3,
           "precip": 0.0,
-          "wind": 7.9,
-          "time": "2026-09-10T03:45"
+          "wind": 7.4,
+          "time": "2026-09-10T04:15"
         },
         "daily": [
           {
@@ -1515,11 +1515,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 23.0,
+          "temp": 22.9,
           "code": 51,
           "precip": 0.1,
-          "wind": 4.0,
-          "time": "2026-09-10T03:45"
+          "wind": 6.2,
+          "time": "2026-09-10T04:15"
         },
         "daily": [
           {
@@ -1555,32 +1555,32 @@
   },
   "activity": [
     {
-      "time": "2026-09-10T03:47:38.594643+08:00",
+      "time": "2026-09-10T04:18:42.928014+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-10T03:47:38.594643+08:00",
+      "time": "2026-09-10T04:18:42.928014+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
     {
-      "time": "2026-09-10T03:05:40+08:00",
+      "time": "2026-09-10T04:05:13+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: remove unused lucide icons (PieChart/Filter/ArrowUpRight/Lightbulb) from ",
+      "text": "💼 TechWealth: chore: remove unused React import from Footer",
       "project": "techwealth"
     },
     {
-      "time": "2026-09-10T02:12:04+08:00",
+      "time": "2026-09-10T04:04:22+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: chore: remove unused useRouter from admin providers page",
-      "project": "kinkin"
+      "text": "🐾 WPO (World Paws Org): chore: remove unused WALLETCONNECT_PROJECT_ID import from WalletModal",
+      "project": "wpo"
     },
     {
-      "time": "2026-09-06T12:17:17+08:00",
+      "time": "2026-09-10T04:04:21+08:00",
       "type": "success",
-      "text": "🐾 WPO (World Paws Org): chore: improve error messages",
-      "project": "wpo"
+      "text": "🚀 KINKIN: chore: remove unused imports (StaggerReveal, MobileBottomNav, EnhancedProviderCa",
+      "project": "kinkin"
     },
     {
       "time": "2026-09-06T12:17:10+08:00",
