@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-09T23:07:52.433528+08:00",
+  "generatedAt": "2026-09-09T23:39:01.654661+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617870.4,
-      "changePct": 0.4
+      "priceHkd": 615753.6,
+      "changePct": 0.01
     },
     "ETH": {
-      "priceHkd": 19574.28,
-      "changePct": 0.49
+      "priceHkd": 19507.02,
+      "changePct": 0.0
     },
     "SOL": {
-      "priceHkd": 810.03,
-      "changePct": 0.06
+      "priceHkd": 807.68,
+      "changePct": -0.59
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5496.9,
-      "changePct": -0.42
+      "priceHkd": 5490.9,
+      "changePct": -0.53
     },
     "SPX": {
-      "priceHkd": 59911.55,
-      "changePct": -0.41
+      "priceHkd": 59847.66,
+      "changePct": -0.52
     },
     "SPCX": {
-      "priceHkd": 1161.26,
-      "changePct": -3.49
+      "priceHkd": 1148.14,
+      "changePct": -4.58
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1106.45,
-      "priceUsdOz": 4389.6
+      "priceHkdPerGram": 1110.03,
+      "priceUsdOz": 4403.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.98,
-      "priceUsdOz": 67.37
+      "priceHkdPerGram": 17.01,
+      "priceUsdOz": 67.49
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 754.99,
-      "changePct": 3.51
+      "priceHkd": 756.95,
+      "changePct": 3.78
     },
     "Natural Gas": {
-      "priceHkd": 22.52,
-      "changePct": -1.47
+      "priceHkd": 22.42,
+      "changePct": -1.92
     }
   },
   "news": [
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T23:34:09+08:00"
+    },
+    {
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T23:01:58+08:00"
+    },
+    {
+      "title": "How the UK’s ban on Israeli settlement goods has limits - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaUthdmpieHVQdUVtX0xhN0dfQTd3VVJ1WnRXYk84VWRXU0NFcXFaOTB4by1VSEVTRmxQLV9OcWp5NHAydENHTXdBaHEwTjYzTV95ZnYyZlpZTmRNZkdtcEFfWkpoWWJmaWc1VnlVZFhVd0RMWkVjVTU0M3dieFVYTm82UVhPcmVsLXdRTjJCSHhCZDJrcHY4UktoTkwxRVpLUEt6Z3NiekFORV81dEHSAbMBQVVfeXFMTXd4emtuYmZMUmk1ZW9OVkhScjBrQndQbDJLenU2dFZxdFd0ZXJUenU2Q1FTRDNEalBOVU5PYnl5SXFuY0ZEaXNaNXpRa3k5RHk3SW15TEMzSTBXN2h0SG9FejMwdkQyTFpIOExYckdRWElSZzN0SWRsdm9UMUhCSkJCRllGa1hOU0VWaVpHdkVQVF9hUk44eWoya0Z5YXlLLXdIaVRRNVU3MGV3MVVsbVQ5WHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T22:31:36+08:00"
+    },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
       "link": "https://www.bbc.co.uk/news/articles/c87ve09pgqzo?at_medium=RSS&at_campaign=rss",
@@ -65,16 +83,10 @@
       "time": "2026-09-09T21:59:42+08:00"
     },
     {
-      "title": "Apple expected to unveil first folding phone, with new CEO Ternus in command - reuters.com",
+      "title": "Apple expected to unveil first folding phone, with new CEO Ternus in command - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:58:01+08:00"
-    },
-    {
-      "title": "Police launch criminal investigation into Reform UK donations - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lVGdwTWdvek9UUExUbURSdmVyYXNIZkEzVGtTNHlhc1hGQi1HV0pmekNlSDk2MXd0bERDQmRIX2ZaSWFnVlZoWUQ5T3p2czRDQnJiOFp2SXNFQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:55:33+08:00"
     },
     {
       "title": "Share Energy to increase electricity prices by 12.6%",
@@ -83,13 +95,13 @@
       "time": "2026-09-09T21:54:50+08:00"
     },
     {
-      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - reuters.com",
+      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:54:20+08:00"
     },
     {
-      "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today - MacRumors",
+      "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today - macrumors.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2Jzel9FMVdDLWVYN01VbVl4X2xJSEZwZm4tNU9RM1ZJYy1jcUgydWJhLW1qRXJzcFUyMTZBdHF0TGRDaEpCY0Y1LS14VUdIaWJxT3NpNWhQc2V4cUJoUEJEbVZzQ09iM0tCazJiMUpNNEd5WXhiZzhlZ0tsVGJjSw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:54:11+08:00"
@@ -113,7 +125,7 @@
       "time": "2026-09-09T21:29:33+08:00"
     },
     {
-      "title": "Fearless US stock market vulnerable to shocks as midterms loom - reuters.com",
+      "title": "Fearless US stock market vulnerable to shocks as midterms loom - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRiSTVzTlAwaTR4T2ItUGVHUDBTSDJvT2ZJZERDZ25sQVhlaWFhbFhIdkk0Mzh0RVJhTnpRQkhvUmkxOER5NHlQbGhTZDUyR0VQa0FkcWpvOWRDMzRRekFJQTZnSnpYdnRNY2NzcWFhaTFnLVRZYzNKZHhfVGFabmxiMkZzdzloc3RKRmM3ME9FbW5TN1RkOGdIRmdGUU1ablVTQTFGbTQ1N2tUZ1E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:20:23+08:00"
@@ -131,46 +143,34 @@
       "time": "2026-09-09T21:06:32+08:00"
     },
     {
+      "title": "NFL Kickoff Game preview: Patriots try to be more competitive in Super Bowl rematch vs. Seahawks - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPelVyZ2xFUGdGdTVKWTl1SFBkUVo3aEJKLWNqQURhZmVwZEpqd0RERnBieVkxbVBlbXFDMHlzXzN6Njh3N3dBbzhlZ0tFdkNpMUZZbF9OeGpNN0dwNE5yQlRlSldyVzY0dy14MkJ6RERnbkxnWWVDUThueFRxTlQ5ZW9hWE8yZmdWNHZPTHBfRUtDd1ZYZnViY19JNjIyekJ6VEJQVV9ZaF9mdVowdEdicmNPVXh5S1dIYXBfcklBVmRxS2dYbnc3LW9PbVZqME9UZWtFZE50VFRrV003U1dR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:48:53+08:00"
+    },
+    {
       "title": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVkUk1pelFwbVdlSDVHSl9Ydl9qV2RXOFFmbjVfU2p5QmVWVy1fUjc4YWpBOFA2ZFZLbC1iOFg3SUtMU0RVT1hKc19senRUZlhjbzlLbEtSMFYxZm9FQWZyNUY2TWYxOVY3T2lPeGQ3NXl3ckRmMnpsM0cxV3dUby1Mc2RSWmNrMXMzMVVB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T20:39:00+08:00"
     },
     {
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T20:36:59+08:00"
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV0NOWENvRnY5T3BoSjNLbHR2TmZmRXYxU05sRVIyMGRUd0JkbVdYczZUcEphTkxybFZYY1JBdVYyR0NtUmRBUmNmUEhMN0t0cm4zUjJINjJBNFV5LThOOHhpbHZ2RkYwUDZ4M0dHUTYyNDdneFdxUFVUS3hDT29YdG9PZGY1d25oWVZpV2RxdG5zVGszeW5IX0t6VHlmUVBVTjV3TzBn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:30:00+08:00"
+    },
+    {
+      "title": "Bessent bond plan details to be revealed as Treasury secretary warns FX traders he's 'the house now' - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOXJPZmEtMmR4b3pMTEpYQU1SRWZNQy1ySGxuWEVLWVFzbVI2ZTJOVUVzSzV2cF9SbFozOTg2TXViN0lxb3hNMy0zNnIwOWE3c2Z4NGpIaktPUjZCSW9RVjZkaFhCbEZoT0pleGlOS2h4RjBMRkNSX3lJcFNzZ0drNllLSWxNTFVFOXc0VWYzb2RSLUh3V3lkYWpuVktBNjl5aC02NkNfM2ZlTVpsNmZVSnNSOGtBWTBPNHpXVERPc0ZVNHQwQ1dieW56QTl2a2_SAdQBQVVfeXFMTy1iRjEwRnNkVlF4S0hZam9LZlhEMUpEcFh1bEZVMXpQQTFRV0U1ZXl6TmFua3dSWEZMTVczdkE1VzlMZmctUDBxZWhqVVNKZU94cHQ2ZC1GSGM4ZFFzQUwwbFR4aS04Qk9UeEZxMnpUMXNCNzFYamRLX052b0RDazdOV25KWjRMZXRPR1l5a3ZIaEpCVjk3ekZrcEhzU0hMVC1IWlRHcUlKNzJiNk16ckN1cmhKd2dIOTRRUzJ4b1hxcWNKMW93WHBQdFRMemxjeTcwVGY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T20:25:50+08:00"
     },
     {
       "title": "Petrol prices rise by 5p over a week as Iran war sends oil higher",
       "link": "https://www.bbc.co.uk/news/articles/cj4jwlx77lro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T20:20:40+08:00"
-    },
-    {
-      "title": "Sinkhole Opens at Nicolas Cage’s Malibu Home, Forcing Evacuations - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWF4aE1oLXlNSHBWVHZPRUFqbWhvSlJFVDhkQzdQakJKUWRwZkdhdGsyMkpwNVFVNVdKa2hzQkVST2lBTzJIYXdPckxPN2c5djJCb01WOVEzUWxwX0tnQ29HVXJWUlloWDNmd3J6dUtLVUFhbnU2Xy1GRzBiYnZvVzhHZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:17:56+08:00"
-    },
-    {
-      "title": "U.K. defends sanctions on Israeli settlements after 30-day consulate closure order - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOak1fSE5GeXUtVWtTUF91RzZaWUZZRU5OLVVseHpLNnVNNzJkOU1CVDdja2NGR2xkQUY5dnpOaWUydXdvbHlSODZtZnVrUFh4OHFqQllXOEtfUWg4RTFDTjQ2MFpFZ0NUNndkbHdVbFZrMlU5T1NFYW1ha0Q5eUFPZEdB0gGHAUFVX3lxTFAxc2tOU3U3anVFR1FDLWdqRnpLbTZJc1NsNUVZdDZJQzkzZGVkMWx0bEdhTmtndjJVQmx4TzZIcjhYNDUzZjBPd29kSlB2RUxXSk1yd01SQTJSb3BLajluMWhRalBjcXhKUHV0azlxaTRxeFJhaW43dWlxdGFOXzVVYVF3RkVuSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:10:31+08:00"
-    },
-    {
-      "title": "White House pulls Tetris-style 'Build The Wall' game after copyright concern",
-      "link": "https://www.bbc.co.uk/news/articles/c9v9djj4m3do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T20:06:40+08:00"
-    },
-    {
-      "title": "Sam Nordquist traveled 1,000 miles for love. His family made the same journey to confront his killers. - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYUdPRGs5WVBTUjVGRmVFaFJOT2xLaEgzNXE5VmkzTWRKbDFsbUhSQlFpbnlSa2tfM1NEM1VoQk9pdkRxbWZwODFud21UQTBDMkFKcHBoa25FOHY3OGNoVGhsZ1ptVGt4VUU1VmdHT0RlcExFVGR5UFRXMDllOUpqeVQ1emRaSVIzYlJxd0hNYXVCM3hLdHhwa0RWbzBZdWFpU1ZlQnRURlFmcWNpMC1uRFhuZlNUaG1TZ2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:04:00+08:00"
     }
   ]
 }
