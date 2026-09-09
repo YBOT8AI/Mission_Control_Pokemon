@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T11:32:04.955922+08:00",
+  "generatedAt": "2026-09-09T12:03:08.638971+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615988.8,
-      "changePct": -0.4
+      "priceHkd": 617596.0,
+      "changePct": -0.15
     },
     "ETH": {
-      "priceHkd": 19502.08,
-      "changePct": 0.19
+      "priceHkd": 19566.37,
+      "changePct": 0.44
     },
     "SOL": {
-      "priceHkd": 807.99,
-      "changePct": -0.09
+      "priceHkd": 812.38,
+      "changePct": 0.39
     }
   },
   "stocks": {
@@ -33,36 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1103.58,
-      "priceUsdOz": 4378.2
+      "priceHkdPerGram": 1103.05,
+      "priceUsdOz": 4376.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.4
+      "priceHkdPerGram": 16.72,
+      "priceUsdOz": 66.35
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 741.12,
-      "changePct": 3.33
+      "priceHkd": 738.45,
+      "changePct": 1.25
     },
     "Natural Gas": {
-      "priceHkd": 22.68,
-      "changePct": -2.76
+      "priceHkd": 22.63,
+      "changePct": -1.03
     }
   },
   "news": [
     {
-      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "title": "Singaporean man pleads guilty in US to massive crypto heist",
+      "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T11:40:48+08:00"
+    },
+    {
+      "title": "Cargo jet tried to abort unsteady landing before Miami crash that killed 5, flight data indicates - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRzhRUkhJNTh0V0lUSFlIMFVDVk9oeVdMUUJveE95Y2E2bGo3RW8tXzVXMTNiR3ptZ05XUmNwWVR5WklxMGNkamhORnRGQThOUENyR1NpbS03SUVvb2ZuLTk2ckFrQXRvSzN6X3A3RHprYnpQSmp3dnV5WGlNTHBubU9iNVczVVdXcVRiR0ZIRnBQdGJ3ZndBZEUyX2lpY2ItaE5ReThPTHVYZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T11:27:36+08:00"
+      "time": "2026-09-09T11:13:00+08:00"
     },
     {
       "title": "Hong Kong's first post-colonial leader dies aged 89",
       "link": "https://www.bbc.co.uk/news/articles/cn457lq938jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T11:09:59+08:00"
+    },
+    {
+      "title": "Trump’s Ability to Channel Voter Concerns Is Tested as Republicans Gather in Dallas - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmVkUk1pelFwbVdlSDVHSl9Ydl9qV2RXOFFmbjVfU2p5QmVWVy1fUjc4YWpBOFA2ZFZLbC1iOFg3SUtMU0RVT1hKc19senRUZlhjbzlLbEtSMFYxZm9FQWZyNUY2TWYxOVY3T2lPeGQ3NXl3ckRmMnpsM0cxV3dUby1Mc2RSWmNrMXMzMVVB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T11:07:02+08:00"
     },
     {
       "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
@@ -77,6 +89,12 @@
       "time": "2026-09-09T10:59:38+08:00"
     },
     {
+      "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship - AP News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T10:16:00+08:00"
+    },
+    {
       "title": "Missouri’s redistricting in flux after dissonant court rulings - Politico",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlZobkoxMGF0eXdjaUc0c012c1ZCelp1Ynk1dzV2eTJQMGR6Z21CV3JFcXE5S2pUUWhpOTZHaW1RbGozMzNXb0lSd3c2MjFsdXd6YWJtNEYwOXV0dVE4c3pNM3ZSWkxwSlFCV3g5blVnTTVpMnUwUks4dkZuNnlzNzRnaldlWWZaWDNPc3VqVm4yWEZTMDBBVlI4TUJZOVE?oc=5",
       "source": "Google News Top",
@@ -89,13 +107,19 @@
       "time": "2026-09-09T10:09:00+08:00"
     },
     {
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T10:07:27+08:00"
+    },
+    {
       "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
       "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T09:45:15+08:00"
     },
     {
-      "title": "Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says - theguardian.com",
+      "title": "Lindsay Clancy juror had reasonable doubt but would not agree to acquit, foreperson says - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hakFrSjZlMWM0VFZ3Z2NlQktBUm5iRGNIczBOY2hGX1Fubkh6WHRiU0tEaC1SMkNNS3NLbFVDdzc1TzVKaXpEU2ZETjdaaXNpSmhqWVBYbnRUeWtnM3BLU0RrS056cWtzUU9FVUw0VXZTYjcteTRPeTRJZkFQeUk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T09:45:00+08:00"
@@ -107,16 +131,16 @@
       "time": "2026-09-09T09:40:30+08:00"
     },
     {
-      "title": "Mamdani releases 170,000 pages of records regarding impact on air quality of 9/11 attacks - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTh5bzR2Q2NJU1NUelZjR3dENGJpUGNMYV9DVllBWUdOeG1kTDQyUWhON094emtlN1RWMW5OVGpvMjJSTVNnNklZNzhhLVQtNDE5RTNkTkJBSWZvNE55UGlENl9FSGFVUllhN0lRRGctZzZxZlpVbnpUOGI1REY4Y1E1WlNKRFk4ejc5cHpzUVQ4OFVONHY3UE9IVDJyTEE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T09:34:00+08:00"
-    },
-    {
-      "title": "Trump didn't oppose UK sanctions on Israeli settlements - axios.com",
+      "title": "Trump didn't oppose UK sanctions on Israeli settlements - Axios",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3gxcHd1VUFCUmx1d093bGRoZ2dHYklOR1NuaUtJVE91bVF0Y1JDRV9DVDJsTmt5V2hncUpVSnJfdGM0akllR0dBWEprVW5oS1FhZkt1MzRyWnRxcXRncnFiRjBDX3RjZ0VkeUJhSjlQOW9XWDlENTF4OGdDYjN5SkFyNHgyZDdROWR1YWotWmJjQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T09:22:40+08:00"
+    },
+    {
+      "title": "Alex Gibney's Elon Musk documentary goes for the jugular in these 3 scenes - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVB4djNINTkyZm1fTGE2Xy1Tcm4xYVkwb1lRbGtkOUkyY1FIUHA4a2JjdlpIdEY2V1ZwdXJ2dWdlYndveUl1YWV4Nmc4NXBQbk9wQ1lVeXYyVzUzME9IVmNTSHp3UGYtVUlUVTRFamFUZ3pCVDZCcHhDSWFQdzd0R0ZMdWdibXE3bDFOYU9iRVlhdkNKbWc4ZndyWFlMUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T09:13:12+08:00"
     },
     {
       "title": "ABC responds to report 'Jimmy Kimmel Live' will end in 2027 - USA Today",
@@ -125,22 +149,10 @@
       "time": "2026-09-09T09:02:00+08:00"
     },
     {
-      "title": "MAC to appeal controversial Western Michigan loss, says replay error gave UM extra second - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWQ1YzI3bEJnaGRRVXg3eEdUN1BobnJyUFFGR3p4eHFFeGc3NmFTcW5tOFhYLWs3RExKelhHWURaUGN4Wkt5aXVYbmp5UklHMktwMTFwUmlLelAxeGRqSE9BTlg3YkNEeDJMa0xIQWk0aVVSdEVDUnQxZjNJRTZxNWxJcHQzTngzWmhqNi12d3MwT2FacnJ2MmRCYWVRa1Y4?oc=5",
+      "title": "John E. Sununu Wins Republican Senate Primary in New Hampshire - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdF91aHdPTFpuZktKNW5RelVMTTdWTlpQbnhsTVh4cjVLVzRmZ3JxY19aTlBta25FdEVRYW5PbDU3RUEwd2cyN1kxcGVJNWJ0Rmxuc1A2SlZ3R3lYeWsxQVVYTWFSRTFxVzB0RmdaeVZqVi1OQ0wzRUUyaEk0RDJwQ0xVMUFrYTFxX0h6cFJBcTZJN2l1Tmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T08:29:04+08:00"
-    },
-    {
-      "title": "US military says it destroyed 5 more Iranian oil tankers after missile attacks on Navy warship - AP News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlN5b1FuNFl6ajd5T0Z0MVppWHZ5Y2hFOHJ4dkd0X1dqMGljMHlOX0FZNE9HSXU4SmoxVUVQVEs5OUg2OG8yM1NyazNZQ1VPU1dCS3p0NmNsUk5rVjBMY0xONjRQWGRtTk1vZkNFOC1PWElwcGZmbk9SUzVRS3JCeTlhN25heDc1b0dWbA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T08:09:00+08:00"
-    },
-    {
-      "title": "Chris Pappas Defeats Progressive Challenger in New Hampshire Senate Primary - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTlZnVzlFb2dHQ2RjcXVFZ3lIT3JodGRVMzRSZThTMWdUTnlHNm9LSlVkeG11SmJRaUFUdXp2UmFNUDQ0NjNScWJ5QW1SZDhJUDduZUd2UUtCUU85eE1ZZVdaeVJDSFFwQUh0bkNqSWQxVjdfYzh5bGhlNE1nZmVXX0JaWlFJcVdqY3hjcjJzZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T08:05:44+08:00"
+      "time": "2026-09-09T08:31:05+08:00"
     },
     {
       "title": "Trump escalates trade war with Canada, moving to ban imports of some motorcycles, dairy and alcohol - NBC News",
@@ -159,18 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cd94j8e9n12o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T07:11:41+08:00"
-    },
-    {
-      "title": "'Constantly on my mind' - 9/11 agony goes on for bereaved, 25 years on",
-      "link": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T07:11:32+08:00"
-    },
-    {
-      "title": "House Republicans split over attending ‘Trumpapalooza’ convention as president’s approval ratings slide - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYU44Wlc2elpHeVJFWlBDN3ZzMFVoVDZ1a01tYmwzSktzbEV4TzJLN3Mtd1U1Zm1jbGJUVkJXTEZ1NXVBbDVoekFvOWFVU3M5U0pUbUxkMFZ5SGo5ZGtLRW9zZldJd3h1TFMxMXRVeVdmeDhraDB4WGFNMnJUNENPWGhEaFp6SDJQSzEtRjIxdmpPcUV5bks2MW5Td010Z1JNREpwaGJzUlBjdVR1enVHVllLamVVYnM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T07:06:20+08:00"
     }
   ]
 }
