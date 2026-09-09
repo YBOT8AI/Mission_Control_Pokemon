@@ -1,62 +1,86 @@
 {
-  "generatedAt": "2026-09-10T00:10:03.385099+08:00",
+  "generatedAt": "2026-09-10T00:41:13.570407+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616843.36,
-      "changePct": -0.11
+      "priceHkd": 617603.84,
+      "changePct": -0.15
     },
     "ETH": {
-      "priceHkd": 19536.89,
-      "changePct": -0.13
+      "priceHkd": 19573.42,
+      "changePct": -0.2
     },
     "SOL": {
-      "priceHkd": 808.07,
-      "changePct": -0.92
+      "priceHkd": 810.26,
+      "changePct": -1.18
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5488.0,
-      "changePct": -0.58
+      "priceHkd": 5493.33,
+      "changePct": -0.48
     },
     "SPX": {
-      "priceHkd": 59817.16,
-      "changePct": -0.57
+      "priceHkd": 59872.28,
+      "changePct": -0.48
     },
     "SPCX": {
-      "priceHkd": 1148.44,
-      "changePct": -4.55
+      "priceHkd": 1145.7,
+      "changePct": -4.78
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.32,
-      "priceUsdOz": 4397.0
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 17.0,
-      "priceUsdOz": 67.46
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 756.56,
-      "changePct": 3.73
+      "priceHkd": 754.44,
+      "changePct": 3.44
     },
     "Natural Gas": {
-      "priceHkd": 22.35,
-      "changePct": -2.23
+      "priceHkd": 22.3,
+      "changePct": -2.43
     }
   },
   "news": [
+    {
+      "title": "Europe's royalty pay respects to King Harald V in Norway",
+      "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T00:30:28+08:00"
+    },
+    {
+      "title": "Air traffic failure was avoidable, says Transport Secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T00:13:40+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil tops $100 per barrel as Tehran fires missiles in retaliation for U.S. blowing up tankers - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T00:02:00+08:00"
+    },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T00:01:54+08:00"
+    },
+    {
+      "title": "Missouri Supreme Court Sets Contempt Hearing in Fight Over House Map - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWdYZnJ1Szh2aWQ5THhKb3FhNV9fYkZ0SzlwYlVLcUExM2NuSGpDSTlUY3hKRzJXMVFzc1pTenJrLTV5WHVNUDZ4eE10b2htTmkyS2FBWHBpd2w1TTlvaVV5UG1TTHY0R0FnR19oZkl6a0FpT1g1V0pENDc1TFYwX0VTS21zVzVoSDVF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T23:58:41+08:00"
     },
     {
       "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
@@ -65,10 +89,22 @@
       "time": "2026-09-09T23:34:09+08:00"
     },
     {
-      "title": "Cancer’s toll on 9/11 survivors is accelerating 25 years later - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2o5VlYweWJXV0k4R2QzR3ZqTnlhdmV0SFkzaklKaFdNai10am5BSlhsSzVuZ3V3RGZrV0Q1Uk5nV292MnFGS2x4OHBYMEhCb1JEOHJpQ2FQUVU0TFZURkNwWXdMeTlZeWhVYVdWME5qTUwybXUxNnVFYlZMSmFzMXp6cFRVWHRuQ3gwTlg0ODY3NXlsbU5CeWQ2LWtHYjk3QUlVVnFWU2pRWjQ?oc=5",
+      "title": "ABC responds to rumored ‘Jimmy Kimmel Live!’ cancellation - Chicago Tribune",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdm5MdWtMcjlSTXdHdk5wdTdENGg0VDNESjRJbzZpYzJXUDBpUWRiRkRQTU1jV0EwSV81SXZPZ2xJTDgxUWRiQURkNVdQV1dRN1h3bjE4T05KM21PakNLSlJlQ1FwM2plTDl3dnJiSEg1LW5leUZtaDg3QTZLQ1V4OTVnd0l2dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T23:03:05+08:00"
+      "time": "2026-09-09T23:21:15+08:00"
+    },
+    {
+      "title": "Archaeologists Just Found the Most Complete Denisovan Record Yet—and It Goes Back 190,000 Years - gizmodo.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWRnNmtaNzlkTWxMb1p3a2wxZ2YtX2VUWmFWRkN5OUlaNHd3N0hOWkVRX1ZYeTk4UjdIU3FacjZpVTVKcEstRDFjREFkRFRBLVhoQkZBVzFIUHRVaG85WFloUlFsMkNtMEpESE5JNlFHT2tTV1BvdXp2a3A1NThMM3A1Q2NIOFFPQjc1WnFrR1ZkVmFVdUhicHEtckNGVmw0NzM1YzI4Rld2QnFHVGJ0YXlSZk00VTZVWW91Vlo3VF9JY3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T23:09:52+08:00"
+    },
+    {
+      "title": "Treasury Department to buy back up to $6 billion in longer-term debt, triple the normal level - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSmhJMGVCa0tNRlFoMFRSdkl2Nm84STZYLWRBcVJhR0Nsb3FpZTBnM1BhN1Rybk9tZjVldE5jcW04R3hoTEFXRUgtV2JLLVBtMHJ5Q09ZQWhSR21sZGNURG5QSnItdkZWVXdVMkdscWdDaTdRa0tKQmd1WDJiQXZPZ2JTclBjOEp4UUk1TFRmam1xTFFZZHZWUXdLRDNaOVlvWXpVME9SYXZua1hoNnE4R0t3eHFOVGNtcGtSeHRUNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T23:03:58+08:00"
     },
     {
       "title": "Trump makes GOP midterm convention about himself, much to Democrats’ delight - The Washington Post",
@@ -77,7 +113,7 @@
       "time": "2026-09-09T23:02:58+08:00"
     },
     {
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - techcrunch.com",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - TechCrunch",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSno0NFM4UmFYa1FUdWpYUWRwdlZuWXFGUEU5dHBNYWFnZkZvZ2FUclVNQXU5ZDFDVzZXQVFCQnJSZjRUZW5ZcHRGV2dIZUlldkZ2WE5iRFNMRWRFOThvMjNTS2VhQUxpTGJEd2MwLTU0bVN6T3ZNOGFtbVltVEZzajcyZXpfenRrMTQwSWNqZDdpd2FXbVBveWFJT1NfMjBSTzlZdi1YNkswZzdxY0VTVlY3eHJ1U0c2?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T23:02:47+08:00"
@@ -89,16 +125,22 @@
       "time": "2026-09-09T23:01:58+08:00"
     },
     {
-      "title": "Should You Get a DEXA Scan at Menopause? What to Know About Bone Density Tests. - The New York Times",
+      "title": "Should You Get a DEXA Scan at Menopause? What to Know About Bone Density Tests. - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlV1aXVfcjhSNFBMcDFZOTdMZ2IxS0djYkZNY0VEVHJQeEh3TC11LS1HVG9nODVoeFROSkxXYWdpWGloWVhQMlEzejdSOEJqb1JVTXJiUDNORWlhOTVGZUxHeDZGVlFRdzRqbGJSWmR2eE1ZUG42LVV6S3RvOEdOOEotQURTcTVRaFE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T23:00:07+08:00"
     },
     {
-      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
+      "title": "Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckZFblplNHZIRmJXc1k4TjhwOWU2ZUtfM190MkpWUW5aN1FxbnJpVVlLZ21fZUF4QXRjcmtmS3Z0ZXExTkFJS28ybE5QUGVHU2JOaGc5Y0NKSzYyWmZ0aXRNS1B6MktTbUt1NTRvWlNVOE0tbEtEbXlWc1RJNDF6eVE2NFBSUEpwOXBFR0xBV1FFVTVZR2ZtbEVkMGpQTUFCM3I1anI5TVc5azNTZk9QYlF0NlNtZkVtOHRlMEpZbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T22:43:00+08:00"
+      "time": "2026-09-09T22:24:40+08:00"
+    },
+    {
+      "title": "Box Office: ‘Practical Magic 2’ Aims to Dethrone ‘Spider-Man: Brand New Day’ With $40 Million Debut - Variety",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNREVkcWxFTnA2Yk5RYkpTZTNDS3YxTzFIVU9fX05OUjRWb2Fad3RpNzE0bG9lUmJKSzl1VktGbE1TMHJyR21YeUFPLUxEb3Uwb0pOY19PMkIyc2RNSi1ZcnV1VHBYRUMzaHVHeW85cmRUZDZZRGJRSnZoOWozc3ptRnV6Z05MOFFhZFk5RlhwMjkwWjZZakl5YzNJalV2UnlzMFlkWmVzbVZXdFlmallfRHptamdoMnU1NTRIRlVqYW85Qi0zVTA1aGl3WU4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T22:21:00+08:00"
     },
     {
       "title": "Sapporo to move some beer production from Canada to US after tariffs",
@@ -125,52 +167,10 @@
       "time": "2026-09-09T21:54:50+08:00"
     },
     {
-      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:54:20+08:00"
-    },
-    {
       "title": "Apple Shares Mysterious Teaser Video Before 'iPhone Duo' Event Today - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc2Jzel9FMVdDLWVYN01VbVl4X2xJSEZwZm4tNU9RM1ZJYy1jcUgydWJhLW1qRXJzcFUyMTZBdHF0TGRDaEpCY0Y1LS14VUdIaWJxT3NpNWhQc2V4cUJoUEJEbVZzQ09iM0tCazJiMUpNNEd5WXhiZzhlZ0tsVGJjSw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T21:54:11+08:00"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T21:29:33+08:00"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Kc1RZVXVkTlNzeFRJUFpfSzFkcDFLakV2UlVGSldHVUJxd01HLUZsYXFTeWU3RUhGd1VVbzlvS3BIMjJhR1RteHN0Qm9aUjI3djdjNU9EYnctZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:29:33+08:00"
-    },
-    {
-      "title": "Fearless US stock market vulnerable to shocks as midterms loom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOTRiSTVzTlAwaTR4T2ItUGVHUDBTSDJvT2ZJZERDZ25sQVhlaWFhbFhIdkk0Mzh0RVJhTnpRQkhvUmkxOER5NHlQbGhTZDUyR0VQa0FkcWpvOWRDMzRRekFJQTZnSnpYdnRNY2NzcWFhaTFnLVRZYzNKZHhfVGFabmxiMkZzdzloc3RKRmM3ME9FbW5TN1RkOGdIRmdGUU1ablVTQTFGbTQ1N2tUZ1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:20:23+08:00"
-    },
-    {
-      "title": "Missouri Supreme Court Sets Contempt Hearing in Fight Over House Map - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdWdYZnJ1Szh2aWQ5THhKb3FhNV9fYkZ0SzlwYlVLcUExM2NuSGpDSTlUY3hKRzJXMVFzc1pTenJrLTV5WHVNUDZ4eE10b2htTmkyS2FBWHBpd2w1TTlvaVV5UG1TTHY0R0FnR19oZkl6a0FpT1g1V0pENDc1TFYwX0VTS21zVzVoSDVF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T21:13:48+08:00"
-    },
-    {
-      "title": "What tariffs will really cost Canadians and Americans",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z4dv6vn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T21:06:32+08:00"
-    },
-    {
-      "title": "NFL Kickoff Game preview: Patriots try to be more competitive in Super Bowl rematch vs. Seahawks - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPelVyZ2xFUGdGdTVKWTl1SFBkUVo3aEJKLWNqQURhZmVwZEpqd0RERnBieVkxbVBlbXFDMHlzXzN6Njh3N3dBbzhlZ0tFdkNpMUZZbF9OeGpNN0dwNE5yQlRlSldyVzY0dy14MkJ6RERnbkxnWWVDUThueFRxTlQ5ZW9hWE8yZmdWNHZPTHBfRUtDd1ZYZnViY19JNjIyekJ6VEJQVV9ZaF9mdVowdEdicmNPVXh5S1dIYXBfcklBVmRxS2dYbnc3LW9PbVZqME9UZWtFZE50VFRrV003U1dR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T20:48:53+08:00"
     }
   ]
 }
