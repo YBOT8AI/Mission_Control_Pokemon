@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T17:26:01.342935+08:00",
+  "generatedAt": "2026-09-09T17:57:04.061124+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -102,13 +102,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "3b835a5",
-          "message": "lucky8: revenue deliberation — 2026-09-09",
+          "sha": "44d9fb0",
+          "message": "docs: precision-correct CIES FIHV route (≥HK$240M NAV, not HK$30M entrants) — ve",
           "author": "evilmoni",
-          "time": "2026-09-09T06:13:25+08:00"
+          "time": "2026-09-09T17:27:08+08:00"
         },
-        "commits30d": 78,
-        "totalCommits": 185,
+        "commits30d": 79,
+        "totalCommits": 186,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -265,8 +265,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T17:25:21.688680+08:00",
-        "next_run": "2026-09-09T17:55:21.688680+08:00"
+        "last_run": "2026-09-09T17:55:24.868525+08:00",
+        "next_run": "2026-09-09T18:25:24.868525+08:00"
       },
       {
         "id": "539a150ac028",
@@ -283,8 +283,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T12:34:22.975835+08:00",
-        "next_run": "2026-09-09T17:55:17.525157+08:00"
+        "last_run": "2026-09-09T17:26:09.624377+08:00",
+        "next_run": "2026-09-09T18:26:23.177128+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -292,8 +292,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-09T17:25:21.098322+08:00",
-        "next_run": "2026-09-09T17:55:21.098322+08:00"
+        "last_run": "2026-09-09T17:55:23.675655+08:00",
+        "next_run": "2026-09-09T18:25:23.675655+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -301,8 +301,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-09T17:25:19.487138+08:00",
-        "next_run": "2026-09-09T17:35:19.487138+08:00"
+        "last_run": "2026-09-09T17:55:23.224661+08:00",
+        "next_run": "2026-09-09T18:05:23.224661+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -328,7 +328,7 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T12:01:53.540203+08:00",
+        "last_run": "2026-09-09T17:26:43.268143+08:00",
         "next_run": "2026-09-09T18:00:00+08:00"
       },
       {
@@ -337,8 +337,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-09T17:25:21.198734+08:00",
-        "next_run": "2026-09-09T17:40:21.198734+08:00"
+        "last_run": "2026-09-09T17:56:24.878345+08:00",
+        "next_run": "2026-09-09T18:11:24.878345+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -427,8 +427,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-09-09T10:33:20.522457+08:00",
-        "next_run": "2026-09-09T23:25:18.023593+08:00"
+        "last_run": "2026-09-09T17:25:35.501608+08:00",
+        "next_run": "2026-09-09T23:25:35.501608+08:00"
       },
       {
         "id": "871bc45fb59e",
@@ -436,7 +436,7 @@
         "name": "Afternoon Briefing (3 PM)",
         "schedule": "0 15 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-08T15:01:16.943268+08:00",
+        "last_run": "2026-09-09T17:26:21.477892+08:00",
         "next_run": "2026-09-10T15:00:00+08:00"
       },
       {
@@ -454,7 +454,7 @@
         "name": "TechWealth Daily Autonomous Workflow",
         "schedule": "0 14 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-08T14:02:39.215418+08:00",
+        "last_run": "2026-09-09T17:27:16.915094+08:00",
         "next_run": "2026-09-10T14:00:00+08:00"
       },
       {
@@ -535,7 +535,7 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T10:00:21.430652+08:00",
+        "last_run": "2026-09-09T17:25:43.543437+08:00",
         "next_run": "2026-09-09T18:00:00+08:00"
       },
       {
@@ -544,7 +544,7 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T12:00:49.900144+08:00",
+        "last_run": "2026-09-09T17:25:47.061102+08:00",
         "next_run": "2026-09-09T18:00:00+08:00"
       },
       {
@@ -553,7 +553,7 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-09T12:01:09.697146+08:00",
+        "last_run": "2026-09-09T17:25:37.264906+08:00",
         "next_run": "2026-09-09T21:00:00+08:00"
       },
       {
@@ -643,7 +643,7 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-09T12:00:43.878490+08:00",
+        "last_run": "2026-09-09T17:27:00.387764+08:00",
         "next_run": "2026-09-09T18:00:00+08:00"
       },
       {
@@ -785,48 +785,48 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "404Gi",
-    "uptime": "2 mins",
+    "diskAvail": "405Gi",
+    "uptime": "33 mins",
     "cpu": {
       "loadAvg": [
-        25.9,
-        12.1,
-        4.89
+        1.48,
+        1.54,
+        1.96
       ],
-      "usage": "26.9%"
+      "usage": "12.2%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 34.7
+      "usedPct": 37.1
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "20.1",
-        "mem": "1.5",
-        "name": "python"
-      },
-      {
-        "cpu": "17.6",
-        "mem": "0.0",
-        "name": "mdsync"
-      },
-      {
-        "cpu": "4.8",
+        "cpu": "3.4",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.0",
-        "mem": "2.1",
-        "name": "Google Chrome Helper (Renderer"
+        "cpu": "3.0",
+        "mem": "0.0",
+        "name": "sysmond"
       },
       {
-        "cpu": "1.5",
+        "cpu": "0.7",
         "mem": "0.0",
-        "name": "git-remote-https"
+        "name": "notifyd"
+      },
+      {
+        "cpu": "0.6",
+        "mem": "0.1",
+        "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.4",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -839,144 +839,54 @@
     },
     "weeks": [
       {
-        "day": "Mon Aug 17",
+        "day": "**Mon Sep 8**",
         "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Commitment day"
+        "pushups": "3️⃣5️⃣/100",
+        "notes": "✅ 50"
       },
       {
-        "day": "Tue Aug 18",
-        "run": "🟨 Makeup",
-        "pushups": "✅ 100",
-        "notes": "50 + 50 makeup"
+        "day": "**Tue Sep 9**",
+        "run": "⏳",
+        "pushups": "⏳",
+        "notes": "✅ 50"
       },
       {
-        "day": "Wed Aug 19",
-        "run": "✅ 10km",
-        "pushups": "✅ 100",
-        "notes": "5km + 5km makeup for Tue"
-      },
-      {
-        "day": "Thu Aug 20",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Fri Aug 21",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
+        "day": "**Wed Sep 10**",
+        "run": "—",
+        "pushups": "—",
         "notes": "—"
       },
       {
-        "day": "Sat Aug 22",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "(was rest day — trained anyway)"
+        "day": "**Thu Sep 11**",
+        "run": "—",
+        "pushups": "—",
+        "notes": "—"
       },
       {
-        "day": "Sun Aug 23",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
+        "day": "**Fri Sep 12**",
+        "run": "—",
+        "pushups": "—",
+        "notes": "—"
       },
       {
-        "day": "Mon Aug 24",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
+        "day": "**Sat Sep 13**",
+        "run": "🛌 Rest",
+        "pushups": "—",
+        "notes": "—"
       },
       {
-        "day": "Tue Aug 25",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Wed Aug 26",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Thu Aug 27",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Fri Aug 28",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Sat Aug 29",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Sun Aug 30",
-        "run": "🟨 **Makeup**",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "Mon Aug 31",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "Completed ✅"
-      },
-      {
-        "day": "**Tue Sep 1**",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "**Completed ✅**"
-      },
-      {
-        "day": "**Wed Sep 2**",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "**Completed ✅**"
-      },
-      {
-        "day": "**Thu Sep 3**",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "**Completed ✅** + 50 leg raises"
-      },
-      {
-        "day": "**Fri Sep 4**",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "✅ 50"
-      },
-      {
-        "day": "**Sat Sep 5**",
-        "run": "✅ 5km (REST DAY)",
-        "pushups": "✅ 100",
-        "notes": "✅ 50"
-      },
-      {
-        "day": "**Sun Sep 6**",
-        "run": "✅ 5km",
-        "pushups": "✅ 100",
-        "notes": "✅ 50"
-      },
-      {
-        "day": "**Mon Sep 7**",
-        "run": "✅ 5km",
-        "pushups": "5️⃣0️⃣/100",
-        "notes": "⏳ Today"
+        "day": "**Sun Sep 14**",
+        "run": "—",
+        "pushups": "—",
+        "notes": "—"
       }
     ],
     "stats": {
-      "daysLogged": 22,
-      "runsCompleted": 20,
-      "pushupsCompleted": 21,
-      "totalDays": 22,
-      "currentStreak": 8
+      "daysLogged": 7,
+      "runsCompleted": 1,
+      "pushupsCompleted": 0,
+      "totalDays": 7,
+      "currentStreak": 0
     }
   },
   "subAgents": [
@@ -1562,16 +1472,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-09T17:26:00.979422+08:00",
+    "generatedAt": "2026-09-09T17:57:03.816601+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 27.6,
+          "temp": 27.1,
           "code": 0,
           "precip": 0.0,
-          "wind": 11.6,
-          "time": "2026-09-09T17:15"
+          "wind": 12.1,
+          "time": "2026-09-09T17:45"
         },
         "daily": [
           {
@@ -1600,11 +1510,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.3,
+          "temp": 27.7,
           "code": 1,
           "precip": 0.0,
-          "wind": 10.7,
-          "time": "2026-09-09T17:15"
+          "wind": 9.4,
+          "time": "2026-09-09T17:45"
         },
         "daily": [
           {
@@ -1640,19 +1550,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-09T17:26:01.342773+08:00",
+      "time": "2026-09-09T17:57:04.060984+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-09T17:26:01.342773+08:00",
+      "time": "2026-09-09T17:57:04.060984+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
     {
-      "time": "2026-09-09T06:13:25+08:00",
+      "time": "2026-09-09T17:27:08+08:00",
       "type": "success",
-      "text": "💼 TechWealth: lucky8: revenue deliberation — 2026-09-09",
+      "text": "💼 TechWealth: docs: precision-correct CIES FIHV route (≥HK$240M NAV, not HK$30M entrants) — ve",
       "project": "techwealth"
     },
     {

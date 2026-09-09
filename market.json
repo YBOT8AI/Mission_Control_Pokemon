@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T17:26:01.455703+08:00",
+  "generatedAt": "2026-09-09T17:57:04.143064+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 622942.88,
-      "changePct": 1.33
+      "priceHkd": 619015.04,
+      "changePct": 0.28
     },
     "ETH": {
-      "priceHkd": 19672.6,
-      "changePct": 1.19
+      "priceHkd": 19542.45,
+      "changePct": 0.06
     },
     "SOL": {
-      "priceHkd": 818.03,
-      "changePct": 1.06
+      "priceHkd": 811.91,
+      "changePct": -0.11
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.74,
-      "priceUsdOz": 4398.7
+      "priceHkdPerGram": 1106.95,
+      "priceUsdOz": 4391.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.8,
-      "priceUsdOz": 66.67
+      "priceHkdPerGram": 16.74,
+      "priceUsdOz": 66.41
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 743.39,
-      "changePct": 1.92
+      "priceHkd": 745.58,
+      "changePct": 2.23
     },
     "Natural Gas": {
-      "priceHkd": 22.67,
-      "changePct": -0.82
+      "priceHkd": 22.58,
+      "changePct": -1.23
     }
   },
   "news": [
+    {
+      "title": "Learner drivers still waiting 20 weeks to book tests",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T17:55:11+08:00"
+    },
+    {
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T17:47:39+08:00"
+    },
     {
       "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
@@ -59,25 +71,7 @@
       "time": "2026-09-09T17:21:50+08:00"
     },
     {
-      "title": "Brent crude rises above $100 a barrel as Middle East conflict escalates - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T17:10:03+08:00"
-    },
-    {
-      "title": "Learner drivers still waiting 20 weeks to book tests",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T17:05:54+08:00"
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after flare up in US-Iran conflict",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T17:03:41+08:00"
-    },
-    {
-      "title": "American Ben Shelton outduels defending champ Alcaraz in U.S. Open’s latest-ever finish - NBC News",
+      "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish - NBC News",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN3RLTGZfdXRpLTBLdW9HOWNzUEN0bkp6LWl5ZDhLT1h6c0JTQS1IZGhPdG1nOGIyNm1XcnRPWUtzS2lpazI3YjR5RDJ1UVlhSDdoVlgxdGp3TU91VHBuSEhEaUZLTXdCQjBTcGE1OExucjJfVEhVNjlOSVl3TUtSWEtGbzJyQjlBLWtiV09jOEl6eUFjYy0wQ0M5UEtEWTF0TnJqdmlLZGZaWGxFeGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T17:01:32+08:00"
@@ -93,6 +87,12 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSXFuVWw3bkdOSFgzeXFOblF2NHRRWHdoWFlDWFM4Z1l2SlMtVWRTZkh1SVVoMVhYSFdpSlQzQi04UWw4dUlyajZ0ZTBSb0IwTXRMVU5xWGpiOVFwNXJnNUNOZ2JHQzJONzA5ZVJ4WXFGNE5TendyYnhsLWw2NC0xNDJCN24zR2RmT0pmT1dzQVZRS3VI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T16:41:52+08:00"
+    },
+    {
+      "title": "Two infants identified in Lancaster County measles-associated deaths - WGAL",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGwtUk4td09pSWcwMXl4N2dFRGJJbU05VVp4Q1JoTnlhTVVqMEZPZFVXZlN3cGprRHZKRG1qUWd2QTh4Zk1yaGdyNjI5QVp6Sk9oN2lqSzAzcnBRcVNKOEZ4T2F4ZTZWTXRXQlVCZEw1Vmw5RUMxTjRSRW9OMXdxaTRVc1RMS0dSLXpzNWxnbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T16:29:00+08:00"
     },
     {
       "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
@@ -119,16 +119,16 @@
       "time": "2026-09-09T15:44:20+08:00"
     },
     {
-      "title": "Travelers Face More Delays After Major Disruption at British Airports - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTZRNVMwMU8xS1pmQlBsdERtOFdzakx1bEhHbXVPRzRDOGpGTnIwUXVFM0Fuc1BWb01TbDJJYVJ4LXN6RC1DbnpFTkN6TDJXZmpOUWZ0QldDbks3UXd1XzBHdXJTcFVNdTU4ajdpS3JoTFJyUHpJX1IxWkJZdDI1RmJFU0Q4SHU1X0k4LXNsaVFVMjRqaFg3TFZwVVo?oc=5",
+      "title": "The Legend of Zelda 40th Anniversary Edition Switch 2 and Accessories Are Up for Preorder - IGN",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWhjYUEtelpxYWZGSWdGN0ZjNFlSTG1vSERhYXp1c09HakFiZU9BYmJ1Y1drRUE0UTlfZ2pEWTFGengwNGRlMGdQSE10dUY1VXM1alFJdWRLdFhrbmhnSVJ6SW04Z21PdmtsNk9kTmxpRVRITHl0TFF4TXEtMUlIUURwOTdYSGNkVl9TcldPeFBYWEFGRFRHV1pBUEN6OUd4a1F1Mk03N2ZFdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T15:02:17+08:00"
+      "time": "2026-09-09T15:14:18+08:00"
     },
     {
-      "title": "New Apple CEO to unveil latest iPhone lineup - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnNEUHIyS2lzSmJQbndlYkJTcnJtNEdnTlRVNU5rTGJUVU9zOTcxNU9keURpVE40eHgzSExCYzRxcTM4bDdzMVBLSmdtRVYwRWczZU4xbDEwN090dkhiMEF6OG1VMWtPcFdhX20xVTQ0QTBSLVJQZTNjVzN3dDRGTzlyeUlUV1JUMk9NOUhlZFFXUQ?oc=5",
+      "title": "Stock futures are little changed after losing session; Brent crude nears $100 per barrel: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T15:02:00+08:00"
+      "time": "2026-09-09T15:00:52+08:00"
     },
     {
       "title": "Asian shares are mixed as Brent crude approaches $100 a barrel - AP News",
@@ -143,34 +143,34 @@
       "time": "2026-09-09T14:42:01+08:00"
     },
     {
+      "title": "Sinkhole Opens at Beachfront Malibu Home, Forcing Evacuations - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWF4aE1oLXlNSHBWVHZPRUFqbWhvSlJFVDhkQzdQakJKUWRwZkdhdGsyMkpwNVFVNVdKa2hzQkVST2lBTzJIYXdPckxPN2c5djJCb01WOVEzUWxwX0tnQ29HVXJWUlloWDNmd3J6dUtLVUFhbnU2Xy1GRzBiYnZvVzhHZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T14:29:34+08:00"
+    },
+    {
+      "title": "New Hampshire primary results: Key takeaways for US midterm elections - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkpDVEhlSndnOGZkMG1zWGpGS1djQVdlT3VtT2phZVBRZXFveUhBazIwd000SkoteU5vMWFkM0VQRV9xblhpZlFJdGthc3RfVTN6QjJrZnhINDViTlpoeHk0dndqaHVfam9NR3VHdHhLRVNTY25TbXBUSGIwYkR6Y1JYc2FfMmd2ckc5bXVRa2FDbldtakdFaDVMTmdNTGd5NG1ueWRB0gGrAUFVX3lxTFBtbmNjN0Jmbkg2U1I2S3FzQTlfcWkzLWdSMGhOTG9vTDNmTGh6Mno5cVFONlRucUxmSHBoREtiOS16RGw3YzlqREUyMzgtTGhsZGtGOWNnTzA4UU9FREVHS2c5VVhEcWw4dUtVc0N0RVFGdFZya0taWkFnMnZoOHBOY1F0d2ZRYldrS25TX1R5cFl3ZWtVT2J3OWtMV0RlcHhNTnR5Um40Mk45RQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T14:28:54+08:00"
+    },
+    {
       "title": "Bessent Dares Traders to Bet Against Yen: ‘I Am the House Now’ - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQU43NnJ3RFh0QXhjRWxxR21lcXBsaExCV1liRVEyS3ZNeUFMR3Y1VlFPNXFkejZmTENhTi0xZjY3T2h4bFJDNjZteDZIN3Rkak1XTEVveFdaaGt1a1VfM0k2RjNSRk44anI4TVdJZFptb0xPbFhINWNNRjZ5Njkzb1RQTFEySW5POEloOFBGTWZxQ3NITmV0dGpxa3FNa0NYVGRfRGVEa3h2Q3VYaVhR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T14:08:00+08:00"
     },
     {
+      "title": "Iran attacks American warships and base after U.S. sinks five Iranian tankers - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldfZlUwY0FCWmkxTF9kZmlRak9fai1nQlpjUC01bmxabUZzaGV3N2NNN1J1aVZIa0Ftc0l3RS1mc2pkeTJxSVNiLU5EaGNBTkN6NG9ZRWJmTWFOY1JhS3A5elZTbjA2dzRlRE9VUTktdjk0MWZMVTFNWUp5NmhVYXpqeWZCQ0l3a3Y5T2x4aDNud2ZuWmdwdDRZeUEyWGtTRGtzRXFWRW83NWRQR3Jncw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T13:53:00+08:00"
+    },
+    {
       "title": "Singaporean man pleads guilty in US to massive crypto heist",
       "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T13:49:30+08:00"
-    },
-    {
-      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
-      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T13:39:16+08:00"
-    },
-    {
-      "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000 - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fV216RjIzMTYzeWJXWkFaekFSU2RGcGR2MzB5Q2FWYlVLZS0zZ3BiOWZUYWI3TFVrT1hNbnBlLWhkdnlhTm5MWVNKOTd4Sll2aHdIRGxpODlFbFg3anhJcTB4dzFEVGR5SDZoYkM3aFNZRkdYRVN3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T13:26:00+08:00"
-    },
-    {
-      "title": "US strikes 5 Iranian oil tankers; Tehran targets Jordan base, US warships - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSVZkSGpmVEVQUWxwTVJzMktrLWQ1R0RESXZqbktnZlo3SmJGM0prNEs3dVg0UUp3WWlzQVdZaUdONHQwOWFwVFU0R19hbm1zZGIyVVFqWkJ3S2c2dEpQQUJ4SHd4VE52UXBwa2pHSGZjWFd3U0xQeTFLQVIzZFBQdS11Y1VoY3NzVGlsTF9WYTduYVVZaUhlV05ob3c0RWFWY3M2Q19zSnlYdkpOTW13LUZrdFpKclnSAbwBQVVfeXFMT3pFYTcwbEJBMkxXWEEya3hZRFhRbzV0dTg4SkFIay1nWkthZFlEY3pFTUNVMnhuRnpTdTZkSzcwT0tmNjBncmpaNzk1akNsUldnWEZkVXNrejB6UEUtMXRpTXhQbHVQYkRiSDZxclQ0S1BUdVc0d1lUT0FmNGdfdzVLLU80czBXSHIwSXJCT3lqTXBCc29qaE9KZk5xM3JjSXBCSm1XX0JEd0VqNjNnY19DMHo3S2M0aWZQWU8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T13:18:57+08:00"
     }
   ]
 }
