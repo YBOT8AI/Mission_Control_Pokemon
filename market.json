@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T17:57:04.143064+08:00",
+  "generatedAt": "2026-09-09T18:28:13.116628+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619015.04,
-      "changePct": 0.28
+      "priceHkd": 619932.32,
+      "changePct": 0.33
     },
     "ETH": {
-      "priceHkd": 19542.45,
-      "changePct": 0.06
+      "priceHkd": 19528.58,
+      "changePct": -0.02
     },
     "SOL": {
-      "priceHkd": 811.91,
-      "changePct": -0.11
+      "priceHkd": 814.34,
+      "changePct": 0.11
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1106.95,
-      "priceUsdOz": 4391.6
+      "priceHkdPerGram": 1108.19,
+      "priceUsdOz": 4396.5
     },
     "Silver": {
       "priceHkdPerGram": 16.74,
-      "priceUsdOz": 66.41
+      "priceUsdOz": 66.4
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 745.58,
-      "changePct": 2.23
+      "priceHkd": 746.21,
+      "changePct": 2.31
     },
     "Natural Gas": {
-      "priceHkd": 22.58,
-      "changePct": -1.23
+      "priceHkd": 22.56,
+      "changePct": -1.3
     }
   },
   "news": [
+    {
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T18:20:40+08:00"
+    },
+    {
+      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
+      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-09T17:58:27+08:00"
+    },
     {
       "title": "Learner drivers still waiting 20 weeks to book tests",
       "link": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
@@ -65,10 +77,10 @@
       "time": "2026-09-09T17:47:39+08:00"
     },
     {
-      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-      "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T17:21:50+08:00"
+      "title": "Brent crude rises above $100 a barrel as Middle East conflict intensifies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T17:10:03+08:00"
     },
     {
       "title": "American Ben Shelton outduels defending champ Alcaraz in latest-ever U.S. Open finish - NBC News",
@@ -77,10 +89,16 @@
       "time": "2026-09-09T17:01:32+08:00"
     },
     {
-      "title": "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T16:59:52+08:00"
+      "title": "After a decade as GOP’s main character, Trump gets one more starring role at midterm convention - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV3VSelRLUTFVVmNzS3dEVlV2aWZNaVlEa25kNGJyX2EwUXo4bGd5TG5iT20zRXp0MlhtTFpfZV9PRmwzeVQ4NXlMVHlVTzVyQ0hZVEZDRTZ2Nmp2LWp1SVdSU291STZJcll3elR5T1dVWFJrT0RWQThuYXloTUh0ZS1UN0RLTWRZTzhYRWVsZkFYSy12?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T17:00:29+08:00"
+    },
+    {
+      "title": "Traffic drama threatens to end Dem governor's tenure as voters head to polls in Rhode Island - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdWhERVdGemlBUjF0ekliVldoclcxMHJWejl3MlIzaW4xVEJ5eGdJZmY3eEN6VEt4UmM3WVFRWmE3TFN0VFdJbXZ6OGFSeGJpRC1MNnN4N012aURZTXREVUE0d2hUQUQzaF9zZGF4NjF0azdJUm9CdTVRekRGQWwteVU4WTZiQWxEbHRaR09pQUlmaDVmcF9Qa0JudS1ma3MzLXNzTTM1d1FzOXpyS0tEQg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T17:00:01+08:00"
     },
     {
       "title": "Trump bans some Canadian imports as North America trade war intensifies - Axios",
@@ -119,40 +137,10 @@
       "time": "2026-09-09T15:44:20+08:00"
     },
     {
-      "title": "The Legend of Zelda 40th Anniversary Edition Switch 2 and Accessories Are Up for Preorder - IGN",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUWhjYUEtelpxYWZGSWdGN0ZjNFlSTG1vSERhYXp1c09HakFiZU9BYmJ1Y1drRUE0UTlfZ2pEWTFGengwNGRlMGdQSE10dUY1VXM1alFJdWRLdFhrbmhnSVJ6SW04Z21PdmtsNk9kTmxpRVRITHl0TFF4TXEtMUlIUURwOTdYSGNkVl9TcldPeFBYWEFGRFRHV1pBUEN6OUd4a1F1Mk03N2ZFdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T15:14:18+08:00"
-    },
-    {
-      "title": "Stock futures are little changed after losing session; Brent crude nears $100 per barrel: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T15:00:52+08:00"
-    },
-    {
-      "title": "Asian shares are mixed as Brent crude approaches $100 a barrel - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1FDWlZxem5yejRWekJjdmdOVW4tU2RQYWpQX2FDWmlHZ3lBOVlYNjdEb01mcUFvM2FhaV9fMG5kUno1VzRjY0F6WkhKbmgxTzUwZXdabXprUjdGbTBuVE5jR2s4QVJqdkt6cS1QTVcwMW82d29FYjBvMFoxdjVrdkxwS0wyY0toNWNYaUpqUkJ6ZkM0bFZHdDk4RU1qWm9Ga0VUQ1J3WQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T14:45:00+08:00"
-    },
-    {
       "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
       "link": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-09T14:42:01+08:00"
-    },
-    {
-      "title": "Sinkhole Opens at Beachfront Malibu Home, Forcing Evacuations - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVWF4aE1oLXlNSHBWVHZPRUFqbWhvSlJFVDhkQzdQakJKUWRwZkdhdGsyMkpwNVFVNVdKa2hzQkVST2lBTzJIYXdPckxPN2c5djJCb01WOVEzUWxwX0tnQ29HVXJWUlloWDNmd3J6dUtLVUFhbnU2Xy1GRzBiYnZvVzhHZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T14:29:34+08:00"
-    },
-    {
-      "title": "New Hampshire primary results: Key takeaways for US midterm elections - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRkpDVEhlSndnOGZkMG1zWGpGS1djQVdlT3VtT2phZVBRZXFveUhBazIwd000SkoteU5vMWFkM0VQRV9xblhpZlFJdGthc3RfVTN6QjJrZnhINDViTlpoeHk0dndqaHVfam9NR3VHdHhLRVNTY25TbXBUSGIwYkR6Y1JYc2FfMmd2ckc5bXVRa2FDbldtakdFaDVMTmdNTGd5NG1ueWRB0gGrAUFVX3lxTFBtbmNjN0Jmbkg2U1I2S3FzQTlfcWkzLWdSMGhOTG9vTDNmTGh6Mno5cVFONlRucUxmSHBoREtiOS16RGw3YzlqREUyMzgtTGhsZGtGOWNnTzA4UU9FREVHS2c5VVhEcWw4dUtVc0N0RVFGdFZya0taWkFnMnZoOHBOY1F0d2ZRYldrS25TX1R5cFl3ZWtVT2J3OWtMV0RlcHhNTnR5Um40Mk45RQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T14:28:54+08:00"
     },
     {
       "title": "Bessent Dares Traders to Bet Against Yen: ‘I Am the House Now’ - Bloomberg.com",
@@ -171,6 +159,18 @@
       "link": "https://www.bbc.co.uk/news/articles/crl6z03pr0do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-09T13:49:30+08:00"
+    },
+    {
+      "title": "South Park creators rename show 'South America' in apparent dig at Trump",
+      "link": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-09T13:39:16+08:00"
+    },
+    {
+      "title": "North Korea builds new Yongbyon uranium enrichment facility, IAEA says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUl9fZTJYTzhYb1JYZWJjUWJOU3FHSTBGM3NNcmlOYzI1VjZoRU9mdGtjT3ZUR1NlTExYVGpXX2x2THpUUkZxaGtIX3hMRnZRMk9veGNPcUZ2WXJFMllLekN6MmtQSEhxUjdtMkdnWUczeXRuYjdyUDVfVlBPX2x1ZWNBLXU2dWNkNTl0TU9LcGVZazdDSHdjWHgyQWx5b3hGU0I4Mk1Gd2I4Qzl5bGhVRVJUUHp4eEt6ejNRdTBjSmpTZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T13:36:00+08:00"
     }
   ]
 }
