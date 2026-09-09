@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T05:51:58.271283+08:00",
+  "generatedAt": "2026-09-10T06:23:01.800489+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612531.36,
-      "changePct": -0.47
+      "priceHkd": 611026.08,
+      "changePct": -0.71
     },
     "ETH": {
-      "priceHkd": 19279.81,
-      "changePct": -0.94
+      "priceHkd": 19213.17,
+      "changePct": -1.41
     },
     "SOL": {
-      "priceHkd": 799.76,
-      "changePct": -1.0
+      "priceHkd": 794.66,
+      "changePct": -1.97
     }
   },
   "stocks": {
@@ -33,36 +33,60 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.78,
-      "priceUsdOz": 4402.8
+      "priceHkdPerGram": 1110.0,
+      "priceUsdOz": 4403.7
     },
     "Silver": {
       "priceHkdPerGram": 16.99,
-      "priceUsdOz": 67.41
+      "priceUsdOz": 67.42
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 757.89,
-      "changePct": 3.91
+      "priceHkd": 761.97,
+      "changePct": 4.47
     },
     "Natural Gas": {
-      "priceHkd": 22.01,
-      "changePct": -3.7
+      "priceHkd": 21.98,
+      "changePct": -3.84
     }
   },
   "news": [
+    {
+      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T06:17:22+08:00"
+    },
+    {
+      "title": "Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTBoUnlPekRRWGcyRzdRUkdsY2UxY2FnSVNBWWN1MS1qc0gyd3VqMEI3ekxxb0Y3SlZiMEd5WXdWQzlXeUQxSWZzZW1xNnVOQjVNWGd3eGoxZlZod0VFTGNrSTVKQ1hodXl4TnowVjVFcGx0V3dQWHl3bDRRaDRGRTBqZlRFTUdQN0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T06:04:28+08:00"
+    },
+    {
+      "title": "Federal judge backs Missouri's new House map favoring Republicans hours after Supreme Court declines to hear case - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHVVWTFHaE8xbDZsenFFQmNKQlRUSldodGZQb09YdnlqQnR1dUpwQzk2cGVoWDRueTJTZGRtX29yZlRxWDlWYXBZbHFRcjJseEt6dVNydy1qOUNGYTNJV2YtZFkyOU8wQnpoOXRqSXFsT0VHeU9Uekc3SHhmSnNCUXdXbTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T05:57:18+08:00"
+    },
+    {
+      "title": "Zelenskyy’s plane ‘almost hit’ by drone on way to Oslo, Norwegian PM says - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjlPOFhjU3BlRFQwSXRNcWoySnFxUXczeGRIMUpVN3J2ZWt6Z3F2dE5MTUNfZXltV2t0YzJqSUxJMEtFTHd4SDRFbFdSTUEyM01tNDg4TzJFeURrTGN1NVdkeGJaZmVVbmJMV0x4S3lQdEZjT3N1bG1JdEttQjFGTXJ0REZqVzh2RnhvRXd1NnpJNXhrcDg5QTBiY3FMLU5GekZ0dU9aUjRueklkM0HSAbMBQVVfeXFMTm9famNmdDYtMHZXQmxkQkRkRDFWeHNNSHJBV0hRc2haSEtVcmtZWGtXMDgzb0NxTEc5Nkx3QlBmakZsckd5Z0d0YTl4X3NYYnRaVHhJekpJQWp3Y054Rno0bWtxRDVaNVEzUWcxLWVVT2w3RUZZQzFxNE1WcmpVX2lzWnZkVU5VN2hGQ1dxbUVSQ09TdHZSb3p0cnpYNGZMNHNjclM1SF95THpwUURsX01mTUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T05:51:55+08:00"
+    },
+    {
+      "title": "Trump Is Delayed After Emergency Slide Deploys on New Air Force One - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm1wSTAwT2tNbWZXUnF5dFppUDNoRE9YOVdYUWxNQ3lKVEhWeUhRNW05ZDVWWkcwNEFEM0FzVnp3bm90ZWNEX3hZNFhDM1piQVkxNWNUbTVHaUdvN0ctcW54TWFxaTVPWC00SGZBbVBQbkR4ZzVDTWRuSVR3ZVlXT19LQ2p1bFVHY2lyeVhPOFQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T05:40:34+08:00"
+    },
     {
       "title": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - AP News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY01JRy1Bb0lMX21IeVpXNkFndVZQVDFDbExjX2R2ODV1Ui1pQmF6d1lWaEJ6U0didUJ0b0NzbVo1UG00VGpXVlNmbVltYWpvMnpWNUlyT1JldHUxV2pSODdQSlNGdHZ1QUhvZkVMNUJRUHdEMTN5Q1VNS093eWpITUc0RVFVcXI2ZURzRmNZUGNFanI1cFIydWRjbFhEN1k?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T05:38:00+08:00"
-    },
-    {
-      "title": "Drone alert delayed Zelenskiy's departure for Norway, Moldova says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JTaC1oOWFvY2xYWEI5a3VVdTlpaktkSXJud0xnbTRNY3lNVzZoTU1zX2ZuZWZlckpSM0oxbHdZcUt1WnRlUFROeW80eDQxZEpQM2RQSlppcXRpNGpBMG1pb1FweXhwZjYydGtNNjM5cDVVVlo1d184UXRlUFUtTjhJN19nTjhKd2trWFF0a0g1SHByOHd6VWJFSFpwTVRZNk1TS1dZd3VkS3JS?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T05:33:21+08:00"
     },
     {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -71,34 +95,40 @@
       "time": "2026-09-10T05:23:45+08:00"
     },
     {
-      "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+      "title": "Anthropic researcher resigns with warning about the dangers of AI development - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T05:18:00+08:00"
+      "time": "2026-09-10T05:22:00+08:00"
     },
     {
-      "title": "Lindsay Clancy rejects conspiracy theories accusing her ex of their children’s deaths, lawyer says - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMXFjM1h6RWRNbjE4MGkwYmtGVDUzdHFvenFyeVJ5STNTMmZMR2pCM21NNGxlZ1ZfMW5vMkR6YjUxX0U5M0U2cUZ0a0kxV1FwdmNqbzEwRmF2TnFWTTZoXzVhZ0ZIcnNuZVF3WmtuUTdhTjk4bDhMbVhub0psTzZjMndoZE55Q1R5Q2FTY3pPRTVPbzNMSDVMMGxLSmk0OFlQczB5Sg?oc=5",
+      "title": "Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckZFblplNHZIRmJXc1k4TjhwOWU2ZUtfM190MkpWUW5aN1FxbnJpVVlLZ21fZUF4QXRjcmtmS3Z0ZXExTkFJS28ybE5QUGVHU2JOaGc5Y0NKSzYyWmZ0aXRNS1B6MktTbUt1NTRvWlNVOE0tbEtEbXlWc1RJNDF6eVE2NFBSUEpwOXBFR0xBV1FFVTVZR2ZtbEVkMGpQTUFCM3I1anI5TVc5azNTZk9QYlF0NlNtZkVtOHRlMEpZbw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T04:44:04+08:00"
+      "time": "2026-09-10T05:21:21+08:00"
     },
     {
-      "title": "Apple event live: iPhone Duo, iPhone 18 Pro & watches announced - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTk8zOG10RndOaXBFMTFjT1ZaZ3NCUHNEVlR6NmNNUkhSbHU3bFhUZnd1THNkS0tGRlZJLUxJVm1LQ09kN0RWYm1CSjZzZnEyMVJ6VWlxS1UzQ0xEbGNDUmJaN1RxRGE5a0U1SzY1MW1iT09YZVpCY2FaVTZfSWx0LWdJaFFta0s2dnNQUkxlVlpkaUk4SnR4azFJX1ZscVJ1d1owQ1h1bmJaWmNDZlhabGE0ZU1jaFZ2YVdaaWFn?oc=5",
+      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3cjcxUXVXeXc4QzBpMUpzWE9ZV2xBZzBsT05SM3JCVkhocnVfM1hyYUZrZk9XckgwNGpGcHZGMm1DXzVuaHQ4SVM1YXh1X0dmeEtxQ2psUlYzdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T04:38:09+08:00"
+      "time": "2026-09-10T05:21:13+08:00"
+    },
+    {
+      "title": "2026 NFL predictions: Experts pick Super Bowl winner, MVP - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGFBbEotdUtFeWh3SXVYUklRdzVfR1pYR0JfMnN6andFUzAzZ2EtWG01cS1IbFdpM0k0TGZPTUYtN2Z0QWVZTXBGbDVjUGVIUVBMQ0ZEbzVnRGc1VW1hWWdZRFk4V3VJNXNSRzFVekhXa0NUcnEwUl9NazRsZk1zalJ2LWxZUlJEb3RSa3FpbXNlU0tsQlRpWVY1Mi1HV3ZTdWN2VkZJWVk4WmhRd0dqV1JFbGZwTi1aWllB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T05:10:00+08:00"
+    },
+    {
+      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T05:08:55+08:00"
     },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T04:28:04+08:00"
-    },
-    {
-      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T04:26:00+08:00"
     },
     {
       "title": "Iran referred to UN Security Council for nuclear non-compliance",
@@ -113,7 +143,7 @@
       "time": "2026-09-10T04:08:51+08:00"
     },
     {
-      "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ",
+      "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - wsj.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T04:06:00+08:00"
@@ -137,40 +167,10 @@
       "time": "2026-09-10T03:40:51+08:00"
     },
     {
-      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
+      "title": "Tate brothers denied bail by Miami judge as they fight extradition to U.K. on sex crime charges - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbldGWVVhTGFhSmw5QkhHcktIY3dvTUE5SHUwLVdEdF9rbHl0RTBpTkFuR1Bmb1h2bEJzUWZqc2UxblhrbGluSkJZeHNXTEpjQW01ME1BdFd6cW03QkFMSUhySkRfWkk3LTluSXNGYlkwZVJnREQwN01nUFRaS2RGRk5jMENSR0pHdFFmdnhCUnhDUE5qTXh4dWotNFhZeUVPdl9lS3pwM25QZnpScjNBN09YX0NfajY5Q2c?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T03:22:49+08:00"
-    },
-    {
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ReERnc0hVX0RtS2t5bHFqc2lHVDhJYncwak5XTnVKTWlLRE5FMlY5X2p0V3lwRVR2VlJSMm81QWVqM250NXhtYk9ZUExJUWxja2lLWlJiUDhqZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T03:09:13+08:00"
-    },
-    {
-      "title": "Apple Seeds iOS 27 and iPadOS 27 Release Candidates - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBncm1wRXlSS1NZcE9hMTNQVndscGIzcHotSEgzLVc0VllUT2h0Wi01MDVndHhsWVlYOXlmTy1LUmhxbWhuLUpMYUVyUXM4TTZqQ3BjY1hnZXhRd21wTTJtUnF3aw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T03:07:40+08:00"
-    },
-    {
-      "title": "Who were the Denisovans? Rich trove of fossils and tools paints new picture - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94eTBUX1BGWlVMaHhNblQtU0JWZGx6UlV2ZGxwTDFjeVQ5dF9RZldwX3ctLUVMdFdRMUZ3eWc1Zy15TEduWVM3WmwtVGVQR3NtRFVOYWtzeXo3THBheHNN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T03:02:48+08:00"
-    },
-    {
-      "title": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T02:58:00+08:00"
-    },
-    {
-      "title": "The quick guide to fall vaccines and when you should get them - arstechnica.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcEJhc1ZIMU9xbVp3cDA0akFoVVdxREhqbjQ1bko5LUlrdmJDQ0w3RzgwTVViaGtlTHhwT1k2ZUtsejhlUV93T2pBbGotRHFWZFQ1M1RIREtiXzM5ZmdzOE1mVjJFM0MtMVczRjdxR003WGhpWVd4R3JqYWpxWFE1T2R6U1d2c2Y2NUh2VklGTFJJTllWclFlazJNWFg3MDRyT0V3ME9tRng?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T02:39:36+08:00"
+      "time": "2026-09-10T03:17:36+08:00"
     }
   ]
 }
