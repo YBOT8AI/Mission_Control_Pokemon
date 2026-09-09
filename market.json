@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-09T08:56:38.515007+08:00",
+  "generatedAt": "2026-09-09T09:27:44.418071+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617470.56,
-      "changePct": -0.65
+      "priceHkd": 616780.64,
+      "changePct": -0.93
     },
     "ETH": {
-      "priceHkd": 19570.05,
-      "changePct": 0.11
+      "priceHkd": 19531.87,
+      "changePct": -0.51
     },
     "SOL": {
-      "priceHkd": 813.48,
-      "changePct": -0.27
+      "priceHkd": 810.89,
+      "changePct": -0.83
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1099.06,
-      "priceUsdOz": 4360.3
+      "priceHkdPerGram": 1101.51,
+      "priceUsdOz": 4370.0
     },
     "Silver": {
       "priceHkdPerGram": 16.68,
-      "priceUsdOz": 66.17
+      "priceUsdOz": 66.19
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 742.06,
-      "changePct": 3.47
+      "priceHkd": 740.33,
+      "changePct": 3.22
     },
     "Natural Gas": {
-      "priceHkd": 22.7,
-      "changePct": -2.69
+      "priceHkd": 22.64,
+      "changePct": -2.92
     }
   },
   "news": [
     {
+      "title": "Smithsonian chief to retire as Trump fights to reshape the institution - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmZ1MDY0ZncxdGx4THFleWhZaWlQRUltVzZrVE5EcWtubWFzMHowdG5RaENUMV9pVy1JcWtoY3dzWldtMVdJV1FrMXBPb2x2M2k4dXhRc19TdV9CcHA2SF9UOU1YU2tYZGJHQnpvRllObVI3UlJHQWdadEVhd0F5Q3pOenU2WTNqY0huMTlEdjdVUEJsZzM3R09sZURHX2s3Z2VUQUE5T19KVFFXYnFkc01pRFJQaHFaUkkzbl9uSVBQRHhf?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T09:19:16+08:00"
+    },
+    {
       "title": "US slaps import ban on Canadian alcohol and other goods",
       "link": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-09T08:31:31+08:00"
+      "time": "2026-09-09T09:09:15+08:00"
+    },
+    {
+      "title": "Lindsay Clancy juror speaks after mistrial: \"There was so much doubt\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QeTFFWG1VTzlTSnItYjZpT2NLQi1wMWZYR0l6cGdmLVFrTmlvMXA1VTF6VmEyaW9wWGNmaXR5VXZnaGkzX0xfYzNMaTl4WlAyRWxJejdwX3BhR1hSc21sanBrZzdJNHFGV2JGSkR3T3lZaVZ4R3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T08:39:37+08:00"
     },
     {
       "title": "MAC to appeal controversial Western Michigan loss, says replay error gave UM extra second - The New York Times",
@@ -65,16 +77,28 @@
       "time": "2026-09-09T08:29:04+08:00"
     },
     {
-      "title": "Citing ‘ethnic cleansing,’ U.K. bars imports from Israeli West Bank settlements - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3U5QnVuR29BemY3Q3hKeHpJcE05UlFtdmJRSDNnNEQ4OGYtLW5VS0ttZUFmLWNab29reVRoX0FLdVllaGphTjRyQnJCT182ZWszaWFScjdKdjV0UWNNOWhiMzVhQmNMdXNDM0JZNE5mbl85VG5xQ2NrR19TeEM2aHVUWHZzOWtZVWVzWUgtaG9KWG5ha3VlNjA4dDFwNVE?oc=5",
+      "title": "Missouri’s redistricting in flux after dissonant court rulings - Politico",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlZobkoxMGF0eXdjaUc0c012c1ZCelp1Ynk1dzV2eTJQMGR6Z21CV3JFcXE5S2pUUWhpOTZHaW1RbGozMzNXb0lSd3c2MjFsdXd6YWJtNEYwOXV0dVE4c3pNM3ZSWkxwSlFCV3g5blVnTTVpMnUwUks4dkZuNnlzNzRnaldlWWZaWDNPc3VqVm4yWEZTMDBBVlI4TUJZOVE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T08:06:01+08:00"
+      "time": "2026-09-09T08:23:00+08:00"
     },
     {
-      "title": "US slaps import ban on Canadian alcohol and other goods - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xUWoxbzROME5BVFUxWE53c0J2Tl9WWENReGwtMzJDNFd6S3JFc3l6dDR6TDZJdlpHWFRUR1FwYzNXUkxXNFNlTDFiOWpIMDd2TEdic0VVNTlvdw?oc=5",
+      "title": "ABC denies 'inaccurate' report 'Jimmy Kimmel Live' will end in 2027 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaElUNDdWblQyVEN4MUoweXdZYk9NbkZaS3pYMWFhZHBrU3BVWXNveDIxcXptLTlLVlVsamFJSlRRX092OHFHWXVJM3gyRVB1ekw5Rlo4enRkeEQ2S0xWTzVMRVg2clNUTkQxQW8xVWhzYk1BSUpjUnhwRHFXOXVscXdIbldzTWRBelhKRW1hRWVnbzVFNVd3Zmg0eGF6SzllTTVJ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T07:42:35+08:00"
+      "time": "2026-09-09T07:57:00+08:00"
+    },
+    {
+      "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SVzVvcGhtdkxRUExWakZxNkpDN3kybVdzLWVKVGMwaXJZOFJpMVFPeVBPa3IyZWRjRjZDRTJHeGJsRng4aUIxczBVd25NMkY3MGE3MktQUTQwdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T07:52:28+08:00"
+    },
+    {
+      "title": "Trump escalates trade war with Canada, moving to ban imports of some motorcycles, dairy and alcohol - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR21QVmJISUl6amZFN3NjaC1DSjVuQTQ3RWFhNExoa1N1b1VkUlIzb09qdXkxakFGWklHYVJlak05b1NjVVNocVRJU3FucVpMYzZlUGttTXJ5TS1MTHMxVFRxMTB3VDVJNHBneWYxam1QdE95WERoTmt5MS1ZTnpOTVlNa0c0QW9VWm41U3JFaDdFTlhWb2JwbzAwMV9IclNDczROQWRINExidGtqNnBXVmdZSjllTkJ4TWRxd1ZkSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T07:50:00+08:00"
     },
     {
       "title": "Meta continues to run ads promoting child sexual abuse material in India - report",
@@ -83,13 +107,7 @@
       "time": "2026-09-09T07:27:23+08:00"
     },
     {
-      "title": "Conflicting court rulings leave Missouri’s congressional map in limbo - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHlmOEU5T1RhME9jdUxIU3RKRkUtX2s1cTl0ZnRXNjRpSGtuU0lYQ010UUtIOFdZT2FvaFlYeEI2QVJqcmpreWtTYmd2WXRkX20xdlZFQXFoZDFQaFdLUzdPVWx1YllxUDdkU3F2Mk4zWWJoQzY0WWlpVEJlSUlmeThKZDZYNzNweEppOGFFWEhFRjEyZEItd1AySkNrcWpRaTh2Zl9vYXhjc19RVlpyZ3RZbUxaNzJXQlRKa0Rra2tsc1hKQ1Y0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T07:22:44+08:00"
-    },
-    {
-      "title": "Mamdani releases records on toxic air in New York after 9/11 attacks - Al Jazeera",
+      "title": "Mamdani releases records on toxic air in New York after 9/11 attacks - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVA0bmlRYm9MRXpyUDZCQmVRdmJUckhtRWVRZXNESy0wRUdSSzR5ZzJHbVVRVUQ1cUdqVm1WVGFTcGRfbEg5Y2ZQd09NRl8wVjMwaXI3TndDeGNvMDV1M3hRal9zTUNpSWxvLVVLUUlXV2hEdXI3UXhZSWpGWmN2eVAwRVpUOENqTEhaWGRwV2RSa2ZzbEJPTGpfREs2YmNHSmfSAacBQVVfeXFMTXVEdkljdDMzUG9JSUxZcTVxOV8xYTRrYmwycy1XQV96ZzhsZy15eEpwTkNxZ1RobmxsTjJpSEkwbUZqY1p1RXJmbWlIVnVKUDV6RmlmVHFkb1plMlM4QmFrOEg2QUxTb1loaFVfdmdrNlQ2R0xtbFEyUExsbGx0UFhPV0JHdlFvTW0wYXlBVTVXSXh5dEt0YzRtcFZndTJQZVJGdFNLNGM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T07:19:24+08:00"
@@ -113,6 +131,12 @@
       "time": "2026-09-09T07:11:32+08:00"
     },
     {
+      "title": "Fossilized eggs of the largest known dinosaurs have been unearthed in an unexpected place - CNN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZQ2Zmd1M3b1dNUnFLV3dGeUxOUDJWRUptN1RGRW8wMUJVUGRNQ1ZTOXJEUkZ3NDlHcS1IR2xfamU1OEJpbmlSa05RUnhBMlpoRDYxek9GWlY1QmR5TzVjU185YXlTZnJqYkJFMUNzaUpsTXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-09T07:05:29+08:00"
+    },
+    {
       "title": "Should promotion depend on how workers use AI?",
       "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -131,28 +155,10 @@
       "time": "2026-09-09T07:02:01+08:00"
     },
     {
-      "title": "'Totally insane': Mikie Sherrill's silence on lieutenant governor probe rattles New Jersey Democrats - Politico",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM1JBb2dkS2lSUUdTSm5uTjhSZm1wWUFFbk5FRzVyYzRSdXVvUGp6VVJBbVlxTVNZU296blBGdmZxdXRZeHlPeEh3V1p2b1k4enRMdEN1M1FqRDB2RmZhVkJKU3k1QUhLU2VxRThlYVZDS0x3Z3dPQ1hVNVpVcVg1c3V6YnJvWnR0MUJHR2lfSVpiZl9sY005NWNic0FLZFJnY2ZLYktySS1tWlQ3X21GaC1JSWU3SkRINThqUDl0QzJtZUgwOXZ5ZUNRaGJlMExtcWxIR0I2T1ZpUGxuRFI0?oc=5",
+      "title": "LG TV shown scanning LAN for third-party phones and other devices - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb3RjSEpKR3haZF93anNmbDNBVFNnQUxzamRlR3VhLUpsMl81ZWRIUTdPellJNG5MNWktdzZBQmF2bmcxY2N2U1BUWlNkeFRzMzlySVFUTlRnVW5pNUxhZmJ4N2NFeGF4QjV0T0R5RHJfbzYxOW9UWXQ5RXl0Vkd0VXlmV0Nldk15TXg5MUpOdkJybDR2ZVFTWG5KVkdDQk5lTkd6aVdzRQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T06:59:00+08:00"
-    },
-    {
-      "title": "Smithsonian’s Secretary to Resign as Trump Tries to Rule the Institution - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm5STjQ5ZVlOcmdDd3hIa1hWdjBFYTJwVE9XZmR5LXFTS0lDeE5Ga3JocG1CUXlnemRrc3dwY2had20zb3hmcjJtTmpGRXFub3Y5Mkw0b0k5aV8wVFE3Sm9QckhnVUljODVUWWFOTDFvZm41R3Vqc1llYi12ai1PNHpvVHg4NnZ5T0FfUWxHTFpKekx3QzI2TEh3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T06:35:54+08:00"
-    },
-    {
-      "title": "Two infants identified in Lancaster County measles-associated deaths - WGAL",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGwtUk4td09pSWcwMXl4N2dFRGJJbU05VVp4Q1JoTnlhTVVqMEZPZFVXZlN3cGprRHZKRG1qUWd2QTh4Zk1yaGdyNjI5QVp6Sk9oN2lqSzAzcnBRcVNKOEZ4T2F4ZTZWTXRXQlVCZEw1Vmw5RUMxTjRSRW9OMXdxaTRVc1RMS0dSLXpzNWxnbw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T06:07:00+08:00"
-    },
-    {
-      "title": "Stock futures are little changed after losing session; Brent crude tops $99 per barrel: Live updates - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T06:03:36+08:00"
+      "time": "2026-09-09T05:52:29+08:00"
     },
     {
       "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRktSM0hpSXlkVHhtQi1saTdsMERvYURwXzhrZk5xQzBTTGdBYVAtR2Q2NnBraDBfcDg5TmJmRnFQbkpTekt6dHNCOXBXQTVySkdBUlN4a0ItdWk2MjU4dkdSM2twLUFEN3BKUXdIVm5WbUJ6RG5oNzNBOFVnRGhnNURQR0ZDWWVTQjhhMjhkQ3RrUUFUV2tVSVFqdUJUNWRCLVB1SU4zeEYxZ1l1aFhRaEhnczhaejZ3M0RQU2pXNA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-09T05:39:00+08:00"
-    },
-    {
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T05:29:41+08:00"
     }
   ]
 }
