@@ -1,62 +1,74 @@
 {
-  "generatedAt": "2026-09-10T01:43:19.787519+08:00",
+  "generatedAt": "2026-09-10T02:14:23.531776+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617196.16,
-      "changePct": 0.2
+      "priceHkd": 616506.24,
+      "changePct": -0.02
     },
     "ETH": {
-      "priceHkd": 19529.91,
-      "changePct": 0.05
+      "priceHkd": 19519.64,
+      "changePct": -0.25
     },
     "SOL": {
-      "priceHkd": 810.42,
-      "changePct": -0.42
+      "priceHkd": 810.73,
+      "changePct": -0.6
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5496.78,
-      "changePct": -0.42
+      "priceHkd": 5495.76,
+      "changePct": -0.44
     },
     "SPX": {
-      "priceHkd": 59910.62,
-      "changePct": -0.42
+      "priceHkd": 59897.76,
+      "changePct": -0.44
     },
     "SPCX": {
-      "priceHkd": 1148.12,
-      "changePct": -4.58
+      "priceHkd": 1164.4,
+      "changePct": -3.23
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1113.41,
-      "priceUsdOz": 4417.2
+      "priceHkdPerGram": 1114.62,
+      "priceUsdOz": 4422.0
     },
     "Silver": {
       "priceHkdPerGram": 17.15,
-      "priceUsdOz": 68.04
+      "priceUsdOz": 68.03
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 750.6,
-      "changePct": 2.91
+      "priceHkd": 752.8,
+      "changePct": 3.21
     },
     "Natural Gas": {
-      "priceHkd": 22.15,
-      "changePct": -3.12
+      "priceHkd": 22.12,
+      "changePct": -3.26
     }
   },
   "news": [
     {
-      "title": "Holdout juror in Clancy case admitted ‘reasonable doubt,’ foreperson says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckZFblplNHZIRmJXc1k4TjhwOWU2ZUtfM190MkpWUW5aN1FxbnJpVVlLZ21fZUF4QXRjcmtmS3Z0ZXExTkFJS28ybE5QUGVHU2JOaGc5Y0NKSzYyWmZ0aXRNS1B6MktTbUt1NTRvWlNVOE0tbEtEbXlWc1RJNDF6eVE2NFBSUEpwOXBFR0xBV1FFVTVZR2ZtbEVkMGpQTUFCM3I1anI5TVc5azNTZk9QYlF0NlNtZkVtOHRlMEpZbw?oc=5",
+      "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T01:38:10+08:00"
+      "time": "2026-09-10T01:49:00+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil tops $100 per barrel as Tehran fires missiles in retaliation for U.S. blowing up tankers - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:17:00+08:00"
+    },
+    {
+      "title": "Apple event live updates: Ternus announces iPhone 18 Pro and Pro Max in new colors - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c2d2OGUydFZIODlzQnBwU2tDeE9LMmtGU1lHQno5bF9HeUhya0RrVlVQOHRqNXZjZEpvNU5XVEhRMEJwTjN6SVJZMUdUMXVQVHhBbGlfajFqcENQbnMwQmpYN3ZBS3FqN0t2cTdMMFIta3lZV3fSAXtBVV95cUxQRkRpMkhNRkMyMHFzZThLQlNlanhPZkdKclRfT2tFaFFJTEIwWFhPNjV0QWZLRE1LY20xTUc4a1lNX3V5cHB3c0ZzWmVYR3ktSmhGM1NtbC1iSG8zTldoRmVhZC1iWV9yU1kxdmJfNE12Yk9rSXRLaVk5OVU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:15:00+08:00"
     },
     {
       "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ",
@@ -69,6 +81,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T01:06:48+08:00"
+    },
+    {
+      "title": "‘SNL’ Sets Inde Navarrette, Jalen Brunson, Dakota Johnson and More as Season 52 Hosts - Variety",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanBEbTRSdGs0YmhTcHgzUUFXY0V2STZrUG95YTR2YTNjSndPbFF3Q0dSSzYwQmFzakZEenJQbkJoLXFNcTAxU2cyVnlyb3ZNLUljQ0ZuQmNhM09xS1J1NmpyMzJ5VUhKRFRNN0IzbXFVNTdyNjFqRGVKdkdUcEVSQTBoRFduOHptdi05Vlp5bEFSODA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:00:00+08:00"
     },
     {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -89,10 +107,10 @@
       "time": "2026-09-10T00:36:45+08:00"
     },
     {
-      "title": "Apple expected to unveil first folding phone, with new CEO Ternus in command - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbWlNdDREU0FXTWdNYTAyajJUNHR3NFVDd3dVVV92Y2dXSGpkZ1RKVGE3RVduaWtLX3piNElOQm1BWlV5RGFrNlJpSHZYQ2lHakU3T0NrVmVFNWhsVXJSazlEakQwZkN1blVSdEFZSWVnUmZZWFFmcm5KRUZ2TXFaY3ZJT0U3ckhVLWhvQ3lIalBZWXRSMzNORXV2YnBUT2dORVZFYWw1aHJWbl9MdFBpcGoyb2hOcG10VXVzZ0k0SzM4b0h5RnhMOTJB?oc=5",
+      "title": "Fossil remains unearthed in China offer new clues about how Denisovans lived - CNN",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42bmsxREpDXzJTbW82TlQ4X2w1czdjVEc2T284Y19mbGdUZm5YSDNXdnZNQ2Y0OEZNaHZuR05tR3hZS040YXFfUHVOckhwMDFYUXlueHlKWkJOZDM5cF9tTEotWUFlLWE1WHZ6V2hRUERqdEFEekpEZ3d3NA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T00:35:33+08:00"
+      "time": "2026-09-10T00:35:44+08:00"
     },
     {
       "title": "Mother demands answers, weeks after black woman found hanging from Mississippi tree",
@@ -105,6 +123,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T00:30:28+08:00"
+    },
+    {
+      "title": "'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dUZiQ2xDcWRoYkRpU3JEV1N2WVliTzc0QlhSN0s5TFFyY0dfNXNpYUpwWlgycUhveFk1dVVDQ1RmUjZEcHlsdnMxcEpPRlZRUXdWYzFNRVkzUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T00:28:15+08:00"
     },
     {
       "title": "Air traffic failure was avoidable, says Transport Secretary",
@@ -131,46 +155,22 @@
       "time": "2026-09-09T23:34:09+08:00"
     },
     {
-      "title": "ABC responds to rumored ‘Jimmy Kimmel Live!’ cancellation - chicagotribune.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdm5MdWtMcjlSTXdHdk5wdTdENGg0VDNESjRJbzZpYzJXUDBpUWRiRkRQTU1jV0EwSV81SXZPZ2xJTDgxUWRiQURkNVdQV1dRN1h3bjE4T05KM21PakNLSlJlQ1FwM2plTDl3dnJiSEg1LW5leUZtaDg3QTZLQ1V4OTVnd0l2dw?oc=5",
+      "title": "Iran attacks US forces in Jordan as Strait of Hormuz tensions escalate - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHFQTFZXeWUxY1pLVjU1ZXlkS3VqcE1iYW94VzlVcDRnOHRpcFJhUUJ6V3ZsVFpGbGpmckVwQkhxNUxuS3lleHd0aE4yVVUwaWh3c3pldnpIdjI3Y0hyWkkxVi12WmZzek96Q0o1NFFMamQ5RERPSnZCZ0hRMnprU0VR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T23:21:15+08:00"
+      "time": "2026-09-09T23:29:49+08:00"
     },
     {
-      "title": "US Treasury yields jump as plans for $6bn buybacks disappoint investors - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcE95dDNESHJwT3Fpc3dxT3pERW81ZXRhdUh2LXpub2hzN2YxM0hWS0U2ejROZmtwUXR2UUNyMjZmelVXV3BuUmZ1emdNMHZlQmxmSlltazdvTEdEc2U1NEFMNWsyNXNKV1BXaVI1aDFQaU93SlhlR0hGdno1Wi0wNEcyQ1o?oc=5",
+      "title": "Police launch investigation into allegations Britain’s hard-right Reform UK party broke campaign finance law - CNN",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDRjgzTUNpbUMwdG5yT1JBSXUzQnlNX1lNUVBxT0lmMDZabzAxYndzWkd5cWFmRlBkM1o0NEVtRGZCTThKZll1VkRDcXp6MFVlZUh0eGQ0bHJWR1Z2ZUtidU40TDBtVm5xNmVjYnRMQkMyNFNqMHBjdW10Yw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T23:16:35+08:00"
+      "time": "2026-09-09T23:05:51+08:00"
     },
     {
-      "title": "This Cave in China Just Rewrote 120,000 Years of Denisovan History - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWRnNmtaNzlkTWxMb1p3a2wxZ2YtX2VUWmFWRkN5OUlaNHd3N0hOWkVRX1ZYeTk4UjdIU3FacjZpVTVKcEstRDFjREFkRFRBLVhoQkZBVzFIUHRVaG85WFloUlFsMkNtMEpESE5JNlFHT2tTV1BvdXp2a3A1NThMM3A1Q2NIOFFPQjc1WnFrR1ZkVmFVdUhicHEtckNGVmw0NzM1YzI4Rld2QnFHVGJ0YXlSZk00VTZVWW91Vlo3VF9JY3c?oc=5",
+      "title": "Cancer’s toll on 9/11 survivors is accelerating 25 years later - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2o5VlYweWJXV0k4R2QzR3ZqTnlhdmV0SFkzaklKaFdNai10am5BSlhsSzVuZ3V3RGZrV0Q1Uk5nV292MnFGS2x4OHBYMEhCb1JEOHJpQ2FQUVU0TFZURkNwWXdMeTlZeWhVYVdWME5qTUwybXUxNnVFYlZMSmFzMXp6cFRVWHRuQ3gwTlg0ODY3NXlsbU5CeWQ2LWtHYjk3QUlVVnFWU2pRWjQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-09T23:09:52+08:00"
-    },
-    {
-      "title": "Trump makes GOP midterm convention about himself, much to Democrats’ delight - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1RHOExfVi1QV1ROTVdVcXhUME1OcEl3Um1LRlJncGpiQTU1WFFzM2VZSDB6eHFMT05OY3cxZkpDU1F6am8tMUpveG1OLVo5QldCVFY1V2NpUXZvOTBiZXNBR0ZYZkFhV0M5OHd5SWhsdzN4ZUxDM25Kd1JkTzBHWERaUk9xOERVaGhIaFdReFJGQVdZNFdLcDk0cjhPYnNFTzMtdTBVWDY2LVlHOU9xYUxmLVhVMnh5YVVyRG1xRFBSY0ZWY2d1QVQwajFwdlE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:02:58+08:00"
-    },
-    {
-      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI - techcrunch.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSno0NFM4UmFYa1FUdWpYUWRwdlZuWXFGUEU5dHBNYWFnZkZvZ2FUclVNQXU5ZDFDVzZXQVFCQnJSZjRUZW5ZcHRGV2dIZUlldkZ2WE5iRFNMRWRFOThvMjNTS2VhQUxpTGJEd2MwLTU0bVN6T3ZNOGFtbVltVEZzajcyZXpfenRrMTQwSWNqZDdpd2FXbVBveWFJT1NfMjBSTzlZdi1YNkswZzdxY0VTVlY3eHJ1U0c2?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:02:47+08:00"
-    },
-    {
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-09T23:01:58+08:00"
-    },
-    {
-      "title": "Should You Get a DEXA Scan at Menopause? What to Know About Bone Density Tests. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMlV1aXVfcjhSNFBMcDFZOTdMZ2IxS0djYkZNY0VEVHJQeEh3TC11LS1HVG9nODVoeFROSkxXYWdpWGloWVhQMlEzejdSOEJqb1JVTXJiUDNORWlhOTVGZUxHeDZGVlFRdzRqbGJSWmR2eE1ZUG42LVV6S3RvOEdOOEotQURTcTVRaFE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:00:07+08:00"
+      "time": "2026-09-09T23:03:05+08:00"
     }
   ]
 }
