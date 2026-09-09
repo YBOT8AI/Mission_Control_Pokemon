@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-10T02:14:23.531776+08:00",
+  "generatedAt": "2026-09-10T02:45:30.837327+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 616506.24,
-      "changePct": -0.02
+      "priceHkd": 615510.56,
+      "changePct": -0.12
     },
     "ETH": {
-      "priceHkd": 19519.64,
-      "changePct": -0.25
+      "priceHkd": 19501.22,
+      "changePct": -0.32
     },
     "SOL": {
-      "priceHkd": 810.73,
-      "changePct": -0.6
+      "priceHkd": 812.15,
+      "changePct": -0.47
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5495.76,
-      "changePct": -0.44
+      "priceHkd": 5499.84,
+      "changePct": -0.36
     },
     "SPX": {
-      "priceHkd": 59897.76,
-      "changePct": -0.44
+      "priceHkd": 59945.11,
+      "changePct": -0.36
     },
     "SPCX": {
-      "priceHkd": 1164.4,
+      "priceHkd": 1164.32,
       "changePct": -3.23
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1114.62,
-      "priceUsdOz": 4422.0
+      "priceHkdPerGram": 1111.84,
+      "priceUsdOz": 4411.0
     },
     "Silver": {
-      "priceHkdPerGram": 17.15,
-      "priceUsdOz": 68.03
+      "priceHkdPerGram": 17.08,
+      "priceUsdOz": 67.77
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 752.8,
-      "changePct": 3.21
+      "priceHkd": 752.01,
+      "changePct": 3.11
     },
     "Natural Gas": {
-      "priceHkd": 22.12,
-      "changePct": -3.26
+      "priceHkd": 22.09,
+      "changePct": -3.4
     }
   },
   "news": [
+    {
+      "title": "Apple's unveils its first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T02:39:45+08:00"
+    },
+    {
+      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T02:28:53+08:00"
+    },
+    {
+      "title": "Air traffic failure was avoidable, says transport secretary",
+      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T02:21:16+08:00"
+    },
     {
       "title": "Trump gave $45,000 to Natalie Harp and other White House aides as holiday gifts - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaGJWOEJIampVY1A4WEdLc0tBam5zMFdvenBxLXpVbXF5RXZpNklxX3hxeDUwejJSRUF0SFZsMlJFVnlIZ2s3bHVrSTFyRERVMUUyaTRWS0c1YUg4MUxjM1E1YlZMRWdRTWM1TUNEM3lxQzZDbzYxZVFFY2lHU2JXQ041cVAxdmozVXZwei1RRDdHbENqTHUzcmFrZw?oc=5",
@@ -59,34 +77,52 @@
       "time": "2026-09-10T01:49:00+08:00"
     },
     {
-      "title": "Iran War Updates: Oil tops $100 per barrel as Tehran fires missiles in retaliation for U.S. blowing up tankers - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
+      "title": "Anthropic researchers say AI could cause human extinction by 2030 - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSVlEaEpsMXNNdTNyNTY5VzZyTDVfQkFyNTJTTTNyZkM1amhPQnZtRFpCdFU1X245b1lSUEQ4Y0Zqa0x5Nkgzb3NjX1BxX1BlcUo1LThfUDNyVXpGd08wTFJ1cE4tb19SSnlXMERDc2tMUDZfN3VjZm02QjVQMmVmelVYYnhRV3pEQ2pqSXRVUlpSRGhwemdr?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T01:17:00+08:00"
+      "time": "2026-09-10T01:47:00+08:00"
     },
     {
-      "title": "Apple event live updates: Ternus announces iPhone 18 Pro and Pro Max in new colors - cnbc.com",
+      "title": "Brent crude oil rises above $100 a barrel as Middle East conflict intensifies - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcV81aHB4Z3dteWpsZGxOM01KRFFXZ3hhZlBUUlJUb3Y0QXVXaWpfSXJxRGx0R2Z2LXRrb25jYWJBTUNxc3llTFNVdmRoQzkxRjlLc0czRUxKczdyYU8temtJbXJRUXNOUGpuRkdXenNZTFVLX3ZhUkFQZ191cjV3amlwZ0RocHBoUHNZYzVfZy1pSlFNNGlma0NMMFVvRFIxSXNUOTRyYnNDWU1qc0JxWmpDRHMyTmVj?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:45:32+08:00"
+    },
+    {
+      "title": "The Apple Watch Ultra 4 is ready for the new Siri - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGlMWk42aWVUeFZQOGh0ZnlPTXQ4MUFRQ2pDZExUWEhmc2UzMVBFUkRPa1BWN01GREtJMjhGOUtJVmg0anpVR2FUZXZZc0syN29zNGFray1UODR3OU5yWFA2VTNPaTBVN3U4VXBVUDV1OUtWVm5ZWWN4ei1lQ2RSbC1IamxSNmtQWnRUd1djR1N2Q3puNlV6VVRUd29jUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:43:16+08:00"
+    },
+    {
+      "title": "Bond Market Rebuffs Treasury’s $6 Billion Plan to Reduce Borrowing Costs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORExldUNRQ08xaF9ZUExMbmp6U1NFaHN5bDZWTDNxYXdxeE90eEZIY3JjaVh3aG9MYlowdjhNWjZqMDdsNGMtVTkzOUs1Y1A2UmFEcTNCZ3JwcGFlWHZqREVqSkdZaV95NUJINE1xMUlNQVFGZnFuNWc4NXVzNXVqUnRqLVo0M2VYb3k1NA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:37:08+08:00"
+    },
+    {
+      "title": "AirPods 5 Announced With Improved Noise Cancellation, Audio Quality, and More - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE11MGdDRlR4YUFERVItcGxONkpHSkRWT2k3eThTQWdSRmFHTE1ja3laVWFzUl9xdldnUTdKTXlTZ0RNOVhUalF4Vnl3X2Z6ZHY5eG45OXJ2NzRZZC13LUNWcmloLWFEN011bXhnR1VzYmtTRlFnZ3ljQ2dB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:33:23+08:00"
+    },
+    {
+      "title": "Andrew Tate is denied bail and will remain in jail during his extradition fight - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamJFY0FlaW5Ud3g5THBuZUl2OGRISFpXNmpDampqODI2WnBkT0ZmN08wdThhU09NdUpMc3dVZVVEbWFMR0g1YVZ2MlVjN2VuOFVwZlZ4Mm03bnZjUGJhWW1pd0NMemZVakZWVi15UG81V0hVTXZhNTNYdkN6dVNKcHQ3UjU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T01:23:15+08:00"
+    },
+    {
+      "title": "Apple event live updates: Ternus announces iPhone 18 Pro and Pro Max in new colors - CNBC",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4c2d2OGUydFZIODlzQnBwU2tDeE9LMmtGU1lHQno5bF9HeUhya0RrVlVQOHRqNXZjZEpvNU5XVEhRMEJwTjN6SVJZMUdUMXVQVHhBbGlfajFqcENQbnMwQmpYN3ZBS3FqN0t2cTdMMFIta3lZV3fSAXtBVV95cUxQRkRpMkhNRkMyMHFzZThLQlNlanhPZkdKclRfT2tFaFFJTEIwWFhPNjV0QWZLRE1LY20xTUc4a1lNX3V5cHB3c0ZzWmVYR3ktSmhGM1NtbC1iSG8zTldoRmVhZC1iWV9yU1kxdmJfNE12Yk9rSXRLaVk5OVU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T01:15:00+08:00"
-    },
-    {
-      "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:08:00+08:00"
     },
     {
       "title": "Google picks Finland for its largest single investment in Europe",
       "link": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T01:06:48+08:00"
-    },
-    {
-      "title": "‘SNL’ Sets Inde Navarrette, Jalen Brunson, Dakota Johnson and More as Season 52 Hosts - Variety",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanBEbTRSdGs0YmhTcHgzUUFXY0V2STZrUG95YTR2YTNjSndPbFF3Q0dSSzYwQmFzakZEenJQbkJoLXFNcTAxU2cyVnlyb3ZNLUljQ0ZuQmNhM09xS1J1NmpyMzJ5VUhKRFRNN0IzbXFVNTdyNjFqRGVKdkdUcEVSQTBoRFduOHptdi05Vlp5bEFSODA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T01:00:00+08:00"
     },
     {
       "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
@@ -125,52 +161,16 @@
       "time": "2026-09-10T00:30:28+08:00"
     },
     {
-      "title": "'Emotional rollercoaster' - Lindsay Clancy jurors speak out on what led to mistrial - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dUZiQ2xDcWRoYkRpU3JEV1N2WVliTzc0QlhSN0s5TFFyY0dfNXNpYUpwWlgycUhveFk1dVVDQ1RmUjZEcHlsdnMxcEpPRlZRUXdWYzFNRVkzUQ?oc=5",
+      "title": "Scientists Found a Surprising Effect of Ozempic. It Involves Your Lungs - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcFBLMXRqenRMNEFXdlZXWWZqc0NpZ1R3ZkZxb0V1T0FrQ0lsR0pLN1E1ODNST192RlVKbTF1dHlUQ3JoSERuWTJxVE1rUEU5WmZLOXBJUHpTVjVkVTBKcFJvTTBIVlkydkpwQ2NVVF94WXoxaVJZRFYxYzFXcFNrVWZnSEw1QWMwc09tNFVOMEJVN1dJRGVpbGJQeDhLcWtTeHJF?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T00:28:15+08:00"
-    },
-    {
-      "title": "Air traffic failure was avoidable, says Transport Secretary",
-      "link": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T00:13:40+08:00"
+      "time": "2026-09-10T00:10:51+08:00"
     },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T00:01:54+08:00"
-    },
-    {
-      "title": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY01JRy1Bb0lMX21IeVpXNkFndVZQVDFDbExjX2R2ODV1Ui1pQmF6d1lWaEJ6U0didUJ0b0NzbVo1UG00VGpXVlNmbVltYWpvMnpWNUlyT1JldHUxV2pSODdQSlNGdHZ1QUhvZkVMNUJRUHdEMTN5Q1VNS093eWpITUc0RVFVcXI2ZURzRmNZUGNFanI1cFIydWRjbFhEN1k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:36:00+08:00"
-    },
-    {
-      "title": "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwy1k42w4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-09T23:34:09+08:00"
-    },
-    {
-      "title": "Iran attacks US forces in Jordan as Strait of Hormuz tensions escalate - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHFQTFZXeWUxY1pLVjU1ZXlkS3VqcE1iYW94VzlVcDRnOHRpcFJhUUJ6V3ZsVFpGbGpmckVwQkhxNUxuS3lleHd0aE4yVVUwaWh3c3pldnpIdjI3Y0hyWkkxVi12WmZzek96Q0o1NFFMamQ5RERPSnZCZ0hRMnprU0VR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:29:49+08:00"
-    },
-    {
-      "title": "Police launch investigation into allegations Britain’s hard-right Reform UK party broke campaign finance law - CNN",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDRjgzTUNpbUMwdG5yT1JBSXUzQnlNX1lNUVBxT0lmMDZabzAxYndzWkd5cWFmRlBkM1o0NEVtRGZCTThKZll1VkRDcXp6MFVlZUh0eGQ0bHJWR1Z2ZUtidU40TDBtVm5xNmVjYnRMQkMyNFNqMHBjdW10Yw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:05:51+08:00"
-    },
-    {
-      "title": "Cancer’s toll on 9/11 survivors is accelerating 25 years later - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa2o5VlYweWJXV0k4R2QzR3ZqTnlhdmV0SFkzaklKaFdNai10am5BSlhsSzVuZ3V3RGZrV0Q1Uk5nV292MnFGS2x4OHBYMEhCb1JEOHJpQ2FQUVU0TFZURkNwWXdMeTlZeWhVYVdWME5qTUwybXUxNnVFYlZMSmFzMXp6cFRVWHRuQ3gwTlg0ODY3NXlsbU5CeWQ2LWtHYjk3QUlVVnFWU2pRWjQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-09T23:03:05+08:00"
     }
   ]
 }
