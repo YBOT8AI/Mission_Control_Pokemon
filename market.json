@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T12:04:53.436241+08:00",
+  "generatedAt": "2026-09-10T12:35:58.985481+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 613903.36,
-      "changePct": -0.67
+      "priceHkd": 614475.68,
+      "changePct": -0.65
     },
     "ETH": {
-      "priceHkd": 19403.92,
-      "changePct": -0.92
+      "priceHkd": 19434.18,
+      "changePct": -0.73
     },
     "SOL": {
-      "priceHkd": 798.19,
-      "changePct": -1.88
+      "priceHkd": 800.46,
+      "changePct": -1.72
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1112.07,
-      "priceUsdOz": 4411.9
+      "priceHkdPerGram": 1112.1,
+      "priceUsdOz": 4412.0
     },
     "Silver": {
-      "priceHkdPerGram": 17.03,
-      "priceUsdOz": 67.56
+      "priceHkdPerGram": 17.04,
+      "priceUsdOz": 67.61
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 753.11,
-      "changePct": 0.01
+      "priceHkd": 753.5,
+      "changePct": 0.06
     },
     "Natural Gas": {
-      "priceHkd": 21.86,
-      "changePct": -1.2
+      "priceHkd": 21.87,
+      "changePct": -1.13
     }
   },
   "news": [
+    {
+      "title": "Supreme Court is asked to settle Missouri dispute causing electoral chaos - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T12:25:12+08:00"
+    },
+    {
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T12:08:07+08:00"
+    },
+    {
+      "title": "Melrose, NHL coach, Emmy-winning broadcaster for ESPN, dies at 70 - NHL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaWxLQ29hdmh5eFBHU1dvNktuemREY2w2VDBxYUg4aEp0dnNFcHo5OXZKOUpFTXpvVmx6azNQNDdKblp5QmNTMjhHS3I0OExnT2psbnQ2cVpwaS1iWGZVUGMtcmljTUNJQmpwNkY0SHZyTGRZOW1xc1h1ZHpUYmJ2Zjgwb09DLUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T12:07:30+08:00"
+    },
     {
       "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVh5cFVGMm5OY2ZMVXRJVTNjUEt2cXNrdHpsVFpYVFM3RE5zVjdnOE9uR244MlFvMVU1WXplaDExMWxwaUppZ3FpU0FsVHM2S2d2WGhpN1hveWlKT2tabXktb0ZmNjd4Y2hRd1NBeVlDWnRWSFpycS13VHBGaVg4elR2UWt6cWgwSm9ncDV4SE03U0IwR1lVY0ItdGdoNGNsMm5RQ3lScFJTMjRzQjJra1R2ZFNUaWd3dVVSdUJn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T11:35:39+08:00"
+    },
+    {
+      "title": "Seahawks take Week 1 win over Patriots, lose QB Darnold early - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmM4Z0JJbS0zOEJxWDQ1UVRET3dRcDBtLUo0WDVISGF1X19KVUVWLVlHVXZzX0JRTXd2eVJXQjByaTVIcjZQb0hGdW5PVUFWSzNRb0xCdWdzLTVwVDgwNWNhWkZpbmd4d0lKRC1QdzJDOGYybTlGaFliSjVubDFyU3JTUV9vTUxzaElpdkhZREdfNFoxNjJCZXlJVmctcWl5TWNvZE9pMmJKdnZPN05FQzFKWER6YTdUTmp3QXFB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T11:34:00+08:00"
     },
     {
       "title": "Trump promises $5,000 dividend in convention speech, but only if Republicans win - NPR",
@@ -65,28 +89,28 @@
       "time": "2026-09-10T11:10:34+08:00"
     },
     {
-      "title": "A.J. Brown (ankle) done for the day vs. Seahawks - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3VBQVRQX21zS0R5aFVhRldUMWMwMDFkZzZxZDRiYWx4VlBMQjMyVUJROG5PQ3ZDeWNDenUyZVV4VVFlUi1DNG54bjFTY0htNGZHS2Z1TlVXc0dwSkZyQnlJZGdMUEVuaGRsbU14b29xdUhmcmhVbXR4RjU2c3NXeEt1LW1iOFdxUWg3YXlPRXpZY0RnMUwxTFBJaXZCbmRfREVMQ3JSa19aNFQ5R000?oc=5",
+      "title": "Trump says the war in Iran will end after Election Day - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJZeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T10:51:52+08:00"
+      "time": "2026-09-10T11:02:00+08:00"
     },
     {
-      "title": "Political world erupts as AI researchers warn of ‘extinction’ threat - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5",
+      "title": "A.J. Brown downgraded to out with ankle injury - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1V3aW1RUjBIaHRiRXNuUWJfandMOXltWVFHaVA2WVlXMDd1OFVCT2xLWk1vdG5weVMyQThITDFseEZfNlo0eTJYNDFTTHRmcDI4a2NyOFE0RW5CbTBNaVJHclJmMDJEZkVrSmtOejYzbHpJcEF6VTFYNE5QNXFJOGpiUXFfcTBGS2U3VkhacEd2NHlSeXNHR3Z1NGFPdFhsLTR4UzlrUWRTZ1U?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T10:42:29+08:00"
-    },
-    {
-      "title": "Fetterman Has a Surprise Cameo at Trump’s Convention - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2pOSGJCUHF6ZG1HTTNrNE1XQWw3aHFvNDNfY1VDdktfZHNSbUpmWXdoU0lCV25iOHUwelhnUDJ4bFZfMFdBTjFyX0hYN1JjLTNFaHpwOXYtajlGaFE4SE9QSHo4R2pSU3NzOXFWM3I0VllKZ3MycFZjYnRvclkxMzhUY25XV212VkZQZ1lfRnZKX1JlNDI1R1Vn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T09:48:38+08:00"
+      "time": "2026-09-10T10:45:32+08:00"
     },
     {
       "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much - CNBC",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHA1U3VRLUZIMERvdjlDODVGS2FPVFZ6MmxfRGFHY0s3QUgxWUp0aUJxWmhSbkpZNE5NVkl3WFA2b0ZTOG5DXzBZNDVIVjFtOGhQeEc1WFZWdkJIMExjSUl1SERXaUVyYkZPZnpia1hNaG51TE8zWElDdE94TXAtTkt1WGxBMmtMUVRTcnJ1TGxnOXRFa1QwNjF0VnQ1X0nSAaQBQVVfeXFMUGhkRkpmOGtydE5IME9kd1JxWFluWEU2X3cyMkZiWGsyeWtZeDlvaV85RFJNNnJVLTVEc25BOGNjU19rZ3g5b01pTWVJVHd6WFh6SDZRd2RJcnJDSHA0Z2t0VlFTelN4aHNQN1EyUlAxVWFxOTVpdjVzRW1IZFBQTENneVdlX01TNmlCQWdPV3dVWlp4SmtXN21yYld0dXdIV1lSSkk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:41:00+08:00"
+    },
+    {
+      "title": "Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash - foxbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzZIMmJZZWlYa3haWU9POGlJckVuc0J4STVQRlFSXzRlR2NZU203Y3JFQ1JFREtONTRvWlNSUWJIaEFoaWZTdFpKWFRnaG9na2xjMWl3REdLMmoxZmxJTFZnZHhQcmZBM2dFSU45MW83REtwY0Zrd2lwaEN1OXpaT0NIX3BwWjNRcW9UMmdOT0Nfa3EwNmZMWjNjc1d4VXg5ZFlXblpjZVA0bDJ6cmJHaTVYQm0ycXdMNFVJT3hXc19oN3NmNzd6bEItaFBiMWlM0gHWAUFVX3lxTE5MZWphVWt4ZGNSVjlPelRmSHBUTXFGekNpa1ZTMEtjZGxDbXZ6NFJSVUYtcTZLMjl5OEhzLXZPMHpkblUxSlpYVVlZQVlNcWI5X2ZVQnVDSHdhLWQ3VV9iNXg5Yk1lNXNIdFpaUmxNdVFFVkx5X2VYTzFBRXk0QU9ES0gzZ3M3U0FzNjJpNGVEMWY2QXpGeGh0MzJUQ283bWw0V19GdVVZOE9GVGNoRFBsVEROMmpibk16Q3Y2WE1OUEFJLXJjTU45Um1NczZ5M3ZDWjFXLVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T09:32:00+08:00"
     },
     {
       "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
@@ -99,12 +123,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWZ5WVNTNEloRHZMOHpOSkVQRnBMc04yVkJfdVNaZ0dLQTBVd2NaUUhNMzBWaHM2V3Q0cXl2a25DZ1B5QUt3ZzVQRVNpSjdwa0xnRENXaEdPV2hBREhGTUxEZE8zRXN3YUwzLWtiUXNTSk1MaUduUjQtYWJKbVNaQnQ4ZFFucEdfdEt5SU5EMG9oeWdNRXJUckEzWDI5dU14MkdHUzBLUHZXUVZ2SC1adEpRU0dKUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:18:36+08:00"
-    },
-    {
-      "title": "Seahawks vs. Patriots live updates: Sam Darnold leaves game with hip injury - cbssports.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjBvU08xMm8zR3VwQkliRGY3MGNZUFF2RzZ5dFhnX0tFU3ktV0w2eU5OaDBBZjJvTURLWVlod0xlMzdPa2VEbk8zMGs1VjY4bW9iTU45MG5PbWtfNldfWE51b1hGTTZaWXFqcV9VZHMwWXhiWGdYMndkN1NxV2lpNGUwRkUwMDlqcE5HUG9fb1FSdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T09:09:00+08:00"
     },
     {
       "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation - WSJ",
@@ -149,28 +167,10 @@
       "time": "2026-09-10T07:26:36+08:00"
     },
     {
-      "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T07:18:49+08:00"
-    },
-    {
       "title": "AI is becoming harder to control – can humans stay in charge?",
       "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T07:17:33+08:00"
-    },
-    {
-      "title": "The one thing you need to do to succeed - according to top bosses",
-      "link": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T07:02:20+08:00"
-    },
-    {
-      "title": "Hurricane Lowell leaves trail of destruction across Kauai - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXJDRms1aC1yeHBJbERSWEpMbS1mYUNZbUZXZGg1Zms0dUJkd2hVal8ybkl2TnNsWk1faHRmSXlVSEtqTjN3bDB4RkpKVHlSOUNUX0ZYX0VwM1RMVEpwYUJzcHlUMENHbXZQQ0l6UGFYa2VVZjg1QmtHOWFqdDJfUWRUYjdQWXBBNDRQN0RNZFM3cDgzdWJNbWRQcEJoMFJpM3VFMzVUNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T06:43:07+08:00"
     }
   ]
 }
