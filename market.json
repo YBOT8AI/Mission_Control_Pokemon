@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T16:13:33.943615+08:00",
+  "generatedAt": "2026-09-10T16:44:42.297062+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612460.8,
-      "changePct": -1.7
+      "priceHkd": 612178.56,
+      "changePct": -1.97
     },
     "ETH": {
-      "priceHkd": 19380.79,
-      "changePct": -1.79
+      "priceHkd": 19366.6,
+      "changePct": -1.91
     },
     "SOL": {
-      "priceHkd": 793.41,
-      "changePct": -3.41
+      "priceHkd": 792.62,
+      "changePct": -3.54
     }
   },
   "stocks": {
@@ -33,36 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1111.21,
-      "priceUsdOz": 4408.5
+      "priceHkdPerGram": 1108.32,
+      "priceUsdOz": 4397.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.99,
-      "priceUsdOz": 67.39
+      "priceHkdPerGram": 16.87,
+      "priceUsdOz": 66.94
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 755.7,
-      "changePct": 0.35
+      "priceHkd": 759.46,
+      "changePct": 0.85
     },
     "Natural Gas": {
-      "priceHkd": 21.87,
-      "changePct": -1.17
+      "priceHkd": 21.83,
+      "changePct": -1.35
     }
   },
   "news": [
     {
-      "title": "Primark takes further step into online shopping with home deliveries",
+      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
+      "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T16:44:19+08:00"
+    },
+    {
+      "title": "Primark finally set to launch home deliveries",
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-10T15:41:39+08:00"
+      "time": "2026-09-10T16:37:59+08:00"
     },
     {
       "title": "England's mayors to be given power to introduce tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T15:17:03+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil tops $100 per barrel as U.S. fighter jets are damaged in Iranian strikes on Jordan - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T15:15:00+08:00"
     },
     {
       "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
@@ -107,16 +119,16 @@
       "time": "2026-09-10T13:28:00+08:00"
     },
     {
+      "title": "‘Jimmy Kimmel Live’ Moves Interview With Texas Senate Candidate James Talarico From TV to YouTube Due to FCC Threats - Variety",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXhnNXRKalM4MmhBM2lkVEhjcGZzdTlpVW9tMkVOYjRmNzExMkhBNkZPSUVkVlVyQkJxMU1yN0FBMFY2QmxuR3FqUGZseXZIWXJKbU5oTkMwbEdXdjJCSV9seXZiZU1CVG12VmlTMVltdWNLNnhwV0tpNDBVZkVFM245NUV3RTNIbVZYNFlLZFhtTXM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T13:28:00+08:00"
+    },
+    {
       "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXVPZG54RlNFVnAtQnM1cjhybnlyOXg0WWItLU15VnVQa0lidTVvakJ1SGh4VExJVktXNnRMY1QyU3VyNGRTc1d6NFJpdFFHNEdZcXFFNWlXYzVsSHNZbkxWdjNnbEs4clRnUXZSNzJXWWR4dEtNelBBbjZ4M1ZabDBibHU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T13:24:10+08:00"
-    },
-    {
-      "title": "Dodgers To Promote Josue De Paula - MLB Trade Rumors",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXM1emtzUVJGUXVXd2lIX2luT05fcXp5VERlMW1lWkY1Q05rOXp0ekctbVFUSWN4VDB2SnJpbTdBLWZjMVZmSWZjbjlKYW5uN01HcjlOQUp6QVFkX21PRFNlUmF2S0dKTXJxMGp6UDBSLTBpamJfeEdmYktVT25IWWVyQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:12:57+08:00"
     },
     {
       "title": "Buy now or wait and hope? Families face gamble on heating oil",
@@ -131,7 +143,13 @@
       "time": "2026-09-10T13:00:25+08:00"
     },
     {
-      "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+      "title": "Macdonald: Tests rule out hip fracture for Darnold - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNGp1RFpadDBXanBMSUI0VFE4ckF2T3VzT0dvM3QwMnBoY1B6S0ZPckRDbmh1T2dhQ1BKOFUyN3BnVWJGbU9sck1kY3ZHVVpFRDVKWGZtZjN2bGwxR09ZLUkydWxYOXdLTXZfLWhZbkl4NWR1cmxlVG9USTNzZ2VWT2VWQnY0bWIzUHJjTDQ5R1NqaTRvMmdHbzBZSlpONUhMbl9YQUdjUlJzME14eWVqTkM3Z0RWUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T12:56:15+08:00"
+    },
+    {
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
       "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T12:43:54+08:00"
@@ -149,28 +167,10 @@
       "time": "2026-09-10T12:07:44+08:00"
     },
     {
-      "title": "Mike Macdonald: Sam Darnold did not suffer hip fracture, more tests to come - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONDlHMWc1Y0Z2bEwwbmlwczBNTGhnSVhJeWtaMmxTeG81ZURPRTJhVk5raGhDb1NVU3lXaWhNcFFhN2pobVAtMjNQeU9JQkFhdEZwN3NlclltaXZLbldjWVhCRm1ZSmdCa3gxME41T1lmRExVSlBsakp3cHV5bzBqbjhEVGliVmsxd1RUY2JNZkUyNm4zd2V6NXh0RElfY1V5Z1ZGRE5JX3lGRWFGd2FSZE9zUzVKVHMyOXNBbDJ0WTZKdDRsUUFxd3dJV3FZQjNx?oc=5",
+      "title": "Seahawks take Week 1 win over Patriots, lose QB Darnold early - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmM4Z0JJbS0zOEJxWDQ1UVRET3dRcDBtLUo0WDVISGF1X19KVUVWLVlHVXZzX0JRTXd2eVJXQjByaTVIcjZQb0hGdW5PVUFWSzNRb0xCdWdzLTVwVDgwNWNhWkZpbmd4d0lKRC1QdzJDOGYybTlGaFliSjVubDFyU3JTUV9vTUxzaElpdkhZREdfNFoxNjJCZXlJVmctcWl5TWNvZE9pMmJKdnZPN05FQzFKWER6YTdUTmp3QXFB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T12:06:33+08:00"
-    },
-    {
-      "title": "Trump says the war in Iran will end after Election Day - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJZeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T11:02:00+08:00"
-    },
-    {
-      "title": "August declared the hottest month ever recorded - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnVFNVowTDNuY1VmYkpHMVRXT0wtc2lyMnhuT1RGMFhmbUU2d1pWZldoNHg4WDgyV2dnOHRqWTIwVHRSVVAxSlNQcDFnc0JWdHlJT2lVNG0yQ0VDTjR2elBVbFo3UklhTnBzbWdiVlJLR3dzdHZHU0NnazV1a2ZKWDd4SkFqdEE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T11:00:00+08:00"
-    },
-    {
-      "title": "Hideo Kojima’s ‘Physint’ Moves From PlayStation to Xbox as ‘Death Stranding’ Creator Plots TV and Film Projects With New Publishing Partner - Variety",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmZvMEZKOUp3a0g1VnlsRGZEUnkyUXRuTkFPQnprTS12eWphWFJYVUVtY1hKd2ZhbjRoaG9ySkpJNVhKVUNIMDRVWVlMUW51cTZMeUxkYUZkRVRJWEF1YTAtbDVnTTZXNS16bGdocUt2UUNOSFlxNm01OEdFejdHTU5wS3BMSmw0QlRqY1F4bGNIYjYwNVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T10:34:00+08:00"
+      "time": "2026-09-10T11:34:00+08:00"
     }
   ]
 }
