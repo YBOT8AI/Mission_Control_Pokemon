@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T11:02:43.368678+08:00",
+  "generatedAt": "2026-09-10T11:33:48.568635+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
       "priceHkd": 614099.36,
-      "changePct": -0.47
+      "changePct": -0.32
     },
     "ETH": {
-      "priceHkd": 19400.0,
-      "changePct": -0.7
+      "priceHkd": 19398.43,
+      "changePct": -0.56
     },
     "SOL": {
-      "priceHkd": 798.5,
-      "changePct": -1.47
+      "priceHkd": 798.43,
+      "changePct": -1.24
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1114.26,
-      "priceUsdOz": 4420.6
+      "priceHkdPerGram": 1112.47,
+      "priceUsdOz": 4413.5
     },
     "Silver": {
-      "priceHkdPerGram": 17.08,
-      "priceUsdOz": 67.75
+      "priceHkdPerGram": 17.03,
+      "priceUsdOz": 67.58
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 754.36,
-      "changePct": 3.43
+      "priceHkd": 753.11,
+      "changePct": 3.26
     },
     "Natural Gas": {
-      "priceHkd": 21.87,
-      "changePct": -4.32
+      "priceHkd": 21.89,
+      "changePct": -4.25
     }
   },
   "news": [
     {
-      "title": "Seahawks rule out Darnold (hip) before halftime - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEZpLWtVMmdOdUE1SXBVZGdGZ1hMOExSaUp6TGh2M2MxeDNRaG4xUXJfQUdYZlJsMlBQUEpNYjE4dFNwdnBaa3hTVTRrNUxLSEEzVllVRHNoUjJvNHo0ekZsMGxRN1NMcXJndlFHN19URGg2YVd2dkhlcmRRcndXVjNQdG54d0tndEstYXgzVTZTSHpOVThKZVFQSzFDQXg2S2R2TGM4bnFjXzlwb2JqZg?oc=5",
+      "title": "Political world erupts as AI researchers warn of ‘extinction’ threat - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T10:33:06+08:00"
+      "time": "2026-09-10T10:42:29+08:00"
+    },
+    {
+      "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T10:27:00+08:00"
     },
     {
       "title": "'Pretend I'm on the ballot' in November's elections, Trump says at Republican midterms convention - BBC",
@@ -65,13 +71,19 @@
       "time": "2026-09-10T10:25:01+08:00"
     },
     {
-      "title": "Fetterman Has a Surprise Cameo at Trump’s Convention - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2pOSGJCUHF6ZG1HTTNrNE1XQWw3aHFvNDNfY1VDdktfZHNSbUpmWXdoU0lCV25iOHUwelhnUDJ4bFZfMFdBTjFyX0hYN1JjLTNFaHpwOXYtajlGaFE4SE9QSHo4R2pSU3NzOXFWM3I0VllKZ3MycFZjYnRvclkxMzhUY25XV212VkZQZ1lfRnZKX1JlNDI1R1Vn?oc=5",
+      "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVh5cFVGMm5OY2ZMVXRJVTNjUEt2cXNrdHpsVFpYVFM3RE5zVjdnOE9uR244MlFvMVU1WXplaDExMWxwaUppZ3FpU0FsVHM2S2d2WGhpN1hveWlKT2tabXktb0ZmNjd4Y2hRd1NBeVlDWnRWSFpycS13VHBGaVg4elR2UWt6cWgwSm9ncDV4SE03U0IwR1lVY0ItdGdoNGNsMm5RQ3lScFJTMjRzQjJra1R2ZFNUaWd3dVVSdUJn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T09:48:38+08:00"
+      "time": "2026-09-10T10:19:08+08:00"
     },
     {
-      "title": "Trump administration proposes changes to census that could exclude millions - washingtonpost.com",
+      "title": "A.J. Brown questionable to return with an ankle injury - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGJtbFp3RURiN2VOUEJqVFc0Tk9DdGRlOXB4VDZTT05yU1g2c1ItWlh3MTNaM1dHWk5lenNiaVAwOGF6LVZuQnoydzFPdGQ1Q1VUdUNTdnRoVE9Hc21lTmhod3hCNFdidTFMaDdkVy1qNXA3b1U4RXo5NW45TXktNFNLejY4czNFOURqbWtmd18ySUlqNjVBM0ZjUkFoVHFVNUVHSEcyUXJTNzV0NENaamFldjJNUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T10:09:36+08:00"
+    },
+    {
+      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:22:50+08:00"
@@ -81,6 +93,18 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWZ5WVNTNEloRHZMOHpOSkVQRnBMc04yVkJfdVNaZ0dLQTBVd2NaUUhNMzBWaHM2V3Q0cXl2a25DZ1B5QUt3ZzVQRVNpSjdwa0xnRENXaEdPV2hBREhGTUxEZE8zRXN3YUwzLWtiUXNTSk1MaUduUjQtYWJKbVNaQnQ4ZFFucEdfdEt5SU5EMG9oeWdNRXJUckEzWDI5dU14MkdHUzBLUHZXUVZ2SC1adEpRU0dKUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:18:36+08:00"
+    },
+    {
+      "title": "Live results, best moments and analysis from Seahawks-Patriots - espn.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2tNTG5WQWFmakk5OFduYmZNbnJRcjdoWGs4eFhKUHFzU2UwaGtlbVY4Z1pWa1NHUmstdDZ1eDI3YlNUY1VqaWw1YzZPMWt4T05HQzljYlF4UWZjZE9vOVYwUXZYX3RJWGZSa0dlMXRWRFY4QUo5RFFQMTBuWC1PSFVyTG5mQ0lIV004THUwaWFsZVJ5ZXhUSHd6YnVPQ2FUSGVQQmlYckhxLUkyWFMxWHJyQ0kxSDhRd1haSjR0Z2RwdG5NVDhrTWxJZUxBbnhkN2pRSE5FSnpydnVrWkNPdzRR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T09:01:07+08:00"
+    },
+    {
+      "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T09:00:00+08:00"
     },
     {
       "title": "Rhode Island’s Democratic governor loses primary amid anger over bridge - The Guardian",
@@ -95,28 +119,34 @@
       "time": "2026-09-10T08:06:33+08:00"
     },
     {
-      "title": "Live: Updates: Seahawks missing two safeties for NFL kickoff vs. Patriots - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWlhOXg4R2ZhTHZMT19iUjdKcm5BeEgyV19HeEJNa25ycEZIak9WOEE4czFsbDRJVFJOOTJvYXBQYmhKY0s5LXFuX1FSenFwczAtcmw0N1lvUGVhZDNqOVJqakgxQWpidVozNFo2V2lVMWNnT3NYQlp4ZklNSkdzalBXQjdSbzNkc1Y1OVNSaGt1SlZTb3RPSHk1eVoyZzUyMVFwVWJaLTh3dVRvNW13OEVKT1FXVFU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T08:04:17+08:00"
-    },
-    {
-      "title": "Stock Market News, Sept. 9, 2026: 10-Year Yield Jumps as Treasury Buyback Plan Disappoints Investors - WSJ",
+      "title": "Stock Market News, Sept. 9, 2026: 10-Year Yield Jumps as Treasury Buyback Plan Disappoints Investors - wsj.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T07:57:00+08:00"
     },
     {
-      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5",
+      "title": "Mikie Sherrill provides few answers in first appearance since lieutenant governor investigation surfaced - Politico",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUm8tdEpGOHREWS1iMzNfOUE2bi13eFk4MlNKX0ZiU29LTWZqcnZZM01JbTBvenpMR1JpbmM2TjRyMnZUby02Q1MwT242TW5wc2ZlV2dZQ0NZWng4aEt6dnM3MTFfS21UUEZ1cEVpZVRjeXN4aXJ6bUZXQmxXOHJVbTFzVTdDUlBoRG51Y0N2dGNwR0hhaGNsMURGSkhwRER3Q1pMSm5uT19MZV9nTUNJ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T07:46:45+08:00"
+      "time": "2026-09-10T07:45:00+08:00"
+    },
+    {
+      "title": "Traders Brush Aside Scott Bessent’s ‘Bet Against Me’ Tough Talk - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmY1TGgtSGlqQkVCci0wVm81UUpFNmx0M3ZmUDBBRENMazFWTE9iNjAyUzA2UzNBWEh6d1MtM24zRjZsN0d2LWdtNFB1RUJvV3hscEFTckRSbGFySUlpNVF4WmQ5T25nWUVUUDFBV0RVT0JSVFNnQUhpYy1QZzRDWndpdmxtY01HbS12UTZ6QkVBWGJURmRFcUFsanNYMlNmTVFBM3pVczBQMzkyTUlsY3dB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T07:35:52+08:00"
     },
     {
       "title": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazd6cklWdG9EYzR4SUVfcTJib1FEQU5xTElOVHhWTlhaX0ZROEk1SmJsQzR1QjF3WFdvZk85clJXVHgwLTF5SnZqY0toaW9CcGlkVE8xV21oZzNRRFBmeEtBSWNZMTJjOERNUUkyaGE4R19yck1ONThXWi03Vlp0WV9JM1ozUDB1M3o2TTdhd2pmSVVqZHpNS0g0UFJ5amdnVVFDZHQtcDFSajluZ21UQ0JfbzdLLXJf?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T07:26:36+08:00"
+    },
+    {
+      "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNlBwY0xWY25vMW5KUmhIc3BjbVp0bUhyTnpXOGRuOXhKWVFVSlZrMWRXc2VsWHFRLWJ3UU14VmFrLWJTenNJa2NiNm52SWpTc2cyM0RrcG14el9TOVdFNkFDYkZKcGNPeWtqM19OYlZOTjFUaS1TYXJFZElMM0JHREo1SjhabVROTllGQzBnLXRuQml0cnZlWGRVOUFmX3IwN3lLNGpYSC11aEJmMFVqRWF3YUtDSHQ4amJueXhn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T07:18:49+08:00"
     },
     {
       "title": "AI is becoming harder to control – can humans stay in charge?",
@@ -137,40 +167,10 @@
       "time": "2026-09-10T06:43:07+08:00"
     },
     {
-      "title": "Champions League briefing: Ballon d’Or contenders dazzle, a 12-minute hat-trick and a two-man canoe - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMm5mYlozUFF3VzA0clYyLXdNOWZ2RWowMFBYU255bWFjYkxaNURfREUyUFh4dF9QaElDV0hvLS1HemFqbHgxZlViY3BKVEVOWHBlX1pMQnVZU3NLUVRFNTJxUFFtZUV3eFhzUV83ZHdBbXROQ2M2ak5QMnBKNUlBaG1rTDF1NXJnMUk2ZW5jWk45OTdzN0lZZFVNeTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T06:39:26+08:00"
-    },
-    {
       "title": "‘South Park’ Creators Apologize to Kendrick Lamar, Paramount for Movie’s Delay: “We Still Believe in the Project” - The Hollywood Reporter",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnVNTzd2NDdaei1SOWswLUtrMGowQWZJOVRCanV2c2w1U01keTdKWjZxcnozX1FKdnlwQW81LS1FUVJQVXlXUGxnXy1VUk5mZGVfWDZfWU1NbHdGcXVDSUFvcV81Q0R3SWMzVnlFMkN4YmZ3dDRrbGRYQnBVNkRGT1E5aGp3TVVqMU5TTDd6dW1fY1RBYzkzNURkTi03MHlDR0VJV1VQYlFnb2tkeEhuUWphQ05Wak4wZGc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T06:35:58+08:00"
-    },
-    {
-      "title": "Bessent Yen Jawboning Risks Raising Expectations BOJ Can’t Meet - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnAyYWpRWDFDRmc0NHVQdlNwYjg4cTFfdDRtUDlsQ1FwU1lZRTlCUTVhX0FmcVFjY1c0bVg0SlRYbFRiLUlxa1huYmNPd1BYbHVqQ3M4X1Q1VUFLYkdDWFRqUDM4X0hScDh5cXBMdmRvMXpwdkdvYkhPd2dOcXltcHZmaDRfdFYtMkNOY3BaWmxJVUhFMU9WZGdDR3dGdS1Jd2Q1X3phck9xS0hBRVhlT0N6Qjk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T06:34:32+08:00"
-    },
-    {
-      "title": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
-      "link": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T06:17:22+08:00"
-    },
-    {
-      "title": "Missouri’s GOP-friendly congressional map returns to Supreme Court - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXlVM0lzQkpfNG94Z0l4aUpwMVNxVWlReWdzbmdyWV9NUWRlYkVoU3RiZy1kNWZ5OVI2SWlBSEtDRE9CdDZzVFk1UllCdDRLc1lRdi13RzI3TVM3N2lfckhURlJ3TGRnVC1SNGVRVjB2U2NObXIzZHNpVUtGNlp2OTE3bnEtMklxeVR5NFJFUkNRNjFfenU4b0ljYVFRbTY5OTVvMtIBqgFBVV95cUxPbXpSd21Vcm10aWU3TVplNHJxWGJfeUx3a0FENzgwdU5CeEhxYV9WOFUtamYyYnAtVVI2YVJFTHk3UW1KWlVWYXdlRi03UTEyYzk3Vll1VVVJRWU4UWFlS1ZtYUpNbk1kZk1JbEp3Vll1eXI3bEVBaVNBajNzTVIxaE9ZcDhvTHZ4ZU4zNUl3Q1Y3U09CNTk5dlJCM0F6OFhlb1htMU90X1J0QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T05:37:00+08:00"
-    },
-    {
-      "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2VHVlNGRmlBZTJyWWJkMGZUcEhzdWRHMjFvWEthSzRraHd6MXFTNFpjUzN4cDk4LV90cWllenZEZHZ5anJ5eG5wRTJ1TWd2alV5NUFVbmhzYm5IeVJDMHZMdDVWdlNmTS1ScHpub1dUN3lDTkhaejk1UTFZMGJMaXN2dDVxTXJ2eEZ1TTBpTWFHS1dhYkptMTlDdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T05:26:00+08:00"
     }
   ]
 }
