@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-10T22:26:32.247917+08:00",
+  "generatedAt": "2026-09-10T22:57:33.746978+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604487.52,
-      "changePct": -2.34
+      "priceHkd": 606369.12,
+      "changePct": -2.02
     },
     "ETH": {
-      "priceHkd": 19101.22,
-      "changePct": -2.51
+      "priceHkd": 19140.03,
+      "changePct": -2.3
     },
     "SOL": {
-      "priceHkd": 782.43,
-      "changePct": -3.59
+      "priceHkd": 784.55,
+      "changePct": -3.34
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5471.23,
+      "priceHkd": 5471.14,
       "changePct": -0.43
     },
     "SPX": {
-      "priceHkd": 59623.98,
+      "priceHkd": 59624.14,
       "changePct": -0.41
     },
     "SPCX": {
-      "priceHkd": 1176.24,
-      "changePct": 1.68
+      "priceHkd": 1177.41,
+      "changePct": 1.78
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1102.32,
-      "priceUsdOz": 4373.2
+      "priceHkdPerGram": 1098.96,
+      "priceUsdOz": 4359.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.37,
-      "priceUsdOz": 64.95
+      "priceHkdPerGram": 16.28,
+      "priceUsdOz": 64.6
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 781.41,
-      "changePct": 3.77
+      "priceHkd": 782.9,
+      "changePct": 3.97
     },
     "Natural Gas": {
-      "priceHkd": 21.79,
-      "changePct": -1.52
+      "priceHkd": 21.85,
+      "changePct": -1.24
     }
   },
   "news": [
@@ -56,7 +56,31 @@
       "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-10T22:13:27+08:00"
+      "time": "2026-09-10T22:46:09+08:00"
+    },
+    {
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:32:14+08:00"
+    },
+    {
+      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:31:58+08:00"
+    },
+    {
+      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:28:58+08:00"
+    },
+    {
+      "title": "Republican chief election officials say it is too late to implement Trump’s mail ballot order - Politico",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1pDWm00aWptd2JsZG5FcHVveVZ5cUFaeUhGY2hPREgyaUlHOGxORm1jazN4RTBKazRPajROc0g0a0J0UmY2UTZ6cVExSTVyS2lRYXB2RklpYXA1Q2dSdEMyQWdiZUFza1lVZmN5dlE0WDR2bDk3cVVyRDRjOEhLS3E3WE9fbVRKVllUZE5QVHQzTFJSV09aT2Zqdk9UOTlyVkU4RzRR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:16:00+08:00"
     },
     {
       "title": "Primark introduces home delivery",
@@ -65,16 +89,16 @@
       "time": "2026-09-10T22:07:54+08:00"
     },
     {
-      "title": "For years, they warned AI could kill all humans. Now people are listening. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
+      "title": "Home sales fall in August despite the highest supply in over a decade - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ia29VR2F6VmNMcjdJS3pRUG1sdTNXYnJ0dWQzdmJWRzBldnItRlRLV2k3NlZ1Z1luYm9Rck5SbWZJa0ZaUU9TalBmdnc4V0ZnTkhBdjRXT21qd2lZdWhfS2wyVVJDMU4xMm9xQVZR0gFzQVVfeXFMTXpQbFNyY0l4RnRqcjVlUk91WjlFRTY3Z3pxaHhVbnFxWlFBY3BaZGJZOU82cldqZm1IamVDX25FMHhNM3Z2QnBkdVZheGkxbHYwUnJNN3o3VU5pOTR1Y3pIRzFkc0FEblEtU0R6Q25tNmlYdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T21:51:38+08:00"
+      "time": "2026-09-10T22:05:59+08:00"
     },
     {
-      "title": "Hurricane Lowell leaves trail of destruction across Kauai - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXJDRms1aC1yeHBJbERSWEpMbS1mYUNZbUZXZGg1Zms0dUJkd2hVal8ybkl2TnNsWk1faHRmSXlVSEtqTjN3bDB4RkpKVHlSOUNUX0ZYX0VwM1RMVEpwYUJzcHlUMENHbXZQQ0l6UGFYa2VVZjg1QmtHOWFqdDJfUWRUYjdQWXBBNDRQN0RNZFM3cDgzdWJNbWRQcEJoMFJpM3VFMzVUNA?oc=5",
+      "title": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUJzUWo3cnE1aHZ6V1o2Y1ZKVDhKUEM5ZGJzZzFPVkgyb0poeTlTbXhKRjI5QndFd1R4NGFrUVhTOEdTcnRpWnhLaHF6WW9pQURoZDNBZzVnaUVCSHFPOVVEcjJhdDBpY1Y5Z1gtc25BY2dTT1p3ZDNqM3BnajBPR1ZZZ044NkVmaEluUENmbDdiNms3amwxOXg4d0ZWWGRRcFJhSE9nSjRBRTJn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T21:46:00+08:00"
+      "time": "2026-09-10T21:54:00+08:00"
     },
     {
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
@@ -83,28 +107,10 @@
       "time": "2026-09-10T21:34:17+08:00"
     },
     {
-      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:31:54+08:00"
-    },
-    {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T21:23:37+08:00"
-    },
-    {
-      "title": "Stock futures tumble as U.S. oil prices jump over $100 a barrel: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:16:32+08:00"
-    },
-    {
-      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:15:39+08:00"
     },
     {
       "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
@@ -119,7 +125,7 @@
       "time": "2026-09-10T21:12:40+08:00"
     },
     {
-      "title": "Oil Prices Surge as Fighting in Middle East Escalates - The New York Times",
+      "title": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVmNITlFwV0FlUC0xOEItRThDaHhmYkVGOGMyUTRaalNEc1lHQXRDaGx6SUF6dUd4NVd6NXdSOExaN1ZGTWdkWEEwZDhTYUFmVFY2MW1LV2I3LTJWM1VRaVVFZkFtV2s1Q0VkWDZjdmJGWWlKM3Y2ZHZuZHVSQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T20:54:28+08:00"
@@ -131,7 +137,7 @@
       "time": "2026-09-10T20:24:54+08:00"
     },
     {
-      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media - BBC",
+      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media - bbc.com",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T20:24:54+08:00"
@@ -141,18 +147,6 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xZHRvX09ueUdENlNUTHNRV2JXdHpHMGFzcVNXeTFnMlhZZXVrS05mN09fd3dqYzVIYnA4TUU2LVRIOGU3VWM2d1ZUazBWSEtSVFdqbE9KZmswQnF4QVZHVndLbUV0RDlYTURpWVBVYVdQRWc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T20:19:01+08:00"
-    },
-    {
-      "title": "A fire on a passenger ferry in the Philippines leaves at least 5 dead and dozens missing - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:18:00+08:00"
-    },
-    {
-      "title": "Federal judge allows Missouri’s top court to hold contempt hearing in redistricting dispute - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:10:00+08:00"
     },
     {
       "title": "How to Watch 49ers vs. Rams: TV Channel, Live Stream, Time - FOX Sports",
@@ -171,6 +165,12 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQXluVjJ3SUhrMWhwNWEwZS05cGVUdzdiUDRNWUpNSW9WNWtGTi1WQ2x1Z3NUU3p0d29zZzk2TFFacjhia3FHNnJFeG55dG9qMUdCVXA2SjA0WDVFUXBKbE5lcmZWWG1BVGRmZ2Y4d3Y?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T19:15:47+08:00"
+    },
+    {
+      "title": "Jimmy Kimmel’s Interview With James Talarico Heading to YouTube to Avoid FCC Hassle - hollywoodreporter.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpORXBNcERCTm5WYnpFQi1lY3djQ0dnd1N4QWROTjlyLWJuZ09UY2V2U1padVdhTjdSLW8xYWo5VWxiZE5fNTJlY3ZMbFBvV2MtcmY1d0pHbTdUMzdnZFVJQ21XYnE3T2JxNnBjcXlCS0lobi1BQlNpZ3Z6U3F3MnM1Z3ZaNVhnamNLaGpocUZJRVNrTzRPbmt2MnNLazZEQjd0WWU1SlVCOUdSWHNfQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:12:29+08:00"
     }
   ]
 }
