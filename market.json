@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T07:56:13.392930+08:00",
+  "generatedAt": "2026-09-10T08:27:18.037893+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 613456.48,
-      "changePct": -0.23
+      "priceHkd": 613723.04,
+      "changePct": -0.45
     },
     "ETH": {
-      "priceHkd": 19346.53,
-      "changePct": -0.67
+      "priceHkd": 19352.57,
+      "changePct": -0.9
     },
     "SOL": {
-      "priceHkd": 797.41,
-      "changePct": -1.56
+      "priceHkd": 795.37,
+      "changePct": -2.09
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1107.94,
-      "priceUsdOz": 4395.5
+      "priceHkdPerGram": 1108.11,
+      "priceUsdOz": 4396.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.97,
-      "priceUsdOz": 67.34
+      "priceHkdPerGram": 16.98,
+      "priceUsdOz": 67.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 761.73,
-      "changePct": 4.44
+      "priceHkd": 758.44,
+      "changePct": 3.99
     },
     "Natural Gas": {
-      "priceHkd": 22.01,
-      "changePct": -3.74
+      "priceHkd": 21.97,
+      "changePct": -3.91
     }
   },
   "news": [
     {
-      "title": "Hunter Biden’s ‘$LAPTOP’ crypto coin crashes minutes after launch - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlBPY25HX1E5UmZ2LVE1MmhmYjBEcEkzaTY5WlpGUmdZc2JURlVzYVRTNzBROF95OHdaTXhHX1lJY3pEdl9XNVl1ek1oblk4c0VPTEt6TGJ6a1pPSGJqWTMyNGJNYVpRNml0UlhiMWJHVTVlOW9WLVRFck9QMkZnSTJJRm1CWVUyRkhURnV2SHZJNTJwOWtpTUZtU3pKOVdUYTBIWGp5NVE0ZFdUbGFtZ1RqTQ?oc=5",
+      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
+      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T08:06:33+08:00"
+    },
+    {
+      "title": "Live: Updates: Seahawks missing two safeties for NFL kickoff vs. Patriots - seattletimes.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWlhOXg4R2ZhTHZMT19iUjdKcm5BeEgyV19HeEJNa25ycEZIak9WOEE4czFsbDRJVFJOOTJvYXBQYmhKY0s5LXFuX1FSenFwczAtcmw0N1lvUGVhZDNqOVJqakgxQWpidVozNFo2V2lVMWNnT3NYQlp4ZklNSkdzalBXQjdSbzNkc1Y1OVNSaGt1SlZTb3RPSHk1eVoyZzUyMVFwVWJaLTh3dVRvNW13OEVKT1FXVFU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T07:39:38+08:00"
+      "time": "2026-09-10T08:04:17+08:00"
+    },
+    {
+      "title": "Anthropic researcher says more than 10% chance AI \"could kill all humans\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjVITktVaHcwaVluRVgzYlVzT0ZhWjhWR3pQLV9HMnZVX2ZBVE12MnM3QmQ2c2xCOE1FYU5IVUhSTGtOaElrN2taenIwUjFDRlBoR1FIRjltZmVLMXNvYmdjOVRlUmxNZ2xTcUJ4eDFuSnZZeVdHMXNtSVcta2hBNEJOOGVFcm1NUl93MHljVlZKTkNzLUlGdWp3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T07:46:45+08:00"
+    },
+    {
+      "title": "AI is becoming harder to control – can humans stay in charge?",
+      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T07:17:33+08:00"
     },
     {
       "title": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - KSL.com",
@@ -113,34 +131,34 @@
       "time": "2026-09-10T05:23:45+08:00"
     },
     {
-      "title": "Lindsay Clancy’s sad reality after mistrial as lawyer Kevin Reddington shares her desperate pleas - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcm1OeFUxUVN5VzNVNGRwQ0N0RlBZdzRlTUJGWW13Nnk3Z3B3bmpPWXRQUDNkWExWejQxTkR4akp5R1JYU1M4VkxBbmlJWXBnLU5uT0lvZ3dIOWtnb185ZlBrVW14UGJCUHN6SVNDekpuVnVlV3ZGR2xVLVRpWFZDcmI3MnJpV1MyRUpaTDVDcTdiWXFvX1gxUUk1bFVqNTJ3ZGtTWHBsSkFwUGJacFpnMzhvSlY?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T05:22:30+08:00"
-    },
-    {
-      "title": "Anthropic researcher resigns with warning about the dangers of AI development - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmpkbnFlb1F3eEdNLTVkMjA0cEtGOTAzNGc4cVpoVnFsRGJKZGhuU3l4R1ViVDN2UExGLVVkUUZTRHNUNnltbkxKSmRPNjEtcXB5V0pyQV8xZUlMRHEzT1ZFX18zQmd2M25MX0lkRkV2Qkw3dzRqR3Jza1R6Q0dFSGtKYXEzM0lHd0ZNekZOckRpVzZHU2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T05:22:00+08:00"
-    },
-    {
       "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3cjcxUXVXeXc4QzBpMUpzWE9ZV2xBZzBsT05SM3JCVkhocnVfM1hyYUZrZk9XckgwNGpGcHZGMm1DXzVuaHQ4SVM1YXh1X0dmeEtxQ2psUlYzdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T05:21:13+08:00"
     },
     {
-      "title": "2026 NFL predictions: Experts pick Super Bowl winner, MVP - ESPN",
+      "title": "Oil surges above $100 a barrel as US and Iran launch new attacks, while gasoline prices also jump - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdGg1NEo3VVRGTDl0eEFZVkVVWjVUTGtmVC1haUp5c2kzb1NYcXMzNFlVZk9rQl92VTNFREZuSDlBTEhYQ19Lci1ZV2tCTk1tLVRDMEcydzk4ZEZOY3dEMUhhSlU5eXdOVnBLQWRxUlk1bXl3QjNQWklTYm9jdVZ6NHB6V0FkamhIUFJJYjhsMVk5XzlOWnZfbm1IVTVmR05TYmc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T05:18:00+08:00"
+    },
+    {
+      "title": "2026 NFL predictions: Experts pick Super Bowl winner, MVP - espn.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRGFBbEotdUtFeWh3SXVYUklRdzVfR1pYR0JfMnN6andFUzAzZ2EtWG01cS1IbFdpM0k0TGZPTUYtN2Z0QWVZTXBGbDVjUGVIUVBMQ0ZEbzVnRGc1VW1hWWdZRFk4V3VJNXNSRzFVekhXa0NUcnEwUl9NazRsZk1zalJ2LWxZUlJEb3RSa3FpbXNlU0tsQlRpWVY1Mi1HV3ZTdWN2VkZJWVk4WmhRd0dqV1JFbGZwTi1aWllB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T05:10:00+08:00"
     },
     {
-      "title": "Expert Predictions: Week 1 Picks for Patriots at Seahawks - New England Patriots",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclhkUlN5VWxUR3hjRjBiUl9UQklOdmlIWEkzVWg3WnJpSlhaaDl3aGVSQjZVLWhybEE4MENRb2NzeU51NmFnLVpxS1FfSFVyTlRqeTRfX2ZzemozMkFqQlR6TXBteDhUN2ZDblJtUnd4T053c0Jnd1pFWjc3Wm84dl9yMFZ4RnBBUlk1Y2plMA?oc=5",
+      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T04:40:44+08:00"
+      "time": "2026-09-10T05:08:55+08:00"
+    },
+    {
+      "title": "Trump says he’d consider pardoning Michael Cohen - Politico",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPd1JTMHF3aVEzTXVFbjhGMllOeEsxZnQ0dFlYSU5BSUJnV05aTWRTc21rUTFpNFVyakI2QkZ6SWd2dVpmNmE0V3FXWExLdzdhQmp2MXZINTc4QXFXMXlfNHZkNkNqcExuLWNjbzNwQjhkVWRzaGY0Y1ptV0I5WkZzcF93?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T04:51:00+08:00"
     },
     {
       "title": "Apple event live: iPhone Duo, iPhone 18 Pro & watches announced - Yahoo Finance",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXdCYUt6aXZYdDdLRmR2NG1lWUJSOWpLWVRTTzdnTFJCYS16cE9vMlRiVWdUWFFEdndDYVkwSTY3Rmh6R05BTG9aNmhIM2hrOXltZFZtQktEbmFmeF9vMllMVGpOcVFoU3hNc3VjbWcyTXJLNlN1am9yTGFkdDdNSThWSEhQeGFaeS1EY3ZFeW4zMWswOFNFa2xHaHp3NS1TU25kNmp2aWI2N0d3dGoyRWVqNA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T04:30:00+08:00"
-    },
-    {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T04:28:04+08:00"
-    },
-    {
-      "title": "Brock Bowers injury: Raiders TE expected to miss time after having meniscus trim, per report - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3ZQRWVOczZ4QlNVbkxpd2RVck1TTXVXcGgybUx2MmZwdndxM1BQNEhtX2V5QzB3WG9nUlVldmFCcUFENDUwMVdTY1NEWGdVbzVZTjZHZmFtc0kwdnpzU1dKTVc1YlZjRUZGeWF0dERYTXlUUDJPTnlkY28wOG4zSV9Gc0IxdWUwVTJPeGpkemZKQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T04:24:00+08:00"
-    },
-    {
-      "title": "Iran referred to UN Security Council for nuclear non-compliance",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T04:22:51+08:00"
     }
   ]
 }
