@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T19:20:10.223804+08:00",
+  "generatedAt": "2026-09-10T19:51:05.240749+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610924.16,
-      "changePct": -1.15
+      "priceHkd": 610775.2,
+      "changePct": -1.54
     },
     "ETH": {
-      "priceHkd": 19321.68,
-      "changePct": -0.84
+      "priceHkd": 19314.94,
+      "changePct": -1.32
     },
     "SOL": {
-      "priceHkd": 793.33,
-      "changePct": -2.08
+      "priceHkd": 793.09,
+      "changePct": -2.76
     }
   },
   "stocks": {
@@ -33,42 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1105.11,
-      "priceUsdOz": 4384.3
+      "priceHkdPerGram": 1104.74,
+      "priceUsdOz": 4382.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.58,
-      "priceUsdOz": 65.77
+      "priceHkdPerGram": 16.61,
+      "priceUsdOz": 65.88
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 764.95,
-      "changePct": 1.58
+      "priceHkd": 762.05,
+      "changePct": 1.2
     },
     "Natural Gas": {
-      "priceHkd": 21.91,
-      "changePct": -0.96
+      "priceHkd": 21.9,
+      "changePct": -0.99
     }
   },
   "news": [
     {
-      "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmpkOGJ4Y203VmctbUV1d0xuV2FweC0xVjJRRDRJNTFVMkpLdkVWVThGNmxieFlTZEFtdjY0MTlYZm1MVF9HYXFFMmJ4dnlhV0wwQXZISlpaUFRlaVdzQnJQdFFsRFphOUFyQWhjRzhQRVQwUjBDcEY4NlhySFNXelhnSVNRblpnRjlB?oc=5",
+      "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T19:49:25+08:00"
+    },
+    {
+      "title": "Scientists are investigating whether popular supplements could harm the aging brain - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T19:04:00+08:00"
+      "time": "2026-09-10T19:31:58+08:00"
     },
     {
       "title": "England's mayors to be given power to introduce tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T19:02:47+08:00"
-    },
-    {
-      "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T18:59:22+08:00"
     },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
@@ -83,10 +83,16 @@
       "time": "2026-09-10T18:43:53+08:00"
     },
     {
-      "title": "Scientists are investigating whether popular supplements could harm the aging brain - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
+      "title": "For years they warned AI could kill all humans. Now people are listening. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T18:19:48+08:00"
+      "time": "2026-09-10T18:32:15+08:00"
+    },
+    {
+      "title": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWdzb1JYOGV3bkxIQ0FoWUpXcHFiTWVmMEQxaW9IeDUya2E0UVVvS1J6V3NESXZhYnpOVlNRNTRCN0ZtcEZDS1dJb3VFOGlJTkFwOFJyLVFpN1pxSEdNbWV6WENVMVYtRVBsaGFJcjlwWWFqaXBtT01CdG5GeUNIY2ZIR00weWE2QldKY1dQYU00UEplMzVyc1lGbEJyUGNRcFAyek9QRDdIMjVtbmtPS1FMMXo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T18:31:22+08:00"
     },
     {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
@@ -99,6 +105,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T18:02:26+08:00"
+    },
+    {
+      "title": "'Significant casualties' after fire erupts on cargo ship in Qingdao, eastern China - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T17:45:08+08:00"
     },
     {
       "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
@@ -119,10 +131,16 @@
       "time": "2026-09-10T17:22:47+08:00"
     },
     {
-      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWF4cjlXdFJ3aFNocTdZNS13NEIyNGlCX0l0dGVuRHU3dUFjcVhqNGVYT0stNTRVaEFwcFFLNU81cnJ1dlpZc1ZFdjRvYXdjdVk2Um51dE9HVW5SZEUtb0RjMkx3cGpFUG5tVGZfRS1wSGpXZ1FEOHNMdFJoMEJUY2o1UTZwb2c2NFJDU0w1bjBPcXVhMjBobEJOYkNnNEFyb200a3VHcGMteXIzQVBHNdIBtgFBVV95cUxPMmJXUWdfSV96aVBWY1UycDBBcHh2VVFaMnhiMHNPTUFraEY4MHlPYTZnWUZOUjcya3ljOFUxMjNVNmNLZVppYVBlUVR1Y3ZrRzR5eFh3Qi16YnNfX0lXQkUyNG04R0hkMDJoZUh0ZlN6N0V5UVBHVlNxb0RXVklNbzNjOHhvbjdueWRWdEtQeUdRTjNQWnJJb3RnVlhFY2RxWmEyUTZkcFZGMllsaGdVUmJXMkQyZw?oc=5",
+      "title": "Memorial on Anniversary of Charlie Kirk’s Killing Splits a Utah Campus - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmhqb29aWk9xNFBORXF0LUVrblBHejFpUlYweEpOOUpPV2o3amVraW81WVdLSWo1N3g0LXNZS2g1cEFzNmNQN2MweXZtYWRhSmRJdkRhd1VFeEJiNkN3enZTRDhLRkdOQ3VPVGV1N2FDY19ERjc4UGhCcW5ISmY2cVcwMG1meEE2?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T17:10:21+08:00"
+      "time": "2026-09-10T17:04:26+08:00"
+    },
+    {
+      "title": "Scientists say August was Earth's hottest month they've measured - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tMXdTb0lIYnQzQUZicEYtQ0hyNDI4WXAxb3l4Nkp4OGh4NVZtUnlKU1J0RmRMa3M2Q3JtQXdEM3lOXzJ5RmNWcWUtY2JoSlFFcXBLUWRPUVRYOVM3Nm84UEFUYlVRbThUazUwbDl2dUZvLVFXNWwwMFB3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T16:54:00+08:00"
     },
     {
       "title": "The Democrats who aren’t criticizing John Fetterman - Politico",
@@ -153,24 +171,6 @@
       "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T15:12:32+08:00"
-    },
-    {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T14:30:19+08:00"
-    },
-    {
-      "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BekpHSXNzcHlnV0dhZzBmNDMtM2J1NFQxZXVQUGh3T1Y4RmlFR2VFSExuWWVQbjVySncwYnlJZExtRW1kX1VsZHBuaEQtckhxcGZ4dGdiQVRMUW5OdFM0c1R4YjZrd2tyNFVBS0RmOXpmdHo3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:45:00+08:00"
-    },
-    {
-      "title": "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5OUVNzU0prMDh0b1hlUVBlOVdqQkRRZkliaUhEMUpWZ05NVXdFNVlHZzRBV1dIRGMybWE3OUljdnpYOUJTRTlfYW5PV2s1WkpEMWFJQVdDVXFtanRxSl9ScUV0YWFUVGxiSnZPOEt5VXZUWVg1VmlxNGc3Z3doNEw2a1lwNEpjR0stVWEydzJYN3JmUS1zaTdUNng2QXNEanplZ2tjaVVoaldkRENBV0MxOWtFYXJMMTJEOTd2X0lpRGdx?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:28:00+08:00"
     }
   ]
 }
