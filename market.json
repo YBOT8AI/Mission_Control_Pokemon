@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-09-11T03:37:27.910297+08:00",
+  "generatedAt": "2026-09-11T04:08:28.790070+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604738.4,
-      "changePct": -1.72
+      "priceHkd": 604832.48,
+      "changePct": -1.37
     },
     "ETH": {
-      "priceHkd": 19308.67,
-      "changePct": -0.63
+      "priceHkd": 19303.02,
+      "changePct": -0.17
     },
     "SOL": {
-      "priceHkd": 781.96,
-      "changePct": -3.17
+      "priceHkd": 781.57,
+      "changePct": -2.59
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5460.72,
-      "changePct": -0.62
+      "priceHkd": 5462.21,
+      "changePct": -0.59
     },
     "SPX": {
-      "priceHkd": 59510.7,
-      "changePct": -0.6
+      "priceHkd": 59518.93,
+      "changePct": -0.58
     },
     "SPCX": {
-      "priceHkd": 1159.61,
-      "changePct": 0.24
+      "priceHkd": 1161.73,
+      "changePct": 0.43
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1091.2,
-      "priceUsdOz": 4329.1
+      "priceHkdPerGram": 1089.66,
+      "priceUsdOz": 4323.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.08,
-      "priceUsdOz": 63.81
+      "priceHkdPerGram": 16.06,
+      "priceUsdOz": 63.73
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 803.99,
-      "changePct": 6.77
+      "priceHkd": 805.09,
+      "changePct": 6.91
     },
     "Natural Gas": {
-      "priceHkd": 22.24,
-      "changePct": 0.53
+      "priceHkd": 22.21,
+      "changePct": 0.39
     }
   },
   "news": [
+    {
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T03:45:00+08:00"
+    },
     {
       "title": "More than 20 children killed in DR Congo school fire",
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
@@ -59,10 +65,16 @@
       "time": "2026-09-11T03:16:24+08:00"
     },
     {
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
+      "title": "Trump to give $500 refunds to nearly 1 million Obamacare customers - politico.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUQ5eXlzQWc5M3ZjVFZUYkpLc1VuampyZGthMXhteTVhUS10ckVfR1dQSHdLTkFJa0szTUtfbkhBOFhxT2FvVG5rU08xX1RneEZHVTRJNk40SWM5X3FMWFpFTVZCTFFGSTNud1JyaXhfeGlMcWFIV0FzU1BjY1VnbVF6YkUweGZ1X19ZUV9nbl8?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T03:10:00+08:00"
+      "time": "2026-09-11T03:09:00+08:00"
+    },
+    {
+      "title": "Mercury may be shrinking faster than scientists expected - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmZRTXEtS0NXT3JsRi1yaTFqbm9sZnRrZmZvdzhQSWQxUEV5UndfVjZjNi1SQUN4YU53ZHJ3aTN6TEFkQ29LeXJaTGxBOHlDQ0FsSG9TeUpEZVBCT2R1Y0Nyb3FLelB6c2IzNGpSMjJnY1FBalNnZ015TWlSUDljRVNuZ19IM3BXT3c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:59:47+08:00"
     },
     {
       "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
@@ -71,7 +83,13 @@
       "time": "2026-09-11T02:54:34+08:00"
     },
     {
-      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - theguardian.com",
+      "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:39:00+08:00"
+    },
+    {
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T02:28:00+08:00"
@@ -83,10 +101,16 @@
       "time": "2026-09-11T02:19:21+08:00"
     },
     {
-      "title": "Elon Musk attacks film-maker behind documentary about him - theguardian.com",
+      "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T02:19:00+08:00"
+    },
+    {
+      "title": "Jimmy Kimmel says he dropped Talarico interview from broadcast after FCC pressure - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRktyTy1qblBrX0RMckpielh6MmxiM3VvczEwRVZ3aVpaUmZDY0NRclVYZ0tERlVKZFllTGNQaGFGcnVBZjNULVZFYlBCQU83RnhUSzc0RUdzM0tuRl82UnY2TU9zSGlvdXNvWFdIbFJLUG1CX1VIYWFyWjdEeDRRQjN3dEpTUldiZ3FsaGJWd3Q4ZFEzanVSa1B6dWFEZTM4M3BGaVo2LV9MSS1Iam8tVU5iZV9KR2daQ0FRSGl1NWdfU0t2T0ww?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:18:36+08:00"
     },
     {
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
@@ -101,10 +125,22 @@
       "time": "2026-09-11T02:15:29+08:00"
     },
     {
-      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived - npr.org",
+      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived - NPR",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFHeGI5VFpEWVRVY0dZNllkXzhIU2ROY0ViWVpPS2NkME9QaHFrUzl1bm1Hb2ptZEI1d0Qzb0h1eVNKZDV3eC1WSzExUDBJYTA3REhabkJfZmhPU1NxeWdJenZ4UW15ZkxreG1zbWZPOS1LZWlFbFVkQUlyOURpN0JvMDRaUzNtUDNiN0ozVnBhZ1NteVhBb29HVXhtRElU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T02:07:57+08:00"
+    },
+    {
+      "title": "San Francisco Mayor Declares Rent Emergency Amid A.I. Housing Frenzy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd1JsSDlFR05EVGJ4WXlzT1V1SFNaQ2t0ZllubWZsUzJDaXMzZW8tLVRqZXM4dDhPX1pSUWNEcm5Bbl9leGg3a05HdG5tQUZsQXdmcmIzQS0tN0pWNW9XRGVjb1hIVXRVMVNRdGp5VEw0dFJUWWo2SlpROVFwaWFiemNVT2dVMHhjRnl6dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:00:27+08:00"
+    },
+    {
+      "title": "European Central Bank Raises Rates in Bid to Quell Inflation - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlxa0FOS0lsVkNiRERaRE1FRjF2M092VmxtRG9GMGo5VG1paktWRFJ5Q1hRVkNfX0kwXzNnemV1NEJ4UHZmcFNSelRmdjRnbkQ5YmJtLW5LTTE2b1NFQmczbE1RdXV3VkRKUDJlRjFzeFhVTXplVjhfMC10SWVCWV9oZnRhQUtadm9naE1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:55:44+08:00"
     },
     {
       "title": "Bayeux Tapestry Exhibition Opens at British Museum - The New York Times",
@@ -135,42 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFZrTTV1b3BwWmJHdkIzcXFtcEhwREhhVTRuZ2g4TVljUnk5Y0kzU3RYRzhKQ2d5c2FtNmlRcGJoQWF1UUpsMm1rX2MwRWRfaElGSFJZMC05SmFCZzZYQjB4QmQycVRjXy1ZVUJRcDZwWGNKa1hORTMxMnpSdTU0V3FJMmhXMXZv?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:19:40+08:00"
-    },
-    {
-      "title": "‘NAZA’ Gets 25 Minute Venice Ovation Setting New Record - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemQ1OC1hUmhzOUhEZ1d6Z1VfbzllRzNyWWFRXy1yUDVlSk9hdERVaV9FOTlnTC1iOWRDMDhMdjZ4cldLOFVsNzBKcVZ3b0lGM0tjRTF4QlJmM3JOQlRpbXZvN0pnXzdMQklIUW44ZXh0UUh5UDc5SEFzbXkxZHQ1bjFESjdwZDlZZXQ5RXlhd3N5Q09iNlFF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:16:00+08:00"
-    },
-    {
-      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
-      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T01:13:53+08:00"
-    },
-    {
-      "title": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFo5SEY5aEFkOUE1cm5HcGw2Z3NVN0w4NGNfT21HSnhyaDdvdWk0cDRKejN0ZjdpMXdaalJEYjEyZ2VfT2tzWjhyc0Y5WmtsOUxXNEVIMzZKSUhPWno4SHlKM3gwa25vcXVKUjZHVFN6ODdnMEYydlBpSEpDVXM2TG14TWlCamk4Sk5TOEVheHNPcS1QVTJLZlhlOXNDcTdlVG5CR1p0VnpkamtxeERjRGp5a9IBuAFBVV95cUxNRHVJS3I4Vy1lX0RpWjNHdzNNVzFIRkZqWGRfZWc1d29xSGpYQl9ZelQ3LUYwU3BQQmQzeUVvWFYtQUkwd202Q3MwZHQxZm5veTNNVnYyUW5PbFpDSVJLUVNNX253MFgteVYzcEtrZkxRWEVtclhVV0U1WGtpZ2pEUl9yQ2ZwbnVXWjFDdmZIeE9mVzI5dzFKVTl5NjRGY3Y1VFl2TmhCSXdweFFJUGJweWxPS1pXQ3Ba?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:00:27+08:00"
-    },
-    {
-      "title": "Labour mayors in England vow to cap tourist tax at 5%",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T00:59:38+08:00"
-    },
-    {
-      "title": "Can Trump really pay $5,000 to every American adult?",
-      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T00:48:37+08:00"
-    },
-    {
-      "title": "Dudamel Lands in New York, With Big Ambitions and a Packed Schedule - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0dteWZlM1M3by1zTUFBcFVlZEVvTVZ5clJjVXNlZElFbzFBUUZvZlkxaVFZZ293VzM5N2F4RGY5NHdYYnNaYVlRdzhIVHVRTENOdTNfSlhKTFlCRWdrRGxCQ2VuR2YxdUwwNC1MdjdLcDI1c2tScTdXNjk0cWt3UFRDWTNHN1EtUkdsMUVwTmJmMHVBTHJwbEpaVHhpOTd6YlEwSg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:33:15+08:00"
     }
   ]
 }
