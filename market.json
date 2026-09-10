@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-11T02:04:05.869039+08:00",
+  "generatedAt": "2026-09-11T02:35:10.936240+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606110.4,
-      "changePct": -1.84
+      "priceHkd": 604056.32,
+      "changePct": -2.0
     },
     "ETH": {
-      "priceHkd": 19321.37,
-      "changePct": -1.17
+      "priceHkd": 19268.45,
+      "changePct": -1.34
     },
     "SOL": {
-      "priceHkd": 783.53,
-      "changePct": -3.5
+      "priceHkd": 778.59,
+      "changePct": -4.22
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5462.09,
-      "changePct": -0.6
+      "priceHkd": 5459.85,
+      "changePct": -0.64
     },
     "SPX": {
-      "priceHkd": 59522.54,
-      "changePct": -0.58
+      "priceHkd": 59497.45,
+      "changePct": -0.62
     },
     "SPCX": {
-      "priceHkd": 1175.84,
-      "changePct": 1.65
+      "priceHkd": 1166.75,
+      "changePct": 0.86
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1097.35,
-      "priceUsdOz": 4353.5
+      "priceHkdPerGram": 1092.46,
+      "priceUsdOz": 4334.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.2,
-      "priceUsdOz": 64.29
+      "priceHkdPerGram": 16.11,
+      "priceUsdOz": 63.91
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 798.82,
-      "changePct": 6.08
+      "priceHkd": 805.4,
+      "changePct": 6.95
     },
     "Natural Gas": {
-      "priceHkd": 22.11,
-      "changePct": -0.07
+      "priceHkd": 22.22,
+      "changePct": 0.43
     }
   },
   "news": [
+    {
+      "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:19:00+08:00"
+    },
+    {
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T02:15:47+08:00"
+    },
+    {
+      "title": "European Central Bank Raises Rates in Bid to Quell Inflation - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlxa0FOS0lsVkNiRERaRE1FRjF2M092VmxtRG9GMGo5VG1paktWRFJ5Q1hRVkNfX0kwXzNnemV1NEJ4UHZmcFNSelRmdjRnbkQ5YmJtLW5LTTE2b1NFQmczbE1RdXV3VkRKUDJlRjFzeFhVTXplVjhfMC10SWVCWV9oZnRhQUtadm9naE1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:55:44+08:00"
+    },
     {
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
@@ -65,16 +83,22 @@
       "time": "2026-09-11T01:30:00+08:00"
     },
     {
-      "title": "Hands-On With Apple's First Foldable Phone: The iPhone Duo Redefines the Formula - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0ZKeDFoZG9ZR3E2WG94UEQ3dkF2U2oybFN5RHdmM1V3MFVTcXFqamRrcjFQcHNINVpwa0d6a1FTTUF4amdvbkZJamdNTFdyR1IwS01nbXNXbFBzcGQ2RER2NkFLZXYzeFFtaFJqSjZHcHhoTTFpUzgxZXRySTlzUjJQS3NQMmRiN0RmX2RDWDdMU25ab0pCTGRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:26:15+08:00"
-    },
-    {
       "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats - NBC News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQi1UUU1CWExIX1B0cnJxS0VpZk40RExrNG9aOVYyckVITE8wWmlQS19yb29XX1FtYW5WUV9JZUxsYkNnNEZZMFlUY2ZxTFYzc212bTRDd21MZGt3Rm13cWlHbERPMU9oMUJqNG1fXzBrNHlLQU10Q1QzT196WjhKMzI1bVJkTXp0bXFGRW1qNjR4QngyWkl2V3pjTDNGZkNEU1pENk5JUUtndGdqcWZuRy1LRHNYeF92dDBSMFZNOVRLR0JaVG9WNmE3NzhWSFJI?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:24:06+08:00"
+    },
+    {
+      "title": "US lawmakers call for new AI rules after Anthropic researchers' safety warnings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWp5NmlTNEIxeThhRTdwR0VjTy1RYkFpUjh4LS05Y3l1UVhHa0tUOWhGM0s4emNhc20wR213OEZYY0JNTlhFY1lqRDRPMHlWdFF0Nm01UWt4YUpkR2ZvYnRVVXRNS19BSkt0dVdGc0hpZDFMWDQwLVU4elp1WGdlano1VFdQOTEyazN2UzJ1STBhcFBUd1JjQS1mSzdJdmhSYjVVOTI1TVdDb1ZnVXJwbQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:23:24+08:00"
+    },
+    {
+      "title": "Appeals court rejects Trump request to lift block on Postal Service rule for mail ballots - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFZrTTV1b3BwWmJHdkIzcXFtcEhwREhhVTRuZ2g4TVljUnk5Y0kzU3RYRzhKQ2d5c2FtNmlRcGJoQWF1UUpsMm1rX2MwRWRfaElGSFJZMC05SmFCZzZYQjB4QmQycVRjXy1ZVUJRcDZwWGNKa1hORTMxMnpSdTU0V3FJMmhXMXZv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:19:40+08:00"
     },
     {
       "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
@@ -83,22 +107,22 @@
       "time": "2026-09-11T01:13:53+08:00"
     },
     {
-      "title": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera",
+      "title": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFo5SEY5aEFkOUE1cm5HcGw2Z3NVN0w4NGNfT21HSnhyaDdvdWk0cDRKejN0ZjdpMXdaalJEYjEyZ2VfT2tzWjhyc0Y5WmtsOUxXNEVIMzZKSUhPWno4SHlKM3gwa25vcXVKUjZHVFN6ODdnMEYydlBpSEpDVXM2TG14TWlCamk4Sk5TOEVheHNPcS1QVTJLZlhlOXNDcTdlVG5CR1p0VnpkamtxeERjRGp5a9IBuAFBVV95cUxNRHVJS3I4Vy1lX0RpWjNHdzNNVzFIRkZqWGRfZWc1d29xSGpYQl9ZelQ3LUYwU3BQQmQzeUVvWFYtQUkwd202Q3MwZHQxZm5veTNNVnYyUW5PbFpDSVJLUVNNX253MFgteVYzcEtrZkxRWEVtclhVV0U1WGtpZ2pEUl9yQ2ZwbnVXWjFDdmZIeE9mVzI5dzFKVTl5NjRGY3Y1VFl2TmhCSXdweFFJUGJweWxPS1pXQ3Ba?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:00:27+08:00"
+    },
+    {
+      "title": "Bad actors in China and Russia are already weaponizing Anthropic’s AI - Politico",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUkdfM2pwajF6R21sU0drR3BwYWZzdnhIZzFCcHE5M01EQnpBTElaQk9XSlV3UUViMzhNeDFvcDZMMGNxV0pKbXBZTlhNVVJGOHRPZUZrY3VwNUNpN182d2tFdzdkeDV3ZktkOWhwejRJZ1ptdHdJM0J3OWEtbnhHbnZPeXFmTXRsbDRyRG9hM2ZWMnlzb0gtdjFzbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:00:00+08:00"
     },
     {
       "title": "Labour mayors in England vow to cap tourist tax at 5%",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-11T00:59:38+08:00"
-    },
-    {
-      "title": "Sources: Seahawks' Sam Darnold expected to miss Week 2 - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFdKZTZtVGpfaHI0OHlNRDJKenJnenFGS01SUzFYM2pvRWZhV2JQRWJObTZYbXhaYTZUSmwzTGE4cUJMRlJOd3VJY1B1NTFJZkJDV1ZTMzNYRTBBRG54OFpkaXhuaFVxblBDb3ZwSGphYXhHZjVjOTNSWmJIOGlFYzlLbWxlSjFsTlNlMHJHZ0JjUEFiLWV2VGFB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:58:00+08:00"
     },
     {
       "title": "Can Trump really pay $5,000 to every American adult?",
@@ -137,24 +161,6 @@
       "time": "2026-09-11T00:17:00+08:00"
     },
     {
-      "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:16:00+08:00"
-    },
-    {
-      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:13:02+08:00"
-    },
-    {
-      "title": "Android rolling out passkey transfers between password managers - 9to5Google",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTUFOSUJWLTA4UW9WeDJ2RzJYQnpjRE1hTDlKck9xRDJ2N19od0hlY3hxYUpZdWM5V1ZYYzFrMG5wV1AzSEpYVHY5aHJhUEJiMHRIZVhzZWFhZnhnM0Y3LUsxcGRsNk9Xb0poWjhyVXU5WUxINnhJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:00:00+08:00"
-    },
-    {
       "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
       "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVJ1OEZFdEFOTHBnRnRpT3VZOWhSMFRFSTlMTDhRYld1ZWY2eFdxSmFhQkZFMWE4QWMyRE01aVNDQzlkcUZuTm5NZVNxNEZZNWRGZlk5bklWUGY1Q3c4aHVxRjFzdUVJeF9IbDB5bTNvQlZoODRnRW84Qm5QMXhTVl9WRGYtdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T23:52:09+08:00"
-    },
-    {
-      "title": "NFL in Melbourne: How to watch the San Francisco 49ers vs. Los Angeles Rams game in Australia tonight: Schedule, streaming info and more - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdE53R3AwTDJsTUU1SGxQbUdCbDZzTzJ4NWRXQl9xc3Z3X1FYUmY0MUxQMjFWaHQ2b2tVUHVJQ2gydF9RQ3JvOHFHay03eVJLM25WRC11NTJvQjBsY08xTEx3cXRaenZhZ2hJczBua3dYZzFOT0lYQ3VxS1JuNmFLeGhUQXZVRVljNmhCR203VlBaZDNYZ2xJcnZUVVE3cWNNakRvTHVFQ0ZUNDNLSkV6dkYwRW9iZlFCOWlhM3Q3WjJhR3cxbUtIUmpqX0JnbTl4a041X0J3YVV1aXEtZ0VaTDJuZjZHT0djakRXZXBjUjNiYVI1Z01Uc3NPTF90V29KQThzRm5TUXROVnE3bUlxb3d3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T23:45:00+08:00"
     }
   ]
 }
