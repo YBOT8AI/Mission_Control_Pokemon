@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-09-10T23:59:43.445333+08:00",
+  "generatedAt": "2026-09-11T00:30:51.329776+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604973.6,
-      "changePct": -1.83
+      "priceHkd": 603037.12,
+      "changePct": -2.09
     },
     "ETH": {
-      "priceHkd": 19114.47,
-      "changePct": -2.11
+      "priceHkd": 19118.39,
+      "changePct": -2.02
     },
     "SOL": {
-      "priceHkd": 780.24,
-      "changePct": -3.48
+      "priceHkd": 777.1,
+      "changePct": -3.74
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5467.37,
-      "changePct": -0.5
+      "priceHkd": 5463.94,
+      "changePct": -0.56
     },
     "SPX": {
-      "priceHkd": 59580.08,
-      "changePct": -0.48
+      "priceHkd": 59546.29,
+      "changePct": -0.54
     },
     "SPCX": {
-      "priceHkd": 1190.78,
+      "priceHkd": 1190.86,
       "changePct": 2.94
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1101.03,
-      "priceUsdOz": 4368.1
+      "priceHkdPerGram": 1099.97,
+      "priceUsdOz": 4363.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.26,
-      "priceUsdOz": 64.5
+      "priceHkdPerGram": 16.23,
+      "priceUsdOz": 64.38
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 793.56,
-      "changePct": 5.38
+      "priceHkd": 798.5,
+      "changePct": 6.04
     },
     "Natural Gas": {
-      "priceHkd": 21.85,
-      "changePct": -1.24
+      "priceHkd": 22.01,
+      "changePct": -0.5
     }
   },
   "news": [
+    {
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T00:06:50+08:00"
+    },
+    {
+      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T00:01:58+08:00"
+    },
     {
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
@@ -65,16 +77,16 @@
       "time": "2026-09-10T23:40:46+08:00"
     },
     {
-      "title": "Gold price down but weathering ECB's 25 basis point rate hike - KITCO",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFqYVkwZS1VMzVvWGlmcVpkUUpHNFFHdUd4OXd5WHZtZHFCMVQydzh2amFZeTRobkNyRFRVQU1lYWpHampKUTR5aWdrMXQzS3hsWWFjdXlEMHdxdmhXVGluYUE4dlVhUDVXT3Bpdm9LUHdseVIwWmNrOGZHYlRJdko0Z1lqMjRCV3VycEtmc1pJQ0dIdGdPV2FmanBqeG9jS3dVbg?oc=5",
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T23:33:45+08:00"
+      "time": "2026-09-10T23:12:00+08:00"
     },
     {
-      "title": "Stock Market Today: Indexes Slip After PPI Inflation Reading Comes in Slightly Hot; Oil Prices, Treasury Yields Surge Further - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0J2Wmprdy1lcEdXZXMzTmtBZ0tpTVhOQjRFM0NRWTJXSl9JUDR3RHdFR2hSMEZ0VnhncmRaOHBjNVZyamhOX3E4eUNpY0hEeE5kcWZNMkxQaV81ZV91aFdYUFVGb0dNMlptLXQ4QXJrZFJKRkt6SFZ4WlBCZ2RySGUtQzdhbUE4RHpUdEZqamQ?oc=5",
+      "title": "Philadelphia Inquirer editorial tears into Fetterman: ‘Still an embarrassment’ - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONW8weE1Yal9DamdFODVWZDdDdDZlYW1qSGdmQ1kyRXBWNTBscXozUEtIWTFiQnlTU3puRzFGTWJBLWRHTVlEV18yU2swUklYRGFkaFJLdnNsUG94QV96dFpvR0ljUFFuZ3hUMTNWR3hob3FJRHRLSlRYWUdGTFNqR0kzQ1N3Slg3a2VqczV30gGTAUFVX3lxTFA1eVhBQ3N5dXdwWkRUVVpJbmFMNC1HcEE1ZHRXQWxsRjJRWW5UeTQ4WUNtLVRwdHV2Q3lQTzZaLW5wdFl5RktFejl3b1BwZWVyaGRwZ1hOX25qdGlIejdMRHdoS2JVTFpJWnFoNmp6bWU3VjhUS3M2Wmkxb3FRNndhdlZGRnZkdDhrYmJxLWVVckotRQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T23:23:39+08:00"
+      "time": "2026-09-10T22:58:00+08:00"
     },
     {
       "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
@@ -83,46 +95,46 @@
       "time": "2026-09-10T22:56:00+08:00"
     },
     {
+      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:55:11+08:00"
+    },
+    {
       "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T22:46:09+08:00"
     },
     {
-      "title": "Trump’s promise of $5,000 ‘dividend’ for US citizens after midterms met with incredulity - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2FmbWZoVkcxQzJSTnNLVGJrWkoxNUxSZmI3SHJOQmUzTjZfaVNXSlBsWUNrWktOLWFlaE1DRTBEQWF2NGs1eWF2S2RITWNGakxzOWdlT1k2TTZCRHdRa3RWWXdhT1l0elU5VVU4anpTX0JhX0JmQ3pFRmptaHYyc09URVhqZnFnX0hsTGJURkx3YmM?oc=5",
+      "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQi1UUU1CWExIX1B0cnJxS0VpZk40RExrNG9aOVYyckVITE8wWmlQS19yb29XX1FtYW5WUV9JZUxsYkNnNEZZMFlUY2ZxTFYzc212bTRDd21MZGt3Rm13cWlHbERPMU9oMUJqNG1fXzBrNHlLQU10Q1QzT196WjhKMzI1bVJkTXp0bXFGRW1qNjR4QngyWkl2V3pjTDNGZkNEU1pENk5JUUtndGdqcWZuRy1LRHNYeF92dDBSMFZNOVRLR0JaVG9WNmE3NzhWSFJI?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T22:35:00+08:00"
+      "time": "2026-09-10T22:38:33+08:00"
     },
     {
-      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T22:32:14+08:00"
-    },
-    {
-      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T22:31:58+08:00"
-    },
-    {
-      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T22:28:58+08:00"
-    },
-    {
-      "title": "Generations of Americans remember exactly where they were on 9/11 - USA Today",
+      "title": "Generations of Americans remember exactly where they were on 9/11 - usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbl9VVHhBUElYUTJHU3dfcnZZUGFqdDBMWDA0MmROUnZUUHlDSUUtTGV2Y3ZDTnN3WUdIVHE3VllXX29qUzhqUnB0ZllDNFk3bVhOaDZGbzNLUzFiTlZPYmV5VktLcGUyd3Vka1NKdW94TnhsMGRlcmpaNERvZUJLVm5xOTFjLVlNb1VPWjJzMWFUMGxob2VsSk9NdFRxdFc2dFpwWkphT2lUeHhO?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T22:26:00+08:00"
     },
     {
-      "title": "Pennsylvania coroner shares details on 2 infant measles-related deaths - USA Today",
+      "title": "Pennsylvania coroner shares details on 2 infant measles-related deaths - usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWtfMk5yOUVfOXMxMjdOMlNtU2ZlaTNtc19WQWNlX3VCTUJ2aGhOQUEyMUJkMk0taEt5SjIyU3MtblBicG9lRDRVVDZfTFhKbzFKeTJvYUp4Y0lHOTRFbkFsWU1UZEFtTUFQR3V1dGU0WlZncU9sRl9qTE81dGxHNU1hZ2VvcmNQYWlmc3hZSFE3NFhKN3hQU01IYnBndDByNVNJZ2tyYXQzbHpwdFdmV3lSbU5MWlhE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T22:19:00+08:00"
+    },
+    {
+      "title": "Edgy bond investors unconsoled by Bessent's big buyback - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2N3dTlTV3YtRHd0WmhTRE4tTDh6TzBNZW1MWHdaUHhPUzRnakxadDdCWUgwRjM1X3o0S3lmVFR4dV9JSl9uR2hEbzFFWG9rcGx4WDdwMFlNSU8wR25QWjBEUUpBd3F0Z2VlemZ0ODVQbWZxVktsYjRUd3QyOE82M1VDN0tTRU92OGdySlFUalVST1hldjVSNVMwMjJrVlJTd2RlZ1NVb1BkT1psQnow?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:16:19+08:00"
+    },
+    {
+      "title": "Global oil hits $105 per barrel and bond yields surge - CNN",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13bVBUQ2thZHVRZ0Zmb1VSWDFFOTVPZGNuamgxbENXSmRiaDVOZzFNdENXUVk1YVpfUHA2UFZ3XzlOeDQyMmpJd3JNY1ROdHd5c2lRYlZobmg1bi1UdlpoRF9hS3lWUEd5dUdlSg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:08:24+08:00"
     },
     {
       "title": "Primark introduces home delivery",
@@ -131,28 +143,10 @@
       "time": "2026-09-10T22:07:54+08:00"
     },
     {
-      "title": "iPhone Duo Has Similar Main Camera to iPhone 17e - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVERqTncxY3czZ2dfaDhWbkNBQ0pnZHJXUXFNWXFMTEVpOGxzNUFWUnRzUU9POHdidzQ0OVJmejRxYkpyYVQwSkdzZ1JhM0dYRkJIelRyZXdhWTk4eVNNTDlaWVNBSXVxOGpudHktRVkzSV9YbkowYUNzSlF0emowcG9DeUhaU3pOS2ktZlplQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:59:04+08:00"
-    },
-    {
-      "title": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQUJzUWo3cnE1aHZ6V1o2Y1ZKVDhKUEM5ZGJzZzFPVkgyb0poeTlTbXhKRjI5QndFd1R4NGFrUVhTOEdTcnRpWnhLaHF6WW9pQURoZDNBZzVnaUVCSHFPOVVEcjJhdDBpY1Y5Z1gtc25BY2dTT1p3ZDNqM3BnajBPR1ZZZ044NkVmaEluUENmbDdiNms3amwxOXg4d0ZWWGRRcFJhSE9nSjRBRTJn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:54:00+08:00"
-    },
-    {
       "title": "Air traffic chaos and compensation: 'Shutdown cost us more than £1,000'",
       "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T21:34:17+08:00"
-    },
-    {
-      "title": "The ‘Waters of the United States’ Are About to Legally Dry Up - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjc1SVZjVDNsR3R3eHB6M0Ricy13YjNPSW93Q2RWNUVkS0RQdXRYWnN5NjlNU0ZVeTdvQW1URGFhdmtfRWp6Y3pUdC1HVmNhSlRvLWVBMVRtRGQ4NXQ4dlRnMGVfcTF2ODh6S0d0WFZyZHBHNGV3c28xa1FZTlVqNHRWb1hDY1FHUXRTUUVhSWVSdmhqa2NWTWFwSXhWQ3dGbUloUm9mUkc4QWVNZzd6YWo4bDU1T1U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:25:00+08:00"
     },
     {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
@@ -161,16 +155,22 @@
       "time": "2026-09-10T21:23:37+08:00"
     },
     {
+      "title": "Trump says every adult American will get $5,000 if Republicans win midterms - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16LW5ZZHNBWW40b3BGeGRQLXdaX2xmeWhWdTE5VTFTZ1VLS2M1aDZMdTB4WlQ0NHAwMzhza29uVzV2RzJxb3czMjdMTXFVd0dLYldtRjBfTFVYdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T21:23:37+08:00"
+    },
+    {
+      "title": "Dodgers To Place Shohei Ohtani On 15-Day IL - mlbtraderumors.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlBydEM4UlhnQ04wWkJrdC1ScHUxR3ZTd19mRy1DTVJPaVlKdHlDVFgzZlVieDdkd3hSRWc0cmJiekpkaVNnV2FnSnJ3UkJ3T0tZakxDX1h1aXBTZ0FuMS0ycDBYODhCQ1lqU3V6cEwtQmZhbUJjMVRDMXFpUkRxcU1oLTRzM3NqUzR0d0RQMU4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T21:21:47+08:00"
+    },
+    {
       "title": "Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary - PBS",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZjcVVDQ1VUOHZPTlZ4b1o2QjlvR20zc2syUlM0dnV5dlRpaUU2WDU0RnZvM1Q3NWNqLXpfNW9fcmpNNzZTYWtiYll6eTNlaFAyNFlzNUlxMjB3OTYxM0FzOUtrVjB1WXM3UTJmZklUeE1DZ2lWbGtGdGt2YThJMTR6cHVVamxiQmhQTm5GaUpBY3pPNFJEWXN5VE1sVUctcGE5bWxPOUdMNk9qMkV6R081R2hSd9IBuwFBVV95cUxQR19RWEZUV0hOY1pKOFlyTmNWYlJuRkRPSGZ2OG4tWmViT0xKMkl5aFRPQXNzckpzeVBoTnNZTjR3cTZmOTVvZElCbnlCVTVJUUUyRnlxaWRQWUtlLVF1eHdfY2tqOGJyNE5XRlVLRmdaNFl1SUNaRzhONGk4eFJYc2xleUItSVNnUmtYY1pYdWFKdXpsNmloM0U4TDJNVWI1SW9Xa2llOEFzYWMzX05Gb0FPTmJKYXJxdHp3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T21:21:04+08:00"
-    },
-    {
-      "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2tzcVJBT2FJdTRhYTlJd0l2a3pqZGVTTXVmQTlBQm00MS1FbGZZUE1Mb2pISGRoZUlQTzFhX2lpWXZYYzgxOEpTNHJUSDV5SkZnT0hkRUVFSkJ6Nm55UFZrblphSm1YQkswYlB6dHp2UlUtQmluREoxdzM4aF9oQ0JWc2VCVzd6OHpSYm51ZmxxcEkzaHRydUp1Nm5PVU9oSlHSAacBQVVfeXFMTnVQaGJuRTFtUlFoNWQ4ZnNsU01QZGxyekc2RS1QRng3cm5RZXc0RVJTRGxpZ1ZQaWZsczI2RGxpWkw3UzdJc1AzdGVPMk5UMWlnOWpNcFdKeHZURHBGMGVfQW1OR2xLeFR6dUdXZWNENV95a0VyZnU1dDJWZ2Voa2xJaG5aSmUzTzlycGxRTVpsUktaZ2lVNWFyNks1RkJTeG9KN29WZk0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:13:45+08:00"
     }
   ]
 }
