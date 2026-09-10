@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T18:17:54.629093+08:00",
+  "generatedAt": "2026-09-10T18:48:55.639608+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611371.04,
-      "changePct": -1.24
+      "priceHkd": 611237.76,
+      "changePct": -1.36
     },
     "ETH": {
-      "priceHkd": 19362.53,
-      "changePct": -0.72
+      "priceHkd": 19344.26,
+      "changePct": -0.85
     },
     "SOL": {
-      "priceHkd": 793.17,
-      "changePct": -2.42
+      "priceHkd": 794.19,
+      "changePct": -2.37
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1109.3,
-      "priceUsdOz": 4400.9
+      "priceHkdPerGram": 1105.09,
+      "priceUsdOz": 4384.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.82,
-      "priceUsdOz": 66.72
+      "priceHkdPerGram": 16.69,
+      "priceUsdOz": 66.2
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 763.93,
-      "changePct": 1.45
+      "priceHkd": 761.58,
+      "changePct": 1.13
     },
     "Natural Gas": {
-      "priceHkd": 21.9,
-      "changePct": -1.03
+      "priceHkd": 21.89,
+      "changePct": -1.06
     }
   },
   "news": [
+    {
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T18:46:24+08:00"
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T18:43:53+08:00"
+    },
+    {
+      "title": "'Heavy casualties' after fire on cargo ship in eastern China",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T18:30:30+08:00"
+    },
     {
       "title": "England's mayors to be given power to introduce tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
@@ -65,22 +83,10 @@
       "time": "2026-09-10T18:07:19+08:00"
     },
     {
-      "title": "'Significant casualties' after fire on cargo ship in eastern China",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T18:04:52+08:00"
-    },
-    {
       "title": "Primark finally set to launch home deliveries",
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T18:02:26+08:00"
-    },
-    {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T17:52:47+08:00"
     },
     {
       "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
@@ -95,28 +101,40 @@
       "time": "2026-09-10T17:32:34+08:00"
     },
     {
-      "title": "Mike Vrabel: You can’t throw three interceptions, Drake Maye knows that - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUWRuS1NzRHBoY3d0QUIzY3ZUZDMwWFQtVndLWnI4bTQ3VlVtaWs4Q3NQX0NQMmg3Y1JTZl93ZlpvTmxDSUkxdUpsQm9vXzF3bGJaXzYwV0dVTVJTYXZpeEJsWmJ6TllzUWJTUWh2NHpJaFoxbmhfd3BqVWFHanBabW9DTzk3c2RKd055NEpGSHhKRng5T1Q5NmU3YmxJZGstcVJvbUpNN2xKTXZoblFpTk1MeWE5MTFzUklZbDZkWkFLTWVXQkhGMnhn?oc=5",
+      "title": "Stock futures inch higher as traders brace for wholesale inflation report: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T17:27:08+08:00"
+      "time": "2026-09-10T17:22:47+08:00"
     },
     {
-      "title": "August was joint-hottest month ever recorded globally - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRU1VREY1TGptZ0FBSEx1TDd4SEdodjAyTlFWaGtrcHlxVXhGY3FZRUJWVk5hRFp1Wjltemw1cFhXdWlZYktwMUJtNmM2VG9yLUYySVVjU0ZwTktPYXJrYU5rSTdHdl9ZSm5zYzYzXy1ObWRiZnFFcmREakhDUmtKSUIwejZQeVFmUDBmVUlaZ2dYeVdTWUdTWmQ1WDU?oc=5",
+      "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T17:27:00+08:00"
+      "time": "2026-09-10T17:20:42+08:00"
     },
     {
-      "title": "The Democrats who aren’t criticizing John Fetterman - Politico",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGFtZTNITElGS1JiRFhnM1BrQzg5SElocGJ4MzY5UVRzVmFEMG15ZkZiQjY5MDZicFlEU3BxUlV5MTdCS3JjNlpmUkZqbW5hLWxsVHJTRjVUYTI2QmxaWHl1TzY4MTZFdlY2ZmozZXFkVWZXc1ZWVlVrcTA2X3ZNTVQ0UFRGMDlOa1FUMA?oc=5",
+      "title": "CIA officer’s arrest with 303 gold bars thrusts the Pentagon’s No. 2 into an unwelcome spotlight - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUIwLXJYMDg5YmFPanBaUnpwU3RSYVoyVEpPclpPU25xOExtVVNUZk9DSmJMWHJGSTI3ZnJVejVGUno1ekpnY2lqQzFJWVdoOUNLZTlCaDNQUFNoU21HZElmLVVlb1F4VzR2YlhIWmtkYlJVcHY0akJIRkNFdU5JUWhsbHpid1ZLdC1LNUNMX2daMXpVajhIMkVwSkxGU3NLM0VWYWx5U2Z3YVFsel9wb3JleGZ4anNtMjRUdTF1d3lSdzRKYkVXUnhRSWg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T16:45:00+08:00"
+      "time": "2026-09-10T17:00:00+08:00"
     },
     {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
       "link": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T16:44:19+08:00"
+    },
+    {
+      "title": "Fetterman praises Trump in bombshell GOP convention video - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T16:30:57+08:00"
+    },
+    {
+      "title": "World shares retreat and oil prices trade above $100 a barrel - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T16:29:00+08:00"
     },
     {
       "title": "Watch: Is Trump's $5,000 election pledge legal?",
@@ -131,28 +149,16 @@
       "time": "2026-09-10T14:30:19+08:00"
     },
     {
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T13:56:38+08:00"
-    },
-    {
       "title": "A pilot of the Amazon cargo plane in Miami crash warned it was coming in too fast - NPR",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BekpHSXNzcHlnV0dhZzBmNDMtM2J1NFQxZXVQUGh3T1Y4RmlFR2VFSExuWWVQbjVySncwYnlJZExtRW1kX1VsZHBuaEQtckhxcGZ4dGdiQVRMUW5OdFM0c1R4YjZrd2tyNFVBS0RmOXpmdHo3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T13:45:00+08:00"
     },
     {
-      "title": "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge - Reuters",
+      "title": "'Welcome to Foldables': Samsung braces for Apple's foldable iPhone challenge - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5OUVNzU0prMDh0b1hlUVBlOVdqQkRRZkliaUhEMUpWZ05NVXdFNVlHZzRBV1dIRGMybWE3OUljdnpYOUJTRTlfYW5PV2s1WkpEMWFJQVdDVXFtanRxSl9ScUV0YWFUVGxiSnZPOEt5VXZUWVg1VmlxNGc3Z3doNEw2a1lwNEpjR0stVWEydzJYN3JmUS1zaTdUNng2QXNEanplZ2tjaVVoaldkRENBV0MxOWtFYXJMMTJEOTd2X0lpRGdx?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T13:28:00+08:00"
-    },
-    {
-      "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXVPZG54RlNFVnAtQnM1cjhybnlyOXg0WWItLU15VnVQa0lidTVvakJ1SGh4VExJVktXNnRMY1QyU3VyNGRTc1d6NFJpdFFHNEdZcXFFNWlXYzVsSHNZbkxWdjNnbEs4clRnUXZSNzJXWWR4dEtNelBBbjZ4M1ZabDBibHU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:24:10+08:00"
     },
     {
       "title": "Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead - AP News",
@@ -165,12 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T13:03:02+08:00"
-    },
-    {
-      "title": "Horoscope for Thursday, September 10, 2026 - Chicago Sun-Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTnlyN2N4ekVRTWNJc05iMXRaRXVqN0o3VW5XWlpmMEFSVi1SMElKY3V2eFZVOXpWUmtjR1NGbFRwRW1wdk02N3E0Y0lTNHV6Sk1la0F6SHcyUzFDR2dnMzhVQUlOMEVMWmk4VDMwbnllSnNkdU83V1YtdmltdWloUlNZeDNwRDN2akU3eC13NFB5VWtzN2JyVXhB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:01:00+08:00"
     }
   ]
 }
