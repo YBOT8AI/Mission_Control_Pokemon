@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T15:11:23.190906+08:00",
+  "generatedAt": "2026-09-10T15:42:25.950215+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612844.96,
-      "changePct": -1.44
-    },
-    "ETH": {
-      "priceHkd": 19388.79,
+      "priceHkd": 611159.36,
       "changePct": -1.6
     },
+    "ETH": {
+      "priceHkd": 19323.17,
+      "changePct": -1.9
+    },
     "SOL": {
-      "priceHkd": 796.0,
-      "changePct": -3.25
+      "priceHkd": 791.21,
+      "changePct": -3.59
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1113.13,
-      "priceUsdOz": 4416.1
+      "priceHkdPerGram": 1110.91,
+      "priceUsdOz": 4407.3
     },
     "Silver": {
-      "priceHkdPerGram": 17.02,
-      "priceUsdOz": 67.52
+      "priceHkdPerGram": 16.96,
+      "priceUsdOz": 67.27
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 750.84,
-      "changePct": -0.29
+      "priceHkd": 755.15,
+      "changePct": 0.28
     },
     "Natural Gas": {
       "priceHkd": 21.9,
-      "changePct": -1.03
+      "changePct": -0.99
     }
   },
   "news": [
+    {
+      "title": "Primark takes further step into online shopping with home deliveries",
+      "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T15:41:39+08:00"
+    },
+    {
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T15:17:03+08:00"
+    },
     {
       "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
@@ -89,6 +101,18 @@
       "time": "2026-09-10T13:31:00+08:00"
     },
     {
+      "title": "Fetterman praises Trump in bombshell GOP convention video - Axios",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T13:30:17+08:00"
+    },
+    {
+      "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXVPZG54RlNFVnAtQnM1cjhybnlyOXg0WWItLU15VnVQa0lidTVvakJ1SGh4VExJVktXNnRMY1QyU3VyNGRTc1d6NFJpdFFHNEdZcXFFNWlXYzVsSHNZbkxWdjNnbEs4clRnUXZSNzJXWWR4dEtNelBBbjZ4M1ZabDBibHU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T13:24:10+08:00"
+    },
+    {
       "title": "Buy now or wait and hope? Families face gamble on heating oil",
       "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -107,12 +131,6 @@
       "time": "2026-09-10T12:43:54+08:00"
     },
     {
-      "title": "Supreme Court is asked to settle Missouri dispute causing electoral chaos - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T12:39:04+08:00"
-    },
-    {
       "title": "Four key takeaways from  Republican midterms convention",
       "link": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -125,34 +143,22 @@
       "time": "2026-09-10T12:06:33+08:00"
     },
     {
-      "title": "Trump pledges $5,000 ‘dividend’ to all US adults if the GOP wins the midterms - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMzZncE83eTZ4QjhlY1NnWGxibTRmZ0ZyTUJzWTRaUWRzdzRDSGtNWGctYWplaUVlamRZTDFIV0JILWhYNUNMUVRRWENvdk1DZ2ZMNzltUl8tM3RRc0V3dExFNHo3ekJSOHN1QldLOTFiQU5TYzk5cHcxU3hGTmRxSGpwZmdTc2JLcV9zckcxeUVrbndYR0o2by1LSjV5M3hWcmlyYXAzT1loT0ViTndtc19UZ3BHblVQTmp5S3pHdjRzS0JN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T11:23:00+08:00"
-    },
-    {
-      "title": "Trump says the war in Iran will end after Election Day - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJZeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T11:02:00+08:00"
-    },
-    {
       "title": "August declared the hottest month ever recorded - politico.eu",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnVFNVowTDNuY1VmYkpHMVRXT0wtc2lyMnhuT1RGMFhmbUU2d1pWZldoNHg4WDgyV2dnOHRqWTIwVHRSVVAxSlNQcDFnc0JWdHlJT2lVNG0yQ0VDTjR2elBVbFo3UklhTnBzbWdiVlJLR3dzdHZHU0NnazV1a2ZKWDd4SkFqdEE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T11:00:00+08:00"
     },
     {
-      "title": "England's mayors to be given power to introduce tourist tax",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T10:48:38+08:00"
+      "title": "Hideo Kojima's Physint Game Moves to Xbox From PlayStation - Variety",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmZvMEZKOUp3a0g1VnlsRGZEUnkyUXRuTkFPQnprTS12eWphWFJYVUVtY1hKd2ZhbjRoaG9ySkpJNVhKVUNIMDRVWVlMUW51cTZMeUxkYUZkRVRJWEF1YTAtbDVnTTZXNS16bGdocUt2UUNOSFlxNm01OEdFejdHTU5wS3BMSmw0QlRqY1F4bGNIYjYwNVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T10:34:00+08:00"
     },
     {
-      "title": "Fetterman praises Trump in bombshell GOP convention video - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T10:28:47+08:00"
+      "time": "2026-09-10T10:27:00+08:00"
     },
     {
       "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcHA1U3VRLUZIMERvdjlDODVGS2FPVFZ6MmxfRGFHY0s3QUgxWUp0aUJxWmhSbkpZNE5NVkl3WFA2b0ZTOG5DXzBZNDVIVjFtOGhQeEc1WFZWdkJIMExjSUl1SERXaUVyYkZPZnpia1hNaG51TE8zWElDdE94TXAtTkt1WGxBMmtMUVRTcnJ1TGxnOXRFa1QwNjF0VnQ1X0nSAaQBQVVfeXFMUGhkRkpmOGtydE5IME9kd1JxWFluWEU2X3cyMkZiWGsyeWtZeDlvaV85RFJNNnJVLTVEc25BOGNjU19rZ3g5b01pTWVJVHd6WFh6SDZRd2RJcnJDSHA0Z2t0VlFTelN4aHNQN1EyUlAxVWFxOTVpdjVzRW1IZFBQTENneVdlX01TNmlCQWdPV3dVWlp4SmtXN21yYld0dXdIV1lSSkk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:41:00+08:00"
-    },
-    {
-      "title": "Watch: Do Republicans blame Trump for high oil prices?",
-      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T09:37:31+08:00"
     }
   ]
 }
