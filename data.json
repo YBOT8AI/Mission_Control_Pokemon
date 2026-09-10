@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T03:06:15.175917+08:00",
+  "generatedAt": "2026-09-11T03:37:27.831431+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -60,16 +60,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "6425551",
-          "message": "chore: remove unused imports (StaggerReveal, MobileBottomNav, EnhancedProviderCa",
+          "sha": "ac56fab",
+          "message": "chore: remove unused imports (getLevelDetails, POINTS, calculateJobXP)",
           "author": "evilmoni",
-          "time": "2026-09-10T04:04:21+08:00"
+          "time": "2026-09-11T03:06:40+08:00"
         },
-        "commits30d": 38,
-        "totalCommits": 146,
+        "commits30d": 39,
+        "totalCommits": 147,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 2,
+        "ahead": 3,
         "behind": 0
       },
       "tests": {
@@ -83,7 +83,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "2 commits not pushed"
+          "3 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -267,8 +267,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-11T03:00:33.439314+08:00",
-        "next_run": "2026-09-11T03:30:33.439314+08:00"
+        "last_run": "2026-09-11T03:30:38.702409+08:00",
+        "next_run": "2026-09-11T04:00:38.702409+08:00"
       },
       {
         "id": "539a150ac028",
@@ -285,8 +285,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-11T02:35:17.467455+08:00",
-        "next_run": "2026-09-11T03:35:33.844980+08:00"
+        "last_run": "2026-09-11T03:06:22.424928+08:00",
+        "next_run": "2026-09-11T04:06:38.718266+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -294,8 +294,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-11T03:00:33.406371+08:00",
-        "next_run": "2026-09-11T03:30:33.406371+08:00"
+        "last_run": "2026-09-11T03:30:38.583435+08:00",
+        "next_run": "2026-09-11T04:00:38.583435+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -303,8 +303,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-11T03:00:33.218673+08:00",
-        "next_run": "2026-09-11T03:10:33.218673+08:00"
+        "last_run": "2026-09-11T03:30:38.177064+08:00",
+        "next_run": "2026-09-11T03:40:38.177064+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -312,8 +312,8 @@
         "name": "DB Maintenance",
         "schedule": "15 3 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-10T03:15:58.780829+08:00",
-        "next_run": "2026-09-11T03:15:00+08:00"
+        "last_run": "2026-09-11T03:15:41.747897+08:00",
+        "next_run": "2026-09-12T03:15:00+08:00"
       },
       {
         "id": "9451057f9c1f",
@@ -339,8 +339,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-11T03:02:34.132285+08:00",
-        "next_run": "2026-09-11T03:17:34.132285+08:00"
+        "last_run": "2026-09-11T03:32:38.700441+08:00",
+        "next_run": "2026-09-11T03:47:38.700441+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -645,7 +645,7 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-11T02:00:42.064029+08:00",
+        "last_run": "2026-09-11T03:06:52.580123+08:00",
         "next_run": "2026-09-11T04:00:00+08:00"
       },
       {
@@ -791,11 +791,11 @@
     "uptime": "1 day",
     "cpu": {
       "loadAvg": [
-        1.28,
-        1.33,
-        1.27
+        1.43,
+        1.38,
+        1.38
       ],
-      "usage": "13.1%"
+      "usage": "13.3%"
     },
     "memory": {
       "totalGb": 16.0,
@@ -806,17 +806,17 @@
     },
     "topProcesses": [
       {
-        "cpu": "3.1",
+        "cpu": "3.9",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.6",
+        "cpu": "2.0",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.6",
+        "cpu": "0.5",
         "mem": "0.0",
         "name": "notifyd"
       },
@@ -1474,16 +1474,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-11T03:06:14.832394+08:00",
+    "generatedAt": "2026-09-11T03:37:27.541409+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 23.1,
-          "code": 1,
-          "precip": 0.0,
-          "wind": 13.1,
-          "time": "2026-09-11T03:00"
+          "temp": 22.8,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 11.5,
+          "time": "2026-09-11T03:30"
         },
         "daily": [
           {
@@ -1512,11 +1512,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 23.7,
+          "temp": 23.5,
           "code": 0,
           "precip": 0.0,
-          "wind": 14.5,
-          "time": "2026-09-11T03:00"
+          "wind": 14.6,
+          "time": "2026-09-11T03:30"
         },
         "daily": [
           {
@@ -1552,14 +1552,20 @@
   },
   "activity": [
     {
-      "time": "2026-09-11T03:06:15.175821+08:00",
+      "time": "2026-09-11T03:37:27.831292+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-11T03:06:15.175821+08:00",
+      "time": "2026-09-11T03:37:27.831292+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
+    },
+    {
+      "time": "2026-09-11T03:06:40+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: chore: remove unused imports (getLevelDetails, POINTS, calculateJobXP)",
+      "project": "kinkin"
     },
     {
       "time": "2026-09-10T14:01:48+08:00",
@@ -1572,12 +1578,6 @@
       "type": "success",
       "text": "🐾 WPO (World Paws Org): chore: remove unused WALLETCONNECT_PROJECT_ID import from WalletModal",
       "project": "wpo"
-    },
-    {
-      "time": "2026-09-10T04:04:21+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: remove unused imports (StaggerReveal, MobileBottomNav, EnhancedProviderCa",
-      "project": "kinkin"
     },
     {
       "time": "2026-09-06T12:17:10+08:00",

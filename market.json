@@ -1,57 +1,87 @@
 {
-  "generatedAt": "2026-09-11T03:06:15.259137+08:00",
+  "generatedAt": "2026-09-11T03:37:27.910297+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604981.44,
-      "changePct": -1.57
+      "priceHkd": 604738.4,
+      "changePct": -1.72
     },
     "ETH": {
-      "priceHkd": 19327.56,
-      "changePct": -0.56
+      "priceHkd": 19308.67,
+      "changePct": -0.63
     },
     "SOL": {
-      "priceHkd": 782.28,
-      "changePct": -3.34
+      "priceHkd": 781.96,
+      "changePct": -3.17
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5458.6,
-      "changePct": -0.66
+      "priceHkd": 5460.72,
+      "changePct": -0.62
     },
     "SPX": {
-      "priceHkd": 59483.02,
-      "changePct": -0.64
+      "priceHkd": 59510.7,
+      "changePct": -0.6
     },
     "SPCX": {
-      "priceHkd": 1163.3,
-      "changePct": 0.56
+      "priceHkd": 1159.61,
+      "changePct": 0.24
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1088.38,
-      "priceUsdOz": 4317.9
+      "priceHkdPerGram": 1091.2,
+      "priceUsdOz": 4329.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.06,
-      "priceUsdOz": 63.72
+      "priceHkdPerGram": 16.08,
+      "priceUsdOz": 63.81
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 796.47,
-      "changePct": 5.77
+      "priceHkd": 803.99,
+      "changePct": 6.77
     },
     "Natural Gas": {
-      "priceHkd": 22.25,
-      "changePct": 0.57
+      "priceHkd": 22.24,
+      "changePct": 0.53
     }
   },
   "news": [
+    {
+      "title": "More than 20 children killed in DR Congo school fire",
+      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T03:16:24+08:00"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T03:10:00+08:00"
+    },
+    {
+      "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRjdDJFQkpOdjFuMzV2ZjExM0hJZjdXOWNxUHBsbGtHQS1aNHdsYlRhYkpJbTdLMlRYQWNRZTh5ellzejZsS3hYZTcyVTZsVGQxZ19YWnpaZzRoTlQzUTBCM2Z1UFJOVW9zbkFVT1M5SVF3d19TNmtoMXp5RlJ1TXVtX1pXMldmSHBJZTlsVEtfbmgxMktRZzUwM3dVVWhGMVRQVjNlVHVsT1V4TWZZRFExQUxpVDRDMnNxRkw4Yk5adzQyLUE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:54:34+08:00"
+    },
+    {
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:28:00+08:00"
+    },
+    {
+      "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFdIMG1PaGpCeV9ZcVlyOU8zSm9ZbGlrNUlZMUxDTHkzNmtpTVdhWUp1Vkhmckg3LWxIQ2hvbDloMXNUOWR5bDlpQWZNQjBnaW9WZGR4RE5yQlJxbkV0TFFmeVBDQlluNUt1VTh2alBxQVdCMGdvMmdTU2NOSkZjbC1SOUJMZVQ3R2dMOWJIWFJ0REkzSjRjUExqeWthOUNfeEZCRmhZRVliNGJJVnBGZGJYN29xUWE4WFZ5TlJjNVNJcFJLeGpDMk96NkUyM2lsamc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:19:21+08:00"
+    },
     {
       "title": "Elon Musk attacks film-maker behind documentary about him - theguardian.com",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
@@ -65,16 +95,22 @@
       "time": "2026-09-11T02:15:47+08:00"
     },
     {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUTBldk5ZbDBRTF9rN0o3bHNMWGtaRUp1R2xlSDJWSThBc1VSc2NGc2hLMDZMZVFnUE1FTTJSNzM4VG01WFlKMnRWaGlIdGVfeW1aZHNGRi1yZw?oc=5",
+      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T02:15:47+08:00"
+      "time": "2026-09-11T02:15:29+08:00"
     },
     {
-      "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFdIMG1PaGpCeV9ZcVlyOU8zSm9ZbGlrNUlZMUxDTHkzNmtpTVdhWUp1Vkhmckg3LWxIQ2hvbDloMXNUOWR5bDlpQWZNQjBnaW9WZGR4RE5yQlJxbkV0TFFmeVBDQlluNUt1VTh2alBxQVdCMGdvMmdTU2NOSkZjbC1SOUJMZVQ3R2dMOWJIWFJ0REkzSjRjUExqeWthOUNfeEZCRmhZRVliNGJJVnBGZGJYN29xUWE4WFZ5TlJjNVNJcFJLeGpDMk96NkUyM2lsamc?oc=5",
+      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived - npr.org",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFHeGI5VFpEWVRVY0dZNllkXzhIU2ROY0ViWVpPS2NkME9QaHFrUzl1bm1Hb2ptZEI1d0Qzb0h1eVNKZDV3eC1WSzExUDBJYTA3REhabkJfZmhPU1NxeWdJenZ4UW15ZkxreG1zbWZPOS1LZWlFbFVkQUlyOURpN0JvMDRaUzNtUDNiN0ozVnBhZ1NteVhBb29HVXhtRElU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T02:11:15+08:00"
+      "time": "2026-09-11T02:07:57+08:00"
+    },
+    {
+      "title": "Bayeux Tapestry Exhibition Opens at British Museum - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR296RmY1VW5penA3MjdpblYta1ZCWW1Ib3NUWnFCMW5aVzRqOEdiTDNRc3lvRDFkaXBuR3BMdTNaNWVGaUpmQVJCbkhuWDlZbEJvWkVXeGZIaUxrOEJBSmNaYmppc2ZXRUJpenVyNFFvQlFEeENBeWZkWmsxSGJleGhuLWkwSVhjMWVGS3FGbkZ4NUta?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:51:16+08:00"
     },
     {
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
@@ -89,24 +125,6 @@
       "time": "2026-09-11T01:32:45+08:00"
     },
     {
-      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:32:14+08:00"
-    },
-    {
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:30:00+08:00"
-    },
-    {
-      "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQi1UUU1CWExIX1B0cnJxS0VpZk40RExrNG9aOVYyckVITE8wWmlQS19yb29XX1FtYW5WUV9JZUxsYkNnNEZZMFlUY2ZxTFYzc212bTRDd21MZGt3Rm13cWlHbERPMU9oMUJqNG1fXzBrNHlLQU10Q1QzT196WjhKMzI1bVJkTXp0bXFGRW1qNjR4QngyWkl2V3pjTDNGZkNEU1pENk5JUUtndGdqcWZuRy1LRHNYeF92dDBSMFZNOVRLR0JaVG9WNmE3NzhWSFJI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:24:06+08:00"
-    },
-    {
       "title": "49ers' visit a dream come true for Australian Niners fans - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXlTVW93a0xyNUh5eXdxTUlSdVJ4OXhzWVluaktRYzJ5OWIzUWdTZ19SZjkyOTNsQ3ZDMHd3UTR4TGI3UUJjOFlTTm01SFFmZ1ZXU2xILUFxNk1WRG5VazJvMWlPWnZEUTZ3ckl0anZIVC1QMlljMUJuZXV6Z3dKaEtSZVdHcEVSLWpVTHpjaGNoVWhDUGNzWkRfMzg2U00yNS1lODUwSVVaSEF2bEV5cWhnQzVqZGVlcGpv?oc=5",
       "source": "Google News Top",
@@ -117,6 +135,12 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFZrTTV1b3BwWmJHdkIzcXFtcEhwREhhVTRuZ2g4TVljUnk5Y0kzU3RYRzhKQ2d5c2FtNmlRcGJoQWF1UUpsMm1rX2MwRWRfaElGSFJZMC05SmFCZzZYQjB4QmQycVRjXy1ZVUJRcDZwWGNKa1hORTMxMnpSdTU0V3FJMmhXMXZv?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:19:40+08:00"
+    },
+    {
+      "title": "‘NAZA’ Gets 25 Minute Venice Ovation Setting New Record - Deadline",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPemQ1OC1hUmhzOUhEZ1d6Z1VfbzllRzNyWWFRXy1yUDVlSk9hdERVaV9FOTlnTC1iOWRDMDhMdjZ4cldLOFVsNzBKcVZ3b0lGM0tjRTF4QlJmM3JOQlRpbXZvN0pnXzdMQklIUW44ZXh0UUh5UDc5SEFzbXkxZHQ1bjFESjdwZDlZZXQ5RXlhd3N5Q09iNlFF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:16:00+08:00"
     },
     {
       "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0dteWZlM1M3by1zTUFBcFVlZEVvTVZ5clJjVXNlZElFbzFBUUZvZlkxaVFZZ293VzM5N2F4RGY5NHdYYnNaYVlRdzhIVHVRTENOdTNfSlhKTFlCRWdrRGxCQ2VuR2YxdUwwNC1MdjdLcDI1c2tScTdXNjk0cWt3UFRDWTNHN1EtUkdsMUVwTmJmMHVBTHJwbEpaVHhpOTd6YlEwSg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T00:33:15+08:00"
-    },
-    {
-      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T00:31:30+08:00"
-    },
-    {
-      "title": "Walking briskly may lower risk of death in some adults: Study - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWp4YmFwSFRueDZFM21wQzY2WVpLWGNGaEw1T0lGczc2TEQtVC1uNG9aUFNaVWFIWWYzNnpRVy1OaHpycTNtOUNmcVZFQlBHMEZuMjFpSWpocldpMnVkVHB3eEh6N0s1NEg1a1I2eTV6Z2FRN0gzVndYbmE4b0VVN0lGR1dVQ2tqZ0YxOWxYMUpfN2JIeGfSAZsBQVVfeXFMTWlucEVVTlZmUmxZYWRSaEtGU0ljNnhtaWVUOG14VWRUMGVCM21jV0pmeVdHa1FXV0hOdWZkRUMxQ29XSnRvdFdTeWw5aEVfLUo3MG9saXlaUlBnRUVEM2pmT3hDSmpPWVowc3FjSWl4VDhJZ3Z3SGwteWU3UERaMzBzdzBpa29xcE5WaXpqM29Za3FGdjRsSlNoT2M?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:27:15+08:00"
-    },
-    {
-      "title": "More than 20 children feared dead in DR Congo school fire",
-      "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T00:21:50+08:00"
-    },
-    {
-      "title": "Trump announces $500 checks for Americans for alleged overcharge under Obamacare - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakgzTnl4R2JEdkt4bTUzeWF1UlBnVjBtanU0TVZkRWJxdFU4Y2I1OG5STWYwdWtZOTktMW1zVFd6b1hHTVk0aEtjM2VfSEYwc0dTV3ZaYnRMaHhEcXZ5UjJaS3lQN2o0dVpEV3R5REVUUF96cFBhX1pkVVdFVmhZVDBDZEtqTUdyNHRtX1M0NzNKdHhBTzFMWlZ0WDA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:15:00+08:00"
     }
   ]
 }
