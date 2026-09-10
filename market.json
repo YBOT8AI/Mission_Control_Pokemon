@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T12:35:58.985481+08:00",
+  "generatedAt": "2026-09-10T13:07:04.866590+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 614475.68,
-      "changePct": -0.65
+      "priceHkd": 613817.12,
+      "changePct": -1.03
     },
     "ETH": {
-      "priceHkd": 19434.18,
-      "changePct": -0.73
+      "priceHkd": 19399.92,
+      "changePct": -1.19
     },
     "SOL": {
-      "priceHkd": 800.46,
-      "changePct": -1.72
+      "priceHkd": 797.48,
+      "changePct": -2.38
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1112.1,
-      "priceUsdOz": 4412.0
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 17.04,
-      "priceUsdOz": 67.61
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 753.5,
-      "changePct": 0.06
+      "priceHkd": 753.66,
+      "changePct": 0.08
     },
     "Natural Gas": {
-      "priceHkd": 21.87,
-      "changePct": -1.13
+      "priceHkd": 21.9,
+      "changePct": -1.03
     }
   },
   "news": [
     {
-      "title": "Supreme Court is asked to settle Missouri dispute causing electoral chaos - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRVpQS1JsQnNXQXdxT2x0VmVBTGhhUWtfYTZXWFJJQ0RuWWJmdUVKSHlIS2tONjhtWFBoYVl6cnR3TW0tWGF5Y3ZVbFdFTFRyb2JNVURwbFd5WXg3Ui16aGlVejVfcEJ0bGJoUmhXRlNDckVoZDV6VkNVX2JXVHlBZDJ6T0JzQnlTQXFyTVB4TTRGTUsza2tXZFJCQ0lPRnRoSnhoQVJwSkFzc0dEQ2VneG5yMjdEOEVxdFpGQktHRQ?oc=5",
+      "title": "Buy now or wait and hope? Families face gamble on heating oil",
+      "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T13:03:02+08:00"
+    },
+    {
+      "title": "Social supermarket reports hundreds of sign-ups",
+      "link": "https://www.bbc.co.uk/news/articles/cgjqywqz1w3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T13:00:25+08:00"
+    },
+    {
+      "title": "Russia outpacing Ukraine's air defences with daily use of new jet-powered drones",
+      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T12:43:54+08:00"
+    },
+    {
+      "title": "Zelenskyy's plane almost hit by drone en route to Norway king's funeral, prime minister says - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14R1RaZU1oVWZsX3VNdjhyTWRYN05feFJKZ2lma1g4NXZWVmtoYzdBckxIQVJBOTlyb3pKSlBCX045OERqc1FHWlFhZEY5UTUzSzJmWjZrOTJjWkxQMVpkNHk4RmRTV2RVMVpIUVk5N0dLaW93QzlFMGRkNA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T12:25:12+08:00"
+      "time": "2026-09-10T12:31:08+08:00"
+    },
+    {
+      "title": "Iran war won't end until after crucial November elections, says Trump",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T12:21:00+08:00"
     },
     {
       "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
@@ -71,34 +95,40 @@
       "time": "2026-09-10T12:07:30+08:00"
     },
     {
-      "title": "Plane carrying Zelensky threatened by drone in Moldova, Norway’s premier says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWVh5cFVGMm5OY2ZMVXRJVTNjUEt2cXNrdHpsVFpYVFM3RE5zVjdnOE9uR244MlFvMVU1WXplaDExMWxwaUppZ3FpU0FsVHM2S2d2WGhpN1hveWlKT2tabXktb0ZmNjd4Y2hRd1NBeVlDWnRWSFpycS13VHBGaVg4elR2UWt6cWgwSm9ncDV4SE03U0IwR1lVY0ItdGdoNGNsMm5RQ3lScFJTMjRzQjJra1R2ZFNUaWd3dVVSdUJn?oc=5",
+      "title": "Mike Vrabel had no postgame update on A.J. Brown - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkFSSndiMGhGYWo1OGR6RURGX3ZKVmdoZXNvM2tKeUV4UENMVWFDVGNtc01aVXRMRFlRb2tmLU01TGNfeUd0Q3Y0TjByWU9hMHRqM0FnZ3pIdVhRNk5mS0dWNzVPSW4zdURjLW15b2swY1VOMWxEYVR5ZzNvR3ZYdkNkQkttT1hrSnlBMzJMSWZ0TkpkYTlzVldrelVnNXlRMlZpbGpvamNaa0R2Rmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T11:35:39+08:00"
+      "time": "2026-09-10T11:49:12+08:00"
     },
     {
-      "title": "Seahawks take Week 1 win over Patriots, lose QB Darnold early - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcmM4Z0JJbS0zOEJxWDQ1UVRET3dRcDBtLUo0WDVISGF1X19KVUVWLVlHVXZzX0JRTXd2eVJXQjByaTVIcjZQb0hGdW5PVUFWSzNRb0xCdWdzLTVwVDgwNWNhWkZpbmd4d0lKRC1QdzJDOGYybTlGaFliSjVubDFyU3JTUV9vTUxzaElpdkhZREdfNFoxNjJCZXlJVmctcWl5TWNvZE9pMmJKdnZPN05FQzFKWER6YTdUTmp3QXFB?oc=5",
+      "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXVPZG54RlNFVnAtQnM1cjhybnlyOXg0WWItLU15VnVQa0lidTVvakJ1SGh4VExJVktXNnRMY1QyU3VyNGRTc1d6NFJpdFFHNEdZcXFFNWlXYzVsSHNZbkxWdjNnbEs4clRnUXZSNzJXWWR4dEtNelBBbjZ4M1ZabDBibHU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T11:34:00+08:00"
+      "time": "2026-09-10T11:04:45+08:00"
     },
     {
-      "title": "Trump promises $5,000 dividend in convention speech, but only if Republicans win - NPR",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmFRa0owa2RjN200bTNRblhZVEVVTjJGOWt2T1NwTTEwN0tCLWN4RjJPNlJQWnJhQlhwMzdpTkZmZXlvVkR2eU9LOE90ZVl4Z2FjYWtYbGp4NmlLcUFURG1hWWVrVmZzMUhPYTJFaUJNUlNVcDhfM0hlcGg0SDRuQjlUODRwR0Vsd2locjRFc3JWSE56eWhvbQ?oc=5",
+      "title": "Fetterman praises Trump in bombshell GOP convention video - axios.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T11:10:34+08:00"
+      "time": "2026-09-10T10:28:47+08:00"
     },
     {
-      "title": "Trump says the war in Iran will end after Election Day - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTZ4TVZZQUlsdGpxaUs5V3dCUXZacHhRZEo0UHRmVEo2RTdTUWcxeG00SmNDTllmVHlJcmNsQzlRSW9USkxaRFBYZ1lNcVdGaWFKMlNNRVRRaUljWnUwNWZFLWJqemRzMGJhWEVLaXRsRTZvXzJZeWs5Nk9CS0k1QzZOajFSWmFuWE8yMnJ1bFg3MUM0ZmpIeTh2Y3FJVklBdnBYMmVWenU?oc=5",
+      "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMXltZEtoQUhXVTQ1bWJMekROZWpIeXVtZmljZlVNejktRWE0TlZEdWY3X1hGMnNQRXVUUm9mTGN1RUFYOGh5SlF0LWRnWnZCaV9sYllTLVoyekU3TWlxNTYxenMteGVNSEw2d1ZmMnhOVXdoRGFmS2I5R2ljdTdkN3JwamRjbFJlb2JST2Q5YUgtXzRw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T11:02:00+08:00"
+      "time": "2026-09-10T10:27:00+08:00"
     },
     {
-      "title": "A.J. Brown downgraded to out with ankle injury - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ1V3aW1RUjBIaHRiRXNuUWJfandMOXltWVFHaVA2WVlXMDd1OFVCT2xLWk1vdG5weVMyQThITDFseEZfNlo0eTJYNDFTTHRmcDI4a2NyOFE0RW5CbTBNaVJHclJmMDJEZkVrSmtOejYzbHpJcEF6VTFYNE5QNXFJOGpiUXFfcTBGS2U3VkhacEd2NHlSeXNHR3Z1NGFPdFhsLTR4UzlrUWRTZ1U?oc=5",
+      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T10:45:32+08:00"
+      "time": "2026-09-10T10:21:00+08:00"
+    },
+    {
+      "title": "August declared the hottest month ever recorded - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcnVFNVowTDNuY1VmYkpHMVRXT0wtc2lyMnhuT1RGMFhmbUU2d1pWZldoNHg4WDgyV2dnOHRqWTIwVHRSVVAxSlNQcDFnc0JWdHlJT2lVNG0yQ0VDTjR2elBVbFo3UklhTnBzbWdiVlJLR3dzdHZHU0NnazV1a2ZKWDd4SkFqdEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T10:16:01+08:00"
     },
     {
       "title": "CNBC Daily Open: Apple's new iPhone bends. Bond vigilantes, not so much - CNBC",
@@ -107,16 +137,16 @@
       "time": "2026-09-10T09:41:00+08:00"
     },
     {
+      "title": "Watch: Do Republicans blame Trump for high oil prices?",
+      "link": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T09:37:31+08:00"
+    },
+    {
       "title": "Widow files new suit alleging botched landing maneuvers, aircraft safety failures in Amazon jet crash - foxbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVzZIMmJZZWlYa3haWU9POGlJckVuc0J4STVQRlFSXzRlR2NZU203Y3JFQ1JFREtONTRvWlNSUWJIaEFoaWZTdFpKWFRnaG9na2xjMWl3REdLMmoxZmxJTFZnZHhQcmZBM2dFSU45MW83REtwY0Zrd2lwaEN1OXpaT0NIX3BwWjNRcW9UMmdOT0Nfa3EwNmZMWjNjc1d4VXg5ZFlXblpjZVA0bDJ6cmJHaTVYQm0ycXdMNFVJT3hXc19oN3NmNzd6bEItaFBiMWlM0gHWAUFVX3lxTE5MZWphVWt4ZGNSVjlPelRmSHBUTXFGekNpa1ZTMEtjZGxDbXZ6NFJSVUYtcTZLMjl5OEhzLXZPMHpkblUxSlpYVVlZQVlNcWI5X2ZVQnVDSHdhLWQ3VV9iNXg5Yk1lNXNIdFpaUmxNdVFFVkx5X2VYTzFBRXk0QU9ES0gzZ3M3U0FzNjJpNGVEMWY2QXpGeGh0MzJUQ283bWw0V19GdVVZOE9GVGNoRFBsVEROMmpibk16Q3Y2WE1OUEFJLXJjTU45Um1NczZ5M3ZDWjFXLVE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:32:00+08:00"
-    },
-    {
-      "title": "Trump administration proposes changes to census that could exclude millions - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZElzWnU5OVlFX2pPNTFjLVUyMWRqbVRvd2RNTG1xMUhQdzcxR0dTSjZTVE82T0E1WFBtNGxadUJGNjVEdm5rMHo0eU1Yc1Y2dThFMmVuQ1l6c1RDemVESDRwS2FDNGUzMEdodWxXc1AtLWRidmhHTmNyOURBUVhGSFhCMnVLY3B6Y3VKQ0RnT2lXa0I4VXVFQnNJNlp6ZkhlTHU0c2JjS2ZKRzNvdTQxaGNQMWFHdEtMZjh1ajhxZldsZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T09:22:50+08:00"
     },
     {
       "title": "County health officials warn about possible measles exposure at Strong's emergency department - WHEC.com",
@@ -125,52 +155,22 @@
       "time": "2026-09-10T09:18:36+08:00"
     },
     {
-      "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRE45TS1sS3dPVjlLNzNEdVBVSE4wUzI2OXZGb2NPbnNhX3dDZmxxeHJlQVZHRTdTaXpyMGhsWW52Qkl6OC0tQ1lUN1J6RTNuRkNjblFKVTlwcmpWSXkyYzk1V2FyeWRCcHZfb3l4dlZKT2NKVHloOTR3bmYxcGVxQ2FfcVR2X19oeV9sb0llNElNQ2VSQlNnTXRrdmdibjZ3eTJhaGdFd3hlV2hhbTJ2NllIbkQybjZTa0E?oc=5",
+      "title": "Live results, best moments and analysis from Seahawks-Patriots - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNR2tNTG5WQWFmakk5OFduYmZNbnJRcjdoWGs4eFhKUHFzU2UwaGtlbVY4Z1pWa1NHUmstdDZ1eDI3YlNUY1VqaWw1YzZPMWt4T05HQzljYlF4UWZjZE9vOVYwUXZYX3RJWGZSa0dlMXRWRFY4QUo5RFFQMTBuWC1PSFVyTG5mQ0lIV004THUwaWFsZVJ5ZXhUSHd6YnVPQ2FUSGVQQmlYckhxLUkyWFMxWHJyQ0kxSDhRd1haSjR0Z2RwdG5NVDhrTWxJZUxBbnhkN2pRSE5FSnpydnVrWkNPdzRR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T09:00:00+08:00"
+      "time": "2026-09-10T09:01:07+08:00"
     },
     {
-      "title": "Coroner releases details on 2 infant deaths in Pennsylvania measles outbreak - CBS News",
+      "title": "Coroner releases details on 2 infant deaths in Pennsylvania measles outbreak - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWENvZWtocHZYbHU3QThtWEtjajlidWhvSVA0SVg5TlZjUEZnRXpBQURYc2U5Y2w5N25CQ040VjFBd0JPVHZTMUZpeEluVEM0Nk55cTZROS1uU2F0Rm1PX0pxWWl4RUlDM0xER0U4ZFIwSnlNX1d4Y2FJMEg0ZTJrMVdpYWROQjRZ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T08:57:00+08:00"
     },
     {
-      "title": "Rhode Island’s Democratic governor loses primary amid anger over bridge - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2ZlMlFsSjhYbHZscVVUNGVJU2dpZnJ3VEw4WHE0Vjgwa0FPdjRJU2RDOExCQjk1VXI0T3lDWlB6bE1GYWdLXy1IVHJMcDk3T04wWVdvNk1NZkZIRUN2ejlrY0lFanNJVTlMUGtHZ0pZb01IbnRwcE9sNnBMUHdlQUlLdnhxdS1KdTBrQmlqMA?oc=5",
+      "title": "'South Park' Creators Apologize for Delay of Kendrick Lamar Movie - Variety",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEp5NWFtN1F2dnNxVVBJVWdjRWt1NFB2YzVYQ3JIX0VuQWdWNDZMNncycVE1eEZUMkZDb2dMdXpsT20yTlNKdXMxM0lSckd4akFoaDJ4TnRqQ0ZhQ2hXc1ktSUw2Skx1TEhaYzJwSERmUVRvcEIxVWxHaW9VRTNSLWFXVThzY2pHb1kwM3Zlc3p3TC1wdVphUmNDdVprMnJUd2Qw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T08:35:00+08:00"
-    },
-    {
-      "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
-      "link": "https://www.bbc.co.uk/news/articles/c7v4lq969llo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T08:06:33+08:00"
-    },
-    {
-      "title": "Stock Market News, Sept. 9, 2026: 10-Year Yield Jumps as Treasury Buyback Plan Disappoints Investors - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T07:57:00+08:00"
-    },
-    {
-      "title": "Traders Brush Aside Scott Bessent’s ‘Bet Against Me’ Tough Talk - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmY1TGgtSGlqQkVCci0wVm81UUpFNmx0M3ZmUDBBRENMazFWTE9iNjAyUzA2UzNBWEh6d1MtM24zRjZsN0d2LWdtNFB1RUJvV3hscEFTckRSbGFySUlpNVF4WmQ5T25nWUVUUDFBV0RVT0JSVFNnQUhpYy1QZzRDWndpdmxtY01HbS12UTZ6QkVBWGJURmRFcUFsanNYMlNmTVFBM3pVczBQMzkyTUlsY3dB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T07:35:52+08:00"
-    },
-    {
-      "title": "Artemis II moonshot commander and pilot are hanging up their astronaut suits at NASA - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazd6cklWdG9EYzR4SUVfcTJib1FEQU5xTElOVHhWTlhaX0ZROEk1SmJsQzR1QjF3WFdvZk85clJXVHgwLTF5SnZqY0toaW9CcGlkVE8xV21oZzNRRFBmeEtBSWNZMTJjOERNUUkyaGE4R19yck1ONThXWi03Vlp0WV9JM1ozUDB1M3o2TTdhd2pmSVVqZHpNS0g0UFJ5amdnVVFDZHQtcDFSajluZ21UQ0JfbzdLLXJf?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T07:26:36+08:00"
-    },
-    {
-      "title": "AI is becoming harder to control – can humans stay in charge?",
-      "link": "https://www.bbc.co.uk/news/articles/c74edv9887eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T07:17:33+08:00"
+      "time": "2026-09-10T08:44:00+08:00"
     }
   ]
 }
