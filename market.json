@@ -1,59 +1,89 @@
 {
-  "generatedAt": "2026-09-11T01:33:01.172813+08:00",
+  "generatedAt": "2026-09-11T02:04:05.869039+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605883.04,
-      "changePct": -1.97
+      "priceHkd": 606110.4,
+      "changePct": -1.84
     },
     "ETH": {
-      "priceHkd": 19297.53,
-      "changePct": -1.3
+      "priceHkd": 19321.37,
+      "changePct": -1.17
     },
     "SOL": {
-      "priceHkd": 784.78,
-      "changePct": -3.33
+      "priceHkd": 783.53,
+      "changePct": -3.5
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5466.52,
-      "changePct": -0.52
+      "priceHkd": 5462.09,
+      "changePct": -0.6
     },
     "SPX": {
-      "priceHkd": 59570.51,
-      "changePct": -0.5
+      "priceHkd": 59522.54,
+      "changePct": -0.58
     },
     "SPCX": {
-      "priceHkd": 1185.41,
-      "changePct": 2.47
+      "priceHkd": 1175.84,
+      "changePct": 1.65
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1100.53,
-      "priceUsdOz": 4366.1
+      "priceHkdPerGram": 1097.35,
+      "priceUsdOz": 4353.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.27,
-      "priceUsdOz": 64.53
+      "priceHkdPerGram": 16.2,
+      "priceUsdOz": 64.29
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 797.64,
-      "changePct": 5.92
+      "priceHkd": 798.82,
+      "changePct": 6.08
     },
     "Natural Gas": {
-      "priceHkd": 22.02,
-      "changePct": -0.46
+      "priceHkd": 22.11,
+      "changePct": -0.07
     }
   },
   "news": [
     {
-      "title": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis - aljazeera.com",
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T01:38:31+08:00"
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:30:00+08:00"
+    },
+    {
+      "title": "Hands-On With Apple's First Foldable Phone: The iPhone Duo Redefines the Formula - PCMag",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0ZKeDFoZG9ZR3E2WG94UEQ3dkF2U2oybFN5RHdmM1V3MFVTcXFqamRrcjFQcHNINVpwa0d6a1FTTUF4amdvbkZJamdNTFdyR1IwS01nbXNXbFBzcGQ2RER2NkFLZXYzeFFtaFJqSjZHcHhoTTFpUzgxZXRySTlzUjJQS3NQMmRiN0RmX2RDWDdMU25ab0pCTGRR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:26:15+08:00"
+    },
+    {
+      "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQi1UUU1CWExIX1B0cnJxS0VpZk40RExrNG9aOVYyckVITE8wWmlQS19yb29XX1FtYW5WUV9JZUxsYkNnNEZZMFlUY2ZxTFYzc212bTRDd21MZGt3Rm13cWlHbERPMU9oMUJqNG1fXzBrNHlLQU10Q1QzT196WjhKMzI1bVJkTXp0bXFGRW1qNjR4QngyWkl2V3pjTDNGZkNEU1pENk5JUUtndGdqcWZuRy1LRHNYeF92dDBSMFZNOVRLR0JaVG9WNmE3NzhWSFJI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:24:06+08:00"
+    },
+    {
+      "title": "'We never recovered him': Quest to identify remains from Ground Zero continues",
+      "link": "https://www.bbc.co.uk/news/articles/c8d37gq1jnlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T01:13:53+08:00"
+    },
+    {
+      "title": "Spain’s spy agency warned of mass crossings into Ceuta before border crisis - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVFo5SEY5aEFkOUE1cm5HcGw2Z3NVN0w4NGNfT21HSnhyaDdvdWk0cDRKejN0ZjdpMXdaalJEYjEyZ2VfT2tzWjhyc0Y5WmtsOUxXNEVIMzZKSUhPWno4SHlKM3gwa25vcXVKUjZHVFN6ODdnMEYydlBpSEpDVXM2TG14TWlCamk4Sk5TOEVheHNPcS1QVTJLZlhlOXNDcTdlVG5CR1p0VnpkamtxeERjRGp5a9IBuAFBVV95cUxNRHVJS3I4Vy1lX0RpWjNHdzNNVzFIRkZqWGRfZWc1d29xSGpYQl9ZelQ3LUYwU3BQQmQzeUVvWFYtQUkwd202Q3MwZHQxZm5veTNNVnYyUW5PbFpDSVJLUVNNX253MFgteVYzcEtrZkxRWEVtclhVV0U1WGtpZ2pEUl9yQ2ZwbnVXWjFDdmZIeE9mVzI5dzFKVTl5NjRGY3Y1VFl2TmhCSXdweFFJUGJweWxPS1pXQ3Ba?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:00:27+08:00"
@@ -65,16 +95,16 @@
       "time": "2026-09-11T00:59:38+08:00"
     },
     {
-      "title": "‘All the persuasiveness of a North Korean newscast’: Democrats decry Fetterman video at GOP convention - theguardian.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXFrWV8tRnNtRmhPcVk3dVBwSEY1bEt3WXU1LTZmVWtNdkpyTS1BU2UweHZSZ3p4blZPMk5tNVVyNDdJMEowUHUtZFN0eWFUUERORUtELXg2anhPaURwMG5TcC1Nak44T3dLbEhleEI3akNmNFJLQ0FnZ055czNjVUpEVFB2Y1l5VjlTNDRiZk9VTTF0R3Nn?oc=5",
+      "title": "Sources: Seahawks' Sam Darnold expected to miss Week 2 - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRFdKZTZtVGpfaHI0OHlNRDJKenJnenFGS01SUzFYM2pvRWZhV2JQRWJObTZYbXhaYTZUSmwzTGE4cUJMRlJOd3VJY1B1NTFJZkJDV1ZTMzNYRTBBRG54OFpkaXhuaFVxblBDb3ZwSGphYXhHZjVjOTNSWmJIOGlFYzlLbWxlSjFsTlNlMHJHZ0JjUEFiLWV2VGFB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T00:44:00+08:00"
+      "time": "2026-09-11T00:58:00+08:00"
     },
     {
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:38:00+08:00"
+      "title": "Can Trump really pay $5,000 to every American adult?",
+      "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T00:48:37+08:00"
     },
     {
       "title": "Dudamel Lands in New York, With Big Ambitions and a Packed Schedule - The New York Times",
@@ -95,19 +125,19 @@
       "time": "2026-09-11T00:31:30+08:00"
     },
     {
-      "title": "Report: Sam Darnold is expected to miss time, MRI under review - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd0FUQjIzMGtMdi0tODhZbG5YS3pRZWpzdnpDaHBlTlFnYVFEVTVNTnhVYzZVU2xvdC1QT2V1LXdaQUk0ZkE5TDVSUXRuaVppN3U5VkhrMDQ1OW1YRmktS3RwY1BFYjUwUzVQZGpsUWZ2cGFrV09qM3daYW52NU56TldZaVpaOUV4d19BUjh0a0FjZXBNSEstUnJRbFFsZld0NUhJd2t6WkR0OGFUdzM0M2pzeXlSMzVQcUpIdkRXdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T00:26:03+08:00"
-    },
-    {
       "title": "More than 20 children feared dead in DR Congo school fire",
       "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T00:21:50+08:00"
     },
     {
-      "title": "Elon Musk attacks film-maker behind documentary about him - theguardian.com",
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T00:17:00+08:00"
+    },
+    {
+      "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T00:16:00+08:00"
@@ -119,10 +149,10 @@
       "time": "2026-09-11T00:13:02+08:00"
     },
     {
-      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T23:56:33+08:00"
+      "title": "Android rolling out passkey transfers between password managers - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pTUFOSUJWLTA4UW9WeDJ2RzJYQnpjRE1hTDlKck9xRDJ2N19od0hlY3hxYUpZdWM5V1ZYYzFrMG5wV1AzSEpYVHY5aHJhUEJiMHRIZVhzZWFhZnhnM0Y3LUsxcGRsNk9Xb0poWjhyVXU5WUxINnhJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T00:00:00+08:00"
     },
     {
       "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
@@ -141,36 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPdE53R3AwTDJsTUU1SGxQbUdCbDZzTzJ4NWRXQl9xc3Z3X1FYUmY0MUxQMjFWaHQ2b2tVUHVJQ2gydF9RQ3JvOHFHay03eVJLM25WRC11NTJvQjBsY08xTEx3cXRaenZhZ2hJczBua3dYZzFOT0lYQ3VxS1JuNmFLeGhUQXZVRVljNmhCR203VlBaZDNYZ2xJcnZUVVE3cWNNakRvTHVFQ0ZUNDNLSkV6dkYwRW9iZlFCOWlhM3Q3WjJhR3cxbUtIUmpqX0JnbTl4a041X0J3YVV1aXEtZ0VaTDJuZjZHT0djakRXZXBjUjNiYVI1Z01Uc3NPTF90V29KQThzRm5TUXROVnE3bUlxb3d3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T23:45:00+08:00"
-    },
-    {
-      "title": "When a Dragon gives you a helping hand",
-      "link": "https://www.bbc.co.uk/news/videos/c9qrnj5081jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T23:40:46+08:00"
-    },
-    {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T23:38:56+08:00"
-    },
-    {
-      "title": "Clancy holdout juror mimicked strangling during deliberations, juror claims - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkRyMGstbnZTalV0ZHpKaTVNVG1jSWkwcEY3NHhxUGdXMEc4Njh2eE1fSi1OaUpoQ3U0T3YxZGtESGxpUHd6OWNGUTN5ajFYb3NYNHR2emVjMVBjY2hRNWtRb0E1d2lmOHF6cnZ2TldaQjl1Qk85bFRGV3l6YmtMX1RfS2QtVUpSNmtaOEFYcFVjMkVvc3VTY3Z2Nzl4UnVxSlA0U0wyeDV3Z9IBrwFBVV95cUxQdlBTSXZXdkhYTW0wckFhR0RKWDlla1UtNnJuR1BlWTVqc3dQYmJra0NSZVFGd3htTzNsLTBoZmVlSjZCb05IY2s3Vl8zd3IzM3RwS0FnV0tYXzdkOGU2ODFuMVJnbFJDMlU1ay1CVks2dmEwbW9XNnRULVJGWjdLZ1VTVWttQ3dvY1U5bHJmZkQ4ZlBGLU5qZTlNei1wTVVFWUlEY3B5LXJCeS1Xb1pF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T23:35:54+08:00"
-    },
-    {
-      "title": "One resignation turned the embers of AI fear into a wildfire - Interconnects AI",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIakh0XzZvSWk4eExDYTZCZ3VJZ2dYT0ZQbDFRa282bVM1bnN6NWtkNV80Y2p1QVY2WUtqZU00THVwVy1GQ0ZkZV85V1dydG83WmhNNndXUTFkQUVUNTdCSUhld05xUkhNajRURXhBNE5ldw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T23:28:52+08:00"
-    },
-    {
-      "title": "Houthis capture Yemeni town of Mocha: Why it matters - aljazeera.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzFCT1pydlFzVXpmRWEwRFQySWw4RXZlNFFYZm5uOXhpUlRaVGFlVnJyR20wak4tMzJzaGhfYWxmUENkTFZZQklCemNJMmZYVjI1M1pLRmkwNTJUR0FOb3NZZEVyd0prc0lvUU5udTFIVEx2SGhaTFlMeFJnTmZBRkw5LTBFUG5PQ1VyczkteWVnN21obWVV0gGcAUFVX3lxTE1CYW0xaVV1ZndYbUV3enBiRHZGZ2ZmN3BCUEhSdkx0V0huRGhRZmdubkNUbTZrYmRrYkIxNFcwVGxITlJaVjZSeEdVSnNiU3JYd0stR3dDdllOLUd1UWxrRGFESHFVd0lfTkpzMDNpbGFzZVZXOWRRRGhoaHZzVkwwUFNFY1MyaUszLWtLZXhDVkx4aUVUcTBOMkZGMQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T22:54:57+08:00"
     }
   ]
 }
