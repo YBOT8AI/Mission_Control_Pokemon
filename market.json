@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T18:48:55.639608+08:00",
+  "generatedAt": "2026-09-10T19:20:10.223804+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611237.76,
-      "changePct": -1.36
+      "priceHkd": 610924.16,
+      "changePct": -1.15
     },
     "ETH": {
-      "priceHkd": 19344.26,
-      "changePct": -0.85
+      "priceHkd": 19321.68,
+      "changePct": -0.84
     },
     "SOL": {
-      "priceHkd": 794.19,
-      "changePct": -2.37
+      "priceHkd": 793.33,
+      "changePct": -2.08
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1105.09,
-      "priceUsdOz": 4384.2
+      "priceHkdPerGram": 1105.11,
+      "priceUsdOz": 4384.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.69,
-      "priceUsdOz": 66.2
+      "priceHkdPerGram": 16.58,
+      "priceUsdOz": 65.77
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 761.58,
-      "changePct": 1.13
+      "priceHkd": 764.95,
+      "changePct": 1.58
     },
     "Natural Gas": {
-      "priceHkd": 21.89,
-      "changePct": -1.06
+      "priceHkd": 21.91,
+      "changePct": -0.96
     }
   },
   "news": [
+    {
+      "title": "Seahawks pick off Drake Maye 3 times to beat Patriots 13-10 in Super Bowl rematch - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcmpkOGJ4Y203VmctbUV1d0xuV2FweC0xVjJRRDRJNTFVMkpLdkVWVThGNmxieFlTZEFtdjY0MTlYZm1MVF9HYXFFMmJ4dnlhV0wwQXZISlpaUFRlaVdzQnJQdFFsRFphOUFyQWhjRzhQRVQwUjBDcEY4NlhySFNXelhnSVNRblpnRjlB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:04:00+08:00"
+    },
+    {
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T19:02:47+08:00"
+    },
+    {
+      "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
+      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T18:59:22+08:00"
+    },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
@@ -65,16 +83,10 @@
       "time": "2026-09-10T18:43:53+08:00"
     },
     {
-      "title": "'Heavy casualties' after fire on cargo ship in eastern China",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T18:30:30+08:00"
-    },
-    {
-      "title": "England's mayors to be given power to introduce tourist tax",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T18:17:36+08:00"
+      "title": "Scientists are investigating whether popular supplements could harm the aging brain - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T18:19:48+08:00"
     },
     {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
@@ -107,16 +119,16 @@
       "time": "2026-09-10T17:22:47+08:00"
     },
     {
-      "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - washingtonpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw?oc=5",
+      "title": "Houthis, Yemeni forces engaged in fierce battles: Why each front matters - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWF4cjlXdFJ3aFNocTdZNS13NEIyNGlCX0l0dGVuRHU3dUFjcVhqNGVYT0stNTRVaEFwcFFLNU81cnJ1dlpZc1ZFdjRvYXdjdVk2Um51dE9HVW5SZEUtb0RjMkx3cGpFUG5tVGZfRS1wSGpXZ1FEOHNMdFJoMEJUY2o1UTZwb2c2NFJDU0w1bjBPcXVhMjBobEJOYkNnNEFyb200a3VHcGMteXIzQVBHNdIBtgFBVV95cUxPMmJXUWdfSV96aVBWY1UycDBBcHh2VVFaMnhiMHNPTUFraEY4MHlPYTZnWUZOUjcya3ljOFUxMjNVNmNLZVppYVBlUVR1Y3ZrRzR5eFh3Qi16YnNfX0lXQkUyNG04R0hkMDJoZUh0ZlN6N0V5UVBHVlNxb0RXVklNbzNjOHhvbjdueWRWdEtQeUdRTjNQWnJJb3RnVlhFY2RxWmEyUTZkcFZGMllsaGdVUmJXMkQyZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T17:20:42+08:00"
+      "time": "2026-09-10T17:10:21+08:00"
     },
     {
-      "title": "CIA officer’s arrest with 303 gold bars thrusts the Pentagon’s No. 2 into an unwelcome spotlight - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUIwLXJYMDg5YmFPanBaUnpwU3RSYVoyVEpPclpPU25xOExtVVNUZk9DSmJMWHJGSTI3ZnJVejVGUno1ekpnY2lqQzFJWVdoOUNLZTlCaDNQUFNoU21HZElmLVVlb1F4VzR2YlhIWmtkYlJVcHY0akJIRkNFdU5JUWhsbHpid1ZLdC1LNUNMX2daMXpVajhIMkVwSkxGU3NLM0VWYWx5U2Z3YVFsel9wb3JleGZ4anNtMjRUdTF1d3lSdzRKYkVXUnhRSWg?oc=5",
+      "title": "The Democrats who aren’t criticizing John Fetterman - Politico",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGFtZTNITElGS1JiRFhnM1BrQzg5SElocGJ4MzY5UVRzVmFEMG15ZkZiQjY5MDZicFlEU3BxUlV5MTdCS3JjNlpmUkZqbW5hLWxsVHJTRjVUYTI2QmxaWHl1TzY4MTZFdlY2ZmozZXFkVWZXc1ZWVlVrcTA2X3ZNTVQ0UFRGMDlOa1FUMA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T17:00:00+08:00"
+      "time": "2026-09-10T16:45:00+08:00"
     },
     {
       "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
@@ -131,10 +143,10 @@
       "time": "2026-09-10T16:30:57+08:00"
     },
     {
-      "title": "World shares retreat and oil prices trade above $100 a barrel - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUQ1VFl3RGVXQnFjNUhwZ3Q2R04wemM0dUdJel9sQjh6MzdGS1pFb2g0T1VtVFVuOWFyOGJnNkNBaHdhYmxYbGZOV0l4VG05RjIxdFNJa0VYXzNaSml2VzRhbDRpWTRUaEk5SG9XQ3pVLU8wNmFCQUpabG5WNENPT2pYeFVxLXZOcy1fMnlucE03bnhU?oc=5",
+      "title": "Trump’s $5,000 Payout Promise Underscores GOP Midterm Peril - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF9XUGlDQV9qa0syZ0JtVWs5Yk9CdG9nU1djYzN5UU9zVk1KNHdhd2YwdTZKT1FhTG5Fb1Bra01MVVQ5OG1SVFF1alZsQy1kNC1oa1pYczV2a0ttQ1NnSUtTb1Zsd0JCQVJmaFJYSThoYUlNdUNBaDRxMUxZSW9oMk5TaFYwQmFqVk1iaDJKSWh2OGszTTlVMmlLclk3Rm44X0pHN2RCelk2R3NoOFZwR2hFWQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T16:29:00+08:00"
+      "time": "2026-09-10T16:24:07+08:00"
     },
     {
       "title": "Watch: Is Trump's $5,000 election pledge legal?",
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUm5OUVNzU0prMDh0b1hlUVBlOVdqQkRRZkliaUhEMUpWZ05NVXdFNVlHZzRBV1dIRGMybWE3OUljdnpYOUJTRTlfYW5PV2s1WkpEMWFJQVdDVXFtanRxSl9ScUV0YWFUVGxiSnZPOEt5VXZUWVg1VmlxNGc3Z3doNEw2a1lwNEpjR0stVWEydzJYN3JmUS1zaTdUNng2QXNEanplZ2tjaVVoaldkRENBV0MxOWtFYXJMMTJEOTd2X0lpRGdx?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T13:28:00+08:00"
-    },
-    {
-      "title": "Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:18:00+08:00"
-    },
-    {
-      "title": "Buy now or wait and hope? Families face gamble on heating oil",
-      "link": "https://www.bbc.co.uk/news/articles/crk36z3rmnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T13:03:02+08:00"
     }
   ]
 }
