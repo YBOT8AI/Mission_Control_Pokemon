@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T17:15:41.591791+08:00",
+  "generatedAt": "2026-09-10T17:46:45.800116+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612468.64,
-      "changePct": -1.76
+      "priceHkd": 611167.2,
+      "changePct": -1.45
     },
     "ETH": {
-      "priceHkd": 19390.36,
-      "changePct": -1.55
+      "priceHkd": 19338.93,
+      "changePct": -1.18
     },
     "SOL": {
-      "priceHkd": 793.25,
-      "changePct": -3.2
+      "priceHkd": 791.45,
+      "changePct": -2.58
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1108.06,
-      "priceUsdOz": 4396.0
+      "priceHkdPerGram": 1107.66,
+      "priceUsdOz": 4394.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.85,
-      "priceUsdOz": 66.84
+      "priceHkdPerGram": 16.81,
+      "priceUsdOz": 66.68
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 761.42,
-      "changePct": 1.11
+      "priceHkd": 765.81,
+      "changePct": 1.7
     },
     "Natural Gas": {
-      "priceHkd": 21.79,
-      "changePct": -1.52
+      "priceHkd": 21.88,
+      "changePct": -1.1
     }
   },
   "news": [
+    {
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T17:44:51+08:00"
+    },
+    {
+      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
+      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T17:32:34+08:00"
+    },
+    {
+      "title": "August was joint-hottest month ever recorded globally - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRU1VREY1TGptZ0FBSEx1TDd4SEdodjAyTlFWaGtrcHlxVXhGY3FZRUJWVk5hRFp1Wjltemw1cFhXdWlZYktwMUJtNmM2VG9yLUYySVVjU0ZwTktPYXJrYU5rSTdHdl9ZSm5zYzYzXy1ObWRiZnFFcmREakhDUmtKSUIwejZQeVFmUDBmVUlaZ2dYeVdTWUdTWmQ1WDU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T17:27:00+08:00"
+    },
     {
       "title": "Primark finally set to launch home deliveries",
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
@@ -59,13 +77,7 @@
       "time": "2026-09-10T17:03:55+08:00"
     },
     {
-      "title": "England's mayors to be given power to introduce tourist tax",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T17:01:13+08:00"
-    },
-    {
-      "title": "Trump says every adult American would get $5,000 if Republicans win midterms",
+      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
       "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T17:00:05+08:00"
@@ -77,28 +89,16 @@
       "time": "2026-09-10T16:44:19+08:00"
     },
     {
-      "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company - Axios",
+      "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company - axios.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zeWRlMEZLY3JubENWSWYtR2dUS0xGbHVfcjVqSExIdDdocl8wbzNyZnhmVlNOc2szMVJiSVVDeXVRaXVmUzlZUjduQ0ZRU08xMVppbjlJbkZzcnRWZ0d6empyM3BOUW5TbzRVemZvdkFyckh6a042akhZaDUyZXM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T15:46:17+08:00"
-    },
-    {
-      "title": "Iran War Updates: Oil tops $100 per barrel as U.S. fighter jets are damaged in Iranian strikes on Jordan - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T15:15:00+08:00"
     },
     {
       "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
       "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T14:30:19+08:00"
-    },
-    {
-      "title": "Reporter Bob Condotta grades Seahawks’ win vs. Patriots | Analysis - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdURKZ3Rtd3I4SWxSNVNsc3VrbkxEUlJhREQ3OEJXZnZ5a3ZXY2VWNS04N0ljTG5zcllieDFTWGFPSGZoM2RnM2ZNS1ljVmZQZmlVQW54SlRwVmFMU2ZOX2QzR0lfMjBzMkNqcW5uNjdwVnE3cG53VEQySTlWWGVKV3kwVTRuS3JJUktJaFdCT0QzT1Q4eTg1QldNbjlLbTJjZThPN1NEN3g1MWs2?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T14:22:20+08:00"
     },
     {
       "title": "Patriots WR A.J. Brown ruled out vs. Seahawks with ankle injury - The New York Times",
@@ -119,7 +119,13 @@
       "time": "2026-09-10T13:45:00+08:00"
     },
     {
-      "title": "Fetterman praises Trump in bombshell GOP convention video - Axios",
+      "title": "Iran’s Strikes on Base in Jordan Caused Limited Damage, U.S. Officials Say - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSm5aMEItZThnUzhQRXZkZVh0RWxDOFZ2SHgwdkE4cTFGTUkzVTNDRFR2bFlja29ucXNfZ0MzbkNFYWVfY1VMOGlzenlOTXJOVUp0TmxLSURyVTMxdTRZbFFSdW9lTGdLVExHWkdRWHNPUjhtQU0xZ05jTC1kRzBweGlB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T13:31:00+08:00"
+    },
+    {
+      "title": "Fetterman praises Trump in bombshell GOP convention video - axios.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T13:30:17+08:00"
@@ -131,16 +137,16 @@
       "time": "2026-09-10T13:28:00+08:00"
     },
     {
-      "title": "‘Jimmy Kimmel Live’ Moves Interview With Texas Senate Candidate James Talarico From TV to YouTube Due to FCC Threats - Variety",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXhnNXRKalM4MmhBM2lkVEhjcGZzdTlpVW9tMkVOYjRmNzExMkhBNkZPSUVkVlVyQkJxMU1yN0FBMFY2QmxuR3FqUGZseXZIWXJKbU5oTkMwbEdXdjJCSV9seXZiZU1CVG12VmlTMVltdWNLNnhwV0tpNDBVZkVFM245NUV3RTNIbVZYNFlLZFhtTXM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T13:28:00+08:00"
-    },
-    {
       "title": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXVPZG54RlNFVnAtQnM1cjhybnlyOXg0WWItLU15VnVQa0lidTVvakJ1SGh4VExJVktXNnRMY1QyU3VyNGRTc1d6NFJpdFFHNEdZcXFFNWlXYzVsSHNZbkxWdjNnbEs4clRnUXZSNzJXWWR4dEtNelBBbjZ4M1ZabDBibHU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T13:24:10+08:00"
+    },
+    {
+      "title": "Fire on passenger ferry in Philippines leaves dozens missing and at least 5 dead - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ3Ytd2I5UDhvbzQ1MnhiUUtUZFVJQ3BaTXpUaGhhZDMwQ2RHS2EwR19SSkNKaWZXYXlnUWI2WmU1cTEzcHFWcjExSW9sQ1NRTlJhdHdvTExQRW1EOGM1LWxGOF9qSEk5QXBCQTFqN2NhQm9EWnJRaDZfNUttR0gyckdYOHBXZVVBNHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T13:18:00+08:00"
     },
     {
       "title": "Dodgers To Promote Josue De Paula - MLB Trade Rumors",
@@ -165,12 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjqywqz1w3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T13:00:25+08:00"
-    },
-    {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "link": "https://www.bbc.co.uk/news/articles/c804d9lyj2jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T12:43:54+08:00"
     }
   ]
 }
