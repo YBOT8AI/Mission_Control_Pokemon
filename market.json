@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T10:00:35.017491+08:00",
+  "generatedAt": "2026-09-10T10:31:35.948142+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611966.88,
-      "changePct": -1.01
+      "priceHkd": 611410.24,
+      "changePct": -1.02
     },
     "ETH": {
-      "priceHkd": 19307.41,
-      "changePct": -1.36
+      "priceHkd": 19287.5,
+      "changePct": -1.4
     },
     "SOL": {
-      "priceHkd": 792.15,
-      "changePct": -2.61
+      "priceHkd": 792.39,
+      "changePct": -2.37
     }
   },
   "stocks": {
@@ -33,33 +33,45 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1112.37,
-      "priceUsdOz": 4413.1
+      "priceHkdPerGram": 1112.7,
+      "priceUsdOz": 4414.4
     },
     "Silver": {
-      "priceHkdPerGram": 17.01,
-      "priceUsdOz": 67.48
+      "priceHkdPerGram": 17.04,
+      "priceUsdOz": 67.6
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 756.87,
-      "changePct": 3.77
+      "priceHkd": 756.17,
+      "changePct": 3.68
     },
     "Natural Gas": {
-      "priceHkd": 21.92,
-      "changePct": -4.12
+      "priceHkd": 21.88,
+      "changePct": -4.29
     }
   },
   "news": [
     {
-      "title": "Trump once again urges Republicans to 'pretend I'm on the ballot' in midterm election - NPR",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmFRa0owa2RjN200bTNRblhZVEVVTjJGOWt2T1NwTTEwN0tCLWN4RjJPNlJQWnJhQlhwMzdpTkZmZXlvVkR2eU9LOE90ZVl4Z2FjYWtYbGp4NmlLcUFURG1hWWVrVmZzMUhPYTJFaUJNUlNVcDhfM0hlcGg0SDRuQjlUODRwR0Vsd2locjRFc3JWSE56eWhvbQ?oc=5",
+      "title": "Seahawks rule out QB Sam Darnold’s return tonight - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWdZUFRWS3pVcHZsUDlTWWp0NjBYZzhxUW8wS1dnVFc1R1V2NnlPTWlvc3dicFRnTmJ1UUpMQkZQTndUdDJoQjVTc2JHdW9PbkEzdmhuSUxSMFlmeGgyUzY0VE9lVGxEX1Qwc1FHVVNDbEFTakNRbFJaY1pIZ241b1psNnZ4aGpIYnNKOVU5X0Y0dndhVlYxblZLSFprMlFyR3E1NUdYZXBndU9OakhB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T09:31:17+08:00"
+      "time": "2026-09-10T09:46:02+08:00"
     },
     {
-      "title": "Seahawks vs. Patriots live updates: Sam Darnold leaves game with hip injury - CBS Sports",
+      "title": "County health officials warn about possible measles exposure at Strong's emergency department - WHEC.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWZ5WVNTNEloRHZMOHpOSkVQRnBMc04yVkJfdVNaZ0dLQTBVd2NaUUhNMzBWaHM2V3Q0cXl2a25DZ1B5QUt3ZzVQRVNpSjdwa0xnRENXaEdPV2hBREhGTUxEZE8zRXN3YUwzLWtiUXNTSk1MaUduUjQtYWJKbVNaQnQ4ZFFucEdfdEt5SU5EMG9oeWdNRXJUckEzWDI5dU14MkdHUzBLUHZXUVZ2SC1adEpRU0dKUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T09:18:36+08:00"
+    },
+    {
+      "title": "Fetterman, already at odds with his party, makes surprise video for GOP convention - NPR",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSXduNmc0Y0haS2FBY3hFOXk2dVo4UXVHaVhtRWk3RHgyYk5nUGlQTUNfYXZBMEZEdDNxeTRFQ0RkSXV3YWNyWVliNGxDeV85N0RPaDBiVy1HN0Z0QUwzRHhnQ0E5cTE1aXNXRkpvVXV6amxVa3l3WXNGNTdqSTI2VlQ1UU8tbS1vUVNCMzBuV19oZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T09:17:28+08:00"
+    },
+    {
+      "title": "Seahawks vs. Patriots live updates: Sam Darnold leaves game with hip injury - cbssports.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdjBvU08xMm8zR3VwQkliRGY3MGNZUFF2RzZ5dFhnX0tFU3ktV0w2eU5OaDBBZjJvTURLWVlod0xlMzdPa2VEbk8zMGs1VjY4bW9iTU45MG5PbWtfNldfWE51b1hGTTZaWXFqcV9VZHMwWXhiWGdYMndkN1NxV2lpNGUwRkUwMDlqcE5HUG9fb1FSdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T09:09:00+08:00"
@@ -71,16 +83,10 @@
       "time": "2026-09-10T09:03:00+08:00"
     },
     {
-      "title": "Sam Darnold heads to locker room with hip injury - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTNBYUFnbVlWVXpZSktTT1RGamN4NmxEa1k5eDRBaXMwa09NcHF0NXF4cTV3dUVOOVZiZF9YQ3RHd0xhb3RBNE5aeG1Wek96MU5FbjM5bWstS3FhN2JmRS1RenRoU3dSeG5ydkF4WHg0bUdPVGNtVWIyRlVoNFJjWURKcmVXbHgwY2NiS1RDd0xVVU5BaXVGVTJIVFFIQzlWLXNFYkU0b1R0dkI5NjhSYlR4LW5xVTZsdzJz?oc=5",
+      "title": "Rhode Island’s Democratic governor loses primary amid anger over bridge - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc2ZlMlFsSjhYbHZscVVUNGVJU2dpZnJ3VEw4WHE0Vjgwa0FPdjRJU2RDOExCQjk1VXI0T3lDWlB6bE1GYWdLXy1IVHJMcDk3T04wWVdvNk1NZkZIRUN2ejlrY0lFanNJVTlMUGtHZ0pZb01IbnRwcE9sNnBMUHdlQUlLdnhxdS1KdTBrQmlqMA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T08:43:51+08:00"
-    },
-    {
-      "title": "Rhode Island Gov. Dan McKee loses Democratic primary to businesswoman Helena Foulkes - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVDFkWXRsWVJLMjhTUVlyclJlMHFYT3M1TkY0Z2ZxU0Y2X092UjdocUtjVng2a1pib2xCZ1Eyam05Z2oyZFppcVY2bEJvM1BzVGd3STA2SENtaU5MVVQ1NUVJTGVtWnpiUTBjZVplQ2gwQkw4bHdVQnhPdU9CYXFnWklrVXd2bmpCSkJvZGNZbjI5ZVl4WGVJU0JEWFRyNUtLNmU3QXE3WUlUTlQ2ZzFUcEUzQ3Nyd1FSamZhYzRwcWtTbzYz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T08:23:00+08:00"
+      "time": "2026-09-10T08:35:00+08:00"
     },
     {
       "title": "Tax banks to give some households energy bill cut, unions tell Burnham",
@@ -89,10 +95,16 @@
       "time": "2026-09-10T08:06:33+08:00"
     },
     {
-      "title": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "title": "Stock Market News, Sept. 9, 2026: 10-Year Yield Jumps as Treasury Buyback Plan Disappoints Investors - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T07:27:21+08:00"
+      "time": "2026-09-10T07:57:00+08:00"
+    },
+    {
+      "title": "Why Trump’s Republican Midterm ‘Convention’ Isn’t a Real Convention - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTh4TV9JUkM2cFZKQmE4LVpIN01OVnJjTzRCMjRmSHhxd1Z5UmxUSXZ6VmZpVk5ITGtLWGZNVzh4Zy1pS2pkVUZtQi12SjZHanFYWnotMUpOQzVaSXl4Y2xrVHM0VTlxbk5zeFBsQUZKWGkybnNGcVBwMjA3Y2gwazI2elcyemhnYTA0d2paSW04SVkxWHFScm16dlBRUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T07:28:23+08:00"
     },
     {
       "title": "Republican lawmakers criticize Ford business ties to China - Reuters",
@@ -137,12 +149,6 @@
       "time": "2026-09-10T06:17:22+08:00"
     },
     {
-      "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T06:14:00+08:00"
-    },
-    {
       "title": "Trump says Iran 'can't hold out,' predicts war ends after election as UN watchdog targets regime - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHFQTFZXeWUxY1pLVjU1ZXlkS3VqcE1iYW94VzlVcDRnOHRpcFJhUUJ6V3ZsVFpGbGpmckVwQkhxNUxuS3lleHd0aE4yVVUwaWh3c3pldnpIdjI3Y0hyWkkxVi12WmZzek96Q0o1NFFMamQ5RERPSnZCZ0hRMnprU0VR?oc=5",
       "source": "Google News Top",
@@ -155,16 +161,10 @@
       "time": "2026-09-10T05:45:31+08:00"
     },
     {
-      "title": "Mary-Kate and Ashley Olsen Make Rare Public Appearance After Ex Costar Said They ‘Don’t Want Attention’ - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORWpEUU5ZYU9la3l4Y3Jzc2lpb2RiZEFKQjJrR0U5NFQ1Ym5kMzVNemtlak1vWm1ZMEVOMnNaek9POGtwUWNuOFNwUGJEVFM0NVc4STdqQm5UaEFTU1hGQzk4QmxqQkZ5dnl5RjRKZ1c0Yk9vTnh6OHV2aFlnV3Jhc1FjMDN5ZVFOdGVlQnZ0TWpqQlNIQ0lpcm8tV01wQQ?oc=5",
+      "title": "Missouri redistricting chaos returns to US Supreme Court - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnI4Q05TTTRQbkxmMktXckcwZC1qNDJtNFJKUkZ0Y0F1T0ExOURGS0VLemN0bmx5eERrNFMyNnMxaWZ5d1dXeGNnc0ctMHQ2a21vVWo4VWVmT3VYZGJVbEpEWW9EcFIySWVsSWFLLWpOLUU5NUo5dDROVjA1cmxJeHpaRUthdUpMLVRqOG9lRjY5QVVo?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T05:43:52+08:00"
-    },
-    {
-      "title": "Missouri’s GOP-friendly congressional map returns to Supreme Court - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXlVM0lzQkpfNG94Z0l4aUpwMVNxVWlReWdzbmdyWV9NUWRlYkVoU3RiZy1kNWZ5OVI2SWlBSEtDRE9CdDZzVFk1UllCdDRLc1lRdi13RzI3TVM3N2lfckhURlJ3TGRnVC1SNGVRVjB2U2NObXIzZHNpVUtGNlp2OTE3bnEtMklxeVR5NFJFUkNRNjFfenU4b0ljYVFRbTY5OTVvMtIBqgFBVV95cUxPbXpSd21Vcm10aWU3TVplNHJxWGJfeUx3a0FENzgwdU5CeEhxYV9WOFUtamYyYnAtVVI2YVJFTHk3UW1KWlVWYXdlRi03UTEyYzk3Vll1VVVJRWU4UWFlS1ZtYUpNbk1kZk1JbEp3Vll1eXI3bEVBaVNBajNzTVIxaE9ZcDhvTHZ4ZU4zNUl3Q1Y3U09CNTk5dlJCM0F6OFhlb1htMU90X1J0QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T05:37:00+08:00"
+      "time": "2026-09-10T05:38:07+08:00"
     },
     {
       "title": "Coroner releases details of infants who died amid growing Pennsylvania measles outbreak - AP News",
