@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T08:27:17.958027+08:00",
+  "generatedAt": "2026-09-10T08:58:22.279779+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -267,8 +267,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-10T07:57:34.303000+08:00",
-        "next_run": "2026-09-10T08:27:34.303000+08:00"
+        "last_run": "2026-09-10T08:57:43.417360+08:00",
+        "next_run": "2026-09-10T09:27:43.417360+08:00"
       },
       {
         "id": "539a150ac028",
@@ -285,8 +285,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-10T07:56:20.261572+08:00",
-        "next_run": "2026-09-10T08:56:37.819123+08:00"
+        "last_run": "2026-09-10T08:27:24.452166+08:00",
+        "next_run": "2026-09-10T09:27:42.509517+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -294,8 +294,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-10T07:57:34.065558+08:00",
-        "next_run": "2026-09-10T08:27:34.065558+08:00"
+        "last_run": "2026-09-10T08:57:43.338730+08:00",
+        "next_run": "2026-09-10T09:27:43.338730+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -303,8 +303,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-10T08:17:36.747755+08:00",
-        "next_run": "2026-09-10T08:27:36.747755+08:00"
+        "last_run": "2026-09-10T08:57:42.959492+08:00",
+        "next_run": "2026-09-10T09:07:42.959492+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -339,8 +339,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-10T08:13:36.336416+08:00",
-        "next_run": "2026-09-10T08:28:36.336416+08:00"
+        "last_run": "2026-09-10T08:43:41.113576+08:00",
+        "next_run": "2026-09-10T08:58:41.113576+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -788,47 +788,47 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "407Gi",
-    "uptime": "15:03",
+    "uptime": "15:34",
     "cpu": {
       "loadAvg": [
-        1.58,
-        1.37,
-        1.27
+        1.29,
+        1.31,
+        1.28
       ],
-      "usage": "13.5%"
+      "usage": "13.6%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 39.6
+      "usedPct": 39.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.5",
+        "cpu": "3.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "3.2",
+        "cpu": "2.5",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.4",
+        "cpu": "0.6",
         "mem": "0.0",
         "name": "notifyd"
+      },
+      {
+        "cpu": "0.5",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       },
       {
         "cpu": "0.3",
         "mem": "0.1",
         "name": "launchd"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "opendirectoryd"
       }
     ]
   },
@@ -1474,37 +1474,37 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-10T08:27:17.661209+08:00",
+    "generatedAt": "2026-09-10T08:58:22.131131+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 24.3,
+          "temp": 25.1,
           "code": 0,
           "precip": 0.0,
-          "wind": 10.6,
-          "time": "2026-09-10T08:15"
+          "wind": 9.5,
+          "time": "2026-09-10T08:45"
         },
         "daily": [
           {
             "date": "2026-09-10",
-            "code": 51,
-            "max": 29.6,
-            "min": 23.1,
+            "code": 53,
+            "max": 29.5,
+            "min": 21.3,
             "rainPct": 90
           },
           {
             "date": "2026-09-11",
-            "code": 55,
+            "code": 80,
             "max": 30.5,
-            "min": 22.2,
+            "min": 22.9,
             "rainPct": 45
           },
           {
             "date": "2026-09-12",
-            "code": 81,
-            "max": 29.5,
-            "min": 23.5,
+            "code": 95,
+            "max": 29.7,
+            "min": 23.1,
             "rainPct": 75
           }
         ]
@@ -1512,32 +1512,32 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 24.4,
+          "temp": 24.9,
           "code": 1,
           "precip": 0.0,
-          "wind": 9.5,
-          "time": "2026-09-10T08:15"
+          "wind": 7.6,
+          "time": "2026-09-10T08:45"
         },
         "daily": [
           {
             "date": "2026-09-10",
-            "code": 80,
-            "max": 30.0,
-            "min": 22.1,
+            "code": 81,
+            "max": 29.6,
+            "min": 22.0,
             "rainPct": 94
           },
           {
             "date": "2026-09-11",
-            "code": 51,
-            "max": 30.5,
-            "min": 22.9,
+            "code": 1,
+            "max": 30.4,
+            "min": 23.0,
             "rainPct": 10
           },
           {
             "date": "2026-09-12",
-            "code": 80,
-            "max": 30.5,
-            "min": 23.4,
+            "code": 95,
+            "max": 30.7,
+            "min": 23.3,
             "rainPct": 65
           }
         ]
@@ -1552,12 +1552,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-10T08:27:17.957894+08:00",
+      "time": "2026-09-10T08:58:22.279581+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-10T08:27:17.957894+08:00",
+      "time": "2026-09-10T08:58:22.279581+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
