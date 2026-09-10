@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T20:53:13.346632+08:00",
+  "generatedAt": "2026-09-10T21:24:21.806109+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603758.4,
-      "changePct": -3.23
+      "priceHkd": 602598.08,
+      "changePct": -3.35
     },
     "ETH": {
-      "priceHkd": 19027.52,
-      "changePct": -3.31
+      "priceHkd": 18945.67,
+      "changePct": -3.85
     },
     "SOL": {
-      "priceHkd": 780.0,
-      "changePct": -4.96
+      "priceHkd": 778.75,
+      "changePct": -4.92
     }
   },
   "stocks": {
@@ -33,30 +33,60 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1097.0,
-      "priceUsdOz": 4352.1
+      "priceHkdPerGram": 1097.48,
+      "priceUsdOz": 4354.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.23,
-      "priceUsdOz": 64.38
+      "priceHkdPerGram": 16.32,
+      "priceUsdOz": 64.76
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 789.17,
-      "changePct": 4.8
+      "priceHkd": 785.25,
+      "changePct": 4.28
     },
     "Natural Gas": {
-      "priceHkd": 21.78,
-      "changePct": -1.56
+      "priceHkd": 21.72,
+      "changePct": -1.84
     }
   },
   "news": [
     {
-      "title": "Scientists are investigating whether popular supplements could harm the aging brain - The Washington Post",
+      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
+      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T21:23:37+08:00"
+    },
+    {
+      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
+      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-10T21:12:40+08:00"
+    },
+    {
+      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T20:37:42+08:00"
+      "time": "2026-09-10T21:01:58+08:00"
+    },
+    {
+      "title": "Stock futures tumble as U.S. oil prices jump over $100 a barrel: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:53:10+08:00"
+    },
+    {
+      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:44:00+08:00"
+    },
+    {
+      "title": "Iran is running out of options, Trump says, as US military continues to hit regime - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbms5eXgyZ0hQWk5QRWplVmNudkZLQ1VKT0dzVWRIQjZmaWNscF9acWxkTkxvdV9VYlBXZGZtMGZYQktHV1lWV3pPeVd3b1VhOGNWVTBVTVpMbFZWMkNMcUFpTDF1SW1wSE9XMXYxYm1fTWwtWW5sLWJuQmZxMmJ3UTRiX3paQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:36:14+08:00"
     },
     {
       "title": "England's mayors to get power to impose tourist tax",
@@ -65,10 +95,10 @@
       "time": "2026-09-10T20:33:48+08:00"
     },
     {
-      "title": "For years, they warned AI could kill all humans. Now people are listening. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
+      "title": "European Central Bank Raises Rates in Bid to Quell Inflation - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlxa0FOS0lsVkNiRERaRE1FRjF2M092VmxtRG9GMGo5VG1paktWRFJ5Q1hRVkNfX0kwXzNnemV1NEJ4UHZmcFNSelRmdjRnbkQ5YmJtLW5LTTE2b1NFQmczbE1RdXV3VkRKUDJlRjFzeFhVTXplVjhfMC10SWVCWV9oZnRhQUtadm9naE1R?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T20:29:46+08:00"
+      "time": "2026-09-10T20:26:32+08:00"
     },
     {
       "title": "Twenty-five dead after fire on cargo ship in eastern China",
@@ -77,16 +107,40 @@
       "time": "2026-09-10T20:24:54+08:00"
     },
     {
-      "title": "Patriots WR A.J. Brown ruled out vs. Seahawks with ankle injury - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcThZWUYwa0xPZ0RwSWk5RW5HeUxGRk84VEtvSk4xNGxIS2NKMEVtNUdOb0dTeGlZSTkxNWVBUXRFSEdYU25UQkVZUFdONGxJNGtQOVhlbk5SOEl3YmQ3VnVlckhZcFNxdFZ3U0hBUWhrMFFteFg5RS16eXVrc0phS0o5VDQ4Vm5RREZoejJmeHhrMHIyeGMw?oc=5",
+      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T19:55:00+08:00"
+      "time": "2026-09-10T20:24:54+08:00"
     },
     {
-      "title": "S&P 500 futures are flat as oil prices gain, traders brace for inflation data: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
+      "title": "Federal judge allows Missouri’s top court to hold contempt hearing in redistricting dispute - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNGFJeS1xOXM1Mm5sSTdEVUwtb1VxNXE2WVZlRUdUd1RKSGNoVWowUldLTkVKYmhxY0djcFRlelpXc2lwbVROY1dfWmM1TTdCaFJfdHAxeWpVM05MUWJ1WVRleTAtVTlpbkhZOUdMZUhoTG90M0RpQkNNbEZKVGpxUks3N3hjMjhScTBHc29VU3lERE5SR3MzYjVuVS1CNzZuVWhLMGZyQ2FGQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T19:43:15+08:00"
+      "time": "2026-09-10T20:10:00+08:00"
+    },
+    {
+      "title": "'Seems Like A Setup': Musk Mocks Ex-Anthropic Staffer's Warnings On AI Extinction Risks - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZFYteXVSX2hINXNaUlVTd1hBWUtIZTJVemxyZmI4T250NjRTcHVVTU1tQzhnYXUybU9kSnZyeVFnVWtUczgxN0ZUQWNBaFBUaEhENGxROHJ6QWtyYW1icnItQk83WDIyQ1Nack1FX3NvRnJiQmhnb0paVm42dWRwZUhROTJXOVlCblJfYkg3ckt1cTE5N3p6U1VZNEFBSnN0QzV6bDNfWk9XZ1JTRGtBcjd2bjhWVHBhSnNqaVI3dkpvVzdHdjF4UzFNaFRWOXM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:02:42+08:00"
+    },
+    {
+      "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:16:36+08:00"
+    },
+    {
+      "title": "Bessent fails to shock and awe the bond market - Axios",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQXluVjJ3SUhrMWhwNWEwZS05cGVUdzdiUDRNWUpNSW9WNWtGTi1WQ2x1Z3NUU3p0d29zZzk2TFFacjhia3FHNnJFeG55dG9qMUdCVXA2SjA0WDVFUXBKbE5lcmZWWG1BVGRmZ2Y4d3Y?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:15:47+08:00"
+    },
+    {
+      "title": "South Park creators take 'full responsibility' for delays with Kendrick Lamar collaboration - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSVJtU3FYWDFuTUZhV0FaaTRDS2dRQVI3SU1HSFY2a3E1OFpuZVdESTZKZHA0bjhDM0I2Q2NiU2c1UFptTlhFczdJejQwMzRtVlBIZFZQMEIzcVJmbkNQMzEyQUhqU3pQMUlDVDE1b213S3pWT0hoSXRiUVpmdi1NZjQtVHRfZHM1UGJXY2NFcTFHRFJXS2JrTnpPYTkzM09zQlUxNmlLNDZIUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:09:24+08:00"
     },
     {
       "title": "iPhone 18 Pro and Pro Max Benchmarks Reveal Speed of A20 Pro Chip - MacRumors",
@@ -101,22 +155,10 @@
       "time": "2026-09-10T19:04:00+08:00"
     },
     {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T18:46:24+08:00"
-    },
-    {
       "title": "Iran war won't end until after crucial November elections, says Trump",
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T18:43:53+08:00"
-    },
-    {
-      "title": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNWdzb1JYOGV3bkxIQ0FoWUpXcHFiTWVmMEQxaW9IeDUya2E0UVVvS1J6V3NESXZhYnpOVlNRNTRCN0ZtcEZDS1dJb3VFOGlJTkFwOFJyLVFpN1pxSEdNbWV6WENVMVYtRVBsaGFJcjlwWWFqaXBtT01CdG5GeUNIY2ZIR00weWE2QldKY1dQYU00UEplMzVyc1lGbEJyUGNRcFAyek9QRDdIMjVtbmtPS1FMMXo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T18:31:22+08:00"
     },
     {
       "title": "NFL Week 1 latest intel, buzz questions, news, fantasy tips - ESPN",
@@ -125,52 +167,10 @@
       "time": "2026-09-10T18:25:00+08:00"
     },
     {
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-      "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T18:07:19+08:00"
-    },
-    {
       "title": "Primark finally set to launch home deliveries",
       "link": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T18:02:26+08:00"
-    },
-    {
-      "title": "'Significant casualties' after fire erupts on cargo ship in Qingdao, eastern China - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T17:45:08+08:00"
-    },
-    {
-      "title": "Live Updates: Trump says war to end \"immediately\" after midterms as Iran damages U.S. jets in strikes - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUVJuX1liNlV4OVBFUUZrMUQ4QWNZV0R3enp2b0pzN0gwVVVKeW9xUmdKejFueWVCM3Z3RXI2TldvbVYzWXNPRlRNNmFSd3ZxVERxem0wX3R6YjFwcERxa1ZjUDhKbU93RGFPVG5rU3dqUVZkS2dlQU1qcmhsM21HY29Ea1MxdmNDYWVFZThvcGx0M0ZuUUFGdVl4Qmd4QUpaLWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T17:38:00+08:00"
-    },
-    {
-      "title": "'People were trampling me': Philippine ferry fire survivor recalls narrow escape",
-      "link": "https://www.bbc.co.uk/news/articles/c5y48mxm2zjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T17:35:46+08:00"
-    },
-    {
-      "title": "Apple's new boss starts with big gamble on £1,999 first folding iPhone",
-      "link": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T17:32:34+08:00"
-    },
-    {
-      "title": "Memorial on Anniversary of Charlie Kirk’s Killing Splits a Utah Campus - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmhqb29aWk9xNFBORXF0LUVrblBHejFpUlYweEpOOUpPV2o3amVraW81WVdLSWo1N3g0LXNZS2g1cEFzNmNQN2MweXZtYWRhSmRJdkRhd1VFeEJiNkN3enZTRDhLRkdOQ3VPVGV1N2FDY19ERjc4UGhCcW5ISmY2cVcwMG1meEE2?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T17:04:26+08:00"
-    },
-    {
-      "title": "Scientists say August was Earth's hottest month they've measured - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tMXdTb0lIYnQzQUZicEYtQ0hyNDI4WXAxb3l4Nkp4OGh4NVZtUnlKU1J0RmRMa3M2Q3JtQXdEM3lOXzJ5RmNWcWUtY2JoSlFFcXBLUWRPUVRYOVM3Nm84UEFUYlVRbThUazUwbDl2dUZvLVFXNWwwMFB3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T16:54:00+08:00"
     }
   ]
 }
