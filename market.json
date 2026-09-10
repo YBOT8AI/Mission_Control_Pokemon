@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T05:41:39.625565+08:00",
+  "generatedAt": "2026-09-11T06:12:46.088960+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604981.44,
-      "changePct": -1.32
+      "priceHkd": 604793.28,
+      "changePct": -1.01
     },
     "ETH": {
-      "priceHkd": 19274.09,
-      "changePct": -0.29
+      "priceHkd": 19286.01,
+      "changePct": 0.3
     },
     "SOL": {
-      "priceHkd": 782.75,
-      "changePct": -2.54
+      "priceHkd": 784.16,
+      "changePct": -1.27
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1088.33,
-      "priceUsdOz": 4317.7
+      "priceHkdPerGram": 1089.66,
+      "priceUsdOz": 4323.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.06,
-      "priceUsdOz": 63.7
+      "priceHkdPerGram": 16.05,
+      "priceUsdOz": 63.69
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 814.81,
-      "changePct": 8.2
+      "priceHkd": 816.69,
+      "changePct": 8.45
     },
     "Natural Gas": {
-      "priceHkd": 22.27,
-      "changePct": 0.64
+      "priceHkd": 22.25,
+      "changePct": 0.57
     }
   },
   "news": [
     {
-      "title": "Jimmy Kimmel says he dropped Talarico interview from broadcast after FCC pressure - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRktyTy1qblBrX0RMckpielh6MmxiM3VvczEwRVZ3aVpaUmZDY0NRclVYZ0tERlVKZFllTGNQaGFGcnVBZjNULVZFYlBCQU83RnhUSzc0RUdzM0tuRl82UnY2TU9zSGlvdXNvWFdIbFJLUG1CX1VIYWFyWjdEeDRRQjN3dEpTUldiZ3FsaGJWd3Q4ZFEzanVSa1B6dWFEZTM4M3BGaVo2LV9MSS1Iam8tVU5iZV9KR2daQ0FRSGl1NWdfU0t2T0ww?oc=5",
+      "title": "Treasury Takes Less Than Expected at Buyback, Pushing Up Yields - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDFoMGQwT1RfV280cU11T0IxcTFHbEVSaXkxLXJyaGVaVG1MRGowVWFXSC0xVDNTRDc5cGx1dUlXM3dfbmZxRE1xVmpTclpRQ0gxOVRJX1c5QzR5czd5WDJpWktpdGx3Q0JPcmVQdGs3VU1tS0x4R1FxbHYwMTBwdXlHdEpZM3RtdEJyTjRvbVBxVElLLU02ZGtJbmRpc1B3R0tnc0lSSVR6b0xSalhNcWRZMWxPQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T05:22:34+08:00"
+      "time": "2026-09-11T05:32:03+08:00"
+    },
+    {
+      "title": "Live Updates: Vance to Headline Second Day of G.O.P. Midterm Convention - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUp3YmVoemMwSTBOZUFuUXRZaGtYeTZzZlpLeS1TcV9QT0NHYVJ5bmdHbnh0ekczXzd4bkV3RXBxNXRWWFI2YlQ3MFRpR0h5VjZudVNMem40dHlybUxQUE4zY3VQMnd6cE9VMXFPNGVRakdFbzU1SmpTN2xHMGZ6bmdfWlktUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T05:31:15+08:00"
     },
     {
       "title": "Labour mayors in England vow to cap tourist tax at 5%",
@@ -71,12 +77,6 @@
       "time": "2026-09-11T05:00:33+08:00"
     },
     {
-      "title": "Oracle Stock Rises After Solid Earnings - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSlZSOEhMT0haUGJRVDI3ZS04dHpybUdvd3liUkU5c1JoNjRweGFpb0RqVUhoakExdW1tYVlGMHVMTEp6S3NBR3hQUm54WjZ6M0FQbXZCUjZFQ2JJN21mNEZ3QXJGX0VPcjhOLTlFWnNwYlluU0RTTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T04:54:00+08:00"
-    },
-    {
       "title": "Coach crash kills several people in Swiss Alps",
       "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -89,16 +89,10 @@
       "time": "2026-09-11T04:43:00+08:00"
     },
     {
-      "title": "Republican midterm convention provides Vance center stage moment as party faces midterm verdict - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONjVQOUJSUU5LbHFrTVNpY1pmVktmWGxod3hSYjI4dTlXV0FRUklwZy15ZkNRRFllUXJuLVhYSG9CUTVJWTVXb0MwRW5hWGo4Vm1EQVlXd2dXUTNleEo3cld6cVY0U2kzZXpfdDR5R0Zma29iT01MWHRCV0I5aWM0ZUczMkNvNUQwdWRUOXNwakdmejBfQkR2X3Z4TWdWZDZfNkRWa1Z3?oc=5",
+      "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T04:41:00+08:00"
-    },
-    {
-      "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRjdDJFQkpOdjFuMzV2ZjExM0hJZjdXOWNxUHBsbGtHQS1aNHdsYlRhYkpJbTdLMlRYQWNRZTh5ellzejZsS3hYZTcyVTZsVGQxZ19YWnpaZzRoTlQzUTBCM2Z1UFJOVW9zbkFVT1M5SVF3d19TNmtoMXp5RlJ1TXVtX1pXMldmSHBJZTlsVEtfbmgxMktRZzUwM3dVVWhGMVRQVjNlVHVsT1V4TWZZRFExQUxpVDRDMnNxRkw4Yk5adzQyLUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T04:24:34+08:00"
+      "time": "2026-09-11T04:33:00+08:00"
     },
     {
       "title": "Trump reveals why $5,000 checks can wait until after the midterms - Axios",
@@ -107,10 +101,34 @@
       "time": "2026-09-11T04:19:37+08:00"
     },
     {
+      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T04:16:48+08:00"
+    },
+    {
+      "title": "Falcons QB Tua Tagovailoa suffers oblique injury in practice - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeExpSW1YYkZOS3hsU2JiWExocnlBVEVROWRkRW1xcEVOMXplZmswNFVYNlF3UmdHajByeERaZHJQTDBZRFF2VWNfdWVmaVRQdm5XVWk1VWY4SFdtS1RGRjlLMXZDOVAwXzZVMkhLNFFacjI3UXBYcnFqSmhjQkFhSE5melBPSXZZMm56cE1XNW0tOEswb292RDV2WUlIUXhRMUhFNg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T04:16:00+08:00"
+    },
+    {
+      "title": "Oracle's stock jumps 7% on earnings beat as cloud infrastructure revenue more than doubles - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvTEg4QmktNm1FbTRvNzZFU1B1eTFkWHVEWWJkaFNiZ0l6NkhSUzdhZzhsV2Z0U2FYWkg5YzVGVEJHMkZuTHU2TWROd2w4Y3o4TDRVUGJBcHc4QS1EVWtUbzFjM2dFZlFMN3dLdHVJRy1nSUF6cFAwMTlURHbSAYIBQVVfeXFMTXpxWkU0U094Z3cwcVdsT0RJOERKSWRRTzNLSjNNbEJGRTJHYWRncWY5Z3gtQkFnOFp2U3V5U29aN2tTVzk3YVZ2dnFMRUhRaTdKaGY5RVpOTmlpaV9UMFg1bEY1UEhWemFudmpheWJZN0s0cENsVV9CZ015X2haYWU5dw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T04:12:46+08:00"
+    },
+    {
       "title": "Man jailed after threatening to kill son's teacher in French village",
       "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T04:10:51+08:00"
+    },
+    {
+      "title": "Fetterman fundraising off GOP midterm convention appearance - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRmttUjN4TXFYN1ZUbFh6dnJsVDhDYWNuei1LM1RuOXhRQzlUWkNCUEljVWVNbUh0RkxCb3lueHRabkhpSUowMkJ6RGVnSllDZUVLX3VwZjJ2NWlFX3hSSngySzk3M2xMNGJDUG02OWZVczZiQWotaTZ1dnAydGJCNHZMcFdjMjRf0gGOAUFVX3lxTFAxSk1wZU1GOHF0aUhVNFdsNHJFYlVHOTdELTJUb3NtWkpvYTN6LS1MX0tiaUxRV0hHZktzZzRCYXhCbWg0NFlSVjFHNnFsV1ZzbjhiREhuM1Y2MlFtUTc0MjlveXFSNW9yRERrUl9KcGlLSTAtcm94VHp5cVRYR011YWstaFZBQlBhY1FSMWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T03:59:00+08:00"
     },
     {
       "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
@@ -137,40 +155,22 @@
       "time": "2026-09-11T03:15:50+08:00"
     },
     {
+      "title": "AT&T CEO drops a hot take on the new Apple iPhone Duo - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dV92QTVoaEdfZjV6cFZJSUZ6QkNiTFd5M094U1FINEhYZlVRYkJtN19ESHdHQ3Y5OTJ4bVB0R3pkckJoMUZnazhSTVRmOVNJOHcwYkxUUXU0ZVdCOW96bXVqa3laS3REV3lnamc3cnVvUW1pdWFnb0FR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T03:13:00+08:00"
+    },
+    {
       "title": "Mercury may be shrinking faster than scientists expected - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmZRTXEtS0NXT3JsRi1yaTFqbm9sZnRrZmZvdzhQSWQxUEV5UndfVjZjNi1SQUN4YU53ZHJ3aTN6TEFkQ29LeXJaTGxBOHlDQ0FsSG9TeUpEZVBCT2R1Y0Nyb3FLelB6c2IzNGpSMjJnY1FBalNnZ015TWlSUDljRVNuZ19IM3BXT3c?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T02:59:47+08:00"
     },
     {
-      "title": "Mike Vrabel: A.J. Brown still undergoing tests, unsure of Week 2 availability - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUFdIMG1PaGpCeV9ZcVlyOU8zSm9ZbGlrNUlZMUxDTHkzNmtpTVdhWUp1Vkhmckg3LWxIQ2hvbDloMXNUOWR5bDlpQWZNQjBnaW9WZGR4RE5yQlJxbkV0TFFmeVBDQlluNUt1VTh2alBxQVdCMGdvMmdTU2NOSkZjbC1SOUJMZVQ3R2dMOWJIWFJ0REkzSjRjUExqeWthOUNfeEZCRmhZRVliNGJJVnBGZGJYN29xUWE4WFZ5TlJjNVNJcFJLeGpDMk96NkUyM2lsamc?oc=5",
+      "title": "Upgrading to Apple Watch Series 12 Could Cost You Hypertension Notifications - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGhkVXBFMUF5VUY3NFF5ZXJhUlF0RVdTOXY1UkQwekJldHhva1pYM3Rpd1BkRW9vMmtWa2pRd0V2b20xU3hsRXdOdjV2bC1GcnFPeE9hbU1oZ2c0VlNVMU4yNlBMMFVPYlptaURwNk9XeURlbnBTLU1WSjlYVVNmWk9xUkZKQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T02:19:21+08:00"
-    },
-    {
-      "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T02:19:00+08:00"
-    },
-    {
-      "title": "A change in immigration status threatens thousands of Salvadoran immigrants in the D.C. region - WAMU",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcERSOWZ4WUg5a3lYelNWZ2pjSjM1Mk0xZm16NzlOYW5TU1h6bDFZaVg0TXJWckY3cFpFUlpDc2RQeXlYaUVUZUpJbzJXaTc2bnhKQ1BxMnlScGcxWFphV0Y3QXFCRXg5VVhYaEZQdUdBVlBsbXRwWElYaEdsNHJ5VTlqTGYxNmNBT2dMSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T02:18:11+08:00"
-    },
-    {
-      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T02:15:47+08:00"
-    },
-    {
-      "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived - NPR",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFHeGI5VFpEWVRVY0dZNllkXzhIU2ROY0ViWVpPS2NkME9QaHFrUzl1bm1Hb2ptZEI1d0Qzb0h1eVNKZDV3eC1WSzExUDBJYTA3REhabkJfZmhPU1NxeWdJenZ4UW15ZkxreG1zbWZPOS1LZWlFbFVkQUlyOURpN0JvMDRaUzNtUDNiN0ozVnBhZ1NteVhBb29HVXhtRElU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T02:07:57+08:00"
+      "time": "2026-09-11T02:57:42+08:00"
     }
   ]
 }
