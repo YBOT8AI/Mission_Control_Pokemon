@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-10T23:28:41.125241+08:00",
+  "generatedAt": "2026-09-10T23:59:43.445333+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604652.16,
-      "changePct": -1.38
+      "priceHkd": 604973.6,
+      "changePct": -1.83
     },
     "ETH": {
-      "priceHkd": 19084.91,
-      "changePct": -1.68
+      "priceHkd": 19114.47,
+      "changePct": -2.11
     },
     "SOL": {
-      "priceHkd": 781.8,
-      "changePct": -2.6
+      "priceHkd": 780.24,
+      "changePct": -3.48
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5473.81,
-      "changePct": -0.38
+      "priceHkd": 5467.37,
+      "changePct": -0.5
     },
     "SPX": {
-      "priceHkd": 59651.27,
-      "changePct": -0.36
+      "priceHkd": 59580.08,
+      "changePct": -0.48
     },
     "SPCX": {
-      "priceHkd": 1175.61,
-      "changePct": 1.63
+      "priceHkd": 1190.78,
+      "changePct": 2.94
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1101.13,
-      "priceUsdOz": 4368.5
+      "priceHkdPerGram": 1101.03,
+      "priceUsdOz": 4368.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.3,
-      "priceUsdOz": 64.66
+      "priceHkdPerGram": 16.26,
+      "priceUsdOz": 64.5
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 785.41,
-      "changePct": 4.3
+      "priceHkd": 793.56,
+      "changePct": 5.38
     },
     "Natural Gas": {
-      "priceHkd": 21.79,
-      "changePct": -1.52
+      "priceHkd": 21.85,
+      "changePct": -1.24
     }
   },
   "news": [
@@ -56,13 +56,31 @@
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-10T23:18:24+08:00"
+      "time": "2026-09-10T23:56:33+08:00"
     },
     {
-      "title": "Unpaid Ebola Workers Let Families Touch the Dead - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVB6Z3hSOEVoenV6SWFJa1hOWkxwQVBTdk5kS2VTQnlWUHZuUGdZU0cxU09ndDlMcnF6YjRtUndLRHpza09ETlhTbElNQ2RuQVNVZGtYUlRrQUQ3WmFPcHF4ZEhneW5XQnE3c3lwU2I2X0xJSm9UYktFeDFnWktPcHhDNlI2R2NmWXJpcXdXbi1oaGlr?oc=5",
+      "title": "When a Dragon gives you a helping hand",
+      "link": "https://www.bbc.co.uk/news/videos/c9qrnj5081jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T23:40:46+08:00"
+    },
+    {
+      "title": "Gold price down but weathering ECB's 25 basis point rate hike - KITCO",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjFqYVkwZS1VMzVvWGlmcVpkUUpHNFFHdUd4OXd5WHZtZHFCMVQydzh2amFZeTRobkNyRFRVQU1lYWpHampKUTR5aWdrMXQzS3hsWWFjdXlEMHdxdmhXVGluYUE4dlVhUDVXT3Bpdm9LUHdseVIwWmNrOGZHYlRJdko0Z1lqMjRCV3VycEtmc1pJQ0dIdGdPV2FmanBqeG9jS3dVbg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T22:54:08+08:00"
+      "time": "2026-09-10T23:33:45+08:00"
+    },
+    {
+      "title": "Stock Market Today: Indexes Slip After PPI Inflation Reading Comes in Slightly Hot; Oil Prices, Treasury Yields Surge Further - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0J2Wmprdy1lcEdXZXMzTmtBZ0tpTVhOQjRFM0NRWTJXSl9JUDR3RHdFR2hSMEZ0VnhncmRaOHBjNVZyamhOX3E4eUNpY0hEeE5kcWZNMkxQaV81ZV91aFdYUFVGb0dNMlptLXQ4QXJrZFJKRkt6SFZ4WlBCZ2RySGUtQzdhbUE4RHpUdEZqamQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T23:23:39+08:00"
+    },
+    {
+      "title": "Elon Musk attacks film-maker behind documentary about him - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWmtOV3FJQmJuQVBvNjhvby1UZjFJdDBmaEl0VDJjaXA0X2xkRmE1WkEwQXQtUkJvMFptRWI4S180ZzlIc0JrbzBVV0xNbElERzZmZkFCbFFRM3dRemRIa1lOaEhwZ2dlOThGRDJOT0JmbWtSRThkNERDUWlQUU9XM095N05DTGZRVFh4U1BuRWRyd19QX2IxeTVUaHVFdU41WEFaZ2xaVXZzWmo3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:56:00+08:00"
     },
     {
       "title": "England's mayors to get power to impose tourist tax",
@@ -71,13 +89,19 @@
       "time": "2026-09-10T22:46:09+08:00"
     },
     {
-      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
+      "title": "Trump’s promise of $5,000 ‘dividend’ for US citizens after midterms met with incredulity - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2FmbWZoVkcxQzJSTnNLVGJrWkoxNUxSZmI3SHJOQmUzTjZfaVNXSlBsWUNrWktOLWFlaE1DRTBEQWF2NGs1eWF2S2RITWNGakxzOWdlT1k2TTZCRHdRa3RWWXdhT1l0elU5VVU4anpTX0JhX0JmQ3pFRmptaHYyc09URVhqZnFnX0hsTGJURkx3YmM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:35:00+08:00"
+    },
+    {
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T22:32:14+08:00"
     },
     {
-      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - The Washington Post",
+      "title": "Why scientists are starting to worry popular supplements could harm the aging brain - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUUpYQ2ZDdW1MMFFnMHV4YTRkU2VBR1ZnMVFuMVdjRUZVaGV5ajZnY20zNVBsUXliMDQ0NXZuMXJrc1hYYmw4MGZkYlNIS0haMzRhWTlCU1hSaGJwdVF6YUt1SnhTbkxVcnNoTk93eGZxVkZOaVozUDFVX2Z4UDR6bjRHTWFRVWtySkJ4R0lwd29IY25naVRpUERzclcwRXJ4TE9qTDJRLTJ5SFk1YmZTWE01MDJxZGlBWHY2ZXA4UmFLRURtOE0wag?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T22:31:58+08:00"
@@ -89,16 +113,28 @@
       "time": "2026-09-10T22:28:58+08:00"
     },
     {
-      "title": "Stock Market Today: Indexes Fall After PPI Inflation Reading Comes in Slightly Hot; Oil Prices, Treasury Yields Surge Further - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0J2Wmprdy1lcEdXZXMzTmtBZ0tpTVhOQjRFM0NRWTJXSl9JUDR3RHdFR2hSMEZ0VnhncmRaOHBjNVZyamhOX3E4eUNpY0hEeE5kcWZNMkxQaV81ZV91aFdYUFVGb0dNMlptLXQ4QXJrZFJKRkt6SFZ4WlBCZ2RySGUtQzdhbUE4RHpUdEZqamQ?oc=5",
+      "title": "Generations of Americans remember exactly where they were on 9/11 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbl9VVHhBUElYUTJHU3dfcnZZUGFqdDBMWDA0MmROUnZUUHlDSUUtTGV2Y3ZDTnN3WUdIVHE3VllXX29qUzhqUnB0ZllDNFk3bVhOaDZGbzNLUzFiTlZPYmV5VktLcGUyd3Vka1NKdW94TnhsMGRlcmpaNERvZUJLVm5xOTFjLVlNb1VPWjJzMWFUMGxob2VsSk9NdFRxdFc2dFpwWkphT2lUeHhO?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T22:10:10+08:00"
+      "time": "2026-09-10T22:26:00+08:00"
+    },
+    {
+      "title": "Pennsylvania coroner shares details on 2 infant measles-related deaths - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWtfMk5yOUVfOXMxMjdOMlNtU2ZlaTNtc19WQWNlX3VCTUJ2aGhOQUEyMUJkMk0taEt5SjIyU3MtblBicG9lRDRVVDZfTFhKbzFKeTJvYUp4Y0lHOTRFbkFsWU1UZEFtTUFQR3V1dGU0WlZncU9sRl9qTE81dGxHNU1hZ2VvcmNQYWlmc3hZSFE3NFhKN3hQU01IYnBndDByNVNJZ2tyYXQzbHpwdFdmV3lSbU5MWlhE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:19:00+08:00"
     },
     {
       "title": "Primark introduces home delivery",
       "link": "https://www.bbc.co.uk/news/videos/cn0jr4zndrro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T22:07:54+08:00"
+    },
+    {
+      "title": "iPhone Duo Has Similar Main Camera to iPhone 17e - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVERqTncxY3czZ2dfaDhWbkNBQ0pnZHJXUXFNWXFMTEVpOGxzNUFWUnRzUU9POHdidzQ0OVJmejRxYkpyYVQwSkdzZ1JhM0dYRkJIelRyZXdhWTk4eVNNTDlaWVNBSXVxOGpudHktRVkzSV9YbkowYUNzSlF0emowcG9DeUhaU3pOS2ktZlplQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T21:59:04+08:00"
     },
     {
       "title": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced - 9to5Mac",
@@ -113,7 +149,7 @@
       "time": "2026-09-10T21:34:17+08:00"
     },
     {
-      "title": "The ‘Waters of the United States’ Are About to Legally Dry Up - wsj.com",
+      "title": "The ‘Waters of the United States’ Are About to Legally Dry Up - WSJ",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjc1SVZjVDNsR3R3eHB6M0Ricy13YjNPSW93Q2RWNUVkS0RQdXRYWnN5NjlNU0ZVeTdvQW1URGFhdmtfRWp6Y3pUdC1HVmNhSlRvLWVBMVRtRGQ4NXQ4dlRnMGVfcTF2ODh6S0d0WFZyZHBHNGV3c28xa1FZTlVqNHRWb1hDY1FHUXRTUUVhSWVSdmhqa2NWTWFwSXhWQ3dGbUloUm9mUkc4QWVNZzd6YWo4bDU1T1U?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T21:25:00+08:00"
@@ -125,52 +161,16 @@
       "time": "2026-09-10T21:23:37+08:00"
     },
     {
+      "title": "Foulkes defeats Rhode Island's McKee, 1st governor in 8 years to lose a primary - PBS",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQemZjcVVDQ1VUOHZPTlZ4b1o2QjlvR20zc2syUlM0dnV5dlRpaUU2WDU0RnZvM1Q3NWNqLXpfNW9fcmpNNzZTYWtiYll6eTNlaFAyNFlzNUlxMjB3OTYxM0FzOUtrVjB1WXM3UTJmZklUeE1DZ2lWbGtGdGt2YThJMTR6cHVVamxiQmhQTm5GaUpBY3pPNFJEWXN5VE1sVUctcGE5bWxPOUdMNk9qMkV6R081R2hSd9IBuwFBVV95cUxQR19RWEZUV0hOY1pKOFlyTmNWYlJuRkRPSGZ2OG4tWmViT0xKMkl5aFRPQXNzckpzeVBoTnNZTjR3cTZmOTVvZElCbnlCVTVJUUUyRnlxaWRQWUtlLVF1eHdfY2tqOGJyNE5XRlVLRmdaNFl1SUNaRzhONGk4eFJYc2xleUItSVNnUmtYY1pYdWFKdXpsNmloM0U4TDJNVWI1SW9Xa2llOEFzYWMzX05Gb0FPTmJKYXJxdHp3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T21:21:04+08:00"
+    },
+    {
       "title": "Apple makes biggest change to iPhone release cadence in 7 years in Ternus' first showcase as CEO - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX2tzcVJBT2FJdTRhYTlJd0l2a3pqZGVTTXVmQTlBQm00MS1FbGZZUE1Mb2pISGRoZUlQTzFhX2lpWXZYYzgxOEpTNHJUSDV5SkZnT0hkRUVFSkJ6Nm55UFZrblphSm1YQkswYlB6dHp2UlUtQmluREoxdzM4aF9oQ0JWc2VCVzd6OHpSYm51ZmxxcEkzaHRydUp1Nm5PVU9oSlHSAacBQVVfeXFMTnVQaGJuRTFtUlFoNWQ4ZnNsU01QZGxyekc2RS1QRng3cm5RZXc0RVJTRGxpZ1ZQaWZsczI2RGxpWkw3UzdJc1AzdGVPMk5UMWlnOWpNcFdKeHZURHBGMGVfQW1OR2xLeFR6dUdXZWNENV95a0VyZnU1dDJWZ2Voa2xJaG5aSmUzTzlycGxRTVpsUktaZ2lVNWFyNks1RkJTeG9KN29WZk0?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T21:13:45+08:00"
-    },
-    {
-      "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-      "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T21:12:40+08:00"
-    },
-    {
-      "title": "Kimmel pulls Talarico interview after FCC threat - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE9Kd0lzd1R1MVBRYjZ4a0hJdnE5V2pwMFAyVktoVUtnVW1VNVE2YkJDZTNoMzVxM3dhcHVkcDVjbE1mUlo1cVNTLXZVZDM4ZFNQZEFSczk4NzRaektHUUZraFBubmRHTHg3MTdLWlhnSEpzTGh3UEN5ejNfSjlqVkNwV2ZNT09sX2FuZ3ZBYVVzNjhwM1ZlSF9ENTY1aVBkR3VrSVFiQkJianY4aVpuWHJn0gG3AUFVX3lxTFBmS1FTRlRYUkwzbi1rOXpoOVlIalNSWDhSM1pXa3NqQVEwSTlwWFhkYlZhVEEzT3drcFZUbWh5Rng0MlltOXhZc2I3djU2VXMxczE5NnBCa2xDNVc5UlBBMEl5ZC10VTlSWnZDTWpXU25TMGZER2cwbU1Zd2hpQjdkbGMxWE94SWRfT2hSTnY4Rjhrc2lZbnMyRnMtRE9WODZuTHhEVHZsYmV2ZnIyVVRFLUpVYnNkSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T21:06:00+08:00"
-    },
-    {
-      "title": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVmNITlFwV0FlUC0xOEItRThDaHhmYkVGOGMyUTRaalNEc1lHQXRDaGx6SUF6dUd4NVd6NXdSOExaN1ZGTWdkWEEwZDhTYUFmVFY2MW1LV2I3LTJWM1VRaVVFZkFtV2s1Q0VkWDZjdmJGWWlKM3Y2ZHZuZHVSQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:54:28+08:00"
-    },
-    {
-      "title": "Generations of Americans remember exactly where they were on 9/11 - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbl9VVHhBUElYUTJHU3dfcnZZUGFqdDBMWDA0MmROUnZUUHlDSUUtTGV2Y3ZDTnN3WUdIVHE3VllXX29qUzhqUnB0ZllDNFk3bVhOaDZGbzNLUzFiTlZPYmV5VktLcGUyd3Vka1NKdW94TnhsMGRlcmpaNERvZUJLVm5xOTFjLVlNb1VPWjJzMWFUMGxob2VsSk9NdFRxdFc2dFpwWkphT2lUeHhO?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:50:00+08:00"
-    },
-    {
-      "title": "Sánchez’s release of declassified Ceuta files turns into ‘own goal’ - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTEwZU5OYkxCbmtpTTVLVVVjSnhNTlJlODUtQnRPcFUySE1DM05Fd3JHTFE2MGc2QVE5QnpKLTJfQXlvbXJ2VGI1d3A3RVZfSXdUeDdHV1lrTEdRamJRU3g3VzFseG9GV21VamFzRTItVnFzUFl4V2w5S09fMkwxTExMT213cmVyUkxTMDhKRGR6Q2xIdWNwX01tRDN1b1JZbkx5OQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:43:00+08:00"
-    },
-    {
-      "title": "Iran is running out of options, Trump says, as US military continues to hit regime - foxnews.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbms5eXgyZ0hQWk5QRWplVmNudkZLQ1VKT0dzVWRIQjZmaWNscF9acWxkTkxvdV9VYlBXZGZtMGZYQktHV1lWV3pPeVd3b1VhOGNWVTBVTVpMbFZWMkNMcUFpTDF1SW1wSE9XMXYxYm1fTWwtWW5sLWJuQmZxMmJ3UTRiX3paQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:36:14+08:00"
-    },
-    {
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T20:24:54+08:00"
     }
   ]
 }
