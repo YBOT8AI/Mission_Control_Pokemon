@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-10T19:51:05.240749+08:00",
+  "generatedAt": "2026-09-10T20:22:11.631495+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610775.2,
-      "changePct": -1.54
+      "priceHkd": 609301.28,
+      "changePct": -2.11
     },
     "ETH": {
-      "priceHkd": 19314.94,
-      "changePct": -1.32
+      "priceHkd": 19259.98,
+      "changePct": -1.76
     },
     "SOL": {
-      "priceHkd": 793.09,
-      "changePct": -2.76
+      "priceHkd": 792.39,
+      "changePct": -3.13
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1104.74,
-      "priceUsdOz": 4382.8
+      "priceHkdPerGram": 1102.49,
+      "priceUsdOz": 4373.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.61,
-      "priceUsdOz": 65.88
+      "priceHkdPerGram": 16.52,
+      "priceUsdOz": 65.56
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 762.05,
-      "changePct": 1.2
+      "priceHkd": 776.87,
+      "changePct": 3.17
     },
     "Natural Gas": {
-      "priceHkd": 21.9,
-      "changePct": -0.99
+      "priceHkd": 21.99,
+      "changePct": -0.6
     }
   },
   "news": [
+    {
+      "title": "England's mayors to be given power to introduce tourist tax",
+      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T20:05:53+08:00"
+    },
+    {
+      "title": "For years, they warned AI could kill all humans. Now people are listening. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:02:15+08:00"
+    },
     {
       "title": "At least 20 dead after fire on cargo ship in eastern China, state media report",
       "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T19:49:25+08:00"
+    },
+    {
+      "title": "S&P 500 futures are flat as oil prices gain, traders brace for inflation data: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:43:15+08:00"
     },
     {
       "title": "Scientists are investigating whether popular supplements could harm the aging brain - The Washington Post",
@@ -65,10 +83,16 @@
       "time": "2026-09-10T19:31:58+08:00"
     },
     {
-      "title": "England's mayors to be given power to introduce tourist tax",
-      "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-10T19:02:47+08:00"
+      "title": "10 things we learned from Patriots vs. Seahawks - Pats Pulpit",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR0NBQlc1SkhJaENtZFNsaEhDUXB0R2RLODdIQy1OdVpaR0prOGVNelV0Z1dtOHhvNnRLRkhUcV8tNVpULXNwX0cxc1MxdFR0cENVckRXVWhJQ3JvamoxUGVYUTR3ZDVUcTJTdlNNTmUzTG9WWXpsdnNqeFF1dF9aaWxrdEdNOFIxN2Y3Z0pXelNVQkFZdVByUkVadFFlVDVkWVh4N0VZbDNsNFpMdUhmeFU4SnZEUWZpWnlQakl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T19:00:58+08:00"
+    },
+    {
+      "title": "Macy's posts strong results, raises guidance as turnaround begins to take hold - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PYlBkMmZwU2hLV0R2WHlkMEVZaVI2RkUyakd5dTg2ZE1zc010eFA2eDI4cE84MTQtaUZxVV9ocXg1b1hzSlNvWjN2SGdpbUk4dWZNdG1kYWRfNXJoVkRpazZBZFNzd3I1VTE4OUN30gFzQVVfeXFMUENOR0E0ekljTEpheEJzSFBnX3RNWGQwRUUxTEJObGJVVmxMcl9pZEZud3BTeThXeVJBSEJnZUhDUmJUOVRjTTVaeFZVZkdKN1Nrd1ppV2VYY3RtbUx5YlVRR1BDQzJTUU9TOG5FbDlMaFdtbw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T18:56:08+08:00"
     },
     {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
@@ -81,12 +105,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T18:43:53+08:00"
-    },
-    {
-      "title": "For years they warned AI could kill all humans. Now people are listening. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T18:32:15+08:00"
     },
     {
       "title": "Yemen’s Houthis Seize Strategic Red Sea Port, Officials Say - The New York Times",
@@ -107,7 +125,7 @@
       "time": "2026-09-10T18:02:26+08:00"
     },
     {
-      "title": "'Significant casualties' after fire erupts on cargo ship in Qingdao, eastern China - bbc.com",
+      "title": "'Significant casualties' after fire erupts on cargo ship in Qingdao, eastern China - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T17:45:08+08:00"
@@ -125,12 +143,6 @@
       "time": "2026-09-10T17:32:34+08:00"
     },
     {
-      "title": "Stock futures inch higher as traders brace for wholesale inflation report: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T17:22:47+08:00"
-    },
-    {
       "title": "Memorial on Anniversary of Charlie Kirk’s Killing Splits a Utah Campus - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmhqb29aWk9xNFBORXF0LUVrblBHejFpUlYweEpOOUpPV2o3amVraW81WVdLSWo1N3g0LXNZS2g1cEFzNmNQN2MweXZtYWRhSmRJdkRhd1VFeEJiNkN3enZTRDhLRkdOQ3VPVGV1N2FDY19ERjc4UGhCcW5ISmY2cVcwMG1meEE2?oc=5",
       "source": "Google News Top",
@@ -143,7 +155,7 @@
       "time": "2026-09-10T16:54:00+08:00"
     },
     {
-      "title": "The Democrats who aren’t criticizing John Fetterman - Politico",
+      "title": "‘Waste of energy’: Senate Democrats are sitting out the John Fetterman pile-on - politico.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGFtZTNITElGS1JiRFhnM1BrQzg5SElocGJ4MzY5UVRzVmFEMG15ZkZiQjY5MDZicFlEU3BxUlV5MTdCS3JjNlpmUkZqbW5hLWxsVHJTRjVUYTI2QmxaWHl1TzY4MTZFdlY2ZmozZXFkVWZXc1ZWVlVrcTA2X3ZNTVQ0UFRGMDlOa1FUMA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T16:45:00+08:00"
@@ -155,22 +167,10 @@
       "time": "2026-09-10T16:44:19+08:00"
     },
     {
-      "title": "Fetterman praises Trump in bombshell GOP convention video - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
+      "title": "Trump promises $5,000 'dividend' to U.S. citizens if Republicans win midterms - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5KMGZSZVh6UVUtZDZFcDFneGMwTlJ5WDFSdzRSVlZMWF9Iam1rOGtRRDlDOWs0c1BySjJBYTJnczlJb25PcjJhTWZZUFU1QURXVFZSaC1Ud2RjeDhxdXdSX0Z0Y1BvaW80dlo3ZF80Q3Ewd9IBd0FVX3lxTE1TU0VTcHl1NXMtMjdMdlhmZGQ1VlBIOWxZN0EwS2ZoU0o4em9MMnlaYl94aXgzWWRhblgzMnY2S1NfUHR2eGpyMEdTdi11OHVsRS1NSE5oXzJjMkZPazRzR3pVcUdJNk1uaU5DM2tRZFNON2Q5VTVN?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T16:30:57+08:00"
-    },
-    {
-      "title": "Trump’s $5,000 Payout Promise Underscores GOP Midterm Peril - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMF9XUGlDQV9qa0syZ0JtVWs5Yk9CdG9nU1djYzN5UU9zVk1KNHdhd2YwdTZKT1FhTG5Fb1Bra01MVVQ5OG1SVFF1alZsQy1kNC1oa1pYczV2a0ttQ1NnSUtTb1Zsd0JCQVJmaFJYSThoYUlNdUNBaDRxMUxZSW9oMk5TaFYwQmFqVk1iaDJKSWh2OGszTTlVMmlLclk3Rm44X0pHN2RCelk2R3NoOFZwR2hFWQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T16:24:07+08:00"
-    },
-    {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-10T15:12:32+08:00"
+      "time": "2026-09-10T16:39:10+08:00"
     }
   ]
 }
