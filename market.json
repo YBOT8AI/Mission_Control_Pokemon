@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-09-11T04:08:28.790070+08:00",
+  "generatedAt": "2026-09-11T04:39:37.628757+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604832.48,
+      "priceHkd": 605349.92,
       "changePct": -1.37
     },
     "ETH": {
-      "priceHkd": 19303.02,
-      "changePct": -0.17
+      "priceHkd": 19311.8,
+      "changePct": -0.25
     },
     "SOL": {
-      "priceHkd": 781.57,
-      "changePct": -2.59
+      "priceHkd": 783.84,
+      "changePct": -2.56
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5462.21,
-      "changePct": -0.59
+      "priceHkd": 5461.74,
+      "changePct": -0.6
     },
     "SPX": {
       "priceHkd": 59518.93,
@@ -33,8 +33,8 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1089.66,
-      "priceUsdOz": 4323.0
+      "priceHkdPerGram": 1088.6,
+      "priceUsdOz": 4318.8
     },
     "Silver": {
       "priceHkdPerGram": 16.06,
@@ -43,15 +43,21 @@
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 805.09,
-      "changePct": 6.91
+      "priceHkd": 808.3,
+      "changePct": 7.34
     },
     "Natural Gas": {
-      "priceHkd": 22.21,
-      "changePct": 0.39
+      "priceHkd": 22.27,
+      "changePct": 0.64
     }
   },
   "news": [
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T04:10:51+08:00"
+    },
     {
       "title": "Stock Market Today: Dow, S&P 500 and Nasdaq fall as U.S. oil prices surge to $100 a barrel and Treasury yields jump; stocks on track for weekly losses; Oracle earnings on tap - MarketWatch",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
@@ -65,28 +71,16 @@
       "time": "2026-09-11T03:16:24+08:00"
     },
     {
-      "title": "Trump to give $500 refunds to nearly 1 million Obamacare customers - politico.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLUQ5eXlzQWc5M3ZjVFZUYkpLc1VuampyZGthMXhteTVhUS10ckVfR1dQSHdLTkFJa0szTUtfbkhBOFhxT2FvVG5rU08xX1RneEZHVTRJNk40SWM5X3FMWFpFTVZCTFFGSTNud1JyaXhfeGlMcWFIV0FzU1BjY1VnbVF6YkUweGZ1X19ZUV9nbl8?oc=5",
+      "title": "Supreme Court blocks Missouri’s attempt to use Republican-drawn congressional map - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T03:09:00+08:00"
+      "time": "2026-09-11T03:15:50+08:00"
     },
     {
       "title": "Mercury may be shrinking faster than scientists expected - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmZRTXEtS0NXT3JsRi1yaTFqbm9sZnRrZmZvdzhQSWQxUEV5UndfVjZjNi1SQUN4YU53ZHJ3aTN6TEFkQ29LeXJaTGxBOHlDQ0FsSG9TeUpEZVBCT2R1Y0Nyb3FLelB6c2IzNGpSMjJnY1FBalNnZ015TWlSUDljRVNuZ19IM3BXT3c?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T02:59:47+08:00"
-    },
-    {
-      "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRjdDJFQkpOdjFuMzV2ZjExM0hJZjdXOWNxUHBsbGtHQS1aNHdsYlRhYkpJbTdLMlRYQWNRZTh5ellzejZsS3hYZTcyVTZsVGQxZ19YWnpaZzRoTlQzUTBCM2Z1UFJOVW9zbkFVT1M5SVF3d19TNmtoMXp5RlJ1TXVtX1pXMldmSHBJZTlsVEtfbmgxMktRZzUwM3dVVWhGMVRQVjNlVHVsT1V4TWZZRFExQUxpVDRDMnNxRkw4Yk5adzQyLUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T02:54:34+08:00"
-    },
-    {
-      "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T02:39:00+08:00"
     },
     {
       "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
@@ -107,10 +101,10 @@
       "time": "2026-09-11T02:19:00+08:00"
     },
     {
-      "title": "Jimmy Kimmel says he dropped Talarico interview from broadcast after FCC pressure - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRktyTy1qblBrX0RMckpielh6MmxiM3VvczEwRVZ3aVpaUmZDY0NRclVYZ0tERlVKZFllTGNQaGFGcnVBZjNULVZFYlBCQU83RnhUSzc0RUdzM0tuRl82UnY2TU9zSGlvdXNvWFdIbFJLUG1CX1VIYWFyWjdEeDRRQjN3dEpTUldiZ3FsaGJWd3Q4ZFEzanVSa1B6dWFEZTM4M3BGaVo2LV9MSS1Iam8tVU5iZV9KR2daQ0FRSGl1NWdfU0t2T0ww?oc=5",
+      "title": "A change in immigration status threatens thousands of Salvadoran immigrants in the D.C. region - WAMU",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcERSOWZ4WUg5a3lYelNWZ2pjSjM1Mk0xZm16NzlOYW5TU1h6bDFZaVg0TXJWckY3cFpFUlpDc2RQeXlYaUVUZUpJbzJXaTc2bnhKQ1BxMnlScGcxWFphV0Y3QXFCRXg5VVhYaEZQdUdBVlBsbXRwWElYaEdsNHJ5VTlqTGYxNmNBT2dMSQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T02:18:36+08:00"
+      "time": "2026-09-11T02:18:11+08:00"
     },
     {
       "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
@@ -119,16 +113,16 @@
       "time": "2026-09-11T02:15:47+08:00"
     },
     {
-      "title": "Supreme Court blocks Missouri’s attempt to use newly drawn Republican congressional map - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1NtZ01wa1hvRVEweEpfcm9mQUhPSUNEQmdFaEJLM0MxdFN4SUdWNkFCV1RaNVFyWTZXalV5czRFOGNwbWlIMDV3Z3ZncENManB3aVpQZkZ2eFRCTDRMY3FFZndXaThGdEFERDk0Z1ZSZHdaM3hLSC1qYzQ2aE81cmhKQUZJRS1WMEp0ajdtb0pIU3g4dVB2WVdvSHZob3JDSExzaVhUbl9iOWNoWWg1UzI3MlQ4cnpBUU1INVd2TlFZSGFlcVVv?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T02:15:29+08:00"
-    },
-    {
       "title": "A fossil feather from the age of dinosaurs may explain why only some birds survived - NPR",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeTFHeGI5VFpEWVRVY0dZNllkXzhIU2ROY0ViWVpPS2NkME9QaHFrUzl1bm1Hb2ptZEI1d0Qzb0h1eVNKZDV3eC1WSzExUDBJYTA3REhabkJfZmhPU1NxeWdJenZ4UW15ZkxreG1zbWZPOS1LZWlFbFVkQUlyOURpN0JvMDRaUzNtUDNiN0ozVnBhZ1NteVhBb29HVXhtRElU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T02:07:57+08:00"
+    },
+    {
+      "title": "Trump pledges $500 Obamacare refund checks to 1 million Americans - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSTd4MzFadGVoZWpKd0dPNWZLVEctRHRTMjJnUGV4QlcwdkpjZldsTUMzeWtjeUY5LXI1M1RpaXpNemt5a01PRkIzTFdFN2pvNF9NdC1WVDNEQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T02:05:34+08:00"
     },
     {
       "title": "San Francisco Mayor Declares Rent Emergency Amid A.I. Housing Frenzy - The New York Times",
@@ -137,10 +131,22 @@
       "time": "2026-09-11T02:00:27+08:00"
     },
     {
+      "title": "FCC commissioner: Kimmel’s ‘self-censorship’ shows Trump’s bid to ‘control’ media working - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUpIVmxnR2VMd3pFOXEyb0NfbUVoeEJ0TmQwcTZCZDhkbHRuUVNjUWtpR0pZQnRHMk1Bck1JSnE4bFVCZEwydUxHcTUxbDMyelhQRjdLTXZzcVhyN21fYnFaeE1Oc2NJcUhHVnMxRHhlZDM0UWFPM1RzZ1hCbW5IZWFPaVhwTnk4WTFYQ3ZOaENUUdIBlwFBVV95cUxQVVlac240Wi1rOW51ZzQ0cmJabk1vREtQQzI5azlCaG9DSElabTBtRmYxUlRYWjJDWHZNZnlJZ2ZJYnhub0k5ODRCUXNNN250X0Q5eFJQUTQyS1lfdjVFckRrSHkybUZyQ0N1eGhEeEpHa2ZNMTg4dkxYanhRc3lROVVJcUk2OUpJQkk3Y0ozYTVST1l0N2tB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:57:00+08:00"
+    },
+    {
       "title": "European Central Bank Raises Rates in Bid to Quell Inflation - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGlxa0FOS0lsVkNiRERaRE1FRjF2M092VmxtRG9GMGo5VG1paktWRFJ5Q1hRVkNfX0kwXzNnemV1NEJ4UHZmcFNSelRmdjRnbkQ5YmJtLW5LTTE2b1NFQmczbE1RdXV3VkRKUDJlRjFzeFhVTXplVjhfMC10SWVCWV9oZnRhQUtadm9naE1R?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:55:44+08:00"
+    },
+    {
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc3VUMUxmMTFMdjJYbkh0alRIWU5xTDltMC12TEhlWFBCWk1PYVZhTFpUeEV0X29fU3BoaXVsRUJteENCc3FfbFVwbDNNWEljYzlCZVEwdVpxcEIwaDY5UlVjNHdpN3B2dEkxZU1jbjl0cHk3cnd2eGJ1OHAwdHRCWmhyN2wzSXcwcmZmZVluR2VZOVh0RHpRbnVKQTk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:54:44+08:00"
     },
     {
       "title": "Bayeux Tapestry Exhibition Opens at British Museum - The New York Times",
@@ -149,28 +155,22 @@
       "time": "2026-09-11T01:51:16+08:00"
     },
     {
+      "title": "Edgy bond investors unconsoled by Bessent's big buyback - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2N3dTlTV3YtRHd0WmhTRE4tTDh6TzBNZW1MWHdaUHhPUzRnakxadDdCWUgwRjM1X3o0S3lmVFR4dV9JSl9uR2hEbzFFWG9rcGx4WDdwMFlNSU8wR25QWjBEUUpBd3F0Z2VlemZ0ODVQbWZxVktsYjRUd3QyOE82M1VDN0tTRU92OGdySlFUalVST1hldjVSNVMwMjJrVlJTd2RlZ1NVb1BkT1psQnow?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T01:48:35+08:00"
+    },
+    {
       "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
       "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-11T01:38:31+08:00"
     },
     {
-      "title": "Hands-On With Apple's First Foldable Phone: The iPhone Duo Redefines the Formula - PCMag",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0ZKeDFoZG9ZR3E2WG94UEQ3dkF2U2oybFN5RHdmM1V3MFVTcXFqamRrcjFQcHNINVpwa0d6a1FTTUF4amdvbkZJamdNTFdyR1IwS01nbXNXbFBzcGQ2RER2NkFLZXYzeFFtaFJqSjZHcHhoTTFpUzgxZXRySTlzUjJQS3NQMmRiN0RmX2RDWDdMU25ab0pCTGRR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:32:45+08:00"
-    },
-    {
       "title": "49ers' visit a dream come true for Australian Niners fans - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXlTVW93a0xyNUh5eXdxTUlSdVJ4OXhzWVluaktRYzJ5OWIzUWdTZ19SZjkyOTNsQ3ZDMHd3UTR4TGI3UUJjOFlTTm01SFFmZ1ZXU2xILUFxNk1WRG5VazJvMWlPWnZEUTZ3ckl0anZIVC1QMlljMUJuZXV6Z3dKaEtSZVdHcEVSLWpVTHpjaGNoVWhDUGNzWkRfMzg2U00yNS1lODUwSVVaSEF2bEV5cWhnQzVqZGVlcGpv?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T01:23:00+08:00"
-    },
-    {
-      "title": "Appeals court rejects Trump request to lift block on Postal Service rule for mail ballots - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOFZrTTV1b3BwWmJHdkIzcXFtcEhwREhhVTRuZ2g4TVljUnk5Y0kzU3RYRzhKQ2d5c2FtNmlRcGJoQWF1UUpsMm1rX2MwRWRfaElGSFJZMC05SmFCZzZYQjB4QmQycVRjXy1ZVUJRcDZwWGNKa1hORTMxMnpSdTU0V3FJMmhXMXZv?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T01:19:40+08:00"
     }
   ]
 }
