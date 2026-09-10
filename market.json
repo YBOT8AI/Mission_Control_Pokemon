@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-09-10T22:57:33.746978+08:00",
+  "generatedAt": "2026-09-10T23:28:41.125241+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606369.12,
-      "changePct": -2.02
+      "priceHkd": 604652.16,
+      "changePct": -1.38
     },
     "ETH": {
-      "priceHkd": 19140.03,
-      "changePct": -2.3
+      "priceHkd": 19084.91,
+      "changePct": -1.68
     },
     "SOL": {
-      "priceHkd": 784.55,
-      "changePct": -3.34
+      "priceHkd": 781.8,
+      "changePct": -2.6
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5471.14,
-      "changePct": -0.43
+      "priceHkd": 5473.81,
+      "changePct": -0.38
     },
     "SPX": {
-      "priceHkd": 59624.14,
-      "changePct": -0.41
+      "priceHkd": 59651.27,
+      "changePct": -0.36
     },
     "SPCX": {
-      "priceHkd": 1177.41,
-      "changePct": 1.78
+      "priceHkd": 1175.61,
+      "changePct": 1.63
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1098.96,
-      "priceUsdOz": 4359.9
+      "priceHkdPerGram": 1101.13,
+      "priceUsdOz": 4368.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.28,
-      "priceUsdOz": 64.6
+      "priceHkdPerGram": 16.3,
+      "priceUsdOz": 64.66
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 782.9,
-      "changePct": 3.97
+      "priceHkd": 785.41,
+      "changePct": 4.3
     },
     "Natural Gas": {
-      "priceHkd": 21.85,
-      "changePct": -1.24
+      "priceHkd": 21.79,
+      "changePct": -1.52
     }
   },
   "news": [
+    {
+      "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+      "link": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-10T23:18:24+08:00"
+    },
+    {
+      "title": "Unpaid Ebola Workers Let Families Touch the Dead - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVB6Z3hSOEVoenV6SWFJa1hOWkxwQVBTdk5kS2VTQnlWUHZuUGdZU0cxU09ndDlMcnF6YjRtUndLRHpza09ETlhTbElNQ2RuQVNVZGtYUlRrQUQ3WmFPcHF4ZEhneW5XQnE3c3lwU2I2X0xJSm9UYktFeDFnWktPcHhDNlI2R2NmWXJpcXdXbi1oaGlr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T22:54:08+08:00"
+    },
     {
       "title": "England's mayors to get power to impose tourist tax",
       "link": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
@@ -77,22 +89,16 @@
       "time": "2026-09-10T22:28:58+08:00"
     },
     {
-      "title": "Republican chief election officials say it is too late to implement Trump’s mail ballot order - Politico",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ1pDWm00aWptd2JsZG5FcHVveVZ5cUFaeUhGY2hPREgyaUlHOGxORm1jazN4RTBKazRPajROc0g0a0J0UmY2UTZ6cVExSTVyS2lRYXB2RklpYXA1Q2dSdEMyQWdiZUFza1lVZmN5dlE0WDR2bDk3cVVyRDRjOEhLS3E3WE9fbVRKVllUZE5QVHQzTFJSV09aT2Zqdk9UOTlyVkU4RzRR?oc=5",
+      "title": "Stock Market Today: Indexes Fall After PPI Inflation Reading Comes in Slightly Hot; Oil Prices, Treasury Yields Surge Further - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0J2Wmprdy1lcEdXZXMzTmtBZ0tpTVhOQjRFM0NRWTJXSl9JUDR3RHdFR2hSMEZ0VnhncmRaOHBjNVZyamhOX3E4eUNpY0hEeE5kcWZNMkxQaV81ZV91aFdYUFVGb0dNMlptLXQ4QXJrZFJKRkt6SFZ4WlBCZ2RySGUtQzdhbUE4RHpUdEZqamQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-10T22:16:00+08:00"
+      "time": "2026-09-10T22:10:10+08:00"
     },
     {
       "title": "Primark introduces home delivery",
       "link": "https://www.bbc.co.uk/news/videos/cn0jr4zndrro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T22:07:54+08:00"
-    },
-    {
-      "title": "Home sales fall in August despite the highest supply in over a decade - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ia29VR2F6VmNMcjdJS3pRUG1sdTNXYnJ0dWQzdmJWRzBldnItRlRLV2k3NlZ1Z1luYm9Rck5SbWZJa0ZaUU9TalBmdnc4V0ZnTkhBdjRXT21qd2lZdWhfS2wyVVJDMU4xMm9xQVZR0gFzQVVfeXFMTXpQbFNyY0l4RnRqcjVlUk91WjlFRTY3Z3pxaHhVbnFxWlFBY3BaZGJZOU82cldqZm1IamVDX25FMHhNM3Z2QnBkdVZheGkxbHYwUnJNN3o3VU5pOTR1Y3pIRzFkc0FEblEtU0R6Q25tNmlYdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T22:05:59+08:00"
     },
     {
       "title": "Apple Watch Ultra 4 and Series 12 have surprise upgrade that wasn’t announced - 9to5Mac",
@@ -105,6 +111,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cy9znljypnjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-10T21:34:17+08:00"
+    },
+    {
+      "title": "The ‘Waters of the United States’ Are About to Legally Dry Up - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZjc1SVZjVDNsR3R3eHB6M0Ricy13YjNPSW93Q2RWNUVkS0RQdXRYWnN5NjlNU0ZVeTdvQW1URGFhdmtfRWp6Y3pUdC1HVmNhSlRvLWVBMVRtRGQ4NXQ4dlRnMGVfcTF2ODh6S0d0WFZyZHBHNGV3c28xa1FZTlVqNHRWb1hDY1FHUXRTUUVhSWVSdmhqa2NWTWFwSXhWQ3dGbUloUm9mUkc4QWVNZzd6YWo4bDU1T1U?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T21:25:00+08:00"
     },
     {
       "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
@@ -125,52 +137,40 @@
       "time": "2026-09-10T21:12:40+08:00"
     },
     {
+      "title": "Kimmel pulls Talarico interview after FCC threat - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaE9Kd0lzd1R1MVBRYjZ4a0hJdnE5V2pwMFAyVktoVUtnVW1VNVE2YkJDZTNoMzVxM3dhcHVkcDVjbE1mUlo1cVNTLXZVZDM4ZFNQZEFSczk4NzRaektHUUZraFBubmRHTHg3MTdLWlhnSEpzTGh3UEN5ejNfSjlqVkNwV2ZNT09sX2FuZ3ZBYVVzNjhwM1ZlSF9ENTY1aVBkR3VrSVFiQkJianY4aVpuWHJn0gG3AUFVX3lxTFBmS1FTRlRYUkwzbi1rOXpoOVlIalNSWDhSM1pXa3NqQVEwSTlwWFhkYlZhVEEzT3drcFZUbWh5Rng0MlltOXhZc2I3djU2VXMxczE5NnBCa2xDNVc5UlBBMEl5ZC10VTlSWnZDTWpXU25TMGZER2cwbU1Zd2hpQjdkbGMxWE94SWRfT2hSTnY4Rjhrc2lZbnMyRnMtRE9WODZuTHhEVHZsYmV2ZnIyVVRFLUpVYnNkSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T21:06:00+08:00"
+    },
+    {
       "title": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVmNITlFwV0FlUC0xOEItRThDaHhmYkVGOGMyUTRaalNEc1lHQXRDaGx6SUF6dUd4NVd6NXdSOExaN1ZGTWdkWEEwZDhTYUFmVFY2MW1LV2I3LTJWM1VRaVVFZkFtV2s1Q0VkWDZjdmJGWWlKM3Y2ZHZuZHVSQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-10T20:54:28+08:00"
     },
     {
+      "title": "Generations of Americans remember exactly where they were on 9/11 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbl9VVHhBUElYUTJHU3dfcnZZUGFqdDBMWDA0MmROUnZUUHlDSUUtTGV2Y3ZDTnN3WUdIVHE3VllXX29qUzhqUnB0ZllDNFk3bVhOaDZGbzNLUzFiTlZPYmV5VktLcGUyd3Vka1NKdW94TnhsMGRlcmpaNERvZUJLVm5xOTFjLVlNb1VPWjJzMWFUMGxob2VsSk9NdFRxdFc2dFpwWkphT2lUeHhO?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:50:00+08:00"
+    },
+    {
+      "title": "Sánchez’s release of declassified Ceuta files turns into ‘own goal’ - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTEwZU5OYkxCbmtpTTVLVVVjSnhNTlJlODUtQnRPcFUySE1DM05Fd3JHTFE2MGc2QVE5QnpKLTJfQXlvbXJ2VGI1d3A3RVZfSXdUeDdHV1lrTEdRamJRU3g3VzFseG9GV21VamFzRTItVnFzUFl4V2w5S09fMkwxTExMT213cmVyUkxTMDhKRGR6Q2xIdWNwX01tRDN1b1JZbkx5OQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:43:00+08:00"
+    },
+    {
+      "title": "Iran is running out of options, Trump says, as US military continues to hit regime - foxnews.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbms5eXgyZ0hQWk5QRWplVmNudkZLQ1VKT0dzVWRIQjZmaWNscF9acWxkTkxvdV9VYlBXZGZtMGZYQktHV1lWV3pPeVd3b1VhOGNWVTBVTVpMbFZWMkNMcUFpTDF1SW1wSE9XMXYxYm1fTWwtWW5sLWJuQmZxMmJ3UTRiX3paQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-10T20:36:14+08:00"
+    },
+    {
       "title": "Twenty-five dead after fire on cargo ship in eastern China",
       "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-10T20:24:54+08:00"
-    },
-    {
-      "title": "Twenty-five dead after fire erupts on cargo ship in Qingdao, eastern China - state media - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42VW9fc0o3TXhuVnB6Nm9TZlI1VGJkS2pQMWc2cVZ5OEZxU3RmNGVVcFdBQU5NeU96ck1vYzNXTXNsbFU4Wi1qR1BQVUxaTGRTUVRIX09wY2Ezdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:24:54+08:00"
-    },
-    {
-      "title": "Harry Styles Reveals 2027 Tour Dates - Pitchfork",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xZHRvX09ueUdENlNUTHNRV2JXdHpHMGFzcVNXeTFnMlhZZXVrS05mN09fd3dqYzVIYnA4TUU2LVRIOGU3VWM2d1ZUazBWSEtSVFdqbE9KZmswQnF4QVZHVndLbUV0RDlYTURpWVBVYVdQRWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T20:19:01+08:00"
-    },
-    {
-      "title": "How to Watch 49ers vs. Rams: TV Channel, Live Stream, Time - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0xBS3dvRWl4Z3ctcUU4NjBFUy1TellZNl96RDgxWHRIMlc2T1RUNWZjM1o1NXRmbDZSQnRvZkVURWlUMWpMMldPWmVTREFnV1FOYmNLLWdpVFhBQjRUT1hGS3BLVHRYVVlqd3N0QklnZEctWGI0SGhmTTRzM2ZaS0FuUW5LSC11R3prdzVUUUFjdlRPRWVDRHgyYUU5aEhGLVNwQkRrdGZLQjlES0xmeVFkczFLUG95bTExNVhlSzNkU3hLWHlBWF9oVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T19:51:55+08:00"
-    },
-    {
-      "title": "Fetterman praises Trump in bombshell GOP convention video - Axios",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSWV8xSEdPRjE0eGh5c0hucnlSODNGYldidjJDYmpBRjFvUkZsV3NldmVXekNla1c4SkUxc3gwRTJONHFMb3VaTDZsTVFkQXhDVTBhekg1OEQ4aWNkbldkUWJZNzJtSG80alNVNGVGdnYtd3MzaHZ1LQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T19:31:26+08:00"
-    },
-    {
-      "title": "Bessent fails to shock and awe the bond market - Axios",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZQXluVjJ3SUhrMWhwNWEwZS05cGVUdzdiUDRNWUpNSW9WNWtGTi1WQ2x1Z3NUU3p0d29zZzk2TFFacjhia3FHNnJFeG55dG9qMUdCVXA2SjA0WDVFUXBKbE5lcmZWWG1BVGRmZ2Y4d3Y?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T19:15:47+08:00"
-    },
-    {
-      "title": "Jimmy Kimmel’s Interview With James Talarico Heading to YouTube to Avoid FCC Hassle - hollywoodreporter.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWpORXBNcERCTm5WYnpFQi1lY3djQ0dnd1N4QWROTjlyLWJuZ09UY2V2U1padVdhTjdSLW8xYWo5VWxiZE5fNTJlY3ZMbFBvV2MtcmY1d0pHbTdUMzdnZFVJQ21XYnE3T2JxNnBjcXlCS0lobi1BQlNpZ3Z6U3F3MnM1Z3ZaNVhnamNLaGpocUZJRVNrTzRPbmt2MnNLazZEQjd0WWU1SlVCOUdSWHNfQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-10T19:12:29+08:00"
     }
   ]
 }
