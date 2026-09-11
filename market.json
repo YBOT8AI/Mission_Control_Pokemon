@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T11:23:21.686183+08:00",
+  "generatedAt": "2026-09-11T11:54:24.902529+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602190.4,
-      "changePct": -1.96
+      "priceHkd": 601923.84,
+      "changePct": -1.98
     },
     "ETH": {
-      "priceHkd": 19173.11,
-      "changePct": -1.2
+      "priceHkd": 19154.69,
+      "changePct": -1.24
     },
     "SOL": {
-      "priceHkd": 777.26,
-      "changePct": -2.67
+      "priceHkd": 778.04,
+      "changePct": -2.47
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1086.76,
-      "priceUsdOz": 4311.5
+      "priceHkdPerGram": 1084.82,
+      "priceUsdOz": 4303.8
     },
     "Silver": {
       "priceHkdPerGram": 15.93,
-      "priceUsdOz": 63.22
+      "priceUsdOz": 63.21
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 808.38,
-      "changePct": 7.35
+      "priceHkd": 807.28,
+      "changePct": 7.2
     },
     "Natural Gas": {
-      "priceHkd": 22.24,
-      "changePct": 0.53
+      "priceHkd": 22.2,
+      "changePct": 0.32
     }
   },
   "news": [
     {
-      "title": "Rabies cases increased 17 percent in July and August, CDC says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnBCZlRpcE11THVIMVRFNDYySXFUVHlYdG9oVVhOMkVHbEdjZW5aOHk2eE51NmZDUlUyak1lT1Z3RlE5U1BVb0o5QzZtcWlzeF9XU3BoR3dOVkpzUThQa21iX3dXcHUzRHFUN1RwVHBfYlJYSlhRMHljZ1FfZGt6dDQ0UlY1SGY4Tlp4SENNZ3o2VFJNM19MSlF0eG1vdjgxT2tYd185MA?oc=5",
+      "title": "Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVE5WaUVsam1zQkNmUndrUlFvZkF3NW80a0NkekZSODZGQVVpX3NaSkJPc05YZktKNWQ4akRySHRsMGNWTVZVOFRrYUVnUlNaRElfNlBLWUdWa0NibkpGeWZ2NXVMZ1Rqb2xSZWxoQ3p2UnFpNWdGbWxpdWFmcUlrYno3QlBtN2huZS1mTUpvdXI1amNEYm5vZXBPSjVtcWNQdWxkVHNpOS1ETk43Ri1tZUloZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T09:52:42+08:00"
+      "time": "2026-09-11T11:30:00+08:00"
+    },
+    {
+      "title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0dRcFNZa0xRbFNXQzc3YkFQVGVwRTVPU3V2cUVVYkFQSG53Ri1pRTB0cVV2Nl9QdHRaWjgya1VCbDhQdEk0dHJkVEx1eGVoTW1acnZVMXZteVZPRHRYY3BxZTJZazhwTGZDTWhTTnJXWG9CaGNRREhKN1hJdHhGdmVJWXJzN2JPN0QwMg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T10:01:26+08:00"
+    },
+    {
+      "title": "Brock Purdy long ball to Demarcus Robinson gives 49ers the lead back - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVB0OUJXcTI0TXdqS1gyTUJBeUtLWHpFTjBfbjE0R20xTHplVnJVanZTZ21tRXhock95Ti1qWk5aNTJ1WGtxT3Fqb1NETVRZQ1dnby1veEdRS0wxbG92el9UX2U2Vmw4SDB5M0NZRXZuclQtZEhEQUI1Q2dLMVc2UWkxNEN4T1hYMG8tWGxvU1h5cGwxZG5WU0dfYU15R3ptMXB4Q09QSTZCNWFUS0ctRHBoQ1FIbGVuOWhYeERFQ1RiSmI0X3U5OHlB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T09:45:31+08:00"
     },
     {
       "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
@@ -77,10 +89,10 @@
       "time": "2026-09-11T09:28:31+08:00"
     },
     {
-      "title": "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?oc=5",
+      "title": "Caffeine may help cells age more slowly, study suggests - NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlWWWhWU1RqNTZuQUx1TXZzdzUxOW5GV3N6MlljSTNHYUVQXzFOLVN2WjFDVU5ael9QMDBYY1hBN2hsMDBzRzV4TWwwU0tZNVFBaGhtWVllTUh4MzBJbFBVd2hGUTBZUEZ4TEZjX1JHM2ljMzU2TV9teko1X3FtRNIBhgFBVV95cUxOZFBEQzZGUmY0VWVMYnE3ZDVfQkRKY1B1UnJqb1NDQmFFbVpkY3JLNTB4TmdhbHdKSi1nUEQwbWJJdklSRVNGNWpmOC02cVp4Yk1QU1pyYVFmcndCT0xSOXVQZDYtU29HWHUyWUYzbm5INUpGME5sYVdFUC1mLUE3U2xCQkxfdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T09:25:53+08:00"
+      "time": "2026-09-11T09:09:30+08:00"
     },
     {
       "title": "Coach crash kills several people in Swiss Alps",
@@ -95,10 +107,16 @@
       "time": "2026-09-11T08:57:00+08:00"
     },
     {
-      "title": "Live results, best moments and analysis from 49ers-Rams - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPamZ5SUFrbnhoZnRURzNISWh6Vmk1NGg0ZGFzQktpS3lUTjlER3RDRUJVLWFzbTVqamVUY0VqSXhZWVVUMkQzdHNzaVlCVnRnV241eWNjY2lBX2RGTWQ0XzNBVWE4LXpRZ3J0QXJjS0sxSUg2aXotdWhDYTVUSzV5bnpyaExNck1RVTFuUFYtRFJWd3I1VjJ2OE9uWmRLeThWeVpSLW16YjliQ0ZfLXZrZ2pfeVJqdHpHekN4RF9WUnB6aXpUMTZTZG03VVRiSnNuRWQtV0tvSk5mWGFqLUdnbzVHbE0?oc=5",
+      "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRjdDJFQkpOdjFuMzV2ZjExM0hJZjdXOWNxUHBsbGtHQS1aNHdsYlRhYkpJbTdLMlRYQWNRZTh5ellzejZsS3hYZTcyVTZsVGQxZ19YWnpaZzRoTlQzUTBCM2Z1UFJOVW9zbkFVT1M5SVF3d19TNmtoMXp5RlJ1TXVtX1pXMldmSHBJZTlsVEtfbmgxMktRZzUwM3dVVWhGMVRQVjNlVHVsT1V4TWZZRFExQUxpVDRDMnNxRkw4Yk5adzQyLUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T08:08:45+08:00"
+      "time": "2026-09-11T08:54:35+08:00"
+    },
+    {
+      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmNMTm5sLWlLTEZkMUg3cm9Fb2lqVEYyOGhhcE5YemdTcjdMaXpGVnAzSFZKemxQSXA4Z0NsblZtQ3RCS2tHbUJMbkotQkI2YzVXZ2xBVTJaTEVuOU5kYTA2eDl2VTg5bVZSRlltUV9WTG0xWURzYzZHM1lCeUdzRmVscWVDQ252ZGdzSTdNc2pEcjTSAZgBQVVfeXFMTktYVUpGdGl4TXk0aDZBNWdfNTFMSUdsRGNkY1QwNm1Va3l1UzYyX194eHRtUmRselJ6bUxOaTF2Q2xSMDU3b1k2MjJDXzNQUHlySHRVV3NWQ1IzZTZaZlRKRGZXbm9nbU80YnhPcHJqWHFsSV9HQ2lYWFhyeU9sRUhTM2ZzTlVodWxaUWZibTZRT3NPUWRuQVM?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T08:19:00+08:00"
     },
     {
       "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
@@ -119,10 +137,10 @@
       "time": "2026-09-11T07:41:46+08:00"
     },
     {
-      "title": "Apple’s foldable iPhone poses a $1,999 question: Who is it for? - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5",
+      "title": "Missouri Supreme Court finds Denny Hoskins “was in contempt” over congressional maps - Missouri Independent",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUpoZVhNNlh3SzEyQ2dxRklFbmVCVndsQUE4N3RXa055Q2xXZjBXZEJzbGQ5NWRmWjJ2WkxZdkdfNlRrV2VLbnBSOVNZNGJ3Sm1HUE9PWG5UWVRFX2Z4ZGRaQzJQckFqSUVzT28xcUlZcmxjNzF6S2dVb21PUXUzUWR3REJoNU5MdXpDMm82QlZ2MXFFb2x5MS14V0hhQ2JUdXdfQmxGMk82SUptUFU5bk9Gbms0VkQ4Uml3UWxxWVM0YTQ5?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T07:40:00+08:00"
+      "time": "2026-09-11T07:40:05+08:00"
     },
     {
       "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC",
@@ -149,28 +167,10 @@
       "time": "2026-09-11T07:03:09+08:00"
     },
     {
-      "title": "Bessent: US to sanction large bank on Monday - The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MLXpEb2ZBcDJVamw5X0xzSjNlblY3TWI0YTdfc3B5aVpVRTQtRjRXUVlWdXJpR3AtUjBEVGg4Mk1vNDFiVnVBT0pYb2o2akc4RXNmaHd4UWF3S0lCXzRB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:01:21+08:00"
-    },
-    {
       "title": "Watch: Three times Trump has promised money to Americans",
       "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-11T06:53:00+08:00"
-    },
-    {
-      "title": "Fenerbahce coach resigns after draw with Roma – but president insists he will stay - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2dqbERFdzhjYTRGa3ZJUmw0c2FpWFpPNUFZakdvdjQtdzdCdFhISmpZQ1ZzZDBSeWJIMjZWUjY0MlVmTmN1Z2FPVC1yXzExMU5hNThJVlE2ZjVNN1ZfeEdqbHliWHdKYmJKUHp3bmJrNFFfR2tyc24yNjBNTl9OZDJnclAzNkxoWDQzV0lVMnBEdjlDQ1FoakQ0djlVREFyejZEYmFiVmZBMDl6WXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T06:50:00+08:00"
-    },
-    {
-      "title": "Anthropic details bad actors’ efforts to misuse its AI for bioweapons - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSTIwVWNDN0RvcEhNZHl6cThaWnhtcVlyN2hfWTl2REYzQ0JuWk5GX1pvcHZVRllvS19WckxaQWpaNkVFMFFqX0RXd0hiazlzNVdNQWV4T1E2bXY5SnFMVFptaTNybHNKazgwLVhVMEsyOW4ydFJTcmFiVWxJb29wUl93Um8tMUowTFUySWxn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T06:46:00+08:00"
     }
   ]
 }
