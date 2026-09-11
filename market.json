@@ -1,98 +1,122 @@
 {
-  "generatedAt": "2026-09-11T21:13:17.758231+08:00",
+  "generatedAt": "2026-09-11T21:44:25.589667+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608501.6,
-      "changePct": 0.88
+      "priceHkd": 609654.08,
+      "changePct": 1.04
     },
     "ETH": {
-      "priceHkd": 19597.8,
-      "changePct": 3.36
+      "priceHkd": 19688.28,
+      "changePct": 3.48
     },
     "SOL": {
       "priceHkd": 795.29,
-      "changePct": 2.16
+      "changePct": 1.94
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5461.74,
-      "changePct": -0.6
+      "priceHkd": 5513.4,
+      "changePct": 0.95
     },
     "SPX": {
-      "priceHkd": 59518.93,
-      "changePct": -0.58
+      "priceHkd": 60090.7,
+      "changePct": 0.96
     },
     "SPCX": {
-      "priceHkd": 1161.73,
-      "changePct": 0.43
+      "priceHkd": 1157.26,
+      "changePct": -0.38
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1105.21,
-      "priceUsdOz": 4384.7
+      "priceHkdPerGram": 1107.66,
+      "priceUsdOz": 4394.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.36,
-      "priceUsdOz": 64.9
+      "priceHkdPerGram": 16.42,
+      "priceUsdOz": 65.13
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 772.95,
-      "changePct": -3.8
+      "priceHkd": 775.53,
+      "changePct": -3.47
     },
     "Natural Gas": {
-      "priceHkd": 21.94,
-      "changePct": -1.27
+      "priceHkd": 22.02,
+      "changePct": -0.88
     }
   },
   "news": [
     {
-      "title": "US inflation picked up as gas prices marched higher due to conflict in the Middle East - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T20:58:00+08:00"
-    },
-    {
-      "title": "Live Updates: 25 years after Sept. 11 attacks, America reflects and remembers - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3NidkdISmFyakJJdjcyTlFDRl9mUmY3Qjl4THpYYkNXX0R6ZjdGenZYOU1wTUw4OEFIZlBjTVhmZEdLdnpsUmlISmE1ZHBJUm9yQ2FwQkFFTTlfU1dhQjJPZWZDTjltUENsRE1xQXh1RjNwNWZiMVZxRVlNWFhVcDVpb2FsSVNFZ2Y1T01BUmdRZGM5dmxDN2NtV1Rxdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T20:55:00+08:00"
-    },
-    {
-      "title": "US inflation holds steady as diesel prices pass $6 a gallon",
-      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "title": "Interest rates could rise again across the world – here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-11T20:54:50+08:00"
-    },
-    {
-      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T20:52:39+08:00"
-    },
-    {
-      "title": "Stock futures bounce after 4 days of losses as oil retreats; traders weigh CPI report: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T20:39:43+08:00"
+      "time": "2026-09-11T21:35:29+08:00"
     },
     {
       "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQl9fRVVpMllISDRxc2dyUFFaclJabXYwTDlUSnFqWXdMV042TUUxQXR6NkUwOUVaV0I3elJ4ZjE1aHRZNlcxdndSbFpkTG5LdExQdmRHQXJkWHBBeHhacG1JRjhsakh3eUJuYi1CVmNDajlPWU1tOHlZLWdDV3VGNXlRZV92M2hpQ3I3Ym8tZ2Q5akRKWGctdGhZSWhGR3VQYmRGN09IbV81WVpFdWgyQ1lZWjFIdUpfZC1uUzI4T3E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T20:36:34+08:00"
+      "time": "2026-09-11T21:34:44+08:00"
     },
     {
-      "title": "Diesel prices in U.S. top $6 a gallon for first time ever - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1UllOUmRnRTJ2NGV0QmV2SENfMV94N3RNNWZldFEwV1cwbThGb0ZaUmltM2MweWM2NUNEUkpodl8xdGhVVHJOUjExcVN3NC1XazQ2WnBvRkU5RTU1R1YwTXMzRDVsMjd1U2tZZjZWRmU2cE9M?oc=5",
+      "title": "US inflation holds steady as diesel prices pass $6 a gallon",
+      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T21:32:24+08:00"
+    },
+    {
+      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T20:20:18+08:00"
+      "time": "2026-09-11T21:32:18+08:00"
+    },
+    {
+      "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve - NPR",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRQWRuN0V6NEtQZlpFLWZCRUx0Y1RvSWlHeVRXQmp6UE1KeHpDMHRTbVpRenF4ZXRZdDlzSUtGLVRmQ2FPTHJHVDJTNGhNNWlpb0lfSXBLaE9ENEpkWTc3cWhtS0h1NDFUUmZhajhLZ1ZWbnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:29:09+08:00"
+    },
+    {
+      "title": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3Y0NFRsRkc3X1ZHQ1BMZ3h0R21RMjNQeXBSX2xCcWRtcjFraHFoQXhDWFVRVzZFbm1XZmtKdWpRNXdVaDFHMkxuLUlZei12OE8yNzhZUVVmeTNQck44TlMwZDdtV3ZFcGhQcm1hdk40Q2dQWkY1VGJBRDBOUEpoeDBRNUZ6QVBRZmc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:22:00+08:00"
+    },
+    {
+      "title": "Iran-backed Houthis reportedly reach strategic island in key global shipping route - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSE95cGR2SXdnajBUV0xTUGdFUnFVNThSWmNzMGxuU252M1J5TnBYTUtra1dfZm9qcjdTVlpHTGZPMGp4cVBhV3RQYTFnLXFubktyNnZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:15:11+08:00"
+    },
+    {
+      "title": "CPI Report Today: Inflation Rose 3.4% in August; Odds of Rate Hike Jump — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFbUozNDVTLXBZcVRyRHJqeTBsZ3pFeDUtWDhrZ0E4bUowUjg4aXBkc0poNTFiaDlYZVJzbGJmTHBtdVhBN1hkYlVWWThpTnlIZWlsbGhLMjcxUjVYNGdNOVZQSkN1bUxqRGJfd01Ub0lwUXRBeHQ4YnpR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:10:00+08:00"
+    },
+    {
+      "title": "Stock futures bounce as traders shake off firm inflation data and oil prices retreat: Live updates - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:07:30+08:00"
+    },
+    {
+      "title": "F1 Spanish GP: Mercedes tops FP1 with Russell fastest at Madring - Autosport",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9vRzR6NFg0d2xFRW1VWEVQaHpNMGplbWU1NzdBeUhfQnp4c09yUFpQNzNua1NFX0dvZTJLeXU0QWJaT0xCT2pyOWc0RTcyTERCc0hJRkdTV3g4cWpoOGV4TUpUbjQtQkpZMzg5bUdDU3lMR3c0MHdn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T20:49:49+08:00"
+    },
+    {
+      "title": "Gold prices holding its ground following muted U.S. CPI data - KITCO",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2hXb1kyb0xYU2ktbjNLaVJRRTFqSndNTXBMZ0ZFV2lxa3BMdHAwQl9XX1JCeTdHSDZrV3JZY19kVnVLQmdHVUY2WHNsaEF3ZTRtc1VBeFAyUXZuVVZra0JOcDZmLUZ1TUd5Um1ST3oyWWpRc0Jic0EzQzQ0bzBwejNyME10eEVfWTVGdHd6dHR5QUItSlBGY2dEc1N0aElrNzNDQWdYUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T20:47:15+08:00"
     },
     {
       "title": "I moved my shop 20 miles because I couldn't afford £300 a week on fuel",
@@ -101,22 +125,22 @@
       "time": "2026-09-11T20:14:09+08:00"
     },
     {
-      "title": "Trump is to commemorate the 25th anniversary of the 9/11 attacks at the Pentagon - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3Y0NFRsRkc3X1ZHQ1BMZ3h0R21RMjNQeXBSX2xCcWRtcjFraHFoQXhDWFVRVzZFbm1XZmtKdWpRNXdVaDFHMkxuLUlZei12OE8yNzhZUVVmeTNQck44TlMwZDdtV3ZFcGhQcm1hdk40Q2dQWkY1VGJBRDBOUEpoeDBRNUZ6QVBRZmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T20:10:00+08:00"
-    },
-    {
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T20:04:46+08:00"
     },
     {
-      "title": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nYnZISk5EY2oxMWtueXNNT3lGM2V2UEVHMHJSMUdnM3NnejZjTlN4WTBlNks5dy1MN3VhMERkRVhIRENxSTRQTFRleGhhZTFpTnhWbEZSLXc3c1FfTlc3TGl3?oc=5",
+      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T19:44:58+08:00"
+      "time": "2026-09-11T20:01:00+08:00"
+    },
+    {
+      "title": "Apple's iPhone Handoff Feature Will Cost You $5 A Month On T-Mobile - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlVpakFjVGJ1UVdDYnIwakNFbFpHOHluNFhrMnFDSDFXb1BJUlVqUFVsZm84Yzc3bkVUS0E5NzB5VFRFSWlIRzZ4YlIzeWV0LXhrRWREWmpGUkdFUXU4N0phd2ROM0tiNnlhb1M0czFRaUVUUDhqTmN0TjhvWlUzR3Nn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T19:57:16+08:00"
     },
     {
       "title": "Israel says it has destroyed major underground Hezbollah base",
@@ -125,7 +149,7 @@
       "time": "2026-09-11T19:34:07+08:00"
     },
     {
-      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - mashable.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T19:15:53+08:00"
@@ -147,30 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T18:31:18+08:00"
-    },
-    {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T18:17:28+08:00"
-    },
-    {
-      "title": "Six Nigerians accused of romance scams to be extradited to the US",
-      "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T17:54:51+08:00"
-    },
-    {
-      "title": "Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUczQkl0VENLSzlpaUdpSzlpUU14UmZwVEMyNXNmdjZMcEw3TGVTMEFFbTR1ZEdNSm5SaC1scW9KWFNxcVVPM2Z1RzJ0YlVwQ19HS0MtckNHOVRQbDhhSGYxSEs3X0NFR2x4LUJiQm1nTk5aLTZqNHhqMHIyMHZRM1BwYUtZdzhGbkJfRzJGWC1JQ0FDLTQ5cGcwR0JQT0ZPNHdLS2hn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T17:50:00+08:00"
-    },
-    {
-      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
-      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T17:38:23+08:00"
     }
   ]
 }
