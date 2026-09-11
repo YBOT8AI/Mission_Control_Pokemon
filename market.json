@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T13:58:39.041677+08:00",
+  "generatedAt": "2026-09-11T14:29:40.892011+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605169.6,
-      "changePct": -1.66
+      "priceHkd": 605616.48,
+      "changePct": -1.21
     },
     "ETH": {
-      "priceHkd": 19333.6,
-      "changePct": -0.59
+      "priceHkd": 19331.72,
+      "changePct": -0.29
     },
     "SOL": {
-      "priceHkd": 782.59,
-      "changePct": -2.15
+      "priceHkd": 781.18,
+      "changePct": -1.95
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1096.52,
-      "priceUsdOz": 4350.2
+      "priceHkdPerGram": 1097.2,
+      "priceUsdOz": 4352.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.18,
-      "priceUsdOz": 64.19
+      "priceHkdPerGram": 16.16,
+      "priceUsdOz": 64.1
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 791.45,
-      "changePct": -1.49
+      "priceHkd": 794.35,
+      "changePct": -1.13
     },
     "Natural Gas": {
-      "priceHkd": 22.12,
-      "changePct": -0.42
+      "priceHkd": 22.11,
+      "changePct": -0.49
     }
   },
   "news": [
+    {
+      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T14:28:42+08:00"
+    },
+    {
+      "title": "UK economy grew faster than expected in July",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T14:26:50+08:00"
+    },
+    {
+      "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T13:53:06+08:00"
+    },
     {
       "title": "Scott Bessent fails to break ‘fever’ in US bond market - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5",
@@ -77,6 +95,24 @@
       "time": "2026-09-11T12:10:24+08:00"
     },
     {
+      "title": "A Year After Charlie Kirk’s Killing, a Divided Utah Campus Honors Him - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYmhqb29aWk9xNFBORXF0LUVrblBHejFpUlYweEpOOUpPV2o3amVraW81WVdLSWo1N3g0LXNZS2g1cEFzNmNQN2MweXZtYWRhSmRJdkRhd1VFeEJiNkN3enZTRDhLRkdOQ3VPVGV1N2FDY19ERjc4UGhCcW5ISmY2cVcwMG1meEE2?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T12:02:00+08:00"
+    },
+    {
+      "title": "Why a Russian screening of an 81-year-old Soviet-era film to a tiny audience has alarmed Taiwan - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaW4zeGxWY1BlN2kwcnpTNHkxOFFnZzYyQ1BQTVUtb1ViVGg4SzhTNFdETnpwcS0ySWR6QVdxOHU1TTg5V09IMkdqOUp6bzE4eFlraVd5TGMxME1yZDE5VGFYMjVHXzNIczJHUzlOblpGc29CWUI2Rkp1OU9BSmd3dVMxNkd3YldCek12MmMyZUlnb0J1aFhnZlRLOGp4czJuMlNvMTB4b1l6eTZvSkJSUjByeGhDMjJCZjlXOVZ5Szlxdnp1?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T12:02:00+08:00"
+    },
+    {
+      "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTFnN2RUWHlyTzFPeHktZVhTUEhuMGRLUHFZd05XMnFGUDNvVk9RNUw1QkVEbUtMYnlrR24telBNblRMTmcyOFJSZ1NYak4tV3FzWklLNVNvaGF4eGcxa2hCOG9pZHdWU3hvcTdEcjFCSEZMRk1kSERCa3pHdlRiTXRaSmR2a1dBcWNSWkdkQ0JyM0V2YlR5OGpwdXQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T11:59:00+08:00"
+    },
+    {
       "title": "JD Vance pitches himself as Trump’s political heir on day two of Republican midterm convention - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcFJQR3NRV2p3anBfdW9ZeVZkT1BSX0dmRWtTV19KN3JYd0IzbGY5bUlKeTR2NkpCai1nMnhtVG1wSWx5VENFcG00ai1MM0VHSUtDcVpBQmFudDhaVHdmak8xQnFWUjBoc3BsYl9lYUV2QlIxQVBtNGRIRWxQdjk2MmxLOVRnbzVRQ2c2NlFGcw?oc=5",
       "source": "Google News Top",
@@ -89,28 +125,16 @@
       "time": "2026-09-11T11:38:10+08:00"
     },
     {
-      "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
+      "title": "Aryna Sabalenka on brink of US Open trifecta after blitzing Jessica Pegula - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmJsYlhvWUc3My1EYTdKc0h3NDREeXlQcWc5YjlaX2tlWVpYRk5RWjJlVE1welFoUlJleEludlVCRWg3Qmx1SWZESE5aTXRINlBHbGhYS0lkZzBWN2lIbTZwdE82RTZBVmpyMGJYNGloTllCXzg0ZUpNb3lGckNXX18ydGY4Nzk5UGZuMXVzOWtXY0phaGo1bGc1NHlFRVlpSlNrZg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T11:15:00+08:00"
-    },
-    {
-      "title": "US Open: Elena Rybakina to face Aryna Sabalenka in final after comeback win over Coco Gauff - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVy1EQU5pc0FMUlhvbloxM1JpeGtsLW5vbUVueUF5UVE4Tl9OTmtqWXpiTUkxWFlPR0NvdXRKa2dGeHlhR0NFWTJ6d25xVlU4Tk5oMFdnOWdHU1d6U1FMdXRnN2pheUVYdlR2NnFXWnVDbl8zdnJCWlBVZjFYMFFCYzNuNHRlM1hvVkgyTGFDdDhxVUdBd1pPdDkzV0owanFuRkV6VlV1OVR0WnY1WkRKYXpnaFUxcTdDdzk3eDBjb3gzZ0dBdEJBcjJ2bU1FbnBWclRWQ1B3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T11:02:00+08:00"
+      "time": "2026-09-11T10:52:00+08:00"
     },
     {
       "title": "'It was heartbreaking'- Americans remember what they were doing on 9/11",
       "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T10:48:43+08:00"
-    },
-    {
-      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T10:46:30+08:00"
     },
     {
       "title": "Hong Kong’s Tiananmen vigil organizers handed lengthy prison terms - CNN",
@@ -125,16 +149,16 @@
       "time": "2026-09-11T10:08:00+08:00"
     },
     {
-      "title": "California enacts new curbs on social media for children - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0lLNk0xa3VlTFBQdUxIbXZzejNoblZZVEQzcTdQOW5lM19MbFhDTmttWG5XM0t5ZDhkX1VXMmp1NGhodnNXbnBQekVhUWx3OU1YMnNEU21SbHl4YTFVZTk3bEhJR2NVeVVJWDBGSFQ0UU9fME50TjJWRjFWaXd3VzltLU9Ga05wLWZETG5JS3pjaGNxOEFQRNIBngFBVV95cUxNY3ZRS2ZBRC1laFFPY3pwY3JXZmFJMXJhSWJhbVBrdmpSWlRBUl9hZ29GaVd2bE1CT29vcjM1NVFMTmVLQ2llWU5lb2kyNDdLTjlDWHB0TWFQSWVaUTdNV1dvTWdjak1JemdveFRQT2t4VTZBQ0d2TG1pNG5fRlVhVmJRQU1Lc0tuYzN2Sm9GZDM5OURfMmlXdVVQVGd0QQ?oc=5",
+      "title": "MPs to vote on legalising assisted dying in England and Wales - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMeUp4ZHJ5YjBfazZhcTlsNm5RZ1l4UWZaS3ZiVzVrOWlfNmthWnNxbDF2cmZKTnBIWkNnVUp5TkdUR2Q3Y3h3MWtYVjJoM2VGcDRrODdHZG1jQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T10:02:00+08:00"
+      "time": "2026-09-11T10:05:23+08:00"
     },
     {
-      "title": "Hawaii Governor Asks Trump for Help as State Copes With Hurricane’s Damage - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0VnbmNMRHFOSlJRbnVXSmZ2OU41dk1TQmgwM3ptUFhwV2I5VnJadDk0aG5DV1FQclQwckJXWENIV1Y4U09ERmlmV0l1LTZOcWNDSEVHT2ltMTBmQnhUTGtNRWktbThyV1BDcGlsZmtSTEpxa2F3ZTdObTFJS3lMSFVvVzVRV1ZI?oc=5",
+      "title": "JD Vance to invoke Charlie Kirk, family ‘birthright’ in fiery midterm keynote speech thrashing Dems - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkl4R0lfZ1FrX1AwZXdTT3ZyeTJ0ay1mdzVuRlBNVnJmNF84NjhDZUJPMFEyUWVabldaZzBVZ3lrWHp6eU5hd0xqSmdIVkkxLUxBam5uZEgyOENqRElVTEdVcGVIRzQ3Zk0tWEtrX1ZqQ3g5VThqa1VfWWdTc0NHS1l2YXczcm5UVUI1SFpnZTc2S2VjdDIzY1JhcXdPemlFSkU3dHdKV3pGX2oxVzdyamg0MnczV3lUbFcwQ2hFdmjSAcYBQVVfeXFMTTYtRWhmdVlqSjN0VF9CM3lPMkc2eDBUaFB1LU02VmUyWkI3S05BcHotblJvbGFSRW9uNXZhRTdfMzJ6RXMxTGhMNHFsQm1CSXZ2WTNTd2hUSWdwMHJnOTNrZzJ0MlFvNjljT1dNeUpNVDhicno2V2R4ZS1UNHJrZ2R2ZW5WellXRVFzbUdDaDRHQ0dXQUNZVFRrMkJQRkp3Mk5KQ0prWllJQnlrOEF5TGk2OHFMMG05M1o4WjdfZEQ1TWQtSVln?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T09:08:33+08:00"
+      "time": "2026-09-11T09:22:39+08:00"
     },
     {
       "title": "Coach crash kills several people in Swiss Alps",
@@ -143,34 +167,10 @@
       "time": "2026-09-11T09:01:18+08:00"
     },
     {
-      "title": "Trump administration silence has 200,000 Salvadoran immigrants hoping they’re protected - AP News",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZW5iMVdUY2k3QldGeFFOM3hnbWg4NnVlbFcxMml2aWZuUDZ0ZmY2clJlR2tEdHZybmhib3l4Qkt3dENZMGUwamxpSEVTVlhlZF92WXNvNUEwNDlFU2xlVDRhQW40YTM5QnlLUjRuQ1JzUHNzWjlNVGNzejI2dGdsM0ZuaTRCc29pYlFVci16MnRlQU1RSUtNNl9zbTJkZzBxMFBPVG9vZHlGcDAtNnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T08:57:00+08:00"
-    },
-    {
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRjZwbjNmOUdKVjQ5ZVVIZmVQSXB0Z1BoV1BORjdNeUpYTV85UVNGbmJKd1VzQXVBaVdHVmdlREo3SlZlM2RPejZCOE5PWjlvMEVOSHJCS1lGS0RfUmkyeUJDcmZib2dsYmw3bElaQmdGX3Jm0gF6QVVfeXFMT0E3MGJucVFXdU9uVE5aQWJBLUk4YUI5VXNHWmloV1M0MWtNc2tPQm10YmRKczA3bHVhWktCdFd3N3VQcG5CNzBhTVJybVBUWVNRYWt0SWE3ekQzWnZ4bVhHekRKRThSa3ZsMUVUS2lEalF2UXJwb1FxRUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T08:54:00+08:00"
-    },
-    {
       "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:01:02+08:00"
-    },
-    {
-      "title": "Mariska Hargitay Ditches Her Signature Style for Head-to-Toe Sequins Ahead of Historic Career Milestone - instyle.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0lOb0J6RWp6aXBUUTdWWWxzbW5vaUcxbThISjVXU3owX2JMb1NPYWpTWTFMaUNTbURNX3RpWG9VbjdJQndpb3VMbDlxbEs4YW16NENVaTA1UXdieUFSb0RNN29aSkNDQ3NqLWRFVWNTSFlBaWxpd0VQanBySzdJbFNjQmJsaUJPamd2VmJtaHp6d19WUUc3cg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:51:45+08:00"
-    },
-    {
-      "title": "King Charles’ Statement About Prince Harry and Meghan Markle Being ‘Private Citizens’ Is ‘Not Realistic’ - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHFkUjVHUzlIeThhSUNZNU1udE1yRzVoMVlyODFEN0dSb2didnhzSnd4NXNnYjRSakFldHREZnRRa25Uc3ZPN2RVa19RZDNrUXBnUzRkczB6ZmVQT2lGUXFFSDFhQzBhZE5NbWw0SjZOR1YxSDNrQXMybU9BZ1lVeHBfUVYyZzRyeEJfVm52RTZNaS04OU04RURlYXdJS3BReU85UFhONmU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:41:46+08:00"
     }
   ]
 }
