@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T16:02:49.917549+08:00",
+  "generatedAt": "2026-09-11T16:33:51.437770+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605255.84,
-      "changePct": -1.16
+      "priceHkd": 606925.76,
+      "changePct": -0.85
     },
     "ETH": {
-      "priceHkd": 19338.3,
-      "changePct": -0.24
+      "priceHkd": 19423.99,
+      "changePct": 0.24
     },
     "SOL": {
-      "priceHkd": 781.73,
-      "changePct": -1.6
+      "priceHkd": 783.69,
+      "changePct": -1.2
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1095.69,
-      "priceUsdOz": 4346.9
+      "priceHkdPerGram": 1097.96,
+      "priceUsdOz": 4355.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.16,
-      "priceUsdOz": 64.11
+      "priceHkdPerGram": 16.24,
+      "priceUsdOz": 64.43
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 792.94,
-      "changePct": -1.31
+      "priceHkd": 789.72,
+      "changePct": -1.71
     },
     "Natural Gas": {
-      "priceHkd": 22.05,
-      "changePct": -0.74
+      "priceHkd": 22.1,
+      "changePct": -0.53
     }
   },
   "news": [
     {
-      "title": "UK economy grew faster than expected in July",
+      "title": "Interest rates could rise again across the world – here's why",
+      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T16:28:47+08:00"
+    },
+    {
+      "title": "AI boom helps drive surprise UK growth in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-11T15:45:18+08:00"
+      "time": "2026-09-11T16:04:22+08:00"
     },
     {
       "title": "Alstom to build new battery-electric train fleet",
@@ -95,12 +101,6 @@
       "time": "2026-09-11T14:04:00+08:00"
     },
     {
-      "title": "Aryna Sabalenka vs. Elena Rybakina: Everything to know about the US Open final - WTA Tennis",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDEzQ1R2WHJwWkxTcjh6LVJpLUw0d3Q1OTFpRWJGcjU1dTBpZVd6RVVwQVR5TEo3WEhFeERTd2k3cDFkR2hoQzdMWGFMaU1hVk10SlhhaDRhd3hXelhvR0plUU8wUzJrcTNpdnJKZko3TW9iVzFmeGhaT0ZQTXNBMmUxWm5QY3pkWkp2RFNUTkdleUs5blU4Z1BYcXVadTMtelloSkRJakZQQjBZakl2aGtScEN4QUNiNF9ia2ctUHpxcjI2RGpobjFkMmhfYVp6NWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T14:00:51+08:00"
-    },
-    {
       "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?oc=5",
       "source": "Google News Top",
@@ -111,6 +111,18 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVE5WaUVsam1zQkNmUndrUlFvZkF3NW80a0NkekZSODZGQVVpX3NaSkJPc05YZktKNWQ4akRySHRsMGNWTVZVOFRrYUVnUlNaRElfNlBLWUdWa0NibkpGeWZ2NXVMZ1Rqb2xSZWxoQ3p2UnFpNWdGbWxpdWFmcUlrYno3QlBtN2huZS1mTUpvdXI1amNEYm5vZXBPSjVtcWNQdWxkVHNpOS1ETk43Ri1tZUloZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T13:40:00+08:00"
+    },
+    {
+      "title": "Scott Bessent fails to break ‘fever’ in US bond market - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T13:17:04+08:00"
+    },
+    {
+      "title": "'Modern-day martyr': Thousands honor Charlie Kirk at UVU memorial - KSL.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaVpiNTRUdG9IbW0wYmM3MVRySkE0ZzVoeGJQY1pKWWxybVVzdjFBaFpUR3lkQ0hBeXJsai1tWURWNE5FYlMzQXdSRUFqc2JqcGMyZjRHaDRLZFY0NW1sUmtiV2pOdlMzQ3hhcEN0bWtpaktiREV5cXlJS0d3bnpWUHoxSDlOT3NwemxXY0NBZTZsYjNMbHZ5Sw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T12:35:35+08:00"
     },
     {
       "title": "Rabies cases increased 17 percent in July and August, CDC says - washingtonpost.com",
@@ -125,7 +137,7 @@
       "time": "2026-09-11T12:13:00+08:00"
     },
     {
-      "title": "'Islam is being hijacked': Brother of Muslim first responder killed in 9/11",
+      "title": "Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
       "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T12:10:24+08:00"
@@ -137,10 +149,10 @@
       "time": "2026-09-11T12:07:29+08:00"
     },
     {
-      "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTZSVk1iNkJLVExmYTZSSUhSeEFKdlVWTUxTS3M5NlhUVGlzTXgyaVlmY01YblBTTlJVMmJVVW1CbGhaN1RWcTdRc3VjZjJ1d1prdjZMTmU2SW5oVzdpQzVJVnhnNkVGUXFvRWJ4X1FQMnJhRV9vR3AtZDA5VkoyUXVZdi1PVHh4czNubGxYekh5bHNrTXpvQ25xZldvSUhCa0E?oc=5",
+      "title": "Why a Russian screening of an 81-year-old Soviet-era film to a tiny audience has alarmed Taiwan - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaW4zeGxWY1BlN2kwcnpTNHkxOFFnZzYyQ1BQTVUtb1ViVGg4SzhTNFdETnpwcS0ySWR6QVdxOHU1TTg5V09IMkdqOUp6bzE4eFlraVd5TGMxME1yZDE5VGFYMjVHXzNIczJHUzlOblpGc29CWUI2Rkp1OU9BSmd3dVMxNkd3YldCek12MmMyZUlnb0J1aFhnZlRLOGp4czJuMlNvMTB4b1l6eTZvSkJSUjByeGhDMjJCZjlXOVZ5Szlxdnp1?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T12:00:00+08:00"
+      "time": "2026-09-11T12:02:00+08:00"
     },
     {
       "title": "Anthropic says it blocked misuse of its AI that could have supported biological weapons - AP News",
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMk9ic1cyTU9kZVp5Ny1pU05zc19CZmFLZWprRUZQek1jZzdvdklfMjh4S3BUU3lvN3JfYjlvME1UYld4ejJpWXZSd29SVlJfVFN1M0JmTkljNTRIQlIyYkd6NGU3VVI3UHRTQjZNRS1JeG5lY3Rkc1dBSFpaOUo0VDJlNmFidHhrRE8tQjNuQ19Va3d3Z0M1NXQyR1B5MnFkRmQ1aEF6VUVWNl9Gak9Scw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T11:38:10+08:00"
-    },
-    {
-      "title": "Watch: Americans remember what they were doing on 9/11",
-      "link": "https://www.bbc.co.uk/news/videos/cdr765xj1k1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T10:48:43+08:00"
-    },
-    {
-      "title": "Hong Kong’s Tiananmen vigil organizers handed lengthy prison terms - CNN",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZUd6OVNsSXRrYkhleHFyZG5HT0lLMmlGZzc0NjhzOVZTZWx1YTJtX0VIWXhmV0IydDFpTUFSREdLVXAtMGFObktRRmwtTVhJY3Z5Q3hBOWRuTXRheS1rZHBPcTZnNmJBMmdqaEJkVmxhVWZaMzk3dk9tSjlwOTZPQnNiQmQtQ21LMjdN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T10:33:00+08:00"
     }
   ]
 }
