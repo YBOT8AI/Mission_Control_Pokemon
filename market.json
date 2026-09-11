@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T09:50:14.334272+08:00",
+  "generatedAt": "2026-09-11T10:21:17.400767+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602456.96,
-      "changePct": -1.57
+      "priceHkd": 602629.44,
+      "changePct": -1.47
     },
     "ETH": {
-      "priceHkd": 19212.23,
-      "changePct": -0.48
+      "priceHkd": 19209.25,
+      "changePct": -0.45
     },
     "SOL": {
-      "priceHkd": 776.47,
-      "changePct": -1.89
+      "priceHkd": 777.88,
+      "changePct": -1.83
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1090.87,
-      "priceUsdOz": 4327.8
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 15.99,
-      "priceUsdOz": 63.42
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 803.13,
-      "changePct": 6.65
+      "priceHkd": 806.19,
+      "changePct": 7.06
     },
     "Natural Gas": {
-      "priceHkd": 22.22,
-      "changePct": 0.43
+      "priceHkd": 22.21,
+      "changePct": 0.39
     }
   },
   "news": [
+    {
+      "title": "Vance, Trump speaking at the Republican midterm convention in Dallas - NPR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNckVvVmN5dllHRXVoZHB0X255LU9TaDJmcDF3WEZzRGZnblBIdDlQQkppRVRfYWNhdDRSV3lXYkw1RzNBQ1VjTEVKWDFRQUJHOWlVU2lQT1M1SHIwOFFVVkxybkJFV1NBTWtVbzk0VVpMRE1HUjdiRUVsU2lPWGtpVHV0MWRTZHdIdXZzSXZyWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T09:58:12+08:00"
+    },
+    {
+      "title": "Rabies cases increased 17 percent in July and August, CDC says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnBCZlRpcE11THVIMVRFNDYySXFUVHlYdG9oVVhOMkVHbEdjZW5aOHk2eE51NmZDUlUyak1lT1Z3RlE5U1BVb0o5QzZtcWlzeF9XU3BoR3dOVkpzUThQa21iX3dXcHUzRHFUN1RwVHBfYlJYSlhRMHljZ1FfZGt6dDQ0UlY1SGY4Tlp4SENNZ3o2VFJNM19MSlF0eG1vdjgxT2tYd185MA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T09:52:42+08:00"
+    },
+    {
+      "title": "Live results, best moments and analysis from 49ers-Rams - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPamZ5SUFrbnhoZnRURzNISWh6Vmk1NGg0ZGFzQktpS3lUTjlER3RDRUJVLWFzbTVqamVUY0VqSXhZWVVUMkQzdHNzaVlCVnRnV241eWNjY2lBX2RGTWQ0XzNBVWE4LXpRZ3J0QXJjS0sxSUg2aXotdWhDYTVUSzV5bnpyaExNck1RVTFuUFYtRFJWd3I1VjJ2OE9uWmRLeThWeVpSLW16YjliQ0ZfLXZrZ2pfeVJqdHpHekN4RF9WUnB6aXpUMTZTZG03VVRiSnNuRWQtV0tvSk5mWGFqLUdnbzVHbE0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T09:52:00+08:00"
+    },
     {
       "title": "Coach crash kills several people in Swiss Alps",
       "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
@@ -59,16 +77,10 @@
       "time": "2026-09-11T09:01:18+08:00"
     },
     {
-      "title": "Rabies cases increased 17 percent in July and August, CDC says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnBCZlRpcE11THVIMVRFNDYySXFUVHlYdG9oVVhOMkVHbEdjZW5aOHk2eE51NmZDUlUyak1lT1Z3RlE5U1BVb0o5QzZtcWlzeF9XU3BoR3dOVkpzUThQa21iX3dXcHUzRHFUN1RwVHBfYlJYSlhRMHljZ1FfZGt6dDQ0UlY1SGY4Tlp4SENNZ3o2VFJNM19MSlF0eG1vdjgxT2tYd185MA?oc=5",
+      "title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0dRcFNZa0xRbFNXQzc3YkFQVGVwRTVPU3V2cUVVYkFQSG53Ri1pRTB0cVV2Nl9QdHRaWjgya1VCbDhQdEk0dHJkVEx1eGVoTW1acnZVMXZteVZPRHRYY3BxZTJZazhwTGZDTWhTTnJXWG9CaGNRREhKN1hJdHhGdmVJWXJzN2JPN0QwMg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T08:51:47+08:00"
-    },
-    {
-      "title": "Republican Convention Live Updates: Vance and Trump to Speak on Day 2 of Midterm Event - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQUp3YmVoemMwSTBOZUFuUXRZaGtYeTZzZlpLeS1TcV9QT0NHYVJ5bmdHbnh0ekczXzd4bkV3RXBxNXRWWFI2YlQ3MFRpR0h5VjZudVNMem40dHlybUxQUE4zY3VQMnd6cE9VMXFPNGVRakdFbzU1SmpTN2xHMGZ6bmdfWlktUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T08:36:00+08:00"
+      "time": "2026-09-11T08:20:03+08:00"
     },
     {
       "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC",
@@ -77,7 +89,7 @@
       "time": "2026-09-11T08:19:00+08:00"
     },
     {
-      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - gsmarena.com",
+      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:01:02+08:00"
@@ -89,16 +101,16 @@
       "time": "2026-09-11T07:41:46+08:00"
     },
     {
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T07:32:14+08:00"
+    },
+    {
       "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T07:21:00+08:00"
-    },
-    {
-      "title": "Treasury Yields Surge as Oil, Buyback Results Fuel Selloff - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVDFoMGQwT1RfV280cU11T0IxcTFHbEVSaXkxLXJyaGVaVG1MRGowVWFXSC0xVDNTRDc5cGx1dUlXM3dfbmZxRE1xVmpTclpRQ0gxOVRJX1c5QzR5czd5WDJpWktpdGx3Q0JPcmVQdGs3VU1tS0x4R1FxbHYwMTBwdXlHdEpZM3RtdEJyTjRvbVBxVElLLU02ZGtJbmRpc1B3R0tnc0lSSVR6b0xSalhNcWRZMWxPQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:06:57+08:00"
     },
     {
       "title": "Can Europe recharge its battery industry?",
@@ -131,10 +143,10 @@
       "time": "2026-09-11T06:46:00+08:00"
     },
     {
-      "title": "Live results, best moments and analysis from 49ers-Rams - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPamZ5SUFrbnhoZnRURzNISWh6Vmk1NGg0ZGFzQktpS3lUTjlER3RDRUJVLWFzbTVqamVUY0VqSXhZWVVUMkQzdHNzaVlCVnRnV241eWNjY2lBX2RGTWQ0XzNBVWE4LXpRZ3J0QXJjS0sxSUg2aXotdWhDYTVUSzV5bnpyaExNck1RVTFuUFYtRFJWd3I1VjJ2OE9uWmRLeThWeVpSLW16YjliQ0ZfLXZrZ2pfeVJqdHpHekN4RF9WUnB6aXpUMTZTZG03VVRiSnNuRWQtV0tvSk5mWGFqLUdnbzVHbE0?oc=5",
+      "title": "Gov. Newsom Signs Sweeping New Rules for Online Child Safety - KQED",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcEc0bzRVX0lNNUpldzZ1em1HUE9Ub3Z3UUJMbGpEaENkUDBRbk9GUWJWN3ppMkhVWkhtTGo4RERuUnpDc2hBYXg0ZXpEZDVCdHBHUGk2Ti1YQ1NzMld6TkdmYk8wNFdrM1lYMDdIQk0wdjVGZmJtclRPMW9HYTRkTHB3WDdFTjBsWC1BY3p6dXV0MTlmNTNKTEV3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T06:39:38+08:00"
+      "time": "2026-09-11T06:37:08+08:00"
     },
     {
       "title": "Two AI researchers leave Anthropic and Google over safety concerns: ‘There are no adults in the room’ - NBC News",
@@ -155,22 +167,10 @@
       "time": "2026-09-11T06:20:00+08:00"
     },
     {
-      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?oc=5",
+      "title": "Dolly Parton’s sister reveals ‘last thing’ country legend asked of her before death - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzJuYlNTQTlCSmFBRF8ta0ZzUzJkeFQ5V09vYS05WjJab1RTNDFJbWpvS0xjS0g2MVNfcTZ6QXFUVUhYcDNVMmdGbTNibHBPLWQ2ZG9HMkFCVDhQdkZEQmQ5SjFQcVk5Z2RWallGZmloa2NRM3pjT19IOWI3RGt5b2kzc2lxNUZOOVdnQ3VqUTlHZUpzZU5sNEhWZlE5YWN3MVFJcVFfWmhKZ1FPdXVha2lfQzFpQdIBuwFBVV95cUxPVjFhVS00OFFkZS1nWnJ4RTJaVEdSaGRNNzhKVkxNXzN2OUJQczZtZjJjaG5jRjl2TUtPT1JLUllNTDdCQ0Rrc2o0T1FXbV9KTXV5bDdNUUJWaGFGQXdHSWFhaHoxcWFRV2pZaUxnZ0NuRzZocUZxYTlzb2thRGdiM3RPM1RVY3BWbGoyUHdDTXQyQmIxYTFaanB2amNOWGVzVWd6ZUUyMHBBVW41UWhIeHhpUFZGM0w1dGYw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T06:15:00+08:00"
-    },
-    {
-      "title": "Prosecutor who led ‘grand conspiracy’ probe of Trump targets resigns without charging anyone - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSnNwSWdiTkV0MF9fUUNrbEVWdG1PTW5aSUh0M0hkZlNSZDJsNEFrcHlxbjlObEtIaEhPU1FEa1NoUG04QlpnaU4ydmxzVUhpQ1JGekJWSnZWRE12b2RzM0w4Z1BJb0ZCbnVLVDkzRmZleHRudENiN0M2Z1E2SmJmUDQ2QnFCdFZLaVFRS2QzdGE1eU5odnlCbDJMODRhRnNFRW5rVklhdVNLbTU4ZU40bEdHLUZOdkNvZlVmbVVqdDN5amJ6bGRBSUI3Mkpldw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T06:14:46+08:00"
-    },
-    {
-      "title": "SEC says conference is working 'toward an appropriate resolution' after fight surrounding LSU's pursuit of ex-NFL players - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNMXF4RWpoLU9WS0hfSW1TaUNfaHVGb2RqcGZYMGt6ZDNWSzQ0MTAxWkpMUGZleFFHV1AxTDRhSkMtLW1obzBGLXRVdkFzNzlVeDZjX21Sb3c2enlXOENvV01CVjdvdWoxUEJZUG9DME5PT05GT1A1cWk3ZXhVYWZUNjlTTXJHODViYURxaURPaXMyN3Y4X3c4UXBfQnVXZldJQ0NiQVNCTklXNDR6UjdXaUZadjFvMU1nOEtodnYxZjNYMUVvbHNlTXVmUzZJUGxDeDQxNDNTWWdSalZPVVJFMXdNQldtdm9RWlBHU1dLTU5wYmQtRVJSM0hZaWdqSkphZTRhOTF2SlNDUFd4Zms5YkpWTGM5a0wxcVh4bFVlS1dwd0U?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T06:02:40+08:00"
+      "time": "2026-09-11T06:17:25+08:00"
     }
   ]
 }
