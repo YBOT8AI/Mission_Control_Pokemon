@@ -1,57 +1,63 @@
 {
-  "generatedAt": "2026-09-12T01:21:39.605073+08:00",
+  "generatedAt": "2026-09-12T01:52:43.484148+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609818.72,
-      "changePct": 0.83
+      "priceHkd": 608227.2,
+      "changePct": 0.26
     },
     "ETH": {
-      "priceHkd": 20203.76,
-      "changePct": 5.06
+      "priceHkd": 20156.17,
+      "changePct": 4.13
     },
     "SOL": {
-      "priceHkd": 800.46,
-      "changePct": 2.39
+      "priceHkd": 800.23,
+      "changePct": 1.92
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5520.38,
+      "priceHkd": 5520.14,
       "changePct": 1.07
     },
     "SPX": {
-      "priceHkd": 60157.5,
+      "priceHkd": 60155.06,
       "changePct": 1.07
     },
     "SPCX": {
-      "priceHkd": 1177.49,
-      "changePct": 1.36
+      "priceHkd": 1174.59,
+      "changePct": 1.11
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1101.11,
-      "priceUsdOz": 4368.4
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.3,
-      "priceUsdOz": 64.66
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 782.59,
-      "changePct": -2.6
+      "priceHkd": 782.67,
+      "changePct": -2.59
     },
     "Natural Gas": {
-      "priceHkd": 21.99,
-      "changePct": -1.02
+      "priceHkd": 22.02,
+      "changePct": -0.88
     }
   },
   "news": [
+    {
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-12T01:32:44+08:00"
+    },
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
@@ -65,22 +71,16 @@
       "time": "2026-09-12T00:58:23+08:00"
     },
     {
-      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News",
+      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-12T00:51:00+08:00"
     },
     {
-      "title": "Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVVjWUsxbV95SVdKWkpFYk9TXzRWSkRSSVIwd0NHRVRJX3c5UVJMejRjYWw3ckxuTld4ODN6X1R4QnFDLVVoQVBzTkxfRGlNSEx1WTRSdjlab3FyZTlmYk1weEttQlZIVUQwX29US18xZ0VJVnVqRFpXQnQ2VlZDR0xWMFF0c0VhRVh1Zmpkdld2TEV2Snc?oc=5",
+      "title": "New York changed in dramatic and surprising ways in the 25 years since 9/11 - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2RZUnVxc3BzVGdBbUFiR0YwUXZaSUl5QWtYT2tNZUNINTNscWhCYnhBd0FWVkVPMHhqMjREN0oyTHkzTU9jT054aVpxUWlfcnhNZzNBdVN4Q3MwcE00RG4zQ082WnhnTEo0anFJN1NNMFpJYldiRU9uYlVYQWpKeTQzWTcwamQwWmNpaUxrN29oQ0lUTHJ0M2hTc2IzM2VnUlRIWFl4TV94YTNzWHNR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T00:31:41+08:00"
-    },
-    {
-      "title": "Saudi Arabian oil pipeline system hit by projectiles triggering fires - CNN",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTBNQ1lITW5CMjlZTFM3UktsZUNsaHFyb29zZ1VVMmc4b1N4dTVGMVZjM0FpSTR5eTk2N2hGOGZTSVBaTVlPWG1ZLUhJNUg4MUMzcVo2QUJWVl9aRWRvdUpzOTJndDNTN3NMdk55NWZMdXVRZUtJS0RZTXowZThEOE5BeDFJWlFmY2V1T0Jfc2liY29kdDNVX21NQXJhZjFtc01ORA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T00:28:45+08:00"
+      "time": "2026-09-12T00:50:50+08:00"
     },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
@@ -95,10 +95,10 @@
       "time": "2026-09-12T00:13:26+08:00"
     },
     {
-      "title": "Iran-backed Houthis claim major advance in Yemen as group reportedly seizes island in key shipping route - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSE95cGR2SXdnajBUV0xTUGdFUnFVNThSWmNzMGxuU252M1J5TnBYTUtra1dfZm9qcjdTVlpHTGZPMGp4cVBhV3RQYTFnLXFubktyNnZ3?oc=5",
+      "title": "I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over - STAT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFdBd1RHZURPYVg5REFnLXFYSVlWVGN5YzVjVjFxb0JLRGtBakhBOHF5RVNPTWN6NVhYemg5OVpPSnpSWVBlVi1zZ1cyV281TXlOVGdaNmhFcmJVTllBQ1ktWGg4aFNNcTZsSTJRQmZmRURvMmVLV0dGUDF0STJXOWlFU2NkcnBBZlhYaXB3LVJualFHTm5RWUZ5dC1JbUw2NklOdmp5YnJTQ2s?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T00:05:44+08:00"
+      "time": "2026-09-12T00:12:12+08:00"
     },
     {
       "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
@@ -119,22 +119,28 @@
       "time": "2026-09-12T00:00:00+08:00"
     },
     {
+      "title": "Live Updates: 25 years after Sept. 11 attacks, America reflects and remembers - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3NidkdISmFyakJJdjcyTlFDRl9mUmY3Qjl4THpYYkNXX0R6ZjdGenZYOU1wTUw4OEFIZlBjTVhmZEdLdnpsUmlISmE1ZHBJUm9yQ2FwQkFFTTlfU1dhQjJPZWZDTjltUENsRE1xQXh1RjNwNWZiMVZxRVlNWFhVcDVpb2FsSVNFZ2Y1T01BUmdRZGM5dmxDN2NtV1Rxdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T23:59:00+08:00"
+    },
+    {
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T23:50:23+08:00"
     },
     {
-      "title": "Trump, Hegseth tie Iran war to 9/11 in speech at Pentagon - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNndvb245dDI1bVpraW5KamVxYW11aThjOFNrTWE2TWRLODhUUFczc2k0ZWFQYU8zekJ0NzE0NEl2UnpIMWtXQUhwT3BpSlNOZ0RRYlFGWkduWjFVak1MQmgwejlNUFBabGpwTmk2b2pERUFPcExIdGdMNXo0QnJNOVNhSmJuZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:46:00+08:00"
-    },
-    {
       "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
       "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-11T23:37:25+08:00"
+    },
+    {
+      "title": "Kim Zolciak & Kroy Biermann Have Icy Encounter During Son KJ’s Court Hearing - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3FuaVpkbHduQnhIOWlyZVcwSGdadzZZZWFqZVhIaHhWVmlSWE45cUNYS2hfUTg3akkzOWJxYW9TZUNoM21xaTFxb0lHTk9DQ2FxTjJxODFoSWtHWkxrN3NxX1pJN2dnUllZRW1TeURYUVJvZW9wTmNDUGowYkZfVG5JSXpSYWtWVzlMWnphUkd5bnhKMU5zcER3SnA2MlZz?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T23:35:05+08:00"
     },
     {
       "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability - NPR",
@@ -149,10 +155,10 @@
       "time": "2026-09-11T23:32:21+08:00"
     },
     {
-      "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; These Tech Names Lead This List (Live Coverage) - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzJRNTdMeWZaNzgybTBpVlVuaGJfT0ozeHVzXy13Sm1XVGVJcmxvbUxyT20xeVVaeThJRTd0ZGVPdW5wMUhoVzZpZjFyTmhMSjFjOFVucW9WQmY5c0pJOXkyQWNzbUdwVUVYT2FmMW9TRV9YQmdDcjhaQnFkblpvcGh2a21YdkQybnN1YTBQRjF1cDF3U1BlOVg3OFBQRl93NnBPS2RsMHNMNU5SSFpiSjl5N1hzRHZRTzdoVQ?oc=5",
+      "title": "Afghan woman in Texas dubbed an \"alien terrorist\" is deported in DOJ's first case using obscure court - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGV0TkFoaXVHbHhUVkpza0lqbHlkTTlHLW92aG1Cb0xFZUZJdHZaWlEwem9Xd1hSUy1feXpZckxEdGxOcVBfVjZkZnV5cHp4eDhoTjJDalBKUTA0U3FZbFR3ZnFPWE9Nb3pDSUFzYmp1YmI2RmYzejd2MU5DOXdRSGFiaWI1NjVfWndja2x3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T23:21:00+08:00"
+      "time": "2026-09-11T23:16:00+08:00"
     },
     {
       "title": "‘Practical Magic 2’ Sparks Near $5 Million In Previews On Thursday – Box Office Update - Deadline",
@@ -161,16 +167,10 @@
       "time": "2026-09-11T23:16:00+08:00"
     },
     {
-      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features - MacRumors",
+      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features - macrumors.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kb09yZUI0NlduMkpfVWlEV1JSUHBSVjlIQ21QaE1JRUNieGhYcU00UG50emlpSF9Xa1Vzb2RneEs3dWkyZlJIYjNiTFZldXhxSEEwZks5SFU3N3FnNmF4Vzd4NU5QclJtcDNKTXRfVHZRUG1UVThsZ2wxemlqRHM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T23:13:38+08:00"
-    },
-    {
-      "title": "New York changed in dramatic and surprising ways in the 25 years since 9/11 - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2RZUnVxc3BzVGdBbUFiR0YwUXZaSUl5QWtYT2tNZUNINTNscWhCYnhBd0FWVkVPMHhqMjREN0oyTHkzTU9jT054aVpxUWlfcnhNZzNBdVN4Q3MwcE00RG4zQ082WnhnTEo0anFJN1NNMFpJYldiRU9uYlVYQWpKeTQzWTcwamQwWmNpaUxrN29oQ0lUTHJ0M2hTc2IzM2VnUlRIWFl4TV94YTNzWHNR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:01:30+08:00"
     }
   ]
 }
