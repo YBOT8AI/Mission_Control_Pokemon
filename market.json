@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T11:54:24.902529+08:00",
+  "generatedAt": "2026-09-11T12:25:29.682365+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 601923.84,
-      "changePct": -1.98
+      "priceHkd": 603585.92,
+      "changePct": -1.75
     },
     "ETH": {
-      "priceHkd": 19154.69,
-      "changePct": -1.24
+      "priceHkd": 19225.09,
+      "changePct": -0.95
     },
     "SOL": {
-      "priceHkd": 778.04,
-      "changePct": -2.47
+      "priceHkd": 780.39,
+      "changePct": -2.38
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1084.82,
-      "priceUsdOz": 4303.8
+      "priceHkdPerGram": 1090.92,
+      "priceUsdOz": 4328.0
     },
     "Silver": {
-      "priceHkdPerGram": 15.93,
-      "priceUsdOz": 63.21
+      "priceHkdPerGram": 16.03,
+      "priceUsdOz": 63.61
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 807.28,
-      "changePct": 7.2
+      "priceHkd": 803.29,
+      "changePct": -0.02
     },
     "Natural Gas": {
-      "priceHkd": 22.2,
-      "changePct": 0.32
+      "priceHkd": 22.18,
+      "changePct": -0.18
     }
   },
   "news": [
     {
-      "title": "Global Bond Selloff Sends 10-Year Treasury Yields to Cusp of 5% - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVE5WaUVsam1zQkNmUndrUlFvZkF3NW80a0NkekZSODZGQVVpX3NaSkJPc05YZktKNWQ4akRySHRsMGNWTVZVOFRrYUVnUlNaRElfNlBLWUdWa0NibkpGeWZ2NXVMZ1Rqb2xSZWxoQ3p2UnFpNWdGbWxpdWFmcUlrYno3QlBtN2huZS1mTUpvdXI1amNEYm5vZXBPSjVtcWNQdWxkVHNpOS1ETk43Ri1tZUloZw?oc=5",
+      "title": "Brock Purdy, 49ers dominate Rams 27-7 in Australia - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMk9ic1cyTU9kZVp5Ny1pU05zc19CZmFLZWprRUZQek1jZzdvdklfMjh4S3BUU3lvN3JfYjlvME1UYld4ejJpWXZSd29SVlJfVFN1M0JmTkljNTRIQlIyYkd6NGU3VVI3UHRTQjZNRS1JeG5lY3Rkc1dBSFpaOUo0VDJlNmFidHhrRE8tQjNuQ19Va3d3Z0M1NXQyR1B5MnFkRmQ1aEF6VUVWNl9Gak9Scw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T11:30:00+08:00"
+      "time": "2026-09-11T11:35:46+08:00"
+    },
+    {
+      "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T11:15:00+08:00"
+    },
+    {
+      "title": "US Open women's semifinals: Score, live updates as Coco Gauff faces Elena Rybakina after Aryna Sabalenka's domination of Jessica Pegula - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVy1EQU5pc0FMUlhvbloxM1JpeGtsLW5vbUVueUF5UVE4Tl9OTmtqWXpiTUkxWFlPR0NvdXRKa2dGeHlhR0NFWTJ6d25xVlU4Tk5oMFdnOWdHU1d6U1FMdXRnN2pheUVYdlR2NnFXWnVDbl8zdnJCWlBVZjFYMFFCYzNuNHRlM1hvVkgyTGFDdDhxVUdBd1pPdDkzV0owanFuRkV6VlV1OVR0WnY1WkRKYXpnaFUxcTdDdzk3eDBjb3gzZ0dBdEJBcjJ2bU1FbnBWclRWQ1B3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T11:02:00+08:00"
+    },
+    {
+      "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrcXFPTUpsT2dQTWp5eWtOTE9ZQ3BycXlHc0V6cDZoelBXRUhCTmZwM0U4dGV2SGtNUFZFeDhuTTRMR0p5NG91bUdUS0t2M1E3Tzk2OTBER3A3Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T10:46:30+08:00"
     },
     {
       "title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case - The New York Times",
@@ -65,25 +83,13 @@
       "time": "2026-09-11T10:01:26+08:00"
     },
     {
-      "title": "Brock Purdy long ball to Demarcus Robinson gives 49ers the lead back - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRVB0OUJXcTI0TXdqS1gyTUJBeUtLWHpFTjBfbjE0R20xTHplVnJVanZTZ21tRXhock95Ti1qWk5aNTJ1WGtxT3Fqb1NETVRZQ1dnby1veEdRS0wxbG92el9UX2U2Vmw4SDB5M0NZRXZuclQtZEhEQUI1Q2dLMVc2UWkxNEN4T1hYMG8tWGxvU1h5cGwxZG5WU0dfYU15R3ptMXB4Q09QSTZCNWFUS0ctRHBoQ1FIbGVuOWhYeERFQ1RiSmI0X3U5OHlB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T09:45:31+08:00"
-    },
-    {
-      "title": "Houthis seize key Yemeni port of Mocha in drive to take control of Red Sea coast - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUkxXc2JVVUxqdmJvWTRPQ3B4eUlfb1NhUHNzZ0pIWF9WZXBOSks2TFdNampOaVA0bnhvbmY3RFBYbW40aFRKaW5WbDBtQnJJeFIxc3ExamVPUE5nVXhDczZEWWJmcDBwZExXSVZWY3JXUjlqcm1mX3hXeGUtQWNJczJiS29qbFlOT3dIV2pzVnh1NThDc29fMEJqbGQtLV80VnM1SXhGQU1qRWkyWkxlaWg1eUhuQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T09:30:00+08:00"
-    },
-    {
       "title": "Trump reveals why $5,000 checks can wait until after the midterms - Axios",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T09:29:43+08:00"
     },
     {
-      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T09:28:31+08:00"
@@ -107,28 +113,34 @@
       "time": "2026-09-11T08:57:00+08:00"
     },
     {
-      "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - The Washington Post",
+      "title": "Sending armed ICE agents to polling places would be a federal crime, lawsuit says - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSXRjdDJFQkpOdjFuMzV2ZjExM0hJZjdXOWNxUHBsbGtHQS1aNHdsYlRhYkpJbTdLMlRYQWNRZTh5ellzejZsS3hYZTcyVTZsVGQxZ19YWnpaZzRoTlQzUTBCM2Z1UFJOVW9zbkFVT1M5SVF3d19TNmtoMXp5RlJ1TXVtX1pXMldmSHBJZTlsVEtfbmgxMktRZzUwM3dVVWhGMVRQVjNlVHVsT1V4TWZZRFExQUxpVDRDMnNxRkw4Yk5adzQyLUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:54:35+08:00"
     },
     {
-      "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmNMTm5sLWlLTEZkMUg3cm9Fb2lqVEYyOGhhcE5YemdTcjdMaXpGVnAzSFZKemxQSXA4Z0NsblZtQ3RCS2tHbUJMbkotQkI2YzVXZ2xBVTJaTEVuOU5kYTA2eDl2VTg5bVZSRlltUV9WTG0xWURzYzZHM1lCeUdzRmVscWVDQ252ZGdzSTdNc2pEcjTSAZgBQVVfeXFMTktYVUpGdGl4TXk0aDZBNWdfNTFMSUdsRGNkY1QwNm1Va3l1UzYyX194eHRtUmRselJ6bUxOaTF2Q2xSMDU3b1k2MjJDXzNQUHlySHRVV3NWQ1IzZTZaZlRKRGZXbm9nbU80YnhPcHJqWHFsSV9HQ2lYWFhyeU9sRUhTM2ZzTlVodWxaUWZibTZRT3NPUWRuQVM?oc=5",
+      "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOG8zV3NYbFBRUFRvZ1dFcmNaR3ItVEN3MHgxRGFwTl9LYkszTzVUMGdoZElTN09yR000NnVzN2hVOUk0aHRaSUF4Sk1iY2tQcVJERXl4MUJUUktfMnlWSEJCOWNfdzRxY2hwak52REV2ZWhzeTkxUTExckJmTGVxa3ZnY3J5bHlwX0o4X2IwRTZSMGtTdzVBMFRtRlUtZjJEcU5rUTFRLThGUlHSAbABQVVfeXFMT3FxeDhpV1oxTlJpNEg5NjlrNkpLVTRVdzd1cllUQXpPU0NUazZRSjJsZlh0aWVtZGVnSEpZUjBFV25KSFVGd1ZRYzFKWEhVNnNiZzlxWThGRk54VktQQ0ZqT3FJajluRE5HV3VRR2F0dEtrbmRkX1h5OEx0YVNnUkk2MWNwR0V3ODNSZXQ1d0dJcnpmMEV2YS1zZzlNaW9hemxzWUt3VjYzVHFFQTRnWVo?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T08:19:00+08:00"
+      "time": "2026-09-11T08:25:22+08:00"
     },
     {
-      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
+      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - gsmarena.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:01:02+08:00"
     },
     {
-      "title": "Mariska Hargitay calls pre-Emmy wardrobe malfunction good luck - 'Damn straight' - USA Today",
+      "title": "Mariska Hargitay calls pre-Emmy wardrobe malfunction good luck - 'Damn straight' - usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEJsZHpLUWNNaWlwcHhJdWczT09GYmNadm1MZEVENzd3T0Z0eUkybXM3Y1FmUHIyYWJ2ZmVXQUF5RFRmX2lZS0JMa0lPZ0JGaHVSbzVUdXdhV29LQklFSC1TVlBhdzZJYWFuNFFWWFhnbl9PZzl0dDNVdHpMUThlUU05dkRiaEc2Y3RfMWJieE44MS03ME54YV9EejJlOVc2ZkdLUHFoMUJDWVJwalZiM3lmQmlxQm9NSXNFZXdLWmNVT1E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:01:00+08:00"
+    },
+    {
+      "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQi1UUU1CWExIX1B0cnJxS0VpZk40RExrNG9aOVYyckVITE8wWmlQS19yb29XX1FtYW5WUV9JZUxsYkNnNEZZMFlUY2ZxTFYzc212bTRDd21MZGt3Rm13cWlHbERPMU9oMUJqNG1fXzBrNHlLQU10Q1QzT196WjhKMzI1bVJkTXp0bXFGRW1qNjR4QngyWkl2V3pjTDNGZkNEU1pENk5JUUtndGdqcWZuRy1LRHNYeF92dDBSMFZNOVRLR0JaVG9WNmE3NzhWSFJI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T07:47:29+08:00"
     },
     {
       "title": "King Charles’ Statement About Prince Harry and Meghan Markle Being ‘Private Citizens’ Is ‘Not Realistic’ - yahoo.com",
@@ -143,34 +155,22 @@
       "time": "2026-09-11T07:40:05+08:00"
     },
     {
+      "title": "Apple’s foldable iPhone poses a $1,999 question: Who is it for? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T07:40:00+08:00"
+    },
+    {
+      "title": "Iran-backed Houthi rebels take strategic port city in Yemen, raising threat to Red Sea shipping - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWRYSVQ3NTI0em1SZDNNMlFJS1YtZnNsUHFQdWhuVkM3ajdsdXVubnlmQk1QUllqZm9VUEctOThDRkVOSjNtOGtWNEJzY0xJOVhHeWxVSUU3ZGVZeUVUSGI0NzJhd1lUSTBudzJ5U21WY0RDM3ZUWGZEMVNnTTcwMHlXTGltdldkejBUdU1iNk1XamFTV1ZBblVzeC10VVU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T07:26:00+08:00"
+    },
+    {
       "title": "Spies, strategies and missed opportunities: How the lessons of 9/11 are still being learnt - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DRXpaVkFWbkxGVHAxMVQtcWdHcXNwT1hPSjZEYkRFNlkybDVtTDNjTFlhVjVObzlZMGVtblY5dTJvRnZ6WmdlNnVqX3BlVWQwTHJNdlVhWDR1Zw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T07:21:00+08:00"
-    },
-    {
-      "title": "Can Europe recharge its battery industry?",
-      "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T07:05:47+08:00"
-    },
-    {
-      "title": "I asked my husband to pay into my pension when we had a child - here's why",
-      "link": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T07:04:30+08:00"
-    },
-    {
-      "title": "Are interest rates on the way up again?",
-      "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T07:03:09+08:00"
-    },
-    {
-      "title": "Watch: Three times Trump has promised money to Americans",
-      "link": "https://www.bbc.co.uk/news/videos/cgk5nn338peo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T06:53:00+08:00"
     }
   ]
 }
