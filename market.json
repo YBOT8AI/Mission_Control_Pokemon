@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T17:04:55.485620+08:00",
+  "generatedAt": "2026-09-11T17:35:55.773094+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606282.88,
-      "changePct": -1.03
+      "priceHkd": 604754.08,
+      "changePct": -1.22
     },
     "ETH": {
-      "priceHkd": 19412.39,
-      "changePct": 0.16
+      "priceHkd": 19387.69,
+      "changePct": 0.01
     },
     "SOL": {
-      "priceHkd": 783.14,
-      "changePct": -1.29
+      "priceHkd": 781.02,
+      "changePct": -1.46
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1096.57,
-      "priceUsdOz": 4350.4
+      "priceHkdPerGram": 1094.8,
+      "priceUsdOz": 4343.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.2,
-      "priceUsdOz": 64.28
+      "priceHkdPerGram": 16.16,
+      "priceUsdOz": 64.09
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 782.9,
-      "changePct": -2.56
+      "priceHkd": 786.04,
+      "changePct": -2.17
     },
     "Natural Gas": {
-      "priceHkd": 22.09,
-      "changePct": -0.6
+      "priceHkd": 22.06,
+      "changePct": -0.71
     }
   },
   "news": [
+    {
+      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T17:20:45+08:00"
+    },
+    {
+      "title": "Alstom to build new battery-electric train fleet",
+      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T17:17:00+08:00"
+    },
+    {
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:00:00+08:00"
+    },
     {
       "title": "Five dead and dozens injured in coach crash in Swiss Alps",
       "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
@@ -71,16 +89,16 @@
       "time": "2026-09-11T16:15:25+08:00"
     },
     {
-      "title": "Diesel prices in U.S. top $6 a gallon for first time ever - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1UllOUmRnRTJ2NGV0QmV2SENfMV94N3RNNWZldFEwV1cwbThGb0ZaUmltM2MweWM2NUNEUkpodl8xdGhVVHJOUjExcVN3NC1XazQ2WnBvRkU5RTU1R1YwTXMzRDVsMjd1U2tZZjZWRmU2cE9M?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T16:13:00+08:00"
-    },
-    {
       "title": "AI boom helps drive surprise UK growth in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-11T16:04:22+08:00"
+    },
+    {
+      "title": "Prince Harry’s ‘Error’ During King Charles Meeting Cost Him Dearly — Expert - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTl2WFJ2alN2cXhPay1BSTgtb21nM0V1OFpNaGlTSUVQRVRHbEJQcFJJSW1HM1czc2xXanlZWkdzWndaSXJLendaMTR4VzdOV1daVWFCSlhWZHpGU1dUMUlBZXE2b2xldEpEQzd1bWE5YkR0RjVlM3B3azEzaVhESkg3U3MzS3N3RWZjeEp3cnA4ZnlVanloYWdrQzAxM2JKZ2c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T16:04:07+08:00"
     },
     {
       "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
@@ -89,22 +107,16 @@
       "time": "2026-09-11T15:59:26+08:00"
     },
     {
-      "title": "Alstom to build new battery-electric train fleet",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T15:42:35+08:00"
+      "title": "BRICS summit: Is the bloc truly challenging a Western-dominated world? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDNLY0xrWFpCRnVZeEpTWG1PSVJ1elp6Y2dnNDNvSDVBX1VSYWM3ajQ5elRROVFrRHc3Y0czQWlvTVM5alFlN0p5SUp4ZkxXQ3RpMHlvV3BGRjkxZXotZDNKQ0dTQ0l2YzhHWnpadjI3N1RDVHdjZjQ5NHU3VHpfY3JLRms1YXZTRjZTd205Qk1RX055SjJqWWlzYzVXMGFFVDhNZ9IBqgFBVV95cUxPV0pKbVVZQU9WRm1BZ0ZuYllnZXZ5RXdvWmlrY0JxMmtaeEFjV2lERVRsdWNqQ3BUcWdxQ040MDhQRkRUZVF0OGJYTEgxRWZtQXc3dmM5djBuMTkxcUdna2ZtZUlMNzBXaDdTYnlFVjdrSGw2UFh3MWRnRXg3RXlUWlJnbG5oYmd1OThqMHUxdGRYUzJvQVgtbFVYMDAyNHNpOVZnYVZGTk9UQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T15:44:15+08:00"
     },
     {
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T14:54:46+08:00"
-    },
-    {
-      "title": "Fenerbahce coach Kartal’s resignation refused as bottle thrown in Roma tie - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQXlhSzZCRGtLLXFkVXJsaVdIT2ZNSlU1UGx4eFBMYVo1ODlVZGEwbGUxaU1sN3MwbWFvdG1wUjQ3bWp0MklnSzJXb2hYb09OQkhTeklwcTBoZkhOalhWUU1iSHBKMXB6SVE5bDFCZG5KbTBVMUVIME9VcXZYTjhLYU9XMTFBMzdVa2tpdDVTbElHZmU4VkFld3hrSUoyUTUxZnFaQ1JzU2cxZ3ZvTjlkNHRQeXZ0Q1Y4WDgydXJUNUNMbzVMZUp5SmNJanhBLVFGZ1FXbE4yVXpEWWEwQkhXetIB5gFBVV95cUxPV3pTeElDc0dtZkt0bE9Zd0NSZXk4TGxWdUI5UUUtVnl4anpNbjc2dXZobkE3UTFQbGFDUUhkVTlZSzRCTXlrZXBvVHY2RXhjSVc2dHpqQ2xLbnpUb0FudFdxR1dRdkRaenlMY1BFdndVc3NaODltOTFyTExTVHd0a3h1V29NNTFEQVBHRWtlMTJaazA1T2ZHTFExaUx2Tl9reUVXTWhDNnlzeUJQalpXc0xnWGNXVXNLN3RRWGIzOVdIaGlSeGhPeUhsOXRlNFI1bzFGNDVQRFgtdmxhOGN6UXdoQ1JEdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T14:42:40+08:00"
     },
     {
       "title": "Aryna Sabalenka cruises past Jessica Pegula and into the U.S. Open final - The New York Times",
@@ -117,6 +129,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T14:28:42+08:00"
+    },
+    {
+      "title": "Fenerbahce coach Kartal’s resignation refused as bottle thrown in Roma tie - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQXlhSzZCRGtLLXFkVXJsaVdIT2ZNSlU1UGx4eFBMYVo1ODlVZGEwbGUxaU1sN3MwbWFvdG1wUjQ3bWp0MklnSzJXb2hYb09OQkhTeklwcTBoZkhOalhWUU1iSHBKMXB6SVE5bDFCZG5KbTBVMUVIME9VcXZYTjhLYU9XMTFBMzdVa2tpdDVTbElHZmU4VkFld3hrSUoyUTUxZnFaQ1JzU2cxZ3ZvTjlkNHRQeXZ0Q1Y4WDgydXJUNUNMbzVMZUp5SmNJanhBLVFGZ1FXbE4yVXpEWWEwQkhXetIB5gFBVV95cUxPV3pTeElDc0dtZkt0bE9Zd0NSZXk4TGxWdUI5UUUtVnl4anpNbjc2dXZobkE3UTFQbGFDUUhkVTlZSzRCTXlrZXBvVHY2RXhjSVc2dHpqQ2xLbnpUb0FudFdxR1dRdkRaenlMY1BFdndVc3NaODltOTFyTExTVHd0a3h1V29NNTFEQVBHRWtlMTJaazA1T2ZHTFExaUx2Tl9reUVXTWhDNnlzeUJQalpXc0xnWGNXVXNLN3RRWGIzOVdIaGlSeGhPeUhsOXRlNFI1bzFGNDVQRFgtdmxhOGN6UXdoQ1JEdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T14:22:30+08:00"
     },
     {
       "title": "Has Trump won over voters with his midterm convention?",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVE5WaUVsam1zQkNmUndrUlFvZkF3NW80a0NkekZSODZGQVVpX3NaSkJPc05YZktKNWQ4akRySHRsMGNWTVZVOFRrYUVnUlNaRElfNlBLWUdWa0NibkpGeWZ2NXVMZ1Rqb2xSZWxoQ3p2UnFpNWdGbWxpdWFmcUlrYno3QlBtN2huZS1mTUpvdXI1amNEYm5vZXBPSjVtcWNQdWxkVHNpOS1ETk43Ri1tZUloZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T13:40:00+08:00"
-    },
-    {
-      "title": "Physicists just found a tiny glitch in time itself - Science Daily",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JNC1ha3pYYnQ2WFBDV2hXZFN6Q1NBSmpka2RqSXhNTEw0MHBCcFpVUjdUVTFsd2J0b1dvR1BlS2FuWEhzZDJ2OFBNN2FtMnk3QlZhdUhmcDZHSFUzZ3hfYkZrRG9lLWFpQS1oMk1Udw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T13:20:18+08:00"
-    },
-    {
-      "title": "Scott Bessent fails to break ‘fever’ in US bond market - ft.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T13:17:04+08:00"
-    },
-    {
-      "title": "Horoscope for Friday, 09/11/26 by Christopher Renstrom - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGlTTWJUWlpQWXpFMEd4SVF2b3pFRjhhOUxzWkJZdVZOdjI5UnBqOVBOY29WS2xrTXdGNU1VQnYwSHFabXlNeTVFOVhMZUFFUE5reFJoaE5iSUNITl9jbHBfTVBCdUhVUlNkbG1oZFdXNzl0MEtoS0lQVlZ6bTVnV09rOXlicEhnY3NyS0JxX2pFUUw1MVVBajlUUml5UVMtMHc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T13:15:58+08:00"
     }
   ]
 }
