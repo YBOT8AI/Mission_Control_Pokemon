@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T18:38:03.026130+08:00",
+  "generatedAt": "2026-09-11T19:09:10.450607+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603734.88,
-      "changePct": -1.16
+      "priceHkd": 602464.8,
+      "changePct": -1.2
     },
     "ETH": {
-      "priceHkd": 19320.43,
-      "changePct": -0.09
+      "priceHkd": 19257.31,
+      "changePct": -0.15
     },
     "SOL": {
-      "priceHkd": 779.3,
-      "changePct": -1.62
+      "priceHkd": 775.14,
+      "changePct": -2.11
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1095.96,
-      "priceUsdOz": 4348.0
+      "priceHkdPerGram": 1093.67,
+      "priceUsdOz": 4338.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.17,
-      "priceUsdOz": 64.14
+      "priceHkdPerGram": 16.11,
+      "priceUsdOz": 63.93
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 777.73,
-      "changePct": -3.2
+      "priceHkd": 775.38,
+      "changePct": -3.49
     },
     "Natural Gas": {
-      "priceHkd": 21.97,
-      "changePct": -1.13
+      "priceHkd": 21.93,
+      "changePct": -1.31
     }
   },
   "news": [
+    {
+      "title": "Alstom to build new battery-electric train fleet",
+      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T18:53:44+08:00"
+    },
+    {
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T18:50:04+08:00"
+    },
+    {
+      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T18:32:18+08:00"
+    },
     {
       "title": "AI boom helps drive surprise UK growth in July",
       "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
@@ -71,16 +89,22 @@
       "time": "2026-09-11T17:54:51+08:00"
     },
     {
-      "title": "Alstom to build new battery-electric train fleet",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T17:17:00+08:00"
+      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
+      "link": "https://www.bbc.co.uk/news/articles/c07lv53l7jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T17:38:23+08:00"
     },
     {
-      "title": "Oil Keeps Rising and Diesel Hits $6 a Gallon as Middle East Tensions Mount - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fVUNYdHZLZHE5UUZkTmRKRm9PQzBrM2FwbEVsXzZzU0ltLWVULTJlekliUFVOSlRsY01vdU1pM0tLaXpuM2dHYUcwYnBwX1Nld2FrZ0RwNW1NVDRSOEtYZExIeEFfc2xjMjYtQ2tJMlNpN1JZUFE?oc=5",
+      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUTBldk5ZbDBRTF9rN0o3bHNMWGtaRUp1R2xlSDJWSThBc1VSc2NGc2hLMDZMZVFnUE1FTTJSNzM4VG01WFlKMnRWaGlIdGVfeW1aZHNGRi1yZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T17:11:32+08:00"
+      "time": "2026-09-11T17:20:45+08:00"
+    },
+    {
+      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:18:00+08:00"
     },
     {
       "title": "Empty seats, socialism and Trump dominate the Republican midterm convention - NPR",
@@ -95,10 +119,10 @@
       "time": "2026-09-11T16:54:20+08:00"
     },
     {
-      "title": "Rand Paul and his staff travel by private jet with taxpayer dollars while preaching fiscal restraint - Politico",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EQ1FfVXIyTUNBSjZFdGpKSE9OVzZSam1LMWRrT3pQa19MY29kaXpZWW5MTUkwSHhZVzk2VGNOaTM5NExxQUhzNTZkS1lWVElDWmVTWUU2NC1STkthQUFxaGZnTVdDUlp1b2xBRDFVZFRGaUxYRzZoZ3JMSmg?oc=5",
+      "title": "John Ternus and Greg Joswiak reveal why now is the time for iPhone Duo - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXVqcERUa3R2dHMwYzJfZWxtZUQzakxMZU9qNTAyeG1xeERsY2J6SWtzMEl1RWNVZFVYS1JsaEJhcWFzZzAzTFEzOTdZUzVOY0tyZkZzbkV4UzhpYXhhVllwcFRHb2xCcWpJcE1MR1A1R19zdVU5VE9nRDM2Vmk0b1N6OXo4eTRXdXZKcTZaLTdZRFA3aUE0OElRcmRRMkZFamxoMw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T16:45:00+08:00"
+      "time": "2026-09-11T16:31:00+08:00"
     },
     {
       "title": "Interest rates could rise again across the world – here's why",
@@ -125,10 +149,16 @@
       "time": "2026-09-11T15:59:26+08:00"
     },
     {
-      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF30gGQAUFVX3lxTFBlTGo4VFF4bjBsZE5NaGNTR0FQSVM1RWp2blpWM2ZZenVJNjZLMTRrS0JBSTBYXzhIaklhVldfWHdPR2x2NVF3cUVrd3hCTE1YanV5VGFkNG5LdmJtNmF3YklkbkdiT3NWQm5YQVEtTEhqMW9CRTdmV0ZTVVZYNzRhNXhKTVdEeUNLdEtEd1JKUQ?oc=5",
+      "title": "BRICS summit: Is the bloc truly challenging a Western-dominated world? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcDNLY0xrWFpCRnVZeEpTWG1PSVJ1elp6Y2dnNDNvSDVBX1VSYWM3ajQ5elRROVFrRHc3Y0czQWlvTVM5alFlN0p5SUp4ZkxXQ3RpMHlvV3BGRjkxZXotZDNKQ0dTQ0l2YzhHWnpadjI3N1RDVHdjZjQ5NHU3VHpfY3JLRms1YXZTRjZTd205Qk1RX055SjJqWWlzYzVXMGFFVDhNZ9IBqgFBVV95cUxPV0pKbVVZQU9WRm1BZ0ZuYllnZXZ5RXdvWmlrY0JxMmtaeEFjV2lERVRsdWNqQ3BUcWdxQ040MDhQRkRUZVF0OGJYTEgxRWZtQXc3dmM5djBuMTkxcUdna2ZtZUlMNzBXaDdTYnlFVjdrSGw2UFh3MWRnRXg3RXlUWlJnbG5oYmd1OThqMHUxdGRYUzJvQVgtbFVYMDAyNHNpOVZnYVZGTk9UQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T15:43:24+08:00"
+      "time": "2026-09-11T15:44:15+08:00"
+    },
+    {
+      "title": "Oil prices falls to $105 and Asian shares decline, tracking Wall Street losses - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQy1VQVR5VnAyYTE3VGNkNVdQVElFYkliUUEwNW0wRHl3Y014Q2NyVE4tNDR5TE5MdDlsT3FTanBNbTNaelFWT3FZNTY3RUU4YkEzSnRlaGJOTmdFQ0s2ZngzaWFxQ1RaZ0Q0aVotVEdLU29mRmU3M2x4OUthX1l5c3p4LTAzUEY2bUVRRE4teko0SkFzdl9jT0hvekVDTy1leEgxbWx2dHFIU0dhUlE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T15:33:00+08:00"
     },
     {
       "title": "Princess Diana's 'revenge dress' goes up for auction",
@@ -137,40 +167,10 @@
       "time": "2026-09-11T14:54:46+08:00"
     },
     {
-      "title": "Aryna Sabalenka cruises past Jessica Pegula and into the U.S. Open final - nytimes.com",
+      "title": "Aryna Sabalenka cruises past Jessica Pegula and into the U.S. Open final - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbm5IX282N1JzNlFDdmpjZjdweXNpc3NGTi1wQ1QzeWRuMncyTzNDeDFUTDA1dkN2LTBsTlBFSUZlRnZBMExuOEt5Sy1UdFJZSlFUTzhfYldEX2NXUGhZUXZoajdNRFNyUFZ1Z2hJNGV2UmYzbDkxNi1lbWd0MTJ5emZUdVhXZTlZbTRHQnhKdWJUdXp6VzB4dkxiYWZ0S1Z2eGptbS1XM29fZXM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T14:39:05+08:00"
-    },
-    {
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T14:33:15+08:00"
-    },
-    {
-      "title": "Man jailed after threatening to behead son's teacher in French village",
-      "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T14:28:42+08:00"
-    },
-    {
-      "title": "Shanahan, McVay brush off travel plans as factor in Niners' win over Rams - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVhKSWVtNUhuVy1IclJHNDlfYTlLUDNLXzRPR2FKbTktVENZT09JQVZVVTVzU1Q1Yy1tOGNHWFRic3ljelo4TUZpcENpVnhJNlZ2dWVFaEhmTkVHYlFPcDlnekN1QzVaczV5Vk8yNUpNeWtsMk9ZZUVDTTRkVDdjZVYtMUhOOHdsdGN1ZERhOUJlZmxkenh2SEcwa2p5end1RlBF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T14:22:47+08:00"
-    },
-    {
-      "title": "Has Trump won over voters with his midterm convention?",
-      "link": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T14:16:54+08:00"
-    },
-    {
-      "title": "Behind the killer robots of Ukraine's new warfare 'revolution' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW1nSnhZc3pjdUh3XzE1QkZvVU11YTZPa3hhbndTNkExa2Z1cnhKbXBNZlR0VlVFdGplNks4a1dILWswa2QyNUNfQjJVUFV1UmdSbmwyR1pzVFlOSmxQdV9ZczROOTA4aWhRQUFzc2tocS15czZ6RmpZbF9UbG9kbUMtYlFDVHBlY1dzUzBLWTc2UGt1eGZjRXp1NFFIck83Yk01RmRSTjQ5cGs2NFdYdC1mQ256QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T14:04:00+08:00"
     }
   ]
 }
