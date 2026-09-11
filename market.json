@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T10:52:19.527976+08:00",
+  "generatedAt": "2026-09-11T11:23:21.686183+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602833.28,
-      "changePct": -1.76
+      "priceHkd": 602190.4,
+      "changePct": -1.96
     },
     "ETH": {
-      "priceHkd": 19201.73,
-      "changePct": -0.92
+      "priceHkd": 19173.11,
+      "changePct": -1.2
     },
     "SOL": {
-      "priceHkd": 778.98,
-      "changePct": -2.28
+      "priceHkd": 777.26,
+      "changePct": -2.67
     }
   },
   "stocks": {
@@ -33,31 +33,25 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1090.57,
-      "priceUsdOz": 4326.6
+      "priceHkdPerGram": 1086.76,
+      "priceUsdOz": 4311.5
     },
     "Silver": {
-      "priceHkdPerGram": 16.01,
-      "priceUsdOz": 63.52
+      "priceHkdPerGram": 15.93,
+      "priceUsdOz": 63.22
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 804.15,
-      "changePct": 6.79
+      "priceHkd": 808.38,
+      "changePct": 7.35
     },
     "Natural Gas": {
-      "priceHkd": 22.2,
-      "changePct": 0.35
+      "priceHkd": 22.24,
+      "changePct": 0.53
     }
   },
   "news": [
-    {
-      "title": "Trump Loyalist Joseph diGenova Quits ‘Grand Conspiracy’ Case - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0dRcFNZa0xRbFNXQzc3YkFQVGVwRTVPU3V2cUVVYkFQSG53Ri1pRTB0cVV2Nl9QdHRaWjgya1VCbDhQdEk0dHJkVEx1eGVoTW1acnZVMXZteVZPRHRYY3BxZTJZazhwTGZDTWhTTnJXWG9CaGNRREhKN1hJdHhGdmVJWXJzN2JPN0QwMg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T10:01:26+08:00"
-    },
     {
       "title": "Rabies cases increased 17 percent in July and August, CDC says - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSnBCZlRpcE11THVIMVRFNDYySXFUVHlYdG9oVVhOMkVHbEdjZW5aOHk2eE51NmZDUlUyak1lT1Z3RlE5U1BVb0o5QzZtcWlzeF9XU3BoR3dOVkpzUThQa21iX3dXcHUzRHFUN1RwVHBfYlJYSlhRMHljZ1FfZGt6dDQ0UlY1SGY4Tlp4SENNZ3o2VFJNM19MSlF0eG1vdjgxT2tYd185MA?oc=5",
@@ -77,10 +71,16 @@
       "time": "2026-09-11T09:29:43+08:00"
     },
     {
-      "title": "San Francisco mayor declares rent emergency as housing costs soar amid AI boom - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOamZadzNXd1lqU1NRQzlKc0Z4OWFsUnd5U0p1WnFPN3gtanMwcTJxYlcweFJqdkVOWTBJSGd1OVdlMmpET0JiR2lXOXhlZk1lejlCanJJMTFtcGlaN3o5M3ZMZHVhdGVLUDAxX0c5VmtOUWQ5WVVLREp1OUFzRWRTUkRuN0tjYXNEajVZaVdUbHlvZjVPSFE?oc=5",
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T09:23:00+08:00"
+      "time": "2026-09-11T09:28:31+08:00"
+    },
+    {
+      "title": "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T09:25:53+08:00"
     },
     {
       "title": "Coach crash kills several people in Swiss Alps",
@@ -95,19 +95,13 @@
       "time": "2026-09-11T08:57:00+08:00"
     },
     {
-      "title": "Supreme Court again blocks new Missouri congressional map favoring GOP - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2dfZEEwUktYR0JSUkJicG9LS3RyaUdhS0N2clVNT1pHX3p5MGVQUEZzN2toOVdDMGF2R2UzNlJHLWR3cTFPLS0yYkp4VTJoUmQyLWNZc1RPaGpRNjN3QTE0YjdBeU9XcE5VazZPaTU5ZUp6S3VEbUVPUnRocFZidmo5Sko4VUJ4dHhvZ1Utd0Jib3VlU2N1WG4wd3VtNmtVdzFaMDAwTmlIeWFOLVBENzFadzRPUldOQkVpaF9IUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T08:08:53+08:00"
-    },
-    {
       "title": "Live results, best moments and analysis from 49ers-Rams - ESPN",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPamZ5SUFrbnhoZnRURzNISWh6Vmk1NGg0ZGFzQktpS3lUTjlER3RDRUJVLWFzbTVqamVUY0VqSXhZWVVUMkQzdHNzaVlCVnRnV241eWNjY2lBX2RGTWQ0XzNBVWE4LXpRZ3J0QXJjS0sxSUg2aXotdWhDYTVUSzV5bnpyaExNck1RVTFuUFYtRFJWd3I1VjJ2OE9uWmRLeThWeVpSLW16YjliQ0ZfLXZrZ2pfeVJqdHpHekN4RF9WUnB6aXpUMTZTZG03VVRiSnNuRWQtV0tvSk5mWGFqLUdnbzVHbE0?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:08:45+08:00"
     },
     {
-      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - gsmarena.com",
+      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:01:02+08:00"
@@ -119,13 +113,13 @@
       "time": "2026-09-11T08:01:00+08:00"
     },
     {
-      "title": "King Charles’ Statement About Prince Harry and Meghan Markle Being ‘Private Citizens’ Is ‘Not Realistic’ - Yahoo",
+      "title": "King Charles’ Statement About Prince Harry and Meghan Markle Being ‘Private Citizens’ Is ‘Not Realistic’ - yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHFkUjVHUzlIeThhSUNZNU1udE1yRzVoMVlyODFEN0dSb2didnhzSnd4NXNnYjRSakFldHREZnRRa25Uc3ZPN2RVa19RZDNrUXBnUzRkczB6ZmVQT2lGUXFFSDFhQzBhZE5NbWw0SjZOR1YxSDNrQXMybU9BZ1lVeHBfUVYyZzRyeEJfVm52RTZNaS04OU04RURlYXdJS3BReU85UFhONmU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T07:41:46+08:00"
     },
     {
-      "title": "Apple’s foldable iPhone poses a $1,999 question: Who is it for? - Reuters",
+      "title": "Apple’s foldable iPhone poses a $1,999 question: Who is it for? - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVhTTkNyYVpzVHVfMlBkSThSRUNEVGstVEZ3WkRISGZ4bUxBZUhIZnhURGVqNmlVenltRDBGYUpQUDI1UXJ0YklPY1JYV0Z5TjdrMTdqd00waVp1QngxUnhsWnVhdDdJcXllUmlGVkQwRE4xNEI2bUtCNmFKYWlJMFRiZGNiZ2Q4cU5zWTNnNXpxaW5hd2d0eWthZFNuMjRkYXBNWFdEWDNXaWI5VGlMNmVoVQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T07:40:00+08:00"
@@ -153,6 +147,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-11T07:03:09+08:00"
+    },
+    {
+      "title": "Bessent: US to sanction large bank on Monday - The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MLXpEb2ZBcDJVamw5X0xzSjNlblY3TWI0YTdfc3B5aVpVRTQtRjRXUVlWdXJpR3AtUjBEVGg4Mk1vNDFiVnVBT0pYb2o2akc4RXNmaHd4UWF3S0lCXzRB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T07:01:21+08:00"
     },
     {
       "title": "Watch: Three times Trump has promised money to Americans",
