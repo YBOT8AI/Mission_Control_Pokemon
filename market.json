@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T12:56:31.767401+08:00",
+  "generatedAt": "2026-09-11T13:27:31.837291+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604479.68,
-      "changePct": -1.54
+      "priceHkd": 604369.92,
+      "changePct": -1.6
     },
     "ETH": {
-      "priceHkd": 19271.19,
-      "changePct": -0.75
+      "priceHkd": 19273.93,
+      "changePct": -0.74
     },
     "SOL": {
-      "priceHkd": 781.57,
-      "changePct": -2.16
+      "priceHkd": 780.86,
+      "changePct": -2.22
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1092.91,
+      "priceUsdOz": 4335.9
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.09,
+      "priceUsdOz": 63.83
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 803.05,
-      "changePct": -0.05
+      "priceHkd": 799.37,
+      "changePct": -0.51
     },
     "Natural Gas": {
-      "priceHkd": 22.16,
-      "changePct": -0.25
+      "priceHkd": 22.1,
+      "changePct": -0.53
     }
   },
   "news": [
@@ -59,28 +59,28 @@
       "time": "2026-09-11T12:20:00+08:00"
     },
     {
+      "title": "Scott Bessent fails to break ‘fever’ in US bond market - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T12:01:48+08:00"
+    },
+    {
       "title": "Brock Purdy, 49ers dominate Rams 27-7 in Australia - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMk9ic1cyTU9kZVp5Ny1pU05zc19CZmFLZWprRUZQek1jZzdvdklfMjh4S3BUU3lvN3JfYjlvME1UYld4ejJpWXZSd29SVlJfVFN1M0JmTkljNTRIQlIyYkd6NGU3VVI3UHRTQjZNRS1JeG5lY3Rkc1dBSFpaOUo0VDJlNmFidHhrRE8tQjNuQ19Va3d3Z0M1NXQyR1B5MnFkRmQ1aEF6VUVWNl9Gak9Scw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T11:38:10+08:00"
     },
     {
-      "title": "More Anthropic researchers warn of AI’s perils but Musk dismisses ‘psyop’ - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5",
+      "title": "Democrats play up Trump investigations, Epstein files during GOP convention in Dallas - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTFlFV2t3LUtPNFZUS1VCdy16YjVMclhTdUZIZks4UzN5VnEzQ1JwYzkxR1lZU3h5ZFlaaDBOYVZRM0w0UFB5UDRzVzVhaE0zM1Utd0t0MWVaTFpXMGViOEdXNXk5djk2Y3FwSHYxbnp3SVdTeEtETFVSOUFtUVY2ODFGRkg2TUdkbV9ySTl6TllrelVRMjJtMjBya1dncXMtanZQT0FMQ2JfenBuYnRielVZWFFYSWdzVVRIVklVdUJCUTdqdUxJLWh0ZURsZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T11:15:00+08:00"
+      "time": "2026-09-11T11:20:53+08:00"
     },
     {
-      "title": "Kim Jong Un wants North Koreans to have more (state-sanctioned) fun - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDREekN4OWVSWnN4YkY1XzctdzFDOHBWbmtCanpBaW5zLXhOeG9LWVV1dWdzcWhZUEltVDJMOTdIYkdHcnJvOXZMVnBaWFUwSjdwX2xtQllISy1KcmZUeWZ6R0k4RlpVZXYtejlaTkhOZHlrRDAteGxKZldEODFfNjk4WnVlR0lrUVVyMm1yLVF5Y0Fac2JLcmwwaG0xMFhGbXhiUUxFaw?oc=5",
+      "title": "US Open women's semifinals: Score, live updates as Coco Gauff faces Elena Rybakina after Aryna Sabalenka's domination of Jessica Pegula - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVy1EQU5pc0FMUlhvbloxM1JpeGtsLW5vbUVueUF5UVE4Tl9OTmtqWXpiTUkxWFlPR0NvdXRKa2dGeHlhR0NFWTJ6d25xVlU4Tk5oMFdnOWdHU1d6U1FMdXRnN2pheUVYdlR2NnFXWnVDbl8zdnJCWlBVZjFYMFFCYzNuNHRlM1hvVkgyTGFDdDhxVUdBd1pPdDkzV0owanFuRkV6VlV1OVR0WnY1WkRKYXpnaFUxcTdDdzk3eDBjb3gzZ0dBdEJBcjJ2bU1FbnBWclRWQ1B3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T11:00:00+08:00"
-    },
-    {
-      "title": "Aryna Sabalenka on brink of US Open trifecta after blitzing Jessica Pegula - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmJsYlhvWUc3My1EYTdKc0h3NDREeXlQcWc5YjlaX2tlWVpYRk5RWjJlVE1welFoUlJleEludlVCRWg3Qmx1SWZESE5aTXRINlBHbGhYS0lkZzBWN2lIbTZwdE82RTZBVmpyMGJYNGloTllCXzg0ZUpNb3lGckNXX18ydGY4Nzk5UGZuMXVzOWtXY0phaGo1bGc1NHlFRVlpSlNrZg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T10:52:00+08:00"
+      "time": "2026-09-11T11:02:00+08:00"
     },
     {
       "title": "Anthropic blocks 'malicious use' of AI that could develop biological weapons - BBC",
@@ -101,16 +101,34 @@
       "time": "2026-09-11T10:08:00+08:00"
     },
     {
+      "title": "MPs to vote on legalising assisted dying in England and Wales - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMeUp4ZHJ5YjBfazZhcTlsNm5RZ1l4UWZaS3ZiVzVrOWlfNmthWnNxbDF2cmZKTnBIWkNnVUp5TkdUR2Q3Y3h3MWtYVjJoM2VGcDRrODdHZG1jQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T10:05:23+08:00"
+    },
+    {
+      "title": "California enacts new curbs on social media for children - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU0lLNk0xa3VlTFBQdUxIbXZzejNoblZZVEQzcTdQOW5lM19MbFhDTmttWG5XM0t5ZDhkX1VXMmp1NGhodnNXbnBQekVhUWx3OU1YMnNEU21SbHl4YTFVZTk3bEhJR2NVeVVJWDBGSFQ0UU9fME50TjJWRjFWaXd3VzltLU9Ga05wLWZETG5JS3pjaGNxOEFQRNIBngFBVV95cUxNY3ZRS2ZBRC1laFFPY3pwY3JXZmFJMXJhSWJhbVBrdmpSWlRBUl9hZ29GaVd2bE1CT29vcjM1NVFMTmVLQ2llWU5lb2kyNDdLTjlDWHB0TWFQSWVaUTdNV1dvTWdjak1JemdveFRQT2t4VTZBQ0d2TG1pNG5fRlVhVmJRQU1Lc0tuYzN2Sm9GZDM5OURfMmlXdVVQVGd0QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T10:02:00+08:00"
+    },
+    {
       "title": "Legionnaires’ Outbreak in the Bronx Kills One and Infects 4 Others - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWGhmOFlmbWxPT2h4LVliZjRXc1BMaU1JcWVtamhfaWctTHBSUC1sUTFSZlQ3UUgza3RXYUlicUp5MTlQSEpXdjFMYlMtZ2JoNzE2U2VEZHNQYXJXd0FkWjNIeE00a3dvUFN0b2tHdkRNeEs5TVM2a2hFUjF1Z3BKOW5nQVp3UlQwb0I0?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T10:00:35+08:00"
     },
     {
-      "title": "Trump reveals why $5,000 checks can wait until after the midterms - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
+      "title": "Global bond sell-off resumes as surging oil prices stoke fears about inflation - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNnZTNldEQUVCaWRsTTNsRGZfSlZqVXVfUXMwZkFpUWVNZEdoamVnUTZvZXRocnZKd1d2cVk2M0tlVEFwLVV0N3A3dGJkbU1yVnZBM0w2MG9kaU4zOUdpTXhSS3U0QjJmU1hPUm5fc09VTDZGaHNUdFAyVjVqVFo1eTQxM1NLWHh2LUN4U1pHbW81TURycVVHTV9iOExmQmlPcndLZXlYdEZ6WVJ2N3FMOFZEVHpvTzZQWnNzS0xkSldnMDNVbnVGeHRWMA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T09:29:43+08:00"
+      "time": "2026-09-11T09:30:00+08:00"
+    },
+    {
+      "title": "Hawaii Governor Asks Trump for Help as State Copes With Hurricane’s Damage - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT0VnbmNMRHFOSlJRbnVXSmZ2OU41dk1TQmgwM3ptUFhwV2I5VnJadDk0aG5DV1FQclQwckJXWENIV1Y4U09ERmlmV0l1LTZOcWNDSEVHT2ltMTBmQnhUTGtNRWktbThyV1BDcGlsZmtSTEpxa2F3ZTdObTFJS3lMSFVvVzVRV1ZI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T09:08:33+08:00"
     },
     {
       "title": "Coach crash kills several people in Swiss Alps",
@@ -125,52 +143,34 @@
       "time": "2026-09-11T08:57:00+08:00"
     },
     {
-      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hRjZwbjNmOUdKVjQ5ZVVIZmVQSXB0Z1BoV1BORjdNeUpYTV85UVNGbmJKd1VzQXVBaVdHVmdlREo3SlZlM2RPejZCOE5PWjlvMEVOSHJCS1lGS0RfUmkyeUJDcmZib2dsYmw3bElaQmdGX3Jm0gF6QVVfeXFMT0E3MGJucVFXdU9uVE5aQWJBLUk4YUI5VXNHWmloV1M0MWtNc2tPQm10YmRKczA3bHVhWktCdFd3N3VQcG5CNzBhTVJybVBUWVNRYWt0SWE3ekQzWnZ4bVhHekRKRThSa3ZsMUVUS2lEalF2UXJwb1FxRUE?oc=5",
+      "title": "People long for simpler times, say Practical Magic reboot stars - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JdFhnMHotRDY3Y0VVbjdRTnJFa3JKeW9XZ3pWczhiU29JeEdNT3F0a1lzOWJlUDlPQ3VJWFdtc3B6N01STHBKSFlhbm51MFFuTlVVY0hTV3I2dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T08:54:00+08:00"
+      "time": "2026-09-11T08:51:17+08:00"
     },
     {
-      "title": "Lindsay Clancy juror can’t shake feeling jury failed by not reaching verdict - The Boston Globe",
+      "title": "Lindsay Clancy juror can’t shake feeling jury failed by not reaching verdict - bostonglobe.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONUdPZFV0RXZ3RmhxZjFKXzhwdklpOTVxVEprRm9wUVAyMUxQWE5nNTZVZUlZUWdUS0hJYmZmNWtHWFN5aFJhVndOajMxV2VqSG8yWXhoeWVrS0F3b2pZeTc2NFZ2ZS15bk1hQnlqVXFNaWQzb2hQcWVVc0lNSE9GS3JNQU1XV1JfVlZhR1BsMXRuOFMxSW5RbmNJTzlCVUtQVXAtdmZ1QVBub3VxdmpSa2RR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:49:11+08:00"
     },
     {
-      "title": "Israeli film on Gaza receives 25-minute ovation at Venice premiere - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOG8zV3NYbFBRUFRvZ1dFcmNaR3ItVEN3MHgxRGFwTl9LYkszTzVUMGdoZElTN09yR000NnVzN2hVOUk0aHRaSUF4Sk1iY2tQcVJERXl4MUJUUktfMnlWSEJCOWNfdzRxY2hwak52REV2ZWhzeTkxUTExckJmTGVxa3ZnY3J5bHlwX0o4X2IwRTZSMGtTdzVBMFRtRlUtZjJEcU5rUTFRLThGUlHSAbABQVVfeXFMT3FxeDhpV1oxTlJpNEg5NjlrNkpLVTRVdzd1cllUQXpPU0NUazZRSjJsZlh0aWVtZGVnSEpZUjBFV25KSFVGd1ZRYzFKWEhVNnNiZzlxWThGRk54VktQQ0ZqT3FJajluRE5HV3VRR2F0dEtrbmRkX1h5OEx0YVNnUkk2MWNwR0V3ODNSZXQ1d0dJcnpmMEV2YS1zZzlNaW9hemxzWUt3VjYzVHFFQTRnWVo?oc=5",
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T08:25:22+08:00"
+      "time": "2026-09-11T08:37:05+08:00"
     },
     {
-      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - gsmarena.com",
+      "title": "Here are the iPhone 18 Pro and iPhone 18 Pro Max Geekbench scores - GSMArena.com news - GSMArena.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRE82YjBCZWVKaWljVlZvWTVDSTN3UkIxdXJqM0tSRjBMVzV0VGt2Vmp6LVdES1ZiUWxZelB3MjE1Wk9fZmw5Z2hfbnZLMFFWWlNZLU5mOXJHSWk2Z3RmN1M1emZjUUNUUF9WaDNsaTk4b0ZQbUFBV1dSVWtUTGU4MUtuSHBKTzhvc2NfMHVRRjI1VDZkcTdfYTdubUVXa3owZFlpOWFTY0nSAaQBQVVfeXFMT3V5VTJXT0JuNWoyYXRZcUVUT0x6Rk41aFk3akRianVzN2M3VklneWpLZEJCb3FpNS1SRUFTVVJVTzhEM1otZHdkenFzTGRxeGpOM2M0U1A3ODJxdjVPY25NV1BVdm8zV05uTkwxWElha1Vvb3FCMFZucEpZWGl5V0QyZXdva0dZYWZVd3ladS1ZQjJiTmtLT29hOXp6X2ZYbDZpLWY?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T08:01:02+08:00"
     },
     {
-      "title": "Mariska Hargitay calls pre-Emmy wardrobe malfunction good luck - 'Damn straight' - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbEJsZHpLUWNNaWlwcHhJdWczT09GYmNadm1MZEVENzd3T0Z0eUkybXM3Y1FmUHIyYWJ2ZmVXQUF5RFRmX2lZS0JMa0lPZ0JGaHVSbzVUdXdhV29LQklFSC1TVlBhdzZJYWFuNFFWWFhnbl9PZzl0dDNVdHpMUThlUU05dkRiaEc2Y3RfMWJieE44MS03ME54YV9EejJlOVc2ZkdLUHFoMUJDWVJwalZiM3lmQmlxQm9NSXNFZXdLWmNVT1E?oc=5",
+      "title": "Mariska Hargitay Ditches Her Signature Style for Head-to-Toe Sequins Ahead of Historic Career Milestone - instyle.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0lOb0J6RWp6aXBUUTdWWWxzbW5vaUcxbThISjVXU3owX2JMb1NPYWpTWTFMaUNTbURNX3RpWG9VbjdJQndpb3VMbDlxbEs4YW16NENVaTA1UXdieUFSb0RNN29aSkNDQ3NqLWRFVWNTSFlBaWxpd0VQanBySzdJbFNjQmJsaUJPamd2VmJtaHp6d19WUUc3cg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T08:01:00+08:00"
-    },
-    {
-      "title": "Inside the Republican Midterm Convention, Where It Was ‘Trump-a-Palooza’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMjdQRXdsOVVlbHUxRi03OGhCaUo1N2kxZ2N0b01TYk9tV0F6VmdmYkY4d19tQ1F5NkZHbWd1MFJRQnBOVjNpQWsxR0NtQVN0S3VPZ2ZTU3YtelZGY0plZTFfQ1laZ3JtVTFnbWNIWXhzQ3A0LWlpQlRKU1pfWkNYN3M0em02R0phYWFLdFA5YXdJbVM2TGlmeXhn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:56:25+08:00"
-    },
-    {
-      "title": "Jimmy Kimmel says show won’t air James Talarico interview on TV, citing FCC threats - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQi1UUU1CWExIX1B0cnJxS0VpZk40RExrNG9aOVYyckVITE8wWmlQS19yb29XX1FtYW5WUV9JZUxsYkNnNEZZMFlUY2ZxTFYzc212bTRDd21MZGt3Rm13cWlHbERPMU9oMUJqNG1fXzBrNHlLQU10Q1QzT196WjhKMzI1bVJkTXp0bXFGRW1qNjR4QngyWkl2V3pjTDNGZkNEU1pENk5JUUtndGdqcWZuRy1LRHNYeF92dDBSMFZNOVRLR0JaVG9WNmE3NzhWSFJI?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:47:29+08:00"
-    },
-    {
-      "title": "Fenerbahce president rejects coach Kartal's resignation after UCL draw - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVItRXZJRkRyM2JJblVhNUJWVDhSTGhVRVlWaloyLVJfSTE0M3BnZ2ZaQl84SHRGZ0dZTnFuVDdTV1Q3VHNyRU9mN1RtRE40Y193RUVrQjRQeU5NY1dFWUp5WGJ5aDlFS3VOcExyZExUTWoxalZJRWdsY3c3TG5WcXVQZGpUOEc5OVFpNW5SV0pMQmw0QzUwZmtFWW5OU3lfUmZabmlsWVlMQ0NiUTF6ag?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T07:42:00+08:00"
+      "time": "2026-09-11T07:51:45+08:00"
     }
   ]
 }
