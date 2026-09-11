@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-11T18:06:59.444265+08:00",
+  "generatedAt": "2026-09-11T18:38:03.026130+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 604495.36,
-      "changePct": -1.12
+      "priceHkd": 603734.88,
+      "changePct": -1.16
     },
     "ETH": {
-      "priceHkd": 19381.19,
-      "changePct": 0.12
+      "priceHkd": 19320.43,
+      "changePct": -0.09
     },
     "SOL": {
-      "priceHkd": 780.63,
+      "priceHkd": 779.3,
       "changePct": -1.62
     }
   },
@@ -33,48 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1096.44,
-      "priceUsdOz": 4349.9
+      "priceHkdPerGram": 1095.96,
+      "priceUsdOz": 4348.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.19,
-      "priceUsdOz": 64.22
+      "priceHkdPerGram": 16.17,
+      "priceUsdOz": 64.14
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 781.02,
-      "changePct": -2.79
+      "priceHkd": 777.73,
+      "changePct": -3.2
     },
     "Natural Gas": {
-      "priceHkd": 21.99,
-      "changePct": -1.02
+      "priceHkd": 21.97,
+      "changePct": -1.13
     }
   },
   "news": [
+    {
+      "title": "AI boom helps drive surprise UK growth in July",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T18:17:28+08:00"
+    },
+    {
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:56:15+08:00"
+    },
     {
       "title": "Six Nigerians accused of romance scams to be extradited to the US",
       "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T17:54:51+08:00"
-    },
-    {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T17:50:40+08:00"
-    },
-    {
-      "title": "Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUczQkl0VENLSzlpaUdpSzlpUU14UmZwVEMyNXNmdjZMcEw3TGVTMEFFbTR1ZEdNSm5SaC1scW9KWFNxcVVPM2Z1RzJ0YlVwQ19HS0MtckNHOVRQbDhhSGYxSEs3X0NFR2x4LUJiQm1nTk5aLTZqNHhqMHIyMHZRM1BwYUtZdzhGbkJfRzJGWC1JQ0FDLTQ5cGcwR0JQT0ZPNHdLS2hn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T17:50:00+08:00"
-    },
-    {
-      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha",
-      "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T17:20:45+08:00"
     },
     {
       "title": "Alstom to build new battery-electric train fleet",
@@ -83,8 +77,14 @@
       "time": "2026-09-11T17:17:00+08:00"
     },
     {
-      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - mashable.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
+      "title": "Oil Keeps Rising and Diesel Hits $6 a Gallon as Middle East Tensions Mount - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fVUNYdHZLZHE5UUZkTmRKRm9PQzBrM2FwbEVsXzZzU0ltLWVULTJlekliUFVOSlRsY01vdU1pM0tLaXpuM2dHYUcwYnBwX1Nld2FrZ0RwNW1NVDRSOEtYZExIeEFfc2xjMjYtQ2tJMlNpN1JZUFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:11:32+08:00"
+    },
+    {
+      "title": "Empty seats, socialism and Trump dominate the Republican midterm convention - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFlHNnFLc0VrQndRX2NNZFhxY0w4S3kteHJCdmdsUDBxV3BMcXNGVTJjd0lSakd1Ul9YVUo3MTE4Z0s1N2U1XzFlLUlTYVlVeDEzV3Y2Vk9uV1FWVVRUYmJiLVFRZDFFNzY3TGZ6SFZJZzREQXZIeC1URG4tejBjMmFXczA3eHEtY21QeGtGSDRUSWMxRHlPWHZVTm8?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T17:00:00+08:00"
     },
@@ -125,7 +125,7 @@
       "time": "2026-09-11T15:59:26+08:00"
     },
     {
-      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy - cnbc.com",
+      "title": "U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy - CNBC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPek9kZ3lRd2R6TVpxbzRyVGFuUTdtMV9Vek4yOE9peFBWNXJiQkczeVNwUjlIZjBOSGtXa3RRMmVOXzFDdVBSTUhEOUlZU1JReTl1V19vbjcwdDRucTgzT1hhRUM0UEtFVmRHR3B5OVVrbkxFcG5MZmpwb1I1SFJGUlFEUjFPd0ZOSWF30gGQAUFVX3lxTFBlTGo4VFF4bjBsZE5NaGNTR0FQSVM1RWp2blpWM2ZZenVJNjZLMTRrS0JBSTBYXzhIaklhVldfWHdPR2x2NVF3cUVrd3hCTE1YanV5VGFkNG5LdmJtNmF3YklkbkdiT3NWQm5YQVEtTEhqMW9CRTdmV0ZTVVZYNzRhNXhKTVdEeUNLdEtEd1JKUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T15:43:24+08:00"
@@ -137,19 +137,19 @@
       "time": "2026-09-11T14:54:46+08:00"
     },
     {
-      "title": "GOP convention attendee calls for shooting Democrats during Cruz’s speech - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDRaVWxTNElFS1hWMXE2ZE1vUHJpUUNBVjZlYXVzbkhGeFFUVDdrblJ0bWVQeWd3ZHpVRmpQRUpILW9Lb1FhZUVmbi1GaG4wWm8xZ01xaVY3TVR0WHY0V0hZaDN4anRKQWpTTGo2SF9Ia2FGamJtdFdIdENLVk1lWE85ODN3dkc0eDJKNEVtVnlmVWJfZS1BMUViYWh4d1hFNTR5MVcxa2VVVVZKNXRLNXNLZUxIZHQ0aWlRQg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T14:54:00+08:00"
-    },
-    {
-      "title": "Aryna Sabalenka cruises past Jessica Pegula and into the U.S. Open final - The New York Times",
+      "title": "Aryna Sabalenka cruises past Jessica Pegula and into the U.S. Open final - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbm5IX282N1JzNlFDdmpjZjdweXNpc3NGTi1wQ1QzeWRuMncyTzNDeDFUTDA1dkN2LTBsTlBFSUZlRnZBMExuOEt5Sy1UdFJZSlFUTzhfYldEX2NXUGhZUXZoajdNRFNyUFZ1Z2hJNGV2UmYzbDkxNi1lbWd0MTJ5emZUdVhXZTlZbTRHQnhKdWJUdXp6VzB4dkxiYWZ0S1Z2eGptbS1XM29fZXM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T14:39:05+08:00"
     },
     {
-      "title": "Man jailed after threatening to kill son's teacher in French village",
+      "title": "Philippine rescuers board ferry 40 hours after blaze began",
+      "link": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T14:33:15+08:00"
+    },
+    {
+      "title": "Man jailed after threatening to behead son's teacher in French village",
       "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T14:28:42+08:00"
