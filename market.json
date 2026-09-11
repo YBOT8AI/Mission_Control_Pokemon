@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-11T19:40:07.562529+08:00",
+  "generatedAt": "2026-09-11T20:11:16.348882+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602386.4,
-      "changePct": -1.51
+      "priceHkd": 603060.64,
+      "changePct": -1.03
     },
     "ETH": {
-      "priceHkd": 19243.04,
-      "changePct": -0.54
+      "priceHkd": 19228.62,
+      "changePct": -0.17
     },
     "SOL": {
-      "priceHkd": 774.98,
-      "changePct": -2.54
+      "priceHkd": 777.96,
+      "changePct": -1.71
     }
   },
   "stocks": {
@@ -33,25 +33,49 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1092.56,
-      "priceUsdOz": 4334.5
+      "priceHkdPerGram": 1090.92,
+      "priceUsdOz": 4328.0
     },
     "Silver": {
-      "priceHkdPerGram": 16.12,
-      "priceUsdOz": 63.95
+      "priceHkdPerGram": 16.14,
+      "priceUsdOz": 64.03
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 780.08,
-      "changePct": -2.91
+      "priceHkd": 778.67,
+      "changePct": -3.08
     },
     "Natural Gas": {
-      "priceHkd": 21.94,
-      "changePct": -1.24
+      "priceHkd": 21.9,
+      "changePct": -1.41
     }
   },
   "news": [
+    {
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-11T20:04:46+08:00"
+    },
+    {
+      "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQl9fRVVpMllISDRxc2dyUFFaclJabXYwTDlUSnFqWXdMV042TUUxQXR6NkUwOUVaV0I3elJ4ZjE1aHRZNlcxdndSbFpkTG5LdExQdmRHQXJkWHBBeHhacG1JRjhsakh3eUJuYi1CVmNDajlPWU1tOHlZLWdDV3VGNXlRZV92M2hpQ3I3Ym8tZ2Q5akRKWGctdGhZSWhGR3VQYmRGN09IbV81WVpFdWgyQ1lZWjFIdUpfZC1uUzI4T3E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T20:04:40+08:00"
+    },
+    {
+      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T20:02:18+08:00"
+    },
+    {
+      "title": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nYnZISk5EY2oxMWtueXNNT3lGM2V2UEVHMHJSMUdnM3NnejZjTlN4WTBlNks5dy1MN3VhMERkRVhIRENxSTRQTFRleGhhZTFpTnhWbEZSLXc3c1FfTlc3TGl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T19:44:58+08:00"
+    },
     {
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
@@ -59,10 +83,10 @@
       "time": "2026-09-11T19:34:07+08:00"
     },
     {
-      "title": "Live updates: America marks the 25th anniversary of 9/11 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aSFpsYjlRM2dydTdUc25lVmVpT09GUFZiZ2ZzSmF2MkFrTGtjbnFkMndwN24zOFEwRWNuUWdCckFHdnFtVWxndmNkTWYyLUktQVdJbHFrOXprR2xCRUQwSmxjbDJWZHBFWWJtVg?oc=5",
+      "title": "Live Updates: 25 years after Sept. 11 attacks, America reflects and remembers - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3NidkdISmFyakJJdjcyTlFDRl9mUmY3Qjl4THpYYkNXX0R6ZjdGenZYOU1wTUw4OEFIZlBjTVhmZEdLdnpsUmlISmE1ZHBJUm9yQ2FwQkFFTTlfU1dhQjJPZWZDTjltUENsRE1xQXh1RjNwNWZiMVZxRVlNWFhVcDVpb2FsSVNFZ2Y1T01BUmdRZGM5dmxDN2NtV1Rxdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T19:04:00+08:00"
+      "time": "2026-09-11T19:14:00+08:00"
     },
     {
       "title": "Oil Remains Elevated and Diesel Hits $6 a Gallon as Middle East Tensions Mount - The New York Times",
@@ -83,16 +107,16 @@
       "time": "2026-09-11T18:50:04+08:00"
     },
     {
-      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
+      "title": "Oil prices fall sharply after double-digit weekly gains above $100 - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNHpYOUJUb3g4d2cyaG9nSG1DcEs3SVpZT1RaZzJZQ0xvVVBCUFFnV0Q4S1d4VjkxUXE4VlMzWGk0LUhfM3lKMzJBZk5yV3pfM3B3VjVZVlVidFo1QWs2SG5ydS1ENWFyZWtEdWpNcHQyYldyNG1TdzNqeWQ3d9IBgwFBVV95cUxPc3Z3S096WXFNWExocFlaYnBBYVFZQVA5aEtMcWo2dTdQTDdsQUN3NUphM1ZKR0x1bTlaTHVMbXE5T2Q1dUxEaV9xdmlSeTRybGk4amd4QlJGMVJMRk50dFRaOWpwcHJRNGoyc1B6NVdOczl0cHFTM2ItNmhhVXpnQ3I3dw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T18:32:18+08:00"
+      "time": "2026-09-11T18:39:09+08:00"
     },
     {
-      "title": "Trump reveals why $5,000 checks can wait until after the midterms - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
+      "title": "Inflation report lands in a time of spiking oil prices, rising interest rates and Fed on fence - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWM0aThybmN6MTZaLWFwUmx1UFJabXpuaDhNWVVHYTljanpwdFFuYWx1T1FKZmlBMHdsWDNsLXRubjcxRGk0anhWai1wYnUtQVFjZ2FWNGFxOE5nWlpXbXBzSHV2ZGN1Y2xMeGkzaUhtaGdqNUNNVVdMYkREbjVvd1BMTnBrcHNRc1F0MDhlallMZFJfVTA1MFF5cFBNaHhwMUdtRGMzdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T18:31:18+08:00"
+      "time": "2026-09-11T18:31:00+08:00"
     },
     {
       "title": "AI boom helps drive surprise UK growth in July",
@@ -101,34 +125,22 @@
       "time": "2026-09-11T18:17:28+08:00"
     },
     {
-      "title": "Trial remains elusive for purported mastermind accused of plotting 9/11 attacks - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZW41anhoeGNGU1JRa1JfYXJSemFtVnNEM0xUbkpIZWJCY3BuOUNHbXJjb2k1UlRxTFA0SElaeURVa1c3dzhkRUtJa0RtSlZQUWF1R1ozMjlnVmlDbkJsb0ZfdjQtUWR1OUN0U1pjRkliTUdNbEY5Wm54UHNPTURneFZsNXBETjRUMzJlcVBhT083SGtSODRMNHNn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T18:12:00+08:00"
-    },
-    {
-      "title": "Stock Market Today: Dow Futures Tick Up, Yields Edge Lower as Investors Await CPI Report — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFbUozNDVTLXBZcVRyRHJqeTBsZ3pFeDUtWDhrZ0E4bUowUjg4aXBkc0poNTFiaDlYZVJzbGJmTHBtdVhBN1hkYlVWWThpTnlIZWlsbGhLMjcxUjVYNGdNOVZQSkN1bUxqRGJfd01Ub0lwUXRBeHQ4YnpR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T18:07:00+08:00"
-    },
-    {
-      "title": "Apple addresses iPhone Duo copycats - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44ZzdocHg2OWh5Wlo3b0p1YXVoeWZNWmRrNHRPcFdrMUhoTjRxdTZJMWp3VmtIa1B2WGdrdmRzN2owdG9fOU55ZmhtVS10WGhpV0FWSWFESEd1V2hsM3BSaEdCN1R4YVlpc2FWUXQ5R3hfZm9UU3ZFSEIwRjU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T18:02:58+08:00"
-    },
-    {
-      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T17:56:15+08:00"
-    },
-    {
       "title": "Six Nigerians accused of romance scams to be extradited to the US",
       "link": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T17:54:51+08:00"
+    },
+    {
+      "title": "Elena Rybakina rallies to beat Coco Gauff and book US Open final with Aryna Sabalenka - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUczQkl0VENLSzlpaUdpSzlpUU14UmZwVEMyNXNmdjZMcEw3TGVTMEFFbTR1ZEdNSm5SaC1scW9KWFNxcVVPM2Z1RzJ0YlVwQ19HS0MtckNHOVRQbDhhSGYxSEs3X0NFR2x4LUJiQm1nTk5aLTZqNHhqMHIyMHZRM1BwYUtZdzhGbkJfRzJGWC1JQ0FDLTQ5cGcwR0JQT0ZPNHdLS2hn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:50:00+08:00"
+    },
+    {
+      "title": "Prince Harry & Meghan Markle Face Brutal Verdict Over ‘Public Figures’ Demand — Poll - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY0hZT2NjZTZVMS14TXpYbTdNQV8wRXB5VE1pZVNGNG1lRGxZTjhmMWR2bUtZQU52UUViZFZjMFF5WEYxM2NETENYM0FYVEhMSGVkc25QaXp1Tl9rRV9yb0N4Tk44dmxMWlUxcDdWdE0tUFBVT2dSeHhoZUJsVW5PdVpaeklLMVVQSUJjTldMZVY4a2FDQzJzTmVTNjNmWnB1UTRZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:39:29+08:00"
     },
     {
       "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi",
@@ -137,10 +149,16 @@
       "time": "2026-09-11T17:38:23+08:00"
     },
     {
-      "title": "Trump shadow looms large over Brics as Modi hosts Putin and Xi in Delhi - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kcVhqREc4cF8wc3dSNjhGa09HZlc1QzhRZGFRRGpQdWhuZnd5SVNvR0R5LVU3XzBCUEkwTzdOcURReDF2NUlUWTk5QVFCdnZHYlZMXzVWNU80QQ?oc=5",
+      "title": "Yemen's Houthis seize strategic Red Sea port of Mokha - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBtUTBldk5ZbDBRTF9rN0o3bHNMWGtaRUp1R2xlSDJWSThBc1VSc2NGc2hLMDZMZVFnUE1FTTJSNzM4VG01WFlKMnRWaGlIdGVfeW1aZHNGRi1yZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T17:38:23+08:00"
+      "time": "2026-09-11T17:20:45+08:00"
+    },
+    {
+      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDlCWTg0VTF1eVdsQk5rYVJuOHZiQXd2VjBXYkNVRFVKRUhWbUVGQ0JCSGxqWlJtYjhLdExGY3llaEF3M1ZvbWsxUF9icjFObFBNODBmSFJGY0NHSFN6MGFKU1BEV1RpazdkazgtT3ItdXBlbzJrQXFPcUV6VHBFT2Rsa2QzbUti?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T17:00:38+08:00"
     },
     {
       "title": "Empty seats, socialism and Trump dominate the Republican midterm convention - NPR",
@@ -149,28 +167,10 @@
       "time": "2026-09-11T17:00:00+08:00"
     },
     {
-      "title": "August inflation report could set the course for interest rates, affordability crisis - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm44cERNRk96Tm5Mc3JwMzZKLUJFYzctbDFTLUZqRFJRbTM2N1hjOXIzZzlFWnJtSlFRcDRZZzhjQWQyM1lyR0ZHSUhJLTJ2Z3JiVG84d0E3d25IYndacXR4MHllaGtCTUhYNUhZT0xiTjdJZ0NNa2gtZGZ0d3ZTUmowQ0R1RGxnRUVGMzZodlo1X2txUk5PeUZjSjBOUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T17:00:00+08:00"
-    },
-    {
       "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone - WIRED",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSExxeTJWdGJza0poTkd1UEJpX0lNYnlONGFWNnhmQXliUjJ1RDluVnB1UmxCbllydG5QVzdOS1lDTm5VbUFkU1lMYWg3XzlGcGlPX2poX056UG42U3JQYVFRRDYxSlBhVk9iSlFpRUhCWGlWX2wyUUtjRGdFSzRYWllDUzZiSDZXSzhwdHhNNnlHZE51WU1wdlJn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T17:00:00+08:00"
-    },
-    {
-      "title": "From DOGE to space lasers, Alex Gibney peels back the many layers of Elon Musk - NPR",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQXdUOGNvUUxnQ1pNdnl2Y0U1Yms2WWhZVWpJUEpST2k3aEFfV2lHOHB1OUhYbjhKTkJielZBd00yRGFGd3FTQ0V1M0NJZllzYmhSSTVNWC1fa2xyUHdERFBHWWZkbzAta2hQZWZwT216ZWstNFpubXNBNEJmcHRLYy02bWVkUTd0UWlsbFlR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T17:00:00+08:00"
-    },
-    {
-      "title": "Five dead and dozens injured in coach crash in Swiss Alps",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z70xr0y3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T16:54:20+08:00"
     }
   ]
 }
