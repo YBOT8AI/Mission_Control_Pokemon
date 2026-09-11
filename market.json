@@ -1,62 +1,104 @@
 {
-  "generatedAt": "2026-09-12T00:50:37.813994+08:00",
+  "generatedAt": "2026-09-12T01:21:39.605073+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610728.16,
-      "changePct": 1.04
+      "priceHkd": 609818.72,
+      "changePct": 0.83
     },
     "ETH": {
-      "priceHkd": 20212.15,
-      "changePct": 5.42
+      "priceHkd": 20203.76,
+      "changePct": 5.06
     },
     "SOL": {
-      "priceHkd": 802.19,
-      "changePct": 2.71
+      "priceHkd": 800.46,
+      "changePct": 2.39
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5517.16,
-      "changePct": 1.01
+      "priceHkd": 5520.38,
+      "changePct": 1.07
     },
     "SPX": {
-      "priceHkd": 60121.12,
-      "changePct": 1.01
+      "priceHkd": 60157.5,
+      "changePct": 1.07
     },
     "SPCX": {
-      "priceHkd": 1164.63,
-      "changePct": 0.25
+      "priceHkd": 1177.49,
+      "changePct": 1.36
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1099.54,
-      "priceUsdOz": 4362.2
+      "priceHkdPerGram": 1101.11,
+      "priceUsdOz": 4368.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.27,
-      "priceUsdOz": 64.56
+      "priceHkdPerGram": 16.3,
+      "priceUsdOz": 64.66
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 783.92,
-      "changePct": -2.43
+      "priceHkd": 782.59,
+      "changePct": -2.6
     },
     "Natural Gas": {
-      "priceHkd": 22.05,
-      "changePct": -0.78
+      "priceHkd": 21.99,
+      "changePct": -1.02
     }
   },
   "news": [
+    {
+      "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-12T00:58:34+08:00"
+    },
+    {
+      "title": "US consumer inflation picks up in August - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:58:23+08:00"
+    },
+    {
+      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:51:00+08:00"
+    },
+    {
+      "title": "Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVVjWUsxbV95SVdKWkpFYk9TXzRWSkRSSVIwd0NHRVRJX3c5UVJMejRjYWw3ckxuTld4ODN6X1R4QnFDLVVoQVBzTkxfRGlNSEx1WTRSdjlab3FyZTlmYk1weEttQlZIVUQwX29US18xZ0VJVnVqRFpXQnQ2VlZDR0xWMFF0c0VhRVh1Zmpkdld2TEV2Snc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:31:41+08:00"
+    },
+    {
+      "title": "Saudi Arabian oil pipeline system hit by projectiles triggering fires - CNN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTBNQ1lITW5CMjlZTFM3UktsZUNsaHFyb29zZ1VVMmc4b1N4dTVGMVZjM0FpSTR5eTk2N2hGOGZTSVBaTVlPWG1ZLUhJNUg4MUMzcVo2QUJWVl9aRWRvdUpzOTJndDNTN3NMdk55NWZMdXVRZUtJS0RZTXowZThEOE5BeDFJWlFmY2V1T0Jfc2liY29kdDNVX21NQXJhZjFtc01ORA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:28:45+08:00"
+    },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
       "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-12T00:13:39+08:00"
+    },
+    {
+      "title": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes - Motorsport.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNWF4WTZraUpFaVlmVEJRT01fVF80RmFfaDkyZW0yRTVQOGxNVW5sWnZNTnRkWWFNWjFjam5WOGdtQlo5N1Rlb1ZGNW1LUzRlOERGVnZUNmd0WG1GaE5vMWM1WnBXX21yWV9veVh3SlY5WV8wU3pzSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:13:26+08:00"
+    },
+    {
+      "title": "Iran-backed Houthis claim major advance in Yemen as group reportedly seizes island in key shipping route - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSE95cGR2SXdnajBUV0xTUGdFUnFVNThSWmNzMGxuU252M1J5TnBYTUtra1dfZm9qcjdTVlpHTGZPMGp4cVBhV3RQYTFnLXFubktyNnZ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:05:44+08:00"
     },
     {
       "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
@@ -83,8 +125,8 @@
       "time": "2026-09-11T23:50:23+08:00"
     },
     {
-      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
+      "title": "Trump, Hegseth tie Iran war to 9/11 in speech at Pentagon - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNndvb245dDI1bVpraW5KamVxYW11aThjOFNrTWE2TWRLODhUUFczc2k0ZWFQYU8zekJ0NzE0NEl2UnpIMWtXQUhwT3BpSlNOZ0RRYlFGWkduWjFVak1MQmgwejlNUFBabGpwTmk2b2pERUFPcExIdGdMNXo0QnJNOVNhSmJuZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T23:46:00+08:00"
     },
@@ -101,10 +143,10 @@
       "time": "2026-09-11T23:34:51+08:00"
     },
     {
-      "title": "Live updates: America marks the 25th anniversary of 9/11 - CNN",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aSFpsYjlRM2dydTdUc25lVmVpT09GUFZiZ2ZzSmF2MkFrTGtjbnFkMndwN24zOFEwRWNuUWdCckFHdnFtVWxndmNkTWYyLUktQVdJbHFrOXprR2xCRUQwSmxjbDJWZHBFWWJtVg?oc=5",
+      "title": "4 takeaways from the GOP midterm convention - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjdzbmZJTkk3Wno4Z0h2VzFzX2Z5c1d3MDIydThaR1RpbWJwTlBpbERSVUR2Sld4X20tNDdwZF9BcXNDUEd0TW9UU1g1a05IbDh5aVh1X195N2pESENERVEzRzFOWDZMR0VvRW5sTkFhaUNjNk93MjZ2RTJMVUx5dFItdm5EMnhIaTk3ZElHMA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T23:29:00+08:00"
+      "time": "2026-09-11T23:32:21+08:00"
     },
     {
       "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; These Tech Names Lead This List (Live Coverage) - Investor's Business Daily",
@@ -125,52 +167,10 @@
       "time": "2026-09-11T23:13:38+08:00"
     },
     {
-      "title": "Fed's Warsh faces new pressure to hike rates after inflation heats up - Politico",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYU9wQUQ2MjZzdlVka3B4SlU2LWY1X2IzSlEzR2lsbDZ6d1ZYblhETHp6MGUxbC1tQWo4OEdzSzlVOXFkQmNxZVpCYXpfTzk1cEh4WDhsWUV3c1Jsc2FPNVRZMm5YX2kzSTY5MmNJSkU0ako3Wks1QlJvMmtxMzVqN2VWZnpXd1ZpZGxZ?oc=5",
+      "title": "New York changed in dramatic and surprising ways in the 25 years since 9/11 - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2RZUnVxc3BzVGdBbUFiR0YwUXZaSUl5QWtYT2tNZUNINTNscWhCYnhBd0FWVkVPMHhqMjREN0oyTHkzTU9jT054aVpxUWlfcnhNZzNBdVN4Q3MwcE00RG4zQ082WnhnTEo0anFJN1NNMFpJYldiRU9uYlVYQWpKeTQzWTcwamQwWmNpaUxrN29oQ0lUTHJ0M2hTc2IzM2VnUlRIWFl4TV94YTNzWHNR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T23:11:00+08:00"
-    },
-    {
-      "title": "Record U.S. cyclosporiasis outbreak is over, CDC says - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHJVNS1jcUpoVndhdDkzU3ZaODVId2NkTVhublVQS0VVT2ZzYXR3YXltNjliVHdGNW5sOVhSMkFBZXI5bkxaOVFrelVIb3l6WkFJcEpWNm8zXzlDakkzS0dLdXU2T2lyNVpxNGZlMGRaT2tVNzd2d1RiMEFZSk1PRDJn0gGHAUFVX3lxTFBoRzZiQ2QyU2w5dVVaNDZiRU1sRnFVVG5ZNUFNN2laZG8wdF9zUFJvVmRGcE5zVGVYR3BtUTdMUmZqcHN3OHpEdTJEbUJzYkxpRkwtLUYteHc5V1BNWWRCMndtVER6dDZlY0FOSTNFVHkzOHVpR1ZpWWdlWEFtUGZPbURNZEs4VQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T22:56:44+08:00"
-    },
-    {
-      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T22:50:17+08:00"
-    },
-    {
-      "title": "Alstom to build new battery-electric train fleet",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T22:43:33+08:00"
-    },
-    {
-      "title": "'We let down Lindsay,' says juror who served in Clancy trial - WCVB",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdEFRY2hXMHd0a2IzVjdPOVhOak9wTmhkSmd0XzdLRjU3em8tbnphUW1aMDRIQlVnOWdyaHRjOElGb3FzQVNhQWNIZ0lRNkNSNjBBRUNaWjZjNW8zNk15aUxFM1JUMTlvMk1tVGY1YnF1MDNYT0dOVmtfUEh4QmJ1NGFLRmRZWGs?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T22:31:00+08:00"
-    },
-    {
-      "title": "US prices remain high as fuel costs squeeze household budgets",
-      "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T22:22:42+08:00"
-    },
-    {
-      "title": "Can you really juggle a job and study for a degree?",
-      "link": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T22:04:57+08:00"
-    },
-    {
-      "title": "Lilly Wachowski on Her New Studio Anarchists United, the Black Power Origins of ‘The Matrix’ and How ‘Harry Potter’ Fans Are ‘Supporting Trans Genocide’ - Variety",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaW9tWk0zY0xUUFg3VHlFMHhpdUtmeGYyMmR6MTV0QjlEMkRQTFFqU3B6RG8wTUNiSWpzWng4RWJGRUNEVGJCbldfUmw0UlBPOTdyZExCZVB2cXJRb1lYUnhiZ3liWHNiWHFXcjVUbHU1TVlpbzJCeGp4WFJ2Q04tRnJoM1JuMm56SUljeDdGbHNHX3RNZGxNSVh2Q2tTb2dlWUFTYkVicFo?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T22:00:00+08:00"
+      "time": "2026-09-11T23:01:30+08:00"
     }
   ]
 }
