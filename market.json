@@ -1,62 +1,92 @@
 {
-  "generatedAt": "2026-09-12T01:52:43.484148+08:00",
+  "generatedAt": "2026-09-12T02:23:44.823417+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608227.2,
-      "changePct": 0.26
+      "priceHkd": 605161.76,
+      "changePct": 0.13
     },
     "ETH": {
-      "priceHkd": 20156.17,
-      "changePct": 4.13
+      "priceHkd": 19961.27,
+      "changePct": 3.45
     },
     "SOL": {
-      "priceHkd": 800.23,
-      "changePct": 1.92
+      "priceHkd": 795.13,
+      "changePct": 2.01
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5520.14,
-      "changePct": 1.07
+      "priceHkd": 5516.07,
+      "changePct": 0.99
     },
     "SPX": {
-      "priceHkd": 60155.06,
-      "changePct": 1.07
+      "priceHkd": 60114.77,
+      "changePct": 1.0
     },
     "SPCX": {
-      "priceHkd": 1174.59,
+      "priceHkd": 1174.67,
       "changePct": 1.11
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1096.49,
+      "priceUsdOz": 4350.1
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.25,
+      "priceUsdOz": 64.46
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 782.67,
-      "changePct": -2.59
+      "priceHkd": 781.57,
+      "changePct": -2.72
     },
     "Natural Gas": {
-      "priceHkd": 22.02,
-      "changePct": -0.88
+      "priceHkd": 22.03,
+      "changePct": -0.85
     }
   },
   "news": [
+    {
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen - NPR",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TWk9Nd1hrUGtuUEZGdHVTSWtfWWtKTkxuWUlSUENHYnd6dy1acXBuM3diWU5SZTcwbFRYSjRGeG82SnV1NUw5eUVXMlFOcHhCcmNSWWEtZURFblB2RGdDQ2RKOFNOWTBUMkhTRjVKd1Y?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T02:06:36+08:00"
+    },
+    {
+      "title": "'We will never, ever forget,' Trump says as US marks 25th anniversary of 9/11 - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xN0hUdklSbHR2ajNTN2xYWDJnZGVYQ1VSMjNhRDhFMHo4TG9xQjR1Z0FBemh0aTNOcXNXTG9sZFRlcThwbGJ4T0MxVF92T3Jzay1YcnNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:53:37+08:00"
+    },
+    {
+      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:42:54+08:00"
+    },
     {
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
       "link": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-12T01:32:44+08:00"
+    },
+    {
+      "title": "Apple sets cutoff time for getting faster iPhone 18 Pro pre-order - 9to5Mac",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTkxwVUFoTGNXaFhGWmN4dnhlRVZDUVdIYjl6MVpyZHlocG1BRTZkM0N1N09XelJVblgwSmJQUzhoQ3VzMTk1T3BkbGZFODMwU2NrQ3VEOXYxVmdZNWVmd2E5QzdybFJobThGZDN0TGVSck1Yd3V1c3RDYzNLSGFic3VxUkpyZ0EwcWpWelNYdDZBVDFKNFJCNkM5ZWh0QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:05:00+08:00"
+    },
+    {
+      "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkJfV1lEdVptZTBaTUczNmlnNS14Zm9iMGlJTUFldnpxOXpmMjRZRHlIY191NHIzc29oQThBdHlrRk5YQ1d4OU52eXJPbFJQbU1USDk3UW4yY29ibndMQ1FTMlM1bV82RVFDRHQ0UFFseVl1UDJCYUVUVzlfMm5CWVNNTElnT2o2U29CVXBjR3RUVEZHYl9TbA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:01:12+08:00"
     },
     {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
@@ -71,16 +101,34 @@
       "time": "2026-09-12T00:58:23+08:00"
     },
     {
-      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - cbsnews.com",
+      "title": "Rebels used Anthropic’s AI bot to develop guided weapons, report says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:54:47+08:00"
+    },
+    {
+      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-12T00:51:00+08:00"
     },
     {
-      "title": "New York changed in dramatic and surprising ways in the 25 years since 9/11 - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2RZUnVxc3BzVGdBbUFiR0YwUXZaSUl5QWtYT2tNZUNINTNscWhCYnhBd0FWVkVPMHhqMjREN0oyTHkzTU9jT054aVpxUWlfcnhNZzNBdVN4Q3MwcE00RG4zQ082WnhnTEo0anFJN1NNMFpJYldiRU9uYlVYQWpKeTQzWTcwamQwWmNpaUxrN29oQ0lUTHJ0M2hTc2IzM2VnUlRIWFl4TV94YTNzWHNR?oc=5",
+      "title": "Tua Tagovailoa absent from open portion of Falcons practice Friday - nbcsports.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaTAtcVMzNG9GT3dTSUYxT09PVzZwVW9LeGc3Rk1BY0FGa1FBZHRTNTl2dFA2dUNKUmdQbU5rSnYtd29wVFBMUGZ6Yk8wUkxqWUpYYVpINkRPZy1nazdhdWJveGRVQjA1YVFJN2N3MHl5QWxLMTZ0R1JuSVdremEyZ0g2a1dzQlZ0cHVXemtxX0d1WnBZVFYzRGFSQzIycThOeW5JZjFHaUVhNWZld0l4U3VKQ1h2Tms0aWNOYTR4UWNCLUFFeTJZ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T00:50:50+08:00"
+      "time": "2026-09-12T00:35:26+08:00"
+    },
+    {
+      "title": "Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVVjWUsxbV95SVdKWkpFYk9TXzRWSkRSSVIwd0NHRVRJX3c5UVJMejRjYWw3ckxuTld4ODN6X1R4QnFDLVVoQVBzTkxfRGlNSEx1WTRSdjlab3FyZTlmYk1weEttQlZIVUQwX29US18xZ0VJVnVqRFpXQnQ2VlZDR0xWMFF0c0VhRVh1Zmpkdld2TEV2Snc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:31:41+08:00"
+    },
+    {
+      "title": "Saudi Arabian oil pipeline system hit by projectiles triggering fires - CNN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTBNQ1lITW5CMjlZTFM3UktsZUNsaHFyb29zZ1VVMmc4b1N4dTVGMVZjM0FpSTR5eTk2N2hGOGZTSVBaTVlPWG1ZLUhJNUg4MUMzcVo2QUJWVl9aRWRvdUpzOTJndDNTN3NMdk55NWZMdXVRZUtJS0RZTXowZThEOE5BeDFJWlFmY2V1T0Jfc2liY29kdDNVX21NQXJhZjFtc01ORA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:28:45+08:00"
     },
     {
       "title": "How global trade and oil prices could be hit by Houthi advance",
@@ -95,12 +143,6 @@
       "time": "2026-09-12T00:13:26+08:00"
     },
     {
-      "title": "I’m a thoracic surgeon in New York City. For many of my patients, Sept. 11 is still not over - STAT",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFdBd1RHZURPYVg5REFnLXFYSVlWVGN5YzVjVjFxb0JLRGtBakhBOHF5RVNPTWN6NVhYemg5OVpPSnpSWVBlVi1zZ1cyV281TXlOVGdaNmhFcmJVTllBQ1ktWGg4aFNNcTZsSTJRQmZmRURvMmVLV0dGUDF0STJXOWlFU2NkcnBBZlhYaXB3LVJualFHTm5RWUZ5dC1JbUw2NklOdmp5YnJTQ2s?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T00:12:12+08:00"
-    },
-    {
       "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQl9fRVVpMllISDRxc2dyUFFaclJabXYwTDlUSnFqWXdMV042TUUxQXR6NkUwOUVaV0I3elJ4ZjE1aHRZNlcxdndSbFpkTG5LdExQdmRHQXJkWHBBeHhacG1JRjhsakh3eUJuYi1CVmNDajlPWU1tOHlZLWdDV3VGNXlRZV92M2hpQ3I3Ym8tZ2Q5akRKWGctdGhZSWhGR3VQYmRGN09IbV81WVpFdWgyQ1lZWjFIdUpfZC1uUzI4T3E?oc=5",
       "source": "Google News Top",
@@ -113,64 +155,22 @@
       "time": "2026-09-12T00:00:59+08:00"
     },
     {
-      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
+      "title": "C.I.A. Releases Intelligence Sent to Clinton and Bush Ahead of 9/11 Attacks - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeDBPSU43WjVyWi1ETl9LMmxsay11X3NmY3puNFdzTmJCQzNKNjlOa2RVQkFzdTNzblBCQVNGOWVuT1hDWHpHWl9IUXpfdm1mMk9SUTdOWHlBWi1wT0U1aHZVQzRSTlZGTGlCTE8zSXE5RmJ1aHBHZGhHMzRjRzNTdHZR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:00:07+08:00"
+    },
+    {
+      "title": "As immigration status for Salvadorans remains in limbo, businesses begin layoffs - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1RPS2QyaDktaUdSMkl3T0JhUElzWGZKam0tS1FKYWl1eTlsZDRIamktRmhRN2RTaHZjemVYOHZqeVhHd0tiaHZtZk5xYlBNU0xFdHRiUHhmUFc0cDVIcW81N3RIbzBXcUM3R1E4Q19sd0k3T1RzTzZjakFNSTBlU3MtOEhPOWRyOG9TMjJXZ3pEclR6X1RMVHJNd1BMcFJCWGx2aGNR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-12T00:00:00+08:00"
     },
     {
-      "title": "Live Updates: 25 years after Sept. 11 attacks, America reflects and remembers - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3NidkdISmFyakJJdjcyTlFDRl9mUmY3Qjl4THpYYkNXX0R6ZjdGenZYOU1wTUw4OEFIZlBjTVhmZEdLdnpsUmlISmE1ZHBJUm9yQ2FwQkFFTTlfU1dhQjJPZWZDTjltUENsRE1xQXh1RjNwNWZiMVZxRVlNWFhVcDVpb2FsSVNFZ2Y1T01BUmdRZGM5dmxDN2NtV1Rxdw?oc=5",
+      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T23:59:00+08:00"
-    },
-    {
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T23:50:23+08:00"
-    },
-    {
-      "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-      "link": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T23:37:25+08:00"
-    },
-    {
-      "title": "Kim Zolciak & Kroy Biermann Have Icy Encounter During Son KJ’s Court Hearing - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb3FuaVpkbHduQnhIOWlyZVcwSGdadzZZZWFqZVhIaHhWVmlSWE45cUNYS2hfUTg3akkzOWJxYW9TZUNoM21xaTFxb0lHTk9DQ2FxTjJxODFoSWtHWkxrN3NxX1pJN2dnUllZRW1TeURYUVJvZW9wTmNDUGowYkZfVG5JSXpSYWtWVzlMWnphUkd5bnhKMU5zcER3SnA2MlZz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:35:05+08:00"
-    },
-    {
-      "title": "As diseases loom, CDC's response to measles deaths stirs fears about agency's reliability - NPR",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHQycHNIbzVJSkdLUkNOb1d4XzZZX24wSHh1b3hJbWJkbkVZNnlSUUt5NGZ2cGxYZVdJT1JVOUFOSlYxUTc3UXN4NURGb3hyc21HOG5odnd5RHpYMG54dk1rT1JRR0p0dGFTUUgtOG52bWZ1dkl4M2RZZFNmWGd1MHkxZmdLWG1CdjAtaUlxZWtQZHRVaGFlalNDcnp6eS1haFlFX3pPTjNVRk9PUGlPMVFzbVRXTVpEbkpsUFpIbGNRYUh5YUxCcDFucw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:34:51+08:00"
-    },
-    {
-      "title": "4 takeaways from the GOP midterm convention - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjdzbmZJTkk3Wno4Z0h2VzFzX2Z5c1d3MDIydThaR1RpbWJwTlBpbERSVUR2Sld4X20tNDdwZF9BcXNDUEd0TW9UU1g1a05IbDh5aVh1X195N2pESENERVEzRzFOWDZMR0VvRW5sTkFhaUNjNk93MjZ2RTJMVUx5dFItdm5EMnhIaTk3ZElHMA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:32:21+08:00"
-    },
-    {
-      "title": "Afghan woman in Texas dubbed an \"alien terrorist\" is deported in DOJ's first case using obscure court - cbsnews.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeGV0TkFoaXVHbHhUVkpza0lqbHlkTTlHLW92aG1Cb0xFZUZJdHZaWlEwem9Xd1hSUy1feXpZckxEdGxOcVBfVjZkZnV5cHp4eDhoTjJDalBKUTA0U3FZbFR3ZnFPWE9Nb3pDSUFzYmp1YmI2RmYzejd2MU5DOXdRSGFiaWI1NjVfWndja2x3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:16:00+08:00"
-    },
-    {
-      "title": "‘Practical Magic 2’ Sparks Near $5 Million In Previews On Thursday – Box Office Update - Deadline",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTUpVSENQQTU5T2UxVlNpbnJHRG9ZWC1Ua2NCY2VlYVNnU3FmWlY3R0l3ZVJFb2ZoOG5ROV84MnduN1dsdWtWLXpsOVBsZGJkY3JHX181Z0xsQmpwWFZnNV9Eb3kwWG4yWS1HM1ZsdG95OWt4bUszVjh5SUUwelhGZEYyOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:16:00+08:00"
-    },
-    {
-      "title": "iPhone Duo is Missing These 10 iPhone 18 Pro Features - macrumors.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kb09yZUI0NlduMkpfVWlEV1JSUHBSVjlIQ21QaE1JRUNieGhYcU00UG50emlpSF9Xa1Vzb2RneEs3dWkyZlJIYjNiTFZldXhxSEEwZks5SFU3N3FnNmF4Vzd4NU5QclJtcDNKTXRfVHZRUG1UVThsZ2wxemlqRHM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T23:13:38+08:00"
+      "time": "2026-09-12T00:00:00+08:00"
     }
   ]
 }
