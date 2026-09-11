@@ -1,62 +1,62 @@
 {
-  "generatedAt": "2026-09-12T02:23:44.823417+08:00",
+  "generatedAt": "2026-09-12T02:54:44.385106+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605161.76,
-      "changePct": 0.13
+      "priceHkd": 603711.36,
+      "changePct": -0.23
     },
     "ETH": {
-      "priceHkd": 19961.27,
-      "changePct": 3.45
+      "priceHkd": 19899.41,
+      "changePct": 2.99
     },
     "SOL": {
-      "priceHkd": 795.13,
-      "changePct": 2.01
+      "priceHkd": 792.08,
+      "changePct": 1.38
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5516.07,
-      "changePct": 0.99
+      "priceHkd": 5513.95,
+      "changePct": 0.96
     },
     "SPX": {
-      "priceHkd": 60114.77,
-      "changePct": 1.0
+      "priceHkd": 60088.9,
+      "changePct": 0.96
     },
     "SPCX": {
-      "priceHkd": 1174.67,
-      "changePct": 1.11
+      "priceHkd": 1172.0,
+      "changePct": 0.88
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1096.49,
-      "priceUsdOz": 4350.1
+      "priceHkdPerGram": 1095.49,
+      "priceUsdOz": 4346.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.25,
-      "priceUsdOz": 64.46
+      "priceHkdPerGram": 16.22,
+      "priceUsdOz": 64.36
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 781.57,
-      "changePct": -2.72
+      "priceHkd": 785.88,
+      "changePct": -2.19
     },
     "Natural Gas": {
-      "priceHkd": 22.03,
-      "changePct": -0.85
+      "priceHkd": 22.2,
+      "changePct": -0.11
     }
   },
   "news": [
     {
-      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen - NPR",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TWk9Nd1hrUGtuUEZGdHVTSWtfWWtKTkxuWUlSUENHYnd6dy1acXBuM3diWU5SZTcwbFRYSjRGeG82SnV1NUw5eUVXMlFOcHhCcmNSWWEtZURFblB2RGdDQ2RKOFNOWTBUMkhTRjVKd1Y?oc=5",
+      "title": "Diesel prices in U.S. top $6 a gallon for first time ever - cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1UllOUmRnRTJ2NGV0QmV2SENfMV94N3RNNWZldFEwV1cwbThGb0ZaUmltM2MweWM2NUNEUkpodl8xdGhVVHJOUjExcVN3NC1XazQ2WnBvRkU5RTU1R1YwTXMzRDVsMjd1U2tZZjZWRmU2cE9M?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T02:06:36+08:00"
+      "time": "2026-09-12T02:15:35+08:00"
     },
     {
       "title": "'We will never, ever forget,' Trump says as US marks 25th anniversary of 9/11 - BBC",
@@ -65,10 +65,28 @@
       "time": "2026-09-12T01:53:37+08:00"
     },
     {
+      "title": "Ebola outbreak in Congo spreads to a 7th province - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR2pqczFpS3lxb0czam90bVFGUTBiQUdjTEoxS09JalpvV3MtUklXSDlDRUJ4TFVsUTZ1OHdibmxkSVV4azAwUUQyUkEzVUgyNUwxdy1PUUV3dWh4OWZUa2Y2WmI4eldXMXNYWEdyc3NqX3dlTG1SR0tNMHpXUHQ2cFZYc2lDTlVvMU5PRUFvTjR1Ni1feXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:47:00+08:00"
+    },
+    {
+      "title": "US consumer prices accelerate in August, push Fed closer to rate hike - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:46:22+08:00"
+    },
+    {
       "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
       "source": "Google News Top",
       "time": "2026-09-12T01:42:54+08:00"
+    },
+    {
+      "title": "C.I.A. Officer Found With Gold Bars in Basement Reaches Tentative Plea Deal - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUVqdXJDcFRNV0R0RjRxVmlURzByYlVKVmI0TkZTSGNCN1ZJNFlYa3ZwMXBiZUM4N2NCWnNteVgyNXM4SF9LOUtIV3BJX0pLX0l3UGQ1ZzBYZmVYdm9pWm9RR0tNb3ZzTW1hbk5jbmNTT0pseE40TlF1Q1U0U2ZtbURVVWhUTl9XZGtn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T01:42:45+08:00"
     },
     {
       "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
@@ -83,40 +101,28 @@
       "time": "2026-09-12T01:05:00+08:00"
     },
     {
-      "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkJfV1lEdVptZTBaTUczNmlnNS14Zm9iMGlJTUFldnpxOXpmMjRZRHlIY191NHIzc29oQThBdHlrRk5YQ1d4OU52eXJPbFJQbU1USDk3UW4yY29ibndMQ1FTMlM1bV82RVFDRHQ0UFFseVl1UDJCYUVUVzlfMm5CWVNNTElnT2o2U29CVXBjR3RUVEZHYl9TbA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T01:01:12+08:00"
-    },
-    {
       "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
       "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-12T00:58:34+08:00"
     },
     {
-      "title": "US consumer inflation picks up in August - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+      "title": "Benn and Garcia turn past scandals into a $30m Las Vegas world title payday - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2FDamlRWFdmVnNmRVdhbElKRjlCOG5WM1NuNVg0aG15d2Qzdlc2d2ZVZXNxOVpYWWNHaTljaTlyOHN5UzZLTkF0RzhCSEFZemxmSVRBVUtDNUlDS0Fncld2WG9Pdlp1bWRDdXVTWllVV0w4Z2lwWkpzM0o0QUNUVnpoT0VMQnl2UTJzOXg4Nk9YbThudXlnX0V6bVRpZVRaNFVacVRaZmJvb1Y1OUQ4YVVRVkxvWEx0d25hVA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T00:58:23+08:00"
+      "time": "2026-09-12T00:58:00+08:00"
     },
     {
-      "title": "Rebels used Anthropic’s AI bot to develop guided weapons, report says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaERpaFByZnFpVDR2NXVtS1Nvdy1XN09IVnFDWU9VNF9TTVdpWG0wemJJaFMyVDh3dGZMb2lzOEgzT2NvcHNmNFkwdFdBcmY5UXZ4WnBNZHdpQ05xUnVoTk41b3BjR1BNcXhST1VsY1kwSHVXdzFvcklnQWwzcTVtX1lka1hNczViYlJqbzFnT3BnSHplWllJOEt6MmJYNlRXNk1TeFhiQWFZVTk4bW9TcENTSmxCQ1VjTEE?oc=5",
+      "title": "Facing Islamophobic Attacks, Mamdani Keeps Focus on 9/11 Victims - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kMkY0bG5RUTJMMmplRHZCNXRDS1JzRXQxUDlJNlNLdnZLVUtlRGVyUWtuWGR0LVBmRGpSU2lfUzZ5YXp3aTZHei0xVHduQmNtdlJPUU81aHZ2YmtFWGFzaWFhRE8yTGFaVEVPUk5EYnFqUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T00:54:47+08:00"
+      "time": "2026-09-12T00:47:55+08:00"
     },
     {
-      "title": "Live Updates: Diesel hits record $6 a gallon as, reports say, Houthis take key territory along Red Sea - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeUpPLURuUGtNWW5MdUstN2NHalFnV1d0bFN5bl9MbHJHa0l0RGQ1X1UzWm85X0lVcmxKT2I2V01NdTlOWmtYcE1ESTFFNTQ5Z1FVVmFncXlZWUVtcFNENmlsTFUzMmE0LU12QTZlMlp1cDdtN042UUJhS0Z3TkcxYU5tUW9fRXdLMUE?oc=5",
+      "title": "Warsh Faces Intensifying Pressure to Raise Rates After Hot CPI - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlA0Sl9sSUFuNjJhanlXWXcxMlNNRENsaEtlRVZvMW5TX3VGb182NW50R2steXkwaDBINzhaWFdjYXI5M3drazl4UGJMOTlzQ0RXTnJXeG45eHROSjNwR1o5d0lmUVQtVnVaN3ZhdzBkd3JUTWFHODEtSEdzbEFlNmVOVy1QOHlLRk9uRmZRdUs0ekg4c3hocE5uNzdXSXc1NDduWmUyVGVPM2Z3SzAzY3lzQ1ZsMl9tQnR3QnJyRVZfN0NR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-12T00:51:00+08:00"
-    },
-    {
-      "title": "Tua Tagovailoa absent from open portion of Falcons practice Friday - nbcsports.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaTAtcVMzNG9GT3dTSUYxT09PVzZwVW9LeGc3Rk1BY0FGa1FBZHRTNTl2dFA2dUNKUmdQbU5rSnYtd29wVFBMUGZ6Yk8wUkxqWUpYYVpINkRPZy1nazdhdWJveGRVQjA1YVFJN2N3MHl5QWxLMTZ0R1JuSVdremEyZ0g2a1dzQlZ0cHVXemtxX0d1WnBZVFYzRGFSQzIycThOeW5JZjFHaUVhNWZld0l4U3VKQ1h2Tms0aWNOYTR4UWNCLUFFeTJZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T00:35:26+08:00"
+      "time": "2026-09-12T00:47:12+08:00"
     },
     {
       "title": "Lutnick says Trump’s $5,000 checks for Americans wouldn’t rely on taxpayer funds - NBC News",
@@ -131,22 +137,22 @@
       "time": "2026-09-12T00:28:45+08:00"
     },
     {
+      "title": "Houthis Seize a Key Red Sea Island, Threatening Yet Another Global Oil Route - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObkxyVFNSVzhBR0tMZHQwcEFBYnFEaEtzRFl2Y0xmQTFUQ1hxeFZqc0pWTkdRWjR0aWVDVHFKbHp2eDBRN1ptbFRxbHdfRjBLVGgwbl9ZbHdGTFVZeW80ZXZVblBOdG1ucWVIRzFwZXRxY1FBRWxHczBLcXdDbmF4Z3IyOEVDLW1HNDlONA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:20:08+08:00"
+    },
+    {
+      "title": "F1 Spanish GP: Antonelli leads tricky second practice as Lindblad crashes - Autosport",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaDVING5XeERXSkxHTGJlVkxPTTJveUVkS2dLSWpzcHdUUlNiY240T0ZheC1oZFl0RkRJWm45UmtaV1JfaGZZRmo5Rmk2LUVzSVlYM2NQZ0MxcEE5cXVEQm9naE5CZHdDcGw0cUdzNjNKTXZGUVU3bVI1RTJhdWM3cHB1NA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-12T00:14:44+08:00"
+    },
+    {
       "title": "How global trade and oil prices could be hit by Houthi advance",
       "link": "https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-12T00:13:39+08:00"
-    },
-    {
-      "title": "F1 Spanish GP: Kimi Antonelli leads tricky second practice as Arvid Lindblad crashes - Motorsport.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXNWF4WTZraUpFaVlmVEJRT01fVF80RmFfaDkyZW0yRTVQOGxNVW5sWnZNTnRkWWFNWjFjam5WOGdtQlo5N1Rlb1ZGNW1LUzRlOERGVnZUNmd0WG1GaE5vMWM1WnBXX21yWV9veVh3SlY5WV8wU3pzSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T00:13:26+08:00"
-    },
-    {
-      "title": "5 movements physical therapists say every adult over 50 should do daily - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQl9fRVVpMllISDRxc2dyUFFaclJabXYwTDlUSnFqWXdMV042TUUxQXR6NkUwOUVaV0I3elJ4ZjE1aHRZNlcxdndSbFpkTG5LdExQdmRHQXJkWHBBeHhacG1JRjhsakh3eUJuYi1CVmNDajlPWU1tOHlZLWdDV3VGNXlRZV92M2hpQ3I3Ym8tZ2Q5akRKWGctdGhZSWhGR3VQYmRGN09IbV81WVpFdWgyQ1lZWjFIdUpfZC1uUzI4T3E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T00:02:27+08:00"
     },
     {
       "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
@@ -161,14 +167,8 @@
       "time": "2026-09-12T00:00:07+08:00"
     },
     {
-      "title": "As immigration status for Salvadorans remains in limbo, businesses begin layoffs - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1RPS2QyaDktaUdSMkl3T0JhUElzWGZKam0tS1FKYWl1eTlsZDRIamktRmhRN2RTaHZjemVYOHZqeVhHd0tiaHZtZk5xYlBNU0xFdHRiUHhmUFc0cDVIcW81N3RIbzBXcUM3R1E4Q19sd0k3T1RzTzZjakFNSTBlU3MtOEhPOWRyOG9TMjJXZ3pEclR6X1RMVHJNd1BMcFJCWGx2aGNR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-12T00:00:00+08:00"
-    },
-    {
-      "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
+      "title": "4 takeaways from the GOP midterm convention - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdjdzbmZJTkk3Wno4Z0h2VzFzX2Z5c1d3MDIydThaR1RpbWJwTlBpbERSVUR2Sld4X20tNDdwZF9BcXNDUEd0TW9UU1g1a05IbDh5aVh1X195N2pESENERVEzRzFOWDZMR0VvRW5sTkFhaUNjNk93MjZ2RTJMVUx5dFItdm5EMnhIaTk3ZElHMA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-12T00:00:00+08:00"
     }
