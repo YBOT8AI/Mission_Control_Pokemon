@@ -1,68 +1,98 @@
 {
-  "generatedAt": "2026-09-11T22:15:24.920175+08:00",
+  "generatedAt": "2026-09-11T22:46:27.111801+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619297.28,
-      "changePct": 2.45
+      "priceHkd": 616294.56,
+      "changePct": 1.7
     },
     "ETH": {
-      "priceHkd": 20463.81,
-      "changePct": 7.27
+      "priceHkd": 20432.37,
+      "changePct": 6.75
     },
     "SOL": {
-      "priceHkd": 814.97,
-      "changePct": 4.42
+      "priceHkd": 808.77,
+      "changePct": 2.95
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5513.44,
-      "changePct": 0.95
+      "priceHkd": 5506.66,
+      "changePct": 0.82
     },
     "SPX": {
-      "priceHkd": 60085.21,
-      "changePct": 0.95
+      "priceHkd": 60013.87,
+      "changePct": 0.83
     },
     "SPCX": {
-      "priceHkd": 1164.08,
-      "changePct": 0.2
+      "priceHkd": 1153.22,
+      "changePct": -0.73
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1105.24,
-      "priceUsdOz": 4384.8
+      "priceHkdPerGram": 1102.87,
+      "priceUsdOz": 4375.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.4,
-      "priceUsdOz": 65.05
+      "priceHkdPerGram": 16.34,
+      "priceUsdOz": 64.83
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 776.24,
-      "changePct": -3.39
+      "priceHkd": 782.75,
+      "changePct": -2.58
     },
     "Natural Gas": {
-      "priceHkd": 22.16,
-      "changePct": -0.25
+      "priceHkd": 22.18,
+      "changePct": -0.18
     }
   },
   "news": [
     {
-      "title": "Can you really juggle a job and studying for a degree?",
-      "link": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&at_campaign=rss",
+      "title": "Alstom to build new battery-electric train fleet",
+      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-11T22:04:57+08:00"
+      "time": "2026-09-11T22:43:33+08:00"
     },
     {
       "title": "US inflation holds steady as diesel prices pass $6 a gallon",
       "link": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-11T21:58:20+08:00"
+      "time": "2026-09-11T22:22:42+08:00"
+    },
+    {
+      "title": "MPs vote against fresh move to legalise assisted dying in England and Wales - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UU4zSFFUU3BkMnJLQjRmV0lBSmlVRDRvT2xoblhMRnlzWU16MFQxdFpyN01SMVlURWNvRkZmYVZreDc1b0gwbW9PYUFvS1R2dHdYSVhB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T22:21:24+08:00"
+    },
+    {
+      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T22:18:00+08:00"
+    },
+    {
+      "title": "Can you really juggle a job and study for a degree?",
+      "link": "https://www.bbc.co.uk/news/videos/cvgyrdyw32lo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-11T22:04:57+08:00"
+    },
+    {
+      "title": "F1 practice LIVE: Spanish Grand Prix 226 times, results, radio & updates from Madrid - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nYnZISk5EY2oxMWtueXNNT3lGM2V2UEVHMHJSMUdnM3NnejZjTlN4WTBlNks5dy1MN3VhMERkRVhIRENxSTRQTFRleGhhZTFpTnhWbEZSLXc3c1FfTlc3TGl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:58:47+08:00"
+    },
+    {
+      "title": "Myles Garrett’s comments, usage are concerning - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSmh5ZzZpcktMRUJEOTM2eER3R2FxU1FoZ3NvU3VndzllX0pHRGF0MjcxZ3g5STZRZWRSNkJGaUdLVDRPc2E4SDFVMnJpcE1tNUEzT3B1V3hjejNJODdBLVdfQ0Z0X1RiZ0hCMHVLNGdtUjdMZDFMZnhaNHFvejByNGVJTG45WmpPQjZDWktTY2I2V3VTLS0tVzM2cEptOVpTTjl0dE9HOWlqQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:55:56+08:00"
     },
     {
       "title": "Interest rates could rise again across the world – here's why",
@@ -77,10 +107,22 @@
       "time": "2026-09-11T21:34:44+08:00"
     },
     {
+      "title": "Trump reveals why $5,000 checks can wait until after the midterms - Axios",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:34:03+08:00"
+    },
+    {
       "title": "Alcohol-linked cancer deaths have doubled in recent decades. What to know about risk. - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbzRpNWkxRi1IUWJ2bEloQVdzbklDdEdnYTBLY1FzYkNDa0VWTHNJaGRHUUxhSDFEMlBqTUhMUmZCbG9HNXU3a0NjWVQ0U0lYdlUyb05nNldYdVhXNmZGT1FrYWRtSjU5S2pmQUxRUER4NWdOYmdOTndlX1V4Smx4VWNGUUVGLWFBZGl5SEVsclE1UFlBeHdQNUw5azF6OUx2Sm5zNTF2V0pUM19EeFFTT0lZemg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T21:32:18+08:00"
+    },
+    {
+      "title": "Pete Davidson says becoming a dad changed how he views father's death on 9/11 - foxnews.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDNyMEdrOHE3QTRTbVM4SWIydF9tSU9MNmRzeUlnV1dhTENBeE4tbnJyRWRicDVFcWk3cTFDalpBSWZtWXdfcWZ2bk15c2RkQXhfN1dOcnZ2Q0cyOTR6ejYtV3ktX0I1ZExrZzJIcEJpVHA3RWw3dzFIREJSSVNJbTZuSFdvYnFjSC02UTdsdlBHXzVtS2tNdVQ0SWFrTXRnblZBeG5n0gGrAUFVX3lxTFBHUDdyYkVhX1YySUpzTS10LWNjWHBCM3JaMnBoOHVscHFmTVRoZ3NJeXg5aUVTU01YYnd0c1FRZ1FvTzVBRHNQRUJnUnVYbGVzTzR6R0pqYTdXR0lId1FFYURuSjdLQnVIOWRBbmpqTEJ3RW9VQjNlQ2JPVzNucUU5VDJPYWdzeDNGOW9yN1pCb1U2c3FpNUdLblhjbXI5OTVLdzJ4alY1X3dYQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T21:30:32+08:00"
     },
     {
       "title": "On the 25th anniversary of 9/11, a divided U.S. gathers to remember and grieve - NPR",
@@ -89,22 +131,10 @@
       "time": "2026-09-11T21:29:09+08:00"
     },
     {
-      "title": "Trump reveals why $5,000 checks can wait until after the midterms - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE51NXRpWlN5d0gwUEJzU3VQemVuZmh4X1RZX24wMmhLTHJiUmJ0cFd1dW9vUWJsdF9Ya3FSOTJKazNnangtR3c5TkRieC01b3ctMExucGNSdEJTYnJRMUl4QkRrR215MlFsTnFYenZldW1GQmJkckk1OTlSQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T21:13:34+08:00"
-    },
-    {
       "title": "CPI Report Today: Inflation Rose 3.4% in August; Odds of Rate Hike Jump — Live Updates - WSJ",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFbUozNDVTLXBZcVRyRHJqeTBsZ3pFeDUtWDhrZ0E4bUowUjg4aXBkc0poNTFiaDlYZVJzbGJmTHBtdVhBN1hkYlVWWThpTnlIZWlsbGhLMjcxUjVYNGdNOVZQSkN1bUxqRGJfd01Ub0lwUXRBeHQ4YnpR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-11T21:10:00+08:00"
-    },
-    {
-      "title": "Stock futures bounce as traders shake off firm inflation data and oil prices retreat: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T21:07:30+08:00"
     },
     {
       "title": "Houthis control key shipping route after gains along Yemen’s Red Sea coast - Al Jazeera",
@@ -113,10 +143,10 @@
       "time": "2026-09-11T21:05:27+08:00"
     },
     {
-      "title": "US diesel prices soar past $6 a gallon, deepening strain for hauling everyday goods - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVnU4cGVXdlJCSlQ1T0xGcnpIbVVMRVhFdVpzRVczZWJXWEpxOWJUaUZWOGp3NzdIMHlnemtfNkVVZks2eGpRdlZqMjdkZzBLSUxPLXRvTlNUTmNVTnNvRExOQUhxa3VzZlRDT2ZNLTlBUDFDSjZWTTRPYVFMdHctWTZnZTdGVjhaUm5uSy1CSDBmUFE?oc=5",
+      "title": "What Upgrading to iPhone 18 Pro From iPhone 17 Pro Gets You - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcFBHdy1ObWt3cm1CRzhveG91Snc1Tk9UT19iN2k4TmNnWGFKR0Nncm12SkRlNG1BRzFvYUhHWjkxMHJUY1lMMkN2NFJFYzFaM19IYy0xcUNmd0tLMEFfVmsxMWJGdEFRSnpQbUJTc05rUGtYdWZGbEpndTIxYjYweU1jQlRDdjhK?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-11T20:49:00+08:00"
+      "time": "2026-09-11T20:43:53+08:00"
     },
     {
       "title": "I moved my shop 20 miles because I couldn't afford £300 a week on fuel",
@@ -125,52 +155,22 @@
       "time": "2026-09-11T20:14:09+08:00"
     },
     {
-      "title": "MPs debate assisted dying bill for England and Wales ahead of new Commons vote - follow live - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15UU4zSFFUU3BkMnJLQjRmV0lBSmlVRDRvT2xoblhMRnlzWU16MFQxdFpyN01SMVlURWNvRkZmYVZreDc1b0gwbW9PYUFvS1R2dHdYSVhB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T20:08:32+08:00"
-    },
-    {
       "title": "Princess Diana's 'revenge dress' goes up for auction",
       "link": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T20:04:46+08:00"
     },
     {
+      "title": "Apple's iPhone Handoff Feature Will Cost You $5 A Month On T-Mobile - Engadget",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdlVpakFjVGJ1UVdDYnIwakNFbFpHOHluNFhrMnFDSDFXb1BJUlVqUFVsZm84Yzc3bkVUS0E5NzB5VFRFSWlIRzZ4YlIzeWV0LXhrRWREWmpGUkdFUXU4N0phd2ROM0tiNnlhb1M0czFRaUVUUDhqTmN0TjhvWlUzR3Nn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-11T19:57:16+08:00"
+    },
+    {
       "title": "Israel says it has destroyed major underground Hezbollah base",
       "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-11T19:34:07+08:00"
-    },
-    {
-      "title": "Apple Watch Series 12 vs. 11: Every upgrade, including one Apple didn't mention - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSWlvaE1WUEdoQlhWS0kzaGNLTjBxVGxCbDhWQ2xVbTd5dTNPbVFicDdMVmk1UTJJYXBCWE84WXUwQVVwNmtaN3dxajFCSVlDa21wUmVWOWZHX0lQakxfV01BX00yMFJ3X05kWVQ2a3EtMms?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T19:15:53+08:00"
-    },
-    {
-      "title": "Alstom to build new battery-electric train fleet",
-      "link": "https://www.bbc.co.uk/news/articles/cd94y7d7qyzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T18:53:44+08:00"
-    },
-    {
-      "title": "Lose Yourself in Yayoi Kusama’s Last Show - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeE04dU5JM0NoYUFJYzE5c2wzVDBtakJKQTcwSkJWdTlOanplS2hrVEJsRHpqRzMtR0tRMmJabEhNcExWRnVrM0h1Tm5zZ0VldWlhNDA2ZEN2b01VWDlZSnptTnpua0lqWVNqLTV5QndXcHBGRDc0OUp5c3RkcC1vd2VmTUU5a2g0QThGTEVNV3dEejN3ZXVsdF84aw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-11T18:50:15+08:00"
-    },
-    {
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-11T18:50:04+08:00"
-    },
-    {
-      "title": "AI boom helps drive surprise UK growth in July",
-      "link": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-11T18:17:28+08:00"
     }
   ]
 }
