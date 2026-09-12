@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T13:46:44.354258+08:00",
+  "generatedAt": "2026-09-12T14:17:47.652240+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -104,16 +104,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "364c744",
-          "message": "chore: remove unused formatMoney from currency.ts (superseded by stats-format)",
+          "sha": "ea75c21",
+          "message": "docs: add BCG 2026 — HK overtakes Switzerland as #1 cross-border wealth hub (202",
           "author": "evilmoni",
-          "time": "2026-09-12T03:13:22+08:00"
+          "time": "2026-09-12T14:01:34+08:00"
         },
-        "commits30d": 89,
-        "totalCommits": 196,
+        "commits30d": 90,
+        "totalCommits": 197,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 2,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -123,14 +123,11 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 90,
+        "score": 100,
         "label": "healthy",
-        "issues": [
-          "2 commits not pushed"
-        ],
+        "issues": [],
         "actions": [
-          "Run 6 test files via `jest`",
-          "Push commits to remote"
+          "Run 6 test files via `jest`"
         ]
       },
       "focus": "Financial Tech"
@@ -270,8 +267,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:35:02.679902+08:00",
-        "next_run": "2026-09-12T14:05:02.679902+08:00"
+        "last_run": "2026-09-12T14:05:05.289664+08:00",
+        "next_run": "2026-09-12T14:35:05.289664+08:00"
       },
       {
         "id": "539a150ac028",
@@ -288,8 +285,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:15:49.960102+08:00",
-        "next_run": "2026-09-12T14:16:02.306620+08:00"
+        "last_run": "2026-09-12T13:46:51.226423+08:00",
+        "next_run": "2026-09-12T14:47:05.397056+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -297,8 +294,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:34:02.448766+08:00",
-        "next_run": "2026-09-12T14:04:02.448766+08:00"
+        "last_run": "2026-09-12T14:04:04.837430+08:00",
+        "next_run": "2026-09-12T14:34:04.837430+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -306,8 +303,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:37:02.175884+08:00",
-        "next_run": "2026-09-12T13:47:02.175884+08:00"
+        "last_run": "2026-09-12T14:17:05.691916+08:00",
+        "next_run": "2026-09-12T14:27:05.691916+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -342,8 +339,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:45:02.601218+08:00",
-        "next_run": "2026-09-12T14:00:02.601218+08:00"
+        "last_run": "2026-09-12T14:15:06.711686+08:00",
+        "next_run": "2026-09-12T14:30:06.711686+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -459,8 +456,8 @@
         "name": "TechWealth Daily Autonomous Workflow",
         "schedule": "0 14 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-11T14:01:32.796941+08:00",
-        "next_run": "2026-09-12T14:00:00+08:00"
+        "last_run": "2026-09-12T14:01:44.091807+08:00",
+        "next_run": "2026-09-14T14:00:00+08:00"
       },
       {
         "id": "bd1dd707602f",
@@ -540,8 +537,8 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T10:00:54.321281+08:00",
-        "next_run": "2026-09-12T14:00:00+08:00"
+        "last_run": "2026-09-12T14:00:17.122059+08:00",
+        "next_run": "2026-09-12T18:00:00+08:00"
       },
       {
         "id": "86f0a1085a5f",
@@ -549,8 +546,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:01:18.435546+08:00",
-        "next_run": "2026-09-12T14:00:00+08:00"
+        "last_run": "2026-09-12T14:00:30.825607+08:00",
+        "next_run": "2026-09-12T15:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -648,8 +645,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T13:01:19.861874+08:00",
-        "next_run": "2026-09-12T14:00:00+08:00"
+        "last_run": "2026-09-12T14:01:19.795705+08:00",
+        "next_run": "2026-09-12T15:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -794,22 +791,22 @@
     "uptime": "2 days",
     "cpu": {
       "loadAvg": [
+        1.25,
         1.27,
-        1.32,
-        1.3
+        1.27
       ],
-      "usage": "13.4%"
+      "usage": "12.2%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 44.3
+      "usedPct": 43.5
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.4",
+        "cpu": "2.8",
         "mem": "0.1",
         "name": "python3"
       },
@@ -819,14 +816,14 @@
         "name": "sysmond"
       },
       {
-        "cpu": "0.5",
+        "cpu": "0.4",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "opendirectoryd"
+        "cpu": "0.4",
+        "mem": "4.8",
+        "name": "Google Chrome Helper (Renderer"
       },
       {
         "cpu": "0.3",
@@ -949,6 +946,14 @@
       "repo": "evilmoni/TechWealth",
       "type": "PushEvent",
       "actor": "YBOT8AI",
+      "time": "2026-09-12T06:01:36Z",
+      "title": "docs: add BCG 2026 — HK overtakes Switzerland as #1 cross-bo",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
       "time": "2026-09-10T22:07:15Z",
       "title": "lucky8: revenue deliberation — 2026-09-11",
       "detail": "1 commit(s)"
@@ -1046,14 +1051,6 @@
       "type": "PullRequestEvent",
       "actor": "YBOT8AI",
       "time": "2026-09-06T03:08:52Z",
-      "title": "",
-      "detail": "Labeled"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PullRequestEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-09-06T03:08:50Z",
       "title": "",
       "detail": "Labeled"
     },
@@ -1477,16 +1474,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-12T13:46:44.205138+08:00",
+    "generatedAt": "2026-09-12T14:17:47.297303+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 30.9,
-          "code": 0,
+          "temp": 30.7,
+          "code": 1,
           "precip": 0.0,
-          "wind": 17.5,
-          "time": "2026-09-12T13:45"
+          "wind": 16.7,
+          "time": "2026-09-12T14:15"
         },
         "daily": [
           {
@@ -1515,11 +1512,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 30.6,
+          "temp": 30.5,
           "code": 3,
           "precip": 0.0,
-          "wind": 14.6,
-          "time": "2026-09-12T13:45"
+          "wind": 14.7,
+          "time": "2026-09-12T14:15"
         },
         "daily": [
           {
@@ -1555,19 +1552,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-12T13:46:44.354090+08:00",
+      "time": "2026-09-12T14:17:47.652073+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-12T13:46:44.354090+08:00",
+      "time": "2026-09-12T14:17:47.652073+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
     {
-      "time": "2026-09-12T03:13:22+08:00",
+      "time": "2026-09-12T14:01:34+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: remove unused formatMoney from currency.ts (superseded by stats-format)",
+      "text": "💼 TechWealth: docs: add BCG 2026 — HK overtakes Switzerland as #1 cross-border wealth hub (202",
       "project": "techwealth"
     },
     {
