@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T17:55:05.556957+08:00",
+  "generatedAt": "2026-09-12T18:26:08.468147+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -267,8 +267,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:35:20.675399+08:00",
-        "next_run": "2026-09-12T18:05:20.675399+08:00"
+        "last_run": "2026-09-12T18:05:23.786332+08:00",
+        "next_run": "2026-09-12T18:35:23.786332+08:00"
       },
       {
         "id": "539a150ac028",
@@ -285,8 +285,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:24:03.837282+08:00",
-        "next_run": "2026-09-12T18:24:20.892397+08:00"
+        "last_run": "2026-09-12T17:55:12.218033+08:00",
+        "next_run": "2026-09-12T18:55:24.000526+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -294,8 +294,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:34:20.575242+08:00",
-        "next_run": "2026-09-12T18:04:20.575242+08:00"
+        "last_run": "2026-09-12T18:04:22.760726+08:00",
+        "next_run": "2026-09-12T18:34:22.760726+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -303,8 +303,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:48:20.664723+08:00",
-        "next_run": "2026-09-12T17:58:20.664723+08:00"
+        "last_run": "2026-09-12T18:18:23.369269+08:00",
+        "next_run": "2026-09-12T18:28:23.369269+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -330,8 +330,8 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T15:00:49.719977+08:00",
-        "next_run": "2026-09-12T18:00:00+08:00"
+        "last_run": "2026-09-12T18:01:04.872632+08:00",
+        "next_run": "2026-09-13T09:00:00+08:00"
       },
       {
         "id": "5865255c60ba",
@@ -339,8 +339,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:47:20.810250+08:00",
-        "next_run": "2026-09-12T18:02:20.810250+08:00"
+        "last_run": "2026-09-12T18:17:23.299635+08:00",
+        "next_run": "2026-09-12T18:32:23.299635+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -537,8 +537,8 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T14:00:17.122059+08:00",
-        "next_run": "2026-09-12T18:00:00+08:00"
+        "last_run": "2026-09-12T18:00:34.361469+08:00",
+        "next_run": "2026-09-13T10:00:00+08:00"
       },
       {
         "id": "86f0a1085a5f",
@@ -546,8 +546,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:00:33.008470+08:00",
-        "next_run": "2026-09-12T18:00:00+08:00"
+        "last_run": "2026-09-12T18:00:41.119996+08:00",
+        "next_run": "2026-09-12T19:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -645,8 +645,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T17:01:06.946624+08:00",
-        "next_run": "2026-09-12T18:00:00+08:00"
+        "last_run": "2026-09-12T18:00:48.481047+08:00",
+        "next_run": "2026-09-12T19:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -791,27 +791,27 @@
     "uptime": "3 days",
     "cpu": {
       "loadAvg": [
-        1.26,
-        1.26,
-        1.27
+        2.14,
+        1.51,
+        1.32
       ],
-      "usage": "12.7%"
+      "usage": "13.0%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 43.6
+      "usedPct": 44.2
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "2.2",
+        "cpu": "2.7",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "2.0",
+        "cpu": "2.1",
         "mem": "0.0",
         "name": "sysmond"
       },
@@ -843,26 +843,26 @@
       {
         "day": "**Mon Sep 8**",
         "run": "✅ 5km",
-        "pushups": "8️⃣0️⃣/100",
+        "pushups": "✅ 100",
         "notes": "✅ 50"
       },
       {
         "day": "**Tue Sep 9**",
         "run": "✅ 5km",
-        "pushups": "⏳",
+        "pushups": "3️⃣0️⃣/100",
         "notes": "✅ 50"
       },
       {
         "day": "**Wed Sep 10**",
         "run": "✅ 5km",
-        "pushups": "⏳",
-        "notes": "⏳"
+        "pushups": "⏳ 0/100",
+        "notes": "✅ 50"
       },
       {
         "day": "**Thu Sep 11**",
-        "run": "—",
-        "pushups": "—",
-        "notes": "—"
+        "run": "⏳",
+        "pushups": "⏳",
+        "notes": "2️⃣5️⃣/50"
       },
       {
         "day": "**Fri Sep 12**",
@@ -886,7 +886,7 @@
     "stats": {
       "daysLogged": 7,
       "runsCompleted": 3,
-      "pushupsCompleted": 0,
+      "pushupsCompleted": 1,
       "totalDays": 7,
       "currentStreak": 0
     }
@@ -956,6 +956,14 @@
       "actor": "YBOT8AI",
       "time": "2026-09-10T22:07:15Z",
       "title": "lucky8: revenue deliberation — 2026-09-11",
+      "detail": "1 commit(s)"
+    },
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-10T06:01:50Z",
+      "title": "docs: add family-office tax concession + FinTech Week (Nov 2",
       "detail": "1 commit(s)"
     },
     {
@@ -1051,14 +1059,6 @@
       "type": "PullRequestEvent",
       "actor": "YBOT8AI",
       "time": "2026-09-06T03:08:52Z",
-      "title": "",
-      "detail": "Labeled"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PullRequestEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-09-06T03:08:50Z",
       "title": "",
       "detail": "Labeled"
     },
@@ -1474,16 +1474,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-12T17:55:05.263657+08:00",
+    "generatedAt": "2026-09-12T18:26:08.259163+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 26.4,
-          "code": 51,
-          "precip": 0.1,
+          "temp": 26.2,
+          "code": 53,
+          "precip": 0.2,
           "wind": 19.0,
-          "time": "2026-09-12T17:45"
+          "time": "2026-09-12T18:15"
         },
         "daily": [
           {
@@ -1512,11 +1512,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 27.0,
+          "temp": 26.7,
           "code": 51,
           "precip": 0.1,
-          "wind": 11.1,
-          "time": "2026-09-12T17:45"
+          "wind": 10.6,
+          "time": "2026-09-12T18:15"
         },
         "daily": [
           {
@@ -1552,12 +1552,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-12T17:55:05.556787+08:00",
+      "time": "2026-09-12T18:26:08.467984+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-12T17:55:05.556787+08:00",
+      "time": "2026-09-12T18:26:08.467984+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
     },
