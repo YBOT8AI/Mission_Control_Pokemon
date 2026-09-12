@@ -805,7 +805,6 @@ def get_weather():
 def get_today_view():
     """Assemble today's operational view: date, reminders, and workout hint.
     Native Apple Reminders/Calendar read is attempted but non-fatal (needs GUI permission)."""
-    import subprocess
     now_hk = datetime.now(HKT)
     today = now_hk.strftime("%A, %B %d, %Y")
 
