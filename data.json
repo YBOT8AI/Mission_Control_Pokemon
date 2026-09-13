@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T07:53:17.548158+08:00",
+  "generatedAt": "2026-09-13T08:24:22.499535+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -62,16 +62,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "f4731aa",
-          "message": "chore: remove unused SLUG_TO_KEY map from blog route",
+          "sha": "a765dd0",
+          "message": "chore: remove dead components, unused logo jpegs, and Next boilerplate SVGs",
           "author": "evilmoni",
-          "time": "2026-09-11T19:08:09+08:00"
+          "time": "2026-09-13T08:02:21+08:00"
         },
-        "commits30d": 42,
-        "totalCommits": 150,
+        "commits30d": 43,
+        "totalCommits": 151,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 6,
+        "ahead": 7,
         "behind": 0
       },
       "tests": {
@@ -85,7 +85,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "6 commits not pushed"
+          "7 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -269,8 +269,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:36:35.059607+08:00",
-        "next_run": "2026-09-13T08:06:35.059607+08:00"
+        "last_run": "2026-09-13T08:06:37.174483+08:00",
+        "next_run": "2026-09-13T08:36:37.174483+08:00"
       },
       {
         "id": "539a150ac028",
@@ -287,8 +287,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:22:19.892699+08:00",
-        "next_run": "2026-09-13T08:22:35.126159+08:00"
+        "last_run": "2026-09-13T07:53:25.151284+08:00",
+        "next_run": "2026-09-13T08:53:38.740938+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -296,8 +296,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:35:33.962220+08:00",
-        "next_run": "2026-09-13T08:05:33.962220+08:00"
+        "last_run": "2026-09-13T08:05:36.784379+08:00",
+        "next_run": "2026-09-13T08:35:36.784379+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -305,8 +305,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:50:34.991061+08:00",
-        "next_run": "2026-09-13T08:00:34.991061+08:00"
+        "last_run": "2026-09-13T08:20:38.450341+08:00",
+        "next_run": "2026-09-13T08:30:38.450341+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -341,8 +341,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:39:34.044568+08:00",
-        "next_run": "2026-09-13T07:54:34.044568+08:00"
+        "last_run": "2026-09-13T08:09:37.322923+08:00",
+        "next_run": "2026-09-13T08:24:37.322923+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -548,8 +548,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:00:46.354275+08:00",
-        "next_run": "2026-09-13T08:00:00+08:00"
+        "last_run": "2026-09-13T08:00:48.212931+08:00",
+        "next_run": "2026-09-13T09:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -593,8 +593,8 @@
         "name": "Code Quality — KinKin (Weekly)",
         "schedule": "0 8 * * 0",
         "last_status": "ok",
-        "last_run": "2026-09-06T09:51:34.125634+08:00",
-        "next_run": "2026-09-13T08:00:00+08:00"
+        "last_run": "2026-09-13T08:02:26.289162+08:00",
+        "next_run": "2026-09-20T08:00:00+08:00"
       },
       {
         "id": "8ee20c4e5aa4",
@@ -647,8 +647,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-13T07:02:44.633892+08:00",
-        "next_run": "2026-09-13T08:00:00+08:00"
+        "last_run": "2026-09-13T08:00:52.734655+08:00",
+        "next_run": "2026-09-13T09:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -793,11 +793,11 @@
     "uptime": "3 days",
     "cpu": {
       "loadAvg": [
-        1.18,
-        1.26,
-        1.24
+        0.98,
+        1.14,
+        1.2
       ],
-      "usage": "12.8%"
+      "usage": "12.4%"
     },
     "memory": {
       "totalGb": 16.0,
@@ -808,22 +808,17 @@
     },
     "topProcesses": [
       {
-        "cpu": "4.5",
+        "cpu": "3.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.7",
+        "cpu": "2.1",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
         "cpu": "0.5",
-        "mem": "5.5",
-        "name": "Google Chrome Helper (Renderer"
-      },
-      {
-        "cpu": "0.4",
         "mem": "0.0",
         "name": "notifyd"
       },
@@ -831,6 +826,11 @@
         "cpu": "0.3",
         "mem": "0.1",
         "name": "launchd"
+      },
+      {
+        "cpu": "0.2",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       }
     ]
   },
@@ -1476,37 +1476,37 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-13T07:53:17.389152+08:00",
+    "generatedAt": "2026-09-13T08:24:22.147407+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 24.7,
+          "temp": 25.0,
           "code": 80,
-          "precip": 0.4,
-          "wind": 19.6,
-          "time": "2026-09-13T07:45"
+          "precip": 0.5,
+          "wind": 18.9,
+          "time": "2026-09-13T08:15"
         },
         "daily": [
           {
             "date": "2026-09-13",
             "code": 95,
-            "max": 27.4,
-            "min": 24.2,
+            "max": 27.9,
+            "min": 24.3,
             "rainPct": 100
           },
           {
             "date": "2026-09-14",
             "code": 51,
-            "max": 29.8,
+            "max": 30.1,
             "min": 23.3,
             "rainPct": 73
           },
           {
             "date": "2026-09-15",
-            "code": 51,
-            "max": 29.8,
-            "min": 23.4,
+            "code": 53,
+            "max": 29.9,
+            "min": 23.5,
             "rainPct": 22
           }
         ]
@@ -1514,32 +1514,32 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 26.0,
-          "code": 3,
-          "precip": 0.0,
-          "wind": 10.8,
-          "time": "2026-09-13T07:45"
+          "temp": 26.2,
+          "code": 55,
+          "precip": 0.3,
+          "wind": 11.7,
+          "time": "2026-09-13T08:15"
         },
         "daily": [
           {
             "date": "2026-09-13",
             "code": 95,
-            "max": 28.7,
+            "max": 29.3,
             "min": 24.2,
             "rainPct": 100
           },
           {
             "date": "2026-09-14",
-            "code": 95,
-            "max": 29.9,
-            "min": 23.3,
+            "code": 96,
+            "max": 30.6,
+            "min": 22.9,
             "rainPct": 93
           },
           {
             "date": "2026-09-15",
-            "code": 95,
-            "max": 30.7,
-            "min": 23.6,
+            "code": 53,
+            "max": 30.8,
+            "min": 23.1,
             "rainPct": 80
           }
         ]
@@ -1554,14 +1554,20 @@
   },
   "activity": [
     {
-      "time": "2026-09-13T07:53:17.547976+08:00",
+      "time": "2026-09-13T08:24:22.499393+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-13T07:53:17.547976+08:00",
+      "time": "2026-09-13T08:24:22.499393+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
+    },
+    {
+      "time": "2026-09-13T08:02:21+08:00",
+      "type": "success",
+      "text": "🚀 KINKIN: chore: remove dead components, unused logo jpegs, and Next boilerplate SVGs",
+      "project": "kinkin"
     },
     {
       "time": "2026-09-13T05:02:21+08:00",
@@ -1586,12 +1592,6 @@
       "type": "success",
       "text": "🌌 OrbitX NFT: chore: remove unused useAccount import from homepage",
       "project": "orbitx"
-    },
-    {
-      "time": "2026-09-11T19:08:09+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: remove unused SLUG_TO_KEY map from blog route",
-      "project": "kinkin"
     }
   ],
   "stats": {
