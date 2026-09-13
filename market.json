@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T01:28:59.963451+08:00",
+  "generatedAt": "2026-09-14T01:59:53.536796+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606016.32,
-      "changePct": 0.04
+      "priceHkd": 606126.08,
+      "changePct": 0.16
     },
     "ETH": {
-      "priceHkd": 19642.34,
-      "changePct": -0.86
+      "priceHkd": 19633.16,
+      "changePct": -0.83
     },
     "SOL": {
-      "priceHkd": 792.15,
-      "changePct": -0.97
+      "priceHkd": 791.68,
+      "changePct": -0.96
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 1096.39,
+      "priceUsdOz": 4349.7
     },
     "Silver": {
-      "priceHkdPerGram": null,
-      "priceUsdOz": null
+      "priceHkdPerGram": 16.29,
+      "priceUsdOz": 64.62
     }
   },
   "commodities": {
@@ -53,16 +53,34 @@
   },
   "news": [
     {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T01:13:52+08:00"
-    },
-    {
       "title": "Trump doubles down on united Ireland comments on day two of visit",
       "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-14T00:57:58+08:00"
+      "time": "2026-09-14T01:55:51+08:00"
+    },
+    {
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T01:38:29+08:00"
+    },
+    {
+      "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T01:08:00+08:00"
+    },
+    {
+      "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T00:37:49+08:00"
+    },
+    {
+      "title": "F1 Spanish GP: Kimi Antonelli wins again as VSC costs Lando Norris - motorsport.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15WTJSRTIzQTBLSm9oUTY3ZTJNcDRicVpFSXlCMWVJY3ZoV2J0RTJ0azFxTzR2cE40LThRdTJfd3BueFB1QnpWZFdaQ2NvRTlvRlhST1ljU3B6cTFsekNXTFlGdzFnbnhnNGZPdlhiMllEbDE0WjNkMk5n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T00:32:41+08:00"
     },
     {
       "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down",
@@ -71,10 +89,10 @@
       "time": "2026-09-14T00:29:27+08:00"
     },
     {
-      "title": "Russia struck train near Poland border shortly after Boris Johnson and top European officials passed through - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56MUFXcDBJY3RjNktKU2pYREZQRmJnWExKSHJiQk5SSTR5UmsxbEx1ZFUzWUkteHNXU2xFRzhrQS1zdm1lN0MxdElzNVg0bnhjQ3FzMGtpNkkzUQ?oc=5",
+      "title": "Ryan Day's decisions continue to cost Ohio State: Late-game calls lead to collapse again in loss to Texas - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmlIcHJmX3J6ZTlwbkh5V2tkSlpuSjBuNU5ldU5ENUREYUNiVGxuOS0zb0I5Z2lOcWYyUnl5OFFQYTA2MXNpVUlMN2p3R2lpUHlkV0tLRGdoMTNDbS1KeS1FeG05STBUcElZYnVfQ3FwcXJPa3pOa0dscEFYUkdMd2lCenlpQ0JXMDZYRTBCS3plYmhDTjBiWUhlQ1FaZU1BWXJDUXppcHVzOEZyVmc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T00:05:41+08:00"
+      "time": "2026-09-14T00:20:00+08:00"
     },
     {
       "title": "'Practical Magic 2' Box Office: Sequel Fizzles With $28 Million Debut - Variety",
@@ -89,10 +107,16 @@
       "time": "2026-09-14T00:00:00+08:00"
     },
     {
-      "title": "Trump brushes off AI doom predictions, says US must push ahead - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSnlOS0JBdUhXWktpUUJEalpzOW1jNDJUaXVSdWhqVDh3MDVhRzU4VkZVOWJXRFpzVWpYUGZmTDJRcDBvRlZ4aFJtVENXT1A5LUZmU0JmeHl4Z1YweDY0My1KVXdpSGd0cVEzc1p5TUZzSDZFRUtkbWFyTGZjVXkwaXBaOVVnblRoRi1VZTBBbzNGam9SNThtbUQxN2VMQQ?oc=5",
+      "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-13T23:30:50+08:00"
+      "time": "2026-09-13T23:51:00+08:00"
+    },
+    {
+      "title": "Donald Trump rejects calls from tech bosses for an AI slowdown - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGpIWkFrLXNOMW52MlJQZno3UmNCMU5jMFVaNjRoOUZDSU1Hc2Q5MzRFaTd5ckVPS2FwR2hmVkNqRDhhcEYtZGxjNUhOLUZDWWR1YzBGY0dYYVI1ek5NVFd2d3hLNzlrN1JnbkE0Wmo5a3R1SUhJaHNzLWJ1Yk1Ib3lvc3A?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-13T23:42:41+08:00"
     },
     {
       "title": "US congressman swims to safety after his plane is forced to land on a lake",
@@ -107,12 +131,6 @@
       "time": "2026-09-13T23:26:00+08:00"
     },
     {
-      "title": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T23:23:36+08:00"
-    },
-    {
       "title": "Celine Dion makes triumphant return in Paris after six years sidelined by rare diagnosis - NBC News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHJFNzBZOVNjQkh5TC1tN1JMaEJPUHpwTWRUWThsR2xFdUZGMFpZUnRKaFlCMVhJRC00bl9sTzE4ckNwUHJTUUlqY3Q4azZnZnB5NkNITFRSYkVoRlA5UVFnVGhwNGZvNGRKaFNqTTlPa2tYdVgtOF9saTJ1TWw3VUVIRkNHeUlPeU1zZHNLZUs1QW9hWVN3MlVwUk1zOENzbEhiU01n?oc=5",
       "source": "Google News Top",
@@ -125,28 +143,10 @@
       "time": "2026-09-13T22:53:40+08:00"
     },
     {
-      "title": "Indonesia continues search for at least 129 missing after ferry capsizes, 6 bodies recovered - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUHc5VVA1ZE8yZnB0VWlLbS1MdlM3UEhHaDhzYWJuZG11eW82eDRpdjVNYWF5aE1hQzVmZ21WMG5LZl95Y3BxTFc1OW5maGdCNHJTOEFrZHBVNkplV3R6UXM2T2RLYnFnSDZ3R0VsVjQzUXhDaDR1U1JLbG9mTHg2TmVCMElDNzFYUGx0WkdZcTJCV3l3UUVjWA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T22:53:00+08:00"
-    },
-    {
-      "title": "Ohio State moves to No. 1 in ESPN's FPI ranking after historic collapse. Huh? - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVGRQU2V4dWtmYmNNWUxkX1pXNkNtdUlqUGVnX0JSVnF3RWFXTXpnUmpwRjF4bEt4YzJFaU5lMXhBYjFIdzcyUTQwaThUdU1XTWxIVDBSNmMwSzZWY2p3dDJpSmY3S3lURDNiaGI4VkFtWTJqYm9Ha21wNW1pdFEtbF9VczVwYVNDYndqOTkzd3pWblg0LWlsNFRUZEdJYllwdEFjVEZNQy13R0c2X0JfOElpbXF3TGN0YXl0LU1xVVJvTnd4WHNz?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T22:45:00+08:00"
-    },
-    {
       "title": "Carney pushes idea of making Canada 'associate member' of EU, WSJ reports - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQY1Y5U2xFbGpBM1ppYU9rcmhrdVk5b2hKTkNNZHdyakV6Y0UzS2lJenNKS0s2SjFZdVY0cDBDUm42MnNib1BlYzZLWENheHpobzhOanc1LXVnblVHNFo1MDNtUEFjcE93T0ZIOW85VmcwWk1zOEMtcGh4NXpOSk94dVowaVlya1IzWkJxX2NOcDhtZWhVRURzeGRCWUhHV1FuNGRzSUI0bS1ERVZ3TUdhbUZGOWpwZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-13T22:42:11+08:00"
-    },
-    {
-      "title": "NFL Week 1 is here. Mahomes returns as Burrow, Allen and Jackson face huge seasons - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT1A5WkFnV3BWM1lMVWZLd1J4S1NZcHZUTVhJSmxKMFdCMVcyWjJxOE5CQjJPNnFGMzFtaFM3RTVKTjh0UjMwcTVYQmRZaHVEWkJsZlVpNmFSTlVNTGEzQ01Ba29aOFJKczE5cUx5b1ItTDFxOFdUWU9uYUcwSC1TN0E3dGFzOEpKLTdabno2UWRKcFBGWEww?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T22:39:32+08:00"
     },
     {
       "title": "Meghan Markle Breaks Her Silence on Return to U.K. With Prince Harry - instyle.com",
@@ -161,16 +161,16 @@
       "time": "2026-09-13T22:25:56+08:00"
     },
     {
-      "title": "A Galaxy S27 Ultra upgrade to match the iPhone Duo - PhoneArena",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EYjhWM1R2MVphWWsyLXo2ZTBaNVFYMVRsb1U3ZzNpT0lyc09uTHRFOEJieGlqQlhwUHZPMklsekozbWkzS0FmU0w3THl4VGNmczA4X09rNzdvemNUbC03TU5IaldaT09WMlhNcVJCS1Nna1lEODVQTGZSQjhsQTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T22:20:51+08:00"
-    },
-    {
       "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
       "link": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-13T22:01:44+08:00"
+    },
+    {
+      "title": "Apple’s iPhone Duo Will Turn Foldable Phones Into the New Normal - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWm9qdVpOck5JejdoX1FQdXRHWEFaVjhsOXoxdnZCcmotU3BxcnpxdlVwcmVQeFlqSkZnTFlYQXF2NlNXM3ROVE14ck5sLVRTQnB0S28yY0RYcV92VUdXbUUzVW5WX0hmNUtCZnJTbm5XSVU2QjR2TllPOWF4RjVxbUZRQ1pKN0tHSl9IMEt0OW5HUnpwVlFjVHkwaUFtbGQ3Ui0zS3JzdVNHaE9ia0VqY2tRb0VKZ0xHeHE1aTk2TFdfMmJuWWZTRFFhR0twTDEwTHkyNjRfbno?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-13T22:00:01+08:00"
     }
   ]
 }
