@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-13T08:55:24.392140+08:00",
+  "generatedAt": "2026-09-13T09:26:25.261353+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 605647.84,
-      "changePct": -0.06
+      "priceHkd": 605937.92,
+      "changePct": -0.04
     },
     "ETH": {
-      "priceHkd": 19793.65,
-      "changePct": 0.48
+      "priceHkd": 19801.02,
+      "changePct": 0.42
     },
     "SOL": {
-      "priceHkd": 797.41,
-      "changePct": -0.26
+      "priceHkd": 800.23,
+      "changePct": -0.02
     }
   },
   "stocks": {
@@ -33,12 +33,12 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1096.39,
-      "priceUsdOz": 4349.7
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 16.29,
-      "priceUsdOz": 64.62
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
@@ -53,7 +53,13 @@
   },
   "news": [
     {
-      "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg",
+      "title": "Ryan Garcia vs. Conor Benn live results, round-by-round updates, ring walks for tonight's WBC title fight - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNanVaYy03WGowelRMTzdCS05lM192cWZuNzNQX3ZSSDg5QUJ0Y2RGczJLVE5nMEN1cXg1NE1SYVJyUUlJY0NBaUJweTdJN3BqMWh6Si1xbU1fUDNqVFU4R2tEaTRRVmtUemF2RHlKTTZadlAzejR4M0dCYi1lSDM5TTFCTDVRRklsaUJOR0dzczZkdzFFdWpKLVVIUzhZcGdaaXN5RXhXdTNnLXhHWmxydGMzSGhMTkdNZkpvWnI2bUJ2ZlZiZFJDSU1WdEhyLWVIazBiUlExVkN0SXh3QXFiSEdfOVZqMnhL?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-13T08:42:00+08:00"
+    },
+    {
+      "title": "Anthropic CEO Says It’s Time to Slow AI Model Advances - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQlBPOGtIVFdERkFSODVUMU84NkRpM282MzgybkR1RXAxN1FMZXNON3lMZUpoMjFxU3ltWDVkT1RuNEJwcEhGR21qeVVuQjI2VkwtRG1KbE9nLVhEQjAyQjdpdjExYWRjSFRRLTJ6OHkxcmlkWkRYUS1sdV8wUGUyTEdNWWFzNGJjYWFYckxIRGZFWC1sTzJQSmtESWRCX1ZkekptTVlHWjQwakxYLUtVQ3J4SWc3UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-13T08:09:00+08:00"
@@ -65,16 +71,22 @@
       "time": "2026-09-13T08:01:21+08:00"
     },
     {
-      "title": "Ron DeSantis offers ‘asylum’ to holdout juror in Lindsay Clancy trial - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNm4taGpOMl9fZHlHNTdqQjRLSlF6M29hWjJSQ04zdktJMG9nMERJY01zczYtT2p0MkRCQzZIci14Z1djN1k0THhEU2NkSG5zTEdMcXFFRHFBakJ0LWhxa2ZYVWZjdXVUT2hsOWhWcDNGVm9lUnQ2a2owTWF4SlBOZVJvblpfMjFGTnZOVnRhR3h0eGpfb0FkNUFR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T07:40:00+08:00"
-    },
-    {
       "title": "Trump endorses Irish reunification, breaking with decades of U.S. policy - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdTFIZUN5UjlRRmk0MGhKVjFvQ2p3bU13U05mRFoxdFhabHZXOGFFZUFScVZjWXhSYXJ5ZExkQmpPdy14eVhTM05YYVVtZnpJbFA2bFZBcmhwRXlLNmtFR0JqbDhRZ19iRWN4QXB4MVotZEk2a2NVdExaSFFLTDdKRnpoNEs2WDlNMnhVTFhlV3E4MkNJYTBpUXhQc3Q2WXE4UDQ5aHhkUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-13T07:26:26+08:00"
+    },
+    {
+      "title": "‘Reacher’ Star Alan Ritchson and His Wife Catherine Ritchson Announce Split After 20 Years of Marriage - The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRUowT2xDM0NSV0lhMU1lcUoxcXNCOXNyQmJDYmM1MG41U3NRVGRVd0p4SVpJOHRNY0RWTk1pWHZOWXVKLW5QRWhNNGFyVFZBdUxoWm9tRVNPODZPaUxRakJybG1BQ19sOUl3OXI5eUFwMXFWUEh2dW5URkNZcVdKa1lVSkhicHdmYVpqbG1hQnVEQ05EelBxeVd3UWpaZHNGZW1OS2EyUU8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-13T07:02:40+08:00"
+    },
+    {
+      "title": "Leaked Report Details Fallout if Paramount Follows Through on California Exit Threat - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNDZIYzRZTjN3LWFPZ3drZVNqZTdhMFhNUXRNTmw5eFp6ZmUxYjQzVnBHaTRqVVUyTG1tRE4tSFAxUEtlSGVpcnVYRk96WURDY0F3RVY4V3NQWi1PeGFNWUptMkFBdTBjZlFtTmlKdllnc0FrTHNhcGUyV3hVNlhZTGVvcHg2QmJtRDJWcUUtYVlhUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-13T06:08:13+08:00"
     },
     {
       "title": "Putin warns Europe against sending troops to Ukraine: \"That means a war with Russia\" - CBS News",
@@ -89,16 +101,10 @@
       "time": "2026-09-13T05:47:00+08:00"
     },
     {
-      "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDVOU3dNaTZnLXlUajl4VmFxRkpwRU1UYnJKT0tBSGR0djJjVl9VY2tCYzlmdlJrakFnWTVkOC1LNFA5N2c2aWZ0M2tFWnEtREtzQU1WTUo1OS13X0hLRXZGbUpKUHpRVDhwTHRhVDFaN2NPMm1wVWlWQXdTY1RwWElqSHJUZzFBX1hUQVNTSUQ?oc=5",
+      "title": "Iraq says Saudi pipeline attack originated from its territory, and other Mideast news - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONEdJUjhTN0ZoaHN2R1U0eEZvV2pOb2tOTGVjX2NxbjF6RTg5SDFyLXRhVlF2enBCV2ctSXFjVEZaeXdqTjNSeXVjcEszem9kUTRxaFR1T0pUQ3M4aEVaT2NwMjl3WC1mbi01bTVIZmRMWXJSUml4X3QyM0tYamRXbDc2T3h3dG9JbGtZZHVyZVBRMTVvaHFSdGhCci1jLXBMTnRnYWlZNHRnTzRjTGMw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-13T05:34:12+08:00"
-    },
-    {
-      "title": "‘Reacher’ star Alan Ritchson announces split from wife Catherine Ritchson after 20 years of marriage - Entertainment Weekly",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZVJUaEVaVHQxNWI1cHdpbFJTV0gzb2J3dUY1c1MwbDN4RkZfUkhuUG1JUFpvNzRhc3J3bmNnTU5kRkR4LXNET3FxOTlwbVJhU1p2aHhBMzdHS0JyNlBwdXhWNWJTRU4yWkZfNlpIVmVQUEZHUjNKeVhLNGJNTW1aYThSRTU5Rm5xbmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T05:29:42+08:00"
+      "time": "2026-09-13T05:47:00+08:00"
     },
     {
       "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
@@ -107,22 +113,16 @@
       "time": "2026-09-13T05:25:28+08:00"
     },
     {
-      "title": "Predictions, picks, odds for Ohio State football vs Texas Week 2 - The Columbus Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHZpQWZzclYzMWJkQXpZZk80RTJXOXYtRWZscy1ZMzVCLWtCNm5OemtrMHhtU0NVV3V2eHJxTzJtdXEtbER6a1V3ZUZPd2xFNThqZ0tSRnVwaTY5S2F4TzNiVnhkLXlhaEsxYUR4MFJOdHg0TVFCT3hvUGg0VVVFM19nQi1GeXVId2xRZmk5eXJDSm1HbnVGTWwwTXNEYUJIQkt6eUlrQ0hXMG1KOFNvblJ4MXdXbXlqZV9HRkNhREVreHQ4eVF3T0ZUdWpObjNnRmJBaXF4cHo?oc=5",
+      "title": "Where to watch Ohio State-Texas football game, TV channel, streaming - The Columbus Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMGxzNThERGpzNUJFWUxYdFo5dUtPVFhOV3JNUEZhbTVHMTBVQzVNTzdNOVVrV2NUMWxPZHZjUGxLTWdWRHdLVkZLU1NvX19GVEo0cDVwTDJQUjdvZzJSX3k5X3ZlSVQtb3BheXdkaWdRQ2x1bUMwd3lhMnZFS1hoTXdFN1ltbWl2azJRbE1ndHZjUWM2eDZoWG1sdDBnbHVYZXpCckh3c05VeGRpRUdVVDlRc3RQWUQtYTdDc2RZWjRfc1RxZmRkX0pDTWRjN1c2eFRHc2dnTFoxZDBU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-13T05:18:00+08:00"
+      "time": "2026-09-13T05:19:00+08:00"
     },
     {
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-13T05:16:47+08:00"
-    },
-    {
-      "title": "Dante Moore struggles as Oregon loses to 24-point underdog Oklahoma State - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN2ZNcXJfWjdldDRYalNlVzdWM2tOaDVQNWhoeExveV9OQklKcEQyYzZybE93NjhCeHcweFF3MklxWUJwdjZ5cmszT1lOVDdabG1lTkRtMzF5enFrNFFEMjRwLWR0eUVrQTRFNU5SRDlMajRLdG4yZHNzbHJDNkZ2UExkOG1NcVc3Z3JOZGpkTXgwZVp5ZWNzTW4xX0lva1pOb2lJZFAwUl82M3QzZWwwdFNaOGlCZ1AxNGVEbFhiWFNvYkZFSjY5M1JOR3hjdk9l?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T05:16:44+08:00"
     },
     {
       "title": "Second crypto billionaire donates record $49m to far-right Reform UK - Al Jazeera",
@@ -167,10 +167,10 @@
       "time": "2026-09-13T04:00:53+08:00"
     },
     {
-      "title": "Lady Gaga and Michael Polansky welcome their first child together - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3hTWHNBMmZWSGxZX0lORDlOUHYyUXBhM3dSNi0xeTM3OThPZ0pJSnBGSFpFdWh4eG5rOHJhLWtSVzY5Y1ZacHBpVHI3VGpLQmJzQXhJcUY2emhZSGVrX29rNHk5dEhha0FaTl9qbFV1VjZQQlRtSFpWNGd1U3JKZTBZRjdaQkxsYVlKcjJLa0FsWE5XT3VaMEZKT0k3UE9uZVNkbkF1TWJVWTFscXc?oc=5",
+      "title": "BlizzCon 2026 Opening Ceremony: Starcraft Returns, Diablo V Announced, Warcraft news and more - XBOX Wire",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MemNnRjQ4dHMzakZ3MWxxeXAwOTh2ekNOMHR5R3hDbFU3Qzd3R2FlUnNHQ1dUMlBqVU82aUFLclI1aUktR0kwUkIxUkNpdkl1dEk0VlVvdGZUQlhrYWRCLVBEZGFFU2U2enlfeHhQR0VScUZVcjRlVUR30gF_QVVfeXFMTW1INUJzTk1nRmhxSjJoV2tabWNJcktBUzEtZF84LVdpZVo1S0F3NmxYOWp5SlpPT1dMN2pkX1k0M2lHN3BZb2k1ZXNxU3lRLWEyS0c1TXpXTVdsdWFnQTlBTlVadDY3MlV2bnotVWxWZ3JmeE4yU1JrZ0hoUzRhaw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-13T03:51:03+08:00"
+      "time": "2026-09-13T03:39:14+08:00"
     }
   ]
 }
