@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T02:30:55.812374+08:00",
+  "generatedAt": "2026-09-14T03:02:00.560010+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606133.92,
-      "changePct": 0.19
+      "priceHkd": 606212.32,
+      "changePct": 0.25
     },
     "ETH": {
-      "priceHkd": 19647.75,
-      "changePct": -0.71
+      "priceHkd": 19668.52,
+      "changePct": -0.51
     },
     "SOL": {
-      "priceHkd": 792.78,
-      "changePct": -0.62
+      "priceHkd": 793.17,
+      "changePct": -0.42
     }
   },
   "stocks": {
@@ -53,22 +53,46 @@
   },
   "news": [
     {
+      "title": "Live updates: SpaceX to launch SES satellites from Cape Canaveral, Florida - Florida Today",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOckhPVmFmV0lMLWktWFZLdWtieHlkQ192TllCQWpBSl95MElsT0QxSU5lUFU1LUZvaG4zN01jNEd6bC1WaEtNUERvb0tQNWplVWRaa3Bibkw0UFN6Tm1YbGwxZXdMUUN4QnJnaDhldzY4OXJoVkFZb3gyWHFSTG9uRDRqUjRpS2xkNmZlMVBNeUU5Rkp3RWR4NEhIVGxyVENYQmtQWUQtT3ZxQmh1UkdyU1duRFFsVmNOd2hPQVY4ekd2WWpCaS1iVk9rdml6enFtUnhnSTFTcGJXZW5Ub1lGTm5tUlJ0a1VaOGhxRnE1bEtrN3pzQlZrd20wcjdkTHBKcUpxOTloaWQzUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T02:55:00+08:00"
+    },
+    {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T02:49:37+08:00"
+    },
+    {
+      "title": "Trump doubles down on united Ireland comments on day two of visit",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T02:49:28+08:00"
+    },
+    {
+      "title": "Pennsylvania woman dies of measles-related complications, local coroner says - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T02:39:15+08:00"
+    },
+    {
+      "title": "Sweden exit poll: Left on course for election win in blow to far right - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGw1Q0FIZVFnaEhIMHpjQzMxeXZSMHhNYUZYMGZNQXg4TUpCUTVhdTR6UnhqTW5WZ2FkTVdnX1RuSDFIU2V3VjVIVW1GRzVURF9aRTg5YlJjX2pCbmF6RlFMYW5fVzdEdm11RVBNREt3ZFVOVEtVVGxzWXM1T1RIOW1ueU0?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T02:28:38+08:00"
+    },
+    {
       "title": "Questions mount over what an AI 'slowdown' would look like",
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T02:20:22+08:00"
     },
     {
-      "title": "Trump doubles down on united Ireland comments on day two of visit",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T02:09:56+08:00"
-    },
-    {
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T02:03:44+08:00"
+      "title": "Irish golf fans chant 'USA' after Trump announces end of tariffs on Irish whiskey - Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0lkcTJzWEZ1TVB6Nm5kUGFXRWVBMU8xQ3QxQW0zSzZsQkVfa3I1bUhqX1E5VW9QTkZpSGNuN2NvZ0tTMjJROXVEMHg5VjNFb2l1bWE5MDZjOVlpRVJwLUtheVZJbFBEX3IzY0NKcGZSbndUd3RCR0VHZk1MUWdldE1VV2ctV0JRTDRHWFg4blRxTml0VFRBQ1dFYndqYzJTaUtEV1V4SDN5V3NTcy0w0gG0AUFVX3lxTFB3UzFDWDBKTWx1b3VrRVo2Qm5NbEQxZzVhcEttYTRjX3ZQYnBCMzh6b2kzZWVJQ1BnX1pEYU5RcVBTM3g3cGVWVnN2c3VjbVNqM2lSMWFiWlZlNGtJOHJSWkRZeHM1aFp2NzE3S3Z2eUJ5VkNYdVRBYjdiWkEzemtUS1VXWWYwZENpQkFQaHdHbkhmY1JMSkk5TVhXeDZRSEswTzBDaWZvVGd2VlM5cDVGNWtjRg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T01:53:17+08:00"
     },
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
@@ -77,28 +101,40 @@
       "time": "2026-09-14T01:38:29+08:00"
     },
     {
+      "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGlUbF9PYnU0Q05JZW03V3BDSW1EcUp2djVmYXZjdWxXcmsyUWREY2M5MHpSNkU4ZERvQWlmV0d3bThhdmx2RUQtU3VockNIRTVmWGltUmllOUJuTHdrYUJqRU02cHdBUlNlb1dwSGZhWWtKejlDakkxUWhqR3RJRFc5TWRFdDFabTNUbEJfNU9aZlMzUkI0S0dqNkZYSXFYMndoNlR4c2R2SzdxZVEycDlIMHBaXzg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T01:24:54+08:00"
+    },
+    {
       "title": "Meghan shares first glimpse of family life after Sussexes return to UK - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KTXRvUWZ1eVNCYjV2OTFZdTUzd3Z6Q21hUFJhY1VZOUdWVVU1a1dvc3RYZU9BaVdiR3pFNkNTTE4zQ0htT0l5T1hIemtGdmFzZENkazZ6bGhQZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T01:22:22+08:00"
     },
     {
-      "title": "Pennsylvania woman dies of measles-related complications, local coroner says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
+      "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T01:15:19+08:00"
+      "time": "2026-09-14T01:19:00+08:00"
     },
     {
-      "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+      "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T00:37:49+08:00"
+      "time": "2026-09-14T01:02:00+08:00"
     },
     {
-      "title": "Trump downplays AI risks after dire expert warnings and calls to slow development down - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5",
+      "title": "Popular GLP-1 weight-loss drugs linked to potentially deadly brain disorder - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGhJOXlHMW5nWnlrZmJjU3J1RnFJdW9RdmY4WGJ5UHp0UmZxY3NwOEVWZ2hZT2Y3dzZoZi1oYVc5MXdIVk5pa2twY1AwMkhHQTlTSmlfS093Xy0yaEY0UkMwVl81WHNqNFVNaUstanlieVNVS2ZYeUFZUUZ2c0ZpRG1zdFdQdnlPVGZOSzJKS3dNeDN2di1HSmR3MU16Qm5BMmlMNWx30gGrAUFVX3lxTFBfeUJ5TzhWV3V4NmlINm1FNnB1aWZiMl9LZVZITnBFNkxkVXNrQUEzb1NzbW9jTE9SNEFoWUFqejdYaVFvb3A3endHTHlGdHNUeVd2MVZ2TGN0eFRBZE1PUnJXY3NzYXFiMDc0TkxjdGx0dm5NZndiTjNTaW1QYVVQMl9hNnBRX3QzdTk4ei1pdDRMUlRTekRLdzl2OWt0SDJRQi1nLWNKME5OWQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T00:29:27+08:00"
+      "time": "2026-09-14T01:00:19+08:00"
+    },
+    {
+      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T00:58:17+08:00"
     },
     {
       "title": "Ryan Day's decisions continue to cost Ohio State: Late-game calls lead to collapse again in loss to Texas - CBS Sports",
@@ -113,10 +149,10 @@
       "time": "2026-09-14T00:02:00+08:00"
     },
     {
-      "title": "Tech companies must be primarily responsible for AI safety, Mike Johnson says - Politico",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
+      "title": "Obama calls for Dems to focus on AI - Politico",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjUwNUtCOHF1WWNreWZpZEFVbFRwb3NJOUFnejdxVDBmMkhfbzhQaFMwa3k3YlNNaGRaVl85NEQ5bVFLS1BQSzV0WmlnQzJhOWgxeWRZV0Ixb2ZFQ2hlNllscmJ5RnNDcUNKRDF4MlRWN0xRUUxnZTJDbDBwMUprTTU2M0lBZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T00:00:00+08:00"
+      "time": "2026-09-13T23:55:00+08:00"
     },
     {
       "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake - AP News",
@@ -125,52 +161,16 @@
       "time": "2026-09-13T23:51:00+08:00"
     },
     {
+      "title": "Did Oregon football get caught up in the hype? ‘No room for error right now’ - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXJOLVBQMjVpSUhpdWdlajhlU1FfTVk1LTdVT1cybUFyaDJvRVBnUDFLMkl5XzRvZ1Mwd1RoME9PakxxZjVoeHRyOEZzNmVsZF9XUS1WTkVlTjNZbF9zOVh5WmR0RzBSM1FrdjZ4Nk10bDZrSlhzRVlnLWY0OWNKU0dfY2p5XzlmNGsxWWhseEJsLWU0Ujd0Zl9rc2djZGZXczlwVjJxY2pSVDVZcTl4RTl6a05CWTBORzlnMDNGeVBXNUw5ZHphbGZyM0k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-13T23:31:00+08:00"
+    },
+    {
       "title": "US congressman swims to safety after his plane is forced to land on a lake",
       "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-13T23:30:43+08:00"
-    },
-    {
-      "title": "Sources: Rams' Myles Garrett to have knee surgery, headed to IR - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2hXWG1rbnk5WjRTc190QTQ5OS1MNGtuendvOEdUb3VIZWlWUWtuT0VtVVpaMGd5UG9kcFRVb29OMVI2bFhXUzloS1FwbFBNRnEzYng4ZHh0clRfSGJkQWdWSE8wdUlONUh3bHdiWUhiWmhhZ1VsMFFlZ1dCVkpDOFd1ZGxBMnJZTjBySkE3UG5MOXRvLVk4MU53?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T23:26:00+08:00"
-    },
-    {
-      "title": "Celine Dion makes triumphant return in Paris after six years sidelined by rare diagnosis - nbcnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSHJFNzBZOVNjQkh5TC1tN1JMaEJPUHpwTWRUWThsR2xFdUZGMFpZUnRKaFlCMVhJRC00bl9sTzE4ckNwUHJTUUlqY3Q4azZnZnB5NkNITFRSYkVoRlA5UVFnVGhwNGZvNGRKaFNqTTlPa2tYdVgtOF9saTJ1TWw3VUVIRkNHeUlPeU1zZHNLZUs1QW9hWVN3MlVwUk1zOENzbEhiU01n?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T23:08:57+08:00"
-    },
-    {
-      "title": "Sweden general election: close race as far right eyes role in government – Europe live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOa0dKVTFYTnE4U1JZMXBYNmJpUlVsQk4xR2tRM3VHQm5oMjI0dWdwczJic1RKRVhHTVh1QWFuM2NzOHNhV1M0WjBwcUdxejduTUZ5b1lsNERIMTRtRl9vRnBWS1NEV0dmaGtRQzc4OEtDOXdraEM1S0x5LWdNWUlFdDdsMmxwR2Y2LUlFc3ZRMUpKSW4welBQcXgyQ05Pa2tQQVY1TDJMcXlway0tVFl2VjZtRFFtbXJoUHQtRm1UOWk0LVdOY1MweUppN2tyejBlakRaWmt1RW5nMmh5YWZBZ29sRllLOS1fRnh4LUpVMnBWeXVQWnY1bHpSRUNVdF8tNnNWajFZQ1hucEpVc3c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T23:04:00+08:00"
-    },
-    {
-      "title": "Self-learning AI releases NFL picks, score predictions every Week 1 game - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMU82RE8xUE1vQXdwRjNJRHBJOGpQVkNPcUhrSjg1NENFOHdsaW5XSXI4OWVPbHlLc0MtSGJraDN2bXM3cnBpVW53emREZUFxcGhCdnJoOW9RV2V1RDFZVE82dF84X2lhQ3NtT0Q4R1FEV3dVaWxDZlpBQ1I5TjRFWVRFbUNZRXNxM0hnNzl5dVBEa2VkZzRBb19oaWpSN3RSY2JsTFpB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T22:54:00+08:00"
-    },
-    {
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-13T22:53:40+08:00"
-    },
-    {
-      "title": "Train carrying Boris Johnson and ex-CIA chief may have been targeted in Russian strike, officials say - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMjR4OUw5R0lHei13UEhrbVRaVG5qbXVQR1pLWHNyaFdyTHpzLWhRTFFYZGNXZ2t5RlA5NW5pTVI5a09GdFFDaXFjUnRBVDIzV1RfRnBPc2RBZFVEeGVld0pUWjlpOVdHbGd3aWdyM3lFVnc5UHBmZWVDVFF0UldycXloWjB1X2puU2pQb1lDNTdCRmNPd0Q1bG5lTjBUd2Jtdzlqa21qbjA1QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T22:40:00+08:00"
-    },
-    {
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-13T22:25:56+08:00"
     }
   ]
 }
