@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:12:07.942000+08:00",
+  "generatedAt": "2026-09-13T17:43:08.515300+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -16,33 +16,32 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "79638f8",
-          "message": "fix(frontend): 100/100 react-doctor — Link navigation, a11y labels, hydration, n",
+          "sha": "a11c38a",
+          "message": "test: add Hardhat coverage for OrbitXNFT and OrbitXMarketplace (0 → 33 tests)",
           "author": "ybot",
-          "time": "2026-09-13T13:10:21+08:00"
+          "time": "2026-09-13T17:15:45+08:00"
         },
-        "commits30d": 8,
-        "totalCommits": 15,
+        "commits30d": 9,
+        "totalCommits": 16,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 4,
         "behind": 0
       },
       "tests": {
         "framework": "hardhat",
-        "testFileCount": 0,
-        "hasTests": false,
+        "testFileCount": 2,
+        "hasTests": true,
         "hasTestScript": true
       },
       "health": {
-        "score": 65,
-        "label": "attention",
+        "score": 90,
+        "label": "healthy",
         "issues": [
-          "Test script configured (hardhat) but 0 test files",
-          "3 commits not pushed"
+          "4 commits not pushed"
         ],
         "actions": [
-          "Write first hardhat test file",
+          "Run 2 test files via `hardhat`",
           "Push commits to remote"
         ]
       },
@@ -60,32 +59,33 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "6a7290c",
-          "message": "security: bump next 14.2.5 → 14.2.35 (fix CVE-2025-29927 middleware auth bypass)",
+          "sha": "783eaef",
+          "message": "test: add vitest coverage for gamification, triage, geo, safe-storage, launch (0",
           "author": "evilmoni",
-          "time": "2026-09-13T14:05:53+08:00"
+          "time": "2026-09-13T17:19:40+08:00"
         },
-        "commits30d": 45,
-        "totalCommits": 153,
+        "commits30d": 46,
+        "totalCommits": 154,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
-        "framework": null,
-        "testFileCount": 0,
-        "hasTests": false,
-        "hasTestScript": false
+        "framework": "vitest",
+        "testFileCount": 5,
+        "hasTests": true,
+        "hasTestScript": true
       },
       "health": {
-        "score": 75,
-        "label": "attention",
+        "score": 90,
+        "label": "healthy",
         "issues": [
-          "No test suite"
+          "1 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test"
+          "Run 5 test files via `vitest`",
+          "Push commits to remote"
         ]
       },
       "url": "kinkin.vercel.app"
@@ -102,34 +102,32 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "8a64d94",
-          "message": "chore: improve error messages",
+          "sha": "028d2a7",
+          "message": "test: add coverage for 26 lib modules (20% → 99% lines)",
           "author": "evilmoni",
-          "time": "2026-09-13T12:06:04+08:00"
+          "time": "2026-09-13T17:13:59+08:00"
         },
-        "commits30d": 92,
-        "totalCommits": 199,
+        "commits30d": 93,
+        "totalCommits": 200,
         "branch": "main",
-        "uncommittedChanges": 26,
-        "ahead": 2,
+        "uncommittedChanges": 0,
+        "ahead": 3,
         "behind": 0
       },
       "tests": {
         "framework": "jest",
-        "testFileCount": 30,
+        "testFileCount": 33,
         "hasTests": true,
         "hasTestScript": true
       },
       "health": {
-        "score": 80,
-        "label": "attention",
+        "score": 90,
+        "label": "healthy",
         "issues": [
-          "26 uncommitted changes",
-          "2 commits not pushed"
+          "3 commits not pushed"
         ],
         "actions": [
-          "Run 30 test files via `jest`",
-          "Commit & push uncommitted changes",
+          "Run 33 test files via `jest`",
           "Push commits to remote"
         ]
       },
@@ -147,33 +145,32 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "9ef3dd0",
-          "message": "fix: react-doctor — remaining aria-labels, lazy state init, targeted transition ",
+          "sha": "1613abf",
+          "message": "test: add vitest coverage for format.ts (0 → 22 tests)",
           "author": "ybot",
-          "time": "2026-09-13T13:27:05+08:00"
+          "time": "2026-09-13T17:21:39+08:00"
         },
-        "commits30d": 16,
-        "totalCommits": 23,
+        "commits30d": 17,
+        "totalCommits": 24,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 6,
+        "ahead": 7,
         "behind": 0
       },
       "tests": {
-        "framework": null,
-        "testFileCount": 0,
-        "hasTests": false,
-        "hasTestScript": false
+        "framework": "vitest",
+        "testFileCount": 1,
+        "hasTests": true,
+        "hasTestScript": true
       },
       "health": {
-        "score": 65,
-        "label": "attention",
+        "score": 90,
+        "label": "healthy",
         "issues": [
-          "No test suite",
-          "6 commits not pushed"
+          "7 commits not pushed"
         ],
         "actions": [
-          "Set up test framework & write first smoke test",
+          "Run 1 test files via `vitest`",
           "Push commits to remote"
         ]
       }
@@ -184,22 +181,22 @@
       "pokemon": "Chansey",
       "pokemonId": 113,
       "status": "standby",
-      "progress": 50,
+      "progress": 55,
       "repo": "WorldPaws/WorldPawsOrg_Website",
       "priority": "medium",
       "classification": "INTERNAL",
       "git": {
         "lastCommit": {
-          "sha": "dc40ecd",
-          "message": "chore: improve error messages",
+          "sha": "73e2b71",
+          "message": "test: add vitest coverage for petGame and wallet-errors (0 → 34 tests)",
           "author": "ybot",
-          "time": "2026-09-13T12:06:05+08:00"
+          "time": "2026-09-13T17:20:46+08:00"
         },
-        "commits30d": 9,
-        "totalCommits": 45,
+        "commits30d": 10,
+        "totalCommits": 46,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 4,
+        "ahead": 5,
         "behind": 0
       },
       "tests": {
@@ -213,7 +210,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "4 commits not pushed"
+          "5 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -270,8 +267,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T17:08:28.967819+08:00",
-        "next_run": "2026-09-13T17:38:28.967819+08:00"
+        "last_run": "2026-09-13T17:38:32.644643+08:00",
+        "next_run": "2026-09-13T18:08:32.644643+08:00"
       },
       {
         "id": "539a150ac028",
@@ -288,8 +285,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T16:41:11.512327+08:00",
-        "next_run": "2026-09-13T17:41:28.417151+08:00"
+        "last_run": "2026-09-13T17:12:16.076648+08:00",
+        "next_run": "2026-09-13T18:12:30.483639+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -297,8 +294,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T17:06:28.458307+08:00",
-        "next_run": "2026-09-13T17:36:28.458307+08:00"
+        "last_run": "2026-09-13T17:36:31.126977+08:00",
+        "next_run": "2026-09-13T18:06:31.126977+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -306,8 +303,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-13T17:05:27.905372+08:00",
-        "next_run": "2026-09-13T17:15:27.905372+08:00"
+        "last_run": "2026-09-13T17:35:30.372215+08:00",
+        "next_run": "2026-09-13T17:45:30.372215+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -342,8 +339,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-13T16:59:27.831525+08:00",
-        "next_run": "2026-09-13T17:14:27.831525+08:00"
+        "last_run": "2026-09-13T17:29:30.439248+08:00",
+        "next_run": "2026-09-13T17:44:30.439248+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -432,8 +429,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-09-13T11:36:02.369755+08:00",
-        "next_run": "2026-09-13T17:36:02.369755+08:00"
+        "last_run": "2026-09-13T17:36:37.324284+08:00",
+        "next_run": "2026-09-13T23:36:37.324284+08:00"
       },
       {
         "id": "871bc45fb59e",
@@ -728,8 +725,8 @@
         "enabled": true,
         "name": "100% Test Coverage — Weekly",
         "schedule": "0 17 * * 0",
-        "last_status": "error",
-        "last_run": "2026-09-06T17:08:50.184954+08:00",
+        "last_status": "ok",
+        "last_run": "2026-09-13T17:23:40.814151+08:00",
         "next_run": "2026-09-20T17:00:00+08:00"
       },
       {
@@ -770,7 +767,7 @@
       }
     ],
     "total": 56,
-    "healthy": 51
+    "healthy": 52
   },
   "agents": {
     "hermes": {
@@ -790,48 +787,48 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "397Gi",
-    "uptime": "3 days",
+    "diskAvail": "396Gi",
+    "uptime": "4 days",
     "cpu": {
       "loadAvg": [
-        1.86,
-        1.87,
-        1.64
+        1.48,
+        1.76,
+        3.29
       ],
-      "usage": "14.1%"
+      "usage": "12.6%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 42.6
+      "usedPct": 38.6
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.1",
+        "cpu": "2.7",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.9",
+        "cpu": "2.1",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "1.2",
-        "mem": "2.1",
-        "name": "python"
-      },
-      {
-        "cpu": "0.4",
+        "cpu": "0.5",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
         "cpu": "0.3",
-        "mem": "1.1",
-        "name": "python3"
+        "mem": "0.1",
+        "name": "launchd"
+      },
+      {
+        "cpu": "0.3",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       }
     ]
   },
@@ -1477,16 +1474,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-13T17:12:07.595404+08:00",
+    "generatedAt": "2026-09-13T17:43:08.009753+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 27.2,
-          "code": 3,
-          "precip": 0.0,
-          "wind": 13.2,
-          "time": "2026-09-13T17:00"
+          "temp": 26.9,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 12.0,
+          "time": "2026-09-13T17:30"
         },
         "daily": [
           {
@@ -1515,11 +1512,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.0,
+          "temp": 27.9,
           "code": 3,
           "precip": 0.0,
-          "wind": 10.3,
-          "time": "2026-09-13T17:00"
+          "wind": 9.5,
+          "time": "2026-09-13T17:30"
         },
         "daily": [
           {
@@ -1555,50 +1552,50 @@
   },
   "activity": [
     {
-      "time": "2026-09-13T17:12:07.941852+08:00",
+      "time": "2026-09-13T17:43:08.515203+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-13T17:12:07.941852+08:00",
+      "time": "2026-09-13T17:43:08.515203+08:00",
       "type": "info",
-      "text": "⏰ Cron: 51/56 jobs healthy"
+      "text": "⏰ Cron: 52/56 jobs healthy"
     },
     {
-      "time": "2026-09-13T14:05:53+08:00",
+      "time": "2026-09-13T17:21:39+08:00",
       "type": "success",
-      "text": "🚀 KINKIN: security: bump next 14.2.5 → 14.2.35 (fix CVE-2025-29927 middleware auth bypass)",
-      "project": "kinkin"
-    },
-    {
-      "time": "2026-09-13T13:27:05+08:00",
-      "type": "success",
-      "text": "📊 TechWealth Tracker Pro: fix: react-doctor — remaining aria-labels, lazy state init, targeted transition ",
+      "text": "📊 TechWealth Tracker Pro: test: add vitest coverage for format.ts (0 → 22 tests)",
       "project": "techwealthTracker"
     },
     {
-      "time": "2026-09-13T13:10:21+08:00",
+      "time": "2026-09-13T17:20:46+08:00",
       "type": "success",
-      "text": "🌌 OrbitX NFT: fix(frontend): 100/100 react-doctor — Link navigation, a11y labels, hydration, n",
-      "project": "orbitx"
-    },
-    {
-      "time": "2026-09-13T12:06:05+08:00",
-      "type": "success",
-      "text": "🐾 WPO (World Paws Org): chore: improve error messages",
+      "text": "🐾 WPO (World Paws Org): test: add vitest coverage for petGame and wallet-errors (0 → 34 tests)",
       "project": "wpo"
     },
     {
-      "time": "2026-09-13T12:06:04+08:00",
+      "time": "2026-09-13T17:19:40+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: improve error messages",
+      "text": "🚀 KINKIN: test: add vitest coverage for gamification, triage, geo, safe-storage, launch (0",
+      "project": "kinkin"
+    },
+    {
+      "time": "2026-09-13T17:15:45+08:00",
+      "type": "success",
+      "text": "🌌 OrbitX NFT: test: add Hardhat coverage for OrbitXNFT and OrbitXMarketplace (0 → 33 tests)",
+      "project": "orbitx"
+    },
+    {
+      "time": "2026-09-13T17:13:59+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: test: add coverage for 26 lib modules (20% → 99% lines)",
       "project": "techwealth"
     }
   ],
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 56,
-    "healthyCronJobs": 51,
-    "avgProgress": 69
+    "healthyCronJobs": 52,
+    "avgProgress": 70
   }
 }
