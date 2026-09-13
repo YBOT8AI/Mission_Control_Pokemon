@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T09:57:30.731931+08:00",
+  "generatedAt": "2026-09-13T10:28:34.492993+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -104,16 +104,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "ea75c21",
-          "message": "docs: add BCG 2026 — HK overtakes Switzerland as #1 cross-border wealth hub (202",
+          "sha": "0357f16",
+          "message": "chore: remove dead code — GitHub Pages workflow, auto-deploy.sh, boilerplate SVG",
           "author": "evilmoni",
-          "time": "2026-09-12T14:01:34+08:00"
+          "time": "2026-09-13T10:02:36+08:00"
         },
-        "commits30d": 90,
-        "totalCommits": 197,
+        "commits30d": 91,
+        "totalCommits": 198,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 0,
+        "ahead": 1,
         "behind": 0
       },
       "tests": {
@@ -123,11 +123,14 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 100,
+        "score": 90,
         "label": "healthy",
-        "issues": [],
+        "issues": [
+          "1 commits not pushed"
+        ],
         "actions": [
-          "Run 6 test files via `jest`"
+          "Run 6 test files via `jest`",
+          "Push commits to remote"
         ]
       },
       "focus": "Financial Tech"
@@ -269,8 +272,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:36:46.768990+08:00",
-        "next_run": "2026-09-13T10:06:46.768990+08:00"
+        "last_run": "2026-09-13T10:06:51.190688+08:00",
+        "next_run": "2026-09-13T10:36:51.190688+08:00"
       },
       {
         "id": "539a150ac028",
@@ -287,8 +290,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:26:32.026272+08:00",
-        "next_run": "2026-09-13T10:26:49.152483+08:00"
+        "last_run": "2026-09-13T09:57:38.763536+08:00",
+        "next_run": "2026-09-13T10:57:51.487252+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -296,8 +299,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:35:46.424759+08:00",
-        "next_run": "2026-09-13T10:05:46.424759+08:00"
+        "last_run": "2026-09-13T10:05:50.941487+08:00",
+        "next_run": "2026-09-13T10:35:50.941487+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -305,8 +308,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:50:48.349439+08:00",
-        "next_run": "2026-09-13T10:00:48.349439+08:00"
+        "last_run": "2026-09-13T10:21:51.375758+08:00",
+        "next_run": "2026-09-13T10:31:51.375758+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -341,8 +344,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:54:49.331132+08:00",
-        "next_run": "2026-09-13T10:09:49.331132+08:00"
+        "last_run": "2026-09-13T10:24:51.814995+08:00",
+        "next_run": "2026-09-13T10:39:51.814995+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -413,8 +416,8 @@
         "name": "Weekly Strategy Review",
         "schedule": "0 10 * * 0",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:00:46.811099+08:00",
-        "next_run": "2026-09-13T10:00:00+08:00"
+        "last_run": "2026-09-13T10:01:00.887374+08:00",
+        "next_run": "2026-09-20T10:00:00+08:00"
       },
       {
         "id": "1a08fb3bbb9e",
@@ -539,8 +542,8 @@
         "name": "BJJ Gym Research Loop",
         "schedule": "0 10,14,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-12T18:00:34.361469+08:00",
-        "next_run": "2026-09-13T10:00:00+08:00"
+        "last_run": "2026-09-13T10:01:01.877461+08:00",
+        "next_run": "2026-09-13T14:00:00+08:00"
       },
       {
         "id": "86f0a1085a5f",
@@ -548,8 +551,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:00:56.007834+08:00",
-        "next_run": "2026-09-13T10:00:00+08:00"
+        "last_run": "2026-09-13T10:01:01.265794+08:00",
+        "next_run": "2026-09-13T11:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -611,8 +614,8 @@
         "name": "Code Quality — TechWealth (Weekly)",
         "schedule": "0 10 * * 0",
         "last_status": "ok",
-        "last_run": "2026-09-06T10:02:13.582041+08:00",
-        "next_run": "2026-09-13T10:00:00+08:00"
+        "last_run": "2026-09-13T10:02:42.577667+08:00",
+        "next_run": "2026-09-20T10:00:00+08:00"
       },
       {
         "id": "8049ff61f3c7",
@@ -647,8 +650,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:01:01.347000+08:00",
-        "next_run": "2026-09-13T10:00:00+08:00"
+        "last_run": "2026-09-13T10:00:59.524958+08:00",
+        "next_run": "2026-09-13T11:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -793,22 +796,22 @@
     "uptime": "3 days",
     "cpu": {
       "loadAvg": [
-        1.28,
-        1.2,
-        1.21
+        1.48,
+        1.35,
+        1.31
       ],
-      "usage": "12.7%"
+      "usage": "12.0%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 45.9
+      "usedPct": 45.8
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "2.2",
+        "cpu": "2.3",
         "mem": "0.1",
         "name": "python3"
       },
@@ -818,19 +821,19 @@
         "name": "sysmond"
       },
       {
-        "cpu": "0.4",
+        "cpu": "0.5",
         "mem": "0.0",
         "name": "notifyd"
+      },
+      {
+        "cpu": "0.4",
+        "mem": "0.1",
+        "name": "opendirectoryd"
       },
       {
         "cpu": "0.3",
         "mem": "0.1",
         "name": "launchd"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "opendirectoryd"
       }
     ]
   },
@@ -1476,16 +1479,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-13T09:57:30.582535+08:00",
+    "generatedAt": "2026-09-13T10:28:34.296896+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 25.2,
-          "code": 80,
-          "precip": 0.5,
-          "wind": 17.5,
-          "time": "2026-09-13T09:45"
+          "temp": 25.6,
+          "code": 53,
+          "precip": 0.2,
+          "wind": 17.3,
+          "time": "2026-09-13T10:15"
         },
         "daily": [
           {
@@ -1514,11 +1517,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 25.9,
-          "code": 55,
-          "precip": 0.3,
-          "wind": 12.5,
-          "time": "2026-09-13T09:45"
+          "temp": 26.5,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 12.3,
+          "time": "2026-09-13T10:15"
         },
         "daily": [
           {
@@ -1554,14 +1557,20 @@
   },
   "activity": [
     {
-      "time": "2026-09-13T09:57:30.731746+08:00",
+      "time": "2026-09-13T10:28:34.492818+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-13T09:57:30.731746+08:00",
+      "time": "2026-09-13T10:28:34.492818+08:00",
       "type": "info",
       "text": "⏰ Cron: 47/56 jobs healthy"
+    },
+    {
+      "time": "2026-09-13T10:02:36+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: chore: remove dead code — GitHub Pages workflow, auto-deploy.sh, boilerplate SVG",
+      "project": "techwealth"
     },
     {
       "time": "2026-09-13T08:02:21+08:00",
@@ -1574,12 +1583,6 @@
       "type": "success",
       "text": "🐾 WPO (World Paws Org): chore: remove unused boilerplate SVGs and @web3icons/core dep",
       "project": "wpo"
-    },
-    {
-      "time": "2026-09-12T14:01:34+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: docs: add BCG 2026 — HK overtakes Switzerland as #1 cross-border wealth hub (202",
-      "project": "techwealth"
     },
     {
       "time": "2026-09-12T03:12:31+08:00",
