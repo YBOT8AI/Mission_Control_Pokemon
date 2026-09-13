@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T03:02:00.560010+08:00",
+  "generatedAt": "2026-09-14T03:33:02.150743+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606212.32,
-      "changePct": 0.25
+      "priceHkd": 605577.28,
+      "changePct": 0.16
     },
     "ETH": {
-      "priceHkd": 19668.52,
-      "changePct": -0.51
+      "priceHkd": 19653.78,
+      "changePct": -0.5
     },
     "SOL": {
-      "priceHkd": 793.17,
-      "changePct": -0.42
+      "priceHkd": 791.76,
+      "changePct": -0.61
     }
   },
   "stocks": {
@@ -53,10 +53,22 @@
   },
   "news": [
     {
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T03:14:21+08:00"
+    },
+    {
       "title": "Live updates: SpaceX to launch SES satellites from Cape Canaveral, Florida - Florida Today",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOckhPVmFmV0lMLWktWFZLdWtieHlkQ192TllCQWpBSl95MElsT0QxSU5lUFU1LUZvaG4zN01jNEd6bC1WaEtNUERvb0tQNWplVWRaa3Bibkw0UFN6Tm1YbGwxZXdMUUN4QnJnaDhldzY4OXJoVkFZb3gyWHFSTG9uRDRqUjRpS2xkNmZlMVBNeUU5Rkp3RWR4NEhIVGxyVENYQmtQWUQtT3ZxQmh1UkdyU1duRFFsVmNOd2hPQVY4ekd2WWpCaS1iVk9rdml6enFtUnhnSTFTcGJXZW5Ub1lGTm5tUlJ0a1VaOGhxRnE1bEtrN3pzQlZrd20wcjdkTHBKcUpxOTloaWQzUQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T02:55:00+08:00"
+    },
+    {
+      "title": "Trump says he plans to remove a 10% tariff on Irish whiskey - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGxnLXB4NGxDZEpHdHRsSGVZaTlqTTJZYkRJc3NSLVFkQmJRNUxDTmxfSC1lR2FIWW5RRUlkckN1OExobThVWkdxLVZGU3FwblBxci1qWFVyR3NxOHFBZVJxbFRZVjcwSGx4MjJla0VySTlPWmVWdkNLbkdGUkYwTmNIMk0wX2VvWDl5dGwtdUk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T02:53:00+08:00"
     },
     {
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -71,7 +83,7 @@
       "time": "2026-09-14T02:49:28+08:00"
     },
     {
-      "title": "Pennsylvania woman dies of measles-related complications, local coroner says - washingtonpost.com",
+      "title": "Pennsylvania woman dies of measles-related complications, local coroner says - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T02:39:15+08:00"
@@ -89,22 +101,10 @@
       "time": "2026-09-14T02:20:22+08:00"
     },
     {
-      "title": "Irish golf fans chant 'USA' after Trump announces end of tariffs on Irish whiskey - Fox Business",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0lkcTJzWEZ1TVB6Nm5kUGFXRWVBMU8xQ3QxQW0zSzZsQkVfa3I1bUhqX1E5VW9QTkZpSGNuN2NvZ0tTMjJROXVEMHg5VjNFb2l1bWE5MDZjOVlpRVJwLUtheVZJbFBEX3IzY0NKcGZSbndUd3RCR0VHZk1MUWdldE1VV2ctV0JRTDRHWFg4blRxTml0VFRBQ1dFYndqYzJTaUtEV1V4SDN5V3NTcy0w0gG0AUFVX3lxTFB3UzFDWDBKTWx1b3VrRVo2Qm5NbEQxZzVhcEttYTRjX3ZQYnBCMzh6b2kzZWVJQ1BnX1pEYU5RcVBTM3g3cGVWVnN2c3VjbVNqM2lSMWFiWlZlNGtJOHJSWkRZeHM1aFp2NzE3S3Z2eUJ5VkNYdVRBYjdiWkEzemtUS1VXWWYwZENpQkFQaHdHbkhmY1JMSkk5TVhXeDZRSEswTzBDaWZvVGd2VlM5cDVGNWtjRg?oc=5",
+      "title": "Will record donations to Reform go down as a moment of political change? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82bkhJVUkzZ1hoSVBOLTRQODNDMXNuMzJmUWxjQzI4MUtOa2QwdTlqVXBQdGNoUU0wX1d6STNrSXZKM2FvSzRabVhTTkRyRlBReGxmbVpsRkhOdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T01:53:17+08:00"
-    },
-    {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T01:38:29+08:00"
-    },
-    {
-      "title": "Ahead of Fed meeting, Trump says US should have world's lowest interest rate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbGlUbF9PYnU0Q05JZW03V3BDSW1EcUp2djVmYXZjdWxXcmsyUWREY2M5MHpSNkU4ZERvQWlmV0d3bThhdmx2RUQtU3VockNIRTVmWGltUmllOUJuTHdrYUJqRU02cHdBUlNlb1dwSGZhWWtKejlDakkxUWhqR3RJRFc5TWRFdDFabTNUbEJfNU9aZlMzUkI0S0dqNkZYSXFYMndoNlR4c2R2SzdxZVEycDlIMHBaXzg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T01:24:54+08:00"
+      "time": "2026-09-14T01:51:19+08:00"
     },
     {
       "title": "Meghan shares first glimpse of family life after Sussexes return to UK - BBC",
@@ -113,10 +113,10 @@
       "time": "2026-09-14T01:22:22+08:00"
     },
     {
-      "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQlhQUVhMMWE4RFpEUXBNVWIyNHk0MXJzNkR6NUJtZlBmY3B5ZFhjNGJjaWtXZEtodlgzX0ZMV1M5WXh5UUw5S0cyaXlYc2RoYjlIemhzN0JCZ3pjTjBIOGxMZ24wWHNlNUZkeXRTQlN0Q1hTenNzaXlabWVISmFQRkxsSFNfVkJWOFJkdE9FSHhEOWFmQnBseDlnUXJGc2pWU09ZWXRfMW1wS21PQXA3M080em1reXYyaXdONWdR?oc=5",
+      "title": "Trump reiterates $5,000 ‘dividend’ pledge if Republicans win midterms - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wel9jLTNENkVLcFZOLUlRZ1JzRnlJT1k1aGlEOWJRWE02VlR2NGlBWW5hTEdHNHA5eVRqYkYwa29LVTNJdGZPbHRxVGVySC1rWEQza2x4b1RpdUk5LTRnM2NpYURPc1ZZWUwwdXBtV2NSZmNUelFFMVVIR3N6OGs?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T01:19:00+08:00"
+      "time": "2026-09-14T01:21:00+08:00"
     },
     {
       "title": "Strike on Iranian cargo ship in the Strait of Hormuz kills 1, Iranian media say - AP News",
@@ -137,6 +137,18 @@
       "time": "2026-09-14T00:58:17+08:00"
     },
     {
+      "title": "Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wV0pYQmdFdDdtdzZyUExENUJfM18tUEJud2Y2aUpNeG9SV2loa3FwMFFQWEhoTktGQnBkQWwxY1gtU0UyYWFYX24wNVMwZnlJbHIzRkFGbDBONlFvdlNJUHhrY01VdU5MSndvUUdkdmdMODF2UEdENG1n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T00:37:49+08:00"
+    },
+    {
+      "title": "F1 Spanish GP: Kimi Antonelli wins again as VSC costs Lando Norris - Motorsport.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15WTJSRTIzQTBLSm9oUTY3ZTJNcDRicVpFSXlCMWVJY3ZoV2J0RTJ0azFxTzR2cE40LThRdTJfd3BueFB1QnpWZFdaQ2NvRTlvRlhST1ljU3B6cTFsekNXTFlGdzFnbnhnNGZPdlhiMllEbDE0WjNkMk5n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T00:32:41+08:00"
+    },
+    {
       "title": "Ryan Day's decisions continue to cost Ohio State: Late-game calls lead to collapse again in loss to Texas - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmlIcHJmX3J6ZTlwbkh5V2tkSlpuSjBuNU5ldU5ENUREYUNiVGxuOS0zb0I5Z2lOcWYyUnl5OFFQYTA2MXNpVUlMN2p3R2lpUHlkV0tLRGdoMTNDbS1KeS1FeG05STBUcElZYnVfQ3FwcXJPa3pOa0dscEFYUkdMd2lCenlpQ0JXMDZYRTBCS3plYmhDTjBiWUhlQ1FaZU1BWXJDUXppcHVzOEZyVmc?oc=5",
       "source": "Google News Top",
@@ -149,28 +161,16 @@
       "time": "2026-09-14T00:02:00+08:00"
     },
     {
-      "title": "Obama calls for Dems to focus on AI - Politico",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSjUwNUtCOHF1WWNreWZpZEFVbFRwb3NJOUFnejdxVDBmMkhfbzhQaFMwa3k3YlNNaGRaVl85NEQ5bVFLS1BQSzV0WmlnQzJhOWgxeWRZV0Ixb2ZFQ2hlNllscmJ5RnNDcUNKRDF4MlRWN0xRUUxnZTJDbDBwMUprTTU2M0lBZw?oc=5",
+      "title": "Tech companies must be primarily responsible for AI safety, Mike Johnson says - Politico",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE90cEw1YlVDYVFfZHQ4eFpvdk1tYUhVcE0yYkRmWkZ5ci1EWGUwY1pfY2FlN0ZaZmVZa1djVF9Td25oZDJTUUtkSUVmNU9McEt5bGs4T0k2VXhnM3Ztc1poTklWLWY3ZVoxRC03aTYwaGhuaEV5VWVlTFNrdU0?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-13T23:55:00+08:00"
+      "time": "2026-09-14T00:00:00+08:00"
     },
     {
-      "title": "GOP congressman from Wisconsin swims to safety after plane makes emergency landing in a lake - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
+      "title": "What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-13T23:51:00+08:00"
-    },
-    {
-      "title": "Did Oregon football get caught up in the hype? ‘No room for error right now’ - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYXJOLVBQMjVpSUhpdWdlajhlU1FfTVk1LTdVT1cybUFyaDJvRVBnUDFLMkl5XzRvZ1Mwd1RoME9PakxxZjVoeHRyOEZzNmVsZF9XUS1WTkVlTjNZbF9zOVh5WmR0RzBSM1FrdjZ4Nk10bDZrSlhzRVlnLWY0OWNKU0dfY2p5XzlmNGsxWWhseEJsLWU0Ujd0Zl9rc2djZGZXczlwVjJxY2pSVDVZcTl4RTl6a05CWTBORzlnMDNGeVBXNUw5ZHphbGZyM0k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-13T23:31:00+08:00"
-    },
-    {
-      "title": "US congressman swims to safety after his plane is forced to land on a lake",
-      "link": "https://www.bbc.co.uk/news/articles/c5y5d87x72zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-13T23:30:43+08:00"
+      "time": "2026-09-13T23:58:51+08:00"
     }
   ]
 }
