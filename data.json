@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T05:37:10.105763+08:00",
+  "generatedAt": "2026-09-14T06:08:13.403369+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -96,16 +96,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "028d2a7",
-          "message": "test: add coverage for 26 lib modules (20% → 99% lines)",
+          "sha": "cba783f",
+          "message": "lucky8: revenue deliberation — 2026-09-14",
           "author": "evilmoni",
-          "time": "2026-09-13T17:13:59+08:00"
+          "time": "2026-09-14T06:06:58+08:00"
         },
-        "commits30d": 93,
-        "totalCommits": 200,
+        "commits30d": 94,
+        "totalCommits": 201,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 0,
         "behind": 0
       },
       "tests": {
@@ -115,14 +115,11 @@
         "hasTestScript": true
       },
       "health": {
-        "score": 90,
+        "score": 100,
         "label": "healthy",
-        "issues": [
-          "3 commits not pushed"
-        ],
+        "issues": [],
         "actions": [
-          "Run 33 test files via `jest`",
-          "Push commits to remote"
+          "Run 33 test files via `jest`"
         ]
       },
       "focus": "Financial Tech"
@@ -258,8 +255,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:11:29.993166+08:00",
-        "next_run": "2026-09-14T05:41:29.993166+08:00"
+        "last_run": "2026-09-14T05:41:32.935686+08:00",
+        "next_run": "2026-09-14T06:11:32.935686+08:00"
       },
       {
         "id": "539a150ac028",
@@ -276,8 +273,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:06:15.304467+08:00",
-        "next_run": "2026-09-14T06:06:30.453728+08:00"
+        "last_run": "2026-09-14T05:37:18.335134+08:00",
+        "next_run": "2026-09-14T06:37:35.155086+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -285,8 +282,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:07:29.402878+08:00",
-        "next_run": "2026-09-14T05:37:29.402878+08:00"
+        "last_run": "2026-09-14T06:07:36.152672+08:00",
+        "next_run": "2026-09-14T06:37:36.152672+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -294,8 +291,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:27:30.108609+08:00",
-        "next_run": "2026-09-14T05:37:30.108609+08:00"
+        "last_run": "2026-09-14T06:07:35.578826+08:00",
+        "next_run": "2026-09-14T06:17:35.578826+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -330,8 +327,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:36:31.136623+08:00",
-        "next_run": "2026-09-14T05:51:31.136623+08:00"
+        "last_run": "2026-09-14T06:06:35.468987+08:00",
+        "next_run": "2026-09-14T06:21:35.468987+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -384,8 +381,8 @@
         "name": "Lucky 8 — TechWealth Revenue Team",
         "schedule": "0 6 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-12T06:03:21.543810+08:00",
-        "next_run": "2026-09-14T06:00:00+08:00"
+        "last_run": "2026-09-14T06:07:11.128871+08:00",
+        "next_run": "2026-09-15T06:00:00+08:00"
       },
       {
         "id": "5d3a49623653",
@@ -393,8 +390,8 @@
         "name": "Robotics Business Daily Brief (6am)",
         "schedule": "0 6 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-13T06:01:19.346397+08:00",
-        "next_run": "2026-09-14T06:00:00+08:00"
+        "last_run": "2026-09-14T06:01:16.623608+08:00",
+        "next_run": "2026-09-15T06:00:00+08:00"
       },
       {
         "id": "1dabab689e0e",
@@ -420,8 +417,8 @@
         "name": "KinKin Autonomous Developer",
         "schedule": "every 360m",
         "last_status": "ok",
-        "last_run": "2026-09-13T23:37:07.209471+08:00",
-        "next_run": "2026-09-14T05:37:07.209471+08:00"
+        "last_run": "2026-09-14T05:37:52.924716+08:00",
+        "next_run": "2026-09-14T11:37:52.924716+08:00"
       },
       {
         "id": "871bc45fb59e",
@@ -537,8 +534,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:00:47.126105+08:00",
-        "next_run": "2026-09-14T06:00:00+08:00"
+        "last_run": "2026-09-14T06:00:52.430946+08:00",
+        "next_run": "2026-09-14T07:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -636,8 +633,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:00:49.151774+08:00",
-        "next_run": "2026-09-14T06:00:00+08:00"
+        "last_run": "2026-09-14T06:00:52.489166+08:00",
+        "next_run": "2026-09-14T07:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -753,8 +750,8 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-14T05:00:42.446750+08:00",
-        "next_run": "2026-09-14T06:00:00+08:00"
+        "last_run": "2026-09-14T06:00:47.363026+08:00",
+        "next_run": "2026-09-14T07:00:00+08:00"
       }
     ],
     "total": 56,
@@ -782,22 +779,22 @@
     "uptime": "4 days",
     "cpu": {
       "loadAvg": [
-        1.31,
-        1.26,
-        1.21
+        2.13,
+        1.96,
+        1.56
       ],
-      "usage": "12.1%"
+      "usage": "12.4%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 41.6
+      "usedPct": 45.7
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "3.0",
+        "cpu": "2.4",
         "mem": "0.1",
         "name": "python3"
       },
@@ -807,17 +804,17 @@
         "name": "sysmond"
       },
       {
-        "cpu": "0.3",
+        "cpu": "0.4",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.2",
-        "mem": "0.1",
-        "name": "launchd"
+        "cpu": "0.3",
+        "mem": "1.1",
+        "name": "python3"
       },
       {
-        "cpu": "0.2",
+        "cpu": "0.3",
         "mem": "0.1",
         "name": "opendirectoryd"
       }
@@ -923,7 +920,7 @@
       "status": "active",
       "schedule": "0 6 * * 1-6",
       "lastStatus": "ok",
-      "lastRun": "2026-09-12T06:03:21.543810+08:00"
+      "lastRun": "2026-09-14T06:07:11.128871+08:00"
     },
     {
       "name": "Future Me 44",
@@ -933,6 +930,14 @@
     }
   ],
   "githubActivity": [
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-13T22:07:01Z",
+      "title": "lucky8: revenue deliberation — 2026-09-14",
+      "detail": "1 commit(s)"
+    },
     {
       "repo": "evilmoni/Orbitx-NFT",
       "type": "PushEvent",
@@ -1139,14 +1144,6 @@
       "actor": "YBOT8AI",
       "time": "2026-09-08T22:13:28Z",
       "title": "lucky8: revenue deliberation — 2026-09-09",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-09-08T06:02:30Z",
-      "title": "docs: add Fintech 2030 tokenisation/RWA tailwind to market r",
       "detail": "1 commit(s)"
     },
     {
@@ -1465,7 +1462,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-14T05:37:09.658666+08:00",
+    "generatedAt": "2026-09-14T06:08:12.944922+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1473,8 +1470,8 @@
           "temp": 23.4,
           "code": 3,
           "precip": 0.0,
-          "wind": 5.0,
-          "time": "2026-09-14T05:30"
+          "wind": 5.4,
+          "time": "2026-09-14T06:00"
         },
         "daily": [
           {
@@ -1506,8 +1503,8 @@
           "temp": 23.2,
           "code": 3,
           "precip": 0.0,
-          "wind": 7.0,
-          "time": "2026-09-14T05:30"
+          "wind": 7.4,
+          "time": "2026-09-14T06:00"
         },
         "daily": [
           {
@@ -1543,14 +1540,20 @@
   },
   "activity": [
     {
-      "time": "2026-09-14T05:37:10.105619+08:00",
+      "time": "2026-09-14T06:08:13.403222+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-14T05:37:10.105619+08:00",
+      "time": "2026-09-14T06:08:13.403222+08:00",
       "type": "info",
       "text": "⏰ Cron: 55/56 jobs healthy"
+    },
+    {
+      "time": "2026-09-14T06:06:58+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: lucky8: revenue deliberation — 2026-09-14",
+      "project": "techwealth"
     },
     {
       "time": "2026-09-13T23:02:55+08:00",
@@ -1575,12 +1578,6 @@
       "type": "success",
       "text": "🐾 WPO (World Paws Org): test: add vitest coverage for petGame and wallet-errors (0 → 34 tests)",
       "project": "wpo"
-    },
-    {
-      "time": "2026-09-13T17:13:59+08:00",
-      "type": "success",
-      "text": "💼 TechWealth: test: add coverage for 26 lib modules (20% → 99% lines)",
-      "project": "techwealth"
     }
   ],
   "stats": {
