@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T12:01:37.310365+08:00",
+  "generatedAt": "2026-09-13T12:32:41.382858+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -16,16 +16,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "8dce7bf",
-          "message": "chore: remove unused useAccount import from homepage",
+          "sha": "fbb9942",
+          "message": "chore: improve error messages",
           "author": "ybot",
-          "time": "2026-09-12T03:05:03+08:00"
+          "time": "2026-09-13T12:06:04+08:00"
         },
-        "commits30d": 6,
-        "totalCommits": 13,
+        "commits30d": 7,
+        "totalCommits": 14,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 2,
         "behind": 0
       },
       "tests": {
@@ -39,7 +39,7 @@
         "label": "attention",
         "issues": [
           "Test script configured (hardhat) but 0 test files",
-          "1 commits not pushed"
+          "2 commits not pushed"
         ],
         "actions": [
           "Write first hardhat test file",
@@ -60,16 +60,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "a765dd0",
-          "message": "chore: remove dead components, unused logo jpegs, and Next boilerplate SVGs",
+          "sha": "f290221",
+          "message": "chore: improve error messages",
           "author": "evilmoni",
-          "time": "2026-09-13T08:02:21+08:00"
+          "time": "2026-09-13T12:06:04+08:00"
         },
-        "commits30d": 43,
-        "totalCommits": 151,
+        "commits30d": 44,
+        "totalCommits": 152,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 7,
+        "ahead": 8,
         "behind": 0
       },
       "tests": {
@@ -83,7 +83,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "7 commits not pushed"
+          "8 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -104,16 +104,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "0357f16",
-          "message": "chore: remove dead code — GitHub Pages workflow, auto-deploy.sh, boilerplate SVG",
+          "sha": "8a64d94",
+          "message": "chore: improve error messages",
           "author": "evilmoni",
-          "time": "2026-09-13T10:02:36+08:00"
+          "time": "2026-09-13T12:06:04+08:00"
         },
-        "commits30d": 91,
-        "totalCommits": 198,
+        "commits30d": 92,
+        "totalCommits": 199,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 1,
+        "ahead": 2,
         "behind": 0
       },
       "tests": {
@@ -126,7 +126,7 @@
         "score": 90,
         "label": "healthy",
         "issues": [
-          "1 commits not pushed"
+          "2 commits not pushed"
         ],
         "actions": [
           "Run 6 test files via `jest`",
@@ -147,16 +147,16 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "2317cf3",
-          "message": "chore: unexport unused newId helper in repository",
+          "sha": "a1bfaa0",
+          "message": "chore: improve error messages",
           "author": "ybot",
-          "time": "2026-09-12T03:12:31+08:00"
+          "time": "2026-09-13T12:06:04+08:00"
         },
-        "commits30d": 13,
-        "totalCommits": 20,
+        "commits30d": 14,
+        "totalCommits": 21,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 4,
         "behind": 0
       },
       "tests": {
@@ -170,7 +170,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "3 commits not pushed"
+          "4 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -190,16 +190,16 @@
       "classification": "INTERNAL",
       "git": {
         "lastCommit": {
-          "sha": "b8263d6",
-          "message": "chore: remove unused boilerplate SVGs and @web3icons/core dep",
+          "sha": "dc40ecd",
+          "message": "chore: improve error messages",
           "author": "ybot",
-          "time": "2026-09-13T05:02:21+08:00"
+          "time": "2026-09-13T12:06:05+08:00"
         },
-        "commits30d": 8,
-        "totalCommits": 44,
+        "commits30d": 9,
+        "totalCommits": 45,
         "branch": "main",
         "uncommittedChanges": 0,
-        "ahead": 3,
+        "ahead": 4,
         "behind": 0
       },
       "tests": {
@@ -213,7 +213,7 @@
         "label": "attention",
         "issues": [
           "No test suite",
-          "3 commits not pushed"
+          "4 commits not pushed"
         ],
         "actions": [
           "Set up test framework & write first smoke test",
@@ -270,8 +270,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T11:36:58.506796+08:00",
-        "next_run": "2026-09-13T12:06:58.506796+08:00"
+        "last_run": "2026-09-13T12:07:02.573537+08:00",
+        "next_run": "2026-09-13T12:37:02.573537+08:00"
       },
       {
         "id": "539a150ac028",
@@ -288,8 +288,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T11:30:42.732430+08:00",
-        "next_run": "2026-09-13T12:31:00.774028+08:00"
+        "last_run": "2026-09-13T12:01:44.400802+08:00",
+        "next_run": "2026-09-13T13:02:04.550640+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -297,8 +297,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-13T11:35:58.247595+08:00",
-        "next_run": "2026-09-13T12:05:58.247595+08:00"
+        "last_run": "2026-09-13T12:06:02.177488+08:00",
+        "next_run": "2026-09-13T12:36:02.177488+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -306,8 +306,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-13T11:51:59.945222+08:00",
-        "next_run": "2026-09-13T12:01:59.945222+08:00"
+        "last_run": "2026-09-13T12:32:04.845829+08:00",
+        "next_run": "2026-09-13T12:42:04.845829+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -333,7 +333,7 @@
         "name": "Proactive Operator — 3-Hourly Check-In",
         "schedule": "0 9,12,15,18 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-13T09:01:57.837272+08:00",
+        "last_run": "2026-09-13T12:02:58.821634+08:00",
         "next_run": "2026-09-13T15:00:00+08:00"
       },
       {
@@ -342,8 +342,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-13T11:56:00.744042+08:00",
-        "next_run": "2026-09-13T12:11:00.744042+08:00"
+        "last_run": "2026-09-13T12:26:04.493767+08:00",
+        "next_run": "2026-09-13T12:41:04.493767+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -683,8 +683,8 @@
         "enabled": true,
         "name": "Error Message UX Audit — Weekly",
         "schedule": "0 12 * * 0",
-        "last_status": "error",
-        "last_run": "2026-09-06T12:28:05.861997+08:00",
+        "last_status": "ok",
+        "last_run": "2026-09-13T12:06:16.925771+08:00",
         "next_run": "2026-09-20T12:00:00+08:00"
       },
       {
@@ -770,7 +770,7 @@
       }
     ],
     "total": 56,
-    "healthy": 47
+    "healthy": 48
   },
   "agents": {
     "hermes": {
@@ -794,44 +794,44 @@
     "uptime": "3 days",
     "cpu": {
       "loadAvg": [
-        1.45,
-        1.39,
-        1.27
+        1.04,
+        1.17,
+        1.32
       ],
-      "usage": "13.2%"
+      "usage": "12.7%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 44.9
+      "usedPct": 44.1
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
+        "cpu": "14.3",
+        "mem": "1.1",
+        "name": "Google Chrome Helper (Renderer"
+      },
+      {
+        "cpu": "5.9",
+        "mem": "1.7",
+        "name": "Google Chrome"
+      },
+      {
+        "cpu": "3.5",
+        "mem": "5.6",
+        "name": "Google Chrome Helper (Renderer"
+      },
+      {
         "cpu": "3.2",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "1.7",
+        "cpu": "2.1",
         "mem": "0.0",
         "name": "sysmond"
-      },
-      {
-        "cpu": "1.6",
-        "mem": "2.1",
-        "name": "python"
-      },
-      {
-        "cpu": "0.4",
-        "mem": "0.0",
-        "name": "notifyd"
-      },
-      {
-        "cpu": "0.3",
-        "mem": "0.1",
-        "name": "launchd"
       }
     ]
   },
@@ -1477,16 +1477,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-13T12:01:37.052412+08:00",
+    "generatedAt": "2026-09-13T12:32:41.087944+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 26.6,
-          "code": 53,
-          "precip": 0.2,
-          "wind": 20.9,
-          "time": "2026-09-13T12:00"
+          "temp": 27.1,
+          "code": 51,
+          "precip": 0.1,
+          "wind": 21.0,
+          "time": "2026-09-13T12:30"
         },
         "daily": [
           {
@@ -1515,11 +1515,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 28.4,
+          "temp": 28.9,
           "code": 95,
           "precip": 0.1,
-          "wind": 14.8,
-          "time": "2026-09-13T12:00"
+          "wind": 15.0,
+          "time": "2026-09-13T12:30"
         },
         "daily": [
           {
@@ -1555,50 +1555,50 @@
   },
   "activity": [
     {
-      "time": "2026-09-13T12:01:37.310271+08:00",
+      "time": "2026-09-13T12:32:41.382724+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-13T12:01:37.310271+08:00",
+      "time": "2026-09-13T12:32:41.382724+08:00",
       "type": "info",
-      "text": "⏰ Cron: 47/56 jobs healthy"
+      "text": "⏰ Cron: 48/56 jobs healthy"
     },
     {
-      "time": "2026-09-13T10:02:36+08:00",
+      "time": "2026-09-13T12:06:05+08:00",
       "type": "success",
-      "text": "💼 TechWealth: chore: remove dead code — GitHub Pages workflow, auto-deploy.sh, boilerplate SVG",
-      "project": "techwealth"
-    },
-    {
-      "time": "2026-09-13T08:02:21+08:00",
-      "type": "success",
-      "text": "🚀 KINKIN: chore: remove dead components, unused logo jpegs, and Next boilerplate SVGs",
-      "project": "kinkin"
-    },
-    {
-      "time": "2026-09-13T05:02:21+08:00",
-      "type": "success",
-      "text": "🐾 WPO (World Paws Org): chore: remove unused boilerplate SVGs and @web3icons/core dep",
+      "text": "🐾 WPO (World Paws Org): chore: improve error messages",
       "project": "wpo"
     },
     {
-      "time": "2026-09-12T03:12:31+08:00",
+      "time": "2026-09-13T12:06:04+08:00",
       "type": "success",
-      "text": "📊 TechWealth Tracker Pro: chore: unexport unused newId helper in repository",
-      "project": "techwealthTracker"
+      "text": "🌌 OrbitX NFT: chore: improve error messages",
+      "project": "orbitx"
     },
     {
-      "time": "2026-09-12T03:05:03+08:00",
+      "time": "2026-09-13T12:06:04+08:00",
       "type": "success",
-      "text": "🌌 OrbitX NFT: chore: remove unused useAccount import from homepage",
-      "project": "orbitx"
+      "text": "🚀 KINKIN: chore: improve error messages",
+      "project": "kinkin"
+    },
+    {
+      "time": "2026-09-13T12:06:04+08:00",
+      "type": "success",
+      "text": "💼 TechWealth: chore: improve error messages",
+      "project": "techwealth"
+    },
+    {
+      "time": "2026-09-13T12:06:04+08:00",
+      "type": "success",
+      "text": "📊 TechWealth Tracker Pro: chore: improve error messages",
+      "project": "techwealthTracker"
     }
   ],
   "stats": {
     "totalProjects": 6,
     "totalCronJobs": 56,
-    "healthyCronJobs": 47,
+    "healthyCronJobs": 48,
     "avgProgress": 69
   }
 }
