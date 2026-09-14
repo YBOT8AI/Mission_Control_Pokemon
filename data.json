@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T07:23:35.979544+08:00",
+  "generatedAt": "2026-09-15T07:54:35.999101+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -255,8 +255,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T07:21:55.773282+08:00",
-        "next_run": "2026-09-15T07:51:55.773282+08:00"
+        "last_run": "2026-09-15T07:52:00.479602+08:00",
+        "next_run": "2026-09-15T08:22:00.479602+08:00"
       },
       {
         "id": "539a150ac028",
@@ -273,8 +273,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T06:52:34.063125+08:00",
-        "next_run": "2026-09-15T07:52:55.121449+08:00"
+        "last_run": "2026-09-15T07:23:42.971154+08:00",
+        "next_run": "2026-09-15T08:24:00.008819+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -282,8 +282,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T07:20:55.229214+08:00",
-        "next_run": "2026-09-15T07:50:55.229214+08:00"
+        "last_run": "2026-09-15T07:50:59.942220+08:00",
+        "next_run": "2026-09-15T08:20:59.942220+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -291,8 +291,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-15T07:21:55.160388+08:00",
-        "next_run": "2026-09-15T07:31:55.160388+08:00"
+        "last_run": "2026-09-15T07:51:59.859596+08:00",
+        "next_run": "2026-09-15T08:01:59.859596+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -327,8 +327,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-15T07:21:55.360880+08:00",
-        "next_run": "2026-09-15T07:36:55.360880+08:00"
+        "last_run": "2026-09-15T07:52:00.079352+08:00",
+        "next_run": "2026-09-15T08:07:00.079352+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -776,47 +776,47 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "399Gi",
-    "uptime": "1:04",
+    "uptime": "1:35",
     "cpu": {
       "loadAvg": [
-        1.33,
-        1.24,
-        1.32
+        1.6,
+        1.31,
+        1.26
       ],
-      "usage": "12.5%"
+      "usage": "12.6%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 37.3
+      "usedPct": 37.9
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "5.4",
+        "cpu": "4.3",
         "mem": "0.1",
         "name": "python3"
       },
       {
-        "cpu": "4.2",
+        "cpu": "3.0",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "1.0",
-        "mem": "0.1",
-        "name": "opendirectoryd"
-      },
-      {
-        "cpu": "0.9",
+        "cpu": "0.8",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.6",
+        "cpu": "0.7",
         "mem": "0.1",
-        "name": "launchd"
+        "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.7",
+        "mem": "0.1",
+        "name": "bluetoothd"
       }
     ]
   },
@@ -930,6 +930,14 @@
     }
   ],
   "githubActivity": [
+    {
+      "repo": "evilmoni/TechWealth",
+      "type": "PushEvent",
+      "actor": "YBOT8AI",
+      "time": "2026-09-14T22:30:37Z",
+      "title": "lucky8: revenue deliberation — 2026-09-15",
+      "detail": "1 commit(s)"
+    },
     {
       "repo": "evilmoni/TechWealth",
       "type": "PushEvent",
@@ -1152,14 +1160,6 @@
       "actor": "YBOT8AI",
       "time": "2026-09-08T22:13:28Z",
       "title": "lucky8: revenue deliberation — 2026-09-09",
-      "detail": "1 commit(s)"
-    },
-    {
-      "repo": "evilmoni/TechWealth",
-      "type": "PushEvent",
-      "actor": "YBOT8AI",
-      "time": "2026-09-08T04:02:11Z",
-      "title": "docs: publish Weekly Deal Flow Digest #2 (2026-09-07)",
       "detail": "1 commit(s)"
     },
     {
@@ -1462,16 +1462,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-15T07:23:35.823708+08:00",
+    "generatedAt": "2026-09-15T07:54:35.850298+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 24.3,
-          "code": 1,
+          "temp": 25.1,
+          "code": 2,
           "precip": 0.0,
-          "wind": 4.4,
-          "time": "2026-09-15T07:15"
+          "wind": 3.8,
+          "time": "2026-09-15T07:45"
         },
         "daily": [
           {
@@ -1500,11 +1500,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 23.7,
-          "code": 1,
+          "temp": 24.6,
+          "code": 0,
           "precip": 0.0,
-          "wind": 4.4,
-          "time": "2026-09-15T07:15"
+          "wind": 3.7,
+          "time": "2026-09-15T07:45"
         },
         "daily": [
           {
@@ -1540,12 +1540,12 @@
   },
   "activity": [
     {
-      "time": "2026-09-15T07:23:35.979408+08:00",
+      "time": "2026-09-15T07:54:35.998965+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-15T07:23:35.979408+08:00",
+      "time": "2026-09-15T07:54:35.998965+08:00",
       "type": "info",
       "text": "⏰ Cron: 55/56 jobs healthy"
     },
