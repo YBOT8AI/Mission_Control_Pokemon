@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-09-14T23:12:46.564214+08:00",
+  "generatedAt": "2026-09-14T23:43:49.757707+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615212.64,
-      "changePct": 1.78
+      "priceHkd": 615220.48,
+      "changePct": 1.82
     },
     "ETH": {
-      "priceHkd": 19642.34,
-      "changePct": 0.72
+      "priceHkd": 19670.17,
+      "changePct": 0.82
     },
     "SOL": {
-      "priceHkd": 796.94,
-      "changePct": 1.29
+      "priceHkd": 800.62,
+      "changePct": 1.78
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5468.99,
-      "changePct": -0.71
+      "priceHkd": 5490.59,
+      "changePct": -0.32
     },
     "SPX": {
-      "priceHkd": 59598.58,
-      "changePct": -0.72
+      "priceHkd": 59832.14,
+      "changePct": -0.33
     },
     "SPCX": {
-      "priceHkd": 1172.51,
-      "changePct": -1.09
+      "priceHkd": 1181.1,
+      "changePct": -0.37
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1079.25,
-      "priceUsdOz": 4281.7
+      "priceHkdPerGram": 1082.88,
+      "priceUsdOz": 4296.1
     },
     "Silver": {
-      "priceHkdPerGram": 15.92,
-      "priceUsdOz": 63.17
+      "priceHkdPerGram": 16.04,
+      "priceUsdOz": 63.64
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 810.11,
-      "changePct": 3.28
+      "priceHkd": 805.32,
+      "changePct": 2.67
     },
     "Natural Gas": {
-      "priceHkd": 22.66,
-      "changePct": 2.08
+      "priceHkd": 22.62,
+      "changePct": 1.91
     }
   },
   "news": [
+    {
+      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T23:29:00+08:00"
+    },
+    {
+      "title": "Kennedy Center leaders say Trump’s name on facade may avoid ‘fiscal collapse’ - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdEQwRENDQ0syOTVUZ0lldDUxX19aZFpQbUYwcWRjWExJLXlJaGFBdjdoaG1xOU1xRUYxOXZCbFlRNzB2SVV1bnZHYjAwTnMzN045VTk3UHlCamNlYk9taHB2cW5jcTBOX1YwdlJEenBMSGtiOTV6bWpRNGswZzdicnhRSDZVZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T23:03:00+08:00"
+    },
     {
       "title": "Flash flooding interrupts half-marathon, submerges cars",
       "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
@@ -59,10 +71,22 @@
       "time": "2026-09-14T23:01:28+08:00"
     },
     {
-      "title": "LG officially denies reports that its smart TVs are secretly recording users - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaEctWFk1VnBiOWZ6UGlVbEpQdU1GX3dyekJyNXJKYW1pY1Z1dWN4ck9vZjRwOXBoZmZUMGxwZ0kxSm1FamNRVElqX3d1YTNiVFRsdUc4NDhaMGRNTmM0ZTVrLW1SSFcxMzdvN3JlT29WMGQtLXB0M2ptY2RRU1BsbWctS2NRVURETEtGWXhqbkpQOW5XaXQ3dFRmWXE?oc=5",
+      "title": "Body of missing runner found in South Africa: 'It is very scary'",
+      "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T22:58:48+08:00"
+    },
+    {
+      "title": "Tom Tiffany's plane crashes during emergency water landing after campaign event - WISN",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T22:25:20+08:00"
+      "time": "2026-09-14T22:46:00+08:00"
+    },
+    {
+      "title": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmEtUFBqSHlsV1d5UE1NcDFGQ0JnNy1TY21sNFpEQmRoS1BjdGh6Q0hkZko1ekpVcERSdm0yT3dVSlFSVmg0V2lXcGlITVBhbS0wWEtXdzczUnpyX1pWRkN6TmdydG11aUMybDk4V2gzU1k1dmd1Y25WRlhKNmxWYnF4Y1hvVW5Eck1UVmdoQTZBMm9ibEE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T22:40:23+08:00"
     },
     {
       "title": "'Culture shift' needed in how UK does business, PM urges",
@@ -71,19 +95,19 @@
       "time": "2026-09-14T22:22:55+08:00"
     },
     {
-      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:21:00+08:00"
-    },
-    {
       "title": "CBS’s 60 Minutes accused of peddling pro-Iran war propaganda in segment - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmIyeTMwQjRQUjNCZHk5cEFLVEpQS29lODc1OFlvMU03VVpNWnI2VGJmZEVmeU13Mko1aWp0YV9lY0liZ0dOU1FDMV9IWG40MDd1ajkzVFA3ZndFYWw2UTEzLVhTNFJxZGxkQ29nTjdmbE0zZkhJeE01dFhCM0FDVDVNX3MzckU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T22:18:00+08:00"
     },
     {
-      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - CNBC",
+      "title": "Hayden Panettiere’s possible cause of death revealed: TMZ - KTLA",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWZHbjItbUQtalFNRW52c2R2MFZQNF9EWUdXaVJGMU5vMnlQeTlmcTNtODMyNkc0eGI0R0NCVTdReWNVT2dKdDlMTXJ0eDBZTXlrNU0ycTlHek11UXhnbWVaTHlYUmgtNXdnbnlUTXl3cTRfOXBxcnFfbWo0NU9WS2s0ZHotcjhtYlp6SWxnb3PSAZYBQVVfeXFMTm9lckhlVnZrVWZDZDVBbG15b0xrUWpBWUp5VFB3aTd5YmxWR2RRNElQTjFzbGlsd3RjVzhuZ09ybGVrV2REY1pnLW1FdDVlNHhQbWtfdHhRb0FiZzQwQ2E4d3EwZGVFRzdoc2JHSE82bWxTM0s1Q180bGNSN21KQXZXMnhKcWdCU08zbkVma0ZzQk9TaTJ3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T22:10:43+08:00"
+    },
+    {
+      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T22:09:03+08:00"
@@ -95,22 +119,46 @@
       "time": "2026-09-14T22:08:12+08:00"
     },
     {
-      "title": "S&P 500 and Nasdaq open lower as AI jitters hit Nvidia, chipmakers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVB5TUc4VTc5MGdNMjVWcVYxUUszYjdXU3hrVnZXbVRCRm40Z3JBX3BhTElKaXVFQmU4SW82WWRwLVdxcGFTVVhPclllM25kSzR0MWdqUmU5YjQydl9MZDhLZ1MzQmF0b01UY3MxaWx0VkxOMjJUQzhmbHJPQjQzdXJMWkJ2OGs5R0ZQc2FjeVpEdjZkM2VqMC1aeGhXSm8?oc=5",
+      "title": "Sam Altman warns of 2 ways AI progress could go badly - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWt4bTJMbUEwbmswV3F6VHdacjE1clFiRmc5YUpsUUxaVXY1aE56UXNSUTFBMVA4SDIxblBYVXRwOGRhUGlhMTB1X0Q5LTF1ZFl5aV9vWHkzMVR3ZjF2TlBkaklCcGQwN09FWmZVWGlzUEVMN3VrcWItd09uYmRSNk5rY09xYWZrSHEtTw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T21:37:37+08:00"
+      "time": "2026-09-14T21:31:00+08:00"
     },
     {
-      "title": "Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONThDR2dBM2V3OWhrWDdHQ0xsRzB0eTBsZzB6cEszMjN4ZEZiQ2ZCRUdfZ1FRMGNQTk5aY081QnlSN0tjOEZrUFBHYjQtbUxxa25oaW9XVGM1QlV0QkhpVC12WldMZHlVUDR0YVhUTHVnbGJIMGo1VGJmdXJxMFgtZGtBRGJOdVN5SUQ1R0ExcEUwd1dBWktOSFBySmpwMEN4MXc0OHRZclREdw?oc=5",
+      "title": "How To Prepare Your iPhone For The iOS 27 Update - engadget.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42ZlJBblJkU1FCWnVUWWM0NENIdUpuMkxhb2xvRmNMU2tHbXdPdjIxSzg2eXJFNDhVX1BJSFlVQWROUDBGdVFtRkUza2haMk5ITng0S3R3R1I3bDJDYzF3dUpHTlZSVEo3azNpY0lIZw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T21:01:00+08:00"
+      "time": "2026-09-14T21:30:00+08:00"
+    },
+    {
+      "title": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair - apnews.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T20:56:00+08:00"
     },
     {
       "title": "Cooling towers at Yankee Stadium test positive for Legionnaires’ in new cluster - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzh1alRoNGlQU1hYT0Z2RkhEX3lGck1HVzRrNHZCM0ZZYm1jUTFNYUtvREhXVHhmY2xTLVBoMDFiUlozNENEMzFMOWE0SDZYZTB6SXNGYy1yWXYtazRGUXBYcEd2bmJKXzBfQmlHRDVJS1c4VlVFYTRtMkhob2VqN3U0bW9ic3RDWGl4aWU2cVpJU3U0YXFMX2hNWFI3NGVBOFUtTnFwUXRBUjdWVGtIcUM2MmVDNnBlanc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T20:54:07+08:00"
+    },
+    {
+      "title": "Stock futures fall as investors weigh calls for AI slowdown, oil gains: Live updates - cnbc.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T20:50:00+08:00"
+    },
+    {
+      "title": "Which Nvidia GPU Is Equivalent To The Xbox Series S? - bgr.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43bmt4TjFpRVF1Z0ZiYjFLTnN5N0lqeU9YbVpBX0Y3OWJlMF9OeE04LU9tOGRWc2dpOHZXUlVvNlNUQzhZTkpsSkx5WU9wejZabVAwbmwxc2hYSUR0QjRjUWw5TUROdkZ4VlV1WmQ4aFJQeVlKUGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T20:47:00+08:00"
+    },
+    {
+      "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T20:32:28+08:00"
     },
     {
       "title": "Sydney Sweeney under fire from athletes over nude sports-prediction ad - CNN",
@@ -123,54 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T20:18:13+08:00"
-    },
-    {
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRUaEdubXhVTTVLMXM5MlptUG9lbmJNWUE5U3ZXeFVhVlJEOEc1by1pQXdkdXlGMURrOVdFTXh4cVRTaDBCM2p2emlVMkR6a0xqNkwxcGhWSE9icnpWaHl0b3hNM3FZTFQyQ2hUT3hhT0doakZBVEltX1hZY242c0c3Z3VjWUNCWF82OC1iZ1RTQkU2VUFUcHVnQkUxbFlid3liYjBOelZuVFA3UHcyV3laSdIBuAFBVV95cUxPc1FIWXY5QlZjX1NHU2ZzdDdvRXIyX044eDJlVWpQWGdEMFhlQjhrSkl0b1U0bDliUDNUUU92cDU4NnZsbWptdkk5dFROZS1VTEVFV0hKYm5KRlZraWdEM3JSS2NMa2p0SkI1dkU0RzRDOWNzZ2RucTJ2WUxnYkc1aERrT0NNYWk1ZW1xY3N0eF8xX3RPV2lUclNHN1l2VTNSUUpzamI2SDVIdDg1VU8wSmtTMDZNOFBH?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:09:03+08:00"
-    },
-    {
-      "title": "Hayden Panettiere’s cause of death revealed; DEA targets potential drug dealer - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTHdCaC1IZF90dFhFcTc2M3JsTm1WZE95cXdTajhXNDFOcEM3UUhvcldJYVBSUEEzOGIzeTF4OHVjbXBBVlVPNWV3dG5MdG9JQ2Uwcl9lTjloMkRlcjRCUHh1M01DcmRVQnpLaUoxcUR6TlFPZm5VVEhRQVd6M3ktUlA0ZFE3Y0FCNmRsVmVhb1RIdGxscjk5Q2Y0U2FwUDVfaGxYLXFab0M1ZXB5dnhRZGV3c9IBxwFBVV95cUxQNWtJTlpfWnhwVjJPOEFoVThYT1JlMDcwYzRYYkdpaUI2b2dOOGF6S2pVN3dlOURpblVQSUhkTW1aQWFHTm1qeHNEdHlncmpJYkphZXp3cG9tSWJwSnVoYTZuYTA4RGE0S0FwcHp2cTNXMVctLXRPQmdZZUxVWkJYR09CQ1R5ZnhaREJ1cFB1aWF6TTY0YkZuaFR2NUw2U2htR2RDc3kzMHFJMU5aRklJZ0plUDF6cmVDYmJaNXpscHhXLXdvQlM4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T19:59:00+08:00"
-    },
-    {
-      "title": "Petrol and diesel prices hit highest since 2022",
-      "link": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-14T19:42:52+08:00"
-    },
-    {
-      "title": "Drenching rains bring flash flooding across coastal Connecticut, New York and New Jersey - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1ZEU1NuSzZmNFV3RW1MTVJzLXl3WERCYVVPZ2FhU2QwX1NXT3dZZDNiMHhjZ3poWFFjaUtqZ2hMV1pWOWlHcFRiN2JSeERXNzlvX2c1VFZGX1ZVUGdxQkhURWhRcE0zQzFxVmZNa0Y2QVJlam5BUE1odnlzc05POGUwSkE1U2tNYnhLLTZESm94TjFjQk9WRks5a1o1OF9YMzRQSnljbjJCSFdUYjZyekVqdU5GSUF0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T19:39:30+08:00"
-    },
-    {
-      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-      "link": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T19:35:08+08:00"
-    },
-    {
-      "title": "China criticises idea it is in 'malicious competition' over AI",
-      "link": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T19:31:39+08:00"
-    },
-    {
-      "title": "Dangerously Hot Days Are Now Bleeding Into Spring and Fall - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmRpNFI0VGJEd2dfQ3hFdG55X0NuWWJfT2xlNlBpem1KWFp1VnE0S25rdXZ6QnR6aEhPRUIwQk93UzdGVkdaa3UtNzBvOVpIWjJhYXJvdVFQVTJKNU9XQ2FNamdoWnlld1hSanl2M1VmSEZJY295REhRWmtCRXc3NmV0STViOEZNTk9vZkNPc2VsUFU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T19:30:42+08:00"
-    },
-    {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T19:28:36+08:00"
     }
   ]
 }
