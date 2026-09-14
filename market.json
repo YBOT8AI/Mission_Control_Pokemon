@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T13:23:02.065592+08:00",
+  "generatedAt": "2026-09-14T13:53:57.102432+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607944.96,
-      "changePct": 0.38
+      "priceHkd": 607364.8,
+      "changePct": 0.22
     },
     "ETH": {
-      "priceHkd": 19694.47,
-      "changePct": -0.38
+      "priceHkd": 19681.38,
+      "changePct": -0.49
     },
     "SOL": {
-      "priceHkd": 792.23,
-      "changePct": -0.75
+      "priceHkd": 791.37,
+      "changePct": -0.93
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1091.68,
-      "priceUsdOz": 4331.0
+      "priceHkdPerGram": 1091.5,
+      "priceUsdOz": 4330.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.15,
-      "priceUsdOz": 64.06
+      "priceHkdPerGram": 16.12,
+      "priceUsdOz": 63.95
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 804.54,
-      "changePct": 2.57
+      "priceHkd": 803.36,
+      "changePct": 2.42
     },
     "Natural Gas": {
       "priceHkd": 22.67,
-      "changePct": 2.15
+      "changePct": 2.12
     }
   },
   "news": [
+    {
+      "title": "MPs and Lords call for new law to address AI threat to human rights",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-14T13:49:32+08:00"
+    },
+    {
+      "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T13:34:13+08:00"
+    },
     {
       "title": "Food redistribution warehouse opens in east London",
       "link": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&at_campaign=rss",
@@ -59,16 +71,16 @@
       "time": "2026-09-14T12:56:54+08:00"
     },
     {
-      "title": "AI Bosses Risk Clash With Wall Street and Trump Over Safety Call - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ1pUNWlPeGNMdmxRd1p2Y3A0azhfZUxCSUZjWnNSNUxtaU9taEY1RkxpdUZGeW53MHJjNTN3WDk1Q1NGS3VlT05rZV8zUFkxeUh4WnA5azBXTW9FcW1Xck1oeDBBRjJuZ0VFNUN0TVhZOGFSRkd2eWtLaVBaVDdsUkpRNDRuVHB5eWt1Wk56U0lpRTF1cmZhT1k2dXZ0VWtJT0FRb21SNlRmWVpNNERMX1ZvNFhaQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T12:45:00+08:00"
-    },
-    {
       "title": "Warsh and Trump on collision course as investors expect Fed to raise rates - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1FlNm82dWhzNW1zVWg2YXU4bmtFeTVrcG90cGRXQXBFR3EzamFMOUpPMkpQUk1tM2VBTThrZWpRc0ZQcDljSjg1ZXo3anpHSjBFYlZzS0hGLVpzTUVhSkpPNzRRYWpqeW5DTmU3QnMzRmY5ZHJQS2JKS2pMR0lwT1c1ZEE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T12:00:45+08:00"
+    },
+    {
+      "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T11:49:07+08:00"
     },
     {
       "title": "NFL Week 1 grades for all 32 teams: Ravens roll to an 'A-,' Bills earn high mark for win over Texans - CBS Sports",
@@ -83,16 +95,16 @@
       "time": "2026-09-14T11:38:13+08:00"
     },
     {
-      "title": "Clippers' Ballmer to comply with NBA, won't seek legal action - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2dZNjMtNDVCa01mT1FaLUJwM0dqXzQ5QmFmQndpbnhaeG9XWk9iVUVUV0Q0ckZuazc2RzdPeWNTcEpCb2ZpWlBCUjRjWmFoNlJ5N1p0NUxQaEN3bnZjNUJxX1c3NTJGMXc2SzVybDNnYmFWbHcyUFJnZ0pmTnBBN0FhZTlGdU5HZmhKbUxZZDZTdW5R?oc=5",
+      "title": "Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T11:27:00+08:00"
+      "time": "2026-09-14T11:25:00+08:00"
     },
     {
-      "title": "Committee calls for bill to address AI threat to human rights",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-14T11:23:54+08:00"
+      "title": "Steve Ballmer won’t fight salary-cap circumvention penalties, apologizes to Clippers fans - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM3JjZ1ZaRGxhRHZhOUFFeXFQWVRLZmk5cHFLejY3ZklZMU9Ca3NlMkFTeTVmMnpyQmlxUWhheEVwWU8xQ0RyeEdjX3lBVjl1WWRkNDZrS1pLa1dCTVQzR01pTDU2VUp0UGlxRGZUTGJfdUJvNlRBVEZEcTlNbFl5bVpWZ2QycXdQb09mTGE1UjU2bWpNMXhnSmQ4SXJJT1hZMS00UTAxWUxwZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T11:15:00+08:00"
     },
     {
       "title": "Pennsylvania woman died from complications of probable measles case, coroner says - The Washington Post",
@@ -107,22 +119,16 @@
       "time": "2026-09-14T10:40:06+08:00"
     },
     {
-      "title": "White House agrees to new ethics language in crypto bill - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXloRnI0NG1oelkyNjJFUmdiT0ppTUlLZ0tQWWVIY3ZjS1l0MzFyelU5UHRCZEd5UjREZFdQT0ZPZ2NOb3F0VEpRZWNmM2pUX1kxZmttMTZxRVFCRkx4VmN1aUhzbF80c3RJaE5ZUFc4cVdrdzBjc01sNTJYNTlZQVloUm1LdzVla0JPMUt30gGTAUFVX3lxTE03NnpvSTVuNkFuVExlX1VsNmVXeUdKS2VsWlpJM0cwUnB0ZGI2b2xtZnowdFlNUzdEZXpfb2gyZmpTLXFCR1NFdEhEZDh2b1FmVnVPSDBsWjRzanc2cEJBQ0kzeTFqdm0yTzdRV3dpdmZ5VFJSU1hPYVhXVVRiUkRYZm96QnlkTjFCdDhYRlF4d3hGYw?oc=5",
+      "title": "Oil Prices Surge as Middle East Attacks Continue and Diplomacy Stumbles - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONmYydkRWVVJiZ0hacFBMVEtFdEJsSHRnZXNZSEFacC1iM3BlYldxeFJuNGc0d0E0WHY5NklaUU02bVJJMFEzQUpzY2dyamZ3SXJ2N1RGeVdpcUdtblpWZnVPdjd6R3V3MHBYT3Rjbk1RQUItNDM5bkFrN2J0Tm1rUUdtaTVUSmF0akdhMDIxTkJrV3pTYmlENGRpTTZCckxobXFMRGlOdjhJNnQtNjFMQlZPVXA2MGl2MnY00gHAAUFVX3lxTFBuWE1QQVg1S0lDY0VuVU9Lam5RYmx3SkZyTWhudmdMZ0hHTzNMYW9ZcmoydmplNzZFVUFyVng4MzVGVTBOWnRGQVB1MUNDcm5Dc01tWGtVelpiTW0wTjdhMjE1WWdDR0VmclU4Z2g3WmhLTG13a2wycEtlXzFkR0JNZEZWeFZadkwxWENDT19CTGw3aFltNkZjSXl5eUxVc1IzVVB6LV9NTTNSRWpKVXlmSzZxNHJXSEl5RkJhaTlHSA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T10:35:00+08:00"
+      "time": "2026-09-14T10:39:17+08:00"
     },
     {
       "title": "Hayden Panettiere's boyfriend Brian Hickerson detained, his brother arrested - USA Today",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXo0eWEtUVR6ZkNkcEozM1JKdDZxM3hxWktjcC1LS2MtaVQ0bjQxS1RWQ0RLdjNEa0EyamV1YVVYeHJueTFyejJpMlhpdjRTMWFVVUJZQTh0VkJINUtjaDRtMUNCMkZNbHYwVkczYWhSQlFRbTE3SFlIZTl6R0t0Z0dwaDVRWEMxbUZfWGxDcUFPLVowRkw5ak1sMFZoSldvVTg2c2ZNOTU1V29sZzBMWDY3WjBjQ2dQUXBjYzdOeS15RWpFaldXU3NMQWQ3UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T10:25:00+08:00"
-    },
-    {
-      "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T10:03:03+08:00"
     },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
@@ -149,22 +155,16 @@
       "time": "2026-09-14T08:59:00+08:00"
     },
     {
-      "title": "Indonesia rescuers battle turbulent seas in search for 129 people after passenger ship capsizes - reuters.com",
+      "title": "Indonesia rescuers battle turbulent seas in search for 129 people after passenger ship capsizes - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2x6VkxsSnR0bWg1ZGtiYllMeWo3eVQzRlRoMjhWTEc5bDdFYUVDLS1pZ3haS3VXTndCWlE4YXI3TEd2MUpKaFF4UW4ycVBYYU9vSmJHSnVEX0JaX2lwQTF3UUxrbENjVS1RajRtZmI2MmoyTzZjOERRT0VaWHcweE1uM2VXTlBNUk5KakRGS09EaS1rVXFITWJKd1AwY2V6c0pwX1hLa1A5TExzdWNuOWRNdkRkemFaMDQxZlczVWxKQ2xZSFR2LQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T08:54:00+08:00"
     },
     {
-      "title": "Why Trump's united Ireland stance hit such a nerve - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
+      "title": "Trump dismisses report China entities helped Iran before attack that killed US troops - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZF9XUXZXZ0J5UzkzN2pGQlpxQkI3dklSRmIyMDUzYWZqdzhZQXdYMlF5djdTNjAzcGUxRUVDdHdOU3hXWGlGb0J5bVAzTWRlWjNYaWV3eUczcHB2R3dudTBYZmRtZ3lOVy00ZUJycDJtZUlJMTZNaHRRVEFVRHdPUEpjSVhyTUpOd2Q4R2Z5ZGlscTdSNzd6VHRLSXJWMTc4NUlaZzAydWhRekFJdDF4R19nMmJhSVNsLWRLMUJTc2xOT0pU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T08:52:28+08:00"
-    },
-    {
-      "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU3ZuVnd4TE54OXBybVA2NmZjdjM2TEdkQzYxLUIyWl9vb29WalpJamhQUE9OTnBOakRUOGNrUFZXdVMzekE1Z0cyVG0xYjFiUkVaajJqNDZ6WTBQV1pkOFZJamV1NjBSck5pQ0oxX2RHY29heVB5YzVXdnZTVE93ZkNBVVlwTURQcmJ1anYybHpQSW1vY2RpeVY2RHpaSERobjlrZ3RFYmRRWmtHbkdJ0gG0AUFVX3lxTFBEaldkaE1JX2pQWEFWa2M4NnZLSUFMTnEtaUJXVjBsNlF5Q2VnVnpfV0x2X3Y5OW5GNzFvaUxUWlhuSEpTU2xLNlFqVUdtSzhhdjFKQnM3M1c2TnJEeF9qMGtickdvcENGd1hOM3F1WTdRT3RrQ1pGRFg1U1p3R081cml6SFlFdG9DSVQ2NU1saWR1OUctSFZUUUlOdHZSQktCb01GNkxJVHJkbEJxNjRsbDUyZQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T08:47:23+08:00"
+      "time": "2026-09-14T08:50:00+08:00"
     },
     {
       "title": "Trump says $5K dividend checks to Americans will ‘happen 100 percent’ - The Hill",
