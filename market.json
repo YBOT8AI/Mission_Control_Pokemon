@@ -1,62 +1,80 @@
 {
-  "generatedAt": "2026-09-14T23:43:49.757707+08:00",
+  "generatedAt": "2026-09-15T00:14:52.572890+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 615220.48,
-      "changePct": 1.82
+      "priceHkd": 615024.48,
+      "changePct": 1.64
     },
     "ETH": {
-      "priceHkd": 19670.17,
-      "changePct": 0.82
+      "priceHkd": 19665.46,
+      "changePct": 0.31
     },
     "SOL": {
-      "priceHkd": 800.62,
-      "changePct": 1.78
+      "priceHkd": 799.37,
+      "changePct": 1.2
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5490.59,
-      "changePct": -0.32
+      "priceHkd": 5488.23,
+      "changePct": -0.36
     },
     "SPX": {
-      "priceHkd": 59832.14,
-      "changePct": -0.33
+      "priceHkd": 59804.62,
+      "changePct": -0.38
     },
     "SPCX": {
-      "priceHkd": 1181.1,
-      "changePct": -0.37
+      "priceHkd": 1182.98,
+      "changePct": -0.21
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1082.88,
-      "priceUsdOz": 4296.1
+      "priceHkdPerGram": 1083.06,
+      "priceUsdOz": 4296.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.04,
-      "priceUsdOz": 63.64
+      "priceHkdPerGram": 15.99,
+      "priceUsdOz": 63.45
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 805.32,
-      "changePct": 2.67
+      "priceHkd": 806.34,
+      "changePct": 2.8
     },
     "Natural Gas": {
-      "priceHkd": 22.62,
-      "changePct": 1.91
+      "priceHkd": 22.71,
+      "changePct": 2.33
     }
   },
   "news": [
     {
-      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+      "title": "Trump's mail-in voting restrictions blocked by a second judge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdGVuSUJVaFZzWlRVTmI4VTBJQWlnam1UNlc4N1NVWkhBUGQxb25vdTRIcDZMUTRZU09HYTVIeFlJM0drdkJiUmxPcjhjZUZlTm42bVp3cWdhOExVWVVqa3IxamUwT0lZeVFBNExuVTZVd0UzMm5INi13bG1ERk5hbDRRcFpOYm40eXczeUVEZlJpemNWbU9hTm4zM3lxenJVbGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T23:42:11+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T23:29:00+08:00"
+    },
+    {
+      "title": "States and Cities Sue Over Trump’s Policy to Restrict Green Cards - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSVQyX1JEd1RjZlYwYVQ1d0hObWpxS2dsTXZiSkM5aVlXMnU3b0ZFalhMYTd4WGFaQzBub3NCWXpEbXNPRDVLOFo3alItbEtZQjNMeVBldVc3NzdLeGxITDdHRDdwNFFDSjFEdm1FVDBkRkJpVFFBdnp4WkpSR2J0cllwNHZmTERvRUlF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T23:13:12+08:00"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5% - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVdLdTJrbjFlX2lQWjdXaDUtM2w0aWExVXpzMmdOeGFyRXVOaWRLS0RLUG5qcVhOd2F6bjNfR2gxSDNOMWgxOWhxcVg5b01BZWg3VXAyUkQxczZNOXFMUmU2bmh4eFNJMmRoSDI0dmRGRVpVRVk2R2FzY1RQWXVQZ1I3dURRbzZYSHZBUnNLMHUxR2ZfQWNRR0NaNlN2Nm1YUzVnWDF1a1EwOUl3SVEw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T23:09:00+08:00"
     },
     {
       "title": "Kennedy Center leaders say Trump’s name on facade may avoid ‘fiscal collapse’ - The Guardian",
@@ -71,10 +89,16 @@
       "time": "2026-09-14T23:01:28+08:00"
     },
     {
-      "title": "Body of missing runner found in South Africa: 'It is very scary'",
+      "title": "Body of missing runner found in South Africa",
       "link": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T22:58:48+08:00"
+    },
+    {
+      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T22:57:00+08:00"
     },
     {
       "title": "Tom Tiffany's plane crashes during emergency water landing after campaign event - WISN",
@@ -83,10 +107,16 @@
       "time": "2026-09-14T22:46:00+08:00"
     },
     {
-      "title": "As Supreme Court Weighs Trump Mail Ballot Plan, Another Judge Blocks It - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSmEtUFBqSHlsV1d5UE1NcDFGQ0JnNy1TY21sNFpEQmRoS1BjdGh6Q0hkZko1ekpVcERSdm0yT3dVSlFSVmg0V2lXcGlITVBhbS0wWEtXdzczUnpyX1pWRkN6TmdydG11aUMybDk4V2gzU1k1dmd1Y25WRlhKNmxWYnF4Y1hvVW5Eck1UVmdoQTZBMm9ibEE?oc=5",
+      "title": "A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPckt2ZFNZX21TcDlqRFRFbUtLejZpamVrbjBrcHpIQ0ZSZFJveHhhU3VZWHFGVVhLekR2U3ZDejllTmdzQVdBUFhWS1RyekJNYkhnRFhzd0w4ejh5MzZtdTM3RWJFM196YkNlRVlEajFHcXY1ck5FM0VQdjNZMWZZNzQ3Zw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T22:40:23+08:00"
+      "time": "2026-09-14T22:41:51+08:00"
+    },
+    {
+      "title": "Trump says only guardrails that AI needs is ‘STRONG AND SMART’ president - Politico",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd1EtR2hGc0txU0o2MW5EZUdScnJSd2xVTWZQQXNkRngxY2VrWmJyaDNhOUNUSGIwVFZDSGNBdElRam41WUtSNGpvbERib21TUENkOXhXc3NXNjVFRk1CX0l2S014cUdkVW1HdktDVFNiUGU5MnM1NWxFbzFKRmZKbU1KTmNxRjNDTkswazl3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T22:23:00+08:00"
     },
     {
       "title": "'Culture shift' needed in how UK does business, PM urges",
@@ -95,22 +125,10 @@
       "time": "2026-09-14T22:22:55+08:00"
     },
     {
-      "title": "CBS’s 60 Minutes accused of peddling pro-Iran war propaganda in segment - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmIyeTMwQjRQUjNCZHk5cEFLVEpQS29lODc1OFlvMU03VVpNWnI2VGJmZEVmeU13Mko1aWp0YV9lY0liZ0dOU1FDMV9IWG40MDd1ajkzVFA3ZndFYWw2UTEzLVhTNFJxZGxkQ29nTjdmbE0zZkhJeE01dFhCM0FDVDVNX3MzckU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:18:00+08:00"
-    },
-    {
       "title": "Hayden Panettiere’s possible cause of death revealed: TMZ - KTLA",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWZHbjItbUQtalFNRW52c2R2MFZQNF9EWUdXaVJGMU5vMnlQeTlmcTNtODMyNkc0eGI0R0NCVTdReWNVT2dKdDlMTXJ0eDBZTXlrNU0ycTlHek11UXhnbWVaTHlYUmgtNXdnbnlUTXl3cTRfOXBxcnFfbWo0NU9WS2s0ZHotcjhtYlp6SWxnb3PSAZYBQVVfeXFMTm9lckhlVnZrVWZDZDVBbG15b0xrUWpBWUp5VFB3aTd5YmxWR2RRNElQTjFzbGlsd3RjVzhuZ09ybGVrV2REY1pnLW1FdDVlNHhQbWtfdHhRb0FiZzQwQ2E4d3EwZGVFRzdoc2JHSE82bWxTM0s1Q180bGNSN21KQXZXMnhKcWdCU08zbkVma0ZzQk9TaTJ3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T22:10:43+08:00"
-    },
-    {
-      "title": "Trump says no need for more AI regulation, slams Anthropic CEO Dario Amodei - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM01tVUxzRUtNUHM5YmNCSmlMcVZ0VmJrQU5nWmsySTJXZFNnWEhZajZxTmFOLW8ybTd0Z0lxVEZQSlJLVjV1djJROUFleXBmeHRLeDlpTkowNkZTbDZrSGJPVXBRZ2k1MUJZYlR4VThnSUhTNkl6eWhlTTBZS012UnV0a3kyaVlU0gGOAUFVX3lxTE54dzQxUXo4aFdlV2NKVnY1aHczRlZOTDRnaWVxTHFRUEhqUXhCS25Nd2hYYlY4bFh2WFlaTGRJbVdLTzNGajl5Y2FNSWVUSnBrbzJobTllT1M2Z1VxUTFweFZjVmNaNU9pMnRVZ3lsMkNiWmgwUHpYby1mNEI5TlNEdDliRUc0VUgxQnM4aWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:09:03+08:00"
     },
     {
       "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
@@ -119,58 +137,40 @@
       "time": "2026-09-14T22:08:12+08:00"
     },
     {
-      "title": "Sam Altman warns of 2 ways AI progress could go badly - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWt4bTJMbUEwbmswV3F6VHdacjE1clFiRmc5YUpsUUxaVXY1aE56UXNSUTFBMVA4SDIxblBYVXRwOGRhUGlhMTB1X0Q5LTF1ZFl5aV9vWHkzMVR3ZjF2TlBkaklCcGQwN09FWmZVWGlzUEVMN3VrcWItd09uYmRSNk5rY09xYWZrSHEtTw?oc=5",
+      "title": "Tech stocks fall after calls for AI development to slow down - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T21:31:00+08:00"
+      "time": "2026-09-14T21:57:03+08:00"
     },
     {
-      "title": "How To Prepare Your iPhone For The iOS 27 Update - engadget.com",
+      "title": "How To Prepare Your iPhone For The iOS 27 Update - Engadget",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42ZlJBblJkU1FCWnVUWWM0NENIdUpuMkxhb2xvRmNMU2tHbXdPdjIxSzg2eXJFNDhVX1BJSFlVQWROUDBGdVFtRkUza2haMk5ITng0S3R3R1I3bDJDYzF3dUpHTlZSVEo3azNpY0lIZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T21:30:00+08:00"
     },
     {
-      "title": "Saudi oil pipeline hit in strikes will be mostly out of service for several weeks for repair - apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+      "title": "US Air Force colonel shot down over Iran recounts 'modern-day miracle' - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVViZGF2VVhyRkUzbzBrYTZabVBsaHdNQkxfemlrUUpKR2VQRi1PX2xsbG1iaXVvZmxpdWlNQ1JGRzQ5S0QzMkpYaW1NR3gxQUxpVmVZVndxOEx0U1dRNzhlYzlJdWRYV0lQcG5sU0J6UnhNV2xzYXY0TE4wU1JuMnM3YnhNS21lN28wRFRaUkg5UllBSV9Nc1VsOUNBOUkzYWRNRw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T20:56:00+08:00"
+      "time": "2026-09-14T21:26:22+08:00"
+    },
+    {
+      "title": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlhYclhyYjFhYU05T2EyUUQtd1lzM1hjekVhbnFhNm9qQWlkNldUcWp4S1dHdFJiYlFoMlpGcHVubUZPQ1FHcUx4SUhPdTg3UjAtVThjb0QxakhwNVF2c1d0Q2Z2cGU5TEFCNkJaSlp6a19Rb3FfY0hxajdPRGhIajZVR2NJY20zZnhGMDJqVnUwWjJFZ29pdnhRQ3ByUTRHM1d3LU1xeU94UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T21:12:27+08:00"
+    },
+    {
+      "title": "Apple AirPods 5 Review: A Better Upgrade Than I Expected - CNET",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZ1BJa21RZEFSbW9EeTJIZ1RQWTFwdnViWDRZZW1yV293Xzk0WkZ2ME4wZmZFTENEa3Z5eGFfcWgwR2dxeDg4dXI2Q2NJUDJqNmx5VHBlMDZHN2lGdFpzMExZalpzMWs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T21:07:26+08:00"
     },
     {
       "title": "Cooling towers at Yankee Stadium test positive for Legionnaires’ in new cluster - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQzh1alRoNGlQU1hYT0Z2RkhEX3lGck1HVzRrNHZCM0ZZYm1jUTFNYUtvREhXVHhmY2xTLVBoMDFiUlozNENEMzFMOWE0SDZYZTB6SXNGYy1yWXYtazRGUXBYcEd2bmJKXzBfQmlHRDVJS1c4VlVFYTRtMkhob2VqN3U0bW9ic3RDWGl4aWU2cVpJU3U0YXFMX2hNWFI3NGVBOFUtTnFwUXRBUjdWVGtIcUM2MmVDNnBlanc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T20:54:07+08:00"
-    },
-    {
-      "title": "Stock futures fall as investors weigh calls for AI slowdown, oil gains: Live updates - cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:50:00+08:00"
-    },
-    {
-      "title": "Which Nvidia GPU Is Equivalent To The Xbox Series S? - bgr.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43bmt4TjFpRVF1Z0ZiYjFLTnN5N0lqeU9YbVpBX0Y3OWJlMF9OeE04LU9tOGRWc2dpOHZXUlVvNlNUQzhZTkpsSkx5WU9wejZabVAwbmwxc2hYSUR0QjRjUWw5TUROdkZ4VlV1WmQ4aFJQeVlKUGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:47:00+08:00"
-    },
-    {
-      "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:32:28+08:00"
-    },
-    {
-      "title": "Sydney Sweeney under fire from athletes over nude sports-prediction ad - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pM1hlUWtnZFpaVVJRXzZOdklXSVY2MHVvTjJsNUJ2eUhfMS1menZ0MU14ZTVBd3lON0FEYlRyMXQ2LU5KdGYwWkd1R2NVUlB1eHFFb19LOFA2ZFA4aC1wcWxJMWljVzFvRmF0R19rOWpyMV9LUTZtSlYxVGlQZw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:28:42+08:00"
-    },
-    {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T20:18:13+08:00"
     }
   ]
 }
