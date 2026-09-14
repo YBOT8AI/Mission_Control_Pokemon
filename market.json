@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T17:00:13.280129+08:00",
+  "generatedAt": "2026-09-14T17:31:18.816878+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608854.4,
-      "changePct": 1.13
+      "priceHkd": 608846.56,
+      "changePct": 1.31
     },
     "ETH": {
-      "priceHkd": 19728.11,
-      "changePct": 0.91
+      "priceHkd": 19710.54,
+      "changePct": 1.31
     },
     "SOL": {
-      "priceHkd": 794.82,
-      "changePct": 1.38
+      "priceHkd": 794.35,
+      "changePct": 1.6
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1085.78,
-      "priceUsdOz": 4307.6
+      "priceHkdPerGram": 1081.22,
+      "priceUsdOz": 4289.5
     },
     "Silver": {
-      "priceHkdPerGram": 15.97,
-      "priceUsdOz": 63.37
+      "priceHkdPerGram": 15.83,
+      "priceUsdOz": 62.79
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 809.4,
-      "changePct": 3.19
+      "priceHkd": 813.01,
+      "changePct": 3.65
     },
     "Natural Gas": {
-      "priceHkd": 22.74,
-      "changePct": 2.47
+      "priceHkd": 22.77,
+      "changePct": 2.58
     }
   },
   "news": [
+    {
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T16:58:27+08:00"
+    },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
@@ -71,16 +77,28 @@
       "time": "2026-09-14T16:07:08+08:00"
     },
     {
+      "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T15:52:00+08:00"
+    },
+    {
       "title": "'Culture shift' needed in how UK does business, PM urges",
       "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-14T15:39:43+08:00"
     },
     {
-      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - cnbc.com",
+      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T15:38:00+08:00"
+    },
+    {
+      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRUaEdubXhVTTVLMXM5MlptUG9lbmJNWUE5U3ZXeFVhVlJEOEc1by1pQXdkdXlGMURrOVdFTXh4cVRTaDBCM2p2emlVMkR6a0xqNkwxcGhWSE9icnpWaHl0b3hNM3FZTFQyQ2hUT3hhT0doakZBVEltX1hZY242c0c3Z3VjWUNCWF82OC1iZ1RTQkU2VUFUcHVnQkUxbFlid3liYjBOelZuVFA3UHcyV3laSdIBuAFBVV95cUxPc1FIWXY5QlZjX1NHU2ZzdDdvRXIyX044eDJlVWpQWGdEMFhlQjhrSkl0b1U0bDliUDNUUU92cDU4NnZsbWptdkk5dFROZS1VTEVFV0hKYm5KRlZraWdEM3JSS2NMa2p0SkI1dkU0RzRDOWNzZ2RucTJ2WUxnYkc1aERrT0NNYWk1ZW1xY3N0eF8xX3RPV2lUclNHN1l2VTNSUUpzamI2SDVIdDg1VU8wSmtTMDZNOFBH?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T15:27:54+08:00"
     },
     {
       "title": "Bali police investigate after Australian man and children found dead in home",
@@ -95,16 +113,22 @@
       "time": "2026-09-14T14:54:00+08:00"
     },
     {
-      "title": "Sweden’s centre-left leads by three seats as vote counting continues - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLWNGZ0tSU2NwdWVTamdONmZVd3lfcDFYd2Rfc05wVWN5T2pRSzBFS2Vsczk4Z0hyYjZKWXV1WmNvSmlwenFuNTdYQWdzdEE0RlM2TmlsbzRNalRyMzNCbUktMTF1OS1CeWs2OXh3N3BpeVpkYkdfeUlqcnFLaWhoSUd2MUdfOWtRUHlMSDlfUjEwTW1PYnMtRHJPcjNva2gwQi040gGoAUFVX3lxTFBidm5rWHhuSE83Mm1VV1BrdzllbzYzN1ZrQTh6ZnV0Rk9FcEdNVFNuOG1WWHBZNGFUaEJGYlhxSG9NWU93akU0VUw5dl9GNmY2cGFIZWlLa2NiVjBrV3FWeWZFcW82T0N6RmV0aWF6MGo2b0tqVVdYRDVWd0xMSzNKNXVDVXVfUHozV01yend1eTdxWU53RzFTN1lLeW5YNC1mdEx5ZHRiMw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T14:14:02+08:00"
-    },
-    {
       "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
       "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T13:34:13+08:00"
+    },
+    {
+      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - npr.org",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3ctWDZmSWhuWDdKeWp4NVhaVk9KR2s2eVZvcVo3Rk94d3V1a0JzbnkzSEl2WnpDREkyLW1xOWdscEVLME5ka0E4OGVJMkpFeng1U2NYd1BlbTRQeVgtUTh6WEVadnc5dzE2RUtreGZ5LW9kbWQ2aEtNMWZmUzVkWVNDTjJuUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T13:26:01+08:00"
+    },
+    {
+      "title": "Horoscope for Monday, 09/14/26 by Christopher Renstrom - SFGATE",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFJjVTJrSHk2ajMzMTJTSS1jVlhrZnZVeGlPOEZwX1I2OTZaekRFaWU3OUp4Y1p6bFJqUy04SmxVNEZHY25IWlJfdVNFMnA1QXZPT0UzRklEVks1ZE8yYjFqT0dLSG0wV0trMFFRRVh6RllRWXRkSXRxU1o5WUVMZ0hNTFV1dm55SndvcUk2VnBNMFpKTlo2MDMyekRLNVZLblE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T13:19:22+08:00"
     },
     {
       "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
@@ -113,16 +137,16 @@
       "time": "2026-09-14T13:16:00+08:00"
     },
     {
-      "title": "Diplomacy stumbles as meeting on Hormuz between Iran and Gulf states is postponed - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFpDcUszS05RQ2ZNUlJvamQwWnlud0s4RmZwbUxZTkRXME5BV2dKd1BaanpXYm1sNE5zSDR6M3lTQUdyMHIwVUJUMGlCM2FmUS1jQ1JuakNHZUVFXy0ta2JpRmxNZWl6ZmtPaGhVYm52TUFJekZLaVJtQmhvT0cwRUlURkFhVGVVbjZjTTBDX1BURG9URThqYlFtQ1dESHR2VHNwOGZyUEVLLVd1Q0tQNHVB0gG3AUFVX3lxTE9tN1A1RENDaG5OWl9jdDdRY2FVNm1Cb21WYXYtSTlSdGctZmFZV0luV1A5QlUyNkN1MU1BQi13YzJFRmdrbGJmc2pad0ZlbnRDT3FNWnFnTFBwSGt5U3Jaa0lpTVZVNEE3ckgydG04MUNsc3IyckREdXdzV2h2d1RQaVR3UjdWbHFyMF9DY1lic0NBWkc1TmhadGc3N1pMaE1yNmQ1NUx4YzljZ3pKbXM4VG95Z09Odw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T13:10:28+08:00"
-    },
-    {
       "title": "Food redistribution warehouse opens in east London",
       "link": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-14T12:56:54+08:00"
+    },
+    {
+      "title": "Matt LaFleur shredded by Packers fans after team collapses vs Vikings - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1l5OHhEejJwT2hJamlxR29ub3lyNjgxVENWbEhEVVdCUFYtSnZDcU1rOEhTZUEyaktOUnVkX2ZLZjNUUl95MHFpS0lsbHBkQkdmQ2toeDd6V0VJM0tIN1UxMDl2NHR3SGNyOG1CQnJyY0R0RkpMakdhTGNQMGpDa09BcDR6NU0zMUE3cTJNR3pHMTl6ZDVoZVN1cEZxMEtiZnBOQjY5aTRSMlNBVWdOXzRHbU9ZOWFaVnB6R3kxQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T12:44:00+08:00"
     },
     {
       "title": "Carney pitches Canada to global investors as Trump tries to pull investment south - AP News",
@@ -137,40 +161,16 @@
       "time": "2026-09-14T12:16:17+08:00"
     },
     {
-      "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
+      "title": "Trump resists AI slowdown as the political tide turns - washingtonpost.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T12:10:56+08:00"
     },
     {
-      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - reuters.com",
+      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T12:04:00+08:00"
-    },
-    {
-      "title": "LDP-backed Genta Koja wins Okinawa governor poll - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczFMY2RfRnpJX3pUcHBnVm40ekVPVHBFTWlqVUt2cEk1c202YnpraDBlVWUxc3Z1QTA3V24taUcySXhLMzdlelFDam9Db2U3WThpRlZqeVh1NC1uYkJhYW9VazBnTlJXczlkZnlzRlNBZUtpdGdtMXd4MnFZSXVpZFF3YTYzbE5DQ1daREhNc0lScUxUOG5rZg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T11:59:46+08:00"
-    },
-    {
-      "title": "Why Trump's united Ireland stance hit such a nerve - axios.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T11:53:36+08:00"
-    },
-    {
-      "title": "Sunday Night Football: Jaxson Dart throws three TDs, Giants beat Cowboys 28-20 - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTzJra0M0RzRGb2RCdWdxdUVjMGRBb2VrR3ZnZ1lNWTktTW1sSXdBUHZieTFDQ2g4eTNwVmYxQVdhY1Bldjc3S0YyeDV1UVN3d2pEemdsVlhtYlJjbmtZX2s2dDhDVm5VcWduWjRWcHJKQ2xSekE3aXlpNHFycmEzX3NOaU1UZ1pla05rMXZmalVubXF1ZmhOSWR5VmstMFFNZllSWWF4ZXlmWklzT3lHRTc0U01taWVJeFA4REVneWF0X3NiY2hXTEVxVlNfRFdweXZDbQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T11:41:04+08:00"
-    },
-    {
-      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T11:38:13+08:00"
     }
   ]
 }
