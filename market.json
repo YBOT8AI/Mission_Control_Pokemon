@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T16:29:08.041703+08:00",
+  "generatedAt": "2026-09-14T17:00:13.280129+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610053.92,
-      "changePct": 1.04
+      "priceHkd": 608854.4,
+      "changePct": 1.13
     },
     "ETH": {
-      "priceHkd": 19782.75,
-      "changePct": 0.51
+      "priceHkd": 19728.11,
+      "changePct": 0.91
     },
     "SOL": {
-      "priceHkd": 796.31,
-      "changePct": 1.13
+      "priceHkd": 794.82,
+      "changePct": 1.38
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1087.29,
-      "priceUsdOz": 4313.6
+      "priceHkdPerGram": 1085.78,
+      "priceUsdOz": 4307.6
     },
     "Silver": {
-      "priceHkdPerGram": 15.98,
-      "priceUsdOz": 63.41
+      "priceHkdPerGram": 15.97,
+      "priceUsdOz": 63.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 808.62,
-      "changePct": 3.09
+      "priceHkd": 809.4,
+      "changePct": 3.19
     },
     "Natural Gas": {
-      "priceHkd": 22.78,
-      "changePct": 2.61
+      "priceHkd": 22.74,
+      "changePct": 2.47
     }
   },
   "news": [
+    {
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T16:36:09+08:00"
+    },
     {
       "title": "Heading off to uni? Here's what to insure against theft",
       "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
@@ -71,7 +77,7 @@
       "time": "2026-09-14T15:39:43+08:00"
     },
     {
-      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
+      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - cnbc.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T15:38:00+08:00"
@@ -83,10 +89,10 @@
       "time": "2026-09-14T15:15:35+08:00"
     },
     {
-      "title": "More Than 120 Unaccounted for After Ferry Sinks in Indonesia - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObXN2R1ZXQWlvSENJWW12QVNKZW4xMk42OXkxMkk4MXAxRHM0aFhUd0xnTDQ3NlVCRktaVmg3SG81bndsOUJDMlNrcFlKRm1fTFN5UklNRlhkQkhicTR4X2c0N0hYYVhsZDU3UkMxM0xSNVRIZU5NMzhzVG5aSFNzZUp0cFBEVm8?oc=5",
+      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ZTJlalBrQ3loSnZ3Mi1lVFI4eHZRbVRNeDZXS1g1bG43X2diOXdKRXZYUFd5RlBQdl90YWVGdWRpT3BtR3JRaWZ0NnBIUmo3ek5hVk1nMWNUUDQ4N2RHN0xwb3BmSjE4OVJYbG1NcHJGMUFDZGFlLVpobHptckk?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T14:51:10+08:00"
+      "time": "2026-09-14T14:54:00+08:00"
     },
     {
       "title": "Sweden’s centre-left leads by three seats as vote counting continues - Al Jazeera",
@@ -95,28 +101,22 @@
       "time": "2026-09-14T14:14:02+08:00"
     },
     {
-      "title": "John Harbaugh: Giants' win over Cowboys in debut 'really special' - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0VlbUUwekMybG94MDVfUHotcnBnOHl6OGh2bm5qZzA4aDRYeDVVVmJCbENJR1hGZlZZQWxFUFNCYlpVaTlWdWVBVUpZVGhIeFVsaTRnY0cxRVU3Tm9ycm83SnJqeGV2clhZZGZGUjF3Z2hzdXMtUFB5dkp2S1RiR2c2YTI2LVMzSHNVaXJLZDVKeWVRZ1JWVm1aQ3B6S1k?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T13:54:00+08:00"
-    },
-    {
-      "title": "NFL results: Chicago Bears, Buffalo Bills & Baltimore Ravens win on record-breaking Sunday - BBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRnJSRDlaVkl6UnVzd3phTmZNR2ZKOEt4N1kzd295N1ZZbFVxM1prLXpHRlNCSzBmWldZREd5cGlnUEt4QlZ0MHdtRDJEN0U0NTlNbEVtZnNuZEpoNjM3Y0ZiWFdLRXNEUUJGa1lRY1BZYnc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T13:36:07+08:00"
-    },
-    {
       "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
       "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T13:34:13+08:00"
     },
     {
-      "title": "LA Clippers owner Steve Ballmer apologizes over team sanctions - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdVh6ODU3SXBRSm9yMmRaWE1QN3hJbGx5TjBrOW0tdThtdXJvSkhqcTBwcGtJWkpRaWxFam50Wnh3QUhmc242dFppYm1TQkxZUVpZSnJUR1NTcWJkTVdlY2VYUEUxVGlING1FZ3Z0ZkJHRmZjRG1qalNUc2xKRmd3dUR0ZFdzOWZBZnJaOHByODHSAZYBQVVfeXFMTUcxblAxdnBzejFJMkxBeEJnWFltdzBSSXJWSW1TMDFaY19mNEVFLVNvM3NmZEQwY0txTGlCV0RXWDVYbkxRUVZZRkNLbzFpNVZiVWpjbGpCSU1uZmdYS1hfYkdSb2JxUC1BMlhMTTY1WGc2ZE9iMmRGWTBaUmxtWEFJRUVNU2xEZTg2T2ZjOHFxaDBkNnJB?oc=5",
+      "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T12:58:46+08:00"
+      "time": "2026-09-14T13:16:00+08:00"
+    },
+    {
+      "title": "Diplomacy stumbles as meeting on Hormuz between Iran and Gulf states is postponed - The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaFpDcUszS05RQ2ZNUlJvamQwWnlud0s4RmZwbUxZTkRXME5BV2dKd1BaanpXYm1sNE5zSDR6M3lTQUdyMHIwVUJUMGlCM2FmUS1jQ1JuakNHZUVFXy0ta2JpRmxNZWl6ZmtPaGhVYm52TUFJekZLaVJtQmhvT0cwRUlURkFhVGVVbjZjTTBDX1BURG9URThqYlFtQ1dESHR2VHNwOGZyUEVLLVd1Q0tQNHVB0gG3AUFVX3lxTE9tN1A1RENDaG5OWl9jdDdRY2FVNm1Cb21WYXYtSTlSdGctZmFZV0luV1A5QlUyNkN1MU1BQi13YzJFRmdrbGJmc2pad0ZlbnRDT3FNWnFnTFBwSGt5U3Jaa0lpTVZVNEE3ckgydG04MUNsc3IyckREdXdzV2h2d1RQaVR3UjdWbHFyMF9DY1lic0NBWkc1TmhadGc3N1pMaE1yNmQ1NUx4YzljZ3pKbXM4VG95Z09Odw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T13:10:28+08:00"
     },
     {
       "title": "Food redistribution warehouse opens in east London",
@@ -143,34 +143,34 @@
       "time": "2026-09-14T12:10:56+08:00"
     },
     {
-      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
+      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T12:04:00+08:00"
+    },
+    {
+      "title": "LDP-backed Genta Koja wins Okinawa governor poll - The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczFMY2RfRnpJX3pUcHBnVm40ekVPVHBFTWlqVUt2cEk1c202YnpraDBlVWUxc3Z1QTA3V24taUcySXhLMzdlelFDam9Db2U3WThpRlZqeVh1NC1uYkJhYW9VazBnTlJXczlkZnlzRlNBZUtpdGdtMXd4MnFZSXVpZFF3YTYzbE5DQ1daREhNc0lScUxUOG5rZg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T11:59:46+08:00"
+    },
+    {
+      "title": "Why Trump's united Ireland stance hit such a nerve - axios.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T11:53:36+08:00"
+    },
+    {
+      "title": "Sunday Night Football: Jaxson Dart throws three TDs, Giants beat Cowboys 28-20 - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTzJra0M0RzRGb2RCdWdxdUVjMGRBb2VrR3ZnZ1lNWTktTW1sSXdBUHZieTFDQ2g4eTNwVmYxQVdhY1Bldjc3S0YyeDV1UVN3d2pEemdsVlhtYlJjbmtZX2s2dDhDVm5VcWduWjRWcHJKQ2xSekE3aXlpNHFycmEzX3NOaU1UZ1pla05rMXZmalVubXF1ZmhOSWR5VmstMFFNZllSWWF4ZXlmWklzT3lHRTc0U01taWVJeFA4REVneWF0X3NiY2hXTEVxVlNfRFdweXZDbQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T11:41:04+08:00"
     },
     {
       "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T11:38:13+08:00"
-    },
-    {
-      "title": "Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T11:25:00+08:00"
-    },
-    {
-      "title": "Pennsylvania woman died from complications of probable measles case, coroner says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T11:06:00+08:00"
-    },
-    {
-      "title": "Amazon pauses work with cargo firm after fatal crash",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-14T10:40:06+08:00"
     }
   ]
 }
