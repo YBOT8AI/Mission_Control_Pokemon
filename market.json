@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T18:02:15.619220+08:00",
+  "generatedAt": "2026-09-14T18:33:21.287281+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612539.2,
-      "changePct": 1.76
+      "priceHkd": 611026.08,
+      "changePct": 1.56
     },
     "ETH": {
-      "priceHkd": 19786.51,
-      "changePct": 1.59
+      "priceHkd": 19725.44,
+      "changePct": 1.44
     },
     "SOL": {
-      "priceHkd": 799.37,
-      "changePct": 2.12
+      "priceHkd": 797.72,
+      "changePct": 1.98
     }
   },
   "stocks": {
@@ -33,25 +33,43 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1079.45,
-      "priceUsdOz": 4282.5
+      "priceHkdPerGram": 1081.97,
+      "priceUsdOz": 4292.5
     },
     "Silver": {
-      "priceHkdPerGram": 15.8,
-      "priceUsdOz": 62.67
+      "priceHkdPerGram": 15.87,
+      "priceUsdOz": 62.95
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 806.34,
-      "changePct": 2.8
+      "priceHkd": 804.31,
+      "changePct": 2.54
     },
     "Natural Gas": {
       "priceHkd": 22.74,
-      "changePct": 2.47
+      "changePct": 2.44
     }
   },
   "news": [
+    {
+      "title": "Stock futures fall as investors weigh calls for AI slowdown, oil gains: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T18:21:00+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T17:08:00+08:00"
+    },
+    {
+      "title": "Here's how to catch up on sleep, the right way - BBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnRTTU5PNGxzbVgteHdDc3F3cU9OdnZoM3BvZVR5SC1rcHFhMTJKcDlhVENENGdkZ2NZdGh5VHNmVjhyVFdLYzFnS2pqLU12OXY2cXljUDI4U1V3Zmg4WC0xZkhBdk5hbjhlMzNtdnZyVC1lNC1MYmpqY1NUbUNNcDlrQmZJWnd0MFJKX3N5ellDaE94WnkyVzBR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T17:00:56+08:00"
+    },
     {
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
       "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
@@ -65,7 +83,7 @@
       "time": "2026-09-14T16:36:09+08:00"
     },
     {
-      "title": "Global AI stocks slip on concerns over risks - Financial Times",
+      "title": "Global AI stocks under pressure as safety fears erupt - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T16:26:15+08:00"
@@ -83,7 +101,7 @@
       "time": "2026-09-14T16:07:08+08:00"
     },
     {
-      "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - apnews.com",
+      "title": "GOP congressman from Wisconsin tearfully recounts surviving emergency plane landing in lake - AP News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSi1MWjIxVEdEOGRaalhNcXVWN1gzUVdZai1HX1BiQzJLeVFvYjd1RC1xZlU4SHJjOFpFUDE0aDE5eU5INWFpRzFLWjQxLXIwN3V0ZVhYSDgxZkIzdjRTN3BVNDZaQkxFTVhtYUJvSEhXeTVTWVZQVVE2bkJNZXo1RlRQeTZmMEt1TXNvdlBIUVdNcUEyQnBaejd4bXVXOUpjbmdn?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T15:52:00+08:00"
@@ -95,7 +113,7 @@
       "time": "2026-09-14T15:39:43+08:00"
     },
     {
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - Al Jazeera",
+      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRUaEdubXhVTTVLMXM5MlptUG9lbmJNWUE5U3ZXeFVhVlJEOEc1by1pQXdkdXlGMURrOVdFTXh4cVRTaDBCM2p2emlVMkR6a0xqNkwxcGhWSE9icnpWaHl0b3hNM3FZTFQyQ2hUT3hhT0doakZBVEltX1hZY242c0c3Z3VjWUNCWF82OC1iZ1RTQkU2VUFUcHVnQkUxbFlid3liYjBOelZuVFA3UHcyV3laSdIBuAFBVV95cUxPc1FIWXY5QlZjX1NHU2ZzdDdvRXIyX044eDJlVWpQWGdEMFhlQjhrSkl0b1U0bDliUDNUUU92cDU4NnZsbWptdkk5dFROZS1VTEVFV0hKYm5KRlZraWdEM3JSS2NMa2p0SkI1dkU0RzRDOWNzZ2RucTJ2WUxnYkc1aERrT0NNYWk1ZW1xY3N0eF8xX3RPV2lUclNHN1l2VTNSUUpzamI2SDVIdDg1VU8wSmtTMDZNOFBH?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T15:27:54+08:00"
@@ -125,13 +143,7 @@
       "time": "2026-09-14T13:26:01+08:00"
     },
     {
-      "title": "Horoscope for Monday, 09/14/26 by Christopher Renstrom - SFGATE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWFJjVTJrSHk2ajMzMTJTSS1jVlhrZnZVeGlPOEZwX1I2OTZaekRFaWU3OUp4Y1p6bFJqUy04SmxVNEZHY25IWlJfdVNFMnA1QXZPT0UzRklEVks1ZE8yYjFqT0dLSG0wV0trMFFRRVh6RllRWXRkSXRxU1o5WUVMZ0hNTFV1dm55SndvcUk2VnBNMFpKTlo2MDMyekRLNVZLblE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T13:19:22+08:00"
-    },
-    {
-      "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - apnews.com",
+      "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T13:16:00+08:00"
@@ -143,34 +155,22 @@
       "time": "2026-09-14T12:56:54+08:00"
     },
     {
-      "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - apnews.com",
+      "title": "Matt LaFleur shredded by Packers fans after team collapses vs Vikings - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1l5OHhEejJwT2hJamlxR29ub3lyNjgxVENWbEhEVVdCUFYtSnZDcU1rOEhTZUEyaktOUnVkX2ZLZjNUUl95MHFpS0lsbHBkQkdmQ2toeDd6V0VJM0tIN1UxMDl2NHR3SGNyOG1CQnJyY0R0RkpMakdhTGNQMGpDa09BcDR6NU0zMUE3cTJNR3pHMTl6ZDVoZVN1cEZxMEtiZnBOQjY5aTRSMlNBVWdOXzRHbU9ZOWFaVnB6R3kxQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T12:44:00+08:00"
+    },
+    {
+      "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T12:41:00+08:00"
-    },
-    {
-      "title": "Mercury is shrinking much more than scientists realized - Mashable",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFUjlNMUpiRXVPY1haN3VvRjk1MGNoU3dxb01sSjEwYmNJZTl6NmYwdlVLai1TWndJT0hOT2N6dG04RzA5SUg0OUZuZllvV1NHVGY0RzRtZ0VqcnJMZVVpVlk2clZNbXZncTJIX21JTDJUdTA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T12:16:17+08:00"
     },
     {
       "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T12:10:56+08:00"
-    },
-    {
-      "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T12:04:00+08:00"
-    },
-    {
-      "title": "LDP-backed Genta Koja wins Okinawa governor poll - The Japan Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczFMY2RfRnpJX3pUcHBnVm40ekVPVHBFTWlqVUt2cEk1c202YnpraDBlVWUxc3Z1QTA3V24taUcySXhLMzdlelFDam9Db2U3WThpRlZqeVh1NC1uYkJhYW9VazBnTlJXczlkZnlzRlNBZUtpdGdtMXd4MnFZSXVpZFF3YTYzbE5DQ1daREhNc0lScUxUOG5rZg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T11:59:46+08:00"
     }
   ]
 }
