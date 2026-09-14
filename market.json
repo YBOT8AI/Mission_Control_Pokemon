@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T11:49:45.905568+08:00",
+  "generatedAt": "2026-09-14T12:20:47.821161+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 607748.96,
-      "changePct": 0.43
+      "priceHkd": 607913.6,
+      "changePct": 0.4
     },
     "ETH": {
-      "priceHkd": 19672.21,
+      "priceHkd": 19688.44,
       "changePct": -0.44
     },
     "SOL": {
-      "priceHkd": 790.59,
-      "changePct": -0.79
+      "priceHkd": 791.13,
+      "changePct": -0.84
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1091.91,
-      "priceUsdOz": 4331.9
+      "priceHkdPerGram": 1091.63,
+      "priceUsdOz": 4330.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.15,
-      "priceUsdOz": 64.05
+      "priceHkdPerGram": 16.14,
+      "priceUsdOz": 64.03
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 809.17,
-      "changePct": 3.16
+      "priceHkd": 807.28,
+      "changePct": 2.92
     },
     "Natural Gas": {
-      "priceHkd": 22.67,
-      "changePct": 2.12
+      "priceHkd": 22.65,
+      "changePct": 2.05
     }
   },
   "news": [
@@ -59,10 +59,28 @@
       "time": "2026-09-14T11:38:13+08:00"
     },
     {
+      "title": "Committee calls for bill to address AI threat to human rights",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-14T11:23:54+08:00"
+    },
+    {
+      "title": "Pennsylvania woman died from complications of probable measles case, coroner says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T11:06:00+08:00"
+    },
+    {
       "title": "Amazon pauses work with cargo firm after fatal crash",
       "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-14T10:40:06+08:00"
+    },
+    {
+      "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, Republican senators say - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV084Tm9mTUhuZ1Z4bm9OOGFwM1BQeF9zcVltcTRVcHVDanNpRWtOZW1KNWlRRUNzWnp6djFDaUI4YTBxT1ptMy1HR2ZPRnNkUndVd0xwc0lIdXJCNmRtZUZpSFBpMEtkRU1YYm5NblA2aW1FMWt1dXJNNk9xWE4zWlBqM3RDSUUwV096bVhzX1J2WFFYdnpDZDdn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T10:37:00+08:00"
     },
     {
       "title": "Hayden Panettiere's boyfriend Brian Hickerson detained, his brother arrested - USA Today",
@@ -71,16 +89,10 @@
       "time": "2026-09-14T10:25:00+08:00"
     },
     {
-      "title": "Pennsylvania woman died from complications of probable measles case, coroner says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdGlfcUptR19DWXJLQ2hrWURiOEJrejA3dW9zR09GbDFtNFZDOS02dkF6dFJyQzBBdlZMSTJlMERfSmNIRG5VNW5sWU9oNWIyY1NlZWpySy1qX0lmZFU3ZUViLTl6T3k0emJ5LURZS0dpajJHZ041YTJZWnoxa0xJNm9GQjd6bFBLaDlTS2Fsci1MdU45RmtEZGxVVzhFWGFsdFZaQ1hZaTV2XzFwOVJTUWpZcWZTRTQtWk9LWHJaQQ?oc=5",
+      "title": "Russia Is Churning Out Smart, Cheap New Weapons Faster Than Ukraine or the U.S. - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVjVuQ2VWNEU4TU9fY3pfYjVvSHZ3amJvd2UtUDFPS0lsbzdTYnJpRjZ1aDAxTDZBMnVfV3hhRHRsVHJxdzl6eXlwVjhUZWlFUUhrVVg3ZDYyWHVwZjBIQjVCS09TWll5eXZ5LWlMbkhUYVF3MXhPOWh6cU8yNEVMckk3VzlsVklwRFA3Yi01UWZMY2VrY3V5YnNxdktmNkdnNFNib09GUVlWeXZKMG9HSHZR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T10:19:34+08:00"
-    },
-    {
-      "title": "Trump agrees to new bipartisan ethics provision in massive crypto bill, GOP aide says - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV084Tm9mTUhuZ1Z4bm9OOGFwM1BQeF9zcVltcTRVcHVDanNpRWtOZW1KNWlRRUNzWnp6djFDaUI4YTBxT1ptMy1HR2ZPRnNkUndVd0xwc0lIdXJCNmRtZUZpSFBpMEtkRU1YYm5NblA2aW1FMWt1dXJNNk9xWE4zWlBqM3RDSUUwV096bVhzX1J2WFFYdnpDZDdn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T10:08:00+08:00"
+      "time": "2026-09-14T10:00:00+08:00"
     },
     {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
@@ -89,28 +101,16 @@
       "time": "2026-09-14T09:58:59+08:00"
     },
     {
-      "title": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVY4V2tRb2J6d3pfaDRmOVhyazVfMkVpaXpqZTV5WmdxRlAzQzEtaTYzMjVvMkh0X2E1OVRQa1U0NkE5SEVOU1J0dnRmakpxalQydWpaWlQzOHAxaXNITjVYNkdyU1RZLV9PdXlmZHpYRDNORGs5Z3FmZVBUcVJZQU8yZDZJb0xSX2xFd2ItSU9idlFLaWdjaA?oc=5",
+      "title": "Air Force officer recalls ‘free-falling’ after jet was shot down over Iran - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFFucjM5NU9vaUJObkFteWRGLS1rMWIxT0g3NVA2bHBOYzdZdXBJNVpwaE5vaDVyZ2RRY09TMjVBWFZsUU9wNThoNVNkazZLeWVuLVc0MWNzQmR6SHFZcTBIRkpCUFBLdjQ2cjI0OERGV3JadzdVc19JN1o3Z1NnaURZc2hVbVpOcWlwUVlGaUg0Q18tUUNpd3ByaDZCS0RWMUhj?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T09:28:00+08:00"
+      "time": "2026-09-14T09:51:00+08:00"
     },
     {
       "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T09:17:00+08:00"
-    },
-    {
-      "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T09:04:20+08:00"
-    },
-    {
-      "title": "US aviator shot down over Iran recalls 'free-falling' in first interview since rescue - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oLTJpQ19zckFPRzVHTTJzeFFpLXA3UDk0a3FHSkw2eWl2bHpBaFl0Z1dXVXdBTDAzLWg1VFRONDlZbE1PUTdoNDd6bFFlWEM2czhWVU13eS1MUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T09:00:30+08:00"
     },
     {
       "title": "Amazon suspends use of 21 Air, cargo carrier involved in fatal Miami crash - NBC News",
@@ -137,22 +137,28 @@
       "time": "2026-09-14T08:15:00+08:00"
     },
     {
+      "title": "Packers melt down in fourth quarter, Vikings pull off 39-22 victory - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ3ZFWnFFREU1UjNyU25JUjYyWTRBUlBPR1J0MEJpTXE3ZWFTanU2aHJzUWpscmQ2UDNUbE1lenBjUkFOSjBxeXVRalFHS3Y4d0RqWk13ZmswUno1ejliQ1kzdXhhOHd2ZnlnQkxMamItdFVyTjlJZHhzVkw3RTU3SU5meThuMTNROHZpMkFjdHdxbkpJU1VYWjByYk9UZGNTdW5wLU5PS2dlUVZxbjdDOG5QWEpSWXdaOXFFbmhmdExMRV9MbzNJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:50:54+08:00"
+    },
+    {
       "title": "How to protect your laptop, phone and bike from thieves at uni",
       "link": "https://www.bbc.co.uk/news/articles/czezwd6xw0zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-14T07:39:32+08:00"
     },
     {
-      "title": "Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN",
+      "title": "Tom Tiffany's plane forced to make emergency water landing after campaign event - wisn.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T07:32:00+08:00"
     },
     {
-      "title": "iOS 27 Available Tomorrow With These 8 New Features - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50QktMNEpUcGU1WGFfM2FsVjhwYjlRZVV5bDRCVWJMLWFhcF8yZzJ2MDloVkpRdEdPdkNYYm1NTl9BTWZ4cHNUczU2SVJJWExUczh0M3Q0WlppYkV2bkJjQ0dYQUJheFZac0NOa19vTlZmazRCWjlPY283Ujg?oc=5",
+      "title": "Alexander Zverev overtakes Ben Shelton to win U.S. Open final - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzA1Q0NIajljZzEzby1JakQ5N05CUXJBYVhNRWVaanp0RHF3MnVfMUxUTHBvM2o5MGxjMFBkSGY1ZEdKU09uUUg4TFk4TkxXMUlqWjN0MW53RWtISXFxUDIwZnJINDduVUdwTWlWOENLSzBxcEhCREJFaThudjk0bGs5VW4taGtvQ1VhcnFMQWc5cmM0UjMwWnh2SmNONURuWlFmZTR4WlU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T07:30:07+08:00"
+      "time": "2026-09-14T07:17:32+08:00"
     },
     {
       "title": "‘Practical Magic 2’ bests ‘Spider-Man’ and ‘The Odyssey’ at the box office, but fails to conjure profit - Entertainment Weekly",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWxjS0c4MU9yTVBqWVBaODRVNzh4ZW1FRjlUMTJnNjh3bmxpdHJZZWpBRjEwMjZKaWZMeWEtUEJjbkJycWl3REdIS24tSXN4X1FTVUZGeVEyc2Y0TlQ5X3VDdlMtWjhFbnVNbm1DeXR5dWZxX0tCeW0wMDZOeE9ZNk1zTkMxY1lnNUNFRFFiOTFKNm0wTUJMVzdlNFdscW9PbUE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T07:12:00+08:00"
-    },
-    {
-      "title": "New York Jets vs. Tennessee Titans Live Score and Stats - September 13, 2026 Gametracker - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTEg0S0FxUUVKd2ZSSUpRbmNDRGtQTGVZMVJTeUljVGpaNDNMMkg0OHhQQk5hMWp3M2xXODczby1GUGtFOGNQdHI3VDZfNnJsR3h4X0RxOTZIQnBoUE5KVTJmQmphUlRYZEVVbXBuV0t2T3ZEbUVmeg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T07:06:31+08:00"
     }
   ]
 }
