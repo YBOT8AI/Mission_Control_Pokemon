@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T18:33:21.287281+08:00",
+  "generatedAt": "2026-09-14T19:04:25.116766+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 611026.08,
-      "changePct": 1.56
+      "priceHkd": 610304.8,
+      "changePct": 1.58
     },
     "ETH": {
-      "priceHkd": 19725.44,
-      "changePct": 1.44
+      "priceHkd": 19698.0,
+      "changePct": 1.58
     },
     "SOL": {
-      "priceHkd": 797.72,
-      "changePct": 1.98
+      "priceHkd": 797.8,
+      "changePct": 2.15
     }
   },
   "stocks": {
@@ -33,30 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1081.97,
-      "priceUsdOz": 4292.5
+      "priceHkdPerGram": 1083.21,
+      "priceUsdOz": 4297.4
     },
     "Silver": {
-      "priceHkdPerGram": 15.87,
-      "priceUsdOz": 62.95
+      "priceHkdPerGram": 15.89,
+      "priceUsdOz": 63.05
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 804.31,
-      "changePct": 2.54
+      "priceHkd": 802.74,
+      "changePct": 2.34
     },
     "Natural Gas": {
-      "priceHkd": 22.74,
-      "changePct": 2.44
+      "priceHkd": 22.69,
+      "changePct": 2.23
     }
   },
   "news": [
+    {
+      "title": "Left edges ahead in Swedish election thriller - politico.eu",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdl9lcXpiN0RIbV9KTC0wQVlFMHF6eWU2U0p1cnVlTXI3SEZqaXhLRmdoV0c2VUlMUWtQN2tOenduLU9ybWU1aHdvUXVSbHJzWDBGRUliMlpCeDkyZGd1dHZjVzRwSDJrNWFUalpZZGhVQlcySzhITE5LaFI5cWlDdi05eWk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T18:37:06+08:00"
+    },
     {
       "title": "Stock futures fall as investors weigh calls for AI slowdown, oil gains: Live updates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T18:21:00+08:00"
+    },
+    {
+      "title": "Garcia vs Benn: Conor Benn unsure on future after defeat - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCODhUWkVsXzlUZzE1SHNQbHVvaWVWamNQN0oxcWdTem5ycGdXOXQ3MzJ1Zk9sRWh3dGtpUHM4OThWeFF5RW9DblJyUUpLbEtzekRid2xXSmlNNGFqdENSbGpQM2c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T17:37:36+08:00"
+    },
+    {
+      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnh0RURESW5RRmc3NlJrdUgxRV95V0pCSkJvY2szWi04YnhjRkY0N0xtT3RQeXp3d0ZBc05wMURvRGtlNUVNakNpdzh6dEVpSUdVem13ZzlhN2ttYXdOZXVWNmxYdEd1Q3l5NjV1TFRJUkxTa3hoMzNZNzY2Q3pfalkxY0JkVEpVa1FJNDhaM0lNRDQyYzZaRFJMSWVPLURKZ01wUDRYUnZwUm9WdWRUSmlpbDRKcm5MdEc3VWhkMW1odV9hV1YyOV9oOXM1QUZreGxJcF9Vd3Fldw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T17:36:37+08:00"
     },
     {
       "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
@@ -71,22 +89,34 @@
       "time": "2026-09-14T17:00:56+08:00"
     },
     {
+      "title": "How Healthy Are Sardines? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdnZCdEZiOHVOaEVUc1E1WExXdlJweUI0aEVHQWdDQ1VORzJ6Xy1pak5oX1lwVllyMmpyNzFVWkx2NVZWRUhaR3AxMXBlS0d1d3QyVmlwZTVGTDBhaGJBdEhXWWdoSndFZXFOQjNkN1hJR2gyal8zOU5LYS14MTlMNlhLdWZwTnFr?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T17:00:18+08:00"
+    },
+    {
       "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
       "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T16:58:27+08:00"
     },
     {
+      "title": "Brian Schottenheimer: As a football team, Cowboys were pretty poor - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19vWkNIMUloWU1BdHhRLVdCamVtVnhWR1dFN0xXUHQ5anNxVTE4c0stTWZ1S3JTQ0tqaFQ2a1dQQmlWS2NNUVFrMFZTZjJGSXJtSXg2MzNwX0FSMXVrUEVhblR3ajlKd2lNejNXZ1VQaldPZHJ4QlZqWFJkWG1Vbmp6ZkszaFI2bXI2NGd0MW1uNDdyX21xUlJsT0pOYkx0LXNJRHo2R2RJOGdhLTdBdTNFVG5kT2ZaTG5CaHZCX2M4YVVR?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T16:55:21+08:00"
+    },
+    {
+      "title": "NVIDIA Intros RTX PRO 5500 Blackwell Graphics Card, Features Same Core Count As The 5090 But With 2.6x The VRAM - Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVGY5aGtYbVRucE84SXpHRFVSZGtXZVhWdGIybXJfQlNEazdsNjZHVm5qQVRnT0NaSEVaOHk2NGxGLWZUU243OXpFbU8wRzFzN3FEQklXeV9JZFJQanVNMHZvYnJaRHZRUXVrd0QtbVk1X0ZFMno3V2w1bkFSa3VnT0tCWXJqU0h1OGZvUXhoNVJkTzQtUFQzdkJXRUhhUdIBowFBVV95cUxOVFMzVl9lRXpPLXZVOEJ0Z3Baa1dFeF9VRXcyQ2wyRzQwTmd3TFZSNkNhLTdaTDBYU0IxYk9CSmRGNFIweXJDV21xdjh5SzBoZEU2ZlFrcHFMdU5kaTlLQjlpb3ZNcFpDdi1iZDJKMHRyUTBOQkFLV1o2b25FMkhrTWJtdFVUZ2RERkxhaW81Uk5zMkZkTzVKdHRadDMyU1RwNkpB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T16:45:07+08:00"
+    },
+    {
       "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T16:36:09+08:00"
-    },
-    {
-      "title": "Global AI stocks under pressure as safety fears erupt - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWtoSDV4bG9HZm83MmNTZ1BaT003NTM0ckdUNFBVRlItZE04YnU4eGtlY1gxdmMyRnFfai1hbGY3cGg5SThhaTVTOXRtUnRNYW5QUUlfYVVQVmI3YklUUTdWVWZ0MEJHNTZPc2haMWdoMmpMeVFZcGVseGpVdENoLUhCdmk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T16:26:15+08:00"
     },
     {
       "title": "Heading off to uni? Here's what to insure against theft",
@@ -113,7 +143,7 @@
       "time": "2026-09-14T15:39:43+08:00"
     },
     {
-      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - aljazeera.com",
+      "title": "Philippines’ Muslim-majority Bangsamoro region votes for first parliament - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDRUaEdubXhVTTVLMXM5MlptUG9lbmJNWUE5U3ZXeFVhVlJEOEc1by1pQXdkdXlGMURrOVdFTXh4cVRTaDBCM2p2emlVMkR6a0xqNkwxcGhWSE9icnpWaHl0b3hNM3FZTFQyQ2hUT3hhT0doakZBVEltX1hZY242c0c3Z3VjWUNCWF82OC1iZ1RTQkU2VUFUcHVnQkUxbFlid3liYjBOelZuVFA3UHcyV3laSdIBuAFBVV95cUxPc1FIWXY5QlZjX1NHU2ZzdDdvRXIyX044eDJlVWpQWGdEMFhlQjhrSkl0b1U0bDliUDNUUU92cDU4NnZsbWptdkk5dFROZS1VTEVFV0hKYm5KRlZraWdEM3JSS2NMa2p0SkI1dkU0RzRDOWNzZ2RucTJ2WUxnYkc1aERrT0NNYWk1ZW1xY3N0eF8xX3RPV2lUclNHN1l2VTNSUUpzamI2SDVIdDg1VU8wSmtTMDZNOFBH?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T15:27:54+08:00"
@@ -125,52 +155,22 @@
       "time": "2026-09-14T15:15:35+08:00"
     },
     {
-      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - MacRumors",
+      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - macrumors.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ZTJlalBrQ3loSnZ3Mi1lVFI4eHZRbVRNeDZXS1g1bG43X2diOXdKRXZYUFd5RlBQdl90YWVGdWRpT3BtR3JRaWZ0NnBIUmo3ek5hVk1nMWNUUDQ4N2RHN0xwb3BmSjE4OVJYbG1NcHJGMUFDZGFlLVpobHptckk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T14:54:00+08:00"
     },
     {
-      "title": "Hyrox athlete sparks debate for continuing race after soiling herself",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T13:34:13+08:00"
-    },
-    {
-      "title": "Amazon suspends use of 21 Air, cargo carrier whose plane careened off Miami runway - NPR",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY3ctWDZmSWhuWDdKeWp4NVhaVk9KR2s2eVZvcVo3Rk94d3V1a0JzbnkzSEl2WnpDREkyLW1xOWdscEVLME5ka0E4OGVJMkpFeng1U2NYd1BlbTRQeVgtUTh6WEVadnc5dzE2RUtreGZ5LW9kbWQ2aEtNMWZmUzVkWVNDTjJuUQ?oc=5",
+      "title": "US Kennedy Center faces bankruptcy, Washington Post reports - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0YyN2pLM0xvdmlhbm9KaW5xUHdyN2I4UzNmTk1VRVZiNFAtWDZLbTlFTWJyUG9LcE8tZmFSbTJfNEJEdEdpUy1NN1FOaFNFNHdtY0RreFNYZWVfeW5wQ2xDczNEb3llUTU2cWF4OXhpdlRGeUxwQUdsTUxueFpzZFM2YVhhZUx5dHJoTXFLaTItUEptV1Q3cG92M3hLVVdh0gGmAUFVX3lxTFBOazR3MGhNZ0k2QzdXT0d1T1hsM2I0aEMtLWVPMkVpNGg4OUVJTE5JR05pbF9JeHBMLTFNYlBvdTlSTUMtZHgyek5TTEVkV3JOY0NtQUY2LVplXzZMUlJyLXpBVDl1bHVUNGNIelhEVzYwZ3k4YmEtZkpTaWx5UjZNdzNPSF8yVFpyaGYzdnlKMHQtd2RkY2J3VWlVREZBbW40RHJEN0E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T13:26:01+08:00"
+      "time": "2026-09-14T14:53:08+08:00"
     },
     {
-      "title": "Second federal judge freezes Trump mail ballot order with US Supreme Court poised to weigh in - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWjBDdzh4RjVfSHgyVUQ2dUlIbVN6MlNkNUdjRXRIQmxmcEttcm0yU0NQbHJTOGdiTm5zVVk3eGRheXQxbVJvNndsZFBEOE9MTGhKNjdmVEJSN2VjMmUwSExST1JmbEdUc2J6SFRZV2ViTExURTRDcEFzaFo1eExCdVdPY0JxOG9iRkhIWDU3MUdSTHI5QTh2LVVTcGwwRXIzUWtyRg?oc=5",
+      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through - NPR",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSHp1SnFvZVg2SktUeEotcTFReFVvaGo3cTRVbUZTc1ByS3VNN0RmTm02ZU1SYmdFTUdxbTljOEdqZTl3UklXY193RHFoX3dLYmFpd0N3dWc3dlEzU3BuR2l0MU1RMmIxM0pvTGQ0MWFZM3VoU2dYVTR6VHk?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T13:16:00+08:00"
-    },
-    {
-      "title": "Food redistribution warehouse opens in east London",
-      "link": "https://www.bbc.co.uk/news/articles/c87vywld028o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-14T12:56:54+08:00"
-    },
-    {
-      "title": "Matt LaFleur shredded by Packers fans after team collapses vs Vikings - Milwaukee Journal Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1l5OHhEejJwT2hJamlxR29ub3lyNjgxVENWbEhEVVdCUFYtSnZDcU1rOEhTZUEyaktOUnVkX2ZLZjNUUl95MHFpS0lsbHBkQkdmQ2toeDd6V0VJM0tIN1UxMDl2NHR3SGNyOG1CQnJyY0R0RkpMakdhTGNQMGpDa09BcDR6NU0zMUE3cTJNR3pHMTl6ZDVoZVN1cEZxMEtiZnBOQjY5aTRSMlNBVWdOXzRHbU9ZOWFaVnB6R3kxQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T12:44:00+08:00"
-    },
-    {
-      "title": "Fighting in Yemen intensifies, and Houthis launch more attacks on Saudi Arabia - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYmtucHBpX1JrQVh4ZVl5UDVCMER5bjYtb2NPcUVPZzFrZlZSZERNTjN3YTVKTDhxc3BzbkdMRS05YllDZ3VJeW03c2pRSHNmYkxKTnBWNE1IVm9VYndFdjZlQS0zck1zeUM0QTA4S0p5cUM5MTYxRjNxX052S2xOaXE1Ql9zYXBpc19SZThRR1VwVWpEbkFoNE1YMA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T12:41:00+08:00"
-    },
-    {
-      "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T12:10:56+08:00"
+      "time": "2026-09-14T13:46:26+08:00"
     }
   ]
 }
