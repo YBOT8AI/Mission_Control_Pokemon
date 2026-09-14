@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-15T02:19:03.805683+08:00",
+  "generatedAt": "2026-09-15T02:50:06.507068+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 618238.88,
-      "changePct": 1.95
+      "priceHkd": 621421.92,
+      "changePct": 2.47
     },
     "ETH": {
-      "priceHkd": 19842.49,
-      "changePct": 0.95
+      "priceHkd": 19928.97,
+      "changePct": 1.34
     },
     "SOL": {
-      "priceHkd": 807.83,
-      "changePct": 1.93
+      "priceHkd": 812.93,
+      "changePct": 2.46
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5493.29,
-      "changePct": -0.27
+      "priceHkd": 5495.06,
+      "changePct": -0.24
     },
     "SPX": {
-      "priceHkd": 59863.5,
-      "changePct": -0.28
+      "priceHkd": 59875.65,
+      "changePct": -0.26
     },
     "SPCX": {
-      "priceHkd": 1188.0,
-      "changePct": 0.21
+      "priceHkd": 1180.55,
+      "changePct": -0.42
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1087.12,
-      "priceUsdOz": 4312.9
+      "priceHkdPerGram": 1086.06,
+      "priceUsdOz": 4308.7
     },
     "Silver": {
       "priceHkdPerGram": 16.09,
-      "priceUsdOz": 63.83
+      "priceUsdOz": 63.82
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 793.41,
-      "changePct": 1.15
+      "priceHkd": 788.7,
+      "changePct": 0.55
     },
     "Natural Gas": {
-      "priceHkd": 22.71,
-      "changePct": 2.33
+      "priceHkd": 22.5,
+      "changePct": 1.38
     }
   },
   "news": [
@@ -59,16 +59,46 @@
       "time": "2026-09-15T01:49:19+08:00"
     },
     {
+      "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:47:07+08:00"
+    },
+    {
       "title": "Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:47:00+08:00"
     },
     {
+      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:43:00+08:00"
+    },
+    {
+      "title": "DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYllZY1dzaTFPNDRTdEdSSWU4cXBRR3hzWmtpYmpSSTZkb1JUbU9tTHlsOFUtVllvOXhoVE9XZzVnbnloTzhyc2NXRHlqZExmX3BuX2hScFNMcFIyeG1JSk5IUUtKV0d4YlM2ZUgxQlNmb2JBMkVMY3B6MkMwa3J2OWJTUURxWnhkM3htR0xLeU1aRWh1WkF3aDFQaGYwdkE4cmM3RHItSkZLU1Y3TW5HdlRTdGlRdXlBUjdYQ18xVy1qaHFROWc1LU1fSFk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:31:28+08:00"
+    },
+    {
       "title": "Donald Trump Jr. And Wife Defend Lavish Wedding ‘Gift’ From Russian Oligarch - Forbes",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGtqQmQwRTFaUDhVTTRoMHNoTUZWODFaejhtbkdSVkFkMnYzOHVqSWs3dXFuakFsdENrVmE4eF9sYmN1aUlSeTJBTGliMTdtNHRpbnY1YTJ6RllXQ29ROFZoeWdxcDlEYTFvMFZtXzV5XzNxNmVXUEl0dzdKcVU1U0dkcXBSc24yYm5LVTVrT2FBdXRfeGdiZk9fVzRaRkVBUmZmenlsUFBJU2tuLTQ2cWlMcC1wSlN5M01hZlV2Y0E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:31:00+08:00"
+    },
+    {
+      "title": "Senior Democrat pushes back against AI select committee - politico.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUYyQ3R2VFRpSEJlcUtuc3ZKdU03OEpMQzhnRFBkcGlyeEZ3UVlGVDVxMW4zMTI1YVo1MUJEM3IyUy12d3l5ZXVKV2JkTWQ4ZUU3MGJBZlFTNE92anZ4R1pmYVZKR1BpclM4N1hURUkwVmxYRHg1dUcyUUJDQTN1MGpSbDJNdUhYS3dGR0ZvaUxOd0JHWXM1QXRzWDM5MGxmU092NzRlMmNZRThWRlBwRW5SbjlYRk9WNldzWUJnZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:27:19+08:00"
+    },
+    {
+      "title": "Scientists searching for dark matter spot a signal that defies explanation - CNN",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdzlUdVY3TDNLVkhzT2VUVE40QVAxNDdmTUo3RThINFJfTW9WeVJmMzZZdlMzblNScTJiTVZVVVp3cGptZE1wX2NPYTV0RmlWLVZ2cmlGSVhjeWpBUmZGeWZzZ05fU1kzUVcyVnQ5LXRIVzI0Yk5iSV93Szg1ckxGeTAzWFdaVnJk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:23:38+08:00"
     },
     {
       "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
@@ -83,14 +113,14 @@
       "time": "2026-09-15T01:15:00+08:00"
     },
     {
-      "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNXaGMycFQ3Qmw0RVdfU3hoay16YmNvWXF0NTBGTUQyY3k5MU9hNDM2NEJpWGt3VVkwVHB6am5DVl9KUUQ0c1M2NXB2Y2c4R2tNOW50ZTcwdldBcThxRG1WR1Z6ZTJ2bHJTWGcxSVphR2JseFpCR0xja3VaNjdJSU1OUms?oc=5",
+      "title": "macOS Golden Gate Now Available With Siri AI, Visual Intelligence and More - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XZ2sxM2otT25IdDRCMk84MGZ5d0pWczVhOFZLdFlJbC1sbzRUUWxuX01QS0pOMVZqUW1BRDRLMUZkZDZuQWN6MFAxbnpRMnNkWmdzc1JDdjRkM1h2X2JyVlBnQ0owTlBNMll0ejl1aGpCUEducHBBelhn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:10:32+08:00"
+      "time": "2026-09-15T01:07:49+08:00"
     },
     {
-      "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkNhaHd0amg4WmQ5SW9FNmxKM0lkT2NpUDJaRjhHRHlGY09PMHBVOW9vbC05dDNSYkJQekNsUU5JbzdKMnBfUUxMd1lSbWx0NHhjbkZveGlXS1d1dU1GZi1WTWNjZlZZc0FRZkRMZ0hKMVRvUkZiRVYzR20wdUFsS0tUME9samNjQ1NsSTZRNUFWTi1XVjFCcTBCWDFsMU1yakFmRDZ3YnA3blJzY0lqWFFma2c3MUtiQnRJcXNFRlZSRFlLaERldlpOT1Y0UXlQRVp5VnpqNV80dHVuT2c?oc=5",
+      "title": "Valve’s Steam Frame costs $1,059 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOelJFX1lkVnRTd1dRMWNRYWo5X3Z4TWRBMDM1MEVWd0VkMTBNVmZDWnRQUTVBVEE3eGhmeGhGQldvRkhRUDFfd09kMjNYdWxDRnh6R0Z0TFJxaC0wQmgxSkZtVXR3dTY5QW1LODdRbWs2X1VNMDRub2J0X1J1M2hlVzRqV1JqdG5JMDRCcWlR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:00:00+08:00"
     },
@@ -99,6 +129,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T00:58:23+08:00"
+    },
+    {
+      "title": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG1LYnlQcGdra1ZfQXJyV1A0MVFPQlBNWlhNSHA3aGxkcjB2cUI0aGF2VUptQVpTT0hkbDN1eWJCWmZaMmhDVVpNUlZCOVhYM0ZsQ0VTaVowRE1SeVk4bXZxUWNnWFVHbEd5YUJwV0VjWncxTUVQN2V5cEJVbkM2LVR4QTRhWWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T00:55:10+08:00"
     },
     {
       "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
@@ -113,22 +149,16 @@
       "time": "2026-09-15T00:48:10+08:00"
     },
     {
-      "title": "Vance announces about 870,000 people suspected of defrauding COVID-era programs barred from future federal loans - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVld5OVgxX3dxZlJiQlJOZk16WE1uV3E0T0gxSjI3bDNJZ3FNVUtFM0JxbWc1VkhTczQ4Unhyb0h0SS1RVkVfR3RYOFBEMHhqXzJuX2xibHpXYmJmNWRPdjFNa2pocmtjNmRNYl9vekN3bDh5bzl3UVRlTDFGYUVtRWQ5d0tqQ3dQSFlIU3R2eFFaM2FVekE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T00:45:00+08:00"
-    },
-    {
-      "title": "Trump criticises AI boss who called for slowdown and says only guardrail needed is a 'smart president' - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aLW1RbW8xM1pIOUN4cHJQdDZ0Q3BCVGlxZUxRVTQyRzYwaWd4czdEME5vOTJZZ0I0cDFydmQxdXlxV3ZjQVdvc3hDNmFHd1NWSlJockRn?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T00:39:59+08:00"
-    },
-    {
       "title": "Stocks tumble after AI leaders warn that the industry should slow down - NBC News",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3I2OGpIV3NsWFp2UTNwaXJzSzBTUXdmZlRPdnZpUkxrN1B5b0dUbkVRYm1OTkZ3WWt4ZW5ZWFlQVmNULTJBMlJlUnhwWnFuNm1xY3JuUHZHSUs4UWN2WHFXTl9NNjVvdzNGTnFRa2llM3hkM1lpUGRvSnhVVnpvNlRRUFJYdXRnX3dvNW9fRjBXNEJQOXhzeUlKbnJnU3NYcF9iOE1RMUVSd1hTSTdidEx3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T00:39:03+08:00"
+    },
+    {
+      "title": "Russian Strike on Train Station Near Poland Is Seen as Warning to Kyiv’s Allies - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONE5GRm43eENLSWZIVDVrRm0xbHQzbkQwS05qQ3g0bUxrRmczdUw2ZnpLOUZWVWs3Ul9NTm9SZkdVcUJiazFVYkJXODBZcUdEb2tZdFlkU0Fiem1RQkNRYUNBMmhySkJXaXY2QWFscGxvdG1qMnNvWE9aY3JKZWpKMlpXRndNV2xpNnc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T00:34:19+08:00"
     },
     {
       "title": "Africa's richest man launches continent's biggest share sale",
@@ -137,40 +167,10 @@
       "time": "2026-09-15T00:23:42+08:00"
     },
     {
-      "title": "Hayden Panettiere died after taking ‘oxycodone laced with fentanyl’ - The Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUjZ2NVZTMjdmcFA3SXNKVnhTdDB6TkppS1dHQ0tab3pIRkZra016MHZTLUNTb3piQnp4eWJhRHFjSTFhbldfYkxhaGo4TVZHRE9XX1Z5OXZTakg4TVV0VGRJTnR0ZHVSZ2FaeXB0enYydFU5bDY5SEJUYXd5Qzh0MVpIRU9xdHlKVDFSVlZjdXUyUnVMSDFhaTF3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T00:05:41+08:00"
-    },
-    {
       "title": "Macklemore Speaks Out After Being Dropped From Ed Sheeran Tour, Says Singer Claimed That Saying ‘Free Palestine’ Was ‘Hurtful to a Lot of People’ - Variety",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOFBCanVIcXZzbkFRS2tBa19PVGJ4SnQ0cURydHpEYTZxSFJJb0VZRGROMDR2LVpTdy0yR2ltZ29Oemc0SXpHaFJpQVV5NE9uWjNWcEpjWkt2eDczZnBrMHhFTkF1MnJ0NFI0Tlk2Q3hLMlZTZU5HR1J0cVVVM2VmS3kyVEV5amM1LVVMNUNvbHJRMi04WU9jTEUtTVJYOU5NR1B1QkNmSjJxMDF0eWZ3?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T00:01:00+08:00"
-    },
-    {
-      "title": "States sue to stop Trump rule that would make it harder for some immigrants to get green cards - CNN",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG80WExwa2hQeTlwZXpBdF8xVGlMZkpBNUxZWVVhNzZ5YVBWU2JyemxMX0IxUmFRUmM3Y3dmd0NuLWROUzBYRG85VE0teFIzYTFzNUFBU1pKcEhtclZVVjh1dmZaVFBFMHZPUzhmNVpPUnlGeGtlT2JMWHh4TnJLX2Z5QmJXdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T23:22:10+08:00"
-    },
-    {
-      "title": "Flash flooding interrupts half-marathon, submerges cars",
-      "link": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T23:01:28+08:00"
-    },
-    {
-      "title": "After tragedy, a Greek couple welcomes a daughter born from an embryo frozen for 22 years - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FTWE1WEhqREtKdlc5Vm5qY1NEM1Y3WGhpN3lXbjJSdmVVemtpbnJrRU9TTmlSbDljeU15UEdRRHh2LU5QV2RRN1NoYmFTZVNSbnByaWpsanV6MFo2S0NtQTRSc2JBS0NsVlhkeUF5ci13a18xallyQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T23:00:33+08:00"
-    },
-    {
-      "title": "Oil Prices Jump as Attacks Choke Off Saudi Energy Supply - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OUFpsVy1IOUxNRlV1QlB5LS1jMnlKcVJjUUtZcHhzdUx1Q0JwTmtQOEN1VDViY0lhS0JMR1V2a2l6SjV5dEdoV2hWa28wemFYeks5Y1FGdnRGTFE1RmhUQ25PeHJIT3hQbDRfb0V3MnRqWTA5bUVj?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:59:00+08:00"
     }
   ]
 }
