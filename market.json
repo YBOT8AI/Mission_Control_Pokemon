@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T06:21:24.939515+08:00",
+  "generatedAt": "2026-09-15T06:52:27.055991+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617235.36,
-      "changePct": 2.52
+      "priceHkd": 616067.2,
+      "changePct": 2.46
     },
     "ETH": {
-      "priceHkd": 19993.33,
-      "changePct": 2.75
+      "priceHkd": 19875.26,
+      "changePct": 2.35
     },
     "SOL": {
-      "priceHkd": 809.79,
-      "changePct": 3.46
+      "priceHkd": 806.5,
+      "changePct": 2.99
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1083.13,
-      "priceUsdOz": 4297.1
+      "priceHkdPerGram": 1083.21,
+      "priceUsdOz": 4297.4
     },
     "Silver": {
-      "priceHkdPerGram": 15.96,
-      "priceUsdOz": 63.31
+      "priceHkdPerGram": 15.97,
+      "priceUsdOz": 63.37
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 799.52,
-      "changePct": 1.93
+      "priceHkd": 799.44,
+      "changePct": 1.92
     },
     "Natural Gas": {
-      "priceHkd": 22.6,
-      "changePct": 1.84
+      "priceHkd": 22.62,
+      "changePct": 1.91
     }
   },
   "news": [
+    {
+      "title": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized - ScienceAlert",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlhYclhyYjFhYU05T2EyUUQtd1lzM1hjekVhbnFhNm9qQWlkNldUcWp4S1dHdFJiYlFoMlpGcHVubUZPQ1FHcUx4SUhPdTg3UjAtVThjb0QxakhwNVF2c1d0Q2Z2cGU5TEFCNkJaSlp6a19Rb3FfY0hxajdPRGhIajZVR2NJY20zZnhGMDJqVnUwWjJFZ29pdnhRQ3ByUTRHM1d3LU1xeU94UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T06:18:42+08:00"
+    },
+    {
+      "title": "Mitch McConnell returns to the Senate after three-month absence - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWDZKR3NSMzdDRzY4T3JjZllXM3ZVQzlodHQxWXRncWlneVJLdmkwQXJzV1Z6b1Z5WFNkUFY0SlZ3MmNDVFplRXBscXNnOFhaNUJUdnd1UkJtY0xBQkRMQkZOYzhRd2RELUZVYmJxYzhOX1FvSTBCZHZoTDBwSTMtOURPZ0NCeGF3cDFjODd3bGp6T01Ib1pLSDV4a3R4X0RHVzNoc19R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T06:14:00+08:00"
+    },
     {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
       "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T06:10:10+08:00"
+    },
+    {
+      "title": "Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQTkzVWE0V0RqYVV4SldIWldodHFSTTF4d0NyMGk2cjFsWlYzTmdsTmVENlR0aF8yUXdpekxJNkE0ZURVSndyaVAtWjFjcG0yTmNHUjdzYkkxQjhzZjBwVEdWZFpkQTR3Rm12ZUx3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T06:06:24+08:00"
+    },
+    {
+      "title": "Stock Market Today: 10-Year Treasury Yield Touches 5% as AI Warning Spooks Tech Stocks — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T06:04:00+08:00"
     },
     {
       "title": "E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times",
@@ -71,16 +95,16 @@
       "time": "2026-09-15T06:01:39+08:00"
     },
     {
-      "title": "Bob Mackie, Ballyhooed Costume Designer for Cher and Carol Burnett, Dies at 87 - hollywoodreporter.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkhBUmNsLW1kRWxyX0lIeGxMbm5DQXZCQkJaVEZTRGNTRVZBc3hOSzBRYTNZaWdvLXFCTjNXdV9sQjRyMHlhWnF3ekh3dndUYmRONFNLWEljNTRhaGgwZUF6NjByRExpQ0d0b0FxVDF1d2NqeUpYVjVsUFptZDlfU0pRZVNrdENKNlM5WnpqUHBpNlpHZVhDY0hUZGhsUDJzMXJuSExGTURiVllJ?oc=5",
+      "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29wODhuZlktU3JvamFHU0lhaHhEaHpRTUpUajJaeXdSb2ZHdnVpTlRFZUc4Q0pGRDRqdi1hWnJiU1dOUVVTMEE5OTN5bEc0Xy0zTnU4emRkc1VFYmdLNVB3bEhnVUNENTdCSmNMdmY0QTRRbG1aRmh0VTdMUlpCbHVqZHNpNWtxM2U0SHZrSmdVY1ExcnEwWmJ1WEdROUhvMzkwUWpQcVFhczVZS3ZYajNvY001LU9vcG1iY3hYY2J2aXdJSUtJa2tid3Y0VkU?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T05:39:34+08:00"
+      "time": "2026-09-15T05:50:48+08:00"
     },
     {
-      "title": "States, cities sue to block Trump immigration rule on public benefits - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGk1MVlTS3ZZWUE1MTJ2bTNJeDZKQTV6X0ZPZVFxMXhzVEo4Y05KR0lVRHQ2Q0Q2YUsxUFdOM3pJUXRMaG9zRS1wZm9hLWZqQ0ZQdGgtYmJJRE03Yk4wZVp0ZDljcW5wWkw0c2lGOENpTXFfVEhvdTlyekNva1Vrb19lZDctRW1TQTJOOGlRVk9Mcl9sWkE0T1NscUx5aFNiTHdqOEFUMDdEQndUSER2ck1ib1JHdw?oc=5",
+      "title": "Hegseth allies campaign to put loyalist in Army secretary job - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnM2ZFMwT080X3ZfdmhMQXpsUmh0ZWtXSHE4M3FxazFwSHg2eTJMNzVMcGV1M1dzMllHOFR2QnJfa2YxTVlibHg1cGtzR0dXNjQyRVh0bFJmZTFxQjhzcmFpUGhDTXRUWmtsS3hRdVNSR1BhSkozaGt1aDVaRk4wZmt2RmYwOHQzNDVKYmFLakxBR2M?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T05:37:01+08:00"
+      "time": "2026-09-15T05:31:00+08:00"
     },
     {
       "title": "Legendary costume designer Bob Mackie dies aged 87",
@@ -89,28 +113,10 @@
       "time": "2026-09-15T05:29:12+08:00"
     },
     {
-      "title": "How Chiefs QB Patrick Mahomes recovered so quickly from knee injury: ‘It’s incredible’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFN4cmc4YnN4dlJBNjY1d0sxZmRJZWctdS1LZ0NMQXFwa1JCak8ybEJ3em80cWdHZFk5djBOMmwxMTdySE0zZzVtMUFGVVpRQjEwMHM0dS16clVYWGtlVlFOLTdOdDZnTzN2U2gtMDF4cHZMd3U0RWVCVnR1SVMxellJNkZ4VGpUNnlpOEYtMmZfOG1MOVgxeTZQQmQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T05:06:03+08:00"
-    },
-    {
       "title": "Deadly bacteria detected as NYC orders emergency cleaning of cooling towers - Fox News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3cyc2J1VDRJZllqZTZpR1drR0hrdFlRRDRxamgtZjNoclVpU2xDSVdmSC1EeldSMlo4MXZvN04xbXN1WngtOXVSVUhrY1MzdFZPWGpsNjhEbXE1ekI0ckZfMFZCUGYtY2lGN2tTSGJqZHdMTWhxdHNITmpHZVBkWWEyM3VBZzNBcVc0WkxfR1pvRnZsTGtmbEZNNHZqeVJ1QUHSAacBQVVfeXFMT3E0a1VwVnhRckc4Z2hpUnBMZEpENl8yYWJFWHB6SjRmcHVVeTdrcFdDbkI1ZXI0MkNZNG9VSGNud25lMVQ1UDBmdGVTeFlxVHo1Nk5OWHlGOWliSjZNQU04dG5XTld4bWNrQ1ZIXzIzcTI1Y3VYM3NfclNxTV8zVV90M01ldzBMdWU1RVhNcnNRejQtT0RpZ0pNQ1FrQjk4bUNjOXh5YWM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T05:04:42+08:00"
-    },
-    {
-      "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T04:58:29+08:00"
-    },
-    {
-      "title": "Stock Market Today: 10-Year Treasury Yield Touches 5% as AI Warning Spooks Tech Stocks — Live Updates - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T04:56:00+08:00"
     },
     {
       "title": "Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's",
@@ -125,10 +131,10 @@
       "time": "2026-09-15T04:35:00+08:00"
     },
     {
-      "title": "Emmy Awards 2026: What to expect from the ceremony and how to watch - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RYzBiRWR3d1UtYXIzNDZBZS1MMXk2Sjl5UVg1MUtfSVllNGVIX1V4OWxkZjNzWjBjdVZxSGRpc0pyZkRzM21GRTVkOGtTYnVVdmtZejVwZUdFQQ?oc=5",
+      "title": "Hakeem Jeffries: Congress must act ‘immediately’ to rein in AI - Politico",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVkl5UW02RDZQSXhuSzRCNTBWZHhlejlNdlJhZnBpeHBXZ0JJZF9kYTFtdDZjMlhuZFFiSEp3b2xQWGpNa0lDaVl0eHBTSXByakdkNWc2dDZwcnEwd1lfWWg2ci0yV1JBam9vOVluTFJTbnl1ay1vZ0xMejh3c1libEFzVUNHa0NqV1hqYmprNVhjQ0k?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T04:34:35+08:00"
+      "time": "2026-09-15T04:20:12+08:00"
     },
     {
       "title": "Russian oligarch close to Putin reportedly paid for part of Donald Trump Jr’s lavish wedding - The Guardian",
@@ -137,16 +143,22 @@
       "time": "2026-09-15T04:13:00+08:00"
     },
     {
+      "title": "Emmy Awards 2026 live: Stars ready to celebrate television's biggest night - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqLUxMMDMyWTJiYVJRX3I4cGZ1LW9tSjZNOGYwakJFY1lNU1dyR1E2bVpJLUNJZW9WR0FCeUNHc1E1Yzd6WlNKSkdQb2RXVTBkS3A2a1dB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T04:11:09+08:00"
+    },
+    {
       "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments - AP News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTVVOUtmY054UGF0NGRfUC1CQXlDSnZ1MjFudGh0Um1YZjJ5ZEg5MFIxaENub2dVeXl3TjEycUJrekk5clFUSFRwY1NZQ3F3WnExOEtxLVRZdWI4XzJTSnk5eGJOMFhJRUxmMS0tUVV6bmhfcy1zektLY1U3SGNNakpaa29LX3YxNVpBSWppLVZGYzBzXzdjdmRKTUlZdkJ0elBRREtB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T04:05:00+08:00"
     },
     {
-      "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29wODhuZlktU3JvamFHU0lhaHhEaHpRTUpUajJaeXdSb2ZHdnVpTlRFZUc4Q0pGRDRqdi1hWnJiU1dOUVVTMEE5OTN5bEc0Xy0zTnU4emRkc1VFYmdLNVB3bEhnVUNENTdCSmNMdmY0QTRRbG1aRmh0VTdMUlpCbHVqZHNpNWtxM2U0SHZrSmdVY1ExcnEwWmJ1WEdROUhvMzkwUWpQcVFhczVZS3ZYajNvY001LU9vcG1iY3hYY2J2aXdJSUtJa2tid3Y0VkU?oc=5",
+      "title": "Hayden Panettiere death probe focusing on illegal pills from L.A. dealer - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2g4TUY0VlpjLTlaQmEtR21WSXBLRWtfeV9qcUo2OVFXckVoemFsUVA1NVBEZEpINk5Ia0tyMEFvaXRuTHgxWkhuN1RYTWlEVDhkNGl2N2dxcU9JRXQ3ZWZweFgzMGNtSWx1QTVwQXVKRVI5WU43dUsya2NsY3dnRHJkRHgzYlN6Y0ticTNwYUZwTjF1TDZCRGN0ZEdJemtWT0wtSi0xdDNaTDlFNkVuTmczbzNzSTFZcDlaZno3QQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T03:56:08+08:00"
+      "time": "2026-09-15T04:04:30+08:00"
     },
     {
       "title": "Carney gambles on the world's biggest investors betting on Canada",
@@ -155,22 +167,10 @@
       "time": "2026-09-15T03:29:12+08:00"
     },
     {
-      "title": "Report: Hayden Panettiere died from fentanyl-laced oxy - LiveNOW from FOX",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcVBXODR6LVRPRGhhTU55dE5sYmgtMlh0T2Ewa3J2dzlMV1FPZWliM2xLS1VDbjVRUVhXb0xxeVY1cER6QTBOUjhMMmw0R1dKbEdETmp6QjVPakVvTGFDS1djaTU1cmRGeEJMd1ljLWdIRHYtdUtYQXFVbDVwTk9EZlhKUlfSAYoBQVVfeXFMTURkZEEyd0h2OXJueTNFSTN3TzNQclp4aUwyM1NpZ2ROSVhZNlRGelNSRV9FU0hnSjBRMFJVSm1meFRZOEdYVTFLM2R0OVJRazhldlBzbVNqUlNFX3JhT210Z0dIV0E5eHVtVm9ZRDhQU0ZwWFh0U3JjeXFCYWZ3U3c2cUpCZ3RGdXZR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T03:12:07+08:00"
-    },
-    {
       "title": "Government set to nationalise troubled steel firm",
       "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T03:06:46+08:00"
-    },
-    {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T02:54:16+08:00"
     }
   ]
 }

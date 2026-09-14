@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T06:21:24.774147+08:00",
+  "generatedAt": "2026-09-15T06:52:26.973949+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -96,13 +96,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "f0d6a92",
-          "message": "docs: weekly deal flow digest #4 — HK #1 wealth hub + SpaceX record IPO + CIES F",
+          "sha": "45ed78a",
+          "message": "lucky8: revenue deliberation — 2026-09-15",
           "author": "evilmoni",
-          "time": "2026-09-14T14:02:41+08:00"
+          "time": "2026-09-15T06:30:32+08:00"
         },
-        "commits30d": 92,
-        "totalCommits": 202,
+        "commits30d": 93,
+        "totalCommits": 203,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -255,8 +255,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T06:20:49.347242+08:00",
-        "next_run": "2026-09-15T06:50:49.347242+08:00"
+        "last_run": "2026-09-15T06:51:51.831514+08:00",
+        "next_run": "2026-09-15T07:21:51.831514+08:00"
       },
       {
         "id": "539a150ac028",
@@ -273,8 +273,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T04:54:27.008069+08:00",
-        "next_run": "2026-09-15T06:50:42.756125+08:00"
+        "last_run": "2026-09-15T06:21:32.020026+08:00",
+        "next_run": "2026-09-15T07:21:49.470714+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -282,8 +282,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T06:20:47.952875+08:00",
-        "next_run": "2026-09-15T06:50:47.952875+08:00"
+        "last_run": "2026-09-15T06:50:49.741640+08:00",
+        "next_run": "2026-09-15T07:20:49.741640+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -291,8 +291,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-15T06:20:47.536077+08:00",
-        "next_run": "2026-09-15T06:30:47.536077+08:00"
+        "last_run": "2026-09-15T06:51:50.099019+08:00",
+        "next_run": "2026-09-15T07:01:50.099019+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -327,8 +327,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-15T06:20:47.732100+08:00",
-        "next_run": "2026-09-15T06:35:47.732100+08:00"
+        "last_run": "2026-09-15T06:51:50.293078+08:00",
+        "next_run": "2026-09-15T07:06:50.293078+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -381,7 +381,7 @@
         "name": "Lucky 8 — TechWealth Revenue Team",
         "schedule": "0 6 * * 1-6",
         "last_status": "ok",
-        "last_run": "2026-09-14T06:07:11.128871+08:00",
+        "last_run": "2026-09-15T06:30:48.083723+08:00",
         "next_run": "2026-09-16T06:00:00+08:00"
       },
       {
@@ -390,7 +390,7 @@
         "name": "Robotics Business Daily Brief (6am)",
         "schedule": "0 6 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-14T06:01:16.623608+08:00",
+        "last_run": "2026-09-15T06:21:54.599172+08:00",
         "next_run": "2026-09-16T06:00:00+08:00"
       },
       {
@@ -534,7 +534,7 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-15T04:00:52.967332+08:00",
+        "last_run": "2026-09-15T06:21:17.534095+08:00",
         "next_run": "2026-09-15T07:00:00+08:00"
       },
       {
@@ -633,7 +633,7 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-15T05:01:47.557227+08:00",
+        "last_run": "2026-09-15T06:21:05.030487+08:00",
         "next_run": "2026-09-15T07:00:00+08:00"
       },
       {
@@ -750,7 +750,7 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-15T04:00:48.703415+08:00",
+        "last_run": "2026-09-15T06:21:11.481274+08:00",
         "next_run": "2026-09-15T07:00:00+08:00"
       }
     ],
@@ -775,48 +775,48 @@
     "hostname": "YBOTs-MBP",
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
-    "diskAvail": "395Gi",
-    "uptime": "2 mins",
+    "diskAvail": "400Gi",
+    "uptime": "33 mins",
     "cpu": {
       "loadAvg": [
-        39.99,
-        18.42,
-        7.43
+        1.42,
+        1.55,
+        2.32
       ],
-      "usage": "24.5%"
+      "usage": "13.2%"
     },
     "memory": {
       "totalGb": 16.0,
-      "usedPct": 36.2
+      "usedPct": 36.9
     },
     "network": {
       "localIp": "192.168.1.103"
     },
     "topProcesses": [
       {
-        "cpu": "30.9",
-        "mem": "0.3",
-        "name": "com.apple.WebKit.Networking"
+        "cpu": "5.7",
+        "mem": "0.1",
+        "name": "python3"
       },
       {
-        "cpu": "27.3",
+        "cpu": "5.0",
         "mem": "0.0",
-        "name": "mdsync"
+        "name": "sysmond"
       },
       {
-        "cpu": "10.4",
+        "cpu": "1.0",
         "mem": "0.0",
-        "name": "curl"
+        "name": "notifyd"
       },
       {
-        "cpu": "9.4",
-        "mem": "0.0",
-        "name": "GoogleUpdater"
-      },
-      {
-        "cpu": "7.9",
+        "cpu": "0.8",
         "mem": "0.1",
         "name": "opendirectoryd"
+      },
+      {
+        "cpu": "0.6",
+        "mem": "0.1",
+        "name": "launchd"
       }
     ]
   },
@@ -920,7 +920,7 @@
       "status": "active",
       "schedule": "0 6 * * 1-6",
       "lastStatus": "ok",
-      "lastRun": "2026-09-14T06:07:11.128871+08:00"
+      "lastRun": "2026-09-15T06:30:48.083723+08:00"
     },
     {
       "name": "Future Me 44",
@@ -1462,16 +1462,16 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-15T06:21:24.530881+08:00",
+    "generatedAt": "2026-09-15T06:52:26.678043+08:00",
     "cities": [
       {
         "label": "Hong Kong",
         "current": {
-          "temp": 23.4,
-          "code": 2,
+          "temp": 23.8,
+          "code": 1,
           "precip": 0.0,
-          "wind": 5.5,
-          "time": "2026-09-15T06:15"
+          "wind": 4.8,
+          "time": "2026-09-15T06:45"
         },
         "daily": [
           {
@@ -1500,11 +1500,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 23.0,
+          "temp": 23.2,
           "code": 2,
           "precip": 0.0,
-          "wind": 3.5,
-          "time": "2026-09-15T06:15"
+          "wind": 4.3,
+          "time": "2026-09-15T06:45"
         },
         "daily": [
           {
@@ -1540,19 +1540,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-15T06:21:24.774027+08:00",
+      "time": "2026-09-15T06:52:26.973830+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-15T06:21:24.774027+08:00",
+      "time": "2026-09-15T06:52:26.973830+08:00",
       "type": "info",
       "text": "⏰ Cron: 55/56 jobs healthy"
     },
     {
-      "time": "2026-09-14T14:02:41+08:00",
+      "time": "2026-09-15T06:30:32+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: weekly deal flow digest #4 — HK #1 wealth hub + SpaceX record IPO + CIES F",
+      "text": "💼 TechWealth: lucky8: revenue deliberation — 2026-09-15",
       "project": "techwealth"
     },
     {
