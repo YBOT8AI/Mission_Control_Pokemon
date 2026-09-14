@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T19:04:25.116766+08:00",
+  "generatedAt": "2026-09-14T19:35:27.533938+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610304.8,
-      "changePct": 1.58
+      "priceHkd": 609536.48,
+      "changePct": 1.42
     },
     "ETH": {
-      "priceHkd": 19698.0,
-      "changePct": 1.58
+      "priceHkd": 19704.59,
+      "changePct": 1.56
     },
     "SOL": {
-      "priceHkd": 797.8,
-      "changePct": 2.15
+      "priceHkd": 797.64,
+      "changePct": 2.03
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1083.21,
-      "priceUsdOz": 4297.4
+      "priceHkdPerGram": 1082.83,
+      "priceUsdOz": 4295.9
     },
     "Silver": {
-      "priceHkdPerGram": 15.89,
-      "priceUsdOz": 63.05
+      "priceHkdPerGram": 15.92,
+      "priceUsdOz": 63.17
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 802.74,
-      "changePct": 2.34
+      "priceHkd": 807.6,
+      "changePct": 2.96
     },
     "Natural Gas": {
-      "priceHkd": 22.69,
-      "changePct": 2.23
+      "priceHkd": 22.73,
+      "changePct": 2.4
     }
   },
   "news": [
+    {
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T19:20:07+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T18:48:00+08:00"
+    },
     {
       "title": "Left edges ahead in Swedish election thriller - politico.eu",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdl9lcXpiN0RIbV9KTC0wQVlFMHF6eWU2U0p1cnVlTXI3SEZqaXhLRmdoV0c2VUlMUWtQN2tOenduLU9ybWU1aHdvUXVSbHJzWDBGRUliMlpCeDkyZGd1dHZjVzRwSDJrNWFUalpZZGhVQlcySzhITE5LaFI5cWlDdi05eWk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T18:37:06+08:00"
+    },
+    {
+      "title": "Jaxson Dart: Identity starts at the top and we bought into John Harbaugh’s plan - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTUpFY1Y3LWh0a19pNXJWTHJzYkk4Qms4V2R5VXRLVlpHaEF3cjdRYTRSczg5MEtveHlSWjVBYzZySG9hbUsxbEhNeE9OdVUxVTBwWm93eXZRLW9jWVkzdmdEZ1FMMHNkOTBZenZpQ2hla29KbGx6b0VvNC1DNzNGbnY1aFB5NDhpcldDNjJ5MzBmNW5mb3JiMmhlblFkaS1RWTBpeHFrcm9PckVtR2pfZjZIaDZ4Qnl0Nlc2Z2NBVHJOdU42V0pzZU5fcjIwaWN5aC1PaTV3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T18:34:02+08:00"
+    },
+    {
+      "title": "Cybersecurity stocks get a jolt on gloomy AI warnings from CEOs of Anthropic and OpenAI - finance.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS2NMMFVDTjByeUlHV2lnSkMwbTgwd2dobmkyVy1OaXJHNHplMVRoOVc1cDhVSGNkWDJHUWkteElaOWY5QUotSDFsUWNxdVFKUlV4bzdvN0F6RTFpVTNVcU1WeGZ2ZjA5dlpBS2MzWHUwU1N1UC1EMkJ3cVV4OHJRdW1mQ3J3bm1STHlublY0aW5lZV9aeTlxRHU2NjJNSWRZUy1fYl8yYU0tMnpsS3RycFNpLVlUMkN1OVEwRTNtYU9OYWtsMFZ1b1EzRmxfMnV2dkJmU3ZDRGF6Y09uSktkTkhHektKdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T18:22:26+08:00"
     },
     {
       "title": "Stock futures fall as investors weigh calls for AI slowdown, oil gains: Live updates - CNBC",
@@ -65,28 +89,22 @@
       "time": "2026-09-14T18:21:00+08:00"
     },
     {
-      "title": "Garcia vs Benn: Conor Benn unsure on future after defeat - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCODhUWkVsXzlUZzE1SHNQbHVvaWVWamNQN0oxcWdTem5ycGdXOXQ3MzJ1Zk9sRWh3dGtpUHM4OThWeFF5RW9DblJyUUpLbEtzekRid2xXSmlNNGFqdENSbGpQM2c?oc=5",
+      "title": "Yankee Stadium cooling tower tests positive for Legionella, NYC says - Gothamist",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQzZ6VFJSaUxXNEVSS1IzR2FpSGpWeVZJVm9iV3o3eTdNb2c2YndXUkVweENmeV9xX01ZVU1jbXVUeElGZjN5QWE2eEp1MmxNbmVYNGNiaUtkUXBFNjhxVVUtNmJZSlY2NmZaR0x2YVlNRUp3NWhSMWlSRjhzUS1RV3JBOFN5Q21rMjFXVGl6THlwNUdMUlRUUnh3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T17:37:36+08:00"
-    },
-    {
-      "title": "AI stocks get drilled because of Anthropic CEO Dario Amodei's 3,800 word warning - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSnh0RURESW5RRmc3NlJrdUgxRV95V0pCSkJvY2szWi04YnhjRkY0N0xtT3RQeXp3d0ZBc05wMURvRGtlNUVNakNpdzh6dEVpSUdVem13ZzlhN2ttYXdOZXVWNmxYdEd1Q3l5NjV1TFRJUkxTa3hoMzNZNzY2Q3pfalkxY0JkVEpVa1FJNDhaM0lNRDQyYzZaRFJMSWVPLURKZ01wUDRYUnZwUm9WdWRUSmlpbDRKcm5MdEc3VWhkMW1odV9hV1YyOV9oOXM1QUZreGxJcF9Vd3Fldw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T17:36:37+08:00"
-    },
-    {
-      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T17:08:00+08:00"
+      "time": "2026-09-14T18:00:00+08:00"
     },
     {
       "title": "Here's how to catch up on sleep, the right way - BBC",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbnRTTU5PNGxzbVgteHdDc3F3cU9OdnZoM3BvZVR5SC1rcHFhMTJKcDlhVENENGdkZ2NZdGh5VHNmVjhyVFdLYzFnS2pqLU12OXY2cXljUDI4U1V3Zmg4WC0xZkhBdk5hbjhlMzNtdnZyVC1lNC1MYmpqY1NUbUNNcDlrQmZJWnd0MFJKX3N5ellDaE94WnkyVzBR?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T17:00:56+08:00"
+    },
+    {
+      "title": "Dire warnings about AI shock Congress, but action is unlikely before the election - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON05rZXlwTktkLW5IQXUyZWZOWUt6MmZCWVRrb0dwSHdCcDY3X2ZORlBkdVdha0E0YXdmVElCSF8tRExNZEhQNUFzclhFLW1uUktVRDVRRUpoU1h0M291eWFNZ1NWbzNoMHU1eG05Rm1iaG9CNGZBYTFhX2pDZHl3ZW9kVFRKd3dvQjB0bGM5R2lOTUUxUEtGSW9sdG9reER3SWxyUnBZaHc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T17:00:40+08:00"
     },
     {
       "title": "How Healthy Are Sardines? - The New York Times",
@@ -99,12 +117,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T16:58:27+08:00"
-    },
-    {
-      "title": "Brian Schottenheimer: As a football team, Cowboys were pretty poor - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR19vWkNIMUloWU1BdHhRLVdCamVtVnhWR1dFN0xXUHQ5anNxVTE4c0stTWZ1S3JTQ0tqaFQ2a1dQQmlWS2NNUVFrMFZTZjJGSXJtSXg2MzNwX0FSMXVrUEVhblR3ajlKd2lNejNXZ1VQaldPZHJ4QlZqWFJkWG1Vbmp6ZkszaFI2bXI2NGd0MW1uNDdyX21xUlJsT0pOYkx0LXNJRHo2R2RJOGdhLTdBdTNFVG5kT2ZaTG5CaHZCX2M4YVVR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T16:55:21+08:00"
     },
     {
       "title": "NVIDIA Intros RTX PRO 5500 Blackwell Graphics Card, Features Same Core Count As The 5090 But With 2.6x The VRAM - Wccftech",
@@ -155,22 +167,10 @@
       "time": "2026-09-14T15:15:35+08:00"
     },
     {
-      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - macrumors.com",
+      "title": "Gurman: 'iPhone Duo Max' With Bigger Display Likely in Apple's Plans - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42ZTJlalBrQ3loSnZ3Mi1lVFI4eHZRbVRNeDZXS1g1bG43X2diOXdKRXZYUFd5RlBQdl90YWVGdWRpT3BtR3JRaWZ0NnBIUmo3ek5hVk1nMWNUUDQ4N2RHN0xwb3BmSjE4OVJYbG1NcHJGMUFDZGFlLVpobHptckk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T14:54:00+08:00"
-    },
-    {
-      "title": "US Kennedy Center faces bankruptcy, Washington Post reports - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0YyN2pLM0xvdmlhbm9KaW5xUHdyN2I4UzNmTk1VRVZiNFAtWDZLbTlFTWJyUG9LcE8tZmFSbTJfNEJEdEdpUy1NN1FOaFNFNHdtY0RreFNYZWVfeW5wQ2xDczNEb3llUTU2cWF4OXhpdlRGeUxwQUdsTUxueFpzZFM2YVhhZUx5dHJoTXFLaTItUEptV1Q3cG92M3hLVVdh0gGmAUFVX3lxTFBOazR3MGhNZ0k2QzdXT0d1T1hsM2I0aEMtLWVPMkVpNGg4OUVJTE5JR05pbF9JeHBMLTFNYlBvdTlSTUMtZHgyek5TTEVkV3JOY0NtQUY2LVplXzZMUlJyLXpBVDl1bHVUNGNIelhEVzYwZ3k4YmEtZkpTaWx5UjZNdzNPSF8yVFpyaGYzdnlKMHQtd2RkY2J3VWlVREZBbW40RHJEN0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T14:53:08+08:00"
-    },
-    {
-      "title": "Russian drone hits train near Ukraine-Poland border soon after dignitaries passed through - NPR",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NSHp1SnFvZVg2SktUeEotcTFReFVvaGo3cTRVbUZTc1ByS3VNN0RmTm02ZU1SYmdFTUdxbTljOEdqZTl3UklXY193RHFoX3dLYmFpd0N3dWc3dlEzU3BuR2l0MU1RMmIxM0pvTGQ0MWFZM3VoU2dYVTR6VHk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T13:46:26+08:00"
     }
   ]
 }
