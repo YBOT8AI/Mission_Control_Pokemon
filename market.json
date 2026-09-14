@@ -1,62 +1,86 @@
 {
-  "generatedAt": "2026-09-14T22:10:41.856378+08:00",
+  "generatedAt": "2026-09-14T22:41:44.773112+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 613848.48,
-      "changePct": 1.78
+      "priceHkd": 614718.72,
+      "changePct": 1.64
     },
     "ETH": {
-      "priceHkd": 19662.64,
-      "changePct": 1.01
+      "priceHkd": 19608.47,
+      "changePct": 0.46
     },
     "SOL": {
-      "priceHkd": 796.47,
-      "changePct": 1.37
+      "priceHkd": 795.37,
+      "changePct": 0.85
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5483.4,
-      "changePct": -0.45
+      "priceHkd": 5463.85,
+      "changePct": -0.8
     },
     "SPX": {
-      "priceHkd": 59758.21,
-      "changePct": -0.45
+      "priceHkd": 59541.19,
+      "changePct": -0.82
     },
     "SPCX": {
-      "priceHkd": 1171.02,
-      "changePct": -1.22
+      "priceHkd": 1163.26,
+      "changePct": -1.87
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1076.88,
-      "priceUsdOz": 4272.3
+      "priceHkdPerGram": 1076.78,
+      "priceUsdOz": 4271.9
     },
     "Silver": {
-      "priceHkdPerGram": 15.89,
-      "priceUsdOz": 63.04
+      "priceHkdPerGram": 15.88,
+      "priceUsdOz": 62.99
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 817.01,
-      "changePct": 4.16
+      "priceHkd": 815.36,
+      "changePct": 3.95
     },
     "Natural Gas": {
-      "priceHkd": 22.62,
-      "changePct": 1.91
+      "priceHkd": 22.56,
+      "changePct": 1.62
     }
   },
   "news": [
     {
-      "title": "DHS watchdog: Immigrants held in outdoor cages the size of phone booths at ‘Alligator Alcatraz’ - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYllZY1dzaTFPNDRTdEdSSWU4cXBRR3hzWmtpYmpSSTZkb1JUbU9tTHlsOFUtVllvOXhoVE9XZzVnbnloTzhyc2NXRHlqZExmX3BuX2hScFNMcFIyeG1JSk5IUUtKV0d4YlM2ZUgxQlNmb2JBMkVMY3B6MkMwa3J2OWJTUURxWnhkM3htR0xLeU1aRWh1WkF3aDFQaGYwdkE4cmM3RHItSkZLU1Y3TW5HdlRTdGlRdXlBUjdYQ18xVy1qaHFROWc1LU1fSFk?oc=5",
+      "title": "'Culture shift' needed in how UK does business, PM urges",
+      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-14T22:22:55+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T21:39:40+08:00"
+      "time": "2026-09-14T22:21:00+08:00"
+    },
+    {
+      "title": "‘Alligator Alcatraz’ Used Small Cages as ‘Calming Areas,’ Report Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMkMyNjhPZXZhZkFodFkwbm56QTY1YWdwSE5fMWVIQ013X2NsQjRYUjBzOHFpUzBBMnBIbnhJSTkwQjQ3TVJJWkd1bWVNUmRocjV2bXNfRFo1Y1RxUE05aG43bERTeDZ2NUpiNVNFampyTkg3TmZZUDkwdjRLUFc3MnpNZlZTa1V3aVJN?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T22:13:31+08:00"
+    },
+    {
+      "title": "Wild dogs record 2,500-mile trek across Africa in search of a mate",
+      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T22:08:12+08:00"
+    },
+    {
+      "title": "Satellite images show extent of damage to major Saudi pipeline, amid global oil supply fears - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONThDR2dBM2V3OWhrWDdHQ0xsRzB0eTBsZzB6cEszMjN4ZEZiQ2ZCRUdfZ1FRMGNQTk5aY081QnlSN0tjOEZrUFBHYjQtbUxxa25oaW9XVGM1QlV0QkhpVC12WldMZHlVUDR0YVhUTHVnbGJIMGo1VGJmdXJxMFgtZGtBRGJOdVN5SUQ1R0ExcEUwd1dBWktOSFBySmpwMEN4MXc0OHRZclREdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T21:01:00+08:00"
     },
     {
       "title": "Cooling towers at Yankee Stadium test positive for Legionnaires’ in new cluster - NBC News",
@@ -71,16 +95,16 @@
       "time": "2026-09-14T20:50:00+08:00"
     },
     {
-      "title": "Tech Stocks Shudder in Response to Calls to Slow A.I. Progress - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:37:45+08:00"
-    },
-    {
       "title": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow: Reuters Poll - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYmtGdWt3WFV1bmpCR2REM0NZMkZIOEE2c3BRdFhrc21CcUpVUEx6QTdOdDZOQ3dGV2pmYmxOVDA3WjJoclVnZlB2cXl5R3NfSDh6cy0zWGRoUFU1UjA4LTVFckZHWkVBUkJpdWtFaTFvTWNjM1IzVi1sSGhZNmNETzdJcUhOOF9MN2pGSXNyelRkSFlIUktUT1ZjX1VIY2MxQV80NWNLVi1hS0s0bEpaR2FGbzRzeVE?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T20:32:28+08:00"
+    },
+    {
+      "title": "Sydney Sweeney under fire from athletes over nude sports-prediction ad - CNN",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pM1hlUWtnZFpaVVJRXzZOdklXSVY2MHVvTjJsNUJ2eUhfMS1menZ0MU14ZTVBd3lON0FEYlRyMXQ2LU5KdGYwWkd1R2NVUlB1eHFFb19LOFA2ZFA4aC1wcWxJMWljVzFvRmF0R19rOWpyMV9LUTZtSlYxVGlQZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T20:28:42+08:00"
     },
     {
       "title": "Carney pitches Canada to global investors as Trump tries to pull investment south - AP News",
@@ -93,18 +117,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T20:18:13+08:00"
-    },
-    {
-      "title": "Here’s how the iPhone Duo compares to the Samsung Galaxy Z Fold 8 - 9to5Mac",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWpUaFRTaWZRTjJiR3gwQmdZZHdacE9ZUW5iZ0NEYlpjdGlNdGxzVG9fVi1oSGQ0dnNORUpmU0VERW1YTHFBU21RcGRSVTZ6eHZUZXBNRFdIZ29OVW1VSXVlSEtDYnJxUGF4bVlRMFhwWk9QY3Q1UW90TVY3YzVSX2NiVXBHVFlxRnVLWjAzNzdhREp4Q2FMNzBuc0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T20:09:00+08:00"
-    },
-    {
-      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T19:52:00+08:00"
     },
     {
       "title": "Petrol and diesel prices hit highest since 2022",
@@ -131,6 +143,12 @@
       "time": "2026-09-14T19:31:39+08:00"
     },
     {
+      "title": "Dangerously Hot Days Are Now Bleeding Into Spring and Fall - Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmRpNFI0VGJEd2dfQ3hFdG55X0NuWWJfT2xlNlBpem1KWFp1VnE0S25rdXZ6QnR6aEhPRUIwQk93UzdGVkdaa3UtNzBvOVpIWjJhYXJvdVFQVTJKNU9XQ2FNamdoWnlld1hSanl2M1VmSEZJY295REhRWmtCRXc3NmV0STViOEZNTk9vZkNPc2VsUFU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T19:30:42+08:00"
+    },
+    {
       "title": "Thousands demand end to violence in Mexican cartel hotspot",
       "link": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wbTlOYWpwM051QWlhQkhwQjhGLV9wWUFkR2dLRnJySC1zS1FFTzZUQ3lJSWFUYVh2eXRTc0NJQWM1cFY3dmJuWm90YmxnM2R1Tm1yTlR6VFJDSHhVN3RjdHpGa2d6TTNHblJacQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T19:25:53+08:00"
-    },
-    {
-      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T19:20:07+08:00"
-    },
-    {
-      "title": "US Air Force colonel shot down over Iran recounts 'modern-day miracle' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVViZGF2VVhyRkUzbzBrYTZabVBsaHdNQkxfemlrUUpKR2VQRi1PX2xsbG1iaXVvZmxpdWlNQ1JGRzQ5S0QzMkpYaW1NR3gxQUxpVmVZVndxOEx0U1dRNzhlYzlJdWRYV0lQcG5sU0J6UnhNV2xzYXY0TE4wU1JuMnM3YnhNS21lN28wRFRaUkg5UllBSV9Nc1VsOUNBOUkzYWRNRw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T19:05:34+08:00"
-    },
-    {
-      "title": "Tom Aspinall vacates UFC heavyweight title: ‘Absolute nightmare’ - mmafighting.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRXozWk4xNm9WSHEwRjFUa1UtM1ZJWXgzdXJnc0JTTEZGZ3I5b1FSRlI4b25ocW45SjNraG9uNTBoNFhnb3N1bVhzT0pZYWNmRmdVcWxwelJmRVE3YjVJV0FNeHN2VXAwVEZ6dzNiQ2RUbGN1SEJSR0Z6RXR4OW8xSjUwM3dTbGZiVDJLMnZhTmxLOUpHUU8tZ01YSUpwbVVLTUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T18:58:38+08:00"
     }
   ]
 }
