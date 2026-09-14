@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T11:18:42.824231+08:00",
+  "generatedAt": "2026-09-14T11:49:45.905568+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609661.92,
-      "changePct": 0.65
+      "priceHkd": 607748.96,
+      "changePct": 0.43
     },
     "ETH": {
-      "priceHkd": 19729.83,
-      "changePct": -0.14
+      "priceHkd": 19672.21,
+      "changePct": -0.44
     },
     "SOL": {
-      "priceHkd": 793.02,
-      "changePct": -0.73
+      "priceHkd": 790.59,
+      "changePct": -0.79
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1092.64,
-      "priceUsdOz": 4334.8
+      "priceHkdPerGram": 1091.91,
+      "priceUsdOz": 4331.9
     },
     "Silver": {
-      "priceHkdPerGram": 16.17,
-      "priceUsdOz": 64.16
+      "priceHkdPerGram": 16.15,
+      "priceUsdOz": 64.05
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 807.13,
-      "changePct": 2.9
+      "priceHkd": 809.17,
+      "changePct": 3.16
     },
     "Natural Gas": {
-      "priceHkd": 22.59,
-      "changePct": 1.8
+      "priceHkd": 22.67,
+      "changePct": 2.12
     }
   },
   "news": [
+    {
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-14T11:38:13+08:00"
+    },
     {
       "title": "Amazon pauses work with cargo firm after fatal crash",
       "link": "https://www.bbc.co.uk/news/articles/cx2zg554w9ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-14T10:40:06+08:00"
+    },
+    {
+      "title": "Hayden Panettiere's boyfriend Brian Hickerson detained, his brother arrested - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNXo0eWEtUVR6ZkNkcEozM1JKdDZxM3hxWktjcC1LS2MtaVQ0bjQxS1RWQ0RLdjNEa0EyamV1YVVYeHJueTFyejJpMlhpdjRTMWFVVUJZQTh0VkJINUtjaDRtMUNCMkZNbHYwVkczYWhSQlFRbTE3SFlIZTl6R0t0Z0dwaDVRWEMxbUZfWGxDcUFPLVowRkw5ak1sMFZoSldvVTg2c2ZNOTU1V29sZzBMWDY3WjBjQ2dQUXBjYzdOeS15RWpFaldXU3NMQWQ3UQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T10:25:00+08:00"
     },
     {
       "title": "Pennsylvania woman died from complications of probable measles case, coroner says - The Washington Post",
@@ -83,12 +95,6 @@
       "time": "2026-09-14T09:28:00+08:00"
     },
     {
-      "title": "Yankee Stadium cooling tower tests positive for Legionella bacteria - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMzVXMENuUUZpX0J5OWktdnNMRi03a3ZQZWxuVHNoVDBhWG5lM3M2TFRJNkxJXzhMQmlkN05jUlpxMTlCUDdxSWV2cG55ak9LOFZ1TUpjR2M0SmtIbEh1MktjbEJFdzJ4NkQ1dURKUlNqWHhRaHE4Rk9JSGVUN254eXpsMndfWFFBUGJvLVdtR2pZTWZKUkVIODJyNHQwU29VRk1z?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T09:22:36+08:00"
-    },
-    {
       "title": "Iranian cargo ship is struck, and talks between Tehran and its neighbors are postponed - AP News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMG04XzJlaFg3N0hjVGVucURCODFNSFJKYkdZaHY0aWZxMWJCXzlPY1pGOUNrWHRhWkc3NnJXQms3X1ZxaHBxOTBHTUZVNUFWWXBJV0hLcG9PaEg0Nm9VaTQxbVNfallyV0ZhVzlfMGpqaWMwLTV2ZmYwRGZYNm9EUzFLMnMzZkREbzRlR1JqR0tBd1Fs?oc=5",
       "source": "Google News Top",
@@ -111,6 +117,12 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFlrX1hXQTR3emM5dk9TVjlKV2wwSHdLSXZVazJfRERfajZic2J2YU9hckd6QzZINnc3MFNzRG9FVmVsY09JZWlBcy1QX3BkaTFpLUJ6aElCODZzU1JiWnVmN1pKdS0yMTZjbkRCeWlTRmlDSkRFSEF4MEI4OTV0LW82RUQ2TTZ4dXlKQV9VSTA1X2ZxQzZJYWl4WkRPcVc0eWQzMXktWE9kYjhESU15aWJYMGVGdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T08:59:00+08:00"
+    },
+    {
+      "title": "Indonesia rescuers searching for 129 people still missing after passenger ship capsizes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV2x6VkxsSnR0bWg1ZGtiYllMeWo3eVQzRlRoMjhWTEc5bDdFYUVDLS1pZ3haS3VXTndCWlE4YXI3TEd2MUpKaFF4UW4ycVBYYU9vSmJHSnVEX0JaX2lwQTF3UUxrbENjVS1RajRtZmI2MmoyTzZjOERRT0VaWHcweE1uM2VXTlBNUk5KakRGS09EaS1rVXFITWJKd1AwY2V6c0pwX1hLa1A5TExzdWNuOWRNdkRkemFaMDQxZlczVWxKQ2xZSFR2LQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T08:54:00+08:00"
     },
     {
       "title": "Trump resists AI slowdown as the political tide turns - The Washington Post",
@@ -137,10 +149,10 @@
       "time": "2026-09-14T07:32:00+08:00"
     },
     {
-      "title": "Emmy Awards 2026: What to expect from the ceremony and how to watch - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RYzBiRWR3d1UtYXIzNDZBZS1MMXk2Sjl5UVg1MUtfSVllNGVIX1V4OWxkZjNzWjBjdVZxSGRpc0pyZkRzM21GRTVkOGtTYnVVdmtZejVwZUdFQQ?oc=5",
+      "title": "iOS 27 Available Tomorrow With These 8 New Features - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50QktMNEpUcGU1WGFfM2FsVjhwYjlRZVV5bDRCVWJMLWFhcF8yZzJ2MDloVkpRdEdPdkNYYm1NTl9BTWZ4cHNUczU2SVJJWExUczh0M3Q0WlppYkV2bkJjQ0dYQUJheFZac0NOa19vTlZmazRCWjlPY283Ujg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T07:21:00+08:00"
+      "time": "2026-09-14T07:30:07+08:00"
     },
     {
       "title": "‘Practical Magic 2’ bests ‘Spider-Man’ and ‘The Odyssey’ at the box office, but fails to conjure profit - Entertainment Weekly",
@@ -155,22 +167,10 @@
       "time": "2026-09-14T07:12:00+08:00"
     },
     {
-      "title": "Gloomy forecast for tenants as rent rises set to speed up",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-14T07:05:45+08:00"
-    },
-    {
-      "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES - spaceflightnow.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzllanRITFdPSHNOVTdFeDBFamJ3RnJ5SmFWYnYtakxaX1BqSW15eFNRZ18xb3p2T2ljUTJ5dmI5aUdWNm5hZEp4UXlNb3lyWHdpejBEQ2t5VHROTFoyUF9KcGxVWEpoc1ZCbWE5Rm1iVmd2amhQbGFyNG96SU1wb2c2cVhmdkNTQlVRc1V5Y24wZnIyZjRBSTd5SDBUUFR6cF9hUU1GQm04ODg?oc=5",
+      "title": "New York Jets vs. Tennessee Titans Live Score and Stats - September 13, 2026 Gametracker - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTEg0S0FxUUVKd2ZSSUpRbmNDRGtQTGVZMVJTeUljVGpaNDNMMkg0OHhQQk5hMWp3M2xXODczby1GUGtFOGNQdHI3VDZfNnJsR3h4X0RxOTZIQnBoUE5KVTJmQmphUlRYZEVVbXBuV0t2T3ZEbUVmeg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T06:38:00+08:00"
-    },
-    {
-      "title": "Why Trump's united Ireland stance hit such a nerve - Axios",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1naDV0SklkbzhsVUJJVEpKZFMzdmhIOUdRVVVRMzNKWjN5Szd5cl9wOWRkNGpfYzJxR2ljbFR2eXlQWVpJTzVydWtnb2ZMbGgyZ2lVN25ZcUVXLTNnSEZNSUswR3NVNjFVa0tCNkJyU2tfLUE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T05:49:50+08:00"
+      "time": "2026-09-14T07:06:31+08:00"
     }
   ]
 }
