@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-14T09:14:32.987277+08:00",
+  "generatedAt": "2026-09-14T09:45:34.632886+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602308.0,
-      "changePct": -0.56
+      "priceHkd": 602731.36,
+      "changePct": -0.51
     },
     "ETH": {
-      "priceHkd": 19484.12,
-      "changePct": -1.56
+      "priceHkd": 19472.44,
+      "changePct": -1.6
     },
     "SOL": {
-      "priceHkd": 782.04,
-      "changePct": -2.07
+      "priceHkd": 780.63,
+      "changePct": -2.46
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1091.81,
-      "priceUsdOz": 4331.5
+      "priceHkdPerGram": 1094.88,
+      "priceUsdOz": 4343.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.13,
-      "priceUsdOz": 63.98
+      "priceHkdPerGram": 16.18,
+      "priceUsdOz": 64.19
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 809.09,
-      "changePct": 3.15
+      "priceHkd": 806.74,
+      "changePct": 2.85
     },
     "Natural Gas": {
-      "priceHkd": 22.63,
-      "changePct": 1.94
+      "priceHkd": 22.65,
+      "changePct": 2.05
     }
   },
   "news": [
@@ -56,7 +56,7 @@
       "title": "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T08:59:27+08:00"
+      "time": "2026-09-14T09:04:20+08:00"
     },
     {
       "title": "Pennsylvania woman died from complications of probable measles case, coroner says - The Washington Post",
@@ -65,10 +65,22 @@
       "time": "2026-09-14T08:39:15+08:00"
     },
     {
-      "title": "Alexander Zverev claims first US Open after four-set battle with Ben Shelton - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmE0VkRDTWZTdUFKWXBXai1yMUFzU09FMExtSFE2V3ZDOXV2djViY3RnTXdLUE9WVHdNSl9VTng5SjA3OGF3cHg4Zk51T2pxbktWM0I1SXRoMENkaW9ySEpsNUxJN0thUzFUeHE4VV9hUy1LbE5LZVZZZFNiWldVS3B6TVp1RTJHSkV4RzZRTzlXMk54RVJlTDF6blBWUQ?oc=5",
+      "title": "Key NFL Week 1 stats on Bears, Bills, Texans, Bucs, Cardinals - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa3Q0M0VvN0FuZDlUZXY3djRDVmJRTExDdmpCUW15dDFXQ0x3RW9pd1d5QV9VeWRrNElaelhJRnJPYnYxUmZBaWxrVnpGX2xJeVRsUG1sQjBlMmw1a19WUUd6RkMxTk9hLXJmOTROWVJNbmVWY0dZRG9DUlBWSXk4WkhPY2ltY1E?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T07:47:00+08:00"
+      "time": "2026-09-14T08:15:00+08:00"
+    },
+    {
+      "title": "U.S. Air Force officer shot down in Iran says he prayed while \"free-falling\" to the ground behind enemy lines - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbnVwVXdmamxtTXBDdzZacHJlQ1owNnlnN0ltcXpuWWVkV2tHcHhlZzFSbUptZU1Nck9LVEJSSFktX2h1YWpPYnJPdUJyRUlOMkEwVDloS0pnT0xqSXhna3RVWWxDVFdnbXNEUVVDdGNjdlN4WDBHYllya2R4dmFYeUhWQlE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:58:00+08:00"
+    },
+    {
+      "title": "Russian Strikes on Ukraine Hits Near David Petraeus, ex-C.I.A. Chief - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUEdwM095OUd0Q1Z5dmJlelpnOFBHX3JzSkhnOEhfTW1rOXdBeVJ4dDdwelB3S3Z3Uk41aFpXUGZwd2d2M19heE1WVVV5d3l6STVPN1pmRFFHOE5neHlfVHZWU0I5OGdXTzZPZFotY2pWTmJ2RXh4RkpFdjdOTFZJVDNzUmVLVXRQZjJWWA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:48:49+08:00"
     },
     {
       "title": "How to protect your laptop, phone and bike from thieves at uni",
@@ -77,13 +89,31 @@
       "time": "2026-09-14T07:39:32+08:00"
     },
     {
+      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:33:00+08:00"
+    },
+    {
       "title": "Tom Tiffany's plane forced to make emergency water landing after campaign event - WISN",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T07:32:00+08:00"
     },
     {
-      "title": "Emmy Awards 2026: What to expect from the ceremony and how to watch - bbc.com",
+      "title": "iOS 27 Available Tomorrow With These 8 New Features - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50QktMNEpUcGU1WGFfM2FsVjhwYjlRZVV5bDRCVWJMLWFhcF8yZzJ2MDloVkpRdEdPdkNYYm1NTl9BTWZ4cHNUczU2SVJJWExUczh0M3Q0WlppYkV2bkJjQ0dYQUJheFZac0NOa19vTlZmazRCWjlPY283Ujg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:30:07+08:00"
+    },
+    {
+      "title": "Alexander Zverev beats Ben Shelton to win the US Open title and extend a drought by American men - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVY4V2tRb2J6d3pfaDRmOVhyazVfMkVpaXpqZTV5WmdxRlAzQzEtaTYzMjVvMkh0X2E1OVRQa1U0NkE5SEVOU1J0dnRmakpxalQydWpaWlQzOHAxaXNITjVYNkdyU1RZLV9PdXlmZHpYRDNORGs5Z3FmZVBUcVJZQU8yZDZJb0xSX2xFd2ItSU9idlFLaWdjaA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:25:00+08:00"
+    },
+    {
+      "title": "Emmy Awards 2026: What to expect from the ceremony and how to watch - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RYzBiRWR3d1UtYXIzNDZBZS1MMXk2Sjl5UVg1MUtfSVllNGVIX1V4OWxkZjNzWjBjdVZxSGRpc0pyZkRzM21GRTVkOGtTYnVVdmtZejVwZUdFQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T07:21:00+08:00"
@@ -93,6 +123,12 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcVdXSFFtWWdXT0JfYjdEZ0RlVDFjYUF5Y0JOdjNCbUxhRE5OUGpLSnNYMEw3d1RjZjByZGlUZ0Znd3hmSzM1aU84WGpqTmVOaGMwRzlKRXpjLUxCd244Tjg5bUlSS1NlUGhHX3pwb2lyaTdXUzU4TENtUEpxYTFlejVTSFRBemhRbjN0cQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T07:17:02+08:00"
+    },
+    {
+      "title": "New York Jets vs. Tennessee Titans Live Score and Stats - September 13, 2026 Gametracker - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTEg0S0FxUUVKd2ZSSUpRbmNDRGtQTGVZMVJTeUljVGpaNDNMMkg0OHhQQk5hMWp3M2xXODczby1GUGtFOGNQdHI3VDZfNnJsR3h4X0RxOTZIQnBoUE5KVTJmQmphUlRYZEVVbXBuV0t2T3ZEbUVmeg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-14T07:06:31+08:00"
     },
     {
       "title": "Gloomy forecast for tenants as rent rises set to speed up",
@@ -107,7 +143,7 @@
       "time": "2026-09-14T07:03:51+08:00"
     },
     {
-      "title": "How Carney plans to sell Canada to the world's biggest investors - bbc.com",
+      "title": "How Carney plans to sell Canada to the world's biggest investors - BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxb051Sm1ZbFN5Mk9Ga0d3RDFNRWlKU255dThwYVpMWDhEeWY4T2RSUUxPcDFrOWxEd3JHQ3NRSXJfbGpiTE5CbHpxcFp3Sy1nWTNrdWN6a2s0dw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T07:03:06+08:00"
@@ -125,52 +161,16 @@
       "time": "2026-09-14T06:44:00+08:00"
     },
     {
-      "title": "SpaceX launches 700th Falcon rocket, carries final 3 O3b mPOWER satellites to orbit for SES - Spaceflight Now",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzllanRITFdPSHNOVTdFeDBFamJ3RnJ5SmFWYnYtakxaX1BqSW15eFNRZ18xb3p2T2ljUTJ5dmI5aUdWNm5hZEp4UXlNb3lyWHdpejBEQ2t5VHROTFoyUF9KcGxVWEpoc1ZCbWE5Rm1iVmd2amhQbGFyNG96SU1wb2c2cVhmdkNTQlVRc1V5Y24wZnIyZjRBSTd5SDBUUFR6cF9hUU1GQm04ODg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T06:38:00+08:00"
-    },
-    {
       "title": "Swedish party blocs tied after Sunday vote, projections say",
       "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-14T06:27:54+08:00"
     },
     {
-      "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T06:25:00+08:00"
-    },
-    {
-      "title": "Baltimore Ravens vs. Indianapolis Colts Live Score and Stats - September 13, 2026 Gametracker - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5paHd6ck5LWGI5S2RHQ0dobklmRzV6dzVZbW9PT2ZGaGRrMzViMnYzUUMxQVJXRjIyQ0tZN1hLVnJKYVpFTXFibnZSYnBpMUxWSEdUYjVLMmF6bEFSVld1SWdFeWs2MHB1cXlwNU9QTGNmMTdrS3lyVA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T05:53:35+08:00"
-    },
-    {
       "title": "'Culture shift' needed in how UK does business, PM urges",
       "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-14T05:30:21+08:00"
-    },
-    {
-      "title": "Sweden election forecast says vote too close to call - politico.eu",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmp1czdEc0VQY3NLcUMtVjZEU2hjNjBNMXNfWkktMUpQSUtBT0ZLTURGcjZjS3ZadzZFWW9hZVA4RmEtNEFOUGdScHJ3OUNldVBSZkNPYUZkU2tYZXlaQjM0S3hsS0tKMTBOeXl1c0NPNUtaOTZzYW9lUHFVYTBMU2xrQTNCcEZqNWIwY1VuYmM2QUtWQTBUNUV5dXdKUGZEcTgzbQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T05:16:10+08:00"
-    },
-    {
-      "title": "QB Kyler Murray suffers concussion in Vikings debut - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbW02SzNUWUNNYVBQZlJLdmhwLXJCYVJaeGw2NDRiYkJDUDRRM3ZGTFE2UTExdzVVeDlMYTVFSnIwQkpJT3QxOEJER1hGMGxVR0NybUdONFBGRVZOWHk0OUhpWmJjR1dpckpjQi1ocExaX3hBQXJrdjg3U0dmTkd0WWkzc2w1cGx1emFyMC00a0lqQ1pkb1YyNnlGdi0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T05:14:00+08:00"
-    },
-    {
-      "title": "AP Top 25 highlights: Texas takes No. 1, Oregon falls and Michigan returns - AP News",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zaHBfcFFYbEtleml2SG9ocDZQVjBHaHVkX3FSZUF1ZUg0TUpsMENQa1A4cU5JTXFpdlJZa1h0UkdMTkZ5OEVQWDF1d3VCOWpVZFVMZjFEd2djQ2ZBZ3AzOW9UdTNwdGNVM3B5ek9vdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T05:09:00+08:00"
     }
   ]
 }
