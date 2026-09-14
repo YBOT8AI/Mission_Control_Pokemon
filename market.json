@@ -1,57 +1,87 @@
 {
-  "generatedAt": "2026-09-15T03:21:08.318407+08:00",
+  "generatedAt": "2026-09-15T03:52:11.912656+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 620300.8,
-      "changePct": 2.45
+      "priceHkd": 619995.04,
+      "changePct": 2.4
     },
     "ETH": {
-      "priceHkd": 19915.95,
-      "changePct": 1.33
+      "priceHkd": 19941.75,
+      "changePct": 1.58
     },
     "SOL": {
-      "priceHkd": 810.97,
-      "changePct": 2.42
+      "priceHkd": 809.01,
+      "changePct": 2.33
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5490.04,
-      "changePct": -0.33
+      "priceHkd": 5487.26,
+      "changePct": -0.38
     },
     "SPX": {
-      "priceHkd": 59821.55,
-      "changePct": -0.35
+      "priceHkd": 59793.72,
+      "changePct": -0.39
     },
     "SPCX": {
-      "priceHkd": 1179.14,
-      "changePct": -0.54
+      "priceHkd": 1164.63,
+      "changePct": -1.76
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1084.6,
-      "priceUsdOz": 4302.9
+      "priceHkdPerGram": 1080.89,
+      "priceUsdOz": 4288.2
     },
     "Silver": {
-      "priceHkdPerGram": 16.04,
-      "priceUsdOz": 63.63
+      "priceHkdPerGram": 15.94,
+      "priceUsdOz": 63.24
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 791.37,
-      "changePct": 0.89
+      "priceHkd": 794.43,
+      "changePct": 1.28
     },
     "Natural Gas": {
-      "priceHkd": 22.56,
-      "changePct": 1.66
+      "priceHkd": 22.55,
+      "changePct": 1.59
     }
   },
   "news": [
+    {
+      "title": "Carney gambles on the world's biggest investors betting on Canada",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-15T03:29:12+08:00"
+    },
+    {
+      "title": "Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQTkzVWE0V0RqYVV4SldIWldodHFSTTF4d0NyMGk2cjFsWlYzTmdsTmVENlR0aF8yUXdpekxJNkE0ZURVSndyaVAtWjFjcG0yTmNHUjdzYkkxQjhzZjBwVEdWZFpkQTR3Rm12ZUx3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T03:19:27+08:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T03:17:00+08:00"
+    },
+    {
+      "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29wODhuZlktU3JvamFHU0lhaHhEaHpRTUpUajJaeXdSb2ZHdnVpTlRFZUc4Q0pGRDRqdi1hWnJiU1dOUVVTMEE5OTN5bEc0Xy0zTnU4emRkc1VFYmdLNVB3bEhnVUNENTdCSmNMdmY0QTRRbG1aRmh0VTdMUlpCbHVqZHNpNWtxM2U0SHZrSmdVY1ExcnEwWmJ1WEdROUhvMzkwUWpQcVFhczVZS3ZYajNvY001LU9vcG1iY3hYY2J2aXdJSUtJa2tid3Y0VkU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T03:12:32+08:00"
+    },
+    {
+      "title": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG1LYnlQcGdra1ZfQXJyV1A0MVFPQlBNWlhNSHA3aGxkcjB2cUI0aGF2VUptQVpTT0hkbDN1eWJCWmZaMmhDVVpNUlZCOVhYM0ZsQ0VTaVowRE1SeVk4bXZxUWNnWFVHbEd5YUJwV0VjWncxTUVQN2V5cEJVbkM2LVR4QTRhWWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T03:11:49+08:00"
+    },
     {
       "title": "Government set to nationalise troubled steel firm",
       "link": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
@@ -65,46 +95,34 @@
       "time": "2026-09-15T02:54:16+08:00"
     },
     {
-      "title": "Kennedy Center says it’s on the brink of bankruptcy, might close as early as Tuesday - NPR",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbkNuSnFmNVFNTkwxeEc0UkZjQzlDM2RoYjB0SGlzaFN0elZfNmd5dUFXZzhXemNrSmNfMzVaWFpKalRvWGM1TDdET0YyMnhiS0hVNW8wM3NhMXVaM2c3R0t6cVdpYU4wZkpTbUhxNUh0cFV3ZURxdjFfa2dkY1NSY25ieDZPTmpjWE5aUQ?oc=5",
+      "title": "Mitch McConnell expected to return to Senate this week - Politico",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1VxRlZHY1owanllWk5CT2lEdmFLc2NiaXVYQ00yVDRpZjVBQjQ5M2djOXZHaWlKaHROaEJCS09FSFRoRXVRSkZpeWw2NzAzb0pWaUZoa2VQNno3cWpDTWZXQkphTzdkeDlMLUxGTGVtUHNBX2ZLQjJfN0JpY2p1aEJWSFB6QQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T02:25:04+08:00"
+      "time": "2026-09-15T02:43:00+08:00"
     },
     {
-      "title": "A teen autopsy marks the arrival of a deadly drug in San Francisco - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcjJDZkZyWjFWSmZjUlBYQTRQX1JoR3V5RXZqX1o4REk2RV85cWJxb2VYSlBFQ00zZTZHWXlHaVNkOVVfX3lqV08xbjdGMVUyMGplOGNkYkJydS1haFZYTVNscUxxcDNPbWlISy1uc2FCYzFxcUpaRHFYYkNBbzVIZTZEZnRCZTBXTU5waXc1MkQ3czduc3JOaGhnekJLeEpSMGZYeXBMSUQtZkV2TVE?oc=5",
+      "title": "Cities challenge Trump immigration rule over public benefits access - Axios",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjBlUV9qWE9jRkh3VmdDOEh5TUJDazVpbGFiMzJYaWdJb2djZGx6U2pPNDkwek5zZ2pwaEhrWE4zM2cwVi1KSi1wYXBVYVB6aENZNmZXdzB6YS1FUmxJem56aTI3dUp5ZVRLcUltZlRQbzFLQkp1MVR0bDhJRER0ZG1qSnptUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:58:40+08:00"
+      "time": "2026-09-15T02:41:39+08:00"
     },
     {
-      "title": "Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTh3OEh1dVJfRmRuYURMX0lwOUlxeGlMcy1YVzZqeW84d2lOaVV2VzVpZVlucUtkMmd1d3ctZWRtNE1xX1BfZDZmZ3M1TmY1UzZSWU5fUFlYeDgxMENkS290RURLUjBhRFVtRHhkeVFhWHJFa29QNFJEOFljTW1Zeg?oc=5",
+      "title": "Fed's table is set for a rate hike, a first under Warsh - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:55:00+08:00"
+      "time": "2026-09-15T02:25:51+08:00"
     },
     {
-      "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29wODhuZlktU3JvamFHU0lhaHhEaHpRTUpUajJaeXdSb2ZHdnVpTlRFZUc4Q0pGRDRqdi1hWnJiU1dOUVVTMEE5OTN5bEc0Xy0zTnU4emRkc1VFYmdLNVB3bEhnVUNENTdCSmNMdmY0QTRRbG1aRmh0VTdMUlpCbHVqZHNpNWtxM2U0SHZrSmdVY1ExcnEwWmJ1WEdROUhvMzkwUWpQcVFhczVZS3ZYajNvY001LU9vcG1iY3hYY2J2aXdJSUtJa2tid3Y0VkU?oc=5",
+      "title": "Donald Trump Jr.’s wife defends wedding gift from Russian oligarch - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWk3b2Itb2ExbWExcnhkQ0Q0LVJncUFqSnhwUi1uOWVuRktwYW1YVmxvUTlPNjA0cGhkd1RidjI3V3BmTGhvYXRLVzFrOHgxQlk4NUdydkV6NW5ITC1GSlRnTDlyOGFiN0l4NVRHY3lpQ1lQNXYwWElhdTcycml6cFFmTnI4cVF5dVlRTE15RkhLMkF1dFZXbFpCRWxWMkVsMnVtZjk4M29Ic09PSFRQSVVQeHdmNVVkRk5R0gHAAUFVX3lxTE9rd2dKd0wyMVFqZjJ0QVMtQm1WNU83WllsNVdpTW9ZUEtCUnZwY0Y1VEpNZk1ZVWdOdS1sM3dKNlpVRFZzUUdpdk5jckE5bVhRcUZwa3BhR2ktWUI5SFpTTGZzMGlWMEFVcmp1djRQQkg0c0VlNFNBeVI2Z3QwME85QVMzZWlsOGhwQmVGVmtENkhub3FpR05sUlRqSzY3TG4tbWlFdVU3TTFtRlprSERnZ244aVlSeE1saWVOalY0Ug?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:53:02+08:00"
-    },
-    {
-      "title": "Bob Mackie, Designer Who Bedazzled Carol Burnett and Cher, Dies at 87 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQTkzVWE0V0RqYVV4SldIWldodHFSTTF4d0NyMGk2cjFsWlYzTmdsTmVENlR0aF8yUXdpekxJNkE0ZURVSndyaVAtWjFjcG0yTmNHUjdzYkkxQjhzZjBwVEdWZFpkQTR3Rm12ZUx3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:49:19+08:00"
+      "time": "2026-09-15T02:03:00+08:00"
     },
     {
       "title": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president - NBC News",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:47:07+08:00"
-    },
-    {
-      "title": "Stock Market Today: Dow Slip; Oil Prices Surge; Nvdia Stock Down — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:47:00+08:00"
     },
     {
       "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
@@ -119,13 +137,7 @@
       "time": "2026-09-15T01:31:28+08:00"
     },
     {
-      "title": "Donald Trump Jr. And Wife Defend Lavish Wedding ‘Gift’ From Russian Oligarch - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGtqQmQwRTFaUDhVTTRoMHNoTUZWODFaejhtbkdSVkFkMnYzOHVqSWs3dXFuakFsdENrVmE4eF9sYmN1aUlSeTJBTGliMTdtNHRpbnY1YTJ6RllXQ29ROFZoeWdxcDlEYTFvMFZtXzV5XzNxNmVXUEl0dzdKcVU1U0dkcXBSc24yYm5LVTVrT2FBdXRfeGdiZk9fVzRaRkVBUmZmenlsUFBJU2tuLTQ2cWlMcC1wSlN5M01hZlV2Y0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:31:00+08:00"
-    },
-    {
-      "title": "Senior Democrat pushes back against AI select committee - politico.com",
+      "title": "Senior Democrat pushes back against AI select committee - Politico",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMUYyQ3R2VFRpSEJlcUtuc3ZKdU03OEpMQzhnRFBkcGlyeEZ3UVlGVDVxMW4zMTI1YVo1MUJEM3IyUy12d3l5ZXVKV2JkTWQ4ZUU3MGJBZlFTNE92anZ4R1pmYVZKR1BpclM4N1hURUkwVmxYRHg1dUcyUUJDQTN1MGpSbDJNdUhYS3dGR0ZvaUxOd0JHWXM1QXRzWDM5MGxmU092NzRlMmNZRThWRlBwRW5SbjlYRk9WNldzWUJnZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:27:19+08:00"
@@ -143,34 +155,22 @@
       "time": "2026-09-15T01:19:00+08:00"
     },
     {
-      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - Al Jazeera",
+      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - aljazeera.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:15:00+08:00"
+    },
+    {
+      "title": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5% - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:12:00+08:00"
     },
     {
       "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNXaGMycFQ3Qmw0RVdfU3hoay16YmNvWXF0NTBGTUQyY3k5MU9hNDM2NEJpWGt3VVkwVHB6am5DVl9KUUQ0c1M2NXB2Y2c4R2tNOW50ZTcwdldBcThxRG1WR1Z6ZTJ2bHJTWGcxSVphR2JseFpCR0xja3VaNjdJSU1OUms?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:10:32+08:00"
-    },
-    {
-      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lVzNPR0E1bUIzUVk5a3gta2RxeXdjOUlvTl9WdG9scmxkcWlXY0U0Qjc5dWlzRTBwNXF5em0tQ3FOMHctTkxUQlI3S01aTzRRY0JOOVhwWGlsdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:05:31+08:00"
-    },
-    {
-      "title": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG1LYnlQcGdra1ZfQXJyV1A0MVFPQlBNWlhNSHA3aGxkcjB2cUI0aGF2VUptQVpTT0hkbDN1eWJCWmZaMmhDVVpNUlZCOVhYM0ZsQ0VTaVowRE1SeVk4bXZxUWNnWFVHbEd5YUJwV0VjWncxTUVQN2V5cEJVbkM2LVR4QTRhWWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T00:55:10+08:00"
-    },
-    {
-      "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhnYjJkNnVxSGJHM0ZBTkIwcklkdFYyN1lHZTlfVmxPXzQ4OWtVbnlvV1BYTUY2b2VpRjdRd0JlT01USDRwcENBMGJZNng1eTAweml3THdzdDZrOUFnVFlOeDYwRmNXZ016UnJEeWJOUk9Qa0RhNWx3TXFLZkpETW5UU1didVR6Z0pfRXhZU0x5M1BrUjMyNFFmNmJqUVk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T00:51:00+08:00"
     }
   ]
 }
