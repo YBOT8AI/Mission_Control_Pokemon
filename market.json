@@ -1,57 +1,75 @@
 {
-  "generatedAt": "2026-09-15T03:52:11.912656+08:00",
+  "generatedAt": "2026-09-15T04:23:13.955480+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 619995.04,
-      "changePct": 2.4
+      "priceHkd": 622503.84,
+      "changePct": 2.73
     },
     "ETH": {
-      "priceHkd": 19941.75,
-      "changePct": 1.58
+      "priceHkd": 20347.15,
+      "changePct": 3.5
     },
     "SOL": {
-      "priceHkd": 809.01,
-      "changePct": 2.33
+      "priceHkd": 819.12,
+      "changePct": 3.27
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5487.26,
-      "changePct": -0.38
+      "priceHkd": 5482.51,
+      "changePct": -0.46
     },
     "SPX": {
-      "priceHkd": 59793.72,
-      "changePct": -0.39
+      "priceHkd": 59740.64,
+      "changePct": -0.48
     },
     "SPCX": {
-      "priceHkd": 1164.63,
-      "changePct": -1.76
+      "priceHkd": 1161.5,
+      "changePct": -2.02
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.89,
-      "priceUsdOz": 4288.2
+      "priceHkdPerGram": 1082.88,
+      "priceUsdOz": 4296.1
     },
     "Silver": {
-      "priceHkdPerGram": 15.94,
-      "priceUsdOz": 63.24
+      "priceHkdPerGram": 15.95,
+      "priceUsdOz": 63.29
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 794.43,
-      "changePct": 1.28
+      "priceHkd": 797.8,
+      "changePct": 1.71
     },
     "Natural Gas": {
-      "priceHkd": 22.55,
-      "changePct": 1.59
+      "priceHkd": 22.54,
+      "changePct": 1.55
     }
   },
   "news": [
+    {
+      "title": "Macklemore dropped from Ed Sheeran tour after pro-Palestine comments - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHV1aVdRZ2QyZlFJa0RlelVxZzBCRE1TbUZsMERwU1NoSHlTZkppUmt3NWw1aWFWbjB5aEdZc3pXWERWX2VjWUlITmMyWEdLZGJjempCeGwwcERiWVlxcTRpMlJOcERLbGJtZ19qakVUd3Zaa3NPR0EwRkNEZ1AyQklmQWtMd1huV0YwRFRNdjZIb1ctSmNiM1kyUmxUZkpIcDg2eHpkOGs0S1E3RjZ4VW1wUk9zbTE4UFZGal85YW14ZlVH?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T04:13:31+08:00"
+    },
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-15T04:05:51+08:00"
+    },
+    {
+      "title": "Iran War Updates: Oil prices stay above $100 per barrel as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T03:57:31+08:00"
+    },
     {
       "title": "Carney gambles on the world's biggest investors betting on Canada",
       "link": "https://www.bbc.co.uk/news/articles/c0m3neyyzm7o?at_medium=RSS&at_campaign=rss",
@@ -71,16 +89,10 @@
       "time": "2026-09-15T03:17:00+08:00"
     },
     {
-      "title": "Macklemore says he was dropped from Ed Sheeran tour after Patriots owner Robert Kraft organized boycott - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd29wODhuZlktU3JvamFHU0lhaHhEaHpRTUpUajJaeXdSb2ZHdnVpTlRFZUc4Q0pGRDRqdi1hWnJiU1dOUVVTMEE5OTN5bEc0Xy0zTnU4emRkc1VFYmdLNVB3bEhnVUNENTdCSmNMdmY0QTRRbG1aRmh0VTdMUlpCbHVqZHNpNWtxM2U0SHZrSmdVY1ExcnEwWmJ1WEdROUhvMzkwUWpQcVFhczVZS3ZYajNvY001LU9vcG1iY3hYY2J2aXdJSUtJa2tid3Y0VkU?oc=5",
+      "title": "Cities challenge Trump immigration rule over public benefits access - Axios",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjBlUV9qWE9jRkh3VmdDOEh5TUJDazVpbGFiMzJYaWdJb2djZGx6U2pPNDkwek5zZ2pwaEhrWE4zM2cwVi1KSi1wYXBVYVB6aENZNmZXdzB6YS1FUmxJem56aTI3dUp5ZVRLcUltZlRQbzFLQkp1MVR0bDhJRER0ZG1qSnptUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T03:12:32+08:00"
-    },
-    {
-      "title": "Mahmoud Khalil Says Columbia Failed to Protect Pro-Palestinian Students - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRG1LYnlQcGdra1ZfQXJyV1A0MVFPQlBNWlhNSHA3aGxkcjB2cUI0aGF2VUptQVpTT0hkbDN1eWJCWmZaMmhDVVpNUlZCOVhYM0ZsQ0VTaVowRE1SeVk4bXZxUWNnWFVHbEd5YUJwV0VjWncxTUVQN2V5cEJVbkM2LVR4QTRhWWc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T03:11:49+08:00"
+      "time": "2026-09-15T03:13:07+08:00"
     },
     {
       "title": "Government set to nationalise troubled steel firm",
@@ -89,31 +101,25 @@
       "time": "2026-09-15T03:06:46+08:00"
     },
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LX1VWZndOZkpCRzh4M21BdnVxb0QwNGxiX3UxamJ6TlV4ZDZRZWlhY3RmMS14WjNDazU1YWpKMFF4THhWNFF3eDBndzBqdmRBcFl3dTBiTk1GaXM?oc=5",
+      "source": "Google News Top",
       "time": "2026-09-15T02:54:16+08:00"
     },
     {
-      "title": "Mitch McConnell expected to return to Senate this week - Politico",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1VxRlZHY1owanllWk5CT2lEdmFLc2NiaXVYQ00yVDRpZjVBQjQ5M2djOXZHaWlKaHROaEJCS09FSFRoRXVRSkZpeWw2NzAzb0pWaUZoa2VQNno3cWpDTWZXQkphTzdkeDlMLUxGTGVtUHNBX2ZLQjJfN0JpY2p1aEJWSFB6QQ?oc=5",
+      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T02:43:00+08:00"
+      "time": "2026-09-15T02:39:00+08:00"
     },
     {
-      "title": "Cities challenge Trump immigration rule over public benefits access - Axios",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjBlUV9qWE9jRkh3VmdDOEh5TUJDazVpbGFiMzJYaWdJb2djZGx6U2pPNDkwek5zZ2pwaEhrWE4zM2cwVi1KSi1wYXBVYVB6aENZNmZXdzB6YS1FUmxJem56aTI3dUp5ZVRLcUltZlRQbzFLQkp1MVR0bDhJRER0ZG1qSnptUQ?oc=5",
+      "title": "Bank of America CEO Sparks Bank Stock Selloff With One Small Word - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcTh3OEh1dVJfRmRuYURMX0lwOUlxeGlMcy1YVzZqeW84d2lOaVV2VzVpZVlucUtkMmd1d3ctZWRtNE1xX1BfZDZmZ3M1TmY1UzZSWU5fUFlYeDgxMENkS290RURLUjBhRFVtRHhkeVFhWHJFa29QNFJEOFljTW1Zeg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T02:41:39+08:00"
+      "time": "2026-09-15T02:32:00+08:00"
     },
     {
-      "title": "Fed's table is set for a rate hike, a first under Warsh - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T02:25:51+08:00"
-    },
-    {
-      "title": "Donald Trump Jr.’s wife defends wedding gift from Russian oligarch - The Hill",
+      "title": "Donald Trump Jr.’s wife defends wedding gift from Russian oligarch - thehill.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWk3b2Itb2ExbWExcnhkQ0Q0LVJncUFqSnhwUi1uOWVuRktwYW1YVmxvUTlPNjA0cGhkd1RidjI3V3BmTGhvYXRLVzFrOHgxQlk4NUdydkV6NW5ITC1GSlRnTDlyOGFiN0l4NVRHY3lpQ1lQNXYwWElhdTcycml6cFFmTnI4cVF5dVlRTE15RkhLMkF1dFZXbFpCRWxWMkVsMnVtZjk4M29Ic09PSFRQSVVQeHdmNVVkRk5R0gHAAUFVX3lxTE9rd2dKd0wyMVFqZjJ0QVMtQm1WNU83WllsNVdpTW9ZUEtCUnZwY0Y1VEpNZk1ZVWdOdS1sM3dKNlpVRFZzUUdpdk5jckE5bVhRcUZwa3BhR2ktWUI5SFpTTGZzMGlWMEFVcmp1djRQQkg0c0VlNFNBeVI2Z3QwME85QVMzZWlsOGhwQmVGVmtENkhub3FpR05sUlRqSzY3TG4tbWlFdVU3TTFtRlprSERnZ244aVlSeE1saWVOalY0Ug?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T02:03:00+08:00"
@@ -123,18 +129,6 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:47:07+08:00"
-    },
-    {
-      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:43:00+08:00"
-    },
-    {
-      "title": "DHS watchdog finds immigrants held at ‘Alligator Alcatraz’ in outdoor cages the size of phone booths - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYllZY1dzaTFPNDRTdEdSSWU4cXBRR3hzWmtpYmpSSTZkb1JUbU9tTHlsOFUtVllvOXhoVE9XZzVnbnloTzhyc2NXRHlqZExmX3BuX2hScFNMcFIyeG1JSk5IUUtKV0d4YlM2ZUgxQlNmb2JBMkVMY3B6MkMwa3J2OWJTUURxWnhkM3htR0xLeU1aRWh1WkF3aDFQaGYwdkE4cmM3RHItSkZLU1Y3TW5HdlRTdGlRdXlBUjdYQ18xVy1qaHFROWc1LU1fSFk?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:31:28+08:00"
     },
     {
       "title": "Senior Democrat pushes back against AI select committee - Politico",
@@ -149,28 +143,34 @@
       "time": "2026-09-15T01:23:38+08:00"
     },
     {
-      "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T01:19:00+08:00"
-    },
-    {
-      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - aljazeera.com",
+      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T01:15:00+08:00"
     },
     {
-      "title": "AI stocks drop on calls for a slowdown as rising oil prices push the 10-year yield to 5% - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFpLbXVrOWE4Ri1ZaUsxT0FWc1VvZHc0bU04NWdORHpjcm5XdFc1YXlOMUE3VXNrbmppdlJOMVBYMkhYS3MtYjl1d3gtbG5mMFNGLU5fdUNWOHo4V2kxcDdDOTE4cW1CRDFkTDNBMXI1ZDdxeGNFSHhldGhSY3NyYTVIQVdrMloxalNiZGJLbkI?oc=5",
+      "title": "macOS 27: new Siri takes on AI productivity apps - TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZHduVWtuUm5CdEpwMEc3dW82TllCTExOZ0p3MzUwSk5FTkc0R1ZUMlViRkJmRmNoYWU4Yl9LODYtSzlrZllxdGxHUUJQNVRmRC03TmFnZ2I1eVFMdXlWUktWSmxuZE1feGlqYVlXbndaWGRMUFJETmJaSWhfNi00c3VJV1I2bWQwLUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:12:00+08:00"
+      "time": "2026-09-15T01:10:09+08:00"
     },
     {
-      "title": "Apple releases iOS 27 with Siri AI overhaul - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZWNXaGMycFQ3Qmw0RVdfU3hoay16YmNvWXF0NTBGTUQyY3k5MU9hNDM2NEJpWGt3VVkwVHB6am5DVl9KUUQ0c1M2NXB2Y2c4R2tNOW50ZTcwdldBcThxRG1WR1Z6ZTJ2bHJTWGcxSVphR2JseFpCR0xja3VaNjdJSU1OUms?oc=5",
+      "title": "Valve’s Steam Frame costs $1,059 - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOelJFX1lkVnRTd1dRMWNRYWo5X3Z4TWRBMDM1MEVWd0VkMTBNVmZDWnRQUTVBVEE3eGhmeGhGQldvRkhRUDFfd09kMjNYdWxDRnh6R0Z0TFJxaC0wQmgxSkZtVXR3dTY5QW1LODdRbWs2X1VNMDRub2J0X1J1M2hlVzRqV1JqdG5JMDRCcWlR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:10:32+08:00"
+      "time": "2026-09-15T01:00:00+08:00"
+    },
+    {
+      "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhnYjJkNnVxSGJHM0ZBTkIwcklkdFYyN1lHZTlfVmxPXzQ4OWtVbnlvV1BYTUY2b2VpRjdRd0JlT01USDRwcENBMGJZNng1eTAweml3THdzdDZrOUFnVFlOeDYwRmNXZ016UnJEeWJOUk9Qa0RhNWx3TXFLZkpETW5UU1didVR6Z0pfRXhZU0x5M1BrUjMyNFFmNmJqUVk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T00:51:00+08:00"
+    },
+    {
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T00:48:10+08:00"
     }
   ]
 }
