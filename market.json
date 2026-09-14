@@ -1,54 +1,54 @@
 {
-  "generatedAt": "2026-09-15T01:16:59.453108+08:00",
+  "generatedAt": "2026-09-15T01:48:06.773639+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 617893.92,
-      "changePct": 1.89
+      "priceHkd": 617948.8,
+      "changePct": 2.0
     },
     "ETH": {
-      "priceHkd": 19847.82,
-      "changePct": 0.89
+      "priceHkd": 19803.06,
+      "changePct": 0.85
     },
     "SOL": {
-      "priceHkd": 806.81,
-      "changePct": 1.88
+      "priceHkd": 806.66,
+      "changePct": 1.95
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5492.82,
-      "changePct": -0.28
+      "priceHkd": 5497.41,
+      "changePct": -0.19
     },
     "SPX": {
-      "priceHkd": 59861.38,
-      "changePct": -0.28
+      "priceHkd": 59904.74,
+      "changePct": -0.21
     },
     "SPCX": {
-      "priceHkd": 1194.59,
-      "changePct": 0.77
+      "priceHkd": 1192.23,
+      "changePct": 0.57
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1086.84,
-      "priceUsdOz": 4311.8
+      "priceHkdPerGram": 1086.49,
+      "priceUsdOz": 4310.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.08,
-      "priceUsdOz": 63.78
+      "priceHkdPerGram": 16.07,
+      "priceUsdOz": 63.75
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 797.88,
-      "changePct": 1.72
+      "priceHkd": 795.29,
+      "changePct": 1.39
     },
     "Natural Gas": {
-      "priceHkd": 22.66,
-      "changePct": 2.08
+      "priceHkd": 22.69,
+      "changePct": 2.23
     }
   },
   "news": [
@@ -56,7 +56,25 @@
       "title": "Iran War Updates: Oil prices jump to near 4-month high as Oman-Iran talks on Strait of Hormuz postponed - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T01:02:00+08:00"
+      "time": "2026-09-15T01:19:00+08:00"
+    },
+    {
+      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:15:00+08:00"
+    },
+    {
+      "title": "Apple Releases iOS 27 and iPadOS 27 With Siri AI and Liquid Glass Update - MacRumors",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13cXljVXg0N1BXT2NHaDBYZ1hkc3k4cFRvVXZBWDVSZkpxV2tJN1lCV2ZOQmF3Y2pkeVFFcFQ5M2lxNmlSenFJQjFpaXVqQ1A5NnRYQ2hwY2VqRkRsOXQtOHRDOUI3MXNKVlVF?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:04:12+08:00"
+    },
+    {
+      "title": "Steam Frame: The Ars Technica review - Ars Technica",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmc4SUpPN2FuV0doNUNjYWtOZ2EybnJUVlp0X0xvM1FtczhsMF9SNDBrWlZWU2JaNFlZb1hHWHYtMXNVajlQQWVpM1NTTWw1Zmw1MWp5SjlZbEp6Y2pSci0xLVYxNlJaLWxqNGdxMUtEZjV0blNqRzh3bGJrOGZsQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T01:00:07+08:00"
     },
     {
       "title": "Government set to nationalise troubled steel firm",
@@ -65,10 +83,16 @@
       "time": "2026-09-15T00:58:23+08:00"
     },
     {
-      "title": "NFL offenses provide one of the highest-scoring opening weeks in history - AP News",
+      "title": "NFL offenses provide one of the highest-scoring opening weeks in history - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhnYjJkNnVxSGJHM0ZBTkIwcklkdFYyN1lHZTlfVmxPXzQ4OWtVbnlvV1BYTUY2b2VpRjdRd0JlT01USDRwcENBMGJZNng1eTAweml3THdzdDZrOUFnVFlOeDYwRmNXZ016UnJEeWJOUk9Qa0RhNWx3TXFLZkpETW5UU1didVR6Z0pfRXhZU0x5M1BrUjMyNFFmNmJqUVk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T00:51:00+08:00"
+    },
+    {
+      "title": "Immigrants held in small outdoor cages at 'Alligator Alcatraz' in Florida, investigators find",
+      "link": "https://www.bbc.co.uk/news/articles/cqrk37rrpk23o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T00:48:10+08:00"
     },
     {
       "title": "Trump criticises AI boss who called for slowdown and says only guardrail needed is a 'smart president' - BBC",
@@ -77,10 +101,28 @@
       "time": "2026-09-15T00:39:59+08:00"
     },
     {
-      "title": "Russian Strike on Train Station Near Ukraine-Poland Border Seen as Warning to Kyiv’s Allies - The New York Times",
+      "title": "Stocks tumble after AI leaders warn that the industry should slow down - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR3I2OGpIV3NsWFp2UTNwaXJzSzBTUXdmZlRPdnZpUkxrN1B5b0dUbkVRYm1OTkZ3WWt4ZW5ZWFlQVmNULTJBMlJlUnhwWnFuNm1xY3JuUHZHSUs4UWN2WHFXTl9NNjVvdzNGTnFRa2llM3hkM1lpUGRvSnhVVnpvNlRRUFJYdXRnX3dvNW9fRjBXNEJQOXhzeUlKbnJnU3NYcF9iOE1RMUVSd1hTSTdidEx3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T00:39:03+08:00"
+    },
+    {
+      "title": "Russian Strike on Train Station Near Poland Is Seen as Warning to Kyiv’s Allies - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONE5GRm43eENLSWZIVDVrRm0xbHQzbkQwS05qQ3g0bUxrRmczdUw2ZnpLOUZWVWs3Ul9NTm9SZkdVcUJiazFVYkJXODBZcUdEb2tZdFlkU0Fiem1RQkNRYUNBMmhySkJXaXY2QWFscGxvdG1qMnNvWE9aY3JKZWpKMlpXRndNV2xpNnc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T00:34:19+08:00"
+    },
+    {
+      "title": "Bob Mackie, legendary designer who dressed Cher and Diana Ross, dies at 87 - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDUwSkJFUlhxMnlRcGJ0MGNXTHFTSGRDOHF2S1Y4YTRlNXpxekZQc2wzV0RTZTJGSzMtbnRUMWJ3RUN2d05xSUFuM2dNQklmMlQwUEtOY1g0MFduS2NUNjZ1REFlZTZuSm50RDdHR1ZBQWRIRER1S0NnTnVHYWRkUFBXWEJVT3o2ZUxMeFBzVU4tTkdBVDJPUVlzb3dQN2ZhanIyQUcxTWZtZW5pb2ZNejc5MTRZWk5v?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T00:32:00+08:00"
+    },
+    {
+      "title": "Donald Trump Jr.'s wife says Russian oligarch hosted post-wedding festivities as a \"gift\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLVNkWGxUem9YV0JreDBkZ200dk5Bb05hOW0zdWxlU1Q4UUpVV2h5S1Y3VW4tQXR2VWhSZVhVQ1I5ZmxyWVpfd09VMEVaUEdoOTBqTmZWbC0zX1RkU2RtdEdHeDZKdzQ4ZjUySnZXem5FMjM3WGNJbWNTcTRaWXY2a2FiNmt6Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T00:29:00+08:00"
     },
     {
       "title": "Africa's richest man launches continent's biggest share sale",
@@ -95,25 +137,13 @@
       "time": "2026-09-15T00:21:00+08:00"
     },
     {
-      "title": "Stocks drop after 10-year yield reaches 5%, oil jumps; Nasdaq falls as AI names slide: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+      "title": "Sweden's centre-left ahead as far-right stumbles in tight election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNF82STlxaHhSdXNSOE9GbjlTLTR2RFJPelVUblRjOEp5YURhWTZuNE5YMmRlT1MtcWhuNzU2eVhNY3BtSjdXcUo4VDBSb0VpQXNIQVkxZHZSY3V6VTNQd3lGc0tfeHI4MVZZRDRpbUN6bXgzSzdQUlNVaHA1TzJtYUlzZm82MDVfSHZrQzJLdXBTaWhUVXBDR292Y3pPUENiVWk0dFhwTEJzbjZlTTJNaFNIaUVBSU1jNzh2S3V4SW9VWUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T00:14:00+08:00"
+      "time": "2026-09-14T23:42:26+08:00"
     },
     {
-      "title": "Tech Stocks Tumble After AI Leaders Call for Industry to Slow Down - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4teEhEV3lFNEY0RGNiYTR1LWZ2TFlya2dVeGZaS2JkSEhtWnBpQmRIU2FzT2YyY1V0TnNGMXZwYXlQZzlyWDRMY2Q0QVBnVUgybW5mRzEyazNjZl84WEFSai1nTnFtUGJDV2dhNWV2NS0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T00:00:07+08:00"
-    },
-    {
-      "title": "Bob Mackie, Renowned Fashion Designer to Cher, Tina Turner, Carol Burnett and More, Dies at 87 - Variety",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV29MUGRjenVyY1NNdHJKb2l0TXdONXd1ZExuNDJDMkFfX3dIWlAyNWZxczgwZEhoMU5RRFhIWUNUZGJ4SGNQOU9qaVJQNF9aTS0xbzBVcW1XdGUwQkxzcXRkUWhDdDQ4U3NPT3Jxc0l3Z3F6OGhRMVBzcWpHVlg3SXZnNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T23:57:00+08:00"
-    },
-    {
-      "title": "States sue to stop Trump rule that would make it harder for some immigrants to get green cards - CNN",
+      "title": "States sue to stop Trump rule that would make it harder for some immigrants to get green cards - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRG80WExwa2hQeTlwZXpBdF8xVGlMZkpBNUxZWVVhNzZ5YVBWU2JyemxMX0IxUmFRUmM3Y3dmd0NuLWROUzBYRG85VE0teFIzYTFzNUFBU1pKcEhtclZVVjh1dmZaVFBFMHZPUzhmNVpPUnlGeGtlT2JMWHh4TnJLX2Z5QmJXdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T23:22:10+08:00"
@@ -131,46 +161,16 @@
       "time": "2026-09-14T22:58:48+08:00"
     },
     {
-      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
+      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-14T22:57:00+08:00"
     },
     {
-      "title": "Tom Tiffany's plane crashes during emergency water landing after campaign event - WISN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblJ1UXd6NjV2WEtOV1hhS05aOTQwMkk4ZmtOSU1PdlFCUDdJTGtYSGduOEV1WnNKcmowN3dsSUpDYlBsZktUUndlZm45a0QtZWlTS2xCckdMX3ZpLUF5QUZIa3BROE1QSThnbWttbzdUbmRZTDZsUEVrUGZZWXRTbmNPWEdRbF9iMXhfSWxHS0drUFZ4dzdtV1hiOA?oc=5",
+      "title": "Oil prices soar over 4% to 16-week high after Saudi strikes - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa2otdmw3UllpNnlRX3ZCWmlxZnZZeE5kNXE2c1p0d3lIZUxYQ2ZfT3pVZmhlcUFzUXFUaWNfRV8wZ2VYS1NhcHc5eTBkcDd1eEFxOUtIdndFUzBvendCa1M5NFZiQVdVQlJRZk9Sa0hTajlTSV9zR1ZnaWRKeGRMbjJrNWxnQQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-14T22:46:00+08:00"
-    },
-    {
-      "title": "US airman recounts Iran rescue in 60 Minutes segment branded propaganda - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYmIyeTMwQjRQUjNCZHk5cEFLVEpQS29lODc1OFlvMU03VVpNWnI2VGJmZEVmeU13Mko1aWp0YV9lY0liZ0dOU1FDMV9IWG40MDd1ajkzVFA3ZndFYWw2UTEzLVhTNFJxZGxkQ29nTjdmbE0zZkhJeE01dFhCM0FDVDVNX3MzckU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:42:00+08:00"
-    },
-    {
-      "title": "'Culture shift' needed in how UK does business, PM urges",
-      "link": "https://www.bbc.co.uk/news/articles/clyl18x4734o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-14T22:22:55+08:00"
-    },
-    {
-      "title": "Hayden Panettiere’s possible cause of death revealed: TMZ - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbWZHbjItbUQtalFNRW52c2R2MFZQNF9EWUdXaVJGMU5vMnlQeTlmcTNtODMyNkc0eGI0R0NCVTdReWNVT2dKdDlMTXJ0eDBZTXlrNU0ycTlHek11UXhnbWVaTHlYUmgtNXdnbnlUTXl3cTRfOXBxcnFfbWo0NU9WS2s0ZHotcjhtYlp6SWxnb3PSAZYBQVVfeXFMTm9lckhlVnZrVWZDZDVBbG15b0xrUWpBWUp5VFB3aTd5YmxWR2RRNElQTjFzbGlsd3RjVzhuZ09ybGVrV2REY1pnLW1FdDVlNHhQbWtfdHhRb0FiZzQwQ2E4d3EwZGVFRzdoc2JHSE82bWxTM0s1Q180bGNSN21KQXZXMnhKcWdCU08zbkVma0ZzQk9TaTJ3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:10:43+08:00"
-    },
-    {
-      "title": "Why is Trump warning Zelenskyy not to hit Russian diesel refineries? - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObzJXZU5PdWNpTDFWWmF0NDlsT2FtNkRHRWZoM0xDNVlhSmlwSkZDSzRpSXJ1VVZHcTBXX0YzRGNydHh2QmI3RUhOQ1gxaU1admVYT29YUmptRnU2ckdDLUpyY0ZNX3VYTHFBYzRPcHdVdWg4VUhyUVpyMlpFdzIwOXhndkhFZy1ZWkNxRk5pZEljblFtV3czVmctR3AyRkRGUHhfSFMwczdqRVFHNGJsSNIBtgFBVV95cUxNQjRQYUloRmR1Q2htUm9zNDNTY2VYeENzb1hDSUFCWjRYSDMzblVZTzNQVG5PYnUtU185a3Z1WUY3eXpXTTJ1a0JUNVJnX0lFNU1aX3V0c1lCNk5URTFzcDlzRmFYY29QUDRZOGZTdE1VSTFFWmhQeDlfRXc4U3VfbWZHZlZPdlhKMWZrMVZNV0RJNk9fUkRHUWRCbmE5Q245dWtzVmZoX2g4NHdSeVpKX0Q3WHJaQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-14T22:09:22+08:00"
-    },
-    {
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-14T22:08:12+08:00"
+      "time": "2026-09-14T22:56:58+08:00"
     }
   ]
 }
