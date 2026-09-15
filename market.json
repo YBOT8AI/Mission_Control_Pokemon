@@ -1,62 +1,98 @@
 {
-  "generatedAt": "2026-09-15T22:24:58.339151+08:00",
+  "generatedAt": "2026-09-15T22:56:02.105270+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 598983.84,
-      "changePct": -2.53
+      "priceHkd": 592892.16,
+      "changePct": -3.59
     },
     "ETH": {
-      "priceHkd": 19151.94,
-      "changePct": -2.45
+      "priceHkd": 18776.25,
+      "changePct": -4.38
     },
     "SOL": {
-      "priceHkd": 786.27,
-      "changePct": -1.15
+      "priceHkd": 769.81,
+      "changePct": -3.28
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5459.62,
-      "changePct": -0.42
+      "priceHkd": 5451.31,
+      "changePct": -0.57
     },
     "SPX": {
-      "priceHkd": 59485.61,
-      "changePct": -0.43
+      "priceHkd": 59393.65,
+      "changePct": -0.58
     },
     "SPCX": {
-      "priceHkd": 1143.42,
-      "changePct": -1.56
+      "priceHkd": 1135.15,
+      "changePct": -2.27
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.82,
-      "priceUsdOz": 4287.9
+      "priceHkdPerGram": 1079.1,
+      "priceUsdOz": 4281.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.02,
-      "priceUsdOz": 63.55
+      "priceHkdPerGram": 15.96,
+      "priceUsdOz": 63.33
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 812.07,
-      "changePct": 2.16
+      "priceHkd": 816.54,
+      "changePct": 2.72
     },
     "Natural Gas": {
-      "priceHkd": 22.92,
-      "changePct": 0.93
+      "priceHkd": 22.8,
+      "changePct": 0.41
     }
   },
   "news": [
     {
-      "title": "NFL Power Rankings, Week 2: Seahawks leapfrog Broncos and Rams into No. 1 spot; Chiefs hit top 10 - nfl.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWFB3dlQ3cEN2dnJxRkxnWlJnRFBzaUxFQ0UyMUdkMnZadDZ3anFTckpCY0Rfd2lZQ3hUTElLMm5yUkxDaDFyaHZjdGpjdWpEaDRoVVNGUTVsWVpLS2Y0d3o1VUYtOHBrdVVPM3M0aFBISXE1?oc=5",
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T22:35:04+08:00"
+    },
+    {
+      "title": "Why are AI researchers warning of AI’s threat to humanity? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG5RTzFSbmtaY0RGal9jR3ZJYUZ6emc0SFpzaFNLSTZmMEhCdjZpMFdGd1pQTWFERWpfZGNyZldOWW9tb3BYQm1HYm5Wbjc2TkRXYzdFejY1T3BVSUY0Uzdxd3BEbkZnM2VaZzZuMmRNMlJGZnZZaGxHbTBQTEZJTDVfdWlicXpza1dQZ3ZGOTdWQi1lYldfaWktZG1EYk43QXJPUlhTandLMVdlbGJGdzRaRmtPM0hUQUpaVWFVdEtzX2JM?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T21:52:06+08:00"
+      "time": "2026-09-15T22:34:05+08:00"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:25:00+08:00"
+    },
+    {
+      "title": "What weapon could the US have put into space?",
+      "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T22:23:14+08:00"
+    },
+    {
+      "title": "FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnNWdVZzME9BUk5SLU5CZkU1V1NMV2xPdVA3NWxQUWphSGIwRDNSTVZYeGVfbFN3RjdLdzNoTXh6VmlrbG5TNFVicEpXUWdmYkJDamMyZXZPZXI3ZTVfSm9PN196a2VZb1JUbG9GdENPNGlDcEtIRGlfVkNKa21QeEJsNzdOeFlncXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:23:00+08:00"
+    },
+    {
+      "title": "Satellite image reveals major damage that shut crucial oil pipeline",
+      "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T22:21:14+08:00"
+    },
+    {
+      "title": "NATO jets down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T21:48:00+08:00"
     },
     {
       "title": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - Yahoo",
@@ -77,6 +113,18 @@
       "time": "2026-09-15T21:43:01+08:00"
     },
     {
+      "title": "Canada is a 'safe harbour' for global finance, Carney says - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdjY2VHRJQTRJdWFUV1N4Zy1jMnRSQ29kLXFNaV93NzljRXRZYzI4MU5WUEwtMHpvVDY5b09LUlRVQkFJRjFUUnNpQTRXMVgxdTJERV9QNml0ZDQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T21:43:01+08:00"
+    },
+    {
+      "title": "Battery draining faster after updating to iOS 27? Don’t panic … - 9to5mac.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE1nc1oycGxla1JiYnJWeEhVajBfQ0ZwUFFvRVJERnZWaDc1VmJnbXEyaXo2dHNoczhONXVELXBEM1FKQkFPeXJ2eWM3Q1poUGotQWxIbXpSbG9PbV9veXdDNHE1OXFmaWRqODdDR21QWldhTzV4ZWVzOWEydi1tU3pwNjhQY3prNFZpMkZ1OFR3M2F5Y1E?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T21:35:00+08:00"
+    },
+    {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -95,12 +143,6 @@
       "time": "2026-09-15T21:05:36+08:00"
     },
     {
-      "title": "Canada Expands Tax Break to Broad Range of Investments Including Pipelines - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZzBOOUVfTEZnaXNqbFlTR2EyclZJSE1aMEU2MENDZEdxazk0VnRKVzFTWWVhclNybi1RNS16Mld0c2wxQmtMVmJ5QV9pY1QwN2Fkbll5SXo5akxycGl5a3ZMVlhXMk84Vk01REl4ZnU5TVF4ZjNlTm5JUkRWTDJVcFc3Y2Fvb0NoQ1M5U1RieU1JUnJqR1RvNTV3cnUyTmpvUTBmeHdWM0lhbk5QMVNyZjZLOV8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T21:01:20+08:00"
-    },
-    {
       "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
       "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -113,28 +155,10 @@
       "time": "2026-09-15T20:54:37+08:00"
     },
     {
-      "title": "Why this AI doomsday warning from former Anthropic researcher broke through - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNal9ETWZpRkdzdzEwSmpRcWdsVVFsaldpR0E5WXFma3BMOFJBSTRDQlE4SlcyTHl5UzNuekhEMzdiVVp0RGN6NDVOYk5XeGFnQmFWTFFMcTllSzI1d25uWnhrR3lURk1MZ2lfcldzYUZvNjZmdFY3Y2x6OW9mQjdXNGRSVGlGOFFrOGpPS2dCdnNDQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T20:21:00+08:00"
-    },
-    {
-      "title": "10-year Treasury yield hits highest level since 2007 - finance.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUHExLXJJRXZjbEYwR0tyc0xQMktEb1djdXNMbU9YdmthN2VoTkRTZ0tYRjl0LXBlS01Vb0lRM2JNUzBSM2hVdUs0YU1TSlN5eHVlQVRmQ1JDZkFvRUhYLXcxaEVhVEcxaU1lYmh2eVN5YXdnbkk4VFRzT1M0VFdPMDB1RmZMMi1lMTU0SjJQeGJIdkQ5S2JycTBJckVfYXVjb2otU1lwX0FmRW1la0E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T20:19:42+08:00"
-    },
-    {
       "title": "Trump crypto empire looms over Senate showdown - Politico",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT19XakRmSzcyUGE2V3VyeDJ5bzVYYUZselVBaFdWem5VZU1oTWtmSThWdDdhcXB3NG5jRDAyMndjWWNTQ01nOTF2R3BmbThCWFBBbi12NGV0VzlUTnh3RXFIRWFuMF9qcERkVmd1Vkl3eFdWV20zdUptQVRLMnFVYmo3ZXByZGVZOVdPVzMyUzZ4Zk80OF95WE1adVg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T19:56:00+08:00"
-    },
-    {
-      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
-      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T19:49:33+08:00"
     },
     {
       "title": "Russia, Ukraine Trade Aerial Strikes After Trump’s Claim of Truce - WSJ",
@@ -143,34 +167,10 @@
       "time": "2026-09-15T19:47:00+08:00"
     },
     {
-      "title": "NATO jets down drone over Lithuania after alliance warns strikes will drive support for Ukraine - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T19:42:00+08:00"
-    },
-    {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T19:40:00+08:00"
-    },
-    {
-      "title": "U.S. confirms for first time it has weapons deployed in space - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EcU1od2dyTFhudjZpNnpuLTJXeU1zQ3p0Z3liWTMwRnV5R1RIRzN5NzRpQjhMbHZFdlU1N2psRHptUU9WSGpUdmduaUVhd3Z5Mmh0YVVUMkFtdUdYUjlIalRSN0tHa2E4V3U1QldoSFZUSXZ5RGFzOEgtcG7SAYIBQVVfeXFMT01WYndSRDVmQm9oZG11VGF5RDdhYl9kWWhwRjNrczIzN2VnYTFnWTNXMmNBcE8yTy1kWTMzUEp1V2h1Q1NwV3k0Zy1kbTJNLWZwaURITzZ3ZG5XX3lqYzZGZkJxUmdxTFd2WDNxOVdYUEEta0dkVXh2MUlzUF9SMHBCUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T19:06:33+08:00"
-    },
-    {
-      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T19:05:42+08:00"
-    },
-    {
-      "title": "Montana’s giving the biotech industry sweeping authority to sell unapproved drugs - Politico",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXJQMWF6MG5fQkI2VDQwbHgwSU5zejVoNDMtLUVObjhRbDdXOThUSTMxUGZtcEVyM3kyeVVmQkk1RGYzMkFRRTBYRV9vVmcxek4zeUxGY0FkZW1URk1FY2s1WEJYamtxNUdmX3JEb3pEeWVZak03a3dyUlItdDJNWkk2VVlhZ0tmX1V2VlloUDlocEY4amhLM0dvajlWUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T17:45:00+08:00"
     }
   ]
 }
