@@ -1,80 +1,104 @@
 {
-  "generatedAt": "2026-09-15T23:58:10.617325+08:00",
+  "generatedAt": "2026-09-16T00:29:17.609232+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 599705.12,
-      "changePct": -2.67
+      "priceHkd": 599062.24,
+      "changePct": -2.84
     },
     "ETH": {
-      "priceHkd": 19015.21,
-      "changePct": -3.33
+      "priceHkd": 18984.17,
+      "changePct": -3.93
     },
     "SOL": {
-      "priceHkd": 778.75,
-      "changePct": -2.63
+      "priceHkd": 777.65,
+      "changePct": -3.17
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5457.73,
-      "changePct": -0.45
+      "priceHkd": 5460.81,
+      "changePct": -0.4
     },
     "SPX": {
-      "priceHkd": 59462.71,
-      "changePct": -0.47
+      "priceHkd": 59494.0,
+      "changePct": -0.41
     },
     "SPCX": {
-      "priceHkd": 1134.13,
-      "changePct": -2.36
+      "priceHkd": 1129.86,
+      "changePct": -2.72
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1081.6,
-      "priceUsdOz": 4291.0
+      "priceHkdPerGram": 1083.08,
+      "priceUsdOz": 4296.9
     },
     "Silver": {
-      "priceHkdPerGram": 15.99,
-      "priceUsdOz": 63.44
+      "priceHkdPerGram": 16.02,
+      "priceUsdOz": 63.55
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 819.83,
-      "changePct": 3.14
+      "priceHkd": 827.43,
+      "changePct": 4.09
     },
     "Natural Gas": {
-      "priceHkd": 22.84,
-      "changePct": 0.59
+      "priceHkd": 22.82,
+      "changePct": 0.52
     }
   },
   "news": [
     {
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-16T00:13:41+08:00"
+    },
+    {
+      "title": "Republicans pour cold water on Democratic crypto bill counteroffer - Politico",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUN3dHdWb2I4Wmx5NllzQWUtUXJ6UXBxZnpPSy1WVGdRUldTZlFPZ2ZmS0JrWVdrWmc0NldpclV3WXllLTVodlczVV9vMHhWWHNmRkUwbjJKQUZuTG5vS3BBYmlPV2pjd1VUd05sV2s1THd6TmJfdDF0bnRCbi1PWXVsMmtvV00tUDBOWFh4MVl5N3JYRlFxM1hlY00weDNSX1FsRkNsWU9QMHhIRXhmcEZtNnFleTFZcFpjVFpTMWVfTFlVMFRya1FaY0x0Zw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T00:02:46+08:00"
+    },
+    {
+      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-16T00:01:54+08:00"
+    },
+    {
       "title": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T23:22:15+08:00"
+      "time": "2026-09-15T23:55:24+08:00"
     },
     {
-      "title": "DA not pursuing death penalty against Nick Reiner - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFIxck1yNFh2Y3htUE8yelZ1NmNUQkFxdGMzaGZJTlJCdVhBYnREUW1EU1c0eDNTRndlYzh6WUVOTVlwMVlKbkhqMm1IZFlxaHdjOGo2bGdxcXRRYzlUYVBkQjFITFA2R0Zad2JoeDd6VjdMVWRYVG42WnlEcm5teVZtMDd3VmZBWFVr?oc=5",
+      "title": "FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnNWdVZzME9BUk5SLU5CZkU1V1NMV2xPdVA3NWxQUWphSGIwRDNSTVZYeGVfbFN3RjdLdzNoTXh6VmlrbG5TNFVicEpXUWdmYkJDamMyZXZPZXI3ZTVfSm9PN196a2VZb1JUbG9GdENPNGlDcEtIRGlfVkNKa21QeEJsNzdOeFlncXc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T23:20:54+08:00"
+      "time": "2026-09-15T23:52:00+08:00"
     },
     {
-      "title": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T23:10:00+08:00"
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T23:31:34+08:00"
     },
     {
-      "title": "Ed Sheeran Says Dropping Macklemore From Tour Was ‘Promoter’s Decision, Not Mine,’ Explains Why He’s Not Speaking Out on Israel and Palestine - Variety",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZXJFQURXMnhIMGdFSUlmTDFqLXhXNnZkQ01zdDRHYjA4SW15WTFUVGRqY3cxZUtic0E4Z21DSnI4YnozODU0Y1FFNnF4MXJ3TkJGNmZPSTFhY3hIZUN6RXRMUEVMcG1BbzB1ekZpMjlLNUJHMjRDaXpVVFFvYWFvakU2eUViZGM?oc=5",
+      "title": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEJNdUJJb2plSndPNmoyZ0hDQWdpSG5SZkVmeVpnRGJoVlBES3picjQ2ellYeFhEMXBad3JFQ2Zwa2I3TW45bkhJUE9tRTNkMl85OTlZcmZlMFpxa0Z2QmRFQko0bGRaZEJHR1lEWmZySjJMWHFEQXpYQ0lzblpXQTJYWFZRdm9QUWw3NWhwNUpXcUgwaV8yamJtZVBRZGF3dnF6ODRNWHA5NFhPWDZGeDhQLUF0OWNaeXFYM1ZVMUZlMEIxdl9nQlZBUUF1WmQ2bzF1US1qS1B1bjhfUUVZNk8xMDA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T23:10:00+08:00"
+      "time": "2026-09-15T23:25:00+08:00"
+    },
+    {
+      "title": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQkVGWms5RHo1NU9zUldIOTBJSjBYS1B0cV9SWmR0MnRBM0tvVV9BZDI1VEhCRGZXbEs3aE5PUUlCeTg2bkVTd3hmSTVFY0dVOGRnaFdocThoQ0d6ZEhSdk5Sd2RSQ3cwRkNRSDQ5TU96RDByNjZCVnhNci0yM2N3WXEwLWZaeDBEQlhiT2Y3ejh4RmtEbHdNdTMtRUJkaXAxUlRIUlluVU1WakFHNnVPV2U4UjFYVE9GdGd6ckI4d21FUWIyNmJreVZEdUNrVjQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T23:23:30+08:00"
     },
     {
       "title": "British woman abducted in Malawi, police say",
@@ -83,10 +107,28 @@
       "time": "2026-09-15T23:03:27+08:00"
     },
     {
-      "title": "Raheem Sterling admits dangerous driving on motorway before crash - bbc.com",
+      "title": "Taylor Swift Drops Easter Eggs in an Emmys ‘SVU’ Sketch - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcVc0YVRWUDVEWVNqSFI3eUpNTEdEUkFZTzhPQVR5bXk4U0lCbjQ1X0JfcjhuOWxpdlhIc1ZxR3hHci1EUWV3dy1ON1R5b256R0hpczZGLTRnM1hKbllRVGdaSFpXRERKX252T3hPYU5PQ0k2ZlBtLVhQT2dObHpaWEh2OVY4MzhWLW1HMmF3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:57:04+08:00"
+    },
+    {
+      "title": "Raheem Sterling admits dangerous driving on motorway before crash - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMC1kOW1nODNSOFRhM0RFSDRsSzFUTzB2bmx4RnRqbzQ3cXNES3hiajJIOWFqZTRmRmgzVjN4MUpoSkRrOWFVQmY4ODFhMzJjSXNTWUpUM3ZUZzQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T22:54:33+08:00"
+    },
+    {
+      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:51:00+08:00"
+    },
+    {
+      "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:49:49+08:00"
     },
     {
       "title": "Trump lashes out at Supreme Court after mail ballot loss - Politico",
@@ -101,12 +143,6 @@
       "time": "2026-09-15T22:35:04+08:00"
     },
     {
-      "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEtrX2ZYV1JCeGtzX2FqVGJ4ME1BUU1fRmxSMkEyYnhhWl9tRDN5SjdhUXNndU9DaVR2ZXRteEdEZG9sd3NwUGFDMDZwdWcwaUplcmpIV0w3TGcxU2V2NW1FR293VVYydU05cjUxOWZ6VFhWVmVIWHFobnN6c0VrczF2LWQ0TW4teHhxbHoxTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:30:20+08:00"
-    },
-    {
       "title": "What weapon could the US have put into space?",
       "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -119,13 +155,7 @@
       "time": "2026-09-15T22:21:14+08:00"
     },
     {
-      "title": "Saudi Arabia: Satellite image reveals major damage that shut crucial oil pipeline - bbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fSnMxa09KZVFLYjIySU15ZXdQdnprc1dzam1lNWw4a0NOM255Y1ljZmFidlk4aFptREFDRUhSaDlibXpMZ01EWDMzVEhBdy1yNS1tNU1VOWZ4ek0?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:21:14+08:00"
-    },
-    {
-      "title": "Musk Wants a Self-Growing Moon City in 10 Years. Here’s When the Water Runs Out - gizmodo.com",
+      "title": "Musk Wants a Self-Growing Moon City in 10 Years. Here’s When the Water Runs Out - Gizmodo",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMU83a2ZZaTl5WGszSllQUXhPZnZlNUpSLWd0R2pXdXE5WTRMUEFNaGVKd3VIUEozaXpiX3BDd3RESlJUMDFZS1h3c3lBUEpuQWVoMmhZbWhhQmFYUGgtdm9haHFFbXppQTBpcEZQTk8tM1RLRFdpd0Q5R2ZhOC1rakJfeE9heWIyTjFvSTFDV1ZOR19YdFdtZEVYc3V4M3ZySzlDTzlOV2VkR0lh?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T22:15:58+08:00"
@@ -141,36 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWFB3dlQ3cEN2dnJxRkxnWlJnRFBzaUxFQ0UyMUdkMnZadDZ3anFTckpCY0Rfd2lZQ3hUTElLMm5yUkxDaDFyaHZjdGpjdWpEaDRoVVNGUTVsWVpLS2Y0d3o1VUYtOHBrdVVPM3M0aFBISXE1?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T21:52:06+08:00"
-    },
-    {
-      "title": "More than 100,000 people in Japan are now aged 100 or older",
-      "link": "https://www.bbc.co.uk/news/articles/cmzezj5e18xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T21:43:15+08:00"
-    },
-    {
-      "title": "Canada is a 'safe harbour' for global finance, Carney says",
-      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T21:43:01+08:00"
-    },
-    {
-      "title": "What Nvidia CEO Huang Told Trump About the AI Doom Debate - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbV9OTFNlUzFyX05yZTlwOGpYTkxNOE5FU1I2SzhMSTAxb21ZYlM5bDZyYjJpY1M3QkstbU1yY0pxRkZPRnRJTDFaazQ5RHFwSHlCYmtwWEplY3Z6dms3eUdGUnZaN3Q2M09oQ2g2MW5hRXFXZ3B1VzZBdWpjSzVTeFU0eE1NRklnMDRITw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T21:36:00+08:00"
-    },
-    {
-      "title": "Battery draining faster after updating to iOS 27? Don’t panic … - 9to5mac.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE1nc1oycGxla1JiYnJWeEhVajBfQ0ZwUFFvRVJERnZWaDc1VmJnbXEyaXo2dHNoczhONXVELXBEM1FKQkFPeXJ2eWM3Q1poUGotQWxIbXpSbG9PbV9veXdDNHE1OXFmaWRqODdDR21QWldhTzV4ZWVzOWEydi1tU3pwNjhQY3prNFZpMkZ1OFR3M2F5Y1E?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T21:35:00+08:00"
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T21:33:16+08:00"
     }
   ]
 }
