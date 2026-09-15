@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T07:54:36.077833+08:00",
+  "generatedAt": "2026-09-15T08:25:41.762830+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 612696.0,
-      "changePct": 1.77
+      "priceHkd": 612037.44,
+      "changePct": 1.74
     },
     "ETH": {
-      "priceHkd": 19713.6,
-      "changePct": 1.56
+      "priceHkd": 19683.73,
+      "changePct": 1.29
     },
     "SOL": {
-      "priceHkd": 803.36,
-      "changePct": 3.12
+      "priceHkd": 804.31,
+      "changePct": 3.17
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1081.07,
-      "priceUsdOz": 4288.9
+      "priceHkdPerGram": 1081.02,
+      "priceUsdOz": 4288.7
     },
     "Silver": {
-      "priceHkdPerGram": 15.94,
-      "priceUsdOz": 63.24
+      "priceHkdPerGram": 15.92,
+      "priceUsdOz": 63.15
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 800.46,
-      "changePct": 2.05
+      "priceHkd": 802.11,
+      "changePct": 2.26
     },
     "Natural Gas": {
-      "priceHkd": 22.59,
-      "changePct": 1.8
+      "priceHkd": 22.57,
+      "changePct": 1.7
     }
   },
   "news": [
     {
-      "title": "Supreme Court says Trump cannot enforce new mail-in ballot regulation - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX1Q4ZTZsUmQ4WnU1UHkzeHdCd1hhQVlzYXNoUlRvY1Rha2E0aDFaMi1KcDFhUTFmWG96ZXhsNXZrRkZhUVBDYnJaT1drdG1aRlRzVWFzV2VvSHFTcjBWMmh0d2F5NGxmM0dtdFlLR0hHcG1tODVkLWRYa0ZIY3lQSEFOam9oOUllTERyY1c5NUtTVXVOR3hiZHZJbnBwTTZRcUU1bUxoNmVNbEJrVVd0dUNuOWp4RTBXNmhXbDBCN2NKQQ?oc=5",
+      "title": "E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5nbXRrakhxSVVxQm9YZm5xLTIzVTUzelJwa28xeUxldEtTQnc1cEZjNTJxMVh5NU5zeElNd1VtX0M3MTNfRmY0TTN6LS03T3VJcDJtREZMcURTMkFMYUJsZG02Z2x3RXN0S0gxdzZtWXBndEtQUTZvNVN1OFA2WEV1NA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T07:36:00+08:00"
+      "time": "2026-09-15T07:57:00+08:00"
+    },
+    {
+      "title": "The Supreme Court rejects Trump's mail voting restrictions for this year's midterms - NPR",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekxtVnV0RFRLTGVGcVhBcDBucXQtQ2F4UW5BTlpjcmdDQmN1UFZlSDNEOVZOMDM4bnU0YTlGd19yUHBXbVlySWQtUk9Qd3Qxdk5LUEpjZFd5el80UUFNNU8yREdTOHF1cWZpalZadkVQc2tITGVXcmdFLVZoVVdVU2daR2tDdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T07:38:40+08:00"
+    },
+    {
+      "title": "Stock Market News, Sept. 14, 2026: 10-Year Treasury Yield Touches 5%, Pushed by Oil Surge - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T07:33:00+08:00"
     },
     {
       "title": "I got paid $5,000 to move to a place I'd never heard of",
@@ -71,13 +83,25 @@
       "time": "2026-09-15T07:07:56+08:00"
     },
     {
-      "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence - NPR",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BcWJzb1d1azdWNU9hQm53akx2cTZPREJGOE52dFhEMThscXBLVWRhV0JMYkloeWkyVUctMkMzd0dhTlk2NlA1bm9XcDByNmVTcHJ6eFRWcW8yUHB0RVdxZ2xXYWZROUZhYTJ1MHRwTDFiRGhJaFBrT3lkQnRhSlU?oc=5",
+      "title": "Donald Trump Jr and Bettina Trump say Putin ally paid for some wedding festivities as a 'gift' - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LZkUweGZBUjdHUW5XMi1pajN4UFgxVkZrR0dKRVQteHhqUF9fOTF3cWFpS1M2azZ5WGxVOEdMMU54OEVlR0UwcV9oaTYxbEZTcVZhYUlJOUcxMW8?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T06:36:33+08:00"
+      "time": "2026-09-15T06:56:44+08:00"
     },
     {
-      "title": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized - ScienceAlert",
+      "title": "‘Sydney Sweeney, this is what women in sport look like’: female athletes spark backlash against viral advert - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGFLZjdUcU9ZOWV1ZmZOX1N4THVsSmRGSEtweFNPUHZDYlhoSGYxTkZXSDZmQUdkZmVsSFlfMjUwSGw5UTVCQ0ZlWDBFakhJRTlCWUlPdXRlaHlwT181Nzh6WmtEVWFpM2YxUHVaZy1PU0dQWEpXT3drWjZBMm1YejN0WE9pVjVOZTFBclFKTF9UMDNLbXFJQUF4ejFpWEU4Y05GXzBENTZmOGtUWkpWUFQybw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T06:39:00+08:00"
+    },
+    {
+      "title": "Emmy awards 2026 live: the red carpet, the winners, the losers, the speeches - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0E0blM3OUNiRVBQWXFDZDNIaV9mZ0RxZXpkSlR3NVVxZy1sbmdYWE1BdkVxY0ZPemJzX1l5R01EUG5UTGNFZkxxSHBQRDhoVk9iWW5DYWt4eDdvMjBiNzZzQ3J5UDZFMmxsc25sTERTSlVZWEFLTGlIX1RESlBkVE16SGVJd3dleHlBeXcxdDhJWDR6NUxUYWx1RjRfVWdtQUphX2UxNXRwQ2prX0pTbTZ2UnBxWUZZYTRCN05OTjZqdDViZkpuQ0tQZ3pJTGVNRGJ3OTN6Y3dENmdK?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T06:32:00+08:00"
+    },
+    {
+      "title": "Scientists Find First Adult T. Rex Trackway – And The Footprints Are Human-Sized - sciencealert.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlhYclhyYjFhYU05T2EyUUQtd1lzM1hjekVhbnFhNm9qQWlkNldUcWp4S1dHdFJiYlFoMlpGcHVubUZPQ1FHcUx4SUhPdTg3UjAtVThjb0QxakhwNVF2c1d0Q2Z2cGU5TEFCNkJaSlp6a19Rb3FfY0hxajdPRGhIajZVR2NJY20zZnhGMDJqVnUwWjJFZ29pdnhRQ3ByUTRHM1d3LU1xeU94UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T06:18:42+08:00"
@@ -89,40 +113,28 @@
       "time": "2026-09-15T06:10:10+08:00"
     },
     {
-      "title": "Karl Rove will vote for Democrat over Bo French - The Texas Tribune",
+      "title": "Karl Rove will vote for Democrat over Bo French - texastribune.org",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFB2R0lBMmF0d04zTlVpWlNpNkNfc19TenZnNGpkb0hzVWNjQndwMi0yX2pVUlUxUk1KOEF1N19kTDVYOG5YSE5sVDA1d2d5Wkx3clk4aUNQWTZSSGpOR0RDRWdQR1RDdjRvZkR2cnd2ZUhpNlJDZUVONHdqVjUtTUhJUWhMT1NXOU9nVzhB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T06:08:19+08:00"
     },
     {
-      "title": "Stock Market Today: 10-Year Treasury Yield Touches 5% as AI Warning Spooks Tech Stocks — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdWZSbjFBdjV2Wm83NHFwYzNNVTJHWnVvYkZmd010aWZERmFNU1F2T0JNeVhXdUNlZkRHU3dYVjJWTmVLNF8tbm8xYU5RQlFxQ0lZUmN1VkpMQVZ5OHgxZnJNVVdxeVpkeTBiR0Y5eVZPd2QxeVh5UWdyNk1QdVlWeXdiTEZocGs?oc=5",
+      "title": "Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQTkzVWE0V0RqYVV4SldIWldodHFSTTF4d0NyMGk2cjFsWlYzTmdsTmVENlR0aF8yUXdpekxJNkE0ZURVSndyaVAtWjFjcG0yTmNHUjdzYkkxQjhzZjBwVEdWZFpkQTR3Rm12ZUx3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T06:04:00+08:00"
+      "time": "2026-09-15T06:06:24+08:00"
     },
     {
-      "title": "E.P.A. Will Erase Limits on Climate Pollution From Power Plants - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOU5nbXRrakhxSVVxQm9YZm5xLTIzVTUzelJwa28xeUxldEtTQnc1cEZjNTJxMVh5NU5zeElNd1VtX0M3MTNfRmY0TTN6LS03T3VJcDJtREZMcURTMkFMYUJsZG02Z2x3RXN0S0gxdzZtWXBndEtQUTZvNVN1OFA2WEV1NA?oc=5",
+      "title": "Mitch McConnell returns to Senate after three-month health absence - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQXVVb2g4cmxrcWMydDMxdkVTeFQxSi1aeEs2XzQzdEF5enJLZXpUY0NpQURzWHlnUlpsQU9rWWJKTC1FMmxHellqZ1B5eHFONzVZZVBhSnlqWjRwTEczalB2UkVOQ1pKZy1rUkdLbFZaTlNOS05GSjVXUTEzYmhZQTJ1VnlZYkswX0tncjVrOWXSAZYBQVVfeXFMTkhKSEVhaGZBcjk4elVkdjFDbEk3ZFZ6ajVCSzYtRXBfY182R2tyc1MwWlRXZVlraW5raDRkOHRpb3dxaW1xRG85WlRZNVVUV0l0VEhzZHNQVlZBZ3BHMndjWkZJMnZZN0ZWUjQ3M2dzczFydjM1Vl80OXRTdFE3aDRsS3psdV96bVhlclNCWDlOSE5kV2lR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T06:03:00+08:00"
-    },
-    {
-      "title": "Emmys 2026 Red Carpet: Adam Brody, Matty Matheson, Trisha Paytas and More - Variety",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LbVhzX1dEYVE5SWNCZGJWbXV0bjY4N2t5NFRxY3lXVF8zQjZyMWliMS03Zjh0SzZOZFFRSmJlejJ4T0VRVkwyN2hER3lOeFRzR3VEV2x6eEhjcG9LbzFZVGJuSlE0NXpoRkhtazhqMUx6dw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T06:03:00+08:00"
+      "time": "2026-09-15T06:03:02+08:00"
     },
     {
       "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
       "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T06:01:39+08:00"
-    },
-    {
-      "title": "Trump says a strong, smart president is the only \"guardrail\" AI needs - Axios",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SRGlpZjg2YkRmMVNXbTU4Q1BoX0NHX00ydkJUcUt4ZE9ySXRRcTNMeXRrWktZSUdmTVVacm12LUNLTk1KeUpyZ1o5ZXoyb2ZEeE82MHRPU01iS0xDV2Vkc1h2QXJ0T0pXZmY1TllWZkQzcmRjLTc5Q3Zxcw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T05:55:57+08:00"
     },
     {
       "title": "WHO validates Chile as first South American country to eliminate dog-transmitted rabies - ABC News - Breaking News, Latest News and Videos",
@@ -149,22 +161,10 @@
       "time": "2026-09-15T05:46:30+08:00"
     },
     {
-      "title": "Bob Mackie, Ballyhooed Costume Designer for Cher and Carol Burnett, Dies at 87 - hollywoodreporter.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkhBUmNsLW1kRWxyX0lIeGxMbm5DQXZCQkJaVEZTRGNTRVZBc3hOSzBRYTNZaWdvLXFCTjNXdV9sQjRyMHlhWnF3ekh3dndUYmRONFNLWEljNTRhaGgwZUF6NjByRExpQ0d0b0FxVDF1d2NqeUpYVjVsUFptZDlfU0pRZVNrdENKNlM5WnpqUHBpNlpHZVhDY0hUZGhsUDJzMXJuSExGTURiVllJ?oc=5",
+      "title": "States, cities sue to block Trump immigration rule on public benefits - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGk1MVlTS3ZZWUE1MTJ2bTNJeDZKQTV6X0ZPZVFxMXhzVEo4Y05KR0lVRHQ2Q0Q2YUsxUFdOM3pJUXRMaG9zRS1wZm9hLWZqQ0ZQdGgtYmJJRE03Yk4wZVp0ZDljcW5wWkw0c2lGOENpTXFfVEhvdTlyekNva1Vrb19lZDctRW1TQTJOOGlRVk9Mcl9sWkE0T1NscUx5aFNiTHdqOEFUMDdEQndUSER2ck1ib1JHdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T05:39:34+08:00"
-    },
-    {
-      "title": "Rocket Lab is seeing red about NASA’s decision on a Mars spacecraft - Ars Technica",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcllxR05naENRTTdYSmJUa1VYcXpNaTcxZVRTNmNZM3IySmczSXdMcXR2bnNVU0NkYzRTSmdnYUtTLW1OTVhDUHRxZTNhZVZDTG9lbHphRGVjb005cGVHdnZLenFTZ05EeDYwMXRYSWRueGJ6VmZsd3E5dUxpV2xSVmk0aWJieUNsTGVxcDhqQ0d6WWNfTTBnb0llM04tWGlIX3FGem1UcF8?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T05:32:22+08:00"
-    },
-    {
-      "title": "Hegseth allies campaign to put loyalist in Army secretary job - Politico",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObnM2ZFMwT080X3ZfdmhMQXpsUmh0ZWtXSHE4M3FxazFwSHg2eTJMNzVMcGV1M1dzMllHOFR2QnJfa2YxTVlibHg1cGtzR0dXNjQyRVh0bFJmZTFxQjhzcmFpUGhDTXRUWmtsS3hRdVNSR1BhSkozaGt1aDVaRk4wZmt2RmYwOHQzNDVKYmFLakxBR2M?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T05:31:00+08:00"
+      "time": "2026-09-15T05:37:01+08:00"
     },
     {
       "title": "Legendary costume designer Bob Mackie dies aged 87",
