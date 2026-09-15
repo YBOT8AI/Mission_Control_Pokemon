@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T18:47:32.278762+08:00",
+  "generatedAt": "2026-09-15T19:18:27.987561+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603734.88,
-      "changePct": -1.21
+      "priceHkd": 603821.12,
+      "changePct": -0.93
     },
     "ETH": {
-      "priceHkd": 19427.05,
-      "changePct": -1.55
+      "priceHkd": 19460.06,
+      "changePct": -1.16
     },
     "SOL": {
-      "priceHkd": 791.13,
-      "changePct": -0.99
+      "priceHkd": 790.43,
+      "changePct": -0.78
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1078.19,
-      "priceUsdOz": 4277.5
+      "priceHkdPerGram": 1080.51,
+      "priceUsdOz": 4286.7
     },
     "Silver": {
-      "priceHkdPerGram": 15.93,
-      "priceUsdOz": 63.21
+      "priceHkdPerGram": 15.97,
+      "priceUsdOz": 63.34
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 809.56,
-      "changePct": 1.84
+      "priceHkd": 802.19,
+      "changePct": 0.92
     },
     "Natural Gas": {
-      "priceHkd": 22.61,
-      "changePct": -0.41
+      "priceHkd": 22.66,
+      "changePct": -0.21
     }
   },
   "news": [
+    {
+      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-15T19:05:42+08:00"
+    },
     {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
@@ -71,28 +77,16 @@
       "time": "2026-09-15T17:33:13+08:00"
     },
     {
-      "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRno0N0IyV0VYdFA5ZDBkMklNNTNJcDJMbTZlMkRjU2gwQlMtekZzOXl3SUpfMGtyRnBXNDBQenVzZFJaMUpPcVhXVzdXWElNamVDZ0RLSHZ3MXAwYkx5ekZiZF9SdFZQR29UQkFfakhBcG5zSXhfLWVyMHYyc01mT0tjVHFibVRFZWVMNw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T17:30:50+08:00"
-    },
-    {
       "title": "Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T17:23:00+08:00"
+      "time": "2026-09-15T17:18:19+08:00"
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
       "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T17:07:35+08:00"
-    },
-    {
-      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
-      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T16:51:39+08:00"
     },
     {
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
@@ -113,10 +107,16 @@
       "time": "2026-09-15T16:45:00+08:00"
     },
     {
-      "title": "What closure of Saudi Arabia’s East-West pipeline could mean for oil flows - timesofisrael.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzdsRzZSWXZuTThaVmdwLVYxYTJMaHJiOGcxdmdfTVkzaGlkODIwakRvRHlVSnRBTGd4d0JiSjFTM1VqMUdjZzNPWVduMzF0dzYtXy1lMHdwU0E4Xzg4VlFETjZRaDRYV0JjQmRQSVYwUEFZWG1nVG85YlR3bU93WWh5bHRxRHoyZHpBUmd4bVJJM3N0M2xEYjNaRFNreVZwdFBFVGlCZ9IBrAFBVV95cUxPeDVuU1VJcWR0VXFjdGcxVEN4UmR5aGl0aTl0Z0xpSTUtaHItRE0wMlM0QnNyTEZFM2xmQTh5NFowT3VPeFlSSm9xbnVyUWFrSUJkblE5TnN4RXVaOHFqa013a3pJNzRkRHktOV9JZ19XYVVpTkk4TmR4aGh5UTlsZGZxZFN4cGpRdVF1WjBtSjNKN3B4UVFlVXdvLWZQUUR0MkQyUnhCaGtvelA3?oc=5",
+      "title": "Ukraine-Russia war latest: Poland scrambles jets as Nato shoots down drone over European ally - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T16:06:18+08:00"
+      "time": "2026-09-15T16:15:02+08:00"
+    },
+    {
+      "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRno0N0IyV0VYdFA5ZDBkMklNNTNJcDJMbTZlMkRjU2gwQlMtekZzOXl3SUpfMGtyRnBXNDBQenVzZFJaMUpPcVhXVzdXWElNamVDZ0RLSHZ3MXAwYkx5ekZiZF9SdFZQR29UQkFfakhBcG5zSXhfLWVyMHYyc01mT0tjVHFibVRFZWVMNw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T15:29:14+08:00"
     },
     {
       "title": "What is the triple lock and how much is the state pension worth?",
@@ -137,22 +137,16 @@
       "time": "2026-09-15T14:43:09+08:00"
     },
     {
+      "title": "Pentagon inspector general says $22.3B spent on Iran war munitions has caused \"strategic inventory shortfalls\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkMxYURTcUFqTURFSG9VdlU1MWZCOHNaRHBwRUY2cGhZbW1LeWJzb2tRakp0S2ZlUFliMmc5WlJ1RFZqWVhsVk9yTXZQc0lvZjNnTkZkLVNzM3N5eHl3OFJmVlFqazFNVlE4SXR0ZGdLX000Y0ZOVUY2UDRfbkd1OGotaU1jZ0tFczhmM3Z6d09ETms?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T14:20:00+08:00"
+    },
+    {
       "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2NMaXVfWkJZeWRRNmcwM2I5bThNcnBoR19RV21XbFBwNkphcGt4TjhuYlZ2TldzNk5lYm8xOHZ6YVR5ODB2dndweDA4ZWxKY2wwX0FyMnVocmF2RkxfTEpISHl6ck5VSlh1djVEeFp3ZGNMSDRDQU9MRmhzWlgtSVhRX1pwVXJVZnYwYmo0eDc5U0hKczhiNUNZRHUtZTRpcV92RFYzVjBxdGM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T14:00:00+08:00"
-    },
-    {
-      "title": "50 New Things Your iPhone Can Do in iOS 27 - Out Now! - MacRumors",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nTW50Skdaa1ZiSVFYdUdDWkcyMVY0ZGpuM0htUU54NURkUjlmTmpVcEFPZzRHdXRiUFNDM1gxVnZ1enVrczUyTUoxQ1l2OXdhRW90OG5iSjdpbUFFaXNNYjlqOGx3WFRNaXh0ZjhvblNWRE0wZUlmQmFtM2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T13:45:00+08:00"
-    },
-    {
-      "title": "What I saw when drones targeted a train in Ukraine, with ex-CIA director aboard - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXVSR2dRUjNuaC1MeEN2Z192ZWhKMkF5SjFHTWFsUTJ3a0dTUk45cWVlcWdHNGIyUDFWRVhPLUlLMjJiWF9KU0ZZMkM0R3FtN3RYd3FqS1ZXekg0c3dPVXdpbXBSMFpHTHJJVmUzMV9Ta04zbWI4dnpyYzdPQVZYRHo5WTFWUzFtX0w3NE56azlkZ3R5REZlVloxYVpYV0hQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T13:28:23+08:00"
     },
     {
       "title": "Superstars and broken records: 2026 Emmy highlights",
@@ -171,6 +165,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T13:03:47+08:00"
+    },
+    {
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T13:01:46+08:00"
     }
   ]
 }
