@@ -1,57 +1,69 @@
 {
-  "generatedAt": "2026-09-16T02:02:36.395387+08:00",
+  "generatedAt": "2026-09-16T02:33:36.495497+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603084.16,
-      "changePct": -2.51
+      "priceHkd": 601790.56,
+      "changePct": -3.05
     },
     "ETH": {
-      "priceHkd": 19128.97,
-      "changePct": -3.65
+      "priceHkd": 19045.01,
+      "changePct": -4.4
     },
     "SOL": {
-      "priceHkd": 785.25,
-      "changePct": -2.73
+      "priceHkd": 781.41,
+      "changePct": -3.7
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5458.78,
-      "changePct": -0.43
+      "priceHkd": 5457.26,
+      "changePct": -0.46
     },
     "SPX": {
-      "priceHkd": 59476.59,
-      "changePct": -0.44
+      "priceHkd": 59456.13,
+      "changePct": -0.48
     },
     "SPCX": {
-      "priceHkd": 1125.67,
-      "changePct": -3.08
+      "priceHkd": 1132.61,
+      "changePct": -2.49
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1082.45,
-      "priceUsdOz": 4294.4
+      "priceHkdPerGram": 1084.72,
+      "priceUsdOz": 4303.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.03,
-      "priceUsdOz": 63.58
+      "priceHkdPerGram": 16.09,
+      "priceUsdOz": 63.81
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 835.74,
-      "changePct": 5.14
+      "priceHkd": 828.77,
+      "changePct": 4.26
     },
     "Natural Gas": {
-      "priceHkd": 22.85,
-      "changePct": 0.62
+      "priceHkd": 22.81,
+      "changePct": 0.48
     }
   },
   "news": [
+    {
+      "title": "Google rolling out Android 17 QPR1 for Pixel - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51SDlQMG9TQkp4YjVUYUZoblhUdy1QTmVOa2QyLXl1MHktZ2F6NkNuNklDa1U1LXNRTnM0SWJOQ0pKcHdoaVBMeTdBd2JoZXdYVlV2dUpGdFpCMkZZYktIclRiSkdEU0k?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T02:00:00+08:00"
+    },
+    {
+      "title": "Trump’s handpicked Kennedy Center board votes to close venue for renovations - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUs4cW5ObUl6MlVlTWNkNElRVGNQaVFrNU5pYUZJOGJBMEpYaVFEbmtnTk9OVDZRNGlUNF9fams2QzIxWUdOU3JlUE1wNTFFbFJWUlZyODByYm1lU2FjLWN2d3ZzU3lnUXBvcU9LMDFtcDdjYjZqTGwycGZzb18yc3E4UUtEY3hsX3ltM3A4d05ERmRycVMwamFheXB2dzNxX0d3LTJyLVg2dmtHbVc2TzRKWXF3cVVZc2VrRDkyN0pmR3M2cWZWZGtXMWVEdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:57:13+08:00"
+    },
     {
       "title": "Canada is a 'safe harbour' for global finance, Carney says",
       "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
@@ -65,16 +77,34 @@
       "time": "2026-09-16T01:44:45+08:00"
     },
     {
+      "title": "Prosecutors won't seek the death penalty for Nick Reiner - NPR",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeVRaaWRnT3ZXek1Fb0ZFYlJJZWUzclF0bGQ2Q29qdVFlTktIZmlCQVhkakF4Q3FjUWpkZGVENDdlY3Z5SGd6Nm9JbXI5eUZfZHBkY291bGx6NGJnSDU3RUtGdVRDNi1GTFpUVE1vTDNYdHFNR2lkeUtkTmduQWNzN0N4bFZUMFlndTl3R1JNLWliQjJ0UVlvQzF6NUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:36:49+08:00"
+    },
+    {
+      "title": "Republican Rep. Massie moves to impeach Defense Secretary Hegseth over Iran war - NPR",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAzeHV1VUx0NUc0WWZGQ1NLZ1BTWU40R0pWdTdBWWRDelF0Tjd1T09sZFZUS05fR2U5QWdoMDNOSzJzUzhIYThIUG5wNkhYMFBNVWVGVzNXYm5yOW1VTFB6V2ltWWVKSXVaMXlvUGZvWWVHVGplNWRSRm5n?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:35:14+08:00"
+    },
+    {
       "title": "Warning of space arms race as US confirms weapons in Earth's orbit",
       "link": "https://www.bbc.co.uk/news/videos/cmn07yjqg5rwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T01:35:02+08:00"
     },
     {
-      "title": "Latest Updates: Iran war costs well over $33.4 billion, Pentagon says, as Trump signals renewed openness to talks - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+      "title": "Poland reinforces border with Ukraine amid growing security concerns across Europe - CNN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQmYwU2hhbktaMVl1TU5ISVpaYWFIeDhtR1VpdjJqbEJOVXRUbFdaRXRnUWtMVHh4YnFlNVB4cG1LanNPWFBsM292OXdGMC15ODhZUFNYazN6LTBQdjU5bXZwUFZfa2J4V0duVVNTeUthcGg4NXB0R2U5QVdyZDRPSUxncFAzNEZLTVhORTVxaE9FbUdPOUE?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T01:30:00+08:00"
+      "time": "2026-09-16T01:34:34+08:00"
+    },
+    {
+      "title": "Arch Manning criticized for laughing at AI video of coach slapping reporter - washingtonpost.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUVhSnZhQ2xQVDY5WHdDOVhycWV3V1VjSHNpNjViV0J6NzlOYlFDYmNUem1UaUdXYmVfeVdXUG5BWmhGWHhEbHcyTGhDWEtBakJVRWdnVm9KMXFmdE5mNVNUOTF2STdNS1NoeDRhTWNKTkZta0ZpSzVCT2F2cHZEdU9rM1pxd0Y4c21GbWNOTXI2NkwwamZiR2tOLU0ybkR3WkN4dExnNERxZ095dFVhMTRSamExdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:32:26+08:00"
     },
     {
       "title": "Your iPhone may die faster this week: Here’s why - The Hill",
@@ -83,16 +113,28 @@
       "time": "2026-09-16T01:13:00+08:00"
     },
     {
+      "title": "Ed Sheeran responds to backlash over removing Macklemore from tour after ‘Free Palestine’ comments - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWFmNGp4eTI2cngwUzhvUVZVdTVxOXZZX1VLMjNzcWFQeGRNM3pSODVlQVRlb3ZYblpSaHNQcDV5NjNBS2NlSktFbnAwRXNFMm9IUFN6Qjhabm84Ti1zX0pLMmhBVUNHckMyUFJYanBSa2sxOFU4MUc3X21pZ1ZKNk9iV0J5XzJSRm9CanhtazIzNnNHN2ZYWW9LSlU0blFk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:07:00+08:00"
+    },
+    {
+      "title": "FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnNWdVZzME9BUk5SLU5CZkU1V1NMV2xPdVA3NWxQUWphSGIwRDNSTVZYeGVfbFN3RjdLdzNoTXh6VmlrbG5TNFVicEpXUWdmYkJDamMyZXZPZXI3ZTVfSm9PN196a2VZb1JUbG9GdENPNGlDcEtIRGlfVkNKa21QeEJsNzdOeFlncXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:01:00+08:00"
+    },
+    {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T00:55:04+08:00"
     },
     {
-      "title": "Trump lashes out at Supreme Court justices after ballots ruling - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTldnMGVzZVl5ZGRaNW9EU2E2Z08tOUJVNEdqa05iSnNNNm54MFVHU0o4aUhZRUJjTDV1UENNN0dvaHQ2S09oX0RGb2lWYTlxNTBRaThsZ3pySW9SN2dBS0FZUm9pR181OUVwbEZ2TmVBY3g1bWwtN05FeFFZd0RjSGhBT2xHMndqVEJSX1NBTWRuQjFsWWhIdWxkaEFSM3NoUkdub3phWQ?oc=5",
+      "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’ - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T00:50:42+08:00"
+      "time": "2026-09-16T00:54:03+08:00"
     },
     {
       "title": "Pennsylvania reports fourth measles-related death, the most in US in decades - CNN",
@@ -101,28 +143,10 @@
       "time": "2026-09-16T00:46:26+08:00"
     },
     {
-      "title": "Inside HBO’s Emmy Party With Jean Smart, Noah Wyle and Plenty of Martinis - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFhlZWd2SjZFS1hrU0JoUkYyR3kxQ2RNVTlGTWtSQmJ2YXV0S0RSSm01NDJNVG4zMElVLXJYdFd2QU5FREFUOXFrdUZlYnloM1l1cUpHX1lsVmZ4eXlpVk9Hc2h2SmxpaU1YdFUwVjByZUZ5RHpLcGlIQmZiQXVRN1Jn?oc=5",
+      "title": "Dow falls 450 points as losses accelerate following a 19-year high in the 10-year Treasury yield: Live updates - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T00:44:51+08:00"
-    },
-    {
-      "title": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T00:44:47+08:00"
-    },
-    {
-      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T00:32:00+08:00"
-    },
-    {
-      "title": "Judge blocks Kennedy Center board from putting Trump's name on plaza, building - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jX1FadGFiRGZiODdlWkUwTG5GT1JwRVNYMFc2dXNITHZaNDhGTnJQcFZEak1LR1czVTlldkxjZExjd3FLV3ZnWm44NWl5dmxWS0J2bkM2MW9wa0dzemtaWnJESVBKaDE5X3M1SG91a29uSzJqN3lJR9IBfkFVX3lxTFByWUtmVll1a0plNG5EeTFWZXB5UXZZQjR2MmdGNWdNd1NFNXZvaE1yYU01MUpGckZ3NDdUVTFvaGZTdmdKNE96eHNYZ2twa0VBWDNNRVloOGFiQmRSc21QMi1EQ0dCaGoyLWNxaHlNNzNKbThPN20xSFdyVGQ0QQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T00:16:01+08:00"
+      "time": "2026-09-16T00:17:07+08:00"
     },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
@@ -131,46 +155,22 @@
       "time": "2026-09-16T00:13:41+08:00"
     },
     {
-      "title": "Crypto Clarity Act barrels toward disappointment barring last-minute Senate turnaround - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ3otYWtLQjVLNDBFQkFLLWV4N2N1UVdlX1lWSVpSWnB3MEwzWXU3Z2RLNU14ODFhakFGQ2xjbExlbjlPQTJ2bXhzd0k4TE9XdDVjaURrWUVDbUs4dUpwbG9TeDJzZnZMOTdqUmtpWDZocTREYWVZSXpaZmR6QVc4ejJ6VVN3U1B2LWdsem1pVnFId0xiRy1tZFNYcURGNDRwdjVXQldzOS02bmhOZTRLNE5kN0FsYjB6a3VwbW4wY2Q1ZU9zVjhoTQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T00:08:13+08:00"
-    },
-    {
       "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T00:01:54+08:00"
     },
     {
-      "title": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up - macrumors.com",
+      "title": "Reminder: iOS 27's All-New Siri AI Has a Waitlist, Here's How to Sign Up - MacRumors",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcWlfTmRQQnE3THQ5VGotNXVQaGNpbTNycjVlVUxfRFdUN3l1WDBRUnJ3SXdMRFpERWgxeU1TSVlLNTR3NW5zUUZybDJ2c1ZZX2paSWEzSUt2UnZWR1pvbTZtbERpNmJDOHZnRUxUUkZldkdPNVcxaTZyZjNMdDlNU01qOA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T23:54:20+08:00"
     },
     {
-      "title": "Global bond yields hit 2008 highs, raising stakes for big borrowers - Reuters",
+      "title": "Global bond yields hit fresh highs, raising stakes for big borrowers - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T23:52:59+08:00"
-    },
-    {
-      "title": "FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnNWdVZzME9BUk5SLU5CZkU1V1NMV2xPdVA3NWxQUWphSGIwRDNSTVZYeGVfbFN3RjdLdzNoTXh6VmlrbG5TNFVicEpXUWdmYkJDamMyZXZPZXI3ZTVfSm9PN196a2VZb1JUbG9GdENPNGlDcEtIRGlfVkNKa21QeEJsNzdOeFlncXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T23:52:00+08:00"
-    },
-    {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T23:31:34+08:00"
-    },
-    {
-      "title": "Against the Odds, This Democrat in Texas Is Giving Greg Abbott a Fight - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hODRYWHJEeG5sc2xtQkM1VzN6czZIZnhvNGM5MXhqQlBva1dBUmUtLUxoTEk0ZDhqQlJPcC1QVkE5dWxvMXdaMlRERW9ZYndKMUUwUlJ5S0N0anlVWkFxSHdxRXI3TWQxMU0zVzhWYU83bHp3dDJIWkwzUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T23:25:44+08:00"
     }
   ]
 }
