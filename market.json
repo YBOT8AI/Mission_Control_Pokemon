@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T14:07:36.943097+08:00",
+  "generatedAt": "2026-09-15T14:38:41.699830+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 609175.84,
+      "priceHkd": 606847.36,
       "changePct": -0.05
     },
     "ETH": {
-      "priceHkd": 19595.53,
+      "priceHkd": 19503.41,
       "changePct": -0.95
     },
     "SOL": {
-      "priceHkd": 795.92,
-      "changePct": 0.1
+      "priceHkd": 792.39,
+      "changePct": -0.23
     }
   },
   "stocks": {
@@ -33,25 +33,37 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.97,
-      "priceUsdOz": 4288.5
+      "priceHkdPerGram": 1081.27,
+      "priceUsdOz": 4289.7
     },
     "Silver": {
-      "priceHkdPerGram": 15.93,
-      "priceUsdOz": 63.21
+      "priceHkdPerGram": 15.95,
+      "priceUsdOz": 63.27
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 806.81,
-      "changePct": 1.5
+      "priceHkd": 810.11,
+      "changePct": 1.91
     },
     "Natural Gas": {
-      "priceHkd": 22.65,
-      "changePct": -0.24
+      "priceHkd": 22.66,
+      "changePct": -0.21
     }
   },
   "news": [
+    {
+      "title": "State pension likely to rise by 3.9% next April",
+      "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-15T14:36:48+08:00"
+    },
+    {
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T14:29:17+08:00"
+    },
     {
       "title": "Superstars and broken records: 2026 Emmy highlights",
       "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
@@ -65,7 +77,7 @@
       "time": "2026-09-15T13:13:08+08:00"
     },
     {
-      "title": "10-year Treasury yield rises to highest since 2007 - CNBC",
+      "title": "10-year Treasury yield rises to highest since 2007 as Fed rate-hike expectations rise - CNBC",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaTYxSFZ2NnctamhZYXdkVTNPUi1QcEczSmZuV1YzOTlXVjd0ZUZEZFllOGNsbk9jMTVMU1dKcVdyX1dRUmo1QzBhSS14UFd3UlBEQVczZjhVdDFrZHFKWG1hQ1Uwc2hKY3hYWjh1X1VUX3lYNE1HNzRuWG1OalhYandaYWlBSXN3X0NiTkd5V0XSAZYBQVVfeXFMTkFSczFpQXVBNVp4OU5LNXZGU0sxU201bVNyV29jY3FWa0V6ZjZsNDhET0lVbWw1eFo1bkd6aVhxSGZYaTZFUjVjOHRYQXptbHR6STBycGZiX2QtdjA1aGwzU2gyd0NxbE04WFRCVnRVV1AwOTJzaFZKWDRqYVVMRExuRGpleGhLR3dMT1ZJUkl0dW9FbWNB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T13:09:39+08:00"
@@ -89,6 +101,18 @@
       "time": "2026-09-15T12:19:01+08:00"
     },
     {
+      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T12:05:00+08:00"
+    },
+    {
+      "title": "Ukraine-Russia war latest: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T11:52:00+08:00"
+    },
+    {
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
       "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -99,12 +123,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T11:47:27+08:00"
-    },
-    {
-      "title": "NFL Narrowly Misses Making History with High-Scoring Week 1 After Mahomes, Chiefs Beat Nix, Broncos - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUpzdlFqaHBISXN2VlpHQ2xTaHMwTnFlTFdyWTF2Rnc3LWt6SzI1N0VZLTZRejVoalNINHhJZkEyRmRPM0hDTmk3Um5tUnBIeWlaVHZLRGhvRmdYVHk4SFF5UzNUb2FYcUZDUHBncklxTUdUMFFPeGlzUjNpaS1QMXQwa2VyR1ZjNjlfeFhieG9sV2FWdmM0NW12MnRQeDR5WGtmNXpzaTM0b0lFeVRZc0swajNMTVBoQmVaeTBoMWRSa3hPZmJZeWJSN1dwbnpOSEJJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T11:35:19+08:00"
     },
     {
       "title": "2026 NFL Power Rankings Week 2: Which Teams Suffered The Worst Opening Losses? - FOX Sports",
@@ -125,24 +143,6 @@
       "time": "2026-09-15T11:25:14+08:00"
     },
     {
-      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T10:55:40+08:00"
-    },
-    {
-      "title": "Bob Mackie: A history of his designs in pictures - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwdktTZXpkSXBDSkl3UVNRcUNzRXg0QU5hb0tvNGxOR20xc3ZRaklZS25oN0VEWGxsWFY0ejR1VGFJcDVoRW8xWWRScG1jOHd2aW81dk5vVnpJOFU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T10:53:39+08:00"
-    },
-    {
-      "title": "Supreme Court strikes down USPS mail-in voting rule - Axios",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzRmQyS0Q1bE83RTA5MHJYb3NNb2NzdHBsYWJpUk1xS3k2Yk9nWHBwNE1yWVdnMEdsWFJKZW5RZW42Ums4bzg1enhXenNkM3ZGQVR1YkFTckJwWjZ4Q0NkQ2pxbkNreWhid21TUkVIMWtxRkJyZmMxZWNmVTg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T10:50:47+08:00"
-    },
-    {
       "title": "AI regulation faces political deadlock as calls grow for Congress to act",
       "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -155,22 +155,22 @@
       "time": "2026-09-15T10:28:00+08:00"
     },
     {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T10:22:07+08:00"
-    },
-    {
-      "title": "Everything We’re Obsessing Over on the 2026 Emmys Red Carpet - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wQzU5am5FY3FPWFpDWWhMS0g4c0JhWkxMV0hNUW9HWWt2d2FoNjNVTl9ZTVN6OUZWZG42UldsU193SEpxS1pmcTd4R29UY0FWNFV5SUt4Zm02bDNyTGpyOUdtUUpkS3I0M0taWnUwdGZzdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T10:17:00+08:00"
-    },
-    {
       "title": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkU4djhYWHladGZiY0N6amVYeHA5RmVsTTJ2NFZoRThpaUhaMjhXTElKQUVoMzlZTUtxYXRnLV80Zmp3NlNvNVB5TngtUmdveS1tVjVLZ2phblF5d050RnFnQWdhdmVBTWt2VlJ2N0Y5V05qN2Q1elJQdTgzMDNmUzNXNkhza3hHaUtySWwxb25raDBsTXc4dWg5NkpnTGtXQlg5eDZMOXhLenVGbzM5ekJ30gG3AUFVX3lxTE1WN2tTRGx1Tnp3N0xULUdhUFBmUTJIUjA0cEJ1a1ROd09GTU1hdExMeXg4a1NTU2pFZDdpeC1ucS1HYkphRFlhWjR1aUhyel9QWTRsVDU4UXhUb3BwOExkLUVMUnlNNXdwb2M5dUVxbUZLbllqVjdDQXRnQjRUTEk2WVZrc1JHWG9oRDR1QWo4X0dnQTZGZWFtSFd2TC1SYkJ3MlN0LVBKT3NJTkZQZm9KR1U3R01XZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T10:15:00+08:00"
+    },
+    {
+      "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T09:57:00+08:00"
+    },
+    {
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T09:52:02+08:00"
     }
   ]
 }
