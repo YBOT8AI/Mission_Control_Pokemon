@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T14:38:41.699830+08:00",
+  "generatedAt": "2026-09-15T15:09:48.292708+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 606847.36,
-      "changePct": -0.05
+      "priceHkd": 605185.28,
+      "changePct": -0.54
     },
     "ETH": {
-      "priceHkd": 19503.41,
-      "changePct": -0.95
+      "priceHkd": 19453.0,
+      "changePct": -1.42
     },
     "SOL": {
-      "priceHkd": 792.39,
-      "changePct": -0.23
+      "priceHkd": 789.8,
+      "changePct": -0.76
     }
   },
   "stocks": {
@@ -33,30 +33,36 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1081.27,
-      "priceUsdOz": 4289.7
+      "priceHkdPerGram": 1081.72,
+      "priceUsdOz": 4291.5
     },
     "Silver": {
-      "priceHkdPerGram": 15.95,
-      "priceUsdOz": 63.27
+      "priceHkdPerGram": 15.93,
+      "priceUsdOz": 63.2
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 810.11,
-      "changePct": 1.91
+      "priceHkd": 810.19,
+      "changePct": 1.92
     },
     "Natural Gas": {
-      "priceHkd": 22.66,
-      "changePct": -0.21
+      "priceHkd": 22.72,
+      "changePct": 0.07
     }
   },
   "news": [
     {
-      "title": "State pension likely to rise by 3.9% next April",
+      "title": "State pension likely to rise by £488 a year in April",
       "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-15T14:36:48+08:00"
+      "time": "2026-09-15T15:01:23+08:00"
+    },
+    {
+      "title": "China tightens travel restrictions for citizens",
+      "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T14:43:09+08:00"
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
@@ -95,22 +101,16 @@
       "time": "2026-09-15T13:01:46+08:00"
     },
     {
-      "title": "Emmy awards 2026: The Pitt and Widow’s Bay take home major awards – as it happened - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0E0blM3OUNiRVBQWXFDZDNIaV9mZ0RxZXpkSlR3NVVxZy1sbmdYWE1BdkVxY0ZPemJzX1l5R01EUG5UTGNFZkxxSHBQRDhoVk9iWW5DYWt4eDdvMjBiNzZzQ3J5UDZFMmxsc25sTERTSlVZWEFLTGlIX1RESlBkVE16SGVJd3dleHlBeXcxdDhJWDR6NUxUYWx1RjRfVWdtQUphX2UxNXRwQ2prX0pTbTZ2UnBxWUZZYTRCN05OTjZqdDViZkpuQ0tQZ3pJTGVNRGJ3OTN6Y3dENmdK?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T12:19:01+08:00"
-    },
-    {
       "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T12:05:00+08:00"
     },
     {
-      "title": "Ukraine-Russia war latest: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
+      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T11:52:00+08:00"
+      "time": "2026-09-15T12:04:00+08:00"
     },
     {
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -125,22 +125,34 @@
       "time": "2026-09-15T11:47:27+08:00"
     },
     {
-      "title": "2026 NFL Power Rankings Week 2: Which Teams Suffered The Worst Opening Losses? - FOX Sports",
+      "title": "NFL Narrowly Misses Making History with High-Scoring Week 1 After Mahomes, Chiefs Beat Nix, Broncos - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYUpzdlFqaHBISXN2VlpHQ2xTaHMwTnFlTFdyWTF2Rnc3LWt6SzI1N0VZLTZRejVoalNINHhJZkEyRmRPM0hDTmk3Um5tUnBIeWlaVHZLRGhvRmdYVHk4SFF5UzNUb2FYcUZDUHBncklxTUdUMFFPeGlzUjNpaS1QMXQwa2VyR1ZjNjlfeFhieG9sV2FWdmM0NW12MnRQeDR5WGtmNXpzaTM0b0lFeVRZc0swajNMTVBoQmVaeTBoMWRSa3hPZmJZeWJSN1dwbnpOSEJJ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T11:35:19+08:00"
+    },
+    {
+      "title": "2026 NFL Power Rankings Week 2: Which Teams Suffered The Worst Opening Losses? - foxsports.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbUZaaUZyTGlyVTFBRnBPTXM3TG94YWtBcGJYU1pVdlZsbGd6QzRqV1JkVVpmNlFzSHBfQnQtZXNTU0c5bVZSRWMxa3lOekVBa05RZjRxRUdRdWR4aFdRMzZLOXZJZ1RKYndNeC1jU2c1MW1BdXNhUmI3OTRjdGtuci1Lb2ZsM3Mxc2hOdmNLTTVtUUxzVTRQV29jNWxZNlY0ZTEtVW9BU0V2b18xQ0lF0gGvAUFVX3lxTE9rQWdNelljbkRObFQ4dnUtSk1Hc0lOaVhfV1lCOElINFdILU0wXzdjZXVkLXcxRU1JNWpLNHU4RUVlcUtyTUZOOGh0X19vNEJVQXF3MlpXV3FIN3d3dWhLQXBuTjdqTVNVME9SVDVIQ2ZQWE1DNFNTWC1QVkNHZHlHdU1MNDVKak5pNHgzc3QtTmZ6RGdQUTNFdzB4SWhwWE5hRTZ1Mmh3Y3BPYUhSQjQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T11:26:51+08:00"
     },
     {
-      "title": "China tightens travel restrictions for citizens",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T11:25:41+08:00"
+      "title": "Supreme Court blocks sweeping mail ballot restrictions for midterm elections - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNElldjY4ZVRKV3lPdk51YzFScVRtUGNiM01fNk8zdV9kT1Z0OEl4d0t0QllSVHFvQXRNZkxMZlU1b2tjVTAtN0Fkek9RaVRCdWlRRG9BdDBmdUJyT01rbzd4RDU1bmxVd1VmVkZ5SEllQTl4R05ZNXg3MWs1bGlFNzFMZUJlTjVIbVNvdXpaWDNRckNacFlHREhNcXVJWGJmOG9ZOUtBejNZY0wwVWtpdGxkVEkydEo5Q1hMMllJS1phQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T11:09:34+08:00"
     },
     {
-      "title": "Monday Night Football: Kenneth Walker, Chiefs run by Broncos 31-10 in Patrick Mahomes' return - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb0QtZVV5UEFhOGRtNC1fRF9TUGdzQjdUZXRiUm8tTjJMMmw0M0tZbFMxRjRfejdMclB5UkhrOWRJdGE5cjM5UmNaRzVUS21BYXRIY0VpNGl2QnhYVWhlM0ZlOUhxSHVLd1hSQnZRdkJraEI1eHRQRlkyM0o3WlBkYWhndkpTZm8wMnJQcUl5ZXR6bHdKcFB1WDlLbkZ4TnE5S1R0LVpXVFhLSE1zeENkVXZOWFBESnVkTzZDNnZHSGd2bTMxaHhuZ2ktVXI5aHduSHo5ZjNBblJxVGFDOVR3SG1ZNnJ2ems?oc=5",
+      "title": "Denver Broncos at Kansas City Chiefs: Week 1 Live Discussion - Mile High Report",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbm81YlZpbXh5VlhuOTJFNzlnVmpiNUVWNmFtdWRUTk5LdGdGNlpwYy0zYWxUV2FMdmhlbGlxUWRvb2VQZFRXdXZPNTI2QWNuNkMxdEFzX1pDN0VVQmE3N0U5WHJERmRwUFg1cXlqamRZbHQxMDUyM05BeW5nMkYwUUZTLWN4ekp6NkoxRW1WdGFDaUFCUmk3TXFKMkM0WFlVanNRc1J3NWdWVmVtTkZ4MVRKZTc3TGxiLVlrQjd0Wjg?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T11:25:14+08:00"
+      "time": "2026-09-15T11:07:00+08:00"
+    },
+    {
+      "title": "Emmy Winners: ‘Widow’s Bay’ Dominates With 14 Wins, ‘The Pitt’ and ‘DTF St. Louis’ Tie With 7 Awards - Variety",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QU1k2RnZfaWJVWlA4SG5uZnFzb2tnRkV3Qm5GQWNCei1lRXNGb3h4YVJBLVFGeHNyNW5YaFduUEFZcmRTVjNwUlZER0hscnRoMVc1cGRMZlFMUFB1b1JLbVNSR3hFQ0pOd3BnUm5Ja29RR1V0MXZLaVgyWWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T10:57:00+08:00"
     },
     {
       "title": "AI regulation faces political deadlock as calls grow for Congress to act",
@@ -149,28 +161,16 @@
       "time": "2026-09-15T10:50:36+08:00"
     },
     {
-      "title": "Saudi civil defence says danger has passed in six cities including Yanbu - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTW44Q2VNT0ZLUS1feUlvTE90dTdwZ0NCVVhZY0RQeHBCRlItRGcwVldPaF9jTTdlcXJjSG1hdHNuN2FzdjZUMEtITnExdHZzYk5hR0RLdmZnRHZtRG1ubXdvZllyQXRzRjlpallqZlNJdWYzWHRLNXVtdk5lZDVMY3dnYWNaakJscW5fTVVzMkdrZEk4X253SFlwM05HblB5d21BSnh2UmpyMGxXeGRfbS0wRGZwN2Z0VXFvZTdTeHc?oc=5",
+      "title": "San Francisco cops arrest 4 suspected cychlorphine dealers after teen’s fatal overdose - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSUR0NDRRMXFrWFlCekIzSEl3dGFjc2hYUm5KTG1PbW1qQ25DaGJkcW9BMTRQYlR4U1lMYmZIaC1xUjhmUmdQeHpNeGZnMnl5SW5PUlpUdlIxdm90YlJvOGVIVmtBUVllS2JYM0hoZWwwNHd2bHpNZW9CY2FrX19Ld2lPdkpnd0IyQjA2U0JaV0lyMlB5OTRpaXV0cXgyWlRqMWNKeUlIMk5DOWRCVHBTbHNUVlVINzhOdHRTMXdkVndpUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T10:28:00+08:00"
+      "time": "2026-09-15T10:30:00+08:00"
     },
     {
-      "title": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business",
+      "title": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - foxbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVkU4djhYWHladGZiY0N6amVYeHA5RmVsTTJ2NFZoRThpaUhaMjhXTElKQUVoMzlZTUtxYXRnLV80Zmp3NlNvNVB5TngtUmdveS1tVjVLZ2phblF5d050RnFnQWdhdmVBTWt2VlJ2N0Y5V05qN2Q1elJQdTgzMDNmUzNXNkhza3hHaUtySWwxb25raDBsTXc4dWg5NkpnTGtXQlg5eDZMOXhLenVGbzM5ekJ30gG3AUFVX3lxTE1WN2tTRGx1Tnp3N0xULUdhUFBmUTJIUjA0cEJ1a1ROd09GTU1hdExMeXg4a1NTU2pFZDdpeC1ucS1HYkphRFlhWjR1aUhyel9QWTRsVDU4UXhUb3BwOExkLUVMUnlNNXdwb2M5dUVxbUZLbllqVjdDQXRnQjRUTEk2WVZrc1JHWG9oRDR1QWo4X0dnQTZGZWFtSFd2TC1SYkJ3MlN0LVBKT3NJTkZQZm9KR1U3R01XZw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T10:15:00+08:00"
-    },
-    {
-      "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T09:57:00+08:00"
-    },
-    {
-      "title": "US confirms for first time it has deployed space weapons",
-      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T09:52:02+08:00"
     }
   ]
 }
