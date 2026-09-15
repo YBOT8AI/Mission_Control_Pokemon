@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-16T05:40:05.211305+08:00",
+  "generatedAt": "2026-09-16T06:11:10.547306+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 592680.48,
-      "changePct": -4.07
+      "priceHkd": 591112.48,
+      "changePct": -4.29
     },
     "ETH": {
-      "priceHkd": 18788.32,
-      "changePct": -5.85
+      "priceHkd": 18739.87,
+      "changePct": -6.35
     },
     "SOL": {
-      "priceHkd": 758.44,
-      "changePct": -6.31
+      "priceHkd": 758.6,
+      "changePct": -6.39
     }
   },
   "stocks": {
@@ -33,30 +33,54 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1082.58,
-      "priceUsdOz": 4294.9
+      "priceHkdPerGram": 1083.06,
+      "priceUsdOz": 4296.8
     },
     "Silver": {
-      "priceHkdPerGram": 16.08,
-      "priceUsdOz": 63.8
+      "priceHkdPerGram": 16.09,
+      "priceUsdOz": 63.85
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 826.96,
-      "changePct": 4.03
+      "priceHkd": 828.06,
+      "changePct": 4.17
     },
     "Natural Gas": {
-      "priceHkd": 23.08,
-      "changePct": 1.66
+      "priceHkd": 23.06,
+      "changePct": 1.55
     }
   },
   "news": [
+    {
+      "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-16T05:54:34+08:00"
+    },
     {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T05:07:13+08:00"
+    },
+    {
+      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVSS0d4ekNlSEVvSWtYajNDcFN4SjBsZDhZU3VLdTc3eFBTV2g1ZTkweGZyaHpBRzB2Q2JaLTBxWEVGM1JYSVBWSUZyc193VXU2Q056di1CZmJ4cGZORVJ5eWZDSS1PWTRqTW1WSzBnUkVwUVRhUTZ4NnJSRjBjc3g1SU9YYWRPNkpjU2RRS1Yza1ZNWGhQNmQxSUFsMnJiRC1kRmtOamVWQlNQRjdoYmljVVpka3NLVHpLTw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:59:00+08:00"
+    },
+    {
+      "title": "Could AI really wipe out humanity – six experts spell out the risks - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:55:00+08:00"
+    },
+    {
+      "title": "Trump slams his own Supreme Court appointees over mail ballot ruling - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTBlMTcxUXl6ZFN1ZEtwSEJQMVo5cUY3aU5scVRzNlcyT0NmNlJXNTlDNHZzSlM4cjJSLTlsTW5XSWRNeEx1dHlwM1VKWGlGWkZCY3h4NVBXS1JpVVNCeUpTc2huckt6aUpjQWZoa0I1bnktUVlwb0E1Qk9HTzhDVW5Yd3VuNFpDU3ZEMC1OWlhRRGk0alM2TEZUMnExd0p6Y0FfSklzX01fd1JELUNtcUlZd29Qdw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:41:32+08:00"
     },
     {
       "title": "Ed Sheeran’s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - AP News",
@@ -71,6 +95,12 @@
       "time": "2026-09-16T04:40:09+08:00"
     },
     {
+      "title": "Microsoft announces Windows and Surface event for October 7th - The Verge",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzN3VXhubjR0WGdpc3FqZGU3b1VIMmhMZC16QjVaS1pWcE1EVW9NNVdOcDBjelVQYVZzazNOYl8yWmRPUE45aVJYYUNoYmNZSXloY1Z6VWhIakR4MmVHc0w0dHJmQmJxYXl2U3Rfc2NQYVB1eXRhdTJaRVpGR3VuaUJzNFctWFBlbWd4ZjJ4bC02aU5Kc2tN?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:36:59+08:00"
+    },
+    {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
       "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -83,16 +113,22 @@
       "time": "2026-09-16T04:34:12+08:00"
     },
     {
-      "title": "Pro sports leagues, players’ unions ask regulators to ban bettors who harass athletes - The New York Times",
+      "title": "Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks. - barrons.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVQ0SVUyMkxrN3R6RXh3MEFDN3dWQlQ2YmN6aE9RdWRmalhjMExjRGNKM1pfbzhKT1JJOVYyQ1R2RnlxMEdseGlsUGxfLXdGUFlBSkJkS0U1WVpaMlhLcTZ1ZnZTUngwS0xnY3dZY2QzeUJxYlQxNHZoM3ZjUFMzbTNzcDVrekRYRWlvcU5UVQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:10:00+08:00"
+    },
+    {
+      "title": "Hayden Panettiere likely killed by fentanyl-laced oxycodone, report says - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTZ1ZXBSWkVZOEwzQmM0OG1JWUNzSkV5MUxuR2dCd1dxSnIxWDdEMnc5M1ZjbXRXc3EzZ01Tc2hkQjd2X3lrYUFvek14a2hQdDJVRHVlanhoS0VaV0Q3b3EwaXBFcXdZSEFRNDRzUktwVmFCZl9wMUVDY1pTY3gydEpUNHZrRW9Id0pod09XUHFfVjVuS09md09wQlhkOE5qT0t4aElyOUxwM3p6UExZOW1FckU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:07:14+08:00"
+    },
+    {
+      "title": "Pro sports leagues, players’ unions ask regulators to ban bettors who harass athletes - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUNFakc1OUJ6ZUctUUhYX01rTW12cWZ5eWtQWll0MmxMUXZ1VXltaXQxYVNJdmdnT0RsY1lWMFljU3BTY01OWERRWEpKMXdrYkp4eDIwZUhuZU4zbkJWQnVrbWEzZk1iM1JwWGNjVjRodVZrT05ZT3Bwd09QeFIybDZyellTSGdOV1ZJQU42NXJ2N2plU1lhRDhQbGJiT2Fjemc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T03:58:35+08:00"
-    },
-    {
-      "title": "FBI director insists new hiring standards on prostitution and bestiality were only meant to assist sexual assault victims - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEFLZDBGX2hkYkYyYUJweWtwbVVIb21RaWllQm1UaXJhY211QmZPYWR4a0NCWkthbmNLWllHdzd5N1hMNFFDR1dURDlicW1ZZjhoVWxjVFN0OEROQ1FTTU1qTS0xQXExampsUUpsVXA5V21oQ2hLa2luTGpmNllhNi16cG5MNHVzRWthTlJB?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T03:50:00+08:00"
     },
     {
       "title": "US borrowing costs hit highest level since 2007",
@@ -101,46 +137,22 @@
       "time": "2026-09-16T03:35:10+08:00"
     },
     {
-      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdmZ6ZWVGendWVHM4dm1raHp1ckZOaGpHd2Y3SmNVYXRIUzhlMEI3b1lKNFhuTU5EMWVEc3dDb2FpTWU0SlJjSTJ1RTFmR29wdzJ4bGgtMW9xVkxtNnpoX0Z2TjNic0R4SXF5ZXZtc2RYMXktNFFGWEQtY1ZhQkpDY2pneWNKWURHRm84MFBnVF9qZmNMSktfRm1aUUZjbmk3bEh4SVdMNElkWHRlWHlRdHpwY3E4VGxSTFE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T03:30:36+08:00"
-    },
-    {
       "title": "Pennsylvania teen dies from measles complications, health officials report - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajdpY21QMGl6NDdBdHVFVzVTeG0yMF9rYnVhRGt6WkUxcmxVZmZpdDYxQ3ZDUHJiWFZNdlBIU1VEMGNnZ0V5cnVWaTVKb2JSSEFxU3BkZlF3MmJhVVVoNXRLNGdfYklWdF9hWjRiQU5hd0NEVHRBWTU4RzlfVXMtSy01VnRQWlR6aU9CcDJiSG1MRHZCSmRUdHR0alJsQ2lUXzIyVFVTNEszSTRIeWtaTHFoMVp6UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T03:13:50+08:00"
     },
     {
-      "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2N1dVd3R3lPU0ZCVUVfN1FNb3RtMzlmck5NR0w0ZEZhMFlDOE5GOGtUdWRRQVhMaGlFeUtlc1N6OGpHakw4Y3B5YlJTVmRmcTFGRUl5dDVWb1gzdFVOMmtKbFJMeV9zb3JKN1FoVHdQV3FPQXk1SWdWOS1QM3FJYUN3?oc=5",
+      "title": "Samsung Gallery is adding Google Photos backup to replace OneDrive - 9to5Google",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMmhJa1BiT2tURFJzbjhYSDhia1o3dkRKS0hudXNNeFhsb2xJMUwtTC1XYjI4RVRvSk1tWUpZSzBQLW5UcFBlSVBVcmhfTnBHaFFoQjB5QUMzeE1fM2hjeXdzdy1tRXFyd1hZZUQzdnZ5SmswVFlVRVR6WmxVNndoMlFPaGxHdw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T03:12:34+08:00"
+      "time": "2026-09-16T03:05:00+08:00"
     },
     {
       "title": "Durham water feature found as likely source of ‘brain-eating’ amoeba infection that killed teen - WRAL",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QemlFb0ZKQ0IxZkl4SjFTMHkycVlRa1RKZGhKc1JMT3U2TzBSaDZyZDltUW92a2djQnlXN0hKa25tZVZPSUFqT1VuS2lhbmJYRFpuWGd5bkY2WU5iUnZDT2o3WXJqQmgzV2FrdURJVGlwNXZ3LXJqazlWZVRkcWs?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T02:59:47+08:00"
-    },
-    {
-      "title": "Trump slams the Supreme Court for rejecting his push to restrict mail ballots - AP News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0NGR0RicUtTb0ExUGROZVNyajF2eGh6cGhqTlF4bGVGa05SMGF4anloa0pwS3FxWHhIM1NwU1dFV1VneExKeHNhcGtQdDg5UkMtSm5sRkh2M0RVWG1HOURuRzd5d3VMaUYxSzhDLWxvVFV4UTlsODRRbTBhRE5kdU55ZU96Y3g3aDZtNHJIMnBXRUM0TWJubEVOSEZqZUE5?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:55:00+08:00"
-    },
-    {
-      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVSS0d4ekNlSEVvSWtYajNDcFN4SjBsZDhZU3VLdTc3eFBTV2g1ZTkweGZyaHpBRzB2Q2JaLTBxWEVGM1JYSVBWSUZyc193VXU2Q056di1CZmJ4cGZORVJ5eWZDSS1PWTRqTW1WSzBnUkVwUVRhUTZ4NnJSRjBjc3g1SU9YYWRPNkpjU2RRS1Yza1ZNWGhQNmQxSUFsMnJiRC1kRmtOamVWQlNQRjdoYmljVVpka3NLVHpLTw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:54:00+08:00"
-    },
-    {
-      "title": "Trump’s AI ignorance is ‘truly embarrassing,’ Bernie Sanders says - Politico",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObjBwZm9lTXFoSzFpVEZyR1BxUzI3YmpZS1ppdm1aTGlKcGNwaG54cUx3TGJkR04xdVVqN2lHR2ViVDd5NWY0ZUM0SldFQ0JYU2QwUWdLVXpfUkIwNDdsMlpQbUdza29QWFZ4ejZSVTVuVHAxOEpGYlU5dy1OaTIwV21OS3Z1Y08yaGhDZjhQa3E3eHM0LXlKcDZjZHNuRGFUZ1pfUWlEZzFld00ySDhqMEphQTlkZmUyRGdXWHktT0dPUXIxX3dJ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:53:37+08:00"
     },
     {
       "title": "US borrowing costs hit highest level since 2007 as oil prices jump - BBC",
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUldScDJaMDNqNFRNc09sLVNpQ1l3VFhtQU5CQ2p2aVM1ZFUyeWh1djZIY0dkdkhkclNzYVVfZmo5N0Naa3hVMWluMnpoX3JwMnpKTExqYzFneVRBQXlKTWs2dUxlaVYwa2tHUThGam5OZkdmNlczQ1pmTkhUN0RfR0F3RkY0NFhMTm11SVpwRHNWWjNNb0p3NENMLW1DQXY1TE9VNzM5MVJzdjlnU1F0eDVGNA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T02:47:00+08:00"
-    },
-    {
-      "title": "American Incomes Hit Record Last Year as Women Gained Ground - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUHc1UFkxMmxzcl91ZzFON3lodjFhMkdHNkxWMXR0eFVxTDBmOFZVSVBwRkRndXlwR0RRLWtXVUg5Ukt3aWxfN2wyVU5xLUxEbU5WUlVBTGVQaEUtVU1sZF9JU3hydEN0Z0p3d0I0eDVBNUF4Q1dXUE9aY25WMlJtQWJrMWpOSFZfYzk4MDI1VTJEaVhOeEthaUZLMUpRbjFUUGdwUmROa0NHcmc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:41:00+08:00"
-    },
-    {
-      "title": "Alex Saab, ally of Venezuela's Maduro, pleads guilty in US corruption case - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY2JCelIxd0V5SUpxemNIWFJqbFVmTkJYTWJocmxheV9BWTNWTXhyUjBFU3NXYmRrZzE2YjdoYVo2TThXcXlMWGMtTmVsU2l3T3ZkYTB4WjJ5UFpHYU9KalFZNFpyc1pBV2p5NGdaU1VtckRDOUJQMmh6bTBwXzB4QmF5WVV6X0M4c0VlNlc1bUd2SEthVUZPaEcyeFZuZE9CTnRqRWtCOUlRUTdNUzJ4WkVBMkpBc28?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:37:39+08:00"
     }
   ]
 }
