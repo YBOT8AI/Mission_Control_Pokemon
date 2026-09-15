@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T17:14:06.488963+08:00",
+  "generatedAt": "2026-09-15T17:45:11.404617+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602927.36,
-      "changePct": -1.03
+      "priceHkd": 603201.76,
+      "changePct": -1.18
     },
     "ETH": {
-      "priceHkd": 19387.46,
-      "changePct": -1.68
+      "priceHkd": 19398.98,
+      "changePct": -1.85
     },
     "SOL": {
-      "priceHkd": 788.63,
-      "changePct": -0.8
+      "priceHkd": 789.8,
+      "changePct": -0.78
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1075.45,
-      "priceUsdOz": 4266.6
+      "priceHkdPerGram": 1076.48,
+      "priceUsdOz": 4270.7
     },
     "Silver": {
-      "priceHkdPerGram": 15.86,
-      "priceUsdOz": 62.92
+      "priceHkdPerGram": 15.9,
+      "priceUsdOz": 63.07
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 811.2,
-      "changePct": 2.05
+      "priceHkd": 816.22,
+      "changePct": 2.68
     },
     "Natural Gas": {
-      "priceHkd": 22.67,
-      "changePct": -0.17
+      "priceHkd": 22.56,
+      "changePct": -0.62
     }
   },
   "news": [
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T17:37:00+08:00"
+    },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
       "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
@@ -59,13 +65,7 @@
       "time": "2026-09-15T17:07:35+08:00"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T17:02:47+08:00"
-    },
-    {
-      "title": "State pension likely to rise by £488 a year in April",
+      "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
       "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T16:51:39+08:00"
@@ -107,7 +107,7 @@
       "time": "2026-09-15T14:43:09+08:00"
     },
     {
-      "title": "Ukraine war live: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent",
+      "title": "Ukraine-Russia war latest: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T14:38:57+08:00"
@@ -155,6 +155,12 @@
       "time": "2026-09-15T12:23:51+08:00"
     },
     {
+      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXlxc0FpWkh1Y1BLd18wNnFIVmlkandrcWZWTE5iX0VlbEZpemUxMThrYm5vSVVOZEIzNXdqRkZTSUZXRjZNTmd4NkRRbjI2OWlIMlAtYmFrallDTFN4ci0yX2FSTFNoeWd2cko4V1pMS3hRd01mT1B2X0N1WEhBS0k5VGNzcnlQNXNvTWV1U3ppRncwTWtXY1NWNWRhd0gyMzI2bFBKVVJJeml1d2QxNV9pQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T12:09:01+08:00"
+    },
+    {
       "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
       "source": "Google News Top",
@@ -165,12 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T12:04:00+08:00"
-    },
-    {
-      "title": "Aaron Judge, Yankees Clinch 2026 MLB Playoff Berth, Updated Bracket Picture and Standings - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU2ZaQloxMmFlNU80QWVVTFQzX0ZmZ3BRN2pIZk5BY3ZxTF83emhqSzg3Vjl6aFlMYWlqZjRhd1FEVjVFcFhRVnhRNmljS2JUR3pPNlluQVlCNHlJU0RmWE9OSHV5NklTY09MWWtUWDJjN1VWMDlCV3FVODVCX3A1OGpvc0FuclRxVlI4MUlUR1d5UnhYbmdsc2pmcGNxS3dvbE14Z040X1RzYk44cTE2WnVJV1JLZU1lZnhkVFB1U0d2M2JScGJiOTdWUGU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T11:51:12+08:00"
     }
   ]
 }
