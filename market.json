@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-16T06:11:10.547306+08:00",
+  "generatedAt": "2026-09-16T06:42:15.147422+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 591112.48,
-      "changePct": -4.29
+      "priceHkd": 592672.64,
+      "changePct": -3.84
     },
     "ETH": {
-      "priceHkd": 18739.87,
-      "changePct": -6.35
+      "priceHkd": 18805.26,
+      "changePct": -5.48
     },
     "SOL": {
-      "priceHkd": 758.6,
-      "changePct": -6.39
+      "priceHkd": 759.77,
+      "changePct": -5.98
     }
   },
   "stocks": {
@@ -33,30 +33,42 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1083.06,
-      "priceUsdOz": 4296.8
+      "priceHkdPerGram": 1083.18,
+      "priceUsdOz": 4297.3
     },
     "Silver": {
-      "priceHkdPerGram": 16.09,
-      "priceUsdOz": 63.85
+      "priceHkdPerGram": 16.12,
+      "priceUsdOz": 63.94
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 828.06,
-      "changePct": 4.17
+      "priceHkd": 826.02,
+      "changePct": 3.92
     },
     "Natural Gas": {
-      "priceHkd": 23.06,
-      "changePct": 1.55
+      "priceHkd": 23.09,
+      "changePct": 1.69
     }
   },
   "news": [
+    {
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-16T06:13:10+08:00"
+    },
     {
       "title": "Carney courts foreign money pitching Canada as 'safe harbour' at investment summit",
       "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T05:54:34+08:00"
+    },
+    {
+      "title": "Republican lawmaker moves to force vote on impeaching Hegseth - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWZ1ejN0VXlyTzM1SDltX2JGUDlrMl9IT0VLUHhIT3RtZTNXWTRHY0NBeFhXVTBKb2YtUWFmVEhnUHBfWWR3cHhKWER5TnpzTkpTXzV5anNXUlJpZGJjWk1NNldhWmJSdlRZNHhYaUpLVkpDMDl0QUVfTzhMUTlEOGVsbl9VdmhvT2JfOXVqZnhvSnF6VWpjd0FXejZFamhtbEFBaW52Q0pNYWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T05:40:17+08:00"
     },
     {
       "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
@@ -77,12 +89,6 @@
       "time": "2026-09-16T04:55:00+08:00"
     },
     {
-      "title": "Trump slams his own Supreme Court appointees over mail ballot ruling - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSTBlMTcxUXl6ZFN1ZEtwSEJQMVo5cUY3aU5scVRzNlcyT0NmNlJXNTlDNHZzSlM4cjJSLTlsTW5XSWRNeEx1dHlwM1VKWGlGWkZCY3h4NVBXS1JpVVNCeUpTc2huckt6aUpjQWZoa0I1bnktUVlwb0E1Qk9HTzhDVW5Yd3VuNFpDU3ZEMC1OWlhRRGk0alM2TEZUMnExd0p6Y0FfSklzX01fd1JELUNtcUlZd29Qdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T04:41:32+08:00"
-    },
-    {
       "title": "Ed Sheeran’s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - AP News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5",
       "source": "Google News Top",
@@ -101,6 +107,12 @@
       "time": "2026-09-16T04:36:59+08:00"
     },
     {
+      "title": "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I. - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRFFsUUQ5YkZTeVJCWTNfUzVzTWRKcGx6MlprWUk0dUV6R2JvZHZDNlRxbHBNQ2hvSHliUU9JNzd2Rmo2b3hHekJyVXpzQ2M2cVlIZm9pTFRVODItVlR2dno0NUVsdzllRHAxNlctby1GbXhKbnZHeEwwdWJuZw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T04:35:39+08:00"
+    },
+    {
       "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
       "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
@@ -113,22 +125,16 @@
       "time": "2026-09-16T04:34:12+08:00"
     },
     {
-      "title": "Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks. - barrons.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVQ0SVUyMkxrN3R6RXh3MEFDN3dWQlQ2YmN6aE9RdWRmalhjMExjRGNKM1pfbzhKT1JJOVYyQ1R2RnlxMEdseGlsUGxfLXdGUFlBSkJkS0U1WVpaMlhLcTZ1ZnZTUngwS0xnY3dZY2QzeUJxYlQxNHZoM3ZjUFMzbTNzcDVrekRYRWlvcU5UVQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T04:10:00+08:00"
-    },
-    {
       "title": "Hayden Panettiere likely killed by fentanyl-laced oxycodone, report says - The Seattle Times",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTZ1ZXBSWkVZOEwzQmM0OG1JWUNzSkV5MUxuR2dCd1dxSnIxWDdEMnc5M1ZjbXRXc3EzZ01Tc2hkQjd2X3lrYUFvek14a2hQdDJVRHVlanhoS0VaV0Q3b3EwaXBFcXdZSEFRNDRzUktwVmFCZl9wMUVDY1pTY3gydEpUNHZrRW9Id0pod09XUHFfVjVuS09md09wQlhkOE5qT0t4aElyOUxwM3p6UExZOW1FckU?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T04:07:14+08:00"
     },
     {
-      "title": "Pro sports leagues, players’ unions ask regulators to ban bettors who harass athletes - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWUNFakc1OUJ6ZUctUUhYX01rTW12cWZ5eWtQWll0MmxMUXZ1VXltaXQxYVNJdmdnT0RsY1lWMFljU3BTY01OWERRWEpKMXdrYkp4eDIwZUhuZU4zbkJWQnVrbWEzZk1iM1JwWGNjVjRodVZrT05ZT3Bwd09QeFIybDZyellTSGdOV1ZJQU42NXJ2N2plU1lhRDhQbGJiT2Fjemc?oc=5",
+      "title": "FBI director insists new hiring standards on prostitution and bestiality were only meant to assist sexual assault victims - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcEFLZDBGX2hkYkYyYUJweWtwbVVIb21RaWllQm1UaXJhY211QmZPYWR4a0NCWkthbmNLWllHdzd5N1hMNFFDR1dURDlicW1ZZjhoVWxjVFN0OEROQ1FTTU1qTS0xQXExampsUUpsVXA5V21oQ2hLa2luTGpmNllhNi16cG5MNHVzRWthTlJB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T03:58:35+08:00"
+      "time": "2026-09-16T03:50:00+08:00"
     },
     {
       "title": "US borrowing costs hit highest level since 2007",
@@ -137,10 +143,22 @@
       "time": "2026-09-16T03:35:10+08:00"
     },
     {
+      "title": "US borrowing costs hit highest level since 2007 as oil prices jump - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vT0dpaHljSmhLSkpiekRrbXlIZGJWZVI3QTJBNENpWFdEb0RubHR2cVRXT25rTzV5UUNQZnVrVlFONUE1YUs3dm9GdHJHUzBETmNIQnlwT0dtbXc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T03:35:10+08:00"
+    },
+    {
       "title": "Pennsylvania teen dies from measles complications, health officials report - NBC News",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajdpY21QMGl6NDdBdHVFVzVTeG0yMF9rYnVhRGt6WkUxcmxVZmZpdDYxQ3ZDUHJiWFZNdlBIU1VEMGNnZ0V5cnVWaTVKb2JSSEFxU3BkZlF3MmJhVVVoNXRLNGdfYklWdF9hWjRiQU5hd0NEVHRBWTU4RzlfVXMtSy01VnRQWlR6aU9CcDJiSG1MRHZCSmRUdHR0alJsQ2lUXzIyVFVTNEszSTRIeWtaTHFoMVp6UQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T03:13:50+08:00"
+    },
+    {
+      "title": "Senate Votes to Block Crypto Bill in Major Blow to the Industry - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2N1dVd3R3lPU0ZCVUVfN1FNb3RtMzlmck5NR0w0ZEZhMFlDOE5GOGtUdWRRQVhMaGlFeUtlc1N6OGpHakw4Y3B5YlJTVmRmcTFGRUl5dDVWb1gzdFVOMmtKbFJMeV9zb3JKN1FoVHdQV3FPQXk1SWdWOS1QM3FJYUN3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T03:12:34+08:00"
     },
     {
       "title": "Samsung Gallery is adding Google Photos backup to replace OneDrive - 9to5Google",
@@ -153,24 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QemlFb0ZKQ0IxZkl4SjFTMHkycVlRa1RKZGhKc1JMT3U2TzBSaDZyZDltUW92a2djQnlXN0hKa25tZVZPSUFqT1VuS2lhbmJYRFpuWGd5bkY2WU5iUnZDT2o3WXJqQmgzV2FrdURJVGlwNXZ3LXJqazlWZVRkcWs?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T02:59:47+08:00"
-    },
-    {
-      "title": "US borrowing costs hit highest level since 2007 as oil prices jump - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vT0dpaHljSmhLSkpiekRrbXlIZGJWZVI3QTJBNENpWFdEb0RubHR2cVRXT25rTzV5UUNQZnVrVlFONUE1YUs3dm9GdHJHUzBETmNIQnlwT0dtbXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:51:43+08:00"
-    },
-    {
-      "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
-      "link": "https://www.bbc.co.uk/news/articles/crq8j4k99w39o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-16T02:49:45+08:00"
-    },
-    {
-      "title": "Texas' Arch Manning apologizes for reaction to violent AI video - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUldScDJaMDNqNFRNc09sLVNpQ1l3VFhtQU5CQ2p2aVM1ZFUyeWh1djZIY0dkdkhkclNzYVVfZmo5N0Naa3hVMWluMnpoX3JwMnpKTExqYzFneVRBQXlKTWs2dUxlaVYwa2tHUThGam5OZkdmNlczQ1pmTkhUN0RfR0F3RkY0NFhMTm11SVpwRHNWWjNNb0p3NENMLW1DQXY1TE9VNzM5MVJzdjlnU1F0eDVGNA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:47:00+08:00"
     }
   ]
 }
