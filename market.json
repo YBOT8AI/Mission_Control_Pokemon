@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T19:49:37.506655+08:00",
+  "generatedAt": "2026-09-15T20:20:38.392033+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 602731.36,
-      "changePct": -1.16
+      "priceHkd": 603233.12,
+      "changePct": -1.2
     },
     "ETH": {
-      "priceHkd": 19401.1,
-      "changePct": -1.46
+      "priceHkd": 19440.69,
+      "changePct": -1.33
     },
     "SOL": {
-      "priceHkd": 788.63,
-      "changePct": -0.88
+      "priceHkd": 791.6,
+      "changePct": -0.64
     }
   },
   "stocks": {
@@ -33,42 +33,48 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.29,
-      "priceUsdOz": 4285.8
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     },
     "Silver": {
-      "priceHkdPerGram": 15.98,
-      "priceUsdOz": 63.39
+      "priceHkdPerGram": null,
+      "priceUsdOz": null
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 803.36,
-      "changePct": 1.07
+      "priceHkd": 802.97,
+      "changePct": 1.02
     },
     "Natural Gas": {
-      "priceHkd": 22.59,
-      "changePct": -0.52
+      "priceHkd": 22.89,
+      "changePct": 0.83
     }
   },
   "news": [
     {
+      "title": "Stock Market Today: 10-Year Yield at 5% With Dow Futures Lower — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T20:01:00+08:00"
+    },
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T19:55:36+08:00"
+    },
+    {
       "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
       "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-15T19:40:13+08:00"
+      "time": "2026-09-15T19:49:33+08:00"
     },
     {
       "title": "Denmark says Russian warship fired flares at military helicopter",
       "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T19:40:00+08:00"
-    },
-    {
-      "title": "Is Kansas really in play for Democrats? Republicans are acting like it. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzlSU1g0eXdYQWR6Uk9id1pqZFhQeWU1bWRIMklET202a2ZyTHZlWG1HYjJRYUViUjlOSzNBczZTSDh2bWJEQXF6Z1hwNHEzTUltN3Q2S0ZsLUN2X2NjQ2xLTE1pVzVQbkhlTkotdUdIR3k4eFNYWE54b0RMa0dGOXZrNFptLVRxc1JxQmtDX3BqX0xKcllCSzdueFFxMjRkMTdmWkl1VVNTYS1hUFlpeW9jdUFOUQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T19:32:49+08:00"
     },
     {
       "title": "Latest Updates: Iran war costs well over $33.4 billion, Pentagon says, as Trump signals renewed openness to talks - CBS News",
@@ -83,34 +89,64 @@
       "time": "2026-09-15T19:05:42+08:00"
     },
     {
-      "title": "NATO jets shoot down drone over Lithuania - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUzJMbFN3U0xuckdzckFpcENRMGZFSWpSRWFvamNLNFBFYl9hbmxVem1GRnBPbDlnMnQ5OXdRc3VINDE2djZrdmZLSmt6RjNkbVhzZV9xLVE3bU00TlFMLW5INk9BUmlDWXBjZ0pVUkZFaDdDcTdQUzRKdjBIQzTSAX9BVV95cUxQMnMxTEVxVzdUeV9wMUozTkI2RUQ3c2dka092cDFmeXo3dDBheHptUEdXTThkUUhjTVNlN1QwT29IZEgxYWtFYlpjallGZEYtNU04cGQ5X19ycVA5QXBzTlZ0ZHlMeWY1MEJJS0Y5Vm5YaEUtclJzbXdZbGRnNEt3?oc=5",
+      "title": "Houthis say air strikes hit Yemen after Saudi Arabia vows ‘firm’ response - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T18:50:37+08:00"
+      "time": "2026-09-15T18:39:11+08:00"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T17:59:14+08:00"
+      "title": "2026 NFL Power Rankings: How all 32 teams stack up for Week 2 - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTE44eHhqVW9xQXB6d0FUbE4zNm9oSl9BdE5vRm5HWi00TFVFTTFYdjA5M2FvN3kyYWdrSmttZ0NVUU9FVUJ4TlJiY0w3TnpDSWhBZ2FVdTk3RW1wV0RPdHpNUzI3YWxPbVprYlRWbjhrTDR6a0FHUEVPLVpNMVhmTDhBQzljMHVES25GcFJNSzA0QmJJTDFxZVhnVHZIQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T18:20:00+08:00"
     },
     {
-      "title": "Montana’s giving the biotech industry sweeping authority to sell unapproved drugs - Politico",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXJQMWF6MG5fQkI2VDQwbHgwSU5zejVoNDMtLUVObjhRbDdXOThUSTMxUGZtcEVyM3kyeVVmQkk1RGYzMkFRRTBYRV9vVmcxek4zeUxGY0FkZW1URk1FY2s1WEJYamtxNUdmX3JEb3pEeWVZak03a3dyUlItdDJNWkk2VVlhZ0tmX1V2VlloUDlocEY4amhLM0dvajlWUQ?oc=5",
+      "title": "iPhone 18 Pro Pre-Orders Off to a Muted Start, Analyst Says - macrumors.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IMmxpa0h2R0I0eTZ0WVhjOGpSZTF6VVVTLThLcExjejV6bW1DUjJKZU9idkpsY1AyRWFYWndHQ0N5UFQwOXVaTlN5dWdsZ0Z0YWRjUWN0akVzWVk2elQ5WGRaOEJiU25JMmROZDNfcGtOZEsybDExQ0pR?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T17:45:00+08:00"
+      "time": "2026-09-15T18:18:24+08:00"
     },
     {
-      "title": "Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
+      "title": "Ukraine-Russia war latest: Poland scrambles jets as Nato shoots down drone over European ally - The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T17:23:00+08:00"
+      "time": "2026-09-15T18:05:31+08:00"
+    },
+    {
+      "title": "Wall Street weighs prospect of an AI slowdown on data center buildout - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVZMNDRvQUNiZWhQc25DZVdkaVlEMHd3MkxvbGtYRWllQnpZby1hNXlwS0ptNE9XdGQzX2FHUHhuR3JDcjM0YVlaRGFrY1Z1SWZuR0FScHphNUtHSS1PYVFZN3JpNXlXbVFXMnJrNm1NM1VZR1pMUVpfdGx6b2pJNURULS1hUdIBiwFBVV95cUxQSkhJSS0yVVdKOWkxSGVKLWx1T3c3VkpPdFNaLUZpQWV6RUZBcGc5X1Ryck43dHFQVlV6eTUybDFia3dLLWdtUGdlMGNxa01lZzN4azF2eWVOdmZKQW9aaXRUMF9YTFYxT3FlN05UTDFiTmNpLWo2ODJJUmd3MS1oM04zaEpJLWMzMkNv?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T18:00:01+08:00"
+    },
+    {
+      "title": "Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02M3JnSloyUUV1dWVJcFB2Z2ZCM05zYU9saEZMUnBTcHJTZE5mMzcwSXgxYXhTVWpIVXdlQWkxMnp3cEdDSU5FeWVUZGZpaVZqOGc0Q1l6UEFhUEd4eDdyWHdhcThCdGhPRnNacjhUQXZMS0toX1NQQlM2eWhpNTg?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T17:33:13+08:00"
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
       "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T17:07:35+08:00"
+    },
+    {
+      "title": "NATO jets down drone in Lithuanian airspace - NPR",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSVppS2JCSXh5UWZoRFlmUWxNOHVBYU95YUYtSGNHdS1teUxHUVlVcTFZU2RYczhxbzRlTURZQ0YwU19rLWFsOUdQR1hHWURZX2ZKdk5QNG1fa3h6WWg4LTdnSGZla1dxZ1hGWTBnS05KSWlyNlg0ZUJlblJMUVBwOXZFYmVDaVJkTzA0RHEyNA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T17:06:30+08:00"
+    },
+    {
+      "title": "Ron Bennington Has Stage 4 Cancer. Now He’s Podcasting During Chemo - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3plWXB2Z01DRkk4Ri1VV0k1OWpVeURxdk1DMG8zNlNnNWUxQlctYy0zbG43ZnN5WGdKTEprR003bi1oQjVhWEJWOTZaRVdta2ViYU1ZR3dfMzhKNFlONWpuSUxlTklNUjlCT1pCSDczMER5bW5md094TE1WdkN1TlYtdWN2cW1UN0lKZUF3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T17:02:15+08:00"
+    },
+    {
+      "title": "For thousands of Haitians in the U.S., end of protected status brings fear, grief and defiance - NPR",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNE9ENlJVVGpncWxhQXpZV3NJRy15R2hqeDJTN2VILXB4aHVUNXIxSHNtc2EwRENtV3ZXN2Jmdm4tY05QcEZaNXdHWlBEazl6NTEyNnNGVlNYYml0aHVkdHpwcl9TalFoeWo1NkJwTXNHWTF1NDFmUHJjSF9adk5KT25FbXpJNEFBT0F6Z2ZQbEpoMGV6YW55ME9LMFpQREFvbEdUTWFvOXFxZEZpZnhCUnMtakhEZXM0UVNJU0puN21ZQ0xSdHhfLWVQQjk0NGhuTVE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T17:00:00+08:00"
     },
     {
       "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch - theverge.com",
@@ -135,42 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcjA4SXBhX3J2NkRhcVB2RUV0c3VLQWp3amhZVGNkQTZGZUFQSnM1MVlzckc0ZjRWSWNoV0swMkZvNkNDUDVyWExVblByNUcxcDliOVQ2SWlLMHY2RkNielBHUVF4LVVITEluR0RyWkpmWEFtRkx6QjFhMXFKZlJyV0pJa3E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T16:45:00+08:00"
-    },
-    {
-      "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRno0N0IyV0VYdFA5ZDBkMklNNTNJcDJMbTZlMkRjU2gwQlMtekZzOXl3SUpfMGtyRnBXNDBQenVzZFJaMUpPcVhXVzdXWElNamVDZ0RLSHZ3MXAwYkx5ekZiZF9SdFZQR29UQkFfakhBcG5zSXhfLWVyMHYyc01mT0tjVHFibVRFZWVMNw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T15:29:14+08:00"
-    },
-    {
-      "title": "What is the triple lock and how much is the state pension worth?",
-      "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T15:20:55+08:00"
-    },
-    {
-      "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T15:13:00+08:00"
-    },
-    {
-      "title": "Trump DHS whistleblower alleges workers lied to access state voter data - Axios",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13N0p1NnVjYUpsYnRLLUREQzhLQ2xWNHdhNlZSaGV2eGE1X0RnMnVSZURWS3U2Z3RWWDY0bGhUMGhuU0NFVTRzY2pqcWdiYTh0Yk84cnViQjRFWVN6VVRsUVB4aXdjbTBDUW9nS01fTzUzQzVkUEhnb2F3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T14:49:32+08:00"
-    },
-    {
-      "title": "China tightens travel restrictions for citizens",
-      "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T14:43:09+08:00"
-    },
-    {
-      "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2NMaXVfWkJZeWRRNmcwM2I5bThNcnBoR19RV21XbFBwNkphcGt4TjhuYlZ2TldzNk5lYm8xOHZ6YVR5ODB2dndweDA4ZWxKY2wwX0FyMnVocmF2RkxfTEpISHl6ck5VSlh1djVEeFp3ZGNMSDRDQU9MRmhzWlgtSVhRX1pwVXJVZnYwYmo0eDc5U0hKczhiNUNZRHUtZTRpcV92RFYzVjBxdGM?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T14:00:00+08:00"
     }
   ]
 }
