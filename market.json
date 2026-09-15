@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T19:18:27.987561+08:00",
+  "generatedAt": "2026-09-15T19:49:37.506655+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603821.12,
-      "changePct": -0.93
-    },
-    "ETH": {
-      "priceHkd": 19460.06,
+      "priceHkd": 602731.36,
       "changePct": -1.16
     },
+    "ETH": {
+      "priceHkd": 19401.1,
+      "changePct": -1.46
+    },
     "SOL": {
-      "priceHkd": 790.43,
-      "changePct": -0.78
+      "priceHkd": 788.63,
+      "changePct": -0.88
     }
   },
   "stocks": {
@@ -33,25 +33,49 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.51,
-      "priceUsdOz": 4286.7
+      "priceHkdPerGram": 1080.29,
+      "priceUsdOz": 4285.8
     },
     "Silver": {
-      "priceHkdPerGram": 15.97,
-      "priceUsdOz": 63.34
+      "priceHkdPerGram": 15.98,
+      "priceUsdOz": 63.39
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 802.19,
-      "changePct": 0.92
+      "priceHkd": 803.36,
+      "changePct": 1.07
     },
     "Natural Gas": {
-      "priceHkd": 22.66,
-      "changePct": -0.21
+      "priceHkd": 22.59,
+      "changePct": -0.52
     }
   },
   "news": [
+    {
+      "title": "Supreme Court blocks Trump's plan to restrict mail-in ballots",
+      "link": "https://www.bbc.co.uk/news/articles/c5yjpdy4gjlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T19:40:13+08:00"
+    },
+    {
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T19:40:00+08:00"
+    },
+    {
+      "title": "Is Kansas really in play for Democrats? Republicans are acting like it. - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNzlSU1g0eXdYQWR6Uk9id1pqZFhQeWU1bWRIMklET202a2ZyTHZlWG1HYjJRYUViUjlOSzNBczZTSDh2bWJEQXF6Z1hwNHEzTUltN3Q2S0ZsLUN2X2NjQ2xLTE1pVzVQbkhlTkotdUdIR3k4eFNYWE54b0RMa0dGOXZrNFptLVRxc1JxQmtDX3BqX0xKcllCSzdueFFxMjRkMTdmWkl1VVNTYS1hUFlpeW9jdUFOUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T19:32:49+08:00"
+    },
+    {
+      "title": "Latest Updates: Iran war costs well over $33.4 billion, Pentagon says, as Trump signals renewed openness to talks - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T19:16:00+08:00"
+    },
     {
       "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
       "link": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
@@ -59,10 +83,10 @@
       "time": "2026-09-15T19:05:42+08:00"
     },
     {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T18:12:49+08:00"
+      "title": "NATO jets shoot down drone over Lithuania - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUzJMbFN3U0xuckdzckFpcENRMGZFSWpSRWFvamNLNFBFYl9hbmxVem1GRnBPbDlnMnQ5OXdRc3VINDE2djZrdmZLSmt6RjNkbVhzZV9xLVE3bU00TlFMLW5INk9BUmlDWXBjZ0pVUkZFaDdDcTdQUzRKdjBIQzTSAX9BVV95cUxQMnMxTEVxVzdUeV9wMUozTkI2RUQ3c2dka092cDFmeXo3dDBheHptUEdXTThkUUhjTVNlN1QwT29IZEgxYWtFYlpjallGZEYtNU04cGQ5X19ycVA5QXBzTlZ0ZHlMeWY1MEJJS0Y5Vm5YaEUtclJzbXdZbGRnNEt3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T18:50:37+08:00"
     },
     {
       "title": "Suspected sabotage causes major Netherlands rail disruption",
@@ -71,22 +95,28 @@
       "time": "2026-09-15T17:59:14+08:00"
     },
     {
-      "title": "Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02M3JnSloyUUV1dWVJcFB2Z2ZCM05zYU9saEZMUnBTcHJTZE5mMzcwSXgxYXhTVWpIVXdlQWkxMnp3cEdDSU5FeWVUZGZpaVZqOGc0Q1l6UEFhUEd4eDdyWHdhcThCdGhPRnNacjhUQXZMS0toX1NQQlM2eWhpNTg?oc=5",
+      "title": "Montana’s giving the biotech industry sweeping authority to sell unapproved drugs - Politico",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNXJQMWF6MG5fQkI2VDQwbHgwSU5zejVoNDMtLUVObjhRbDdXOThUSTMxUGZtcEVyM3kyeVVmQkk1RGYzMkFRRTBYRV9vVmcxek4zeUxGY0FkZW1URk1FY2s1WEJYamtxNUdmX3JEb3pEeWVZak03a3dyUlItdDJNWkk2VVlhZ0tmX1V2VlloUDlocEY4amhLM0dvajlWUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T17:33:13+08:00"
+      "time": "2026-09-15T17:45:00+08:00"
     },
     {
       "title": "Stock futures slip as 10-year Treasury yield breaches 5% mark: Live updates - CNBC",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T17:18:19+08:00"
+      "time": "2026-09-15T17:23:00+08:00"
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
       "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T17:07:35+08:00"
+    },
+    {
+      "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch - theverge.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVV9DNXhVa1FBdzhsU2hlakMxby10RXY5V1I3T1Rhc1g2QTROZmk2MXE2eDYxN3FranBjUElBNUlMTGlGd3licl85Q1VtdnNRMzhSR2hydnhCS3V0enk4cFl4Mm8zeU9taHlaNDJwd3JtRDZQcWs4N0lFbDR6aFY1X1VNVG5YNVUyUmtmcXIyNEY?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T16:54:48+08:00"
     },
     {
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
@@ -107,12 +137,6 @@
       "time": "2026-09-15T16:45:00+08:00"
     },
     {
-      "title": "Ukraine-Russia war latest: Poland scrambles jets as Nato shoots down drone over European ally - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T16:15:02+08:00"
-    },
-    {
       "title": "U.S. Has Deployed Weapons in Space, Air Force Secretary Says - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRno0N0IyV0VYdFA5ZDBkMklNNTNJcDJMbTZlMkRjU2gwQlMtekZzOXl3SUpfMGtyRnBXNDBQenVzZFJaMUpPcVhXVzdXWElNamVDZ0RLSHZ3MXAwYkx5ekZiZF9SdFZQR29UQkFfakhBcG5zSXhfLWVyMHYyc01mT0tjVHFibVRFZWVMNw?oc=5",
       "source": "Google News Top",
@@ -123,6 +147,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T15:20:55+08:00"
+    },
+    {
+      "title": "Supreme Court rejects Trump mail ballot restrictions ahead of midterms - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMXZkb09iUnM3WFdTT1BXbXB1OGw1ZUlBTV9jZld2eGZiVHBvVHAzMHpTYTlURjZCUEktNnRtUjJiSUp0ZzZ6UDVHU1lXV182ZFJtRnppc1ltY1RBX2ZJUHN3WnhmNl9XRXlMM3Jtal9CRXVsQWRRaDhTWFFUdXpRQ3ZzOVRvRFFFLTB4QUhsSGpJdFZuV0RYNFlySndacGZ5MFRZ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T15:13:00+08:00"
     },
     {
       "title": "Trump DHS whistleblower alleges workers lied to access state voter data - Axios",
@@ -137,40 +167,10 @@
       "time": "2026-09-15T14:43:09+08:00"
     },
     {
-      "title": "Pentagon inspector general says $22.3B spent on Iran war munitions has caused \"strategic inventory shortfalls\" - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkMxYURTcUFqTURFSG9VdlU1MWZCOHNaRHBwRUY2cGhZbW1LeWJzb2tRakp0S2ZlUFliMmc5WlJ1RFZqWVhsVk9yTXZQc0lvZjNnTkZkLVNzM3N5eHl3OFJmVlFqazFNVlE4SXR0ZGdLX000Y0ZOVUY2UDRfbkd1OGotaU1jZ0tFczhmM3Z6d09ETms?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T14:20:00+08:00"
-    },
-    {
       "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2NMaXVfWkJZeWRRNmcwM2I5bThNcnBoR19RV21XbFBwNkphcGt4TjhuYlZ2TldzNk5lYm8xOHZ6YVR5ODB2dndweDA4ZWxKY2wwX0FyMnVocmF2RkxfTEpISHl6ck5VSlh1djVEeFp3ZGNMSDRDQU9MRmhzWlgtSVhRX1pwVXJVZnYwYmo0eDc5U0hKczhiNUNZRHUtZTRpcV92RFYzVjBxdGM?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T14:00:00+08:00"
-    },
-    {
-      "title": "Superstars and broken records: 2026 Emmy highlights",
-      "link": "https://www.bbc.co.uk/news/videos/c6j9xym8zjy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T13:14:24+08:00"
-    },
-    {
-      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T13:13:08+08:00"
-    },
-    {
-      "title": "Charities praise will gifts despite cost of living",
-      "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T13:03:47+08:00"
-    },
-    {
-      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
-      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T13:01:46+08:00"
     }
   ]
 }
