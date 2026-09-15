@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T17:45:11.404617+08:00",
+  "generatedAt": "2026-09-15T18:16:15.225067+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 603201.76,
-      "changePct": -1.18
+      "priceHkd": 603484.0,
+      "changePct": -1.33
     },
     "ETH": {
-      "priceHkd": 19398.98,
-      "changePct": -1.85
+      "priceHkd": 19404.24,
+      "changePct": -1.75
     },
     "SOL": {
-      "priceHkd": 789.8,
-      "changePct": -0.78
+      "priceHkd": 790.74,
+      "changePct": -0.91
     }
   },
   "stocks": {
@@ -33,22 +33,22 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1076.48,
-      "priceUsdOz": 4270.7
+      "priceHkdPerGram": 1077.21,
+      "priceUsdOz": 4273.6
     },
     "Silver": {
-      "priceHkdPerGram": 15.9,
-      "priceUsdOz": 63.07
+      "priceHkdPerGram": 15.94,
+      "priceUsdOz": 63.24
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 816.22,
-      "changePct": 2.68
+      "priceHkd": 812.77,
+      "changePct": 2.25
     },
     "Natural Gas": {
-      "priceHkd": 22.56,
-      "changePct": -0.62
+      "priceHkd": 22.59,
+      "changePct": -0.48
     }
   },
   "news": [
@@ -56,13 +56,19 @@
       "title": "Suspected sabotage causes major Netherlands rail disruption",
       "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
-      "time": "2026-09-15T17:37:00+08:00"
+      "time": "2026-09-15T17:59:14+08:00"
     },
     {
       "title": "Nato jets down drone that entered Lithuanian airspace",
       "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T17:07:35+08:00"
+    },
+    {
+      "title": "‘Profoundly unhelpful’: Texas Republicans worry Bo French’s xenophobic posts make a tough year worse - Politico",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdC1iUDR0MGtYV2FwNGVUbDNwT2VmOGZIOHdtU0pmVVVmckdVdGZsb0prell2YjluTDJLblNiQjdIYktqWlNmQ0p0cHdQQlZiQ1pxbGlVLVFnZi12RTRuWnJOZkl1dEJYNUlTT0lWU3lXcDhEdlRDQ1FvMVNxYnh6d0xmT2VLZFplUnh0U053WjlKTDJrWkEwcm9OTHU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T17:00:00+08:00"
     },
     {
       "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
@@ -75,6 +81,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T16:49:31+08:00"
+    },
+    {
+      "title": "These ‘alien tortoises’ are back on a Galapagos island where they had been extinct since the 19th century - CNN",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMmRfUGZJZkphbkVsd25jYlAyZmFrVnVfRUZiYXBzMndRVW01STdDd040WElTOTZxbDdyOTJNcHJOWkZaRzBLVWVyNG85TDA0aG1aOEZIaWNTeVRsQUVCdEIydnVRRVd5TTRZZm44SVhDWm1ZbjctVkx4QmlIZWJxR1lBWEU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T16:48:31+08:00"
     },
     {
       "title": "US confirms for first time it has deployed space weapons",
@@ -95,22 +107,10 @@
       "time": "2026-09-15T15:06:25+08:00"
     },
     {
-      "title": "Apparent Houthi attacks trigger alerts in 6 Saudi cities; Riyadh vows response - The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeFpZUFlRMmRvTk53Wi1CeE5Ub2pwX1BNMjNZVENnWVkwUTJoWjFBejJ0YkROLVRHZUpETTBrTnVGX1JTOURZbzhITjhuZjlzR0ROSDFXS25xbFQ4MUZza2hBTWVBVmlVam9samp4QzZ1RzBsWVUyN3J2cUduSDFCRmcta2F2bGxSVkxBVTJ5dzVnazczR0N4cHlYdXFfUEt6TDlOamJId2NyTU5P0gGyAUFVX3lxTE5kQ0YtYVQteEp3S2tjb01WVFdhcG45MEwyWGNoVmpSZWxNRUVNcVpOU21FWHAwbVNiMmFnNmdCTmMzdGd2NUZaLTQzNDdrd1RuN25KNmdIU2k4UV9XeTM5WnN4NjRGOGNJRTZUNWwtTWdfWDlXNWVwQW1GY1ltaHdkaGRlcUwyOG9teXpOMHVUSGhpVm5ZeXV3TjA3NC1oM2doajRMaFRqbk5PLUptUWRNOGc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T15:02:43+08:00"
-    },
-    {
       "title": "China tightens travel restrictions for citizens",
       "link": "https://www.bbc.co.uk/news/articles/cqe8x6gkk250o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T14:43:09+08:00"
-    },
-    {
-      "title": "Ukraine-Russia war latest: Poland scrambles jets as Putin attacks Kyiv with jet-powered drones - The Independent",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmhmakVSTFNjMldBLW5SbDE0UUprY0k3WTVRTkVYRFRWY2JvcGJGWFlWUGhmYVlEZ0l1LUFjV1NYMUpvS2dsMXYteVJ4RkNLdGFna1ZBaFlRWVJ0WkFWd1RNRUsteDJ1RWtxUF9WU1ZBLXNZelBKRHpZU19vMGdYTHlHVzFQNHc4NWxuTm1OSDZxSU9UNWxsSkJ1SGpjRnhhOXZEVlY1QUlvRmVNcE5vTDZQSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T14:38:57+08:00"
     },
     {
       "title": "Kenneth Walker III, Patrick Mahomes lead Chiefs' win vs. Broncos - ESPN",
@@ -123,6 +123,12 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nTW50Skdaa1ZiSVFYdUdDWkcyMVY0ZGpuM0htUU54NURkUjlmTmpVcEFPZzRHdXRiUFNDM1gxVnZ1enVrczUyTUoxQ1l2OXdhRW90OG5iSjdpbUFFaXNNYjlqOGx3WFRNaXh0ZjhvblNWRE0wZUlmQmFtM2c?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T13:45:00+08:00"
+    },
+    {
+      "title": "What I saw when drones targeted a train in Ukraine, with ex-CIA director aboard - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaXVSR2dRUjNuaC1MeEN2Z192ZWhKMkF5SjFHTWFsUTJ3a0dTUk45cWVlcWdHNGIyUDFWRVhPLUlLMjJiWF9KU0ZZMkM0R3FtN3RYd3FqS1ZXekg0c3dPVXdpbXBSMFpHTHJJVmUzMV9Ta04zbWI4dnpyYzdPQVZYRHo5WTFWUzFtX0w3NE56azlkZ3R5REZlVloxYVpYV0hQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T13:28:23+08:00"
     },
     {
       "title": "Superstars and broken records: 2026 Emmy highlights",
@@ -149,28 +155,22 @@
       "time": "2026-09-15T13:01:46+08:00"
     },
     {
+      "title": "NFL ties Week 1 scoring record for Super Bowl era - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JTDh2X0Z6dDNsZjFJRThLU190ZmNoWUxqMmhNRUstQl81UDdGU3BpRjg3TEZYekV6MmlDQkN6OEF5UDZRVVVXSGlpNEQ3akMtaWRpY25ud294czB1QVNlSTRXcExlSTlEc3UwS0h5d2RCOE1yUjEtbXFad3lTWm8?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T12:58:12+08:00"
+    },
+    {
       "title": "Widow's Bay Carries the Day with Six Wins at 78th Emmy Awards Telecast, The Pitt and Pluribus Follow with Two Each - Television Academy",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVzB3OXBUZTlCWXpjZmZnN0VlTEJIMGFZQ3VTbWhCNXZudkV3MGtXMkJVNmJGYk1JQ1RpWFd2XzlFMzAteC1Pd3NBa2RoNGRCQzNXS1JHdFBtQUdjNE5HOEVwVmJKMlQ4RTRFdlp2VE0wRmFpNWZTQXpaUVJDSmZ5MjBtUEpFVmdZQ05GTA?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T12:23:51+08:00"
     },
     {
-      "title": "Democrats send counteroffer to Republicans over Clarity Act provisions - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXlxc0FpWkh1Y1BLd18wNnFIVmlkandrcWZWTE5iX0VlbEZpemUxMThrYm5vSVVOZEIzNXdqRkZTSUZXRjZNTmd4NkRRbjI2OWlIMlAtYmFrallDTFN4ci0yX2FSTFNoeWd2cko4V1pMS3hRd01mT1B2X0N1WEhBS0k5VGNzcnlQNXNvTWV1U3ppRncwTWtXY1NWNWRhd0gyMzI2bFBKVVJJeml1d2QxNV9pQQ?oc=5",
+      "title": "NATO jets shoot down drone over Lithuania - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUzJMbFN3U0xuckdzckFpcENRMGZFSWpSRWFvamNLNFBFYl9hbmxVem1GRnBPbDlnMnQ5OXdRc3VINDE2djZrdmZLSmt6RjNkbVhzZV9xLVE3bU00TlFMLW5INk9BUmlDWXBjZ0pVUkZFaDdDcTdQUzRKdjBIQzTSAX9BVV95cUxQMnMxTEVxVzdUeV9wMUozTkI2RUQ3c2dka092cDFmeXo3dDBheHptUEdXTThkUUhjTVNlN1QwT29IZEgxYWtFYlpjallGZEYtNU04cGQ5X19ycVA5QXBzTlZ0ZHlMeWY1MEJJS0Y5Vm5YaEUtclJzbXdZbGRnNEt3?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T12:09:01+08:00"
-    },
-    {
-      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T12:05:00+08:00"
-    },
-    {
-      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T12:04:00+08:00"
+      "time": "2026-09-15T12:20:46+08:00"
     }
   ]
 }
