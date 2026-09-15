@@ -1,57 +1,87 @@
 {
-  "generatedAt": "2026-09-15T22:56:02.105270+08:00",
+  "generatedAt": "2026-09-15T23:27:08.789455+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 592892.16,
-      "changePct": -3.59
+      "priceHkd": 596498.56,
+      "changePct": -3.07
     },
     "ETH": {
-      "priceHkd": 18776.25,
-      "changePct": -4.38
+      "priceHkd": 18948.89,
+      "changePct": -3.47
     },
     "SOL": {
-      "priceHkd": 769.81,
-      "changePct": -3.28
+      "priceHkd": 778.36,
+      "changePct": -2.54
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5451.31,
-      "changePct": -0.57
+      "priceHkd": 5458.6,
+      "changePct": -0.44
     },
     "SPX": {
-      "priceHkd": 59393.65,
-      "changePct": -0.58
+      "priceHkd": 59471.5,
+      "changePct": -0.45
     },
     "SPCX": {
-      "priceHkd": 1135.15,
-      "changePct": -2.27
+      "priceHkd": 1138.37,
+      "changePct": -1.99
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1079.1,
-      "priceUsdOz": 4281.1
+      "priceHkdPerGram": 1080.44,
+      "priceUsdOz": 4286.4
     },
     "Silver": {
-      "priceHkdPerGram": 15.96,
-      "priceUsdOz": 63.33
+      "priceHkdPerGram": 15.95,
+      "priceUsdOz": 63.29
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 816.54,
-      "changePct": 2.72
+      "priceHkd": 821.63,
+      "changePct": 3.36
     },
     "Natural Gas": {
-      "priceHkd": 22.8,
-      "changePct": 0.41
+      "priceHkd": 22.97,
+      "changePct": 1.17
     }
   },
   "news": [
+    {
+      "title": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T23:10:00+08:00"
+    },
+    {
+      "title": "British woman abducted in Malawi, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T23:03:27+08:00"
+    },
+    {
+      "title": "Raheem Sterling admits dangerous driving on motorway before crash - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMC1kOW1nODNSOFRhM0RFSDRsSzFUTzB2bmx4RnRqbzQ3cXNES3hiajJIOWFqZTRmRmgzVjN4MUpoSkRrOWFVQmY4ODFhMzJjSXNTWUpUM3ZUZzQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:54:33+08:00"
+    },
+    {
+      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:51:00+08:00"
+    },
+    {
+      "title": "Trump lashes out at Supreme Court after mail ballot loss - Politico",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1c2eTduU0dlcFRqZmcxTnB6YlhQQnBNYUdCTmo4R2lhWkR5WHUxTDd6dmZJLTl1eWFwN2dhbEkyVzF0ZjQwb3kzcHdrVDdJdDJrU09vR2QtN19DdzJESUQ2eXF6ZTdJLWxHaGdPc1dWWk9wVXZwcmcwTl9KUWpfUU56LWFaVUVibXNTampoR0JoVEtP?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:39:00+08:00"
+    },
     {
       "title": "Ash from Mount Etna grounds flights at Sicily airport",
       "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss",
@@ -59,16 +89,10 @@
       "time": "2026-09-15T22:35:04+08:00"
     },
     {
-      "title": "Why are AI researchers warning of AI’s threat to humanity? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG5RTzFSbmtaY0RGal9jR3ZJYUZ6emc0SFpzaFNLSTZmMEhCdjZpMFdGd1pQTWFERWpfZGNyZldOWW9tb3BYQm1HYm5Wbjc2TkRXYzdFejY1T3BVSUY0Uzdxd3BEbkZnM2VaZzZuMmRNMlJGZnZZaGxHbTBQTEZJTDVfdWlicXpza1dQZ3ZGOTdWQi1lYldfaWktZG1EYk43QXJPUlhTandLMVdlbGJGdzRaRmtPM0hUQUpaVWFVdEtzX2JM?oc=5",
+      "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEtrX2ZYV1JCeGtzX2FqVGJ4ME1BUU1fRmxSMkEyYnhhWl9tRDN5SjdhUXNndU9DaVR2ZXRteEdEZG9sd3NwUGFDMDZwdWcwaUplcmpIV0w3TGcxU2V2NW1FR293VVYydU05cjUxOWZ6VFhWVmVIWHFobnN6c0VrczF2LWQ0TW4teHhxbHoxTQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T22:34:05+08:00"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls 200 Points at Open; 10-Year Treasury Yield at 5% — Live Updates - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONkd6MWRHekVmaFBjWGJOWkl6QjdJWWRiTmxJQV9FMmdXcHdXaG92QUZodkp5dUIxOTY1N1ltZ2dUNmFsOFZPWl91OTdlTkFES3dud0V6bUphaE55WlE2N0N4R0NaSEJfandkZVNzQnpvaXlRUnpCNTFreG51OWZSTzlZR3gyLUU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:25:00+08:00"
+      "time": "2026-09-15T22:30:20+08:00"
     },
     {
       "title": "What weapon could the US have put into space?",
@@ -89,16 +113,22 @@
       "time": "2026-09-15T22:21:14+08:00"
     },
     {
-      "title": "NATO jets down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "title": "Live Updates: Treasury Secretary to Testify Before House Panel - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T21:48:00+08:00"
+      "time": "2026-09-15T22:01:59+08:00"
     },
     {
-      "title": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEJNdUJJb2plSndPNmoyZ0hDQWdpSG5SZkVmeVpnRGJoVlBES3picjQ2ellYeFhEMXBad3JFQ2Zwa2I3TW45bkhJUE9tRTNkMl85OTlZcmZlMFpxa0Z2QmRFQko0bGRaZEJHR1lEWmZySjJMWHFEQXpYQ0lzblpXQTJYWFZRdm9QUWw3NWhwNUpXcUgwaV8yamJtZVBRZGF3dnF6ODRNWHA5NFhPWDZGeDhQLUF0OWNaeXFYM1ZVMUZlMEIxdl9nQlZBUUF1WmQ2bzF1US1qS1B1bjhfUUVZNk8xMDA?oc=5",
+      "title": "NFL Power Rankings, Week 2: Seahawks leapfrog Broncos and Rams into No. 1 spot; Chiefs hit top 10 - NFL.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWFB3dlQ3cEN2dnJxRkxnWlJnRFBzaUxFQ0UyMUdkMnZadDZ3anFTckpCY0Rfd2lZQ3hUTElLMm5yUkxDaDFyaHZjdGpjdWpEaDRoVVNGUTVsWVpLS2Y0d3o1VUYtOHBrdVVPM3M0aFBISXE1?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T21:43:29+08:00"
+      "time": "2026-09-15T21:52:06+08:00"
+    },
+    {
+      "title": "At the Emmys, wins from Apple and Colbert highlight TV in transition - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzBTNWJtdTBoOU9XeExVUTZWTFZ0U2NyTkdnWU1LaGdUR20xY2oydW5UYXRqQXprYXFEWVlKOFZXdjJMYUNDcjZGLUJ6d0h2ZjVaMmQyR2V5VlBTVDdlV0lBYVR2MDh2M1NPZWdPTVpQUVo2SzlIVHNlMmhYeXFkZDIxLVR1TWhYY2FVZTcxd0RYTHdaWm5pSUlOa1ItWWlDMnBkeHFXVTBaZ3J0VTVpazRKSWU5ZkVhSFE?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T21:44:47+08:00"
     },
     {
       "title": "More than 100,000 people in Japan are now aged 100 or older",
@@ -113,13 +143,7 @@
       "time": "2026-09-15T21:43:01+08:00"
     },
     {
-      "title": "Canada is a 'safe harbour' for global finance, Carney says - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EdjY2VHRJQTRJdWFUV1N4Zy1jMnRSQ29kLXFNaV93NzljRXRZYzI4MU5WUEwtMHpvVDY5b09LUlRVQkFJRjFUUnNpQTRXMVgxdTJERV9QNml0ZDQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T21:43:01+08:00"
-    },
-    {
-      "title": "Battery draining faster after updating to iOS 27? Don’t panic … - 9to5mac.com",
+      "title": "Battery draining faster after updating to iOS 27? Don’t panic … - 9to5Mac",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVE1nc1oycGxla1JiYnJWeEhVajBfQ0ZwUFFvRVJERnZWaDc1VmJnbXEyaXo2dHNoczhONXVELXBEM1FKQkFPeXJ2eWM3Q1poUGotQWxIbXpSbG9PbV9veXdDNHE1OXFmaWRqODdDR21QWldhTzV4ZWVzOWEydi1tU3pwNjhQY3prNFZpMkZ1OFR3M2F5Y1E?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T21:35:00+08:00"
@@ -131,7 +155,13 @@
       "time": "2026-09-15T21:33:16+08:00"
     },
     {
-      "title": "LA Times: Probe into Hayden Panettiere’s death focuses on whether she got drugs from a Southern California dealer - CNN",
+      "title": "Some of nurse Lucy Letby's baby killings could have been prevented, U.K judge concludes: \"Failure at all levels\" - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUE54WFQ3WW41LUZLcUY2NnR2VXVJX0hoeWNtWHBHd2VFOEJfVGpyOFFmN2oyVElSZmVYTC13SUdvRkRqWENHRW1SRjBVcWN2Nkpwa3c5Q3YwcjZCd0NaaGlhRzAydzExRDBSbU44WDFrZnZoNDJ0OU91djZ0dTY5dVRUZXJNQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T21:27:42+08:00"
+    },
+    {
+      "title": "LA Times: Probe into Hayden Panettiere’s death focuses on whether she got drugs from a Southern California dealer - cnn.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40MFloNVVjai0zV3F1VV9jUzc1ODZSdldGdkFDb21Ic0UxTnoybXkxbGhzeFY4V3NqeVJ5UGE5VHIwdVVmcmJfNEVvZFFLNEZkekN5NlRMQlNXZkpzNm5ZbGllV0lQUFUxS2RIOHBELVh3Qjd6R2dZczR4cw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T21:12:05+08:00"
@@ -141,36 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T21:05:36+08:00"
-    },
-    {
-      "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
-      "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T20:59:21+08:00"
-    },
-    {
-      "title": "UN sees some progress in Congo Ebola fight, but too early to call peak - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcl9WUGtRM3lWQzhKVWpHV2FjSVZkUXpFcUpxVGR6V3pzQjYyc2F3MG5yYlVMV2VKMG16U0MwWUVNNDhweFhNb0E2MDFRdEZyT3pPcXZXN0JjclR6YUxmZzRRWjlYZjBGVmpZUzAxN1IzdnRhZi02VlA4T3l1OWZiMFBJZzVIa3pJZVpsbW56SUZmTFM0TnNOWHlLOXpOMFFDY0gzQnRpWmxLWV9aengzY2ROSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T20:54:37+08:00"
-    },
-    {
-      "title": "Trump crypto empire looms over Senate showdown - Politico",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT19XakRmSzcyUGE2V3VyeDJ5bzVYYUZselVBaFdWem5VZU1oTWtmSThWdDdhcXB3NG5jRDAyMndjWWNTQ01nOTF2R3BmbThCWFBBbi12NGV0VzlUTnh3RXFIRWFuMF9qcERkVmd1Vkl3eFdWV20zdUptQVRLMnFVYmo3ZXByZGVZOVdPVzMyUzZ4Zk80OF95WE1adVg?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T19:56:00+08:00"
-    },
-    {
-      "title": "Russia, Ukraine Trade Aerial Strikes After Trump’s Claim of Truce - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONnRIMGFhYmg4YXlHd0dKaTI1eTJIVi1kV1pnQU43TDFPaVlEdWxMdG81d0JtM253aFZjMnR1aUlCbjZQQnBNMllsUXoxbWFqVmxva1MtaFY2RWlPTmpmOXptQ2lESGx2UjNOQ0FxU0R2SklpMC1PNVRsZHNpeEFxczhWQ0pyaERydUpsYy1jQTJGeE1QaEVIZmNIVU5Ua3lpQkZYeVZ4Snc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T19:47:00+08:00"
-    },
-    {
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T19:40:00+08:00"
     }
   ]
 }

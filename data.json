@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:56:02.024537+08:00",
+  "generatedAt": "2026-09-15T23:27:08.710505+08:00",
   "generatedBy": "generate_dashboard_data.py",
   "source": "live-local",
   "refreshIntervalSeconds": 60,
@@ -96,13 +96,13 @@
       "classification": "CONFIDENTIAL",
       "git": {
         "lastCommit": {
-          "sha": "13f628b",
-          "message": "docs: HK market research §11 — Ant Group Bright Smart SFC approval (fintech cons",
+          "sha": "a8a920a",
+          "message": "chore: update changelog for 2026-09-15",
           "author": "evilmoni",
-          "time": "2026-09-15T14:11:52+08:00"
+          "time": "2026-09-15T23:03:18+08:00"
         },
-        "commits30d": 94,
-        "totalCommits": 205,
+        "commits30d": 95,
+        "totalCommits": 206,
         "branch": "main",
         "uncommittedChanges": 0,
         "ahead": 0,
@@ -255,8 +255,8 @@
         "name": "Deployment Loop Monitor Script",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:54:23.959516+08:00",
-        "next_run": "2026-09-15T23:24:23.959516+08:00"
+        "last_run": "2026-09-15T23:24:29.106925+08:00",
+        "next_run": "2026-09-15T23:54:29.106925+08:00"
       },
       {
         "id": "539a150ac028",
@@ -273,8 +273,8 @@
         "name": "Dashboard Data Sync",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:25:05.115054+08:00",
-        "next_run": "2026-09-15T23:25:23.351607+08:00"
+        "last_run": "2026-09-15T22:56:09.712384+08:00",
+        "next_run": "2026-09-15T23:56:28.609724+08:00"
       },
       {
         "id": "c7577fea6e8a",
@@ -282,8 +282,8 @@
         "name": "Cron Error Watchdog",
         "schedule": "every 30m",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:53:23.406324+08:00",
-        "next_run": "2026-09-15T23:23:23.406324+08:00"
+        "last_run": "2026-09-15T23:23:28.537639+08:00",
+        "next_run": "2026-09-15T23:53:28.537639+08:00"
       },
       {
         "id": "e6f0dccaa749",
@@ -291,8 +291,8 @@
         "name": "Cron Auto-Retry",
         "schedule": "every 10m",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:54:23.302376+08:00",
-        "next_run": "2026-09-15T23:04:23.302376+08:00"
+        "last_run": "2026-09-15T23:24:28.439530+08:00",
+        "next_run": "2026-09-15T23:34:28.439530+08:00"
       },
       {
         "id": "bda480fda81d",
@@ -327,8 +327,8 @@
         "name": "Portfolio Uptime Monitor",
         "schedule": "every 15m",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:54:23.614013+08:00",
-        "next_run": "2026-09-15T23:09:23.614013+08:00"
+        "last_run": "2026-09-15T23:24:28.774847+08:00",
+        "next_run": "2026-09-15T23:39:28.774847+08:00"
       },
       {
         "id": "402c0e3975a1",
@@ -534,8 +534,8 @@
         "name": "Crypto Market Tracker — Hourly 24/7",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:02:13.983933+08:00",
-        "next_run": "2026-09-15T23:00:00+08:00"
+        "last_run": "2026-09-15T23:02:52.973166+08:00",
+        "next_run": "2026-09-16T00:00:00+08:00"
       },
       {
         "id": "c5da23ea2b71",
@@ -543,8 +543,8 @@
         "name": "Stock + Commodity Tracker — Market Hours",
         "schedule": "0 8,9,10,11,12,13,14,15,21,22,23,0,1,2,3 * * 1-5",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:03:56.815754+08:00",
-        "next_run": "2026-09-15T23:00:00+08:00"
+        "last_run": "2026-09-15T23:03:38.121788+08:00",
+        "next_run": "2026-09-16T00:00:00+08:00"
       },
       {
         "id": "43608f51ca73",
@@ -633,8 +633,8 @@
         "name": "Code Quality — Hourly Batch Loop",
         "schedule": "0 * * * *",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:04:16.671588+08:00",
-        "next_run": "2026-09-15T23:00:00+08:00"
+        "last_run": "2026-09-15T23:03:46.318438+08:00",
+        "next_run": "2026-09-16T00:00:00+08:00"
       },
       {
         "id": "9b8fe4e1139b",
@@ -732,8 +732,8 @@
         "name": "Changelog Generator — Daily",
         "schedule": "0 23 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-14T23:01:35.672166+08:00",
-        "next_run": "2026-09-15T23:00:00+08:00"
+        "last_run": "2026-09-15T23:03:34.661605+08:00",
+        "next_run": "2026-09-16T23:00:00+08:00"
       },
       {
         "id": "749ed8aadcd9",
@@ -750,8 +750,8 @@
         "name": "Hourly Project Focus — Work Shift",
         "schedule": "0 20,21,22,23,0,1,2,3,4,5,6,7 * * *",
         "last_status": "ok",
-        "last_run": "2026-09-15T22:01:29.585256+08:00",
-        "next_run": "2026-09-15T23:00:00+08:00"
+        "last_run": "2026-09-15T23:02:32.771118+08:00",
+        "next_run": "2026-09-16T00:00:00+08:00"
       }
     ],
     "total": 56,
@@ -776,14 +776,14 @@
     "platform": "macOS-12.7.6-x86_64-i386-64bit",
     "diskUsed": "4",
     "diskAvail": "399Gi",
-    "uptime": "16:37",
+    "uptime": "17:08",
     "cpu": {
       "loadAvg": [
-        1.62,
-        1.53,
-        1.37
+        1.69,
+        1.44,
+        1.33
       ],
-      "usage": "12.2%"
+      "usage": "12.8%"
     },
     "memory": {
       "totalGb": 16.0,
@@ -799,22 +799,22 @@
         "name": "python3"
       },
       {
-        "cpu": "3.3",
+        "cpu": "3.4",
         "mem": "0.0",
         "name": "sysmond"
       },
       {
-        "cpu": "0.9",
+        "cpu": "0.7",
         "mem": "0.0",
         "name": "notifyd"
       },
       {
-        "cpu": "0.8",
+        "cpu": "0.6",
         "mem": "0.1",
         "name": "opendirectoryd"
       },
       {
-        "cpu": "0.5",
+        "cpu": "0.4",
         "mem": "0.1",
         "name": "launchd"
       }
@@ -1462,7 +1462,7 @@
     }
   ],
   "weather": {
-    "generatedAt": "2026-09-15T22:56:01.873207+08:00",
+    "generatedAt": "2026-09-15T23:27:08.398717+08:00",
     "cities": [
       {
         "label": "Hong Kong",
@@ -1470,8 +1470,8 @@
           "temp": 25.3,
           "code": 1,
           "precip": 0.0,
-          "wind": 7.3,
-          "time": "2026-09-15T22:45"
+          "wind": 7.6,
+          "time": "2026-09-15T23:15"
         },
         "daily": [
           {
@@ -1486,7 +1486,7 @@
             "code": 51,
             "max": 28.8,
             "min": 24.3,
-            "rainPct": 3
+            "rainPct": 16
           },
           {
             "date": "2026-09-17",
@@ -1500,11 +1500,11 @@
       {
         "label": "Shenzhen",
         "current": {
-          "temp": 24.5,
-          "code": 1,
+          "temp": 24.4,
+          "code": 0,
           "precip": 0.0,
           "wind": 4.9,
-          "time": "2026-09-15T22:45"
+          "time": "2026-09-15T23:15"
         },
         "daily": [
           {
@@ -1512,14 +1512,14 @@
             "code": 81,
             "max": 31.0,
             "min": 23.4,
-            "rainPct": 100
+            "rainPct": 89
           },
           {
             "date": "2026-09-16",
             "code": 51,
             "max": 30.9,
             "min": 24.0,
-            "rainPct": 14
+            "rainPct": 20
           },
           {
             "date": "2026-09-17",
@@ -1540,19 +1540,19 @@
   },
   "activity": [
     {
-      "time": "2026-09-15T22:56:02.024390+08:00",
+      "time": "2026-09-15T23:27:08.710367+08:00",
       "type": "info",
       "text": "🔄 Dashboard data auto-generated from live sources"
     },
     {
-      "time": "2026-09-15T22:56:02.024390+08:00",
+      "time": "2026-09-15T23:27:08.710367+08:00",
       "type": "info",
       "text": "⏰ Cron: 55/56 jobs healthy"
     },
     {
-      "time": "2026-09-15T14:11:52+08:00",
+      "time": "2026-09-15T23:03:18+08:00",
       "type": "success",
-      "text": "💼 TechWealth: docs: HK market research §11 — Ant Group Bright Smart SFC approval (fintech cons",
+      "text": "💼 TechWealth: chore: update changelog for 2026-09-15",
       "project": "techwealth"
     },
     {
