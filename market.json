@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T11:01:03.851352+08:00",
+  "generatedAt": "2026-09-15T11:32:13.263560+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 610587.04,
-      "changePct": 0.39
+      "priceHkd": 610116.64,
+      "changePct": 0.12
     },
     "ETH": {
-      "priceHkd": 19692.2,
-      "changePct": 0.04
+      "priceHkd": 19614.9,
+      "changePct": -0.47
     },
     "SOL": {
-      "priceHkd": 799.52,
-      "changePct": 1.04
+      "priceHkd": 795.68,
+      "changePct": 0.46
     }
   },
   "stocks": {
@@ -33,30 +33,60 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1087.77,
-      "priceUsdOz": 4315.5
+      "priceHkdPerGram": 1086.99,
+      "priceUsdOz": 4312.4
     },
     "Silver": {
-      "priceHkdPerGram": 16.05,
-      "priceUsdOz": 63.68
+      "priceHkdPerGram": 16.04,
+      "priceUsdOz": 63.62
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 806.89,
-      "changePct": 2.87
+      "priceHkd": 806.11,
+      "changePct": 2.77
     },
     "Natural Gas": {
-      "priceHkd": 22.56,
-      "changePct": 1.62
+      "priceHkd": 22.57,
+      "changePct": 1.7
     }
   },
   "news": [
     {
-      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5",
+      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
+      "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T11:16:08+08:00"
+    },
+    {
+      "title": "Emmys 2026: Here's the list of winners - NPR",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UVUE4QU1LQnVQY3h6Z2puSHJuaHI4RVVhV1ROLTBNMlhHUUFMQ2dTbnQ5akMzRzJIQWwzQ3hjZ3lfMGFUbFpQNWlzR1JPWXVuVGtycTB2TXBNQVA0UU4wbDRudUJDS21UWjREY2J3S00?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T10:55:40+08:00"
+      "time": "2026-09-15T11:02:15+08:00"
+    },
+    {
+      "title": "Spike on 10-year bond yields renews concerns over U.S. debt - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU1rUElEWkVFZ1UyajZsc0FSVDc5M1d4VzhmSE02YWxXMkVRdzlXY0UwRTY1SGV5VU9YYUo3U1BSWGkzY0hwS0ZPZHJaWGZ4MFhSR1dBZi05MThpazlkeGZ2YzJUTE5TSEZwLVZyajBJVGtad0JpMHdYNFRiRFpFTmZHV21lNmdJZjBMNzdnRy1pVDlmeTZybXE4TlZjX044N0hzWkdPTldjQQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T11:01:00+08:00"
+    },
+    {
+      "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+      "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-15T10:50:36+08:00"
+    },
+    {
+      "title": "Chiefs vs. Broncos live updates: Scores, highlights and analysis from Arrowhead Stadium - KMBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMnZpbkFDT1pEWjBFd0JwZDhNc2hrTzZTREpLVVd4T0V4THlJV0d2Uk9rZDF4Slp2c2FrTlN5MF9aM0Q5bDVHbzllZVMzS0Q2RkhRYkZ0QXU0SjFjNnBxMG1JV1BMN0xFcG51eTI5ZlVjRHVEdFJRb0xkWVdPaTFjUmxxSTdkM3c4WHNoMm5ab0YtNjVQS2MwSlh3?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T10:43:00+08:00"
+    },
+    {
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T10:22:07+08:00"
     },
     {
       "title": "Live Updates: Supreme Court Rejects Trump’s Restrictions on Voting by Mail - The New York Times",
@@ -65,14 +95,20 @@
       "time": "2026-09-15T10:22:00+08:00"
     },
     {
-      "title": "Emmy awards 2026 live: Noah Wyle, Matthew Rhys and Jean Smart win as Widow’s Bay cleans up - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0E0blM3OUNiRVBQWXFDZDNIaV9mZ0RxZXpkSlR3NVVxZy1sbmdYWE1BdkVxY0ZPemJzX1l5R01EUG5UTGNFZkxxSHBQRDhoVk9iWW5DYWt4eDdvMjBiNzZzQ3J5UDZFMmxsc25sTERTSlVZWEFLTGlIX1RESlBkVE16SGVJd3dleHlBeXcxdDhJWDR6NUxUYWx1RjRfVWdtQUphX2UxNXRwQ2prX0pTbTZ2UnBxWUZZYTRCN05OTjZqdDViZkpuQ0tQZ3pJTGVNRGJ3OTN6Y3dENmdK?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T09:45:03+08:00"
+      "title": "US confirms for first time it has deployed space weapons",
+      "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T09:52:02+08:00"
     },
     {
       "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T09:30:00+08:00"
+    },
+    {
+      "title": "‘Sydney Sweeney, this is what women in sport look like’: female athletes lead backlash against viral advert - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGFLZjdUcU9ZOWV1ZmZOX1N4THVsSmRGSEtweFNPUHZDYlhoSGYxTkZXSDZmQUdkZmVsSFlfMjUwSGw5UTVCQ0ZlWDBFakhJRTlCWUlPdXRlaHlwT181Nzh6WmtEVWFpM2YxUHVaZy1PU0dQWEpXT3drWjZBMm1YejN0WE9pVjVOZTFBclFKTF9UMDNLbXFJQUF4ejFpWEU4Y05GXzBENTZmOGtUWkpWUFQybw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T09:30:00+08:00"
     },
@@ -89,22 +125,22 @@
       "time": "2026-09-15T09:04:43+08:00"
     },
     {
-      "title": "Broncos vs. Chiefs live updates, inactives, where to watch: Patrick Mahomes active for Week 1 after torn ACL in 2025; Bo Nix returns from ankle injury - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZjltVF9vQ0dJcFI5SHVkOVB4ajdXRXYtb19xbEgtRjhLNE9WZ29KTncyQk4zTmo4bkxOc1dxZXk1ZnFmaDh2R2UwRzB0MGR5YzRaalhMYVMyRnVFUlhqaXRnWDNub3MxeGRsdi1uQmJtYUpyRXduMm0zSE9uOWFGQWROTFowOFNvbUVQRV90TUFZZ0VSSkV4TUhuQmJQSTNmaC1PMFFUdmI1cmdNREh5LUtCUXd1QTRXNjRnanI4RDFzYmc3eUV2X25heHBmanpGZUtjR3BfSDlXMzhBUVJPcnN0NXBZejFzcUloMnpR?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T08:46:00+08:00"
-    },
-    {
       "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
       "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-15T08:32:21+08:00"
     },
     {
-      "title": "China tightens control of overseas travel in sweeping new law - Financial Times",
+      "title": "China tightens control of overseas travel in sweeping new law - ft.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T08:30:36+08:00"
+    },
+    {
+      "title": "Houthis strike Saudi targets anew as talks over Strait of Hormuz stall - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjU2YnlvRExQZkwtRGlRN2ljVC10RTVQRGI4NUhLSEladjEzeGltZlcxWXByODRyZDlyM3pvWGdSYVBIZXctNVZvQ2ZOX09PZ2ZsN0pWU216ZFUwUDRRS0RjQXV2QVpMWkVXRFJiZGRaVVZENkFMN3hmUlBSWWxWVENnWnFYVEFHMGVMeWYyX2V0b09TMU9Bb2M4ZmZDWTU2YVVpYUFFOUJCcmVTeHhtdEVla2hMbGR1UGc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T08:04:00+08:00"
     },
     {
       "title": "I got paid $5,000 to move to a place I'd never heard of",
@@ -135,42 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeDVOVkNXQ0kzZTBHSURLbl9aaDJ5TnhISEx3Vkl2MnE0SjQxVFJ1WTVpRTVOVFJ2ZGUxcTFlZ0MtZWNTS2J3TDZyOGZ5OGNkRHN6ZUg5akp5N3V6QzJ0SDdMOThZbE9WTWZnUUpXX2laMTRoNEdHcHhRUlRNSVFiYXEyRzZqODhHdVUwVzdkTUtEMUg3cmE3OGVhTW9Tdw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-15T06:50:00+08:00"
-    },
-    {
-      "title": "Mitch McConnell returns to Senate after fall that led to an extended medical absence - NPR",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BcWJzb1d1azdWNU9hQm53akx2cTZPREJGOE52dFhEMThscXBLVWRhV0JMYkloeWkyVUctMkMzd0dhTlk2NlA1bm9XcDByNmVTcHJ6eFRWcW8yUHB0RVdxZ2xXYWZROUZhYTJ1MHRwTDFiRGhJaFBrT3lkQnRhSlU?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T06:36:33+08:00"
-    },
-    {
-      "title": "Ex-Dem insider exposes what Harris told top donors days before Biden dropped out: 'Insulting' - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnRYVWk0MW5ETVNkTmY0MTF6QURnZGhyOFJKSG40OFhTV3dtRWlPaU5keFZVdUw5dWdma1RVUUFqNGh0RzFQd1RUZF9CUkhKS01COHBwUl8xX3NZQ3NnOHpSbXVSNmh0UGlyWjc2bVhlcXAyQWtMZEF2OU9ySTM2dS1RR0d6NGNxSlJoZjMwcF83b08tM3J6T0tCaVdDaTc2NEplaHZSVEhvTzZoOHR1REFTY9IBuAFBVV95cUxNWklDMDZlQzlHT3hTQVZkYVNPckJjY1ZXUlRMd1lDYVhHei1aX0JUWlVhNHZzZjhsN0phdnJRUDBmNGQ5SmJaZTdwdTRWc0ZUbjNMaWpmcFExdVRYb2tSNDdJd1hyZGhYY2dxTy11Q2l3OGpERDNhbXg0YTV1dDVkcThpNXdfdUtlNWpFaUlJaGVjYjlYNWVIVU1OakFzWG95b0QyRVhoTzdkR3lJU2hQbXBnRUpPYXNE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T06:30:42+08:00"
-    },
-    {
-      "title": "Porting Half-Life: Alyx to Steam Frame: How Valve's Engineers Went from \"There's No Way\" to Shipping Standalone - digitalfoundry.net",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYkNhaHd0amg4WmQ5SW9FNmxKM0lkT2NpUDJaRjhHRHlGY09PMHBVOW9vbC05dDNSYkJQekNsUU5JbzdKMnBfUUxMd1lSbWx0NHhjbkZveGlXS1d1dU1GZi1WTWNjZlZZc0FRZkRMZ0hKMVRvUkZiRVYzR20wdUFsS0tUME9samNjQ1NsSTZRNUFWTi1XVjFCcTBCWDFsMU1yakFmRDZ3YnA3blJzY0lqWFFma2c3MUtiQnRJcXNFRlZSRFlLaERldlpOT1Y0UXlQRVp5VnpqNV80dHVuT2c?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T06:21:24+08:00"
-    },
-    {
-      "title": "Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87 - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUQTkzVWE0V0RqYVV4SldIWldodHFSTTF4d0NyMGk2cjFsWlYzTmdsTmVENlR0aF8yUXdpekxJNkE0ZURVSndyaVAtWjFjcG0yTmNHUjdzYkkxQjhzZjBwVEdWZFpkQTR3Rm12ZUx3?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T06:06:24+08:00"
-    },
-    {
-      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
-      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T06:01:39+08:00"
-    },
-    {
-      "title": "Pennsylvania woman’s measles death shows risks to people with health problems - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZjlLZXUyVE0yQ2EyaWJDdnM2SURYb0k5QlozUE1EZkRYU1kxZFRVb2pZc3hkUV8ycHpOMlItZVBnYjBiM2JScUYwY09hVElsdmZwNTZVUmtBUl8wRndHQmd4eTY1UnVnbF9saWtSWHd3a0xPeERudGQ3SGhDdTh6SEZZUHo2TC1EMmtkYVFwV2dkb1ZQd3pUVDJHU3ltWE9rUG1SUXZWRm5iR3NG?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T05:56:00+08:00"
     }
   ]
 }
