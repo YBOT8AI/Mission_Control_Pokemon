@@ -1,68 +1,80 @@
 {
-  "generatedAt": "2026-09-16T03:04:41.720053+08:00",
+  "generatedAt": "2026-09-16T03:35:48.497933+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 594609.12,
-      "changePct": -4.13
+      "priceHkd": 594930.56,
+      "changePct": -4.08
     },
     "ETH": {
-      "priceHkd": 18807.61,
-      "changePct": -5.43
+      "priceHkd": 18826.04,
+      "changePct": -5.55
     },
     "SOL": {
-      "priceHkd": 767.14,
-      "changePct": -5.37
+      "priceHkd": 765.26,
+      "changePct": -5.45
     }
   },
   "stocks": {
     "VOO": {
-      "priceHkd": 5458.42,
-      "changePct": -0.44
+      "priceHkd": 5454.26,
+      "changePct": -0.52
     },
     "SPX": {
-      "priceHkd": 59470.24,
-      "changePct": -0.45
+      "priceHkd": 59425.63,
+      "changePct": -0.53
     },
     "SPCX": {
-      "priceHkd": 1132.17,
-      "changePct": -2.52
+      "priceHkd": 1122.22,
+      "changePct": -3.38
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1085.58,
-      "priceUsdOz": 4306.8
+      "priceHkdPerGram": 1084.04,
+      "priceUsdOz": 4300.7
     },
     "Silver": {
-      "priceHkdPerGram": 16.13,
-      "priceUsdOz": 64.0
+      "priceHkdPerGram": 16.09,
+      "priceUsdOz": 63.85
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 830.1,
-      "changePct": 4.43
+      "priceHkd": 828.22,
+      "changePct": 4.19
     },
     "Natural Gas": {
-      "priceHkd": 22.93,
-      "changePct": 1.0
+      "priceHkd": 22.94,
+      "changePct": 1.04
     }
   },
   "news": [
     {
-      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVSS0d4ekNlSEVvSWtYajNDcFN4SjBsZDhZU3VLdTc3eFBTV2g1ZTkweGZyaHpBRzB2Q2JaLTBxWEVGM1JYSVBWSUZyc193VXU2Q056di1CZmJ4cGZORVJ5eWZDSS1PWTRqTW1WSzBnUkVwUVRhUTZ4NnJSRjBjc3g1SU9YYWRPNkpjU2RRS1Yza1ZNWGhQNmQxSUFsMnJiRC1kRmtOamVWQlNQRjdoYmljVVpka3NLVHpLTw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T02:54:00+08:00"
-    },
-    {
       "title": "US borrowing costs hit highest level since 2007",
       "link": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-16T02:51:43+08:00"
+      "time": "2026-09-16T03:35:10+08:00"
+    },
+    {
+      "title": "Could AI really wipe out humanity and hijack the internet? - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T03:17:00+08:00"
+    },
+    {
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-16T03:13:44+08:00"
+    },
+    {
+      "title": "Senate cloture vote on Clarity Act fails, dealing regulatory blow to crypto industry - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWHlxRVoyWTYzdm5JR1RRX1dtbnJpd0NqekRvV293dEZZRFIzbFR0UDE2NFNoakVYUTFkLUt1cUh5U0lEMV9GU01ja3RWamh0YUxvT193UC1OTHVMdEFLU3NRbHd1bE1WOXM2TDRSMDZRZlRMbndHMFROdG1pU3BKVXh5bU9lTUZsT3Z3QzFXS1YtX2ZJX0hvekc4ZXZoS0pnSktWQXFaMWRGdGVnQUMzV1J0ekdPRE93R3hIbDZVNGPSAcYBQVVfeXFMTkQ1bG9ub28xMVllbVBoenVJc1E5ZkNhdVBGNEp5alNIQWJMVXBkMFZZNHpUX193WFh6cHNibTQ5VWl0US0tVEUxN0pfU0tXNUJ2ajhRU3RLVlBEUTNVanNuZDVicXZCQWN0bzIzTzBjMzl5ZG1DaGxISENxYVp3aGdjN2dPaTJ5WW03NGFDWmF2ckdzV3RZejZGQ0VmdTdsLVRNQzRCemNHdENhc3FtbmNrcXlTb253eHpaWFFockk2SXJabG1R?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T03:05:38+08:00"
     },
     {
       "title": "Nigeria arrests alleged Mexican drug kingpin at international airport",
@@ -71,10 +83,10 @@
       "time": "2026-09-16T02:49:45+08:00"
     },
     {
-      "title": "Bernie Sanders and Steve Bannon to share a stage to promote curbs on AI - NPR",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYVlUeG1kd3c0LWItU2VsWlBxaEVTX1RZN3cwUHZmdmJOMmNxYklsbnpVSkVUMVFmTHhyenhHU0JfWGdyU0tKQ2hQZUlDNkNETkZaWXBLaUhKaFBzMnlIcW5pQ3NrOUhQUVZTYmRnZVhkSERUQXRMZU9tdUtQSkFWcDlIc3RiYmZKb2djcDhkU1RiWFVpX2d2NmdxRnhJc0VvbHNibllTTzFrQmpkQVd2RnFWTWFSbVk?oc=5",
+      "title": "Texas' Arch Manning apologizes for reaction to violent AI video - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUldScDJaMDNqNFRNc09sLVNpQ1l3VFhtQU5CQ2p2aVM1ZFUyeWh1djZIY0dkdkhkclNzYVVfZmo5N0Naa3hVMWluMnpoX3JwMnpKTExqYzFneVRBQXlKTWs2dUxlaVYwa2tHUThGam5OZkdmNlczQ1pmTkhUN0RfR0F3RkY0NFhMTm11SVpwRHNWWjNNb0p3NENMLW1DQXY1TE9VNzM5MVJzdjlnU1F0eDVGNA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T02:39:25+08:00"
+      "time": "2026-09-16T02:47:00+08:00"
     },
     {
       "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years - Yahoo Finance",
@@ -89,10 +101,10 @@
       "time": "2026-09-16T02:18:20+08:00"
     },
     {
-      "title": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEJNdUJJb2plSndPNmoyZ0hDQWdpSG5SZkVmeVpnRGJoVlBES3picjQ2ellYeFhEMXBad3JFQ2Zwa2I3TW45bkhJUE9tRTNkMl85OTlZcmZlMFpxa0Z2QmRFQko0bGRaZEJHR1lEWmZySjJMWHFEQXpYQ0lzblpXQTJYWFZRdm9QUWw3NWhwNUpXcUgwaV8yamJtZVBRZGF3dnF6ODRNWHA5NFhPWDZGeDhQLUF0OWNaeXFYM1ZVMUZlMEIxdl9nQlZBUUF1WmQ2bzF1US1qS1B1bjhfUUVZNk8xMDA?oc=5",
+      "title": "Kash Patel defends FBI hiring policy on applicants who have engaged in bestiality - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOG8xVEhsMDVRV0IzRUNLMEVuTG1fVjczMTBieWhuZjNac2VyMV9LcDkyRnp4NHNiU1psd2IzR3hXWmtzU0EtV25UVHk5cDc1ZXd4NWVLQXYxUjV3TFZqR1JSVl9rSU5TTXhUSDNlSU9aSS1ZWmQyd252MGZWVjNXRzlNbjRFQ01udExhbGJJVGc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T02:13:54+08:00"
+      "time": "2026-09-16T02:17:22+08:00"
     },
     {
       "title": "South African president vows justice as more women's bodies found near Johannesburg",
@@ -107,10 +119,10 @@
       "time": "2026-09-16T02:00:00+08:00"
     },
     {
-      "title": "Could AI really wipe out humanity and hijack the internet? - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
+      "title": "Capitol agenda: Trump’s AI demands jam Republicans - Politico",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeW1ocmw3cUlLQzhMbGZaLUlVbEFENGkwRzlXdy0wVFhKZ0V1VlFjVHRBSWpuUlRFVWVWSGx2VWxZNmN4T216SjBhOGFnZEFkLXpKak82ZUl5QW9heGhzanRkVmJfOVBZRF82cW44V1c5YU83UExqUzkxXzFUMTVyYTFyeWxaMlhWcFA2RkNB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T01:56:00+08:00"
+      "time": "2026-09-16T01:58:48+08:00"
     },
     {
       "title": "Canada is a 'safe harbour' for global finance, Carney says",
@@ -123,6 +135,12 @@
       "link": "https://www.bbc.co.uk/news/articles/c60qx40xnkedo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T01:44:45+08:00"
+    },
+    {
+      "title": "Maduro Ally Is Expected to Plead Guilty in Federal Money Laundering Case - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb1NWckZiNXpCMGVIcW9rZVNXTFJ4RUhHZGpBSW9XZ2d5b1g0dk12SG9wQUZtN0dqVlNHQkFXQzJKYkp2MVBZOEVnQ1RPbW5RVHZxd3JkUXlBeWJObk1sVkxsd2N3Y3JyRmNQVDB3TmU1eHRMNUxabTdsOU9EeXg1SnM0XzF2OXJy?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T01:43:00+08:00"
     },
     {
       "title": "Prosecutors won't seek the death penalty for Nick Reiner - NPR",
@@ -143,12 +161,6 @@
       "time": "2026-09-16T01:35:02+08:00"
     },
     {
-      "title": "Arch Manning criticized for laughing at AI video of coach slapping reporter - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUUVhSnZhQ2xQVDY5WHdDOVhycWV3V1VjSHNpNjViV0J6NzlOYlFDYmNUem1UaUdXYmVfeVdXUG5BWmhGWHhEbHcyTGhDWEtBakJVRWdnVm9KMXFmdE5mNVNUOTF2STdNS1NoeDRhTWNKTkZta0ZpSzVCT2F2cHZEdU9rM1pxd0Y4c21GbWNOTXI2NkwwamZiR2tOLU0ybkR3WkN4dExnNERxZ095dFVhMTRSamExdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T01:32:26+08:00"
-    },
-    {
       "title": "Your iPhone may die faster this week: Here’s why - The Hill",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdkt4T3VCUTM4NV9jeUhTcFY5TndnRTl0Z2p0c0l1VnZsRlVmN3VhV0NGcmxSTUt4ZWVaMm9xSXB0ZER5THNnUVdKSTZMMHN4dWRSSEN4SjdvQ1A1Q0c3aUdZX0E0RU4zQ0Uyb0c3TTl0dkV3MVk0LTBUbUhjeDFwb3pBSEsxeENBTm1EaHpQdWdndU5TVHIxMtIBngFBVV95cUxQc1BtY3F5QVRraWZYMmR0WEdPcjRMd1h3VmJMamp4ZS02UnhLMG1mY0VpbFVxZDRLU3hneUV0TC1TdFplX2wzdUtUUDctTVdNTi1aeWFxcEZNN0NLZFpTUXBteUpySkx3MTVIY25qOWxQWi1Jcm1BbkgyUzRhWHdsZjRkZ0dfbkRBY1BzSHdTTE1CbGhnMUtELXZiOFJ4Zw?oc=5",
       "source": "Google News Top",
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWFmNGp4eTI2cngwUzhvUVZVdTVxOXZZX1VLMjNzcWFQeGRNM3pSODVlQVRlb3ZYblpSaHNQcDV5NjNBS2NlSktFbnAwRXNFMm9IUFN6Qjhabm84Ti1zX0pLMmhBVUNHckMyUFJYanBSa2sxOFU4MUc3X21pZ1ZKNk9iV0J5XzJSRm9CanhtazIzNnNHN2ZYWW9LSlU0blFk?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T01:07:00+08:00"
-    },
-    {
-      "title": "FBI Director Kash Patel pushed on lower hiring standards at FBI, Olympic celebration and Trump-ordered investigations - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSnNWdVZzME9BUk5SLU5CZkU1V1NMV2xPdVA3NWxQUWphSGIwRDNSTVZYeGVfbFN3RjdLdzNoTXh6VmlrbG5TNFVicEpXUWdmYkJDamMyZXZPZXI3ZTVfSm9PN196a2VZb1JUbG9GdENPNGlDcEtIRGlfVkNKa21QeEJsNzdOeFlncXc?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T01:01:00+08:00"
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-16T00:55:04+08:00"
     }
   ]
 }
