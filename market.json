@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-15T13:05:27.003153+08:00",
+  "generatedAt": "2026-09-15T13:36:33.484515+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 608266.4,
-      "changePct": -0.0
+      "priceHkd": 607129.6,
+      "changePct": -0.08
     },
     "ETH": {
-      "priceHkd": 19537.91,
-      "changePct": -0.82
+      "priceHkd": 19506.7,
+      "changePct": -0.89
     },
     "SOL": {
-      "priceHkd": 793.96,
-      "changePct": 0.19
+      "priceHkd": 790.66,
+      "changePct": -0.15
     }
   },
   "stocks": {
@@ -33,25 +33,31 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1084.85,
-      "priceUsdOz": 4303.9
+      "priceHkdPerGram": 1082.4,
+      "priceUsdOz": 4294.2
     },
     "Silver": {
-      "priceHkdPerGram": 15.98,
-      "priceUsdOz": 63.41
+      "priceHkdPerGram": 15.93,
+      "priceUsdOz": 63.2
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 809.17,
-      "changePct": 1.8
+      "priceHkd": 809.87,
+      "changePct": 1.88
     },
     "Natural Gas": {
-      "priceHkd": 22.59,
-      "changePct": -0.48
+      "priceHkd": 22.61,
+      "changePct": -0.41
     }
   },
   "news": [
+    {
+      "title": "Pubs, hotels and gyms in Wales to get 30% business rates cut",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9w87ejqn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-15T13:13:08+08:00"
+    },
     {
       "title": "Charities praise will gifts despite cost of living",
       "link": "https://www.bbc.co.uk/news/articles/cj9xerk9v2po?at_medium=RSS&at_campaign=rss",
@@ -59,10 +65,16 @@
       "time": "2026-09-15T13:03:47+08:00"
     },
     {
-      "title": "Emmy awards 2026: The Pitt and Widow’s Bay take home major awards – as it happened - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQa0E0blM3OUNiRVBQWXFDZDNIaV9mZ0RxZXpkSlR3NVVxZy1sbmdYWE1BdkVxY0ZPemJzX1l5R01EUG5UTGNFZkxxSHBQRDhoVk9iWW5DYWt4eDdvMjBiNzZzQ3J5UDZFMmxsc25sTERTSlVZWEFLTGlIX1RESlBkVE16SGVJd3dleHlBeXcxdDhJWDR6NUxUYWx1RjRfVWdtQUphX2UxNXRwQ2prX0pTbTZ2UnBxWUZZYTRCN05OTjZqdDViZkpuQ0tQZ3pJTGVNRGJ3OTN6Y3dENmdK?oc=5",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-15T13:01:46+08:00"
+    },
+    {
+      "title": "Oil climbs as Saudi pipeline outage, fresh attacks heighten supply concerns - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZNVlpqdGZqMGlsa1lSR2IyWU0tbmd2R1ZkY2o5VDNlb0VsMEdhbWlZVzJBLXJ0WU9MTm13WnN2R0M0Slg4TzFkb1VSYVRxQXE5ejQ5eTNRbGcxdUVSNTFKYlk2WmxYbkdPMTJIUEZJRVdBUmFKVHVCamlsUzB2NFJLbkNGbkJFSjR3TTlhNF9vT2g4MXk0MjlzOHhVaWNGX3U3RGlUS0JzekpCb0VBbU8zMGdUbFpIaGlCVHlwcEtoR0U?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T12:19:01+08:00"
+      "time": "2026-09-15T12:25:54+08:00"
     },
     {
       "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
@@ -73,7 +85,7 @@
     {
       "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
       "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "source": "BBC World",
       "time": "2026-09-15T11:47:27+08:00"
     },
     {
@@ -101,9 +113,21 @@
       "time": "2026-09-15T11:01:00+08:00"
     },
     {
+      "title": "Emmy Winners: ‘Widow’s Bay’ Dominates With 14 Wins, ‘The Pitt’ and ‘DTF St. Louis’ Tie With 7 Awards - Variety",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QU1k2RnZfaWJVWlA4SG5uZnFzb2tnRkV3Qm5GQWNCei1lRXNGb3h4YVJBLVFGeHNyNW5YaFduUEFZcmRTVjNwUlZER0hscnRoMVc1cGRMZlFMUFB1b1JLbVNSR3hFQ0pOd3BnUm5Ja29RR1V0MXZLaVgyWWQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T10:57:00+08:00"
+    },
+    {
+      "title": "Emmys 2026 red carpet in pictures: Zendaya, Colman Domingo and Selena Gomez lead stars at awards ceremony - bbc.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZRU9OY3NPblQycEwxQXppNlNzNW93cld1RHRCdGNndlFnSjJwUjk1dnhwZTRUY3BWOVllOWdJUWxNZGFObUJTTkU0UDFsQVpzZXZXMG5YbkEtVWc?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T10:56:19+08:00"
+    },
+    {
       "title": "AI regulation faces political deadlock as calls grow for Congress to act",
       "link": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
+      "source": "BBC World",
       "time": "2026-09-15T10:50:36+08:00"
     },
     {
@@ -111,12 +135,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T10:22:07+08:00"
-    },
-    {
-      "title": "Everything We’re Obsessing Over on the 2026 Emmys Red Carpet - The Cut",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wQzU5am5FY3FPWFpDWWhMS0g4c0JhWkxMV0hNUW9HWWt2d2FoNjNVTl9ZTVN6OUZWZG42UldsU193SEpxS1pmcTd4R29UY0FWNFV5SUt4Zm02bDNyTGpyOUdtUUpkS3I0M0taWnUwdGZzdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T10:17:00+08:00"
     },
     {
       "title": "Trump calls Nvidia CEO Jensen Huang during summit, dismisses AI fears as 'hoax' - Fox Business",
@@ -129,12 +147,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T09:52:02+08:00"
-    },
-    {
-      "title": "Saudi pipeline hit by drones will be out of service for weeks, further restricting oil flow - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTlTdWlFZF9mNl9uX3pCWHd0QXVWb0dEaXlGaXhLa3l4ek9PbWFhRG02VXJDMW1BT3FxUkp3MzZtdEd2ZHQ4cUswbkpfX1ZnVkxuQ3pValFrY1BTRHlyZjdaLXJqTW1VcXhzajBuSUFIbXdxamdqOTcxeFp2MERjcU9lQWVXaHhETnJweXZRdWp6UWNHQUxjdWc2NA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T09:30:00+08:00"
     },
     {
       "title": "‘Sydney Sweeney, this is what women in sport look like’: female athletes lead backlash against viral advert - The Guardian",
@@ -155,22 +167,10 @@
       "time": "2026-09-15T09:15:15+08:00"
     },
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-15T08:32:21+08:00"
-    },
-    {
-      "title": "China tightens control of overseas travel in sweeping new law - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT3IwZkFWRTQ1VGlDOTNUMTZRa1hqZzV6ME1JdjFLY2pzRlBodXZ1TEE2Q2VYWnotb1Q1bWRNeEFDOVV5cDRJSk90T3VYekpmV3RVWmVFcVVidmQ5elh6Y3RoUkVJZVJLQW1wQjBQWUVBakhIdUtaZndIamtHc0hMaVl3Mzg?oc=5",
+      "title": "Houthis seize 2 strategic Red Sea islands, and other Mideast developments - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTVVOUtmY054UGF0NGRfUC1CQXlDSnZ1MjFudGh0Um1YZjJ5ZEg5MFIxaENub2dVeXl3TjEycUJrekk5clFUSFRwY1NZQ3F3WnExOEtxLVRZdWI4XzJTSnk5eGJOMFhJRUxmMS0tUVV6bmhfcy1zektLY1U3SGNNakpaa29LX3YxNVpBSWppLVZGYzBzXzdjdmRKTUlZdkJ0elBRREtB?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T08:28:53+08:00"
-    },
-    {
-      "title": "Donald Trump Jr. acknowledges Russian oligarch with ties to Putin hosted his lavish island wedding celebration - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdzZXS0RtTW1TTzRDdEVDLWc2WWx5NFNfZVFpdzRHVlhtT1N2UmtjdWhDUDZUQVFKNml5aGRqZm1pek5MZGNMLUplQWpyV3U1eG1IenlNSVpNazNEZTlTc0dZOFNudUgyZWRYQTZCa2NWZlU5aUxFWGtYbFJyWEk1U20yaVBaRERlOWsxZzZWVmI4QVFaS1cxdlhPdm9uYnIycjNZZU1jd2dUUFZXNHppRkNLdkhYcHpEUkJqYTgzUU1nNzFqQTBF?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T08:07:00+08:00"
+      "time": "2026-09-15T08:42:00+08:00"
     }
   ]
 }
