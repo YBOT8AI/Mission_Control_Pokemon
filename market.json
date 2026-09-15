@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-16T00:29:17.609232+08:00",
+  "generatedAt": "2026-09-16T01:00:26.975636+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 599062.24,
-      "changePct": -2.84
+      "priceHkd": 598928.96,
+      "changePct": -3.01
     },
     "ETH": {
-      "priceHkd": 18984.17,
-      "changePct": -3.93
+      "priceHkd": 18990.6,
+      "changePct": -4.21
     },
     "SOL": {
-      "priceHkd": 777.65,
-      "changePct": -3.17
+      "priceHkd": 777.34,
+      "changePct": -3.33
     }
   },
   "stocks": {
@@ -23,46 +23,70 @@
       "changePct": -0.4
     },
     "SPX": {
-      "priceHkd": 59494.0,
+      "priceHkd": 59495.41,
       "changePct": -0.41
     },
     "SPCX": {
-      "priceHkd": 1129.86,
-      "changePct": -2.72
+      "priceHkd": 1128.61,
+      "changePct": -2.83
     }
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1083.08,
-      "priceUsdOz": 4296.9
+      "priceHkdPerGram": 1083.01,
+      "priceUsdOz": 4296.6
     },
     "Silver": {
-      "priceHkdPerGram": 16.02,
-      "priceUsdOz": 63.55
+      "priceHkdPerGram": 16.03,
+      "priceUsdOz": 63.58
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 827.43,
-      "changePct": 4.09
+      "priceHkd": 830.96,
+      "changePct": 4.54
     },
     "Natural Gas": {
-      "priceHkd": 22.82,
-      "changePct": 0.52
+      "priceHkd": 22.8,
+      "changePct": 0.41
     }
   },
   "news": [
+    {
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "time": "2026-09-16T00:55:04+08:00"
+    },
+    {
+      "title": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T00:44:47+08:00"
+    },
+    {
+      "title": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEJNdUJJb2plSndPNmoyZ0hDQWdpSG5SZkVmeVpnRGJoVlBES3picjQ2ellYeFhEMXBad3JFQ2Zwa2I3TW45bkhJUE9tRTNkMl85OTlZcmZlMFpxa0Z2QmRFQko0bGRaZEJHR1lEWmZySjJMWHFEQXpYQ0lzblpXQTJYWFZRdm9QUWw3NWhwNUpXcUgwaV8yamJtZVBRZGF3dnF6ODRNWHA5NFhPWDZGeDhQLUF0OWNaeXFYM1ZVMUZlMEIxdl9nQlZBUUF1WmQ2bzF1US1qS1B1bjhfUUVZNk8xMDA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T00:41:01+08:00"
+    },
+    {
+      "title": "Federal Reserve is expected to raise its benchmark rate, defying Trump’s demands - AP News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcEg4dFhUa0hYYzZsdXJhRTVFZ09rQUl5ems3Z0JuTE8zdlZJb3Z4bC1QUjZ3d0MzZG1KazlSenRUT20wSGFCMm9ya3AzQjJQeFBVZXB1enM4SDd5akRpNmgwT3RuOXRhSWZvVDYtZ3BOdkx1OWVkWmRCd292c1ItVDVVcmZKV1VPMWtjSU9IVF8tWEpUYm1pRnJacE1JbE5DbHJLbQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T00:32:00+08:00"
+    },
+    {
+      "title": "Judge blocks Kennedy Center board from putting Trump's name on plaza, building - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jX1FadGFiRGZiODdlWkUwTG5GT1JwRVNYMFc2dXNITHZaNDhGTnJQcFZEak1LR1czVTlldkxjZExjd3FLV3ZnWm44NWl5dmxWS0J2bkM2MW9wa0dzemtaWnJESVBKaDE5X3M1SG91a29uSzJqN3lJR9IBfkFVX3lxTFByWUtmVll1a0plNG5EeTFWZXB5UXZZQjR2MmdGNWdNd1NFNXZvaE1yYU01MUpGckZ3NDdUVTFvaGZTdmdKNE96eHNYZ2twa0VBWDNNRVloOGFiQmRSc21QMi1EQ0dCaGoyLWNxaHlNNzNKbThPN20xSFdyVGQ0QQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T00:16:01+08:00"
+    },
     {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T00:13:41+08:00"
-    },
-    {
-      "title": "Republicans pour cold water on Democratic crypto bill counteroffer - Politico",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOUN3dHdWb2I4Wmx5NllzQWUtUXJ6UXBxZnpPSy1WVGdRUldTZlFPZ2ZmS0JrWVdrWmc0NldpclV3WXllLTVodlczVV9vMHhWWHNmRkUwbjJKQUZuTG5vS3BBYmlPV2pjd1VUd05sV2s1THd6TmJfdDF0bnRCbi1PWXVsMmtvV00tUDBOWFh4MVl5N3JYRlFxM1hlY00weDNSX1FsRkNsWU9QMHhIRXhmcEZtNnFleTFZcFpjVFpTMWVfTFlVMFRya1FaY0x0Zw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T00:02:46+08:00"
     },
     {
       "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
@@ -71,10 +95,10 @@
       "time": "2026-09-16T00:01:54+08:00"
     },
     {
-      "title": "Live Updates: Treasury Secretary Bessent Testifies Before House Panel on Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zZ0VnYjg4YUhxZFdOTmMweVpuZGNta2tmR200bUQ2WXI0VEtwVi10bG5lX2toWnpzU29YLUJ1RGFjVjUwTXlJdi1Sb2F5amY5V0piYWM0R3RWSlYxOHFXU1AwNWFjUVVQU0lGMzhCLUEzUQ?oc=5",
+      "title": "Global bond yields hit fresh highs, raising stakes for big borrowers - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T23:55:24+08:00"
+      "time": "2026-09-15T23:52:59+08:00"
     },
     {
       "title": "FBI Director Kash Patel testifies before Senate panel as Democrats blast his record, FBI touts crime stats - CBS News",
@@ -89,10 +113,16 @@
       "time": "2026-09-15T23:31:34+08:00"
     },
     {
-      "title": "2026 Emmy Awards winners and highlights: 'Widow's Bay,' Matthew Rhys and Jean Smart make history - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcEJNdUJJb2plSndPNmoyZ0hDQWdpSG5SZkVmeVpnRGJoVlBES3picjQ2ellYeFhEMXBad3JFQ2Zwa2I3TW45bkhJUE9tRTNkMl85OTlZcmZlMFpxa0Z2QmRFQko0bGRaZEJHR1lEWmZySjJMWHFEQXpYQ0lzblpXQTJYWFZRdm9QUWw3NWhwNUpXcUgwaV8yamJtZVBRZGF3dnF6ODRNWHA5NFhPWDZGeDhQLUF0OWNaeXFYM1ZVMUZlMEIxdl9nQlZBUUF1WmQ2bzF1US1qS1B1bjhfUUVZNk8xMDA?oc=5",
+      "title": "Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVQ0SVUyMkxrN3R6RXh3MEFDN3dWQlQ2YmN6aE9RdWRmalhjMExjRGNKM1pfbzhKT1JJOVYyQ1R2RnlxMEdseGlsUGxfLXdGUFlBSkJkS0U1WVpaMlhLcTZ1ZnZTUngwS0xnY3dZY2QzeUJxYlQxNHZoM3ZjUFMzbTNzcDVrekRYRWlvcU5UVQ?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T23:25:00+08:00"
+      "time": "2026-09-15T23:29:00+08:00"
+    },
+    {
+      "title": "Nick Reiner will not face death penalty in killings of his parents, prosecutor says - CNN",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE44alc3THNtQzUwNFMzenh4VUYzaktrYmNpM1c1UXRjZ1JwOHV1VzAzMm5lNUZmWjFteW1OTVRUa09qeFd4TVREMmpibW5JVHh0SFlfWk9oSWtoYmlESm5EZEVKSlpXeXpqLUNPaDZCZUxCR2c?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T23:24:29+08:00"
     },
     {
       "title": "Ed Sheeran addresses Macklemore’s tour exit amid Robert Kraft boycott claims - NBC News",
@@ -113,28 +143,16 @@
       "time": "2026-09-15T22:57:04+08:00"
     },
     {
-      "title": "Raheem Sterling admits dangerous driving on motorway before crash - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqMC1kOW1nODNSOFRhM0RFSDRsSzFUTzB2bmx4RnRqbzQ3cXNES3hiajJIOWFqZTRmRmgzVjN4MUpoSkRrOWFVQmY4ODFhMzJjSXNTWUpUM3ZUZzQ?oc=5",
+      "title": "Spanish scientists find first signs of Diplodocus in Europe - dw.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdnB6MDJuNThGNm1ELUE0ckxETzZfRVBrNk9PM2NHMjFMX25MMUpxejJaLVNwcXplR3ZEU0Nra3JrUG16VWZnN0pFOHBFSzhaQjVxbGdtb2NMRUFSTEloVXhzcXBmLXJKRDFsaXBrYU1WajkwR0drUnVUWEpaRG5mSmVsbEwzQzh3YzhDLUV4SFByNzBHVnZiempRZk4wUnF5LU5NLUFnTdIBpwFBVV95cUxPY0YxNzFta0VDaE1rX3YxNG1CTExZVks5eFR2cnVWMmhtdkszbWc3TjNfV05SWnkzTzV0bkVwaGg2NlpneUlXV3lXNkJRMWJ2eVU0R0JvVkJqTTl6TWNCSk1fbVd2ZDZNS0xoSkhoaV8zNmNzVExFZW9uSG5BUjFMYktZNXZxY1VRTGVjaDNoYmh5d0NDNXREeWhQX0VkV2UzcHY1c0FDaw?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T22:54:33+08:00"
+      "time": "2026-09-15T22:49:06+08:00"
     },
     {
-      "title": "NATO jets shoot down drone over Lithuania and Russian ship fires flares at Danish helicopter - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTG9fSlBNMF83anJ5cU1odGllV2JVS3BENUxkaTZrSlo5MF9HLW5KaTF0UWxnM2REYWRSX21NaklvVGMxVER2aTJBZ3BuRmNzdGg4STFTOVhpQ1VCMjMycUl0elRnaHlmSEJzRXFKSTljSDE2YWxzajZEY1dxdWUxalppNktfVXNfMFc5cGRaeTJOclVobDJFS3FuMzRQOGNyN3JTQXdDeFJOQQ?oc=5",
+      "title": "Saudi Arabia promises to respond to Houthi attacks ‘firmly’ - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdC1ocFpNc3FkSkVheVZMQy1QdmtEbXhBS2JrNENyT3RPSk1KS2F3M1RCaUtxanZockZEZlZ4bS13cGhXckFXOS1EUC1YR2lXanp0WnJ2N0oybU54R2lZTTBkWDVVdFdoOVppNk1FX1lpZzE3MEpiQlR2LVBJaV83NGZBRG43V1JLeFl1ak9IM3RNdDhFNGZZTmw4SXpZRUVjeDdXMUpxcGFLaGxrR05IZmJqNGjSAboBQVVfeXFMTUcyLTU3b09ZREl1bHFJWllRSWRUb1lHTzBhOXltcE05Q3dXZ01fZWRNd2xGM3kyYXhnRy1FY09XSUtaSmpkMjRqMnc4X0FuZ2JxNFhPVUlFdW9iMzRfeTE3RjR3c1E4NUVwSnV0RFFCekNGc2NXVzJ6TDlHYjhXRHRGdjFDazhTMXQtNXFNNmc5amtkN2o0aVZwdmdnUTctTVh6YUNobzE0cTQtd0E5cld5ckZPalRncXZn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-15T22:51:00+08:00"
-    },
-    {
-      "title": "Iranian strikes have damaged hundreds of structures at U.S. bases, watchdog says - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:49:49+08:00"
-    },
-    {
-      "title": "Trump lashes out at Supreme Court after mail ballot loss - Politico",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1c2eTduU0dlcFRqZmcxTnB6YlhQQnBNYUdCTmo4R2lhWkR5WHUxTDd6dmZJLTl1eWFwN2dhbEkyVzF0ZjQwb3kzcHdrVDdJdDJrU09vR2QtN19DdzJESUQ2eXF6ZTdJLWxHaGdPc1dWWk9wVXZwcmcwTl9KUWpfUU56LWFaVUVibXNTampoR0JoVEtP?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:39:00+08:00"
+      "time": "2026-09-15T22:36:48+08:00"
     },
     {
       "title": "Ash from Mount Etna grounds flights at Sicily airport",
@@ -143,34 +161,16 @@
       "time": "2026-09-15T22:35:04+08:00"
     },
     {
+      "title": "Ukraine and Russia Say There Is No Energy Truce, Despite Trump’s Claims - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTEtrX2ZYV1JCeGtzX2FqVGJ4ME1BUU1fRmxSMkEyYnhhWl9tRDN5SjdhUXNndU9DaVR2ZXRteEdEZG9sd3NwUGFDMDZwdWcwaUplcmpIV0w3TGcxU2V2NW1FR293VVYydU05cjUxOWZ6VFhWVmVIWHFobnN6c0VrczF2LWQ0TW4teHhxbHoxTQ?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-15T22:30:20+08:00"
+    },
+    {
       "title": "What weapon could the US have put into space?",
       "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-15T22:23:14+08:00"
-    },
-    {
-      "title": "Satellite image reveals major damage that shut crucial oil pipeline",
-      "link": "https://www.bbc.co.uk/news/articles/c65yw2gq2nrno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-15T22:21:14+08:00"
-    },
-    {
-      "title": "Musk Wants a Self-Growing Moon City in 10 Years. Here’s When the Water Runs Out - Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMU83a2ZZaTl5WGszSllQUXhPZnZlNUpSLWd0R2pXdXE5WTRMUEFNaGVKd3VIUEozaXpiX3BDd3RESlJUMDFZS1h3c3lBUEpuQWVoMmhZbWhhQmFYUGgtdm9haHFFbXppQTBpcEZQTk8tM1RLRFdpd0Q5R2ZhOC1rakJfeE9heWIyTjFvSTFDV1ZOR19YdFdtZEVYc3V4M3ZySzlDTzlOV2VkR0lh?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:15:58+08:00"
-    },
-    {
-      "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGRlbk82OXdLUFd0VkdUTlZBRzZvS19hQzVHaHB3RmJRMkI3YTI1U1c1TDVQQU94dWdLYk9KR0tSVTI2eUZOY21kMjVTUkgtWm9yMWxYdnMtMkw2enRTVXdsczVuc1BtUnJpYTA3Z0hUcjB1eTlkSVdLdjEzNXZUVVNXN1FfcUN4SVFVS0VlU0ljZWVvRnhsZjk4b001ZGZkYW5VQmJSdjN2clE?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T22:03:18+08:00"
-    },
-    {
-      "title": "NFL Power Rankings, Week 2: Seahawks leapfrog Broncos and Rams into No. 1 spot; Chiefs hit top 10 - NFL.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIWFB3dlQ3cEN2dnJxRkxnWlJnRFBzaUxFQ0UyMUdkMnZadDZ3anFTckpCY0Rfd2lZQ3hUTElLMm5yUkxDaDFyaHZjdGpjdWpEaDRoVVNGUTVsWVpLS2Y0d3o1VUYtOHBrdVVPM3M0aFBISXE1?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-15T21:52:06+08:00"
     }
   ]
 }
