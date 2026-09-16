@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-16T08:47:38.577321+08:00",
+  "generatedAt": "2026-09-16T09:18:41.465716+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 593989.76,
-      "changePct": -2.83
+      "priceHkd": 593542.88,
+      "changePct": -2.78
     },
     "ETH": {
-      "priceHkd": 18832.62,
-      "changePct": -4.45
+      "priceHkd": 18806.44,
+      "changePct": -4.56
     },
     "SOL": {
-      "priceHkd": 761.42,
-      "changePct": -5.25
+      "priceHkd": 760.32,
+      "changePct": -5.29
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.16,
-      "priceUsdOz": 4285.3
+      "priceHkdPerGram": 1080.61,
+      "priceUsdOz": 4287.1
     },
     "Silver": {
-      "priceHkdPerGram": 16.08,
-      "priceUsdOz": 63.81
+      "priceHkdPerGram": 16.12,
+      "priceUsdOz": 63.95
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 822.89,
-      "changePct": 3.52
+      "priceHkd": 823.44,
+      "changePct": 3.59
     },
     "Natural Gas": {
       "priceHkd": 23.01,
@@ -53,10 +53,22 @@
   },
   "news": [
     {
+      "title": "Senate fails to advance crypto bill, dooming the effort this Congress - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T09:10:59+08:00"
+    },
+    {
       "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
       "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
-      "time": "2026-09-16T08:13:09+08:00"
+      "time": "2026-09-16T08:59:20+08:00"
+    },
+    {
+      "title": "Pentagon Inspector General Details U.S. Losses and Challenges in Iran War - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnNCQmRnaWpmUXJsSTBYSFhuMm1XWldQMjBKVHgxSW0zQ3R4MHJfYUkxbklibVl1UVZwYWY4OU5SN2tYNjFKNDJiQUFhRGhlN3BRamhwQUdNS05vYVc1SFdwaklHa3FOT21QdjJJelhsZTc4NDVpNmxnZUVFTVpuSFZkTjdibklQRjlVN0VhZUo?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T08:33:33+08:00"
     },
     {
       "title": "UK in talks about joining global defence bank led by Canada",
@@ -65,7 +77,7 @@
       "time": "2026-09-16T07:50:55+08:00"
     },
     {
-      "title": "Common antibiotic linked to higher risk of death in adults, major study finds - foxnews.com",
+      "title": "Common antibiotic linked to higher risk of death in adults, major study finds - Fox News",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWGFSY204MlZPUGc4c0FoT2c1bUV5Q3RoNFBKQ1ZNNnA2dUNaRDdqMm5KTEtCTVhidEh6RGVWNndFU2s3aGtsVkVUY29ZLUxOTlplV3RFZzctdUJtVGFtNDdxcEpIN3ZwZzBMcFkxRlpBQk0wR25ZZk1oOWgxWUJXN2xGZjVyeW8tREpVQmhxb1RaRVdrTGF6aWFySVMxbjDSAaQBQVVfeXFMTlUxcFlwYlBleERFUnBaRTIzdHYwRzY1ellwY1kzblZmemFObW9RckdzN3JmbnJpclh2X2xaSGhJQjlNdkdEbjIzb250SGotUlpna3ZTQ2RxU19kUlV0X19lbGlNRlo5anpIS2FLNy1mLTlqLUFlYlYyaHBuMG9uOHBmTVJOUHNvUUpONFN6c3BTTmNCRUZMQUFVaVU5d3EycTZlanc?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T07:47:30+08:00"
@@ -75,12 +87,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeHVPaEZmclozVGxtVzlVZnZfUnJvUjN1ZGhhR05CR0VlaXlFWmtmQjRMcTR4OGlfQXJQN002QXQ3TTQ5ZzBZbjY4S0dlVG1OVnFxaXgzZ3pxd0JCdzFndkl4LUtza3RlMVNPWkZXYktFWmxTVUxKMUhObnAwQ3J0a25PUGxHOUlrdW1QWUxXdGQtamxHQlNNbkVlWnpvdDdDOGxWTQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T07:47:07+08:00"
-    },
-    {
-      "title": "Senate fails to advance crypto bill, dooming the effort this Congress - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T07:40:59+08:00"
     },
     {
       "title": "Ed Sheeran’s Tour Openers, Backing Band Resign After Macklemore Removal - Pitchfork",
@@ -95,16 +101,16 @@
       "time": "2026-09-16T07:39:55+08:00"
     },
     {
+      "title": "Maduro ally pleads guilty in $195m money laundering case in US court - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oUUV6alJ3bXUtMVZKeHJoTzBPRXkzRzBYRXJHc2tNY21RWmxSYWJfTFhaUFF2emJoRW53U09qaTJzcjNFNm1pUE5sbFlSZFJ2eHZ1bXg2SnlWMVk?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T07:33:19+08:00"
+    },
+    {
       "title": "AI app ads promoting 'objectification of women' banned by watchdog",
       "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-16T07:27:17+08:00"
-    },
-    {
-      "title": "NFL Week 2 power rankings: Rams, Chargers slide as 49ers, Bears and Giants surge - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQV9HcUxTcVhzQVZiZ0NMNTFtQVMxN3NSSWtLeW5idUxOSTFCd0hnVHFnUFpGTFM4Rm9Lc08wZ0hNU1JwRFd3cHh1TWFyUVJnWDRFSmxJcUNyVkloamZnWUF2bHVrc0FDdmVFQW5GNURkM3BXbjR4N0ZnODdjUmhtUC1NZG5CUV9YUnhhNWo5cFFFckhHTGpnd0ZDY1kwQVFmdm82Ry1PdmJVS0I2?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T07:22:27+08:00"
     },
     {
       "title": "The extreme engineering of aircraft windows",
@@ -123,6 +129,12 @@
       "link": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-16T07:14:08+08:00"
+    },
+    {
+      "title": "Wall Street ends lower as oil spikes and the benchmark Treasury yield breaches 5% - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1BPdzlzdEkxaTg2MURwV0psdFNmbUZ0ZnZreDZEZkFfT0JXSGUxcU9lZ0JGc09LMkRZYTMxYVNwU2hVYjdfcnl1UzhnS0M5eHF1bVdwWFh2Rmp6SmlZMUo2MjlaODdFRHBBVGQ2OHVtcjBQVTFIekZjdkdKbkh5dVhTRUVtOEE1cjRwM21UVXNlV25LUzhiMFNEeWd4a3hGMExiczlZNC1pN2tpQmhPTFJn?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T06:49:50+08:00"
     },
     {
       "title": "Kash Patel defends FBI’s new policy on bestiality at Senate hearing - NBC News",
@@ -159,18 +171,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUNrczdZUlgtYm9zSzc2MXZjUVVYeGZTSk5YRWtnR2dON0R4YWxlbnFneDRMaHc1VmZrMjFTSjlVTUF2TDNGODlZdEpGZklvaUZXNDQyNjVoTWJlTlEtY3U4ZXFLdTlfQV9rWGJSSldnbWgyUllmNTk3NWVSdnRzcGRXVnZnbGUzWUJ0SGpFX1E0QQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T06:02:00+08:00"
-    },
-    {
-      "title": "House committee recommends Leon Black be held in contempt of Congress over Epstein inquiry subpoenas - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQURHSWlSMXdVekxSeUlZaENBU0haS2JkYm4yQnQ0NUJrWTlQT0ZhdnFHcTcyR0tkdGVUSnJkLXlYTUNfVFg5eTBUXzVnMVF1aW9ISDBqeWM3c3dFOUdaQVgtUjlic1I1ZVRBTXpxWVNkUlZ1NVBnTkZlZTBya0dmelFUWmFQQlctV0haQWluOA?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T05:51:00+08:00"
-    },
-    {
-      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-16T05:07:13+08:00"
     }
   ]
 }
