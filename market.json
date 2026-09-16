@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-16T07:44:38.262557+08:00",
+  "generatedAt": "2026-09-16T08:15:45.658007+08:00",
   "fx": {
     "usdHkd": 7.84
   },
   "crypto": {
     "BTC": {
-      "priceHkd": 592868.64,
-      "changePct": -3.45
+      "priceHkd": 593440.96,
+      "changePct": -3.1
     },
     "ETH": {
-      "priceHkd": 18810.9,
-      "changePct": -4.79
+      "priceHkd": 18826.82,
+      "changePct": -4.44
     },
     "SOL": {
-      "priceHkd": 760.4,
-      "changePct": -5.55
+      "priceHkd": 760.24,
+      "changePct": -5.43
     }
   },
   "stocks": {
@@ -33,18 +33,18 @@
   },
   "metals": {
     "Gold": {
-      "priceHkdPerGram": 1080.24,
-      "priceUsdOz": 4285.6
+      "priceHkdPerGram": 1079.76,
+      "priceUsdOz": 4283.7
     },
     "Silver": {
       "priceHkdPerGram": 16.09,
-      "priceUsdOz": 63.85
+      "priceUsdOz": 63.82
     }
   },
   "commodities": {
     "Crude Oil": {
-      "priceHkd": 826.73,
-      "changePct": 4.0
+      "priceHkd": 825.16,
+      "changePct": 3.81
     },
     "Natural Gas": {
       "priceHkd": 23.08,
@@ -53,16 +53,46 @@
   },
   "news": [
     {
+      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-16T08:13:09+08:00"
+    },
+    {
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-16T07:50:55+08:00"
+    },
+    {
       "title": "Senate fails to advance crypto bill, dooming the effort this Congress - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUExRNEhHS01sNnAwQjhlWnhwWEVCZXZ1QllvRWdUaWdxSFZGYk5QV0I3aEZyNUc5cUowN1p4SmE1eEVPWDRTN19FQmpuS2JZeFJROXlKUkk2VHM2a21VM0cxajhWdWRoOEpHU19xaWU3NkYxZW5RQzY1TWk3amdQRDQ4bU9FVnZVR01PVE9fanhsckkzeXExRS1ydWs2Rkl4LTlacHZybllOOGo4VTZlQzUtaw?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T07:40:59+08:00"
     },
     {
+      "title": "Ed Sheeran’s Tour Openers, Backing Band Resign After Macklemore Removal - Pitchfork",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXpvQmc0eHQ4VGt2M1dET2VrMEdJOHA5YjNaS3VYcnhzZW9WN2gydHBUSzg2dG92X0VuZDBUenUtdDVXQzlDXzVWclJKSG8xVjFELUdZWm1UcWNWbEJoT3NJblAtSnFONmJMbVNvNWkxdG9ZcTFzU0ZIX3VBMGRsWVZHdEZSNElFbVM3QnFEM21uRjZTQXhuR3NJX18?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T07:40:48+08:00"
+    },
+    {
+      "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+      "link": "https://www.bbc.co.uk/news/articles/cv986j48l66ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "time": "2026-09-16T07:39:55+08:00"
+    },
+    {
       "title": "AI app ads promoting 'objectification of women' banned by watchdog",
       "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "time": "2026-09-16T07:27:17+08:00"
+    },
+    {
+      "title": "NFL Week 2 power rankings: Rams, Chargers slide as 49ers, Bears and Giants surge - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQV9HcUxTcVhzQVZiZ0NMNTFtQVMxN3NSSWtLeW5idUxOSTFCd0hnVHFnUFpGTFM4Rm9Lc08wZ0hNU1JwRFd3cHh1TWFyUVJnWDRFSmxJcUNyVkloamZnWUF2bHVrc0FDdmVFQW5GNURkM3BXbjR4N0ZnODdjUmhtUC1NZG5CUV9YUnhhNWo5cFFFckhHTGpnd0ZDY1kwQVFmdm82Ry1PdmJVS0I2?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T07:22:27+08:00"
     },
     {
       "title": "The extreme engineering of aircraft windows",
@@ -95,31 +125,25 @@
       "time": "2026-09-16T06:39:42+08:00"
     },
     {
-      "title": "Ed Sheeran’s tour in trouble after opening acts drop out in solidarity with rapper Macklemore - AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc0VZLU5QYjdHVUd4UW5OQUNTV1V3YlQ1YkMyTG1ldExKVktqcEtpX0JLbzk3bFVfdVpvTlI5UGhDMEstbWFOVlFZbVQ2WWgyaTR6THFob1NaLV91ZW1jZllqNmRvVzg2bmMxWFgzMlFZUTFtblFiYjR1UzNMbTJVX0NQY0F2dHBOYV95VlZ5ZDJKTWFrRVVEUmpTYw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T06:33:00+08:00"
-    },
-    {
-      "title": "The Roman telescope has enough gas for 22 years, double NASA’s expectations - Ars Technica",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA’s expectations - arstechnica.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2I3dlNWUUZzZlk3aHJ3V2dpT3JzX1QwMGtad3J2MU93dlhRQjg0WVpGTEl0UzhmREVHSy1EWlhsRUZHTUZ0MVdYU3RqZGxncFVIZUxjRGxtVVVvMUdqcUxyY0JjbDZmQVRBREYwaVpRb1NxUzVqVGRDRF9XNlVJMVNTRktncUhmWGtTbm1ZLVN6Q2IxZHpaV0dlbzFVbVFKRVVnMDVvVEMwcmZ4S1BSRExB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T06:26:32+08:00"
     },
     {
-      "title": "House panel votes to hold Epstein associate Leon Black in contempt - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOd2R2MHdBQTRBektXWkoydU91NWJCWHZuOWtKbUFPZGJ0Zy12QXNMNF9vU0hUV0QxQWFCY1F5M3ptVGdtX0NDNVl2Mk9Rb2hpWFNvaU8wa3hpbm9rbU55cnQxSl96a2VIbEM4eGlfYk5uczhWM2JldGdKQ0lMMk1Cc0ZLaF9IU2lKSWpDekFZNnJzcjRtaE9RcjlsYXBVYjVMNS1jV0xIX1ZBQ3A0OXZHTmczUVptS3RPejh1dHNPREg?oc=5",
+      "title": "Election watchers brace for Trump’s next move after Supreme Court ruling - Politico",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWE0aGMxZ2xBWkFMMHQycUhuVFcyTV9nbzdDcFhOdm5ub3ItaUlQNXRvdTVDNEdPWi1RSkhRV0RCcmhrbk9FNE5tS1daZ0dJYll4cmlka2czMjBYUnJ5eFd4dEVMNm5FTEFCaTRxbDVuRkQ0WkNOV0NTUC1ZQVJRaXh5Tjl6VFhIdHIxcXdfbkhYay1WQXE1b1dn?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T06:25:00+08:00"
+      "time": "2026-09-16T06:20:00+08:00"
     },
     {
-      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "time": "2026-09-16T06:13:10+08:00"
+      "title": "Amanda Seyfried and Thomas Sadoski break up after 9 years of marriage - Page Six",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPXzNyNnozakVkUFg5S0pubTlVbklSU3NpUWxIV0dwbzNhQjBDZTRzZlNUcnVQQVpxYm9mdkV2U19zVnhfaU91SHRRMEloQ0hOUXp0RHhhdGlTajJIZHhOWFBpTU1TSGlZb2FWM1lneVJqNmdEalljV1dwdnJjV3JPS2dLZ0htOGpaWng3LUlranR3S0tjTHVFZERPeUdUMlE2OUxLODkyZTh4b21iTTNQT0V1OA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T06:14:00+08:00"
     },
     {
-      "title": "Donald Trump Jr.’s Wedding Scandal Is Even More Ridiculous When You Remember What Tiffany Trump Tried at Hers - Slate",
+      "title": "Donald Trump Jr.’s Wedding Scandal Is Even More Ridiculous When You Remember What Tiffany Trump Tried at Hers - Slate Magazine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRUNrczdZUlgtYm9zSzc2MXZjUVVYeGZTSk5YRWtnR2dON0R4YWxlbnFneDRMaHc1VmZrMjFTSjlVTUF2TDNGODlZdEpGZklvaUZXNDQyNjVoTWJlTlEtY3U4ZXFLdTlfQV9rWGJSSldnbWgyUllmNTk3NWVSdnRzcGRXVnZnbGUzWUJ0SGpFX1E0QQ?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T06:02:00+08:00"
@@ -128,10 +152,16 @@
       "title": "Republican lawmaker moves to force vote on impeaching Hegseth - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWZ1ejN0VXlyTzM1SDltX2JGUDlrMl9IT0VLUHhIT3RtZTNXWTRHY0NBeFhXVTBKb2YtUWFmVEhnUHBfWWR3cHhKWER5TnpzTkpTXzV5anNXUlJpZGJjWk1NNldhWmJSdlRZNHhYaUpLVkpDMDl0QUVfTzhMUTlEOGVsbl9VdmhvT2JfOXVqZnhvSnF6VWpjd0FXejZFamhtbEFBaW52Q0pNYWc?oc=5",
       "source": "Google News Top",
-      "time": "2026-09-16T05:40:17+08:00"
+      "time": "2026-09-16T05:56:59+08:00"
     },
     {
-      "title": "Latest Updates: Iran war costs well over $33.4 billion, Pentagon says, as Trump signals renewed openness to talks - CBS News",
+      "title": "House committee recommends Leon Black be held in contempt of Congress over Epstein inquiry subpoenas - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQURHSWlSMXdVekxSeUlZaENBU0haS2JkYm4yQnQ0NUJrWTlQT0ZhdnFHcTcyR0tkdGVUSnJkLXlYTUNfVFg5eTBUXzVnMVF1aW9ISDBqeWM3c3dFOUdaQVgtUjlic1I1ZVRBTXpxWVNkUlZ1NVBnTkZlZTBya0dmelFUWmFQQlctV0haQWluOA?oc=5",
+      "source": "Google News Top",
+      "time": "2026-09-16T05:51:00+08:00"
+    },
+    {
+      "title": "Iran War Updates: White House backs Hegseth amid impeachment effort as new details come out about war's cost - CBS News",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMXp0eWtpUmdlTkZzTzBhcTRLYkpaSE1vWEFIY09xR3JjcFhYRVhoMlVjcmJYVWdROU9WZENBNEt5NXVncjBmaXA4R1FVRExBOGNVSlVxV0FZYzl1Q3RnNGVrdEpncWFqNVZBQ2gzZnYwbF9Sa1g2Z2R4Y2Q1RHpVbTNB?oc=5",
       "source": "Google News Top",
       "time": "2026-09-16T05:30:00+08:00"
@@ -141,36 +171,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "time": "2026-09-16T05:07:13+08:00"
-    },
-    {
-      "title": "Houthis threaten more Saudi strikes as UN warns of humanitarian crisis in Yemen - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSmVSS0d4ekNlSEVvSWtYajNDcFN4SjBsZDhZU3VLdTc3eFBTV2g1ZTkweGZyaHpBRzB2Q2JaLTBxWEVGM1JYSVBWSUZyc193VXU2Q056di1CZmJ4cGZORVJ5eWZDSS1PWTRqTW1WSzBnUkVwUVRhUTZ4NnJSRjBjc3g1SU9YYWRPNkpjU2RRS1Yza1ZNWGhQNmQxSUFsMnJiRC1kRmtOamVWQlNQRjdoYmljVVpka3NLVHpLTw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T04:59:00+08:00"
-    },
-    {
-      "title": "Could AI really wipe out humanity – six experts spell out the risks - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa3puUXRFSE5YY01MaFJkQkNjYXh3QkJKMWVUdUJmcHNaeHRxWm5Nd3AwZzRwVTMxa2Iya1ZyX0ozV0hoNEtyVjJzWnFoN1dKZ2JRaDl6Nk54ZmNwQlZFRmE4MVZWSGx5R0F5bUZqczJPSDhSd19OZXhTbHNoek5XRGVuUVN0MHVCdV82VUhNZmQzcmNralltaEpvUnZ6NmNhVldqaVFtdXZENWc5?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T04:55:00+08:00"
-    },
-    {
-      "title": "Trump’s handpicked Kennedy Center board votes to immediately close venue for renovations - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSUs4cW5ObUl6MlVlTWNkNElRVGNQaVFrNU5pYUZJOGJBMEpYaVFEbmtnTk9OVDZRNGlUNF9fams2QzIxWUdOU3JlUE1wNTFFbFJWUlZyODByYm1lU2FjLWN2d3ZzU3lnUXBvcU9LMDFtcDdjYjZqTGwycGZzb18yc3E4UUtEY3hsX3ltM3A4d05ERmRycVMwamFheXB2dzNxX0d3LTJyLVg2dmtHbVc2TzRKWXF3cVVZc2VrRDkyN0pmR3M2cWZWZGtXMWVEdw?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T04:40:09+08:00"
-    },
-    {
-      "title": "Microsoft announces Windows and Surface event for October 7th - The Verge",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbzN3VXhubjR0WGdpc3FqZGU3b1VIMmhMZC16QjVaS1pWcE1EVW9NNVdOcDBjelVQYVZzazNOYl8yWmRPUE45aVJYYUNoYmNZSXloY1Z6VWhIakR4MmVHc0w0dHJmQmJxYXl2U3Rfc2NQYVB1eXRhdTJaRVpGR3VuaUJzNFctWFBlbWd4ZjJ4bC02aU5Kc2tN?oc=5",
-      "source": "Google News Top",
-      "time": "2026-09-16T04:36:59+08:00"
-    },
-    {
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "time": "2026-09-16T04:34:12+08:00"
     }
   ]
 }
